@@ -1,0 +1,934 @@
+[
+  {
+    "country": "Afghanistan",
+    "cities": ["Kabul", "Kandahar", "Mazar-e-Sharif", "Herat", "Jalalabad"]
+  },
+  {
+    "country": "Albania",
+    "cities": ["Tirana", "Durrës", "Vlorë", "Shkodër", "Elbasan"]
+  },
+  {
+    "country": "Algeria",
+    "cities": ["Algiers", "Oran", "Constantine", "Annaba", "Batna"]
+  },
+  {
+    "country": "Andorra",
+    "cities": ["Andorra la Vella", "Escaldes-Engordany"]
+  },
+  {
+    "country": "Angola",
+    "cities": ["Luanda", "Huambo", "Lobito", "Benguela", "Kuito"]
+  },
+  { "country": "Antigua and Barbuda", "cities": ["Saint John's"] },
+  {
+    "country": "Argentina",
+    "cities": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza", "La Plata"]
+  },
+  {
+    "country": "Armenia",
+    "cities": ["Yerevan", "Gyumri", "Vanadzor", "Ejmiatsin", "Hrazdan"]
+  },
+  {
+    "country": "Australia",
+    "cities": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide"]
+  },
+  {
+    "country": "Austria",
+    "cities": ["Vienna", "Graz", "Linz", "Salzburg", "Innsbruck"]
+  },
+  {
+    "country": "Azerbaijan",
+    "cities": ["Baku", "Ganja", "Mingachevir", "Sumqayit", "Yevlakh"]
+  },
+  { "country": "Bahamas", "cities": ["Nassau"] },
+  {
+    "country": "Bahrain",
+    "cities": ["Manama", "Riffa", "Muharraq", "Hamad Town", "A'ali"]
+  },
+  {
+    "country": "Bangladesh",
+    "cities": ["Dhaka", "Chittagong", "Khulna", "Gazipur", "Narayanganj"]
+  },
+  { "country": "Barbados", "cities": ["Bridgetown"] },
+  {
+    "country": "Belarus",
+    "cities": ["Minsk", "Gomel", "Mogilev", "Vitebsk", "Hrodna"]
+  },
+  {
+    "country": "Belgium",
+    "cities": ["Brussels", "Antwerp", "Ghent", "Charleroi", "Liège"]
+  },
+  {
+    "country": "Belize",
+    "cities": [
+      "Belmopan",
+      "Belize City",
+      "San Ignacio",
+      "Orange Walk",
+      "Dangriga"
+    ]
+  },
+  {
+    "country": "Benin",
+    "cities": ["Porto-Novo", "Cotonou", "Abomey-Calavi", "Parakou", "Djougou"]
+  },
+  {
+    "country": "Bhutan",
+    "cities": [
+      "Thimphu",
+      "Phuntsholing",
+      "Gelephu",
+      "Wangdue Phodrang",
+      "Punakha"
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "cities": [
+      "La Paz",
+      "Santa Cruz de la Sierra",
+      "El Alto",
+      "Cochabamba",
+      "Sucre"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "cities": ["Sarajevo", "Banja Luka", "Zenica", "Tuzla", "Mostar"]
+  },
+  {
+    "country": "Botswana",
+    "cities": [
+      "Gaborone",
+      "Francistown",
+      "Molepolole",
+      "Selebi-Phikwe",
+      "Mogoditshane"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "cities": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Salvador",
+      "Brasília",
+      "Fortaleza"
+    ]
+  },
+  { "country": "Brunei", "cities": ["Bandar Seri Begawan"] },
+  {
+    "country": "Bulgaria",
+    "cities": ["Sofia", "Plovdiv", "Varna", "Burgas", "Ruse"]
+  },
+  {
+    "country": "Burkina Faso",
+    "cities": [
+      "Ouagadougou",
+      "Bobo-Dioulasso",
+      "Koudougou",
+      "Ouahigouya",
+      "Banfora"
+    ]
+  },
+  {
+    "country": "Burundi",
+    "cities": ["Bujumbura", "Muyinga", "Ngozi", "Gitega", "Ruyigi"]
+  },
+  {
+    "country": "Cabo Verde",
+    "cities": ["Praia", "Mindelo", "Assomada", "Santa Maria", "São Filipe"]
+  },
+  {
+    "country": "Cambodia",
+    "cities": [
+      "Phnom Penh",
+      "Siem Reap",
+      "Sihanoukville",
+      "Battambang",
+      "Kampong Cham"
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "cities": ["Yaoundé", "Douala", "Garoua", "Bamenda", "Maroua"]
+  },
+  {
+    "country": "Canada",
+    "cities": ["Toronto", "Montreal", "Vancouver", "Ottawa", "Calgary"]
+  },
+  {
+    "country": "Central African Republic",
+    "cities": ["Bangui", "Berberati", "Bimbo", "Mbaïki", "Bou"]
+  },
+  {
+    "country": "Chad",
+    "cities": ["N'Djamena", "Moundou", "Sarh", "Abéché", "Koumra"]
+  },
+  {
+    "country": "Chile",
+    "cities": [
+      "Santiago",
+      "Valparaíso",
+      "Concepción",
+      "La Serena",
+      "Antofagasta"
+    ]
+  },
+  {
+    "country": "China",
+    "cities": ["Shanghai", "Beijing", "Tianjin", "Guangzhou", "Shenzhen"]
+  },
+  {
+    "country": "Colombia",
+    "cities": ["Bogotá", "Medellín", "Cali", "Barranquilla", "Cartagena"]
+  },
+  {
+    "country": "Comoros",
+    "cities": ["Moroni", "Moutsamoudou", "Fomboni", "Domoni", "Tsimbeo"]
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "cities": ["Brazzaville", "Pointe-Noire", "Dolisie", "Nkayi", "Loubomo"]
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "cities": ["Kinshasa", "Lubumbashi", "Mbuji-Mayi", "Kananga", "Kisangani"]
+  },
+  {
+    "country": "Costa Rica",
+    "cities": ["San José", "San Francisco", "Escazú", "San Rafael", "San Pedro"]
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "cities": ["Abidjan", "Bouaké", "Daloa", "Korhogo", "San-Pédro"]
+  },
+  {
+    "country": "Croatia",
+    "cities": ["Zagreb", "Split", "Rijeka", "Osijek", "Zadar"]
+  },
+  {
+    "country": "Cuba",
+    "cities": [
+      "Havana",
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín",
+      "Santa Clara"
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "cities": ["Nicosia", "Limassol", "Larnaca", "Paphos", "Famagusta"]
+  },
+  {
+    "country": "Czech Republic",
+    "cities": ["Prague", "Brno", "Ostrava", "Plzeň", "Olomouc"]
+  },
+  {
+    "country": "Denmark",
+    "cities": ["Copenhagen", "Aarhus", "Odense", "Aalborg", "Esbjerg"]
+  },
+  {
+    "country": "Djibouti",
+    "cities": ["Djibouti", "Ali Sabieh", "Dikhil", "Tadjoura", "Obock"]
+  },
+  { "country": "Dominica", "cities": ["Roseau"] },
+  {
+    "country": "Dominican Republic",
+    "cities": [
+      "Santo Domingo",
+      "Santiago de los Caballeros",
+      "Santo Domingo Oeste",
+      "Santo Domingo Este",
+      "San Pedro de Macorís"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "cities": ["Quito", "Guayaquil", "Cuenca", "Santo Domingo", "Machala"]
+  },
+  {
+    "country": "Egypt",
+    "cities": ["Cairo", "Alexandria", "Giza", "Shubra El-Kheima", "Port Said"]
+  },
+  {
+    "country": "El Salvador",
+    "cities": [
+      "San Salvador",
+      "Soyapango",
+      "Santa Ana",
+      "San Miguel",
+      "Mejicanos"
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "cities": ["Malabo", "Bata", "Ebebiyin", "Aconibe", "Mongomo"]
+  },
+  {
+    "country": "Eritrea",
+    "cities": ["Asmara", "Keren", "Massawa", "Assab", "Mendefera"]
+  },
+  {
+    "country": "Estonia",
+    "cities": ["Tallinn", "Tartu", "Narva", "Kohtla-Järve", "Pärnu"]
+  },
+  {
+    "country": "Ethiopia",
+    "cities": ["Addis Ababa", "Dire Dawa", "Mek'ele", "Gondar", "Dessie"]
+  },
+  {
+    "country": "Fiji",
+    "cities": ["Suva", "Lautoka", "Nadi", "Labasa", "Levuka"]
+  },
+  {
+    "country": "Finland",
+    "cities": ["Helsinki", "Espoo", "Tampere", "Vantaa", "Oulu"]
+  },
+  {
+    "country": "France",
+    "cities": ["Paris", "Marseille", "Lyon", "Toulouse", "Nice"]
+  },
+  {
+    "country": "Gabon",
+    "cities": ["Libreville", "Port-Gentil", "Franceville", "Oyem", "Moanda"]
+  },
+  {
+    "country": "Gambia",
+    "cities": ["Banjul", "Serekunda", "Brikama", "Bakau", "Farafenni"]
+  },
+  {
+    "country": "Georgia",
+    "cities": ["Tbilisi", "Kutaisi", "Batumi", "Rustavi", "Sokhumi"]
+  },
+  {
+    "country": "Germany",
+    "cities": ["Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt"]
+  },
+  {
+    "country": "Ghana",
+    "cities": ["Accra", "Kumasi", "Tamale", "Takoradi", "Ashaiman"]
+  },
+  {
+    "country": "Greece",
+    "cities": ["Athens", "Thessaloniki", "Patras", "Heraklion", "Larissa"]
+  },
+  {
+    "country": "Grenada",
+    "cities": ["St. George's", "Grenville", "Gouyave", "Victoria", "Sauteurs"]
+  },
+  {
+    "country": "Guatemala",
+    "cities": [
+      "Guatemala City",
+      "Mixco",
+      "Villa Nueva",
+      "Quetzaltenango",
+      "Escuintla"
+    ]
+  },
+  {
+    "country": "Guinea",
+    "cities": ["Conakry", "Nzérékoré", "Kankan", "Kindia", "Labé"]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "cities": ["Bissau", "Bafatá", "Gabú", "Cacheu", "Canchungo"]
+  },
+  {
+    "country": "Guyana",
+    "cities": ["Georgetown", "Linden", "New Amsterdam", "Bartica", "Rose Hall"]
+  },
+  {
+    "country": "Haiti",
+    "cities": [
+      "Port-au-Prince",
+      "Carrefour",
+      "Delmas",
+      "Petionville",
+      "Leogane"
+    ]
+  },
+  {
+    "country": "Honduras",
+    "cities": [
+      "Tegucigalpa",
+      "San Pedro Sula",
+      "La Ceiba",
+      "El Progreso",
+      "Choloma"
+    ]
+  },
+  {
+    "country": "Hungary",
+    "cities": ["Budapest", "Debrecen", "Miskolc", "Szeged", "Pécs"]
+  },
+  {
+    "country": "Iceland",
+    "cities": [
+      "Reykjavik",
+      "Kópavogur",
+      "Hafnarfjörður",
+      "Akureyri",
+      "Garðabær"
+    ]
+  },
+  {
+    "country": "India",
+    "cities": ["Mumbai", "Delhi", "Kolkata", "Bengaluru", "Chennai"]
+  },
+  {
+    "country": "Indonesia",
+    "cities": ["Jakarta", "Surabaya", "Medan", "Bandung", "Bekasi"]
+  },
+  {
+    "country": "Iran",
+    "cities": ["Tehran", "Mashhad", "Isfahan", "Karaj", "Tabriz"]
+  },
+  {
+    "country": "Iraq",
+    "cities": ["Baghdad", "Basra", "Mosul", "Erbil", "Najaf"]
+  },
+  {
+    "country": "Ireland",
+    "cities": ["Dublin", "Cork", "Dublin", "Limerick", "Galway"]
+  },
+  {
+    "country": "Israel",
+    "cities": ["Jerusalem", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva"]
+  },
+  {
+    "country": "Italy",
+    "cities": ["Rome", "Milan", "Naples", "Turin", "Palermo"]
+  },
+  {
+    "country": "Jamaica",
+    "cities": [
+      "Kingston",
+      "Montego Bay",
+      "New Kingston",
+      "Portmore",
+      "Spanish Town"
+    ]
+  },
+  {
+    "country": "Japan",
+    "cities": ["Tokyo", "Yokohama", "Osaka", "Nagoya", "Sapporo"]
+  },
+  {
+    "country": "Jordan",
+    "cities": ["Amman", "Zarqa", "Irbid", "Russeifa", "Jerash"]
+  },
+  {
+    "country": "Kazakhstan",
+    "cities": ["Astana", "Almaty", "Karagandy", "Shymkent", "Taraz"]
+  },
+  {
+    "country": "Kenya",
+    "cities": ["Nairobi", "Mombasa", "Nakuru", "Eldoret", "Kisumu"]
+  },
+  { "country": "Kiribati", "cities": ["South Tarawa"] },
+  {
+    "country": "Kosovo",
+    "cities": ["Pristina", "Prizren", "Mitrovica", "Gjakova", "Ferizaj"]
+  },
+  {
+    "country": "Kuwait",
+    "cities": ["Kuwait City", "Hawalli", "Salmiya", "Al Farwaniyah", "Al Jahra"]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "cities": ["Bishkek", "Osh", "Jalal-Abad", "Karakol", "Tokmok"]
+  },
+  {
+    "country": "Laos",
+    "cities": ["Vientiane", "Pakse", "Savannakhet", "Louangphrabang", "Xam Nua"]
+  },
+  {
+    "country": "Latvia",
+    "cities": ["Riga", "Daugavpils", "Liepāja", "Jūrmala", "Ventspils"]
+  },
+  {
+    "country": "Lebanon",
+    "cities": ["Beirut", "Tripoli", "Sidon", "Tyre", "Baalbek"]
+  },
+  {
+    "country": "Lesotho",
+    "cities": ["Maseru", "Teyateyaneng", "Hlotse", "Mafeteng", "Quthing"]
+  },
+  {
+    "country": "Liberia",
+    "cities": ["Monrovia", "Gbarnga", "Kakata", "Harper", "Buchanan"]
+  },
+  {
+    "country": "Libya",
+    "cities": ["Tripoli", "Benghazi", "Misrata", "Khoms", "Zliten"]
+  },
+  {
+    "country": "Liechtenstein",
+    "cities": ["Vaduz", "Schaan", "Triesen", "Balzers", "Eschen"]
+  },
+  {
+    "country": "Lithuania",
+    "cities": ["Vilnius", "Kaunas", "Klaipėda", "Šiauliai", "Panevėžys"]
+  },
+  {
+    "country": "Luxembourg",
+    "cities": [
+      "Luxembourg City",
+      "Esch-sur-Alzette",
+      "Differdange",
+      "Dudelange",
+      "Ettelbruck"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "cities": [
+      "Antananarivo",
+      "Toamasina",
+      "Antsirabe",
+      "Fianarantsoa",
+      "Mahajanga"
+    ]
+  },
+  {
+    "country": "Malawi",
+    "cities": ["Blantyre", "Lilongwe", "Mzuzu", "Zomba", "Kasungu"]
+  },
+  {
+    "country": "Malaysia",
+    "cities": [
+      "Kuala Lumpur",
+      "Petaling Jaya",
+      "Johor Bahru",
+      "Ipoh",
+      "Kuching"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "cities": ["Male", "Hulhumale", "Addu City", "Kulhudhuffushi", "Thinadhoo"]
+  },
+  {
+    "country": "Mali",
+    "cities": ["Bamako", "Sikasso", "Koutiala", "Kayes", "Mopti"]
+  },
+  {
+    "country": "Malta",
+    "cities": ["Valletta", "Birkirkara", "Qormi", "Mosta", "Żabbar"]
+  },
+  { "country": "Marshall Islands", "cities": ["Majuro", "Ebeye"] },
+  {
+    "country": "Mauritania",
+    "cities": ["Nouakchott", "Nouadhibou", "Kaedi", "Atar", "Zouerate"]
+  },
+  {
+    "country": "Mauritius",
+    "cities": [
+      "Port Louis",
+      "Beau Bassin-Rose Hill",
+      "Vacoas",
+      "Curepipe",
+      "Quatre Bornes"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "cities": [
+      "Mexico City",
+      "Ecatepec de Morelos",
+      "Guadalajara",
+      "Juarez",
+      "Puebla"
+    ]
+  },
+  { "country": "Micronesia", "cities": ["Palikir", "Weno"] },
+  {
+    "country": "Moldova",
+    "cities": ["Chisinau", "Tiraspol", "Bălți", "Bender", "Rîbnița"]
+  },
+  {
+    "country": "Monaco",
+    "cities": [
+      "Monaco",
+      "Monte-Carlo",
+      "La Condamine",
+      "Fontvieille",
+      "Larvotto"
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "cities": ["Ulaanbaatar", "Erdenet", "Darkhan", "Choyr", "Bulgan"]
+  },
+  {
+    "country": "Montenegro",
+    "cities": ["Podgorica", "Nikšić", "Bijelo Polje", "Pljevlja", "Bar"]
+  },
+  {
+    "country": "Morocco",
+    "cities": ["Rabat", "Casablanca", "Marrakesh", "Fes", "Agadir"]
+  },
+  {
+    "country": "Mozambique",
+    "cities": ["Maputo", "Matola", "Beira", "Nampula", "Chimoio"]
+  },
+  {
+    "country": "Myanmar (Burma)",
+    "cities": ["Yangon", "Mandalay", "Naypyidaw", "Bago", "Mawlamyine"]
+  },
+  {
+    "country": "Namibia",
+    "cities": ["Windhoek", "Rundu", "Walvis Bay", "Swakopmund", "Grootfontein"]
+  },
+  { "country": "Nauru", "cities": ["Yaren District"] },
+  {
+    "country": "Nepal",
+    "cities": ["Kathmandu", "Pokhara", "Biratnagar", "Dharan", "Nepalgunj"]
+  },
+  {
+    "country": "Netherlands",
+    "cities": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Groningen"]
+  },
+  {
+    "country": "New Zealand",
+    "cities": ["Auckland", "Wellington", "Christchurch", "Hamilton", "Tauranga"]
+  },
+  {
+    "country": "Nicaragua",
+    "cities": ["Managua", "León", "Masaya", "Chikwapa", "Estelí"]
+  },
+  {
+    "country": "Niger",
+    "cities": ["Niamey", "Zinder", "Maradi", "Agadez", "Arlit"]
+  },
+  {
+    "country": "Nigeria",
+    "cities": ["Lagos", "Kano", "Ibadan", "Benin City", "Abuja"]
+  },
+  {
+    "country": "North Korea",
+    "cities": ["Pyongyang", "Hamhung", "Nampho", "Sinuiju", "Wonsan"]
+  },
+  {
+    "country": "North Macedonia",
+    "cities": ["Skopje", "Bitola", "Kumanovo", "Prilep", "Tetovo"]
+  },
+  {
+    "country": "Norway",
+    "cities": ["Oslo", "Bergen", "Trondheim", "Drammen", "Fredrikstad"]
+  },
+  {
+    "country": "Oman",
+    "cities": ["Muscat", "As Sib al Jadidah", "Salalah", "Bawshar", "Suwayq"]
+  },
+  {
+    "country": "Pakistan",
+    "cities": ["Karachi", "Lahore", "Faisalabad", "Rawalpindi", "Multan"]
+  },
+  { "country": "Palau", "cities": ["Ngerulmud"] },
+  {
+    "country": "Palestine",
+    "cities": ["Jerusalem (disputed)", "Gaza", "Nablus", "Hebron", "Bethlehem"]
+  },
+  {
+    "country": "Panama",
+    "cities": ["Panama City", "San Miguelito", "Tocumen", "Colón", "David"]
+  },
+  {
+    "country": "Papua New Guinea",
+    "cities": ["Port Moresby", "Lae", "Arawa", "Mount Hagen", "Popondetta"]
+  },
+  {
+    "country": "Paraguay",
+    "cities": ["Asunción", "Ciudad del Este", "San Lorenzo", "Luque", "Capiatá"]
+  },
+  {
+    "country": "Peru",
+    "cities": ["Lima", "Arequipa", "Trujillo", "Chiclayo", "Piura "]
+  },
+  {
+    "country": "Philippines",
+    "cities": ["Quezon City", "Manila", "Caloocan", "Davao City", "Cebu City"]
+  },
+  {
+    "country": "Poland",
+    "cities": ["Warsaw", "Kraków", "Łódź", "Wrocław", "Poznań"]
+  },
+  {
+    "country": "Portugal",
+    "cities": ["Lisbon", "Porto", "Amadora", "Braga", "Coimbra"]
+  },
+  {
+    "country": "Qatar",
+    "cities": [
+      "Doha",
+      "Al Rayyan",
+      "Umm Salal Muhammad",
+      "Al Wakrah",
+      "Al Khor"
+    ]
+  },
+  {
+    "country": "Romania",
+    "cities": ["Bucharest", "Cluj-Napoca", "Timișoara", "Iași", "Constanța"]
+  },
+  {
+    "country": "Russia",
+    "cities": [
+      "Moscow",
+      "Saint Petersburg",
+      "Novosibirsk",
+      "Yekaterinburg",
+      "Nizhny Novgorod"
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "cities": ["Kigali", "Butare", "Gitarama", "Musanze", "Gisenyi"]
+  },
+  { "country": "Saint Kitts and Nevis", "cities": ["Basseterre"] },
+  { "country": "Saint Lucia", "cities": ["Castries"] },
+  { "country": "Saint Vincent and the Grenadines", "cities": ["Kingstown"] },
+  { "country": "Samoa", "cities": ["Apia"] },
+  {
+    "country": "San Marino",
+    "cities": [
+      "San Marino",
+      "Borgo Maggiore",
+      "Domagnano",
+      "Fiorentino",
+      "Chiesanuova"
+    ]
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "cities": ["São Tomé", "Santo Amaro", "Neves", "Trindade", "Guadalupe"]
+  },
+  {
+    "country": "Saudi Arabia",
+    "cities": ["Riyadh", "Jeddah", "Mecca", "Medina", "Dammam"]
+  },
+  {
+    "country": "Senegal",
+    "cities": ["Dakar", "Thiès", "Rufisque", "Kaolack", "Saint-Louis"]
+  },
+  {
+    "country": "Serbia",
+    "cities": ["Belgrade", "Novi Sad", "Niš", "Kragujevac", "Subotica"]
+  },
+  {
+    "country": "Seychelles",
+    "cities": [
+      "Victoria",
+      "Anse aux Pins",
+      "Anse Boileau",
+      "Beau Vallon",
+      "Bel Ombre"
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "cities": ["Freetown", "Kenema", "Bo", "Makeni", "Koidu"]
+  },
+  {
+    "country": "Singapore",
+    "cities": [
+      "Singapore",
+      "North-Eastern Region",
+      "Eastern Region",
+      "Western Region",
+      "Central Region"
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "cities": ["Bratislava", "Košice", "Prešov", "Nitra", "Banská Bystrica"]
+  },
+  {
+    "country": "Slovenia",
+    "cities": ["Ljubljana", "Maribor", "Celje", "Kranj", "Velenje"]
+  },
+  {
+    "country": "Solomon Islands",
+    "cities": ["Honiara", "Auki", "Gizo", "Buala", "Taro Island"]
+  },
+  {
+    "country": "Somalia",
+    "cities": ["Mogadishu", "Hargeisa", "Berbera", "Kismayo", "Marka"]
+  },
+  {
+    "country": "South Africa",
+    "cities": [
+      "Johannesburg",
+      "Cape Town",
+      "Durban",
+      "Port Elizabeth",
+      "Pretoria"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "cities": ["Seoul", "Busan", "Incheon", "Daegu", "Daejeon"]
+  },
+  {
+    "country": "South Sudan",
+    "cities": ["Juba", "Wau", "Malakal", "Pajok", "Yambio"]
+  },
+  {
+    "country": "Spain",
+    "cities": ["Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza"]
+  },
+  {
+    "country": "Sri Lanka",
+    "cities": [
+      "Colombo",
+      "Dehiwala-Mount Lavinia",
+      "Moratuwa",
+      "Negombo",
+      "Kandy"
+    ]
+  },
+  {
+    "country": "Sudan",
+    "cities": ["Khartoum", "Omdurman", "Nyala", "Port Sudan", "Kosti"]
+  },
+  {
+    "country": "Suriname",
+    "cities": [
+      "Paramaribo",
+      "Lelydorp",
+      "Nieuw Nickerie",
+      "Moengo",
+      "Brownsweg"
+    ]
+  },
+  {
+    "country": "Swaziland",
+    "cities": ["Mbabane", "Lobamba", "Manzini", "Siteki "]
+  },
+  {
+    "country": "Sweden",
+    "cities": ["Stockholm", "Gothenburg", "Malmö", "Uppsala", "Västerås"]
+  },
+  {
+    "country": "Switzerland",
+    "cities": ["Zurich", "Geneva", "Basel", "Lausanne", "Bern"]
+  },
+  {
+    "country": "Syria",
+    "cities": ["Damascus", "Aleppo", "Homs", "Hama", "Latakia"]
+  },
+  {
+    "country": "Taiwan",
+    "cities": ["New Taipei", "Taipei", "Kaohsiung", "Taichung", "Tainan"]
+  },
+  {
+    "country": "Tajikistan",
+    "cities": ["Dushanbe", "Khujand", "Kulob", "Istaravshan", "Qurghonteppa"]
+  },
+  {
+    "country": "Tanzania",
+    "cities": ["Dar es Salaam", "Mwanza", "Zanzibar City", "Mbeya", "Morogoro"]
+  },
+  {
+    "country": "Thailand",
+    "cities": ["Bangkok", "Nonthaburi", "Pak Kret", "Samut Prakan", "Hat Yai"]
+  },
+  {
+    "country": "Timor-Leste",
+    "cities": ["Dili", "Suai", "Liquiçá", "Manatuto", "Viqueque"]
+  },
+  {
+    "country": "Togo",
+    "cities": ["Lomé", "Sokodé", "Kara", "Kpalimé", "Atakpamé"]
+  },
+  {
+    "country": "Tonga",
+    "cities": ["Nuku'alofa", "Neiafu", "Ha'apai", "Pangai", "Fua'amotu"]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cities": [
+      "Port of Spain",
+      "San Fernando",
+      "Chaguanas",
+      "Arima",
+      "Point   Fortin"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "cities": ["Tunis", "Sfax", "Sousse", "Kairouan", "Bizerte"]
+  },
+  {
+    "country": "Turkey",
+    "cities": ["Istanbul", "Ankara", "İzmir", "Bursa", "Adana"]
+  },
+  {
+    "country": "Turkmenistan",
+    "cities": ["Ashgabat", "Mary", "Dashoguz", "Turkmenabat", "Balkanabat"]
+  },
+  { "country": "Tuvalu", "cities": ["Funafuti"] },
+  {
+    "country": "Uganda",
+    "cities": ["Kampala", "Gulu", "Lira", "Mbarara", "Jinja"]
+  },
+  {
+    "country": "Ukraine",
+    "cities": ["Kyiv", "Kharkiv", "Dnipro", "Odesa", "Zaporizhia"]
+  },
+  {
+    "country": "United Arab Emirates",
+    "cities": ["Abu Dhabi", "Dubai", "Sharjah", "Al Ain", "Ajman"]
+  },
+  {
+    "country": "United Kingdom",
+    "cities": ["London", "Birmingham", "Glasgow", "Liverpool", "Bristol"]
+  },
+  {
+    "country": "United States",
+    "cities": ["New York City", "Los Angeles", "Chicago", "Houston", "Phoenix"]
+  },
+  {
+    "country": "Uruguay",
+    "cities": [
+      "Montevideo",
+      "Salto",
+      "Ciudad de la Costa",
+      "Paysandú",
+      "Las Piedras"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "cities": ["Tashkent", "Namangan", "Samarkand", "Bukhara", "Andijon"]
+  },
+  {
+    "country": "Vanuatu",
+    "cities": ["Port Vila", "Luganville", "Lambasa", "Saratamata", "Isangel"]
+  },
+  { "country": "Vatican City", "cities": ["Vatican City"] },
+  {
+    "country": "Venezuela",
+    "cities": ["Caracas", "Maracaibo", "Valencia", "Maracay", "Barquisimeto"]
+  },
+  {
+    "country": "Vietnam",
+    "cities": ["Ho Chi Minh City", "Hanoi", "Haiphong", "Da Nang", "Bien Hoa"]
+  },
+  {
+    "country": "Yemen",
+    "cities": ["Sana'a", "Aden", "Taizz", "Ibb", "Hudaydah"]
+  },
+  {
+    "country": "Zambia",
+    "cities": ["Lusaka", "Kitwe", "Ndola", "Kabwe", "Chingola"]
+  },
+  {
+    "country": "Zimbabwe",
+    "cities": ["Harare", "Bulawayo", "Chitungwiza", "Mutare", "Gweru "]
+  }
+]
