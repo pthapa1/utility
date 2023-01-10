@@ -1,4 +1,5 @@
 // creates a json file with text stored in the text variable
+const fs = require('fs');
 
 const text = `-   Afghanistan: Kabul, Kandahar, Mazar-e-Sharif, Herat, Jalalabad
 -   Albania: Tirana, Durrës, Vlorë, Shkodër, Elbasan
@@ -212,5 +213,3 @@ fs.writeFile('countries.json', JSON.stringify(countries), (err) => {
   }
   console.log('file created successfully.');
 });
- 
-

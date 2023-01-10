@@ -1,214 +1,24 @@
+const axios = require('axios');
 const fs = require('fs');
 
-const text = `-   Afghanistan: Kabul, Kandahar, Mazar-e-Sharif, Herat, Jalalabad
--   Albania: Tirana, Durrës, Vlorë, Shkodër, Elbasan
--   Algeria: Algiers, Oran, Constantine, Annaba, Batna
--   Andorra: Andorra la Vella, Escaldes-Engordany
--   Angola: Luanda, Huambo, Lobito, Benguela, Kuito
--   Antigua and Barbuda: Saint John's
--   Argentina: Buenos Aires, Córdoba, Rosario, Mendoza, La Plata
--   Armenia: Yerevan, Gyumri, Vanadzor, Ejmiatsin, Hrazdan
--   Australia: Sydney, Melbourne, Brisbane, Perth, Adelaide
--   Austria: Vienna, Graz, Linz, Salzburg, Innsbruck
--   Azerbaijan: Baku, Ganja, Mingachevir, Sumqayit, Yevlakh
--   Bahamas: Nassau
--   Bahrain: Manama, Riffa, Muharraq, Hamad Town, A'ali
--   Bangladesh: Dhaka, Chittagong, Khulna, Gazipur, Narayanganj
--   Barbados: Bridgetown
--   Belarus: Minsk, Gomel, Mogilev, Vitebsk, Hrodna
--   Belgium: Brussels, Antwerp, Ghent, Charleroi, Liège
--   Belize: Belmopan, Belize City, San Ignacio, Orange Walk, Dangriga
--   Benin: Porto-Novo, Cotonou, Abomey-Calavi, Parakou, Djougou
--   Bhutan: Thimphu, Phuntsholing, Gelephu, Wangdue Phodrang, Punakha
--   Bolivia: La Paz, Santa Cruz de la Sierra, El Alto, Cochabamba, Sucre
--   Bosnia and Herzegovina: Sarajevo, Banja Luka, Zenica, Tuzla, Mostar
--   Botswana: Gaborone, Francistown, Molepolole, Selebi-Phikwe, Mogoditshane
--   Brazil: São Paulo, Rio de Janeiro, Salvador, Brasília, Fortaleza
--   Brunei: Bandar Seri Begawan
--   Bulgaria: Sofia, Plovdiv, Varna, Burgas, Ruse
--   Burkina Faso: Ouagadougou, Bobo-Dioulasso, Koudougou, Ouahigouya, Banfora
--   Burundi: Bujumbura, Muyinga, Ngozi, Gitega, Ruyigi
--   Cabo Verde: Praia, Mindelo, Assomada, Santa Maria, São Filipe
--   Cambodia: Phnom Penh, Siem Reap, Sihanoukville, Battambang, Kampong Cham
--   Cameroon: Yaoundé, Douala, Garoua, Bamenda, Maroua
--   Canada: Toronto, Montreal, Vancouver, Ottawa, Calgary
--   Central African Republic: Bangui, Berberati, Bimbo, Mbaïki, Bou
--   Chad: N'Djamena, Moundou, Sarh, Abéché, Koumra
--   Chile: Santiago, Valparaíso, Concepción, La Serena, Antofagasta
--   China: Shanghai, Beijing, Tianjin, Guangzhou, Shenzhen
--   Colombia: Bogotá, Medellín, Cali, Barranquilla, Cartagena
--   Comoros: Moroni, Moutsamoudou, Fomboni, Domoni, Tsimbeo
--   Congo (Brazzaville): Brazzaville, Pointe-Noire, Dolisie, Nkayi, Loubomo
--   Congo (Kinshasa): Kinshasa, Lubumbashi, Mbuji-Mayi, Kananga, Kisangani
--   Costa Rica: San José, San Francisco, Escazú, San Rafael, San Pedro
--   Côte d'Ivoire: Abidjan, Bouaké, Daloa, Korhogo, San-Pédro
--   Croatia: Zagreb, Split, Rijeka, Osijek, Zadar
--   Cuba: Havana, Santiago de Cuba, Camagüey, Holguín, Santa Clara
--   Cyprus: Nicosia, Limassol, Larnaca, Paphos, Famagusta
--   Czech Republic: Prague, Brno, Ostrava, Plzeň, Olomouc
--   Denmark: Copenhagen, Aarhus, Odense, Aalborg, Esbjerg
--   Djibouti: Djibouti, Ali Sabieh, Dikhil, Tadjoura, Obock
--   Dominica: Roseau
--   Dominican Republic: Santo Domingo, Santiago de los Caballeros, Santo Domingo Oeste, Santo Domingo Este, San Pedro de Macorís
--   Ecuador: Quito, Guayaquil, Cuenca, Santo Domingo, Machala
--   Egypt: Cairo, Alexandria, Giza, Shubra El-Kheima, Port Said
--   El Salvador: San Salvador, Soyapango, Santa Ana, San Miguel, Mejicanos
--   Equatorial Guinea: Malabo, Bata, Ebebiyin, Aconibe, Mongomo
--   Eritrea: Asmara, Keren, Massawa, Assab, Mendefera
--   Estonia: Tallinn, Tartu, Narva, Kohtla-Järve, Pärnu
--   Ethiopia: Addis Ababa, Dire Dawa, Mek'ele, Gondar, Dessie
--   Fiji: Suva, Lautoka, Nadi, Labasa, Levuka
--   Finland: Helsinki, Espoo, Tampere, Vantaa, Oulu
--   France: Paris, Marseille, Lyon, Toulouse, Nice
--   Gabon: Libreville, Port-Gentil, Franceville, Oyem, Moanda
--   Gambia: Banjul, Serekunda, Brikama, Bakau, Farafenni
--   Georgia: Tbilisi, Kutaisi, Batumi, Rustavi, Sokhumi
--   Germany: Berlin, Hamburg, Munich, Cologne, Frankfurt
--   Ghana: Accra, Kumasi, Tamale, Takoradi, Ashaiman
--   Greece: Athens, Thessaloniki, Patras, Heraklion, Larissa
--   Grenada: St. George's, Grenville, Gouyave, Victoria, Sauteurs
--   Guatemala: Guatemala City, Mixco, Villa Nueva, Quetzaltenango, Escuintla
--   Guinea: Conakry, Nzérékoré, Kankan, Kindia, Labé
--   Guinea-Bissau: Bissau, Bafatá, Gabú, Cacheu, Canchungo
--   Guyana: Georgetown, Linden, New Amsterdam, Bartica, Rose Hall
--   Haiti: Port-au-Prince, Carrefour, Delmas, Petionville, Leogane
--   Honduras: Tegucigalpa, San Pedro Sula, La Ceiba, El Progreso, Choloma
--   Hungary: Budapest, Debrecen, Miskolc, Szeged, Pécs
--   Iceland: Reykjavik, Kópavogur, Hafnarfjörður, Akureyri, Garðabær
--   India: Mumbai, Delhi, Kolkata, Bengaluru, Chennai
--   Indonesia: Jakarta, Surabaya, Medan, Bandung, Bekasi
--   Iran: Tehran, Mashhad, Isfahan, Karaj, Tabriz
--   Iraq: Baghdad, Basra, Mosul, Erbil, Najaf
--   Ireland: Dublin, Cork, Dublin, Limerick, Galway
--   Israel: Jerusalem, Tel Aviv, Haifa, Rishon LeZion, Petah Tikva
--   Italy: Rome, Milan, Naples, Turin, Palermo
--   Jamaica: Kingston, Montego Bay, New Kingston, Portmore, Spanish Town
--   Japan: Tokyo, Yokohama, Osaka, Nagoya, Sapporo
--   Jordan: Amman, Zarqa, Irbid, Russeifa, Jerash
--   Kazakhstan: Astana, Almaty, Karagandy, Shymkent, Taraz
--   Kenya: Nairobi, Mombasa, Nakuru, Eldoret, Kisumu
--   Kiribati: South Tarawa
--   Kosovo: Pristina, Prizren, Mitrovica, Gjakova, Ferizaj
--   Kuwait: Kuwait City, Hawalli, Salmiya, Al Farwaniyah, Al Jahra
--   Kyrgyzstan: Bishkek, Osh, Jalal-Abad, Karakol, Tokmok
--   Laos: Vientiane, Pakse, Savannakhet, Louangphrabang, Xam Nua
--   Latvia: Riga, Daugavpils, Liepāja, Jūrmala, Ventspils
--   Lebanon: Beirut, Tripoli, Sidon, Tyre, Baalbek
--   Lesotho: Maseru, Teyateyaneng, Hlotse, Mafeteng, Quthing
--   Liberia: Monrovia, Gbarnga, Kakata, Harper, Buchanan
--   Libya: Tripoli, Benghazi, Misrata, Khoms, Zliten
--   Liechtenstein: Vaduz, Schaan, Triesen, Balzers, Eschen
--   Lithuania: Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys
--   Luxembourg: Luxembourg City, Esch-sur-Alzette, Differdange, Dudelange, Ettelbruck
--   Madagascar: Antananarivo, Toamasina, Antsirabe, Fianarantsoa, Mahajanga
--   Malawi:  Blantyre, Lilongwe, Mzuzu, Zomba, Kasungu
--   Malaysia: Kuala Lumpur, Petaling Jaya, Johor Bahru, Ipoh, Kuching
--   Maldives: Male, Hulhumale, Addu City, Kulhudhuffushi, Thinadhoo
--   Mali: Bamako, Sikasso, Koutiala, Kayes, Mopti
--   Malta: Valletta, Birkirkara, Qormi, Mosta, Żabbar
--   Marshall Islands: Majuro, Ebeye
--   Mauritania: Nouakchott, Nouadhibou, Kaedi, Atar, Zouerate
--   Mauritius: Port Louis, Beau Bassin-Rose Hill, Vacoas, Curepipe, Quatre Bornes
--   Mexico: Mexico City, Ecatepec de Morelos, Guadalajara, Juarez, Puebla
--   Micronesia: Palikir, Weno
--   Moldova: Chisinau, Tiraspol, Bălți, Bender, Rîbnița
--   Monaco: Monaco, Monte-Carlo, La Condamine, Fontvieille, Larvotto
--   Mongolia: Ulaanbaatar, Erdenet, Darkhan, Choyr, Bulgan
--   Montenegro: Podgorica, Nikšić, Bijelo Polje, Pljevlja, Bar
--   Morocco: Rabat, Casablanca, Marrakesh, Fes, Agadir
--   Mozambique: Maputo, Matola, Beira, Nampula, Chimoio
--   Myanmar (Burma): Yangon, Mandalay, Naypyidaw, Bago, Mawlamyine
--   Namibia: Windhoek, Rundu, Walvis Bay, Swakopmund, Grootfontein
--   Nauru: Yaren District
--   Nepal: Kathmandu, Pokhara, Biratnagar, Dharan, Nepalgunj
--   Netherlands: Amsterdam, Rotterdam, The Hague, Utrecht, Groningen
--   New Zealand: Auckland, Wellington, Christchurch, Hamilton, Tauranga
--   Nicaragua: Managua, León, Masaya, Chikwapa, Estelí
--   Niger: Niamey, Zinder, Maradi, Agadez, Arlit
--   Nigeria: Lagos, Kano, Ibadan, Benin City, Abuja
--   North Korea: Pyongyang, Hamhung, Nampho, Sinuiju, Wonsan
--   North Macedonia: Skopje, Bitola, Kumanovo, Prilep, Tetovo
--   Norway: Oslo, Bergen, Trondheim, Drammen, Fredrikstad
--   Oman: Muscat, As Sib al Jadidah, Salalah, Bawshar, Suwayq
--   Pakistan: Karachi, Lahore, Faisalabad, Rawalpindi, Multan
--   Palau: Ngerulmud
--   Palestine: Jerusalem (disputed), Gaza, Nablus, Hebron, Bethlehem
--   Panama: Panama City, San Miguelito, Tocumen, Colón, David
--   Papua New Guinea: Port Moresby, Lae, Arawa, Mount Hagen, Popondetta
--   Paraguay: Asunción, Ciudad del Este, San Lorenzo, Luque, Capiatá
--   Peru: Lima, Arequipa, Trujillo, Chiclayo, Piura 
--   Philippines: Quezon City, Manila, Caloocan, Davao City, Cebu City
--   Poland: Warsaw, Kraków, Łódź, Wrocław, Poznań
--   Portugal: Lisbon, Porto, Amadora, Braga, Coimbra
--   Qatar: Doha, Al Rayyan, Umm Salal Muhammad, Al Wakrah, Al Khor
--   Romania: Bucharest, Cluj-Napoca, Timișoara, Iași, Constanța
--   Russia: Moscow, Saint Petersburg, Novosibirsk, Yekaterinburg, Nizhny Novgorod
--   Rwanda: Kigali, Butare, Gitarama, Musanze, Gisenyi
--   Saint Kitts and Nevis: Basseterre
--   Saint Lucia: Castries
--   Saint Vincent and the Grenadines: Kingstown
--   Samoa: Apia
--   San Marino: San Marino, Borgo Maggiore, Domagnano, Fiorentino, Chiesanuova
--   Sao Tome and Principe: São Tomé, Santo Amaro, Neves, Trindade, Guadalupe
--   Saudi Arabia: Riyadh, Jeddah, Mecca, Medina, Dammam
--   Senegal: Dakar, Thiès, Rufisque, Kaolack, Saint-Louis
--   Serbia: Belgrade, Novi Sad, Niš, Kragujevac, Subotica
--   Seychelles: Victoria, Anse aux Pins, Anse Boileau, Beau Vallon, Bel Ombre
--   Sierra Leone: Freetown, Kenema, Bo, Makeni, Koidu
--   Singapore: Singapore, North-Eastern Region, Eastern Region, Western Region, Central Region
--   Slovakia: Bratislava, Košice, Prešov, Nitra, Banská Bystrica
--   Slovenia: Ljubljana, Maribor, Celje, Kranj, Velenje
--   Solomon Islands: Honiara, Auki, Gizo, Buala, Taro Island
--   Somalia: Mogadishu, Hargeisa, Berbera, Kismayo, Marka
--   South Africa: Johannesburg, Cape Town, Durban, Port Elizabeth, Pretoria
--   South Korea: Seoul, Busan, Incheon, Daegu, Daejeon
--   South Sudan: Juba, Wau, Malakal, Pajok, Yambio
--   Spain: Madrid, Barcelona, Valencia, Seville, Zaragoza
--   Sri Lanka: Colombo, Dehiwala-Mount Lavinia, Moratuwa, Negombo, Kandy
--   Sudan: Khartoum, Omdurman, Nyala, Port Sudan, Kosti
--   Suriname: Paramaribo, Lelydorp, Nieuw Nickerie, Moengo, Brownsweg
--   **Swaziland**: Mbabane, Lobamba, Manzini, Siteki 
--   Sweden: Stockholm, Gothenburg, Malmö, Uppsala, Västerås
--   Switzerland: Zurich, Geneva, Basel, Lausanne, Bern
--   Syria: Damascus, Aleppo, Homs, Hama, Latakia
--   Taiwan: New Taipei, Taipei, Kaohsiung, Taichung, Tainan
--   Tajikistan: Dushanbe, Khujand, Kulob, Istaravshan, Qurghonteppa
--   Tanzania: Dar es Salaam, Mwanza, Zanzibar City, Mbeya, Morogoro
--   Thailand: Bangkok, Nonthaburi, Pak Kret, Samut Prakan, Hat Yai
--   Timor-Leste: Dili, Suai, Liquiçá, Manatuto, Viqueque
--   Togo: Lomé, Sokodé, Kara, Kpalimé, Atakpamé
--   Tonga: Nuku'alofa, Neiafu, Ha'apai, Pangai, Fua'amotu
--   Trinidad and Tobago: Port of Spain, San Fernando, Chaguanas, Arima, Point   Fortin
--   Tunisia: Tunis, Sfax, Sousse, Kairouan, Bizerte
--   Turkey: Istanbul, Ankara, İzmir, Bursa, Adana
--   Turkmenistan: Ashgabat, Mary, Dashoguz, Turkmenabat, Balkanabat
--   Tuvalu: Funafuti
--   Uganda: Kampala, Gulu, Lira, Mbarara, Jinja
--   Ukraine: Kyiv, Kharkiv, Dnipro, Odesa, Zaporizhia
--   United Arab Emirates: Abu Dhabi, Dubai, Sharjah, Al Ain, Ajman
--   United Kingdom: London, Birmingham, Glasgow, Liverpool, Bristol
--   United States: New York City, Los Angeles, Chicago, Houston, Phoenix
--   Uruguay: Montevideo, Salto, Ciudad de la Costa, Paysandú, Las Piedras
--   Uzbekistan: Tashkent, Namangan, Samarkand, Bukhara, Andijon
--   Vanuatu: Port Vila, Luganville, Lambasa, Saratamata, Isangel
--   Vatican City: Vatican City
--   Venezuela: Caracas, Maracaibo, Valencia, Maracay, Barquisimeto
--   Vietnam: Ho Chi Minh City, Hanoi, Haiphong, Da Nang, Bien Hoa
--   Yemen: Sana'a, Aden, Taizz, Ibb, Hudaydah
--   Zambia: Lusaka, Kitwe, Ndola, Kabwe, Chingola
--   Zimbabwe: Harare, Bulawayo, Chitungwiza, Mutare, Gweru `;
+const config = {
+  method: 'get',
+  url: 'http://localhost:3000/address/Roseau Dominica',
+  headers: {},
+};
 
-const countries = text.split('\n').map((line) => {
-  const [country, cities] = line.split(': ');
-  return {
-    country: country.slice(3),
-    cities: cities.split(', '),
-  };
-});
+axios(config)
+  .then((response) => {
+    const resFromAPI = JSON.stringify(response.data);
+    // console.log(JSON.stringify(resFromAPI));
 
-fs.writeFile('countries.json', JSON.stringify(countries), (err) => {
-  if (err) {
-    throw new err();
-  }
-  console.log('file created successfully.');
-});
+    fs.writeFile('Dominica.json', resFromAPI, (err) => {
+      if (err) {
+        throw new err();
+      }
+      console.log('file created successfully.');
+    });
+  })
+  .catch((error) => {
+    console.log(error);
+  });

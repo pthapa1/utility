@@ -233,7 +233,10 @@
     "country": "Djibouti",
     "cities": ["Djibouti", "Ali Sabieh", "Dikhil", "Tadjoura", "Obock"]
   },
-  { "country": "Dominica", "cities": ["Roseau"] },
+  {
+    "country": "Dominica",
+    "cities": ["Roseau", "Portsmouth", "Marigot", "Mahaut"]
+  },
   {
     "country": "Dominican Republic",
     "cities": [
