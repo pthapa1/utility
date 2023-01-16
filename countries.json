@@ -1,7 +1,7 @@
 [
   {
     "country": "Afghanistan",
-    "cities": ["Kabul", "Kandahar", "Mazar-e-Sharif", "Herat", "Jalalabad"]
+    "cities": ["Kabul", "Kandahar", "Mazar e Sharif", "Herat", "Jalalabad"]
   },
   {
     "country": "Albania",
@@ -13,7 +13,7 @@
   },
   {
     "country": "Andorra",
-    "cities": ["Andorra la Vella", "Escaldes-Engordany"]
+    "cities": ["Andorra la Vella", "Escaldes Engordany"]
   },
   {
     "country": "Angola",
@@ -70,7 +70,7 @@
   },
   {
     "country": "Benin",
-    "cities": ["Porto-Novo", "Cotonou", "Abomey-Calavi", "Parakou", "Djougou"]
+    "cities": ["Porto Novo", "Cotonou", "Abomey Calavi", "Parakou", "Djougou"]
   },
   {
     "country": "Bhutan",
@@ -102,7 +102,7 @@
       "Gaborone",
       "Francistown",
       "Molepolole",
-      "Selebi-Phikwe",
+      "Selebi Phikwe",
       "Mogoditshane"
     ]
   },
@@ -125,7 +125,7 @@
     "country": "Burkina Faso",
     "cities": [
       "Ouagadougou",
-      "Bobo-Dioulasso",
+      "Bobo Dioulasso",
       "Koudougou",
       "Ouahigouya",
       "Banfora"
@@ -189,11 +189,11 @@
   },
   {
     "country": "Congo (Brazzaville)",
-    "cities": ["Brazzaville", "Pointe-Noire", "Dolisie", "Nkayi", "Loubomo"]
+    "cities": ["Brazzaville", "Pointe Noire", "Dolisie", "Nkayi", "Loubomo"]
   },
   {
     "country": "Congo (Kinshasa)",
-    "cities": ["Kinshasa", "Lubumbashi", "Mbuji-Mayi", "Kananga", "Kisangani"]
+    "cities": ["Kinshasa", "Lubumbashi", "Mbuji Mayi", "Kananga", "Kisangani"]
   },
   {
     "country": "Costa Rica",
@@ -201,7 +201,7 @@
   },
   {
     "country": "Côte d'Ivoire",
-    "cities": ["Abidjan", "Bouaké", "Daloa", "Korhogo", "San-Pédro"]
+    "cities": ["Abidjan", "Bouaké", "Daloa", "Korhogo", "San Pédro"]
   },
   {
     "country": "Croatia",
@@ -253,7 +253,7 @@
   },
   {
     "country": "Egypt",
-    "cities": ["Cairo", "Alexandria", "Giza", "Shubra El-Kheima", "Port Said"]
+    "cities": ["Cairo", "Alexandria", "Giza", "Shubra El Kheima", "Port Said"]
   },
   {
     "country": "El Salvador",
@@ -275,7 +275,7 @@
   },
   {
     "country": "Estonia",
-    "cities": ["Tallinn", "Tartu", "Narva", "Kohtla-Järve", "Pärnu"]
+    "cities": ["Tallinn", "Tartu", "Narva", "Kohtla Järve", "Pärnu"]
   },
   {
     "country": "Ethiopia",
@@ -295,7 +295,7 @@
   },
   {
     "country": "Gabon",
-    "cities": ["Libreville", "Port-Gentil", "Franceville", "Oyem", "Moanda"]
+    "cities": ["Libreville", "Port Gentil", "Franceville", "Oyem", "Moanda"]
   },
   {
     "country": "Gambia",
@@ -336,7 +336,7 @@
     "cities": ["Conakry", "Nzérékoré", "Kankan", "Kindia", "Labé"]
   },
   {
-    "country": "Guinea-Bissau",
+    "country": "Guinea Bissau",
     "cities": ["Bissau", "Bafatá", "Gabú", "Cacheu", "Canchungo"]
   },
   {
@@ -346,7 +346,7 @@
   {
     "country": "Haiti",
     "cities": [
-      "Port-au-Prince",
+      "Port au Prince",
       "Carrefour",
       "Delmas",
       "Petionville",
@@ -442,7 +442,7 @@
   },
   {
     "country": "Kyrgyzstan",
-    "cities": ["Bishkek", "Osh", "Jalal-Abad", "Karakol", "Tokmok"]
+    "cities": ["Bishkek", "Osh", "Jalal Abad", "Karakol", "Tokmok"]
   },
   {
     "country": "Laos",
@@ -480,7 +480,7 @@
     "country": "Luxembourg",
     "cities": [
       "Luxembourg City",
-      "Esch-sur-Alzette",
+      "Esch sur Alzette",
       "Differdange",
       "Dudelange",
       "Ettelbruck"
@@ -531,7 +531,7 @@
     "country": "Mauritius",
     "cities": [
       "Port Louis",
-      "Beau Bassin-Rose Hill",
+      "Beau Bassin Rose Hill",
       "Vacoas",
       "Curepipe",
       "Quatre Bornes"
@@ -556,7 +556,7 @@
     "country": "Monaco",
     "cities": [
       "Monaco",
-      "Monte-Carlo",
+      "Monte Carlo",
       "La Condamine",
       "Fontvieille",
       "Larvotto"
@@ -676,7 +676,7 @@
   },
   {
     "country": "Romania",
-    "cities": ["Bucharest", "Cluj-Napoca", "Timișoara", "Iași", "Constanța"]
+    "cities": ["Bucharest", "Cluj Napoca", "Timișoara", "Iași", "Constanța"]
   },
   {
     "country": "Russia",
@@ -716,7 +716,7 @@
   },
   {
     "country": "Senegal",
-    "cities": ["Dakar", "Thiès", "Rufisque", "Kaolack", "Saint-Louis"]
+    "cities": ["Dakar", "Thiès", "Rufisque", "Kaolack", "Saint Louis"]
   },
   {
     "country": "Serbia",
@@ -740,7 +740,7 @@
     "country": "Singapore",
     "cities": [
       "Singapore",
-      "North-Eastern Region",
+      "North Eastern Region",
       "Eastern Region",
       "Western Region",
       "Central Region"
@@ -788,7 +788,7 @@
     "country": "Sri Lanka",
     "cities": [
       "Colombo",
-      "Dehiwala-Mount Lavinia",
+      "Dehiwala Mount Lavinia",
       "Moratuwa",
       "Negombo",
       "Kandy"
@@ -841,7 +841,7 @@
     "cities": ["Bangkok", "Nonthaburi", "Pak Kret", "Samut Prakan", "Hat Yai"]
   },
   {
-    "country": "Timor-Leste",
+    "country": "Timor Leste",
     "cities": ["Dili", "Suai", "Liquiçá", "Manatuto", "Viqueque"]
   },
   {
