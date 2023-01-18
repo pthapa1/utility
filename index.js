@@ -9,17 +9,17 @@ const addressTypes = [
   'things to do',
 ];
 
-const addressType = addressTypes[3]; // 0 - 3
+const addressType = addressTypes[0]; // 0 - 3
 const country = 'Albania';
 const cities = ['Tirana', 'Durrës', 'Vlorë', 'Shkodër', 'Elbasan'];
-const city = cities[1]; // 0 - 4 . Max of index 4
+const city = cities[3]; // 0 - 4 . Max of index 4
 
 console.log(`Searching ${addressType} in ${city}, ${country} `);
 
 // used to replace ][ with a comma (,)
 const options = {
   files: `./addresses/${country}.json`,
-  from: /\]\n\[/g,
+  from: /\]\s*\[/gm,
   to: ',',
   allowEmptyPaths: false,
 };
