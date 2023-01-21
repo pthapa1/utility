@@ -1,0 +1,2300 @@
+[
+  {
+    "name": "Hotel Bay Diab",
+    "address": "24 Av. Souidani Boudjemaa, El Mouradia 16000, Algeria",
+    "phone": "+21323481108"
+  },
+  {
+    "name": "ibis Alger Aéroport",
+    "address": "172 Rue Hassiba Ben Bouali, Belouizdad 16015, Algeria",
+    "phone": "17216015"
+  },
+  {
+    "name": "Sofitel Algiers Hamma Garden",
+    "address": "72 Rue Hassiba Ben Bouali, Sidi M'Hamed 16000, Algeria",
+    "phone": "+213770805040"
+  },
+  {
+    "name": "City Hotel Alger",
+    "address": "32 16040 -Algérie, Rue Mokhtari Belhouchat, Hussein Dey 16040, Algeria",
+    "phone": "321604016040"
+  },
+  {
+    "name": "Hôtel Mercure Alger Aéroport",
+    "address": "P57V+25 Trust Complex Buildings Nouveau, Bab Ezzouar 16311, Algeria",
+    "phone": "+21323741313"
+  },
+  {
+    "name": "Algiers Marriott Hotel Bab Ezzouar",
+    "address": "Mokhtari، 34 Rue des frères, Hussein Dey 16040, Algeria",
+    "phone": "+21323774747"
+  },
+  {
+    "name": "Hotel El Djazair",
+    "address": "2 Ave du Docteur Frantz Fanon, El Djazair, Algeria",
+    "phone": "+21321748252"
+  },
+  {
+    "name": "Hôtel Sidi Yahia",
+    "address": "B.P. 12, 5 Juillet Cité 5 Juillet, Bab Ezzouar 16311, Algeria",
+    "phone": "125516311"
+  },
+  {
+    "name": "The Legacy Luxury Hotel, Algiers Hydra - Ex Radisson Blu Hydra",
+    "address": "lot n 164 et 165 Cooperative, El Marsa 16130, Algeria",
+    "phone": "16416516130"
+  },
+  {
+    "name": "AZ Hotel Kouba",
+    "address": "05, Boulevard Emir Khaled, Bologhine, Algeria",
+    "phone": "+21344470566"
+  },
+  {
+    "name": "Résidence Du Port - Tamantfoust",
+    "address": "12 Rue Mouloud BELHOUCHAT, Hussein Dey, Algeria",
+    "phone": "+21323772626"
+  },
+  {
+    "name": "New day hotel Alger",
+    "address": "GVF8+5H5, Ouled Yaïch, Algeria",
+    "phone": "+21325420303"
+  },
+  {
+    "name": "Ferdi Lilly - Ben Aknoun",
+    "address": "14, Rue Sallah Eddine El Ayoubi, Algiers, Algeria",
+    "phone": "+213561901224"
+  },
+  {
+    "name": "Hôtel Atlantis Algiers",
+    "address": "02 Rue Abdelkader Ben- barek, Sidi M'Hamed 16014, Algeria",
+    "phone": "+21323515874"
+  },
+  {
+    "name": "ibis Alger Aéroport",
+    "address": "03 maison rouge, Kouba 16006, Algeria",
+    "phone": "+213542225856"
+  },
+  {
+    "name": "Lamaraz Hotels",
+    "address": "P2HF+23C, Rte de forét Parc, Hydra, Algeria",
+    "phone": "+21321542565"
+  },
+  {
+    "name": "Royal Sahel",
+    "address": "05, 03 Rue Mohamed Douzi, Bordj El Kiffan, Algeria",
+    "phone": "+21323801414"
+  },
+  {
+    "name": "TULIP INN NAYA",
+    "address": "Q3H5+3MP, Abane Ramdane St, El Djazair 16000, Algeria",
+    "phone": "+21321712801"
+  },
+  {
+    "name": "Hotel Bay Diab",
+    "address": "03 Cité Meliani, Ouled Yaïch 09015, Algeria",
+    "phone": "+213541846908"
+  },
+  {
+    "name": "Hôtel Oasis",
+    "address": "Q394+C4V, Rue Touati A.E.K, Sidi M'Hamed 16000, Algeria",
+    "phone": "+21321634094"
+  },
+  {
+    "name": "Golden Tulip Royaume",
+    "address": "Q3J6+36P, Rue Azouz BACHIR, Alger Ctre 16000, Algeria",
+    "phone": "+21344171953"
+  },
+  {
+    "name": "M Suite Hotel",
+    "address": "Q393+8RG, Alger 16000, Algeria",
+    "phone": "+21321634117"
+  },
+  {
+    "name": "Hotel Bay Diab",
+    "address": "Q3F5+C7C, Boulevard Mohamed Khemisti, El Djazair 16000, Algeria",
+    "phone": "+213790545117"
+  },
+  {
+    "name": "Lamaraz Hotels",
+    "address": "BP 201 Zéralda Algérie, Zeralda 16320, Algeria",
+    "phone": "20116320"
+  },
+  {
+    "name": "Residence Inn by Marriott Algiers Bab Ezzouar",
+    "address": "06 rue Lieutenant Salah Boulhart،, Rue Mohamed TOUILEB, Alger Ctre 16000, Algeria",
+    "phone": "+21321631009"
+  },
+  {
+    "name": "Holiday Inn Algiers - Cheraga Tower, an IHG Hotel",
+    "address": "PR8V+2PJ, Zeralda, Algeria",
+    "phone": "+21323325589"
+  },
+  {
+    "name": "AZ Hôtels Vieux Kouba",
+    "address": "Q335+FGC, Sidi M'Hamed, Algeria",
+    "phone": "+213560860175"
+  },
+  {
+    "name": "TULIP INN NAYA",
+    "address": "Q3R6+R64, Bab El Oued 16000, Algeria",
+    "phone": "+21321628200"
+  },
+  {
+    "name": "Dar Tlidjene Hotel",
+    "address": "Q345+3V8, Mohamed Belouizdad, Algeria",
+    "phone": "+21321665659"
+  },
+  {
+    "name": "Space Telemly Hotel",
+    "address": "23 Rue Ouled Sidi CHEICK, El Harrach 16000, Algeria",
+    "phone": "+21323827946"
+  },
+  {
+    "name": "Hôtel de l'Aéroport",
+    "address": "PRRV+FWC, Staoueli, Algeria",
+    "phone": "+21323201084"
+  },
+  {
+    "name": "Hôtel Ikram El Dhayf",
+    "address": "Q3F5+PRF, Rue BENCH, Alger Ctre 16000, Algeria",
+    "phone": "+21321740035"
+  },
+  {
+    "name": "Africa Nova Hotel",
+    "address": "P2GJ+Q7Q, Coop El Baraka. Route de Texerain Said Hamdin,, Birkhadem, Algeria",
+    "phone": "+21323598272"
+  },
+  {
+    "name": "Hotel Best Night",
+    "address": "169 Bd Colonel Krim Belkacem, Alger Ctre 16003, Algeria",
+    "phone": "16916003"
+  },
+  {
+    "name": "Hôtel Fort De L'eau",
+    "address": "Q8R4+WM2, Route de, Aïn Taya, Algeria",
+    "phone": "+21323681179"
+  },
+  {
+    "name": "RÉSIDENCE EL SCHEMS",
+    "address": "Sidi Fred Plage ouest, lot N° 16, Staoueli، Sidi Ferruch 16000, Algeria",
+    "phone": "+21321376485"
+  },
+  {
+    "name": "Hôtel Hani",
+    "address": "Palm Beach Lot, N11, Staoueli, Algeria",
+    "phone": "+21323201428"
+  },
+  {
+    "name": "فندق بالاس أبارت",
+    "address": "Bouchaoui 3, BP71, Chéraga 16107, Algeria",
+    "phone": "37116107"
+  },
+  {
+    "name": "Hôtel Zinou zm",
+    "address": "QX75+XV7, Chéraga, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Tulip Inn Naya",
+    "address": "P7QJ+PH5، rue adel nouddine Rouïba, Rouiba, Algeria",
+    "phone": "+21323854444"
+  },
+  {
+    "name": "Hydra Hotel",
+    "address": "Rue Ahmed, Sidi M'Hamed 16000, Algeria",
+    "phone": "+21323519120"
+  },
+  {
+    "name": "Lalla Doudja",
+    "address": "BP 201, Complexe Touristique de, Zéralda 16063, Algeria",
+    "phone": "20116063"
+  },
+  {
+    "name": "Samir Hôtel",
+    "address": "N°21 Route 36, Dely Ibrahim, Algeria",
+    "phone": "+21323312525"
+  },
+  {
+    "name": "Hôtel Adghir - Bordj El Kifan",
+    "address": "impasse 19 mars, Rouïba, Algeria",
+    "phone": "+21323855635"
+  },
+  {
+    "name": "Rais Hotel",
+    "address": "02 Lot Ben Haddadi Said,16002،, Chéraga 16002, Algeria",
+    "phone": "021600216002"
+  },
+  {
+    "name": "Hôtel Emir",
+    "address": "P6JJ+37G, Dar El Beïda, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Dar El Aaz - Bab Ezzouar",
+    "address": "10, Rue Kaouche, Cheraga, Algeria",
+    "phone": "+21323363854"
+  },
+  {
+    "name": "Hôtel du Val",
+    "address": "Boite Postale 62, Staoueli 16101, Algeria",
+    "phone": "+21321377777"
+  },
+  {
+    "name": "ABC Hotel",
+    "address": "Q322+HP3, Bd Des Martyrs, El Mouradia, Algeria",
+    "phone": "+21321692020"
+  },
+  {
+    "name": "Hôtel Jardy",
+    "address": "B.P. 12, 5 Juillet Cité 5 Juillet, Bab Ezzouar 16311, Algeria",
+    "phone": "125516311"
+  },
+  {
+    "name": "costa-aya appart hotel",
+    "address": "Pins Maritimes Mohammadia, 16000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "HOTEL ROZA",
+    "address": "QXC8+66Q Hotel Lounge, Entrée, Chéraga, Algeria",
+    "phone": "+213555042640"
+  },
+  {
+    "name": "Casablanca Hotel",
+    "address": "P6FQ+8CF, Dar El Beïda, Algeria",
+    "phone": "+21323858093"
+  },
+  {
+    "name": "Selma Appart Hôtel",
+    "address": "44 Rue Hassiba Ben Bouali, Sidi M'Hamed 16000, Algeria",
+    "phone": "+21321749757"
+  },
+  {
+    "name": "Hotel Ikram Bab Ezzouar",
+    "address": "cité 08 mai 1945 sec 01 lot 311, Bab Ezzouar 16311, Algeria",
+    "phone": "0819450131116311"
+  },
+  {
+    "name": "Hotel du Moulin",
+    "address": "Algeria, Dar El Beïda, Algeria",
+    "phone": "+21323823651"
+  },
+  {
+    "name": "Numidien Hotel Aéroport",
+    "address": "Rue de la Gare Dar el Beida, 18, Algiers 16033, Algeria",
+    "phone": "+21323675832"
+  },
+  {
+    "name": "Dar Diaf Hotel - Chéraga",
+    "address": "P5QP+Q7G, Bab Ezzouar, Algeria",
+    "phone": "+21321204132"
+  },
+  {
+    "name": "فندق دار الضياف",
+    "address": "Route Nationale N 05, Bab Ezzouar 16311, Algeria",
+    "phone": "+21323742525"
+  },
+  {
+    "name": "Hôtel Mercure Alger Aéroport",
+    "address": "18, Rue Abdelkader Remini, Ex Dujonchay, 16000, Algeria",
+    "phone": "+21321642652"
+  },
+  {
+    "name": "Sheraton Club des Pins Resort",
+    "address": "N° 50 Bd du 11 Decembre 1960, El Biar, Algeria",
+    "phone": "50111960"
+  },
+  {
+    "name": "hôtel Numidien",
+    "address": "P5FG+8FQ, Bab Ezzouar, Algeria",
+    "phone": "+21323832525"
+  },
+  {
+    "name": "Hôtel madaure",
+    "address": "33 Rue Tella Ahcena, Ekincik, Algeria",
+    "phone": "+21321342339"
+  },
+  {
+    "name": "Hôtel Cheraga",
+    "address": "P5WH+47G, Bordj El Kiffan, Algeria",
+    "phone": "+21321215824"
+  },
+  {
+    "name": "فندق بورنيسة",
+    "address": "74 Rue Didouche Mourad, Alger Ctre 16000, Algeria",
+    "phone": "+21323504994"
+  },
+  {
+    "name": "Hotel L'Olympic - Dely Brahim",
+    "address": "Bd Benyoucef Benkhedda, ( ex Sidi Yahia) Hydra, 16045, Algeria",
+    "phone": "+21321548942"
+  },
+  {
+    "name": "HOTEL HNR",
+    "address": "R754+V7J, Bordj El Bahri, Algeria",
+    "phone": "+21323879132"
+  },
+  {
+    "name": "Hotel Omaya Safa",
+    "address": "P2QJ+8QW, Hydra, Algeria",
+    "phone": "+21321548388"
+  },
+  {
+    "name": "Hôtel Les Sables d'Or",
+    "address": "cité 5 juilliet Algiers, 16311, Algeria",
+    "phone": "+213561912243"
+  },
+  {
+    "name": "Dar ediaf",
+    "address": "Saidi Ahmed, Bordj El Kiffan, Algeria",
+    "phone": "+21323974910"
+  },
+  {
+    "name": "Hôtel Dar Diaf SAADA",
+    "address": "Cité Segna Lot N. 317, Bab Ezzouar, Algeria",
+    "phone": "+21323809016"
+  },
+  {
+    "name": "Hotel AZ Vague D'Or - Palm Beach",
+    "address": "30 Rue Ali Abila, Bordj El Kiffan 16000, Algeria",
+    "phone": "+213778720336"
+  },
+  {
+    "name": "La Turquoise Hotel Restaurant",
+    "address": "125 125 Boulevard des martyrs -Sidi M’hamed, El Djazair, Algeria",
+    "phone": "+21323557389"
+  },
+  {
+    "name": "Hôtel Des Beaux Arts",
+    "address": "P4R2+9WW, Rue Hamoumene B, Hussein Dey 16000, Algeria",
+    "phone": "+21321777700"
+  },
+  {
+    "name": "Hôtel Les Capuccines - Said Hamdine",
+    "address": "Cité Boushaki D N°: 158, Bab Ezzouar 16024, Algeria",
+    "phone": "15816024"
+  },
+  {
+    "name": "Regina Hotel",
+    "address": "P665+935, Dar El Beïda, Algeria",
+    "phone": "+21321506250"
+  },
+  {
+    "name": "Les Abbassides Palm Beach",
+    "address": "01 Alger, Av. YAHIA FERRADI, El Djazair, Algeria",
+    "phone": "+21323505545"
+  },
+  {
+    "name": "Hotel L'evantail",
+    "address": "1 rue de l'Hôpital, Aïn Taya 16611, Algeria",
+    "phone": "+21323954792"
+  },
+  {
+    "name": "ف",
+    "address": "Route de l'université, Cité 5 juillet, Bab Ezzouar, Algeria",
+    "phone": "+21323925009"
+  },
+  {
+    "name": "Hostel ALAA Familial - El Harrach",
+    "address": "P57V+25 Trust Complex Buildings Nouveau, Bab Ezzouar 16024, Algeria",
+    "phone": "+21323741333"
+  },
+  {
+    "name": "Hôtel Suisse - Alger",
+    "address": "P3HG+5V5, Kouba, Algeria",
+    "phone": "+21321461177"
+  },
+  {
+    "name": "Plaza Hotel Alger",
+    "address": "02 Rte de Ouled Fayet, Chéraga 16002, Algeria",
+    "phone": "+21323285858"
+  },
+  {
+    "name": "Hotel Al Kettani",
+    "address": "1 Ave Rabia Mohamed, Kouba 16050, Algeria",
+    "phone": "+21323718542"
+  },
+  {
+    "name": "Hotel Mazafran",
+    "address": "Zone d’activité, Rte d'El Alia, Bab Ezzouar, Algeria",
+    "phone": "+213770343444"
+  },
+  {
+    "name": "Hotel Albert 1er",
+    "address": "9 Rue de l'ALN, Dar El Beïda, Algeria",
+    "phone": "+21323813738"
+  },
+  {
+    "name": "AZ Hotel Zeralda",
+    "address": "04, Rue MIKIDECHE MOULOUD ( Ex semar pierre )، 4, El Djazair 16000, Algeria",
+    "phone": "04416000"
+  },
+  {
+    "name": "British Hotel",
+    "address": "Zone Industrielle Beni Hamdine 115 C, 16057, Algeria",
+    "phone": "11516057"
+  },
+  {
+    "name": "Hôtel de la Poste فندق البريد",
+    "address": "Zone d’activité, Rte d'El Alia, Bab Ezzouar, Algeria",
+    "phone": "+213770343444"
+  },
+  {
+    "name": "Hôtel Malik Alger-centre فند مليك الجزائر الوسطى",
+    "address": "Route de l'université, Cité 5 juillet, Bab Ezzouar, Algeria",
+    "phone": "+21323925009"
+  },
+  {
+    "name": "BN Hotel",
+    "address": "32 16040 -Algérie, Rue Mokhtari Belhouchat, Hussein Dey 16040, Algeria",
+    "phone": "321604016040"
+  },
+  {
+    "name": "El Ghanami Hotel",
+    "address": "1 Ave Rabia Mohamed, Kouba 16050, Algeria",
+    "phone": "+21323718542"
+  },
+  {
+    "name": "Hôtel Sofiane",
+    "address": "P2JJ+RF5, Rue de Yassir, Bir Mourad Raïs, Algeria",
+    "phone": "+213770761427"
+  },
+  {
+    "name": "Golden Mouflons Hotel",
+    "address": "Quartier Des Affaires De, Bab Ezzouar 16011, Algeria",
+    "phone": "+21321988000"
+  },
+  {
+    "name": "Hostel Light",
+    "address": "Mokhtari، 34 Rue des frères, Hussein Dey 16040, Algeria",
+    "phone": "+21323774747"
+  },
+  {
+    "name": "Martyr's Memorial",
+    "address": "Q3M7+X6R, Boulevard Amilcar Cabral, Algiers, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Botanical Garden Hamma",
+    "address": "94 Bd Colonel Krim Belkacem, Alger Ctre, Algeria",
+    "phone": "+213553537128"
+  },
+  {
+    "name": "Bardo National Museum of Prehistory and Ethnography",
+    "address": "Q224+82R, Ben Aknoun, Algeria",
+    "phone": "+213662211700"
+  },
+  {
+    "name": "Museum of Fine Arts",
+    "address": "03 Rue Franklin Roosevelt Alger, Sidi M'Hamed 16000, Algeria",
+    "phone": "+21321647641"
+  },
+  {
+    "name": "Ketchaoua Mosque",
+    "address": "Q3P6+287, Casbah 16000, Algeria",
+    "phone": "36+28716000"
+  },
+  {
+    "name": "Djemaa El Djedid",
+    "address": "P3WC+CWR, Rue Du Dr Laveran, Algiers, Algeria",
+    "phone": "+213551402070"
+  },
+  {
+    "name": "Ben Aknoun National Park",
+    "address": "Chemin Omar Kechkar, El Madania, Algeria",
+    "phone": "+213772142535"
+  },
+  {
+    "name": "Teri Park",
+    "address": "R22V+93C, Rue de Zighara, Bologhine, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Beyrouth Parc",
+    "address": "P3XG+986, شارع, Mohamed Belouizdad, Algeria",
+    "phone": "+21321672292"
+  },
+  {
+    "name": "Dar Hassan Pacha",
+    "address": "25 Rue Larbi Ben M'hidi, Alger Ctre 16002, Algeria",
+    "phone": "+21321717252"
+  },
+  {
+    "name": "Dar Mustapha Pacha",
+    "address": "56 Route Nationale 24, Bordj El Kiffan 16411, Algeria",
+    "phone": "562416411"
+  },
+  {
+    "name": "Djamaa el Djazaïr",
+    "address": "7PW8+57X, Draa Essamar, Algeria",
+    "phone": "+213696231022"
+  },
+  {
+    "name": "National Museum of Antiquities and Islamic Art",
+    "address": "Q3F5+5QG, Rue Larbi Ben M'hidi, Alger Ctre 16000, Algeria",
+    "phone": "+21323923200"
+  },
+  {
+    "name": "The Great Mosque",
+    "address": "P3M3+M9G, Bir Mourad Raïs, Algeria",
+    "phone": "+213770906273"
+  },
+  {
+    "name": "Sacred Heart Cathedral",
+    "address": "P3RC+P4G, El Madania, Algeria",
+    "phone": "+21321905428"
+  },
+  {
+    "name": "Abdul Latif House",
+    "address": "Rue Du Dr Laveran, Algiers, Algeria",
+    "phone": null
+  },
+  {
+    "name": "National Museum of Arts and Popular Traditions",
+    "address": "P3RC+P4G, El Madania, Algeria",
+    "phone": "+21321905428"
+  },
+  {
+    "name": "Jardin d'essais - Alger",
+    "address": "P3XF+RR7, Rue Mohamed Belouizdad, Belouizdad, Algeria",
+    "phone": "+21321672292"
+  },
+  {
+    "name": "Army museum",
+    "address": "Q27W+JXW, Sidi M'Hamed 16000, Algeria",
+    "phone": "+213697103772"
+  },
+  {
+    "name": "Army museum",
+    "address": "Q3M7+W76, Rue El Mourabitoune, Casbah, Algeria",
+    "phone": "+213790391219"
+  },
+  {
+    "name": "Art Gallery Benyaa",
+    "address": "9 rue Mohamed Akli Malek, Casbah 16000, Algeria",
+    "phone": "+21321439908"
+  },
+  {
+    "name": "Piscine Aquafortland",
+    "address": "P4MR+RM2, Pins Martimes El Mohammadia, Mohammadia, Algeria",
+    "phone": "+21333333333"
+  },
+  {
+    "name": "Monastère de Tibhirine",
+    "address": "Q3P6+78C, Rue Aoua Abdelkader, Casbah 16000, Algeria",
+    "phone": "+21321439229"
+  },
+  {
+    "name": "Algiers Central Post Office",
+    "address": "177 Bd Colonel Krim Belkacem, Alger Ctre 16000, Algeria",
+    "phone": "17716000"
+  },
+  {
+    "name": "Museum of Modern Art of Algiers",
+    "address": "Q3P6+38X, Rue Cheik El KINAI, Casbah 16000, Algeria",
+    "phone": "+213551421462"
+  },
+  {
+    "name": "Marmara Deniz Oran",
+    "address": "Avenue De Canastel, Route Des Falaises, Oran 31000, Algeria",
+    "phone": "+21341982300"
+  },
+  {
+    "name": "Hotel Hadil",
+    "address": "06 bd zabour larbi hai khaldia, Oran 31000, Algeria",
+    "phone": "+21341746175"
+  },
+  {
+    "name": "Le Méridien Oran Hotel & Convention Centre",
+    "address": "M9C6+6MW, Av. de l'ANP, Oran 31000, Algeria",
+    "phone": "+213555557412"
+  },
+  {
+    "name": "Royal Hotel Oran - MGallery",
+    "address": "Zone des sièges, Oran, Algeria",
+    "phone": "+21341706000"
+  },
+  {
+    "name": "Four Points by Sheraton Oran",
+    "address": "Avenue Chakib Areslane, 4 Rue Asselah Hocine, Oran, Algeria",
+    "phone": "+21341218069"
+  },
+  {
+    "name": "Hôtel Bay Oran",
+    "address": "Les Genets Chemin De Wilaya, Route 75, 31000, Algeria",
+    "phone": "+21341984000"
+  },
+  {
+    "name": "Hôtels Liberté Oran",
+    "address": "39 W33, Oran, Algeria",
+    "phone": "+21341822828"
+  },
+  {
+    "name": "ibis Oran les Falaises",
+    "address": "3 Bd de la Soummam, Oran 31000, Algeria",
+    "phone": "+21341291717"
+  },
+  {
+    "name": "RODINA Hôtel, SPA",
+    "address": "Boulevard Du 19 Mars, Route Des Falaises, Oran 31000, Algeria",
+    "phone": "+21341590259"
+  },
+  {
+    "name": "AZ Hôtels Grand Oran",
+    "address": "Bir El Djir, Algeria",
+    "phone": "+21341590022"
+  },
+  {
+    "name": "Best Western Hotel Colombe Oran",
+    "address": "11 bd mohammed kemisti, Ain El Turk, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Ibiris - Hotel",
+    "address": "4 Rue Adda Gharbi Mohamed, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "L'Escale Hotel",
+    "address": "Ain El Turk, Algeria",
+    "phone": "+21341447003"
+  },
+  {
+    "name": "PACHA HOTEL",
+    "address": "P6QX+2MG, Route Nationale, Ain El Turk, Algeria",
+    "phone": "+213777013414"
+  },
+  {
+    "name": "Marmara Deniz Oran",
+    "address": "M9JV+946, Oran, Algeria",
+    "phone": "+213770577643"
+  },
+  {
+    "name": "Timgad",
+    "address": "18 Boulevard Zabana, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "ASSALA HOTEL",
+    "address": "Coopérative Les Dauphins Trouville, N.30 Ain Turc, Oran 31000, Algeria",
+    "phone": "+21341101232"
+  },
+  {
+    "name": "Hotel Oran Bay Managed By Accor",
+    "address": "P6VG+3PX, Ain El Turk, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Eden Phoenix Hotel",
+    "address": "19 Bd Hamou Boutlelis, place Guarguentah 31000, Algeria",
+    "phone": "+21341363130"
+  },
+  {
+    "name": "Hotel II Horloges Oran",
+    "address": "M8CP+5X5, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hotel Hadil",
+    "address": "M9W3+2F6, Rue des fréres Belhalfaoui, Oran, Algeria",
+    "phone": "+213559271657"
+  },
+  {
+    "name": "Charme El Cheikh Hotel",
+    "address": "15 Bis (Ex-Terry, Rue Larbi el Hadj, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "LB Suites Hotel",
+    "address": "complexes, El Ançor 31000, Algeria",
+    "phone": "+213770606801"
+  },
+  {
+    "name": "ASSALA HOTEL",
+    "address": "Village Corales N° 69, Ain El Turk, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hôtel La Brise",
+    "address": "P6RX+H2P, Ain El Turk, Algeria",
+    "phone": "+213556952122"
+  },
+  {
+    "name": "Hotel Hadil",
+    "address": "4 Bd Paradis plage, Ain El Turk, Algeria",
+    "phone": "+213552053703"
+  },
+  {
+    "name": "Charme El Cheikh Hotel",
+    "address": "70 Boulevard Doctor Benzerdjeb, Oran 31000, Algeria",
+    "phone": "+21341412562"
+  },
+  {
+    "name": "Eden Airport",
+    "address": "6 Rue Aïmeur Brahim, Oran El M'naouer, Oran, Algeria",
+    "phone": "+213799710073"
+  },
+  {
+    "name": "Hôtel Adef",
+    "address": "19 Rue Mouffok Abdelkader Nouvelle Ville, Oran 31000, Algeria",
+    "phone": "+213549601463"
+  },
+  {
+    "name": "GARDENIA HÔTEL",
+    "address": "Q53C+FHC, Corales Plages, Ain El Turk, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Les Ambassadeurs Oran",
+    "address": "P924+7JF, Rue Moulay Mohamed, Oran, Algeria",
+    "phone": "+21341332628"
+  },
+  {
+    "name": "Medina Hotel Oran",
+    "address": "47 Rue Hadj Salah ex Bey Brahim, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hotel Ikram Oran",
+    "address": "39 Rue Larbi Ben M'Hidi, Oran, Algeria",
+    "phone": "+21341293175"
+  },
+  {
+    "name": "Résidence iyad ain turck",
+    "address": "06 bd zabour lardi hai khaldia, Oran, Algeria",
+    "phone": "+213550675918"
+  },
+  {
+    "name": "Calypso",
+    "address": "12 rue Arago، Place des victoires, Oran 31000, Algeria",
+    "phone": "+21341331431"
+  },
+  {
+    "name": "El Mouahidine Oran",
+    "address": "05 Rue Bouguetaia, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "EDEN Resort & Spa",
+    "address": "N° 15, Rue Benaoui Bachir - Hai Yaghmouracen (ex. st pièrre), Oran 31000, Algeria",
+    "phone": "+21341384375"
+  },
+  {
+    "name": "Hotel Restaurant Hadil",
+    "address": "P935+M25، Rue Larbi el Hadj، 15 bis, Oran 31000, Algeria",
+    "phone": "935+251531000"
+  },
+  {
+    "name": "Hotel II Horloges Oran",
+    "address": "MCX2+HCV, Bir El Djir, Algeria",
+    "phone": "+21341706262"
+  },
+  {
+    "name": "Golden Tulip Adef Oran",
+    "address": "M9X5+9MG, Oran, Algeria",
+    "phone": "+21341302115"
+  },
+  {
+    "name": "Residance Nadra",
+    "address": "PCH9+78V, Bir El Djir, Algeria",
+    "phone": "+21341431133"
+  },
+  {
+    "name": "Hôtel Astoria",
+    "address": "P937+PPR, Djellat Bel, Oran, Algeria",
+    "phone": "+21341411564"
+  },
+  {
+    "name": "Centre Thermal Hôtel plaza st roch",
+    "address": "W84, El Ançor, Algeria",
+    "phone": "+21341111108"
+  },
+  {
+    "name": "Le Zenith hotel Oran",
+    "address": "P6VQ+QF8, Boulevard de la Republique, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Plaza Hotel Oran",
+    "address": "M996+3CJ, Oran, Algeria",
+    "phone": "+21341233045"
+  },
+  {
+    "name": "Fantazia Hotel Oran",
+    "address": "d, Îlot 5 n 01 Hai Khemisti - Oran En face la, Oran 31000, Algeria",
+    "phone": "50131000"
+  },
+  {
+    "name": "Hôtel Mistral",
+    "address": "14 Bvd Emir AEK, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Résidence Le Jasmin",
+    "address": "P933+MPV, Bd de la Soummam, Oran, Algeria",
+    "phone": "+33986532148"
+  },
+  {
+    "name": "Sofi Hotel Oran",
+    "address": "P6WM+JP3, Rue 8 Mai 1945, Aïn El Turk, Algeria",
+    "phone": "+21341100131"
+  },
+  {
+    "name": "Hôtel Ghani Plage Aïn El Turk , ST Roch",
+    "address": "3100, Oran, Algeria",
+    "phone": "+21341331934"
+  },
+  {
+    "name": "Hotel Chanez Dream",
+    "address": "M9PR+73C, Oran, Algeria",
+    "phone": "+21341750967"
+  },
+  {
+    "name": "Hôtel Cabaret Saint Germain",
+    "address": "23 Med Boudiaf Ex Rue Mostaganem, Rue, Oran 31000, Algeria",
+    "phone": "+21341333116"
+  },
+  {
+    "name": "MH HOTEL",
+    "address": "P6QW+778, Ain El Turk, Algeria",
+    "phone": "+213672300816"
+  },
+  {
+    "name": "Handsome Hotel",
+    "address": "62 Boulvard Houha Mohamed, Oran, Algeria",
+    "phone": "+21341215425"
+  },
+  {
+    "name": "El Mouahidine Hotel",
+    "address": "41 W75, Bir El Djir, Algeria",
+    "phone": "+213560144341"
+  },
+  {
+    "name": "Hôtel New Beach",
+    "address": "M9W2+CXQ, Rue Stambouli, Ben Aissa, Algeria",
+    "phone": "+21341401652"
+  },
+  {
+    "name": "Hotel Lalla Mokhtara",
+    "address": "Q638+9PG، Rue de la république, Aïn El Turk 31000, Algeria",
+    "phone": "+21341603147"
+  },
+  {
+    "name": "Hôtel Zatir",
+    "address": "24 Avenue Cheikh Abdelkader, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Résidence Les Pins D'or",
+    "address": "Q655+3WR, Ain El Turk, Algeria",
+    "phone": "+213772412509"
+  },
+  {
+    "name": "Résidence Light Flash",
+    "address": "10, Bis Bd Mohamed Khmisti, Ain El Turk, Algeria",
+    "phone": "+213668418230"
+  },
+  {
+    "name": "Hôtel du Jardin",
+    "address": "77, Rue du 1 Novembre 1954, Oran 31000, Algeria",
+    "phone": "771195431000"
+  },
+  {
+    "name": "Eden Village",
+    "address": "78 Coopérative En Nejma Cap falcon 31014 Ain turck Oran، Ain turck 31014, Algeria",
+    "phone": "783101431014"
+  },
+  {
+    "name": "Hotel l' Horloge",
+    "address": "9, Route El Manara Cap Falcon , Ain El Turck, Oran 31014, Algeria",
+    "phone": "+213551173153"
+  },
+  {
+    "name": "Hôtel El Maghreb El Arabi",
+    "address": "Oran 31000, Algeria",
+    "phone": "+21341214269"
+  },
+  {
+    "name": "HÔTEL RHOUFI",
+    "address": "23 Rue de Paris Ain el Turck, Oran, Ain El Turk, Algeria",
+    "phone": "+21341100738"
+  },
+  {
+    "name": "Hôtel Le Galion",
+    "address": "P46H+73V, El Ançor, Algeria",
+    "phone": "+213555032718"
+  },
+  {
+    "name": "Hôtel le Majestic Oran",
+    "address": "Benaouda, Plateau, 36 R S L Hamdani Adda, Oran 31000, Algeria",
+    "phone": "+21341412888"
+  },
+  {
+    "name": "Hôtel 08 Mai 1945",
+    "address": "Es Senia, Algeria",
+    "phone": "+21341516104"
+  },
+  {
+    "name": "Hotel Costa-Rica",
+    "address": "Ain El Turk 31000, Algeria",
+    "phone": "+213791723355"
+  },
+  {
+    "name": "Continental-Hôtel",
+    "address": "Zone des sièges, Oran, Algeria",
+    "phone": "+21341706262"
+  },
+  {
+    "name": "Porte d'Oran Hotel",
+    "address": "M9VH+3WC, Ave Maalem Larbi et Bentayeb, Oran, Algeria",
+    "phone": "+21341747778"
+  },
+  {
+    "name": "Hotel Montparnasse",
+    "address": "31000, Oran 31000, Algeria",
+    "phone": "3100031000"
+  },
+  {
+    "name": "Hôtel El Ayoune",
+    "address": "P97M+J4F, Oran, Algeria",
+    "phone": "+21341723232"
+  },
+  {
+    "name": "Hotel Santa Cruz Oran",
+    "address": "P95F+P3F, Oran, Algeria",
+    "phone": "+213554859323"
+  },
+  {
+    "name": "Hôtel Président",
+    "address": "199 Bis avenue, Sidi Chami 31000, Algeria",
+    "phone": "19931000"
+  },
+  {
+    "name": "Hôtel Andalous",
+    "address": "27 hai commandant si tarick, Aïn El Turk, Algeria",
+    "phone": "+213782777791"
+  },
+  {
+    "name": "Hotel Miami Beach.",
+    "address": "31 Bvd Emir AEK, Oran, Algeria",
+    "phone": "+21341293242"
+  },
+  {
+    "name": "Hôtel El Ksar",
+    "address": "P5XX+HMM, Ain El Turk, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hotel Jasmin",
+    "address": "6 Bd de L'A.L.N, Oran, Algeria",
+    "phone": "+21341336013"
+  },
+  {
+    "name": "Oran plein centre ville",
+    "address": "Hai Khemisti Lots 36 N°33, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hôtel le Cheval Blanc",
+    "address": "13 Bd Abderahmane Mira, Oran, Algeria",
+    "phone": "+21341363105"
+  },
+  {
+    "name": "Hôtel Lalla Mokhtara",
+    "address": "Ronde point de l'aéroport Ahmed ben bella, Oran 31000, Algeria",
+    "phone": "+21341516104"
+  },
+  {
+    "name": "Hôtel Dairi",
+    "address": "N°6 place 20 août , restaurant la calypso, Ain El Turk 31300, Algeria",
+    "phone": "62031300"
+  },
+  {
+    "name": "Hotel Raja",
+    "address": "Q639+6PF, Ain El Turk, Algeria",
+    "phone": "+213561655314"
+  },
+  {
+    "name": "Assala",
+    "address": "Q629+V34, Ain El Turk, Algeria",
+    "phone": "+213775665355"
+  },
+  {
+    "name": "Hôtel Windsor Oran",
+    "address": "25 Rue de Tlemcen, Oran 31000, Algeria",
+    "phone": "+21341219725"
+  },
+  {
+    "name": "Hôtel El Madina",
+    "address": "Oran, Algeria",
+    "phone": "+213655207017"
+  },
+  {
+    "name": "Hôtel KHALID",
+    "address": "M8XX+4QG, Oran, Algeria",
+    "phone": "+21341307614"
+  },
+  {
+    "name": "Résidence Le Voilier Chez Kamel",
+    "address": "6 Bd des Dunes, Aïn El Turk 31000, Algeria",
+    "phone": "+213558112041"
+  },
+  {
+    "name": "Hotel Du Lycee",
+    "address": "6 Bd de L'A.L.N, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hotel El Azhar",
+    "address": "Route Nationale de l'Aéroport, Oran 31000، 31000, Algeria",
+    "phone": "3100031000"
+  },
+  {
+    "name": "Hôtel l'Alhambra",
+    "address": "Ville Nouvelle, 14 Bd Zabana, Oran 31000, Algeria",
+    "phone": "+21326217171"
+  },
+  {
+    "name": "Hotel Ichbilia",
+    "address": "angle bd de la plage et la route national niche 1159, Ain El Turk 31014, Algeria",
+    "phone": "115931014"
+  },
+  {
+    "name": "Hotel Ahlem",
+    "address": "39, Bvd Maâta Mohamed El-Habib، 31000, Algeria",
+    "phone": "+213770429392"
+  },
+  {
+    "name": "Hôtel Corales",
+    "address": "4e Rocade d'Oran, Bir El Djir, Algeria",
+    "phone": "+213558602443"
+  },
+  {
+    "name": "Hôtel tassili",
+    "address": "Bir El Djir, Algeria",
+    "phone": "+21341706329"
+  },
+  {
+    "name": "Hotel Talbi",
+    "address": "Ville Nouvelle, 14 Bd Zabana, Oran 31000, Algeria",
+    "phone": "+21326217171"
+  },
+  {
+    "name": "Hôtel & Salle des fêtes Chahrazed",
+    "address": "4e Rocade d'Oran, Bir El Djir, Algeria",
+    "phone": "+213558602443"
+  },
+  {
+    "name": "Hôtel KAMEL",
+    "address": "13 Bd Abderahmane Mira, Oran, Algeria",
+    "phone": "+21341363105"
+  },
+  {
+    "name": "المركب السياحي الأندلس",
+    "address": "39, Bvd Maâta Mohamed El-Habib، 31000, Algeria",
+    "phone": "+213770429392"
+  },
+  {
+    "name": "Le Zenith Hotel Oran",
+    "address": "JCF4+X99, Rond point de l'aéroport d'Es-Sénia, Oran 31000, Algeria",
+    "phone": "+21341516157"
+  },
+  {
+    "name": "La Belle Residence Trouville",
+    "address": "P923+R56, Bvd Emir AEK, Oran, Algeria",
+    "phone": "+21341456590"
+  },
+  {
+    "name": "Restaurant PRALIN illusion",
+    "address": "P934+7WC, Rue Med Khemisti, Oran, Algeria",
+    "phone": "+21341361215"
+  },
+  {
+    "name": "مطعم الأهرام",
+    "address": "local n 2, 35 Av. d'Arcole, Oran, Algeria",
+    "phone": "+213550243124"
+  },
+  {
+    "name": "Arabesque Restaurant",
+    "address": "28 Rue de Soeurs Benslimane, Oran 3100, Algeria",
+    "phone": "+21341293865"
+  },
+  {
+    "name": "La Frégate (Poissons Frais & Paella)",
+    "address": "14 Bd de la Soummam, Oran 31000, Algeria",
+    "phone": "+213560000346"
+  },
+  {
+    "name": "Ambiance Villa",
+    "address": "P95Q+6M4, Oran, Algeria",
+    "phone": "+213553890541"
+  },
+  {
+    "name": "Restaurant Côte d'oran",
+    "address": "Route des Falaises Avenue Canastel, Seddikia, Oran 31025, Algeria",
+    "phone": "+21341590100"
+  },
+  {
+    "name": "Barbarossa",
+    "address": "P946+722, Bd Abane Ramdane, Oran, Algeria",
+    "phone": "+213799371612"
+  },
+  {
+    "name": "Le Cintra",
+    "address": "03, W75, Oran, Algeria",
+    "phone": "+213553896275"
+  },
+  {
+    "name": "Le Ciel D' Oran Restaurant",
+    "address": "Residence Sofia Leonor, Bir El Djir 31000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Mauritania",
+    "address": "09 Bd Wahrani Boumediene, Oran, Algeria",
+    "phone": "+213560993322"
+  },
+  {
+    "name": "Maharaja Indian Restaurant, Courbet,Oran",
+    "address": "P94V+5H8, Oran, Algeria",
+    "phone": "+213552213473"
+  },
+  {
+    "name": "Pecherie la CONFIANCE",
+    "address": "522 îlot 15 hay, Rue Med Khemisti, Algeria",
+    "phone": "+213670210000"
+  },
+  {
+    "name": "YAM YAM",
+    "address": "PCWG+6VH, Oran, Algeria",
+    "phone": "+21341734186"
+  },
+  {
+    "name": "Restaurant sevilla",
+    "address": "Unnamed Road, Algeria",
+    "phone": "+213559413519"
+  },
+  {
+    "name": "El Firdaous",
+    "address": "P935+GC6, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Bekhchi Restaurant",
+    "address": "Akid lotfi résidence nassim el bahr bloc d Cali B Oran Akid lotfi, 31000, Algeria",
+    "phone": "+213782361756"
+  },
+  {
+    "name": "Café Lebanon",
+    "address": "PCG7+W4R, Bir El Djir, Algeria",
+    "phone": "+213542698727"
+  },
+  {
+    "name": "La Grotte Aux Fondues Oran",
+    "address": "P93Q+4MX, Ave Khiali Ben Salem Mohamed, Oran, Algeria",
+    "phone": "+213662504027"
+  },
+  {
+    "name": "Restaurant Bombay Food",
+    "address": "P929+GMQ, Rue Harouni Bouziane, Oran, Algeria",
+    "phone": "+213541327466"
+  },
+  {
+    "name": "Restaurant darna",
+    "address": "PCF7+Q3C, Rue Benameur Mohamed, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Bekhchi Restaurant",
+    "address": "akid lotfi, 31000, Bir El Djir 31000, Algeria",
+    "phone": "3100031000"
+  },
+  {
+    "name": "Restaurante La Comete",
+    "address": "M9RM+GPQ, Oran, Algeria",
+    "phone": "+213559328807"
+  },
+  {
+    "name": "Houari restaurant",
+    "address": "PCQH+FRP, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Jijli restaurant",
+    "address": "PCG6+9JP, Unnamed Road, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Raynes food oran",
+    "address": "P922+RW2, Djaoudi Abderrahmane, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "RESTAURANT idaa مطعم الإذاعة",
+    "address": "PC89+GG2, Bd Millenium 2, Bir El Djir, Algeria",
+    "phone": "+213560737900"
+  },
+  {
+    "name": "The Tower Restaurant",
+    "address": "P94C+HVG, Av. Ould Kablia Saliha, Oran 31000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Bistrot Lena's",
+    "address": "06 .Cité 20 août 1955 (militaire) CANASTEL, ORAN, EL M'NAOUER, Algeria",
+    "phone": "06201955"
+  },
+  {
+    "name": "111 Restaurant - Pizzeria et restaurant",
+    "address": "12 Rue Bouhaous Mohamed, Oran 31000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "مطعم الباي",
+    "address": "6 Rue Benhamed Lahouari, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "steak house",
+    "address": "24 Rue Larbi Ben M'Hidi, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Restaurant des Chasseurs",
+    "address": "33 Bvd Commandant Benadda Benaouda, Oran, Algeria",
+    "phone": "+213550569427"
+  },
+  {
+    "name": "Central Perk Oran",
+    "address": "48 Av. Max Marchand, Oran, Algeria",
+    "phone": "+213558467174"
+  },
+  {
+    "name": "Restaurant la Pergola",
+    "address": "P85V+FVG, Rue John F Kennedy, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Oran Oran ok",
+    "address": "14 Rue Med Khemisti, Oran, Algeria",
+    "phone": "+213556807707"
+  },
+  {
+    "name": "La Corrida",
+    "address": "P923+X5J, Rue Djellaili, Oran, Algeria",
+    "phone": "+213778117730"
+  },
+  {
+    "name": "Titanic",
+    "address": "PCC6+WWC, Unnamed Road, Bir El Djir, Algeria",
+    "phone": "+213776092442"
+  },
+  {
+    "name": "Restaurant Salem",
+    "address": "PCH7+37G, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Bab Errayane",
+    "address": "M9W9+G4W, Rue Bouhaous Mohamed, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "مطعم الحلبي",
+    "address": "26 Rue Zougai Ali, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "la nostra",
+    "address": "P97Q+H88, Canastel Ave, Oran 31000, Algeria",
+    "phone": "+213549857748"
+  },
+  {
+    "name": "RESTAURANT 131",
+    "address": "09 République sidi el-Houari, Bd de L'A.L.N, Oran, Algeria",
+    "phone": "+213770999931"
+  },
+  {
+    "name": "Rustica",
+    "address": "23 Rue Larbi Ben M'Hidi, Oran, Algeria",
+    "phone": "+213540853828"
+  },
+  {
+    "name": "Restaurant Patus",
+    "address": "M9W9+RMG, en face la daira, Oran, Algeria",
+    "phone": "+213555130956"
+  },
+  {
+    "name": "RESTAURANT SUD & CIE",
+    "address": "Restaurant djabali, Boulvard Des Lions, Oran, Algeria",
+    "phone": "+213541865531"
+  },
+  {
+    "name": "سافانا",
+    "address": "PCC6+F6V, Unnamed Road, Oran, Algeria",
+    "phone": "+213552049257"
+  },
+  {
+    "name": "restaurant poisson rais hamidou",
+    "address": "PCG7+CGG, Bir El Djir, Algeria",
+    "phone": "+21341871836"
+  },
+  {
+    "name": "El Karama",
+    "address": "P96Q+Q8G, Bd Wahrani Boumediene, Oran, Algeria",
+    "phone": "+213778661766"
+  },
+  {
+    "name": "Le Marquis",
+    "address": "Cite ECOBAT. Hai Akid Lotfi ،, Rue Dubaï, Oran, Algeria",
+    "phone": "+213540861635"
+  },
+  {
+    "name": "Restaurant traditionnel « El-Foursane »",
+    "address": "PCG6+4MR, Unnamed Road, Oran, Algeria",
+    "phone": "+213555431473"
+  },
+  {
+    "name": "La Cantine",
+    "address": "Oran 31000, Algeria",
+    "phone": "+213554101402"
+  },
+  {
+    "name": "So Good Oran",
+    "address": "PCG7+X5W, Bir El Djir, Algeria",
+    "phone": "+213557158151"
+  },
+  {
+    "name": "Santorino",
+    "address": "PCJ8+MQH, Bir El Djir, Algeria",
+    "phone": "+21341622635"
+  },
+  {
+    "name": "Chicken Street Oran, Bir El Djir",
+    "address": "P96J+VH5, Rue Mohamed Ben Tayeb, Oran, Algeria",
+    "phone": "+213779798721"
+  },
+  {
+    "name": "O'CHEF",
+    "address": "PCF6+6XW, Bir El Djir, Algeria",
+    "phone": "+21341871150"
+  },
+  {
+    "name": "King Food",
+    "address": "18 Av. d'Arcole, Oran, Algeria",
+    "phone": "+213797456902"
+  },
+  {
+    "name": "So Good",
+    "address": "Restaurant & fast Food, LNS, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "ILLUSIA Khemisti",
+    "address": "31000, Oran 31000, Algeria",
+    "phone": "3100031000"
+  },
+  { "name": "Favola", "address": "P937+X8M, Oran, Algeria", "phone": null },
+  {
+    "name": "Restaurant El Ostoura",
+    "address": "M9RF+C38, Av. des 40 Martyrs, Oran, Algeria",
+    "phone": "+213559041924"
+  },
+  {
+    "name": "LNS Restaurant & Fast Food Oran",
+    "address": "PC7G+2Q3, Boulvard Des Lions, Bir El Djir, Algeria",
+    "phone": "+213793687970"
+  },
+  {
+    "name": "Restaurant St. Tropez",
+    "address": "PCG6+GCR, Bir El Djir, Algeria",
+    "phone": "+213772544217"
+  },
+  {
+    "name": "Jil's Burger",
+    "address": "31000, Algeria",
+    "phone": "+213792014663"
+  },
+  {
+    "name": "It-Side",
+    "address": "Rue Med Khemisti, Oran, Algeria",
+    "phone": "+213777244815"
+  },
+  {
+    "name": "Dami's Food & Drink",
+    "address": "07 Rue Di Bou Kheloua Cheikh, Oran, Algeria",
+    "phone": "+213542511599"
+  },
+  {
+    "name": "Moyo restaurant & lounge",
+    "address": "06, Rue de la Paix, Oran, Algeria",
+    "phone": "+213661807878"
+  },
+  {
+    "name": "Le Gratiné Oran",
+    "address": "PCMC+64J, Bir El Djir, Algeria",
+    "phone": "+213550011818"
+  },
+  {
+    "name": "snack 31 courbet",
+    "address": "P97M+3HH, Canastel Ave, Oran 31000, Algeria",
+    "phone": "+213779201995"
+  },
+  {
+    "name": "Palais Royal Restaurant",
+    "address": "kada, 6 Rue Benouis Kadda, Oran, Algeria",
+    "phone": "+213560954455"
+  },
+  {
+    "name": "Pizzeria NBIA ORAN ONE",
+    "address": "Avenue De Canastel, Route Des Falaises, Oran 31000, Algeria",
+    "phone": "+21341982300"
+  },
+  { "name": "Restaurant Djabali", "address": "Oran, Algeria", "phone": null },
+  {
+    "name": "Blend restaurant",
+    "address": "60 Rue Houari Boualouane, Oran 31000, Algeria",
+    "phone": "+21341825738"
+  },
+  {
+    "name": "Villa Riviera",
+    "address": "PCC6+6MC, Bir El Djir, Algeria",
+    "phone": "+213550200688"
+  },
+  {
+    "name": "AU BOUQUET GARNI PIZZA TRAITEUR",
+    "address": "PCC3+RX2, Bir El Djir, Algeria",
+    "phone": "+213770728117"
+  },
+  {
+    "name": "مشاوي السلطان",
+    "address": "PC8G+M3Q، restaurants, Bir El Djir, Algeria",
+    "phone": "+213799954526"
+  },
+  {
+    "name": "Grillade",
+    "address": "14 Rue Med Khemisti, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Mini Donuts",
+    "address": "52 Rue des Freres Niati, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Barbarossa",
+    "address": "32 Rue Mohamed Khemisti, Oran 31000, Algeria",
+    "phone": "+213553734571"
+  },
+  {
+    "name": "Restaurant le Corsaire",
+    "address": "M9WH+FPH, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Le Cardinal",
+    "address": "P935+3MF, Rue Med Benabdeslem, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Restaurant le bon coin",
+    "address": "11 Rue Nadjah Mahyou, Oran, Algeria",
+    "phone": "+21341414141"
+  },
+  {
+    "name": "Tom and gerry pizza",
+    "address": "62 Rue Larbi Ben M'hidi, Oran 31000, Algeria",
+    "phone": "+213542593879"
+  },
+  {
+    "name": "Le Manifeste",
+    "address": "1 Bd Abane Ramdane, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Bab Cham - Syrian restaurant",
+    "address": "Place fontanelle, Oran 31000, Algeria",
+    "phone": "+213552372557"
+  },
+  {
+    "name": "مطعم الجمهورية Restaurant El Jomhouria",
+    "address": "Oran, Algeria",
+    "phone": "+213559926095"
+  },
+  {
+    "name": "Restaurant Cow Boy",
+    "address": "Oran 31000, Algeria",
+    "phone": "+213550365361"
+  },
+  {
+    "name": "Restaurant Trocadéro",
+    "address": "P96Q+587, Oran, Algeria",
+    "phone": "+21341824474"
+  },
+  {
+    "name": "Cé La Vi Oran",
+    "address": "Coopėrative El manakh,《Mėtėo》 Ibn Rochd 31000, Algérie, 31000, Algeria",
+    "phone": "3100031000"
+  },
+  {
+    "name": "Oran A9id lotfi!",
+    "address": "31000, Algeria",
+    "phone": "+213554016957"
+  },
+  {
+    "name": "Restaurant La Rebpublique",
+    "address": "P94F+WRF, Oran, Algeria",
+    "phone": "+213561956034"
+  },
+  {
+    "name": "PIZZERIA & RESTAURANT GARDEN",
+    "address": "P934+G3Q, Rue Lakhdar Hafiz, Oran, Algeria",
+    "phone": "+213776503603"
+  },
+  {
+    "name": "Fish House",
+    "address": "P927+G87, Rue Djoundi MALTI Ahmed, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "O’klm snack",
+    "address": "Rue Bouhaous Mohamed, Oran 31000, Algeria",
+    "phone": "+213770594352"
+  },
+  {
+    "name": "Corniche",
+    "address": "P926+GJG, Rue Kouaidia A.E.K, Oran, Algeria",
+    "phone": "+213659030486"
+  },
+  {
+    "name": "Restaurant Nour Traditionnel",
+    "address": "Rond point palais d’or, Oran 31000, Algeria",
+    "phone": "+213560000815"
+  },
+  {
+    "name": "Duo Pizza",
+    "address": "Oran 31000, Algeria",
+    "phone": "+213780101010"
+  },
+  {
+    "name": "Restauration Les ambassadeurs du scham",
+    "address": "P933+GQM, Rue de la Paix, Oran, Algeria",
+    "phone": "+213668932810"
+  },
+  {
+    "name": "César restaurant",
+    "address": "1 Rue de la Paix, Oran, Algeria",
+    "phone": "+21341294584"
+  },
+  {
+    "name": "La Petite Maison",
+    "address": "Rond point palais d’or, Oran 31000, Algeria",
+    "phone": "+213560000815"
+  },
+  {
+    "name": "Cali bagels",
+    "address": "1 Rue Benomari Med, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Shop'in Mall Oran",
+    "address": "45rue stamboulie ben issa ville nouvelle, Oran, Algeria",
+    "phone": "+213549352336"
+  },
+  {
+    "name": "Ritaj Mall Oran",
+    "address": "45 Rue Hadj Salah Med, Oran, Algeria",
+    "phone": null
+  },
+  { "name": "Oran Grand", "address": "39, W33, Oran, Algeria", "phone": null },
+  {
+    "name": "EDEN centre commercial",
+    "address": "M9G9+3HV, Oran, Algeria",
+    "phone": "+21341247540"
+  },
+  {
+    "name": "Rody__17",
+    "address": "PC4Q+X8R, Bir El Djir, Algeria",
+    "phone": "+213560600459"
+  },
+  {
+    "name": "Ahlem Center",
+    "address": "P937+7W6, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Centre Commercial Sidi Yahia",
+    "address": "P94C+PVR, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Centre Commercial El Menzah",
+    "address": "M8XX+VQ9, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Maata Center",
+    "address": "M8HQ+HR4, W73, Oran, Algeria",
+    "phone": "+213770202829"
+  },
+  {
+    "name": "Centre commercial Aljazair",
+    "address": "M9JV+5HX، N4, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Centre Commercial EL GHARB mall",
+    "address": "JCQ5+5XJ, N4, El Kerma, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Es-Senia Shopping & Leisure Center",
+    "address": "J9WW+4X, Es Senia, Algeria",
+    "phone": null
+  },
+  {
+    "name": "سوق المدينة الجديدة",
+    "address": "Plaza, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Home Center Oran",
+    "address": "M9P2+6MC, Oran, Algeria",
+    "phone": "+213795537266"
+  },
+  {
+    "name": "Centre commercial & loisirs Es-Senia",
+    "address": "Bir El Djir, Classe 5 N° 459, 31130, Algeria",
+    "phone": "545931130"
+  },
+  {
+    "name": "UNO Hypermarché",
+    "address": "31000 Av. Max Marchand, Oran, Algeria",
+    "phone": "+213551699490"
+  },
+  {
+    "name": "KÄRCHER CENTER SIAD",
+    "address": "Place fontanelle, Oran 31000, Algeria",
+    "phone": "+213552372557"
+  },
+  {
+    "name": "Centre commercial Oran",
+    "address": "39 Rue Med Khemisti, Oran, Algeria",
+    "phone": "+21341336744"
+  },
+  {
+    "name": "Eden park",
+    "address": "2ooo logements Akid Lotfi, En face du Cco Méridien Oran, 31000, Algeria",
+    "phone": "+213556639900"
+  },
+  {
+    "name": "Khawaja Shopping Centre",
+    "address": "cite 338logt es sabah, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Eden park",
+    "address": "Rue Bouazza Abdallah, Oran 31000, Algeria",
+    "phone": "+213697681097"
+  },
+  {
+    "name": "Khawaja Shopping Centre",
+    "address": "PC82+W67, Oran, Algeria",
+    "phone": "+213661228080"
+  },
+  {
+    "name": "Stradivarius",
+    "address": "351 Oran Park Dr, Oran Park NSW 2570, Australia",
+    "phone": "+61290437550"
+  },
+  {
+    "name": "Nike store Senia mall",
+    "address": "110 Rue Med Boudiaf, Oran, Algeria",
+    "phone": "+21341382115"
+  },
+  {
+    "name": "Copy center",
+    "address": "M9VG+J8M, Rue Boudjrida Boutkhil, Oran, Algeria",
+    "phone": "+213561857050"
+  },
+  {
+    "name": "vapever Centre Commercial & de Loisirs Es-Senia",
+    "address": "Es Senia, Algeria",
+    "phone": "+213656664823"
+  },
+  {
+    "name": "Center house",
+    "address": "49 Bd Si Moussadegh Froment Cost, Rue Belair, Oran 31000, Algeria",
+    "phone": "+213554298679"
+  },
+  {
+    "name": "Boubaaya",
+    "address": "SIDI MAAROUF 31000, Algeria",
+    "phone": "+213773531942"
+  },
+  {
+    "name": "بارك المدينة جديدة",
+    "address": "M8GX+89J, Mekki Khelifa Ave, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Trans plaza Oran",
+    "address": "108 Rue Capitaine Hamri, Oran, Algeria",
+    "phone": "+213549852258"
+  },
+  {
+    "name": "Derimod",
+    "address": "M8JV+VPX, Av. Lieutenant Smain, Oran, Algeria",
+    "phone": "+213793170783"
+  },
+  {
+    "name": "Parking Of Es-Senia Shopping Mall",
+    "address": "M9V4+C22, Bd Zabana, Oran 31000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Le Nomade Oran",
+    "address": "31000, Algeria",
+    "phone": "+213556723606"
+  },
+  {
+    "name": "ZARA",
+    "address": "PCCH+854, Bir El Djir, Algeria",
+    "phone": "+213542846598"
+  },
+  {
+    "name": "Bahia Center",
+    "address": "Dr Bouvard bendj, Oran, Algeria",
+    "phone": "+213776293621"
+  },
+  {
+    "name": "MARJORY - SEIKO Oran",
+    "address": "M9QH+94G, 75 Avenue, Sidi Chami, Algeria",
+    "phone": "+213560034880"
+  },
+  { "name": "Diwani Sac", "address": "M9W9+RMG, Oran, Algeria", "phone": null },
+  {
+    "name": "ZARA BERSHKA ORAN",
+    "address": "42 rue albert, Oran, Algeria",
+    "phone": "+213775278343"
+  },
+  {
+    "name": "Boutique Parfois",
+    "address": "JCQ5+6QG, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Eyewear Plaza Oran",
+    "address": "MCW6+PV, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Amine mimoza",
+    "address": "M8QR+RJ6, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Design center",
+    "address": "PC79+R85, Bir El Djir, Algeria",
+    "phone": "+213799417317"
+  },
+  {
+    "name": "King royal amirouche",
+    "address": "Es Senia Industrial Zone, Centre commercial es-senia rue tapidor face showroom, Es Sénia 31000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Boutique l'art de la mode",
+    "address": "Rue 5 Juillet, Oran, Algeria",
+    "phone": "+213791534733"
+  },
+  {
+    "name": "Moda italia",
+    "address": "PC82+W9W, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Hirfa concept store",
+    "address": "48 Rue Larbi Ben M'hidi, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "JINKIES ALGÉRIE",
+    "address": "M8MR+JW3, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Jotun MultiColor Center Oran - Ets Guermouche",
+    "address": "Plaza, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "SONY Center",
+    "address": "Centre commercial et de loisir, Es Sénia 31000, Algeria",
+    "phone": "+213559878787"
+  },
+  {
+    "name": "Boutique عبير",
+    "address": "18 Av. Larbi Tbessi, Oran, Algeria",
+    "phone": "+21341334855"
+  },
+  {
+    "name": "Supérette Les Falaises",
+    "address": "PC72+7HV, Oran, Algeria",
+    "phone": "+213661205319"
+  },
+  {
+    "name": "Playmode Gallery Es Senia Oran",
+    "address": "P94X+R5J, Oran, Algeria",
+    "phone": "+213540013524"
+  },
+  {
+    "name": "Eurl pneu centre oran",
+    "address": "Rue Med Boudiaf, Oran, Algeria",
+    "phone": "+21341331054"
+  },
+  { "name": "Plaza 7/7", "address": "JCQ5+6VM, Oran, Algeria", "phone": null },
+  {
+    "name": "Elegance store",
+    "address": "M994+F47, Unnamed Road, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Skechers",
+    "address": "Hai Khemisti LOT 36 groupe residentiel, 4e Rocade d'Oran; BIR ELDJIR, Oran 31000, Algeria",
+    "phone": "36431000"
+  },
+  {
+    "name": "parfumerie chez kader",
+    "address": "PCC4+QRM, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Bleu Blanc",
+    "address": "M8XX+VR3, Oran, Algeria",
+    "phone": "+213674824946"
+  },
+  {
+    "name": "magasin la parisienne",
+    "address": "M9VP+3MR, Unnamed Road, Oran, Algeria",
+    "phone": "+213772106245"
+  },
+  {
+    "name": "Vêtements homme",
+    "address": "M8GW+667, Rue Ghedifi Benali, Oran, Algeria",
+    "phone": "+21348516898"
+  },
+  {
+    "name": "OPPO Service Center Oran",
+    "address": "Centre commercial et des loisirs, Es Senia 31000, Algeria",
+    "phone": "+213780800385"
+  },
+  {
+    "name": "Bijouterie Outmane",
+    "address": "PC84+RQ4, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "La Tendance",
+    "address": "M899+X62, Rond-Point, Oran 31000, Algeria",
+    "phone": "+213770332200"
+  },
+  {
+    "name": "Showroom DSL Artist Center",
+    "address": "JCP6+2GW, El Kerma, Algeria",
+    "phone": "+213780804881"
+  },
+  {
+    "name": "Kiosque soummam2",
+    "address": "En face de ELENA, el, Oran 31000, Algeria",
+    "phone": "+213664147371"
+  },
+  {
+    "name": "ORAN SAT 31",
+    "address": "31000, Algeria",
+    "phone": "+213667609730"
+  },
+  {
+    "name": "DUAL ADIDAS REEBOK STORE ORAN",
+    "address": "PCGJ+W73, Bd Millenium 1, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Kabouvet",
+    "address": "53 Av. Max Marchand, Oran 31000, Algeria",
+    "phone": "+213772010023"
+  },
+  {
+    "name": "Kiabi Es Senia",
+    "address": "M89W+3G7, Unnamed Road, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Jennyfer",
+    "address": "17 Rue Salem Said, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Estime- PRÊT À PORTER",
+    "address": "M9X2+P43, Bd Hamou Boutlelis, Oran, Algeria",
+    "phone": "+213770449635"
+  },
+  {
+    "name": "Colin's",
+    "address": "10 Ave Saim Mohamed, Oran, Algeria",
+    "phone": "+213778775998"
+  },
+  {
+    "name": "Hummel Oran",
+    "address": "Rue TOURABI Miloud N° 36, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Trans palaza",
+    "address": "PCC9+CF5, Unnamed Road, Bir El Djir, Algeria",
+    "phone": "+213554095916"
+  },
+  {
+    "name": "Cosmétique & tabac wahab",
+    "address": "M8MV+6PM, Av. Lieutenant Smain, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Marché Couvert d'Eckmühl",
+    "address": "Bloc C5, Réal 2000, Oran 31000, Algeria",
+    "phone": "5200031000"
+  },
+  {
+    "name": "Eyewear",
+    "address": "PCF5+5GG, Akid Lotfi, Bir el Djir, face aux Pompiers de Akid Lotfi, Oran 31000, Algeria",
+    "phone": "+213776608806"
+  },
+  {
+    "name": "Jet7 Luxury choupôt (oran)",
+    "address": "M8VX+559, Rue Kaddour Benyoucef, Oran, Algeria",
+    "phone": "+213555881518"
+  },
+  {
+    "name": "Es-Senia Digital Photo Center",
+    "address": "El Kerma 31000, Algeria",
+    "phone": "+213555404561"
+  },
+  {
+    "name": "Valpaint Oran",
+    "address": "P98X+VQF, Oran, Algeria",
+    "phone": "+213560066496"
+  },
+  {
+    "name": "IhabEeddinExpress",
+    "address": "P96G+H3H, Route Sidi M'hamed, Oran, Algeria",
+    "phone": "+21341452925"
+  },
+  {
+    "name": "Boutique zahret El khalij Oran",
+    "address": "Centre Commercial & de Loisirs, Es Senia, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Amine akeb luxury",
+    "address": "Centre commercial, Es Senia, Algeria",
+    "phone": "+213774081298"
+  },
+  {
+    "name": "Kiosque tabac / journaux / flexy",
+    "address": "PC78+WX9, Unnamed Road, Bir El Djir, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Sergio tacchini",
+    "address": "JCQ6+94V, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "KABOUVET",
+    "address": "M9R2+JHW, Ghaouti Abdelkader, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "MEDIOUNI",
+    "address": "P938+MMP, Rue Larbi Ben M'hidi, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Numerix Contact Centre d'appel Oran / Call center Algérie",
+    "address": "13 Bd Si Moussadegh, Oran, Algeria",
+    "phone": "+21341283798"
+  },
+  {
+    "name": "Ismail Peugeot",
+    "address": "JCP5+WRC, El Kerma, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Cinegold - Multiplex Cinema Oran",
+    "address": "Centre Commercial & de Loisirs Es-Senia, Oran 31000, Algeria",
+    "phone": "+213770379927"
+  },
+  {
+    "name": "Supermercado BLUE BLANC",
+    "address": "PC25+836, شارع البغريرة نور الهدى،, Oran, Algeria",
+    "phone": "+213776528385"
+  },
+  {
+    "name": "Alphonica Call Center",
+    "address": "Centre Commercial & de Loisirs, Oran 31100, Algeria",
+    "phone": null
+  },
+  {
+    "name": "SARL GOOD CONCRETE",
+    "address": "JCQ6+63V, Oran, Algeria",
+    "phone": "+213770311002"
+  },
+  {
+    "name": "Oran essabah",
+    "address": "101 Av. Mustapha Ben Boulaid, Oran 31010, Algeria",
+    "phone": "10131010"
+  },
+  {
+    "name": "Ks creation",
+    "address": "P932+M7R, Rue Mehali Mokhtar, Oran, Algeria",
+    "phone": "+21341361272"
+  },
+  {
+    "name": "Oran Park Podium",
+    "address": "101 Av. Mustapha Ben Boulaid, Oran 31010, Algeria",
+    "phone": "10131010"
+  },
+  {
+    "name": "Esprit Parfum",
+    "address": "P932+M7R, Rue Mehali Mokhtar, Oran, Algeria",
+    "phone": "+21341361272"
+  },
+  {
+    "name": "Techno",
+    "address": "Centre Commercial et de loisirs, Es Sénia, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Central Perk Oran",
+    "address": "P946+2CF, Rue Gdansk،, Oran, Algeria",
+    "phone": "+33561718017"
+  },
+  {
+    "name": "Mior Informatique",
+    "address": "Ctre d'Affaires، Place Zeddour Brahim El Amir Karguentah, Oran 31000, Algeria",
+    "phone": "+213780800013"
+  },
+  {
+    "name": "Fort of Santa Cruz",
+    "address": "P83X+XWP, Boutkhil, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Canastel Forest",
+    "address": "P82X+2X5, Bd Abderahmane Mira, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Ahmed Zabana National Museum",
+    "address": "P923+JPQ, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Abdullah Bin Salem Mosque",
+    "address": "P82W+H8X, place des frère Belkhad, Oran, Algeria",
+    "phone": null
+  },
+  { "name": "Oran Arena", "address": "P84V+78C, Oran, Algeria", "phone": null },
+  {
+    "name": "Porte du Santon",
+    "address": "M9W3+JG7, 19, Avenue Ahmed Zabana, Oran 31000, Algeria",
+    "phone": "93+71931000"
+  },
+  {
+    "name": "Porte d'Espagne",
+    "address": "P85P+M3V, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Place du 1er Novembre",
+    "address": "N2, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Pacha Mosque",
+    "address": "N2, Oran, Algeria",
+    "phone": "+213542632762"
+  },
+  {
+    "name": "Musée d'Art Moderne Oran MAMO",
+    "address": "QC7V+H9Q, Oran, Algeria",
+    "phone": "+213542887348"
+  },
+  {
+    "name": "Oran Zoo",
+    "address": "Avenue De Canastel, Route Des Falaises, Oran 31000, Algeria",
+    "phone": "+21341982300"
+  },
+  {
+    "name": "Regional Theater of Oran",
+    "address": "06 bd zabour larbi hai khaldia, Oran 31000, Algeria",
+    "phone": "+21341746175"
+  },
+  {
+    "name": "Forêt de canastel oran",
+    "address": "Rue Du Dr Laveran, Algiers, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Leisure Park Lalla Setti",
+    "address": "Ecole de la Musique, Mansourah, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Chapel of Santa Cruz",
+    "address": "VMMQ+FRJ, Tlemcen 13000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Gare Centrale d'Oran",
+    "address": "Q27W+JXW, Sidi M'Hamed 16000, Algeria",
+    "phone": "+213697103772"
+  },
+  {
+    "name": "Cascades El Ourit",
+    "address": "J99Q+8JH, Es Senia, Algeria",
+    "phone": "+21341591077"
+  },
+  {
+    "name": "Port d'Oran",
+    "address": "M3CV+QF9, Av. Yacoub Al Mansour, Oujda, Morocco",
+    "phone": "+212536702500"
+  },
+  {
+    "name": "Beni Add Ain Fezza Caves",
+    "address": "Hayi def labkyi zan9at taza 262, Oujda, Morocco",
+    "phone": "+212615358225"
+  },
+  {
+    "name": "Madagh beach",
+    "address": "13000 نهج أول نوفمبرBoulevard 1er Novembre, Tlemcen, Algeria",
+    "phone": "+213553851618"
+  },
+  { "name": "Sebkha of Oran", "address": null, "phone": null },
+  {
+    "name": "Four Points by Sheraton Oran",
+    "address": "39, Bvd Maâta Mohamed El-Habib، 31000, Algeria",
+    "phone": "+213770429392"
+  },
+  {
+    "name": "Hôtel Bay Oran",
+    "address": "M9VH+3WC, Ave Maalem Larbi et Bentayeb, Oran, Algeria",
+    "phone": "+21341747778"
+  },
+  {
+    "name": "Mers El Kébir",
+    "address": "11 Bd Hamou Boutlelis, Oran, Algeria",
+    "phone": "+213770431078"
+  },
+  {
+    "name": "Church of Notre Dame of Africa",
+    "address": "14 Bd de la Soummam, Oran 31000, Algeria",
+    "phone": "+213560000346"
+  },
+  {
+    "name": "maison de parc national de gouraya",
+    "address": "VPH6+45R, Tlemcen, Algeria",
+    "phone": "+213540012393"
+  },
+  {
+    "name": "Le Méridien Oran Hotel & Convention Centre",
+    "address": "Pont du diable, M'Cid, Constantine, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Ain El Fouara Fountain",
+    "address": "Les Genets Chemin De Wilaya, Route 75, 31000, Algeria",
+    "phone": "+21341984000"
+  },
+  {
+    "name": "Le Cintra",
+    "address": "R22V+93C, Rue de Zighara, Bologhine, Algeria",
+    "phone": null
+  },
+  {
+    "name": "ASSALA HOTEL",
+    "address": "5CQ3+PXW, Rue Abrane Ramdane, Setif, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Sidi M'Cid Bridge",
+    "address": "Misserghin, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Sofi Hotel Oran",
+    "address": "Boulevard Du 19 Mars, Route Des Falaises, Oran 31000, Algeria",
+    "phone": "+21341590259"
+  },
+  {
+    "name": "Bouisseville",
+    "address": "Bir El Djir, Algeria",
+    "phone": "+21341590022"
+  },
+  { "name": "CONFISERIE DU BONHEUR", "address": null, "phone": null },
+  {
+    "name": "Tlemcen National Park",
+    "address": "Stade de Gouraya, Rte Touristique, Béjaïa, Algeria",
+    "phone": null
+  },
+  {
+    "name": "مسجد سيدي بومدين Sidi Boumediene Mosque",
+    "address": "Bou Zadjar, Algeria",
+    "phone": null
+  },
+  {
+    "name": "SIDI MAAFA Forest",
+    "address": "VQ3V+6GM, Aïn Fezza, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Great Mosque",
+    "address": "Rue du Port, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Parc Lalla Aicha",
+    "address": "PCXM+2JC, Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "centre D'études Andalous",
+    "address": "71 rue mes boudiaf, Oran 31000, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Oran Ahmed Ben Bella Airport",
+    "address": "VP7M+24F, N7, Tlemcen, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Sacred Heart Cathedral",
+    "address": "كنيسة سانتا كروز، Oran, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Abdul Latif House",
+    "address": "M9Q3+Q9F, Avenue Cheikh Abdelkader, Oran, Algeria",
+    "phone": "+213559431034"
+  },
+  {
+    "name": "ibis Oran les Falaises",
+    "address": "VM7M+CQR, Boulevard De, Tlemcen, Algeria",
+    "phone": null
+  },
+  {
+    "name": "Best Western Hotel Colombe Oran",
+    "address": "place du, 1er novembre 1954, Oran 31000, Algeria",
+    "phone": "1195431000"
+  }
+]
