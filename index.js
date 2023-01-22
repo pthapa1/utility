@@ -8,9 +8,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-const country = 'Algeria';
-const cities = ['Algiers', 'Oran', 'Constantine', 'Annaba', 'Batna'];
-const city = cities[1];
+const country = 'Angola';
+const cities = ['Luanda', 'Huambo', 'Lobito', 'Benguela', 'Kuito'];
+// const city = cities[1];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
 const options = {
@@ -19,27 +19,30 @@ const options = {
   to: ',',
   allowEmptyPaths: false,
 };
-const writeAddressToFile = async (path, dataToWrite) => {
+async function writeAddressToFile(path, dataToWrite, addressType, city) {
   fs.appendFile(path, dataToWrite, (err) => {
     if (err) throw err;
-    console.log(`Addresses Saved in ${country}.json file`);
+    console.log(
+      `${addressType} Addresses Saved in ${country}.json file for ${city}`
+    );
     // if this pattern -> ][ exists, replace it with a comma (,)
     fs.existsSync(path)
       ? replace.sync(options)
       : console.log(`File does not exits yet`);
   });
-};
+}
 
-const getCityAddresses = async (config) => {
+async function getAddress(config, addressType, city) {
   try {
     const response = await axios(config);
     const strRes = JSON.stringify(response.data);
-    await writeAddressToFile(filePath, strRes);
+    await writeAddressToFile(filePath, strRes, addressType, city);
   } catch (error) {
     console.log(`Error in getCityAddress: ${error}`);
   }
-};
-(async () => {
+}
+
+async function loopOnAddressType(city) {
   for (const addressType of addressTypes) {
     console.log(`Searching ${addressType} in ${city}, ${country} `);
     const config = {
@@ -47,8 +50,12 @@ const getCityAddresses = async (config) => {
       url: `http://localhost:3000/address/${addressType}/${city}`,
       headers: {},
     };
-    await getCityAddresses(config);
+    await getAddress(config, addressType, city);
+  }
+}
+
+(async () => {
+  for (const city of cities) {
+    await loopOnAddressType(city);
   }
 })();
-
-// now loop over cities too and get the addresses.

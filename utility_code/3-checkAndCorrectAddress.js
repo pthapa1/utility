@@ -1,5 +1,6 @@
+// run this after running 2-getAddressFromAPI.js
 const fs = require('fs');
-const country = 'Angola';
+const country = 'Algeria';
 const path = `././addresses/${country}.json`;
 
 fs.readFile(path, 'utf-8', async (err, data) => {
