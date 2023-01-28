@@ -1,5 +1,5 @@
 const fs = require('fs');
-const country = 'Angola';
+const country = 'Antigua and Barbuda';
 const path = `././addresses/${country}.json`;
 
 fs.readFile(path, 'utf-8', async (err, data) => {
@@ -15,7 +15,7 @@ fs.readFile(path, 'utf-8', async (err, data) => {
       item.address.includes(country) &&
       (item.address.match(/,/g) || []).length > 1
   );
-  console.log(filteredData.length);
+  console.log(filteredData.length, 'addresses left after filtering.');
 
   fs.appendFileSync(path, JSON.stringify(filteredData));
 });

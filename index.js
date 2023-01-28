@@ -8,8 +8,8 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-const country = 'Angola';
-const cities = ['Luanda', 'Huambo', 'Lobito', 'Benguela', 'Kuito'];
+const country = 'Antigua and Barbuda';
+const cities = ['Saint Johns'];
 // const city = cities[1];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
