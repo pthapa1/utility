@@ -1,5 +1,5 @@
 const fs = require('fs');
-const country = 'Antigua and Barbuda';
+const country = 'Australia';
 const path = `././addresses/${country}.json`;
 
 fs.readFile(path, 'utf-8', async (err, data) => {

@@ -1,0 +1,7554 @@
+[
+  {
+    "name": "Tufenkian Heritage Hotels",
+    "address": "3, 1 Rafael Lemkin St, Yerevan, Armenia",
+    "phone": "+37411201000"
+  },
+  {
+    "name": "Opera Suite Hotel Yerevan",
+    "address": "65 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37412770000"
+  },
+  {
+    "name": "Grand Hotel Yerevan",
+    "address": "G.Hovsepyan 24/3 Str., Nork-Marash, Yerevan, Armenia",
+    "phone": "+37460275737"
+  },
+  {
+    "name": "Armenia Marriott Hotel Yerevan",
+    "address": "2, 2 Azatutyan Ave, Yerevan 0037, Armenia",
+    "phone": "+37410219900"
+  },
+  {
+    "name": "ibis Yerevan Center",
+    "address": "7, 1 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37411990000"
+  },
+  {
+    "name": "Radisson Blu Hotel, Yerevan",
+    "address": "14 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37410591600"
+  },
+  {
+    "name": "Hyatt Place Yerevan",
+    "address": "5/1 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37410595959"
+  },
+  {
+    "name": "DoubleTree by Hilton Yerevan City Centre",
+    "address": "4/2 Grigor Lusavorich Street, Yerevan 0015, Armenia",
+    "phone": "+37411555333"
+  },
+  {
+    "name": "Opera Suite Hotel Yerevan",
+    "address": "26, 1 Vazgen Sargsyan St, Yerevan 0010, Armenia",
+    "phone": "+37411221234"
+  },
+  {
+    "name": "Ani Grand Hotel Yerevan",
+    "address": "1 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37410599000"
+  },
+  {
+    "name": "Paris Hotel Yerevan",
+    "address": "35 Yervand Kochar St, Yerevan 0070, Armenia",
+    "phone": "+37455620202"
+  },
+  {
+    "name": "Ramada Hotel & Suites by Wyndham Yerevan",
+    "address": "47, 19 Marshal Baghramyan Ave, Yerevan 0019, Armenia",
+    "phone": "47190019"
+  },
+  {
+    "name": "Hotel Alexander",
+    "address": "42 Aram Street, Yerevan 0001, Armenia",
+    "phone": "+37491338800"
+  },
+  {
+    "name": "Golden Palace Hotel Yerevan",
+    "address": "34/1 Aygedzor St, Yerevan 4202, Armenia",
+    "phone": "+37444878004"
+  },
+  {
+    "name": "Ani Plaza Hotel",
+    "address": "43 Pushkin St, Yerevan 0002, Armenia",
+    "phone": "+37410577707"
+  },
+  {
+    "name": "Republica Hotel Yerevan",
+    "address": "11 ул.Барбюса, Yerevan 0033, Armenia",
+    "phone": "+37491546566"
+  },
+  {
+    "name": "Holiday Inn Express Yerevan, an IHG Hotel",
+    "address": "9 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411705705"
+  },
+  {
+    "name": "Median Hotel City Center Yerevan",
+    "address": "20/3 Tigran Mets Ave, Yerevan 0018, Armenia",
+    "phone": "+37410540708"
+  },
+  {
+    "name": "Nova Hotel Yerevan",
+    "address": "10, 10 Zarobyan St, Yerevan 0009, Armenia",
+    "phone": "10100009"
+  },
+  {
+    "name": "Deluxe Hotel Yerevan",
+    "address": "91, 1 Armenak Armenakyan St, Yerevan 0047, Armenia",
+    "phone": "+37412331111"
+  },
+  {
+    "name": "Apricot Hotel Yerevan",
+    "address": "Mher Mkrtchyan St, Yerevan, Armenia",
+    "phone": "+37498977075"
+  },
+  {
+    "name": "Yerevan Centre Hotel",
+    "address": "Rubinyants Street Yerevan AM 0069, Rubinyants St, Yerevan, Armenia",
+    "phone": "+37410200020"
+  },
+  {
+    "name": "Regard Hotel",
+    "address": "18 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37411440404"
+  },
+  {
+    "name": "Royal Plaza Hotel in Yerevan",
+    "address": "4/3 Movses Khorenatsi Street, Yerevan 0015, Armenia",
+    "phone": "+37496202017"
+  },
+  {
+    "name": "North Avenue by Stellar Hotels",
+    "address": "1, 3 Tsitsernakaberd Hwy, Yerevan, Armenia",
+    "phone": "+37444700018"
+  },
+  {
+    "name": "Yerevan Centre Hotel",
+    "address": "121 Nar-Dos St, Yerevan 0099, Armenia",
+    "phone": "+37493804616"
+  },
+  {
+    "name": "Deluxe Hotel Yerevan",
+    "address": "4, 6 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37460560000"
+  },
+  {
+    "name": "The Phoenix Hotel",
+    "address": "113/1 Charents St, Yerevan 0025, Armenia",
+    "phone": "11310025"
+  },
+  {
+    "name": "Kantar",
+    "address": "26/1 Martiros Saryan Street, Yerevan 0002, Armenia",
+    "phone": "+37412424425"
+  },
+  {
+    "name": "Central Hotel",
+    "address": "26 Vazgen Sargsyan St, Yerevan 0010, Armenia",
+    "phone": "+37411221234"
+  },
+  {
+    "name": "Holiday Inn Yerevan - Republic Square, an IHG Hotel",
+    "address": "10th floor, 4/2 Amiryan Street, Yerevan 0010, Armenia",
+    "phone": "10420010"
+  },
+  {
+    "name": "Voyage Armenia",
+    "address": "7 Grigor Lusavorich Street, Yerevan 0015, Armenia",
+    "phone": "+37460511000"
+  },
+  {
+    "name": "Shirak Hotel",
+    "address": "57 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410207707"
+  },
+  {
+    "name": "My Hotel & Apartments Yerevan",
+    "address": "18/5 Myasnikyan Ave, Yerevan, Armenia",
+    "phone": "+37410600101"
+  },
+  {
+    "name": "Hotel Metropol",
+    "address": "17 Nalbandyan St, Yerevan 0010, Armenia",
+    "phone": "+37441355377"
+  },
+  {
+    "name": "Best Western Plus Congress Hotel",
+    "address": "30 Martiros Saryan St, Yerevan, Armenia",
+    "phone": "+37411202330"
+  },
+  {
+    "name": "A Hotel Yerevan",
+    "address": "9a, 010 Tumanyan St, Yerevan 0010, Armenia",
+    "phone": "90100010"
+  },
+  {
+    "name": "Hotel Erebuni",
+    "address": "40A Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37411570077"
+  },
+  {
+    "name": "Cartez Hotel",
+    "address": "38 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37410546060"
+  },
+  {
+    "name": "Alba Hotel Yerevan",
+    "address": "64 Barbusse St, Yerevan 0028, Armenia",
+    "phone": "+37410271850"
+  },
+  {
+    "name": "City Centre Hotel",
+    "address": "65/2 Marshal Baghramyan Ave, Yerevan 0033, Armenia",
+    "phone": "+37493300664"
+  },
+  {
+    "name": "Boulevard Hotel",
+    "address": "7 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37410544004"
+  },
+  {
+    "name": "Diamond House Hotel",
+    "address": "58 Karapet Ulnetsi St, Yerevan 0069, Armenia",
+    "phone": "+37410201447"
+  },
+  {
+    "name": "Silk Road Hotel",
+    "address": "82, Apartament, 33 Sayat-Nova Street, Yerevan, Armenia",
+    "phone": "+37499100309"
+  },
+  {
+    "name": "Modern Yerevan Center By Republic Square Apartment",
+    "address": "44 Gogol St, Yerevan 0069, Armenia",
+    "phone": "+37494667774"
+  },
+  {
+    "name": "Mia Casa Hotel Yerevan",
+    "address": "7/4 Yervand Kochar St, Yerevan 0070, Armenia",
+    "phone": "+37495740744"
+  },
+  {
+    "name": "Dave Hotel Yerevan",
+    "address": "1 Գրիգոր Չուբարյան, Yerevan, Armenia",
+    "phone": "+37441502005"
+  },
+  {
+    "name": "Hotel Alpha",
+    "address": "6 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37455777050"
+  },
+  {
+    "name": "Yerevan Boutique Hotel",
+    "address": "3, 1 Aygedzor St, Yerevan 0019, Armenia",
+    "phone": "+37410221353"
+  },
+  {
+    "name": "Juliet Hotel Yerevan",
+    "address": "5, 75 0002, Yeznik Koghbatsi St, Yerevan, Armenia",
+    "phone": "+37494997794"
+  },
+  {
+    "name": "Bonjour Boutique Hotel Yerevan",
+    "address": "51 Aghyusiagortzneri street, Yerevan 0018, Armenia",
+    "phone": "+37499559008"
+  },
+  {
+    "name": "HOTEL FLEUR YEREVAN",
+    "address": "28, 75 Yeznik Koghbatsi St, Yerevan 0002, Armenia",
+    "phone": "28750002"
+  },
+  {
+    "name": "In City Hotel",
+    "address": "Tumanyan 29, 42 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37491113363"
+  },
+  {
+    "name": "President hotel",
+    "address": "3 Tairov St, Yerevan 0082, Armenia",
+    "phone": "+37493998334"
+  },
+  {
+    "name": "Skyline Hotel Yerevan",
+    "address": "14 Paronyan St, Yerevan 0002, Armenia",
+    "phone": "+37443502005"
+  },
+  {
+    "name": "L'image Art Hotel",
+    "address": "29 Sayat-Nova Ave, Yerevan 0010, Armenia",
+    "phone": "+37412338292"
+  },
+  {
+    "name": "Konyak Hotel",
+    "address": "31 Moskovyan Street, Yerevan 0010, Armenia",
+    "phone": "+37477774825"
+  },
+  {
+    "name": "«Villa 29 Yerevan» Hotel",
+    "address": "49/1 Pavstos Buzand St, Yerevan, Armenia",
+    "phone": "+37410569028"
+  },
+  {
+    "name": "Forum by Grace Spa-Hotels",
+    "address": "29 Yeznik Koghbatsi St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Freedom Armenia",
+    "address": "19/3 ул. Пароняна, Yerevan 0015, Armenia",
+    "phone": "+37460505044"
+  },
+  {
+    "name": "Family Hotel",
+    "address": "Pavstos Buzandi St. 1, 1 Building, 1/1 №, Yerevan 0010, Armenia",
+    "phone": "11110010"
+  },
+  {
+    "name": "OLD YEREVAN HOTEL",
+    "address": "24 Rostom St, Yerevan 0070, Armenia",
+    "phone": "+37460441777"
+  },
+  {
+    "name": "Grand Fortune",
+    "address": "8 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37444969646"
+  },
+  {
+    "name": "Hotel Maison Yerevan",
+    "address": "51, 53 Hanrapetutyan St, Yerevan, Armenia",
+    "phone": "+37493335121"
+  },
+  {
+    "name": "Baron Boutique Hotel Yerevan",
+    "address": "1 Dzorapi St, Yerevan 0015, Armenia",
+    "phone": "+37412902202"
+  },
+  {
+    "name": "Elysium Gallery Boutique Hotel",
+    "address": "72 Dzorapi Street, Yerevan 0015, Armenia",
+    "phone": "+37410535332"
+  },
+  {
+    "name": "Opera Avenue Hotel",
+    "address": "74 Nairi Zaryan St, Yerevan, Armenia",
+    "phone": "+37494656454"
+  },
+  {
+    "name": "Good Hotel Yerevan",
+    "address": "Alek Manukyan 7 Yerevan Yerevan AM 0070, 7 Alek Manukyan St, Yerevan 0070, Armenia",
+    "phone": "7007070070"
+  },
+  {
+    "name": "Bass Boutique Hotel‎",
+    "address": "13 Shara Talyan St, Yerevan 0070, Armenia",
+    "phone": "+37411355355"
+  },
+  {
+    "name": "Patriott Hotel",
+    "address": "4 Proshyan Street, Yerevan 0019, Armenia",
+    "phone": "+37460707575"
+  },
+  {
+    "name": "Studio Boutique Hotel",
+    "address": "27 Amiryan Street Region 6, Yerevan 0002, Armenia",
+    "phone": "+37412505000"
+  },
+  {
+    "name": "Nacho Hotel Yerevan",
+    "address": "5A Vardanants St, Yerevan, Armenia",
+    "phone": "+37477132277"
+  },
+  {
+    "name": "Premium Hotel Yerevan",
+    "address": "53, 2 Aygedzor St, Yerevan, Armenia",
+    "phone": "+37410265214"
+  },
+  {
+    "name": "Primer",
+    "address": "86 Aram Street, Yerevan 0002, Armenia",
+    "phone": "+37410508080"
+  },
+  {
+    "name": "Old Armenia",
+    "address": "5, 3 Koryun St, Yerevan 0025, Armenia",
+    "phone": "+37499541104"
+  },
+  {
+    "name": "California Boutique Hotel",
+    "address": "37 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37412700007"
+  },
+  {
+    "name": "Hotel Orbeli",
+    "address": "5, 3 Zakyan St, Yerevan, Armenia",
+    "phone": "+37410521262"
+  },
+  {
+    "name": "Hotel Olympia Garden Yerevan",
+    "address": "32 Proshyan 1st Lane, Yerevan, Armenia",
+    "phone": "+37411461414"
+  },
+  {
+    "name": "Europe Hotel",
+    "address": "26, 4 Vazgen Sargsyan St, Yerevan 0010, Armenia",
+    "phone": "+37410580505"
+  },
+  {
+    "name": "R&R Hotel",
+    "address": "20 Yeznik Koghbatsi St, Yerevan 0002, Armenia",
+    "phone": "+37412716717"
+  },
+  {
+    "name": "Green Palace Hotel",
+    "address": "1 Italy St, Yerevan 0010, Armenia",
+    "phone": "+37410591199"
+  },
+  {
+    "name": "HOBBY HOTEL",
+    "address": "3 Teryan St, Yerevan 0010, Armenia",
+    "phone": "+37493400436"
+  },
+  {
+    "name": "Mashtots Hotel",
+    "address": "2/2 Mesrop Mashtots Ave, Yerevan 0015, Armenia",
+    "phone": "+37410510700"
+  },
+  {
+    "name": "Ibiza hotel & spa",
+    "address": "13a Movses Khorenatsi Street, Yerevan 0010, Armenia",
+    "phone": "+37410529915"
+  },
+  {
+    "name": "Downtown Suites Yerevan",
+    "address": "4 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37460484444"
+  },
+  {
+    "name": "Mandarin Hotel",
+    "address": "2 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37460833000"
+  },
+  {
+    "name": "Yerevan Place",
+    "address": "47/1 Nalbandyan Street, Yerevan 0025, Armenia",
+    "phone": "+37410600709"
+  },
+  {
+    "name": "Ararat Hotel",
+    "address": "7, 1 Zakyan St, Yerevan 0010, Armenia",
+    "phone": "+37410600300"
+  },
+  {
+    "name": "City Hotel by Picnic",
+    "address": "10 Deghatan St, Yerevan 0010, Armenia",
+    "phone": "+37455180005"
+  },
+  {
+    "name": "Hotel Menua",
+    "address": "10, 43 Pushkin St, Yerevan, Armenia",
+    "phone": "+37411600069"
+  },
+  {
+    "name": "RIS Dalma Collection Yerevan",
+    "address": "10, 1 Northern Ave, Yerevan 0010, Armenia",
+    "phone": "+37410505055"
+  },
+  {
+    "name": "14th Floor Hotel",
+    "address": "68/3 Teryan St, Yerevan 0009, Armenia",
+    "phone": "+37493142222"
+  },
+  {
+    "name": "Hotel Roma",
+    "address": "68/3 Teryan St, Yerevan 0009, Armenia",
+    "phone": "+37493142222"
+  },
+  {
+    "name": "Moscow Boutique Hotel",
+    "address": "0012, 32/1 Komitas Ave, Yerevan 0012, Armenia",
+    "phone": "00123210012"
+  },
+  {
+    "name": "Minotel Barsam Suites",
+    "address": "9 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37494620009"
+  },
+  {
+    "name": "Daniel Boutique Hotel",
+    "address": "Երվանդ Քոչարի փող, 23 2 շենք, Yerevan 0070, Armenia",
+    "phone": "+37494530071"
+  },
+  {
+    "name": "4 Room Hotel",
+    "address": "0012, 32/1 Komitas Ave, Yerevan 0012, Armenia",
+    "phone": "00123210012"
+  },
+  {
+    "name": "Nork Hotel",
+    "address": "15, 3 Paronyan St, Yerevan 0015, Armenia",
+    "phone": "+37411330011"
+  },
+  {
+    "name": "Cascade Hotel",
+    "address": "10/5 Sayat-Nova Ave, Yerevan 0001, Armenia",
+    "phone": "+37410600050"
+  },
+  {
+    "name": "Ani Central Inn",
+    "address": "7, 1 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37411990000"
+  },
+  {
+    "name": "Blur Inn Gallery",
+    "address": "75 Yeznik Koghbatsi St, Yerevan 0002, Armenia",
+    "phone": "+37477550557"
+  },
+  {
+    "name": "Andor Hotel",
+    "address": "19 Sayat-Nova Ave, Yerevan 0001, Armenia",
+    "phone": "+37410589500"
+  },
+  {
+    "name": "Sherep Restaurant",
+    "address": "48A Admiral Isakov Ave, Yerevan, Armenia",
+    "phone": "+37499508040"
+  },
+  {
+    "name": "Khinkali",
+    "address": "22 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "+37494309000"
+  },
+  {
+    "name": "Mayrig Yerevan",
+    "address": "15, 5 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37443709070"
+  },
+  {
+    "name": "Black Angus",
+    "address": "4, 6 Amiryan St, Yerevan 0001, Armenia",
+    "phone": "+37441760760"
+  },
+  {
+    "name": "Seasons Restaurant",
+    "address": "5 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37410545545"
+  },
+  {
+    "name": "Tavern Yerevan",
+    "address": "21/1 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "+37410582352"
+  },
+  {
+    "name": "Tavern Yerevan riverside",
+    "address": "10 Pushkin St, Yerevan 0010, Armenia",
+    "phone": "+37410561354"
+  },
+  {
+    "name": "Dolmama - Armenia's Restaurant",
+    "address": "6 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37410521932"
+  },
+  {
+    "name": "Gata Tavern",
+    "address": "2/5 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37460508070"
+  },
+  {
+    "name": "Tapastan",
+    "address": "1 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37443600880"
+  },
+  {
+    "name": "Lavash Restaurant",
+    "address": "30/3 Tumanyan St, Yerevan, Armenia",
+    "phone": "+37441311119"
+  },
+  {
+    "name": "Indian Mehak Restaurant & Bar",
+    "address": "Hrazdan Gorge, Yerevan, Armenia",
+    "phone": "+37410543398"
+  },
+  {
+    "name": "Tavern Yerevan (Teryan)",
+    "address": "7 Ashtarak Highway, Yerevan 0088, Armenia",
+    "phone": "+37494582222"
+  },
+  {
+    "name": "Florence Restaurant",
+    "address": "44 Pushkin St, Yerevan, Armenia",
+    "phone": "+37499120164"
+  },
+  {
+    "name": "Ресторан с армянской кухней Ануш",
+    "address": "Hrazdan Gorge, Yerevan 0082, Armenia",
+    "phone": "+37410546001"
+  },
+  {
+    "name": "Dom by EG",
+    "address": "2, 2 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37411779977"
+  },
+  {
+    "name": "Limone",
+    "address": "1 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37444599990"
+  },
+  {
+    "name": "Tavern Yerevan",
+    "address": "16 Abovyan St, Yerevan, Armenia",
+    "phone": "+37460540101"
+  },
+  {
+    "name": "Livingston Restaurant (Լիվինգսթոն ռեստորան)",
+    "address": "28 Isahakyan St, Yerevan 0009, Armenia",
+    "phone": "+37444002200"
+  },
+  {
+    "name": "Mer Taghe",
+    "address": "2 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410551212"
+  },
+  {
+    "name": "Mozaic Sky Restaurant",
+    "address": "12 Isahakyan St, Yerevan 0025, Armenia",
+    "phone": "+37410277999"
+  },
+  {
+    "name": "Gouroo Club & Garden",
+    "address": "Yerevan Plaza, 9 Grigor Lusavorich Street, Yerevan 0015, Armenia",
+    "phone": "+37455030330"
+  },
+  {
+    "name": "Charentsi 28 Restaurant",
+    "address": "1 Italy St, Yerevan 0010, Armenia",
+    "phone": "+37410591188"
+  },
+  {
+    "name": "Park Bridge restaurant & music hub",
+    "address": "Komitas, 21/4 Griboyedov St, Yerevan, Armenia",
+    "phone": "+37477275275"
+  },
+  {
+    "name": "Tsirani Garden-Restaurant",
+    "address": "23 Tumanyan St, Yerevan, Armenia",
+    "phone": "+37495711700"
+  },
+  {
+    "name": "Vinograd Wine Restobar",
+    "address": "20 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410325555"
+  },
+  {
+    "name": "dors craft beer & kitchen",
+    "address": "3 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37411288388"
+  },
+  {
+    "name": "The Club",
+    "address": "20/7 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37444808909"
+  },
+  {
+    "name": "Grillian",
+    "address": "2 Tamanyan St, Yerevan, Armenia",
+    "phone": "+37455001100"
+  },
+  {
+    "name": "Cascade Royal",
+    "address": "6, 26 Sayat-Nova Ave, Yerevan, Armenia",
+    "phone": "+37495180180"
+  },
+  {
+    "name": "La Cucina",
+    "address": "11 Northern Ave, Yerevan 0010, Armenia",
+    "phone": "+37412220000"
+  },
+  {
+    "name": "Кавказская пленница",
+    "address": "1 Azatutyan Ave, Yerevan 0037, Armenia",
+    "phone": "+37410219999"
+  },
+  {
+    "name": "Eat & Fit Healthy Food Café",
+    "address": "Սպենդիարյան, Yerevan, Armenia",
+    "phone": "+37410501222"
+  },
+  {
+    "name": "Ankyun",
+    "address": "10/1 Northern Ave, Yerevan 0010, Armenia",
+    "phone": "+37495424424"
+  },
+  {
+    "name": "Derian",
+    "address": "22 Tbilisyan Hwy, Yerevan 0091, Armenia",
+    "phone": "+37493254548"
+  },
+  {
+    "name": "Elie's Lahmajun",
+    "address": "5 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37411540505"
+  },
+  {
+    "name": "Jivan",
+    "address": "6 Yeqmalyan Str., Yerevan 0002, Armenia",
+    "phone": "+37460442550"
+  },
+  {
+    "name": "Bar B.Q.",
+    "address": "M, 1/1 Yekmalyan St, Yerevan 0002, Armenia",
+    "phone": "+37411803333"
+  },
+  {
+    "name": "Lahmajun Gaidz",
+    "address": "14 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37444548484"
+  },
+  {
+    "name": "Yasmine Restaurant",
+    "address": "72 Aram Street, Yerevan 0001, Armenia",
+    "phone": "+37496870870"
+  },
+  {
+    "name": "Caucasus Tavern",
+    "address": "64, 118 Aram Street, unit 0010, Armenia",
+    "phone": "641180010"
+  },
+  {
+    "name": "Sophiste Resto-Bar",
+    "address": "13 Leo St, Yerevan 0002, Armenia",
+    "phone": "+37499539268"
+  },
+  {
+    "name": "EL Garden",
+    "address": "6 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37491776262"
+  },
+  {
+    "name": "Babylon",
+    "address": "8 Zakyan St, Yerevan 0015, Armenia",
+    "phone": "+37410544264"
+  },
+  {
+    "name": "Buzand Cafe Restaurant",
+    "address": "23 Teryan St, Yerevan 0010, Armenia",
+    "phone": "+37495111131"
+  },
+  {
+    "name": "Cactus Restaurant",
+    "address": "91 Pavstos Buzand St, Yerevan 0002, Armenia",
+    "phone": "+37499544433"
+  },
+  {
+    "name": "Charles Cafe and Restaurant",
+    "address": "Cascade Area, 46/1 Isahakyan St, Yerevan 0001, Armenia",
+    "phone": "+37460703030"
+  },
+  {
+    "name": "Casa Nostra",
+    "address": "2 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37455001100"
+  },
+  {
+    "name": "Beirut Bar & Restaurant",
+    "address": "Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37460501030"
+  },
+  {
+    "name": "Karas - Hraparak",
+    "address": "7 Aram Street, Yerevan 0001, Armenia",
+    "phone": "+37443340007"
+  },
+  {
+    "name": "Zatar Pizza",
+    "address": "40 Tumanyan St, Yerevan 0002, Armenia",
+    "phone": "+37410538331"
+  },
+  {
+    "name": "Kamar Restaurant",
+    "address": "9 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37444341111"
+  },
+  {
+    "name": "CEO3",
+    "address": "32, 14 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "32140001"
+  },
+  {
+    "name": "Al Mayas Restaurant",
+    "address": "4, 6 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37477881001"
+  },
+  {
+    "name": "Mante Restaurant",
+    "address": "35 Moskovyan Street, Yerevan 0002, Armenia",
+    "phone": "+37455227266"
+  },
+  {
+    "name": "OST",
+    "address": "20 Khanjyan St, Yerevan, Armenia",
+    "phone": "+37477997774"
+  },
+  {
+    "name": "Khinkali Restaurant",
+    "address": "Yerevan, Armenia",
+    "phone": "+37498424517"
+  },
+  {
+    "name": "Anteb Restaurant",
+    "address": "20,  2 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37477663662"
+  },
+  {
+    "name": "Carbon Yerevan",
+    "address": "30 Yeznik Koghbatsi St, Yerevan, Armenia",
+    "phone": "+37410530988"
+  },
+  {
+    "name": "Jose Restaurant Complex",
+    "address": "20 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410539580"
+  },
+  {
+    "name": "Katsin Restaurant",
+    "address": "9 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37499049949"
+  },
+  {
+    "name": "Zeituna Home Of Food",
+    "address": "37 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37455879867"
+  },
+  {
+    "name": "Shirvan Persian Halal Restaurant",
+    "address": "Baghramyan 2 (Cascade, Isahakyan St, Yerevan, Armenia",
+    "phone": "+37499110330"
+  },
+  {
+    "name": "Fabrica restaurant and more",
+    "address": "Hanrapetutyan 24, Mher Mkrtchyan St, Yerevan, Armenia",
+    "phone": "+37410525106"
+  },
+  {
+    "name": "Ai Leoni",
+    "address": "4, 3 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37441333444"
+  },
+  {
+    "name": "Arami",
+    "address": "1, 1 Tamanyan St, Yerevan, Armenia",
+    "phone": "+37444833833"
+  },
+  {
+    "name": "Tufenkian Kharpert Restaurant",
+    "address": "1, 1 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37410325555"
+  },
+  {
+    "name": "Rehan Restaurant",
+    "address": "Apartment no.40, 3 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37410542621"
+  },
+  {
+    "name": "Renommee Restaurant (Ռենոմե Ռեստորան)",
+    "address": "91 Pavstos Buzand St, Yerevan 0002, Armenia",
+    "phone": "+37499544466"
+  },
+  {
+    "name": "Dos Amigos",
+    "address": "0002, 91 Pavstos Buzand St, Yerevan, Armenia",
+    "phone": "+37460488884"
+  },
+  {
+    "name": "Wine Republic",
+    "address": "42 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410539939"
+  },
+  {
+    "name": "Voskevaz Wine Time",
+    "address": "13/1 Khanjyan St, Yerevan 0001, Armenia",
+    "phone": "+37410580180"
+  },
+  {
+    "name": "Taboule Restaurant",
+    "address": "8 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37441490000"
+  },
+  {
+    "name": "Byblos Grill Bakery Restaurant",
+    "address": "1st Floor, 82 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37410561177"
+  },
+  {
+    "name": "Dargett Craft Beer",
+    "address": "Cascade Tamanyan 1/2, Yerevan, Armenia",
+    "phone": "+37498993277"
+  },
+  {
+    "name": "Mamoor",
+    "address": "9, 9 Tumanyan St, Yerevan, Armenia",
+    "phone": "+37477332118"
+  },
+  {
+    "name": "Chaman Home-Restaurant",
+    "address": "Ghazar Parpetsi St, Yerevan, Armenia",
+    "phone": "+37494119345"
+  },
+  {
+    "name": "YerevanResto Projects",
+    "address": "Holiday Inn, 2 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37460833333"
+  },
+  {
+    "name": "Yasaman Yerevan's Restaurant",
+    "address": "40 Pushkin St, Yerevan, Armenia",
+    "phone": "+37433333222"
+  },
+  {
+    "name": "La Piazza",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37411750750"
+  },
+  {
+    "name": "Rose Garden",
+    "address": "4 Vardanants St, Yerevan 0010, Armenia",
+    "phone": "+37410544606"
+  },
+  {
+    "name": "Artashi Mot",
+    "address": "80 Aram Street, Yerevan 0002, Armenia",
+    "phone": "+37444588080"
+  },
+  {
+    "name": "MIS'",
+    "address": "52 Teryan St, Yerevan 0009, Armenia",
+    "phone": "+37410584058"
+  },
+  {
+    "name": "Adastra",
+    "address": "25, 1/1 Movses Khorenatsi Street, Yerevan 0010, Armenia",
+    "phone": "25110010"
+  },
+  {
+    "name": "Level Eleven Rooftop",
+    "address": "4/ 0001,, 6 Amiryan St, Yerevan 0001, Armenia",
+    "phone": "4000160001"
+  },
+  {
+    "name": "Flagman",
+    "address": "192, 0009, Antarain St, Yerevan, Armenia",
+    "phone": "57+51920009"
+  },
+  {
+    "name": "The Garden",
+    "address": "40 Tumanyan St, Yerevan 0010, Armenia",
+    "phone": "+37410531361"
+  },
+  {
+    "name": "Thaiwine Republic",
+    "address": "0010, 62 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "0010620010"
+  },
+  {
+    "name": "Karas restaurant, Mashtots",
+    "address": "6, 4 Amiryan St, Yerevan, Armenia",
+    "phone": "+37444120112"
+  },
+  {
+    "name": "Kamancha",
+    "address": "Babajanyan block 3th 1, M15, Arinj, Armenia",
+    "phone": "+37455850950"
+  },
+  {
+    "name": "India Palace Restaurant",
+    "address": "32 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "+37499008799"
+  },
+  {
+    "name": "Panorama",
+    "address": "1, 6 Leningradyan St, Yerevan 0028, Armenia",
+    "phone": "+37494380606"
+  },
+  {
+    "name": "Pars Restaurant",
+    "address": "Elite Plaza Business 17th floor, 15 Movses Khorenatsi Street, Yerevan 0010, Armenia",
+    "phone": "17150010"
+  },
+  {
+    "name": "Accent Restaurant",
+    "address": "21/1 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "+37410580106"
+  },
+  {
+    "name": "Genatsvale Tavern",
+    "address": "28 Charents St, Yerevan, Armenia",
+    "phone": "+37410572945"
+  },
+  {
+    "name": "Meeting Point Gastro Cafe and Terrace",
+    "address": "13 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37411222040"
+  },
+  {
+    "name": "Parvana",
+    "address": "Tsitsernakaberd park, building 1, Yerevan 0028, Armenia",
+    "phone": "+37499392020"
+  },
+  {
+    "name": "Bellagio",
+    "address": "7 Paronyan St, Yerevan 0015, Armenia",
+    "phone": "+37491530563"
+  },
+  {
+    "name": "Avocado Queen by Novikov YVN",
+    "address": "8 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37441131113"
+  },
+  {
+    "name": "Martini Royale",
+    "address": "3, 81 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37411656565"
+  },
+  {
+    "name": "Tashir Street Shopping Centre",
+    "address": "12 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37477529972"
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "6/2 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37412202202"
+  },
+  {
+    "name": "Metronome Shopping Center",
+    "address": "16 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411200500"
+  },
+  {
+    "name": "Tashir Trade Center",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "RIO Mall",
+    "address": "5 Northern Ave, Yerevan 0001, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Rossia Mall",
+    "address": "8 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37411281888"
+  },
+  {
+    "name": "Dalma Garden Mall",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Tashir Underground Shopping Mall",
+    "address": "33 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "+37410545435"
+  },
+  {
+    "name": "shopping Mall In Yerevan",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Galerie Royale",
+    "address": "22, 10 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410540031"
+  },
+  {
+    "name": "Mega Mall",
+    "address": "12 27 Kievyan St, Yerevan 0028, Armenia",
+    "phone": "12270028"
+  },
+  {
+    "name": "Rich Plaza",
+    "address": "98 Nalbandyan St, Yerevan 0010, Armenia",
+    "phone": "+37410567525"
+  },
+  {
+    "name": "Surmalu",
+    "address": "0001, 21 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "0001210001"
+  },
+  {
+    "name": "Garage Master’s Mall",
+    "address": "Armenia, 0082, Yerevan Tsitsernakaberdi Highway, 3, Area 17 (in the territory of \"Dalma Garden Mall\"trade center, 3 Tsitsernakaberd Hwy, Yerevan, Armenia",
+    "phone": "00823173"
+  },
+  {
+    "name": "SIL Plaza",
+    "address": "2 Vazgen Sargsyan St, Yerevan, Armenia",
+    "phone": "+37412550011"
+  },
+  {
+    "name": "Malatia Mall",
+    "address": "12 Martiros Saryan St, Yerevan, Armenia",
+    "phone": "+37411454416"
+  },
+  {
+    "name": "Երևան Տոնավաճառ",
+    "address": "Alek Manukyan St, Yerevan 0070, Armenia",
+    "phone": "+37410551842"
+  },
+  {
+    "name": "surmalu shopping center",
+    "address": "64 Baghramyan Street, Yerevan 0011, Armenia",
+    "phone": "+37494180480"
+  },
+  {
+    "name": "Complex-Bar Yerevan",
+    "address": "Verin Antarain, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Vesta",
+    "address": "62 Teryan St, Yerevan 0009, Armenia",
+    "phone": "+37410581201"
+  },
+  {
+    "name": "surmalu shopping center",
+    "address": "Yerevan Mall, 34/3 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Complex-Bar Yerevan",
+    "address": "3, H, Hakob Hakobyan St, Yerevan 0033, Armenia",
+    "phone": "+37491777051"
+  },
+  {
+    "name": "Miniso Metronome Shopping Center (Մետրոնոմ առևտրի կենտրոն)",
+    "address": "0014, 7 Nikoghayos Tigranyan St, Yerevan 0014, Armenia",
+    "phone": "001470014"
+  },
+  {
+    "name": "Basic Center",
+    "address": "Stepan Zoryan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Petak",
+    "address": "Tsitsernakaberd Hwy, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "ISSO MALL",
+    "address": "25 Charents St, Yerevan 0025, Armenia",
+    "phone": "+37411900800"
+  },
+  {
+    "name": "Yerevan City",
+    "address": "12 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37499580658"
+  },
+  {
+    "name": "Mi Armenia \"Mega Mall Armenia\"",
+    "address": "23, 6 Margaryan St, Yerevan 0078, Armenia",
+    "phone": "+37410748686"
+  },
+  {
+    "name": "TAPE A L'OEIL - YEREVAN MALL",
+    "address": "86 Tigran Mets Ave, Yerevan, Armenia",
+    "phone": "+37410572500"
+  },
+  {
+    "name": "Tashir Pizza",
+    "address": "48 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37498184747"
+  },
+  {
+    "name": "BASIC CENTER",
+    "address": "32, 1 Admiral Isakov Ave, Yerevan 0004, Armenia",
+    "phone": "+37410739403"
+  },
+  {
+    "name": "Yerevan City",
+    "address": "11 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37499942664"
+  },
+  {
+    "name": "Monsoon",
+    "address": "6, 2 Northern Ave, Yerevan 0010, Armenia",
+    "phone": "+37410744170"
+  },
+  {
+    "name": "Aloe Lab",
+    "address": "Silikyan District 13str, N 2/8, Yerevan 0029, Armenia",
+    "phone": "13280029"
+  },
+  {
+    "name": "LC Waikiki",
+    "address": "Yerevan, Armenia",
+    "phone": "+37411300700"
+  },
+  {
+    "name": "Alex Retail Store",
+    "address": "8ա, Byron St, Yerevan 0010, Armenia",
+    "phone": "+37441555311"
+  },
+  {
+    "name": "Pak Shuka",
+    "address": "1 Abovyan St, Yerevan, Armenia",
+    "phone": "+37498184747"
+  },
+  {
+    "name": "LA market",
+    "address": "27 Azatutyan Ave, Yerevan 0014, Armenia",
+    "phone": "+37412287630"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "96 Nalbandyan St, Yerevan, Armenia",
+    "phone": "+37410543127"
+  },
+  {
+    "name": "Vernissage",
+    "address": "18 Abovyan St, Yerevan 0001, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan City",
+    "address": "10 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37410541932"
+  },
+  { "name": "Lacoste", "address": "Yerevan, Armenia", "phone": null },
+  {
+    "name": "Sharan Crafts Center",
+    "address": "3 շենք, 3 Aram Street, Yerevan 0010, Armenia",
+    "phone": "+37410544707"
+  },
+  {
+    "name": "Dalma",
+    "address": "0033, 7 Hrachya Kochar St, Yerevan 0033, Armenia",
+    "phone": "003370033"
+  },
+  {
+    "name": "Yeraz Kids Center, Hanrapetutyan str.",
+    "address": "54/3 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37499173183"
+  },
+  {
+    "name": "Hayrenik Trade Center",
+    "address": "38 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37411520220"
+  },
+  {
+    "name": "Kapan Mall",
+    "address": "11 6 շենք, Yerevan 0078, Armenia",
+    "phone": "+37415400400"
+  },
+  {
+    "name": "AGORA Shopping center",
+    "address": "5 Sayat-Nova Ave, Yerevan 0001, Armenia",
+    "phone": "+37412501501"
+  },
+  {
+    "name": "Coffee House in Dalma Garden Mall",
+    "address": "17A Arshakunyats Ave, Yerevan 0023, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "BazArt",
+    "address": "Yerevan City trade center, pavilion 14, 60/2 Komitas Ave, Yerevan, Armenia",
+    "phone": "+37494064056"
+  },
+  {
+    "name": "Topolino Barber Shop & Kids Center",
+    "address": "77, 7 Proshyan Street, Gyumri, Armenia",
+    "phone": "+37477770081"
+  },
+  {
+    "name": "Republic Square",
+    "address": "Tsitsernakaberd Hwy, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Basic house",
+    "address": "Megamall/2nd floor, 16 Gai Ave, Yerevan, Armenia",
+    "phone": "+37411333444"
+  },
+  {
+    "name": "Avan Arinj Basic Park",
+    "address": "Boulevard Plaza, 64 Aram Street, Yerevan 0001, Armenia",
+    "phone": "+37412526266"
+  },
+  {
+    "name": "Zigzag Electronic Store",
+    "address": "2 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Zigzag Megastore",
+    "address": "0001, 6 Yekmalyan St, Yerevan 0002, Armenia",
+    "phone": "000160002"
+  },
+  {
+    "name": "Louvre Armenia",
+    "address": "20 Sayat-Nova Ave, Yerevan 0010, Armenia",
+    "phone": "+37411900800"
+  },
+  {
+    "name": "Coffee Centre",
+    "address": "Unnamed Road, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Euro Shoes Armenia",
+    "address": "61, 59 Hanrapetutyan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dalma",
+    "address": "21, 28 Derenik Demirtchyan Street, Yerevan 0002, Armenia",
+    "phone": "21280002"
+  },
+  {
+    "name": "One Optics",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37496521404"
+  },
+  {
+    "name": "Shirak Mall",
+    "address": "12, 7 Svachian St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "5concept",
+    "address": "ք․ Կապան, Շահումյան 1․, Shahumyan St, Kapan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "4U.AM",
+    "address": "17 Garegin Nzhdeh St, Yerevan, Armenia",
+    "phone": "+37498370721"
+  },
+  {
+    "name": "Sportlandia",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Artlife Company",
+    "address": "28 Yeznik Koghbatsi St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Capital Credit Center",
+    "address": "51, 53 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "51530010"
+  },
+  {
+    "name": "Eraz",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Colors of Armenia",
+    "address": "Yerevan, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Adidas",
+    "address": "5 Mesrop Mashtots Ave, Yerevan 0015, Armenia",
+    "phone": "+37411999022"
+  },
+  {
+    "name": "Ardēan Gallery",
+    "address": "6 Galshoyan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "iCentre.am",
+    "address": "Megamall Armenia\"Shopping Center, 16 Gai Ave, Yerevan 0056, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Yeraz Business Center",
+    "address": "Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Cafesjian Center for the Arts",
+    "address": "Dalma Garden Mall Megamall Bagratuniats 5/3 Mashtots 5 Erebuni Mall, 0015, Armenia",
+    "phone": "+37444666704"
+  },
+  {
+    "name": "Carrefour Market",
+    "address": "Rossia Mall, 16 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411747471"
+  },
+  {
+    "name": "ԷՕՆ/Aeon",
+    "address": "5 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37493630044"
+  },
+  {
+    "name": "Mom Art Candles/Մոմարտ խանութ-սրահ",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+79998383965"
+  },
+  {
+    "name": "O2 Gardens",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mi Armenia",
+    "address": "4, 12 Marshal Babajanyan St, Yerevan 0022, Armenia",
+    "phone": "+37460377710"
+  },
+  {
+    "name": "Porsche Centre Yerevan",
+    "address": "141/5 Sebastia St, Yerevan, Armenia",
+    "phone": "+37410777812"
+  },
+  {
+    "name": "Ardēan Shop",
+    "address": "Abovyan St, Yerevan, Armenia",
+    "phone": "+37411251112"
+  },
+  {
+    "name": "Kayarani Shuka",
+    "address": "99 Arshakunyats Ave, Yerevan 0099, Armenia",
+    "phone": "+37441411046"
+  },
+  {
+    "name": "Dalma",
+    "address": "Mega Mall Armenia\"shopping center, 16 Gai Ave, Yerevan, Armenia",
+    "phone": "+37495942664"
+  },
+  {
+    "name": "Zigzag Service Center",
+    "address": "18 Yerevanyan Street, Armavir, Armenia",
+    "phone": "+37460463030"
+  },
+  {
+    "name": "Kaiser",
+    "address": "38 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37411534445"
+  },
+  {
+    "name": "Dalan",
+    "address": "Սևան փողոց Arshakunyatc 17A, Yerevan 0023, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Painter's Vernissage",
+    "address": "Garegin Nzhdeh St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Expo Center",
+    "address": "59 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37460377710"
+  },
+  {
+    "name": "Koshtoyan Fashion Couture House",
+    "address": "60, 2 Komitas Ave, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "KinoPark",
+    "address": "28, Армения, 0018, 28 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "280018280018"
+  },
+  {
+    "name": "Rio",
+    "address": "Garegin Nzhdeh St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Cascade Hills Mini Market",
+    "address": "28, Армения, 0018, 28 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "280018280018"
+  },
+  {
+    "name": "Mineh Print And Mineh textile",
+    "address": "Sebastia St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kamar Center",
+    "address": "Admiral Isakov 48/1 Admiral Isakov Ave, Yerevan, Armenia",
+    "phone": "+37460707070"
+  },
+  {
+    "name": "ROUGE",
+    "address": "1 Aram Street, Yerevan, Armenia",
+    "phone": "+37410580000"
+  },
+  {
+    "name": "Carpisa",
+    "address": "33, 3 Sevan Street, Yerevan, Armenia",
+    "phone": "+37499339433"
+  },
+  {
+    "name": "Gnuni",
+    "address": "Northern Avenue 1, Yerevan 0010 0001, Armenia",
+    "phone": "100100001"
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "20 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410562362"
+  },
+  {
+    "name": "Cascade Complex",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Republic Square",
+    "address": "53 Mesrop Mashtots Ave, Yerevan 0009, Armenia",
+    "phone": "+37410562578"
+  },
+  {
+    "name": "Tsitsernakaberd Armenian Genocide Memorial Complex",
+    "address": "8, 8 Tsitsernakaberd Hwy, Yerevan 0028, Armenia",
+    "phone": "+37410391412"
+  },
+  {
+    "name": "Matenadaran",
+    "address": "2 3rd St, Yerevan, Armenia",
+    "phone": "+37410458207"
+  },
+  {
+    "name": "Lover’s Park",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Sergei Paradjanov Museum",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+79998383965"
+  },
+  {
+    "name": "Vernissage",
+    "address": "21 Marshal Baghramyan Ave, Yerevan 0019, Armenia",
+    "phone": "+37411966868"
+  },
+  {
+    "name": "Erebuni Fortress",
+    "address": "Dzoragyugh 1st St, Yerevan, Armenia",
+    "phone": "+37410538473"
+  },
+  {
+    "name": "Yerevan Zoo Park",
+    "address": "10 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37410567262"
+  },
+  {
+    "name": "Saint Gregory The Illuminator Cathedral",
+    "address": "3, 4 street Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37411206000"
+  },
+  {
+    "name": "History Museum of Armenia",
+    "address": "2, 2 Azatutyan Ave, Yerevan 0037, Armenia",
+    "phone": "+37410219900"
+  },
+  {
+    "name": "Blue Mosque",
+    "address": "2 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37460833000"
+  },
+  {
+    "name": "Charles Aznavour square",
+    "address": "15 Pavstos Buzand St.,  Yerevan, Armenia",
+    "phone": "+37411200400"
+  },
+  {
+    "name": "Cafesjian Center for the Arts",
+    "address": "5/1 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37410595959"
+  },
+  {
+    "name": "Martiros Saryan House-Museum",
+    "address": "Aram Street, Yerevan, Armenia",
+    "phone": "+37494221002"
+  },
+  {
+    "name": "Holy Mother of God Kathoghike Church",
+    "address": "15, 5 Rubinyants St, Yerevan, Armenia",
+    "phone": "+37410299330"
+  },
+  {
+    "name": "Saint Sargis Vicarial Church",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan History Museum",
+    "address": "21 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "+37410608800"
+  },
+  {
+    "name": "Erebuni Archaeological Museum",
+    "address": "Armenia,Tsaghkadzor, Tandzaghbyuri 2, 4/1, Tsaghkadzor, Цахкадзор,Tsaxkadzor 2310, Armenia",
+    "phone": "+37455294145"
+  },
+  {
+    "name": "Water World",
+    "address": "1 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37443600880"
+  },
+  {
+    "name": "Opera and Ballet Theatre",
+    "address": "10 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37410522035"
+  },
+  {
+    "name": "Play City",
+    "address": "2 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37444604080"
+  },
+  {
+    "name": "Modern Art Museum",
+    "address": "13 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37411222040"
+  },
+  {
+    "name": "Circular Park",
+    "address": "3 Moskovyan Street, Yerevan, Armenia",
+    "phone": "+37443408864"
+  },
+  {
+    "name": "Aram Khachaturyan House Museum",
+    "address": "Սևան փողոց Arshakunyatc 17A, Yerevan 0023, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Freedom Square",
+    "address": "60, 2 Komitas Ave, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Botanical Garden",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Megerian Carpet Armenia",
+    "address": "4 Hrachya Kochar St, Yerevan 0033, Armenia",
+    "phone": "+37491711555"
+  },
+  {
+    "name": "Khor Virab",
+    "address": "8 Amiryan St, Yerevan 0001, Armenia",
+    "phone": "+37493349530"
+  },
+  {
+    "name": "Geghard Monastery",
+    "address": "Northern Avenue 1, Yerevan 0010 0001, Armenia",
+    "phone": "100100001"
+  },
+  {
+    "name": "Yerevan Zipline Airlines",
+    "address": "50a Khanjyan St, Yerevan 0025, Armenia",
+    "phone": "+37410554923"
+  },
+  {
+    "name": "Armenian Alphabet Monument",
+    "address": "37 Vilnius St, Yerevan 0059, Armenia",
+    "phone": "+37466589870"
+  },
+  {
+    "name": "Noy Factory",
+    "address": "18 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37410521210"
+  },
+  {
+    "name": "Dalan",
+    "address": "6 Martiros Saryan St, Yerevan, Armenia",
+    "phone": "+37410521931"
+  },
+  {
+    "name": "Garni Gorge",
+    "address": "72 Aram Street, Yerevan 0001, Armenia",
+    "phone": "+37496870870"
+  },
+  {
+    "name": "Alexander Tamanyan Statue",
+    "address": "Republic Square, Yerevan, Armenia",
+    "phone": "+37493498985"
+  },
+  {
+    "name": "Vardanyan's park",
+    "address": "Tsitsernakaberdi zbosaygi 1, Yerevan 0028, Armenia",
+    "phone": "+37411755502"
+  },
+  {
+    "name": "Yerevan Card",
+    "address": "48 Myasnikyan St, Dilijan 3901, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan",
+    "address": "8 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37411281888"
+  },
+  {
+    "name": "Shengavit settlement",
+    "address": "4 Republic Square, Yerevan 0001, Armenia",
+    "phone": "+37495859248"
+  },
+  {
+    "name": "Centre of Popular Creation",
+    "address": "Cascade Complex, Big Blue Kiwi, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Zvartnots Cathedral",
+    "address": "10 Mher Mkrtchyan St, Yerevan 0010, Armenia",
+    "phone": "+37496888320"
+  },
+  {
+    "name": "Eduard Issabekyan Gallery",
+    "address": "16 Paronyan St, Yerevan, Armenia",
+    "phone": "+37477324444"
+  },
+  {
+    "name": "Soviet Club",
+    "address": "35 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "+37410578441"
+  },
+  {
+    "name": "Lusik Aguletsi House-Museum and Art Cafe",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Tsiranavor",
+    "address": "Aram Street, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Havuts Tar Monastery Complex",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Children's Railway",
+    "address": "Abovyan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerani Travel",
+    "address": "2 Admiral Isakov Ave, Yerevan 0082, Armenia",
+    "phone": "+37410510100"
+  },
+  {
+    "name": "Swan Lake",
+    "address": "Alley of Glory, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Brandy Company",
+    "address": "39, 12 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37443884455"
+  },
+  {
+    "name": "Seven Springs",
+    "address": "130 Dzorapi Street, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Republic Square",
+    "address": "79X8+7C3 Karmravor, Perch Proshyan Street, Ashtarak, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "37/5 Sebastia St, Yerevan 0065, Armenia",
+    "phone": "+37444019900"
+  },
+  {
+    "name": "Skyball",
+    "address": "79 Muratsan St, Yerevan, Armenia",
+    "phone": "+37455024424"
+  },
+  {
+    "name": "Gum Market",
+    "address": "64 Abovyan St, Yerevan 0009, Armenia",
+    "phone": "+374569380"
+  },
+  {
+    "name": "Mirzoyan Library",
+    "address": "Bagratuniats St, Yerevan, Armenia",
+    "phone": "+37410422483"
+  },
+  {
+    "name": "Big Blue Kiwi",
+    "address": "Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Free Walking Tour in Yerevan",
+    "address": "2 Abovyan St, Yerevan, Armenia",
+    "phone": "+37444604080"
+  },
+  {
+    "name": "Dilijan Amphitheater",
+    "address": "2 Italy St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "RIO Mall",
+    "address": "10 Moskovyan Street, Yerevan 0009, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kond",
+    "address": "12 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37499580658"
+  },
+  {
+    "name": "Dargett Craft Beer",
+    "address": "7a Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410500567"
+  },
+  {
+    "name": "Boven-Azatvallei",
+    "address": "Sevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Moscow Cinema",
+    "address": "9 Argishti St, Yerevan 0015, Armenia",
+    "phone": "+37410547048"
+  },
+  {
+    "name": "In Vino",
+    "address": "27 Azatutyan Ave, Yerevan, Armenia",
+    "phone": "+37498740330"
+  },
+  {
+    "name": "Market",
+    "address": "Artashavan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mount Aragats",
+    "address": "Մոնթե Մելքոնյան, 31, Yerevan, Armenia",
+    "phone": "+37412881188"
+  },
+  {
+    "name": "Chess House",
+    "address": "1 Aram Street, Yerevan 0010, Armenia",
+    "phone": "+37410567472"
+  },
+  {
+    "name": "Yerevan Christmas Market",
+    "address": "Vahram Papazyan St, Yerevan, Armenia",
+    "phone": "+37443409090"
+  },
+  {
+    "name": "Zvartnots International Airport",
+    "address": "Megerian Carpet Armenia, 0006, 9 Madoyan Street, Yerevan 0006, Armenia",
+    "phone": "000690006"
+  },
+  {
+    "name": "Positive Day Tour Operator",
+    "address": "Mets Gilanlar, Armenia",
+    "phone": "+37495371367"
+  },
+  {
+    "name": "Лошади",
+    "address": "15 Լեփսիուսի փողոց, Yerevan 0035, Armenia",
+    "phone": "+37410621762"
+  },
+  {
+    "name": "Skyline Tour Service",
+    "address": "H11 , near the village of, Pokr Vedi 0612, Armenia",
+    "phone": "+37493533685"
+  },
+  {
+    "name": "Petak",
+    "address": "Yerevan 0010, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Loft",
+    "address": "3 Zarobyan St, Yerevan 0009, Armenia",
+    "phone": "+37410589418"
+  },
+  {
+    "name": "Voghjaberd",
+    "address": "35, 35 Acharyan St, Yerevan 0040, Armenia",
+    "phone": "35350040"
+  },
+  {
+    "name": "Gouroo Club & Garden",
+    "address": "Tumanyan St, Yerevan, Armenia",
+    "phone": "+37410533391"
+  },
+  {
+    "name": "Jan Armenia Tours and Travel",
+    "address": "Khanjyan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan City",
+    "address": "7 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410535359"
+  },
+  {
+    "name": "Sherep Restaurant",
+    "address": "40 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410638998"
+  },
+  {
+    "name": "ROYALE CASINO Entertaiment Center",
+    "address": "9 Ghazar Parpetsi St, Yerevan 0002, Armenia",
+    "phone": "+37410530162"
+  },
+  {
+    "name": "Dvin",
+    "address": "1/1 Argishti St, Yerevan 0010, Armenia",
+    "phone": "+37410568108"
+  },
+  {
+    "name": "Lavash Restaurant",
+    "address": "38 Erebuni St, Yerevan 0020, Armenia",
+    "phone": "+37410432661"
+  },
+  {
+    "name": "Tsaghkadzor Ski Resort",
+    "address": "21 Israyelyan St, Yerevan, Armenia",
+    "phone": "+37410585713"
+  },
+  {
+    "name": "Yerevan City",
+    "address": "17 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37455913545"
+  },
+  {
+    "name": "ibis Yerevan Center",
+    "address": "3 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37410580568"
+  },
+  {
+    "name": "Yerevan City",
+    "address": "10 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37410541932"
+  },
+  {
+    "name": "Sasunik",
+    "address": "Italy St, Yerevan, Armenia",
+    "phone": "+37410448805"
+  },
+  {
+    "name": "Nane Hotel",
+    "address": "Gortsaranayin 65/1, 2/37 Sayat Nova Ave, Gyumri 3106, Armenia",
+    "phone": "6512373106"
+  },
+  {
+    "name": "Villa Kars",
+    "address": "218 Abovyan St, Gyumri 3104, Armenia",
+    "phone": "+37444350011"
+  },
+  {
+    "name": "Grand Hotel Gyumri by Apricot Hotels",
+    "address": "49 Mher Mkrtchyan Street, Gyumri 3103, Armenia",
+    "phone": "+37493431059"
+  },
+  {
+    "name": "Central Hotel",
+    "address": "58 Gorki Street, Gyumri 3104, Armenia",
+    "phone": "+37477424341"
+  },
+  {
+    "name": "Berlin Art Hotel",
+    "address": "84 Gorki Street, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Plaza Viktoria",
+    "address": "244/1 Abovyan St, Gyumri, Armenia",
+    "phone": "+37443290003"
+  },
+  {
+    "name": "Araks Hotel",
+    "address": "Gyumri Commercial Center, Gyumri 3103, Armenia",
+    "phone": "+37431255151"
+  },
+  {
+    "name": "Tomu's Hotel",
+    "address": "Rustaveli Street, Gyumri, Armenia",
+    "phone": "+37410561156"
+  },
+  {
+    "name": "Olympic Hotel",
+    "address": "25 Gorki Street, Gyumri 3104, Armenia",
+    "phone": "+37494040203"
+  },
+  {
+    "name": "Golden Abricot",
+    "address": "25 Haghtanaki Avenue, Gyumri, Armenia",
+    "phone": "+37431257659"
+  },
+  {
+    "name": "Hotel Vanatur",
+    "address": "Jradzor, Armenia",
+    "phone": "+37493002201"
+  },
+  {
+    "name": "JINJOTEL",
+    "address": "Yerkatughayinneri Street 3, Артик 3003, Armenia",
+    "phone": "+37494424944"
+  },
+  {
+    "name": "Gyumri Hotel",
+    "address": "19, 15 Baghramyan St, Artik 3001, Armenia",
+    "phone": "19153001"
+  },
+  {
+    "name": "HOTEL SESIL",
+    "address": "E 691, Torosgyugh 2804, Armenia",
+    "phone": "8+96912804"
+  },
+  {
+    "name": "Guest House in Gumri",
+    "address": "Krashen 2634, Armenia",
+    "phone": "+37477789234"
+  },
+  {
+    "name": "Toon 55",
+    "address": "7th House, 1st Street 7th Lane, Pemzashen 3020, Armenia",
+    "phone": "+37493885642"
+  },
+  {
+    "name": "Tigran Mets",
+    "address": "34 house, 23 street, Vahramaberd 2625, Armenia",
+    "phone": "34232625"
+  },
+  {
+    "name": "Ethno Hotel",
+    "address": "Unnamed Road, Amasia 2701, Armenia",
+    "phone": "+37494863253"
+  },
+  {
+    "name": "Lime Hotel & Restaurant Complex",
+    "address": "187 Yerevanyan Highway, Gyumri 3115, Armenia",
+    "phone": "+37493343570"
+  },
+  {
+    "name": "Garun Hotel & Restaurant",
+    "address": "Gyumri, Armenia",
+    "phone": "+37491501133"
+  },
+  {
+    "name": "Garun Hotel & Restaurant",
+    "address": "S.Marz Arapi 4p, 2t, Armenia",
+    "phone": "+37493002201"
+  },
+  {
+    "name": "Ethno Hotel",
+    "address": "14 Movses Khorenatsi Street, Gyumri 3126, Armenia",
+    "phone": "+37494347431"
+  },
+  {
+    "name": "Communa Guesthouse",
+    "address": "Yerevanyan Highway, Gyumri, Armenia",
+    "phone": "+37498790989"
+  },
+  {
+    "name": "Konjelazia / Tourism & Design",
+    "address": "144 Shahumyan St, Gyumri 3104, Armenia",
+    "phone": "+37477167116"
+  },
+  {
+    "name": "Отель Кама",
+    "address": "139, Teryan Street, 3 Teryan 139, Gyumri 3101, Armenia",
+    "phone": "13931393101"
+  },
+  {
+    "name": "Basen Kids",
+    "address": "25 Garegin Nzhdeh Avenue, Gyumri 0415, Armenia",
+    "phone": "+37498171013"
+  },
+  {
+    "name": "David's Bed And Breakfast",
+    "address": "10, 1 Margaret Thatcher St, Gyumri 3101, Armenia",
+    "phone": "+37493002292"
+  },
+  {
+    "name": "Lind Hostel",
+    "address": "6a, 4 Vazgen Sargsyan Street, Gyumri 3115, Armenia",
+    "phone": "+37491503445"
+  },
+  {
+    "name": "Lime Hotel & Restaurant Complex",
+    "address": "48, Vahan, 2 Teryan Street, Gyumri 3101, Armenia",
+    "phone": "+37493303159"
+  },
+  {
+    "name": "Central Guesthouse Gyumri",
+    "address": "Գյումրի, Շիրակացու Փողոց, 5/7 Shirakatsi Street, Gyumri, Armenia",
+    "phone": "+37498369909"
+  },
+  {
+    "name": "Gyurji Home",
+    "address": "Sundukyan St, Gyumri, Armenia",
+    "phone": "+37431253399"
+  },
+  {
+    "name": "Onoyi Tun Guest House",
+    "address": "29 Rustaveli Street, Gyumri 3104, Armenia",
+    "phone": "+37498901295"
+  },
+  {
+    "name": "Darbas Guest House",
+    "address": "1 Rijkov St, Gyumri, Armenia",
+    "phone": "+37494115599"
+  },
+  {
+    "name": "Ro Metro Hotel",
+    "address": "14 House, Artak, Episkopos Smbatyan str, Gyumri, Armenia",
+    "phone": "+37496440103"
+  },
+  {
+    "name": "Hotel Felisa Gyumri",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Gold",
+    "address": "M7, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel & Restaurant Yerazank",
+    "address": "1 Bagratunyants, Gyumri, Armenia",
+    "phone": "+37498901295"
+  },
+  {
+    "name": "Doctor's House",
+    "address": "Khrimyan Hayrik Highway, Gyumri, Armenia",
+    "phone": "+37431238383"
+  },
+  {
+    "name": "Gyumri Guest House",
+    "address": "60, 1 Mazmanyan St, Gyumri, Armenia",
+    "phone": "+37444992662"
+  },
+  {
+    "name": "Hay Aspet Հայ Ասպետ",
+    "address": "Shahumyan St, Gyumri, Armenia",
+    "phone": "+37494987203"
+  },
+  {
+    "name": "Madoyan Guest House",
+    "address": "house 75, Dashtents (Krupskaya) street, Gyumri 3104, Armenia",
+    "phone": "+37494613468"
+  },
+  {
+    "name": "Kumayri Guest House",
+    "address": "5/2 Garegin Nzhdeh Avenue, Gyumri, Armenia",
+    "phone": "+37499755551"
+  },
+  {
+    "name": "H.A.S.K",
+    "address": "18/1 Khrimyan Hayrik Highway, Gyumri 3101, Armenia",
+    "phone": "+37493092728"
+  },
+  {
+    "name": "Vanand Guest House",
+    "address": "4 XIII St, Gyumri, Mayisyan 2617, Armenia",
+    "phone": "+37494755777"
+  },
+  {
+    "name": "Guest House Lami",
+    "address": "Koshtoyan st, Gyumri, Armenia",
+    "phone": "+37498997175"
+  },
+  {
+    "name": "Ankyun Guest House",
+    "address": "Vardbagh 15, Gyumri 3103, Armenia",
+    "phone": "+37494012401"
+  },
+  {
+    "name": "Dom Polski hostel",
+    "address": "30/1 Vazgen Sargsyan Street, Gyumri 3108, Armenia",
+    "phone": "+37455515077"
+  },
+  {
+    "name": "Artush & Raisa B&B",
+    "address": "30 Yerevanyan Highway Sevan 30 Yerevanyan Highway Sevan, Gyumri 1501, Armenia",
+    "phone": "30301501"
+  },
+  {
+    "name": "Hotel",
+    "address": "95 Mayakovsky Street, Gyumri, Armenia",
+    "phone": "+37494213522"
+  },
+  {
+    "name": "Home sweet Home",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Alexandrapol",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Green Canyon",
+    "address": "Gyumri, Armenia",
+    "phone": "+37494848418"
+  },
+  {
+    "name": "Voske Blur Hotel",
+    "address": "104 Gorki street, 55 2nd floor, Gyumri 3102, Armenia",
+    "phone": "1045523102"
+  },
+  {
+    "name": "Hotel in Artik (Varaga Ojax)",
+    "address": "26 Komisarneri 133, Gyumri 3118, Armenia",
+    "phone": "261333118"
+  },
+  {
+    "name": "Masters' House Bed & Bar",
+    "address": "32, 1 Southeast bypass, Gyumri 3112, Armenia",
+    "phone": "+37493883334"
+  },
+  {
+    "name": "Vale Hotel Restaurant",
+    "address": "2 этаж, 137 Shahumyan St, Gyumri 3104, Armenia",
+    "phone": "21373104"
+  },
+  {
+    "name": "KASA Guesthouse Gyumri",
+    "address": "Gyumri, Armenia",
+    "phone": "+37494101823"
+  },
+  {
+    "name": "V.Q. Gyulbekyan's Guest House",
+    "address": "69 Shahumyan Street, Gyumri 3101, Armenia",
+    "phone": "+37498056528"
+  },
+  {
+    "name": "In Gyumri",
+    "address": "Ք, 1 Վազգեն Սարգսյան 30, Gyumri 3101, Armenia",
+    "phone": "+37455515077"
+  },
+  {
+    "name": "Mkhitaryan Guest House",
+    "address": "Khanjyan Street, Gyumri, Armenia",
+    "phone": "+37493090888"
+  },
+  {
+    "name": "Light guest House",
+    "address": "Baghramyan street 19/15 Баграмян улица 19/15 Բաղրամյան փ. 19/15, Artik 3001, Armenia",
+    "phone": "1915191519153001"
+  },
+  {
+    "name": "KAYARAN home",
+    "address": "Andranik Ozanyan 16, Gyumri 3123, Armenia",
+    "phone": "+37477646494"
+  },
+  {
+    "name": "APARTMENT CENTRAL IN GYUMRI",
+    "address": "97 Shahumyan Street, Gyumri, Armenia",
+    "phone": "+37477616619"
+  },
+  {
+    "name": "Armine's B&B",
+    "address": "20/3 Савоян, Gyumri 3008, Armenia",
+    "phone": "+37493190594"
+  },
+  {
+    "name": "Atoyans` Guesthouse Gyumri",
+    "address": "Keti, Armenia",
+    "phone": "+37491846443"
+  },
+  {
+    "name": "ORSETTO",
+    "address": "Ереванское шоссе, Gyumri 0032, Armenia",
+    "phone": "+37493343596"
+  },
+  {
+    "name": "VALE hotel",
+    "address": "70 Mayakovsky Street, Gyumri 3104, Armenia",
+    "phone": "+37431250051"
+  },
+  {
+    "name": "Guest House Emma",
+    "address": "Hanesoglyan 7, Gyumri 3105, Armenia",
+    "phone": "+37491422582"
+  },
+  {
+    "name": "My house гостевой дом",
+    "address": "Ayvazovski 1/2, Gyumri 3115, Armenia",
+    "phone": "+37494612345"
+  },
+  {
+    "name": "Русалка",
+    "address": "156 Ghorghanyan Street, Gyumri 3115, Armenia",
+    "phone": "+37477726563"
+  },
+  {
+    "name": "Babulya House",
+    "address": "P.Sevak st -11, Gyumri 3126, Armenia",
+    "phone": "+37498181358"
+  },
+  {
+    "name": "Hotel Mush",
+    "address": "25 Matnishyan St, Gyumri 3101, Armenia",
+    "phone": "+37493217492"
+  },
+  {
+    "name": "ALHMAS HOTEL",
+    "address": "62 Shirakatsi Street, Gyumri 3100, Armenia",
+    "phone": "+37477116811"
+  },
+  {
+    "name": "Rancho Alexandrapol",
+    "address": "Levon madoyan97, Gyumri 3112, Armenia",
+    "phone": "+37498559296"
+  },
+  {
+    "name": "Kotun",
+    "address": "53 Shiraz, Gyumri, Armenia",
+    "phone": "+37498102045"
+  },
+  {
+    "name": "GASPAR FAMILY HOMES B&B",
+    "address": "Աճեմյան 7, Gyumri, Armenia",
+    "phone": "+37493211898"
+  },
+  {
+    "name": "Guest House Lamí",
+    "address": "159 Isahakyan Street, Gyumri 3101, Armenia",
+    "phone": "+37491342525"
+  },
+  {
+    "name": "Guest House ART",
+    "address": "72 Jivani St, Gyumri 3105, Armenia",
+    "phone": "+37494145059"
+  },
+  {
+    "name": "Տաք կերակուր",
+    "address": "15 Movses Khorenatsi Street, Gyumri 3101, Armenia",
+    "phone": "+37444775550"
+  },
+  {
+    "name": "ARMART B&B",
+    "address": "13 Shirakatsi Street, Gyumri, Armenia",
+    "phone": "+37477079007"
+  },
+  {
+    "name": "Gyumretsi guest house",
+    "address": "2 Aragats St, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "My Home B&B",
+    "address": "115 Ghukasyan St, Gyumri 3102, Armenia",
+    "phone": "+37498212701"
+  },
+  {
+    "name": "Garden Guest House Gyumri",
+    "address": "Меркуров, 26 Merkurov St, Gyumri 3112, Armenia",
+    "phone": "+37477258158"
+  },
+  {
+    "name": "Gyumri B&B",
+    "address": "19 Dashtents St, Gyumri 3102, Armenia",
+    "phone": "+37493113334"
+  },
+  {
+    "name": "Hostel#1",
+    "address": "49 Ghandiljan Street, Gyumri 3102, Armenia",
+    "phone": "+37494202289"
+  },
+  {
+    "name": "House OLD CITY",
+    "address": "Minas Avetisyan St, Gyumri, Armenia",
+    "phone": null
+  },
+  { "name": "Nrane", "address": "5 Rijkov St, Gyumri, Armenia", "phone": null },
+  {
+    "name": "Light gyumri",
+    "address": "Gyumri Aleq Manukyan 2/1, Gyumri 3101, Armenia",
+    "phone": "+37494862686"
+  },
+  {
+    "name": "balesko",
+    "address": "Gyumri, Armenia",
+    "phone": "+37498647053"
+  },
+  {
+    "name": "Shushan",
+    "address": "Garegin Nzhdeh Avenue, Gyumri, Armenia",
+    "phone": "+37494201208"
+  },
+  {
+    "name": "Santera",
+    "address": "2/20 Garegin Nzhdeh Avenue, Gyumri 3101, Armenia",
+    "phone": "+37495111177"
+  },
+  {
+    "name": "ERA",
+    "address": "234, 1 Ghorghanyan Street, Gyumri 3105, Armenia",
+    "phone": "23413105"
+  },
+  {
+    "name": "Ani Hostel Gyumri",
+    "address": "Nalbandyan St, Gyumri, Armenia",
+    "phone": "+37495091282"
+  },
+  {
+    "name": "KAPSI DZOR RESORT",
+    "address": "4/9 Рыжков, Gyumri 3104, Armenia",
+    "phone": "+37498028484"
+  },
+  {
+    "name": "ALB & ARS",
+    "address": "4/9 Рыжков, Gyumri 3104, Armenia",
+    "phone": "+37498028484"
+  },
+  {
+    "name": "Eco Rancho Amasia",
+    "address": "Gyumri Aleq Manukyan 2/1, Gyumri 3101, Armenia",
+    "phone": "+37494862686"
+  },
+  {
+    "name": "Marmashen House",
+    "address": "1 Marmashen Hwy, Gyumri, Armenia",
+    "phone": "+37431231304"
+  },
+  {
+    "name": "Stone Art Guest House & Camping",
+    "address": "1 Marmashen Hwy, Gyumri, Armenia",
+    "phone": "+37431231304"
+  },
+  {
+    "name": "Parvana Odjax",
+    "address": "Teryan Street, Gyumri, Armenia",
+    "phone": "+37493400905"
+  },
+  {
+    "name": "gwoog gastrohouse",
+    "address": "Gyumri Commercial Center, 1/5, Gyumri 3103, Armenia",
+    "phone": "+37431235569"
+  },
+  {
+    "name": "Florence Gyumri",
+    "address": "Gyumri, Armenia",
+    "phone": "+37431233074"
+  },
+  {
+    "name": "Gyumri's Fish Restaurant (Cherkezi Dzor)",
+    "address": "22 Garegin Nzhdeh Avenue, Gyumri, Armenia",
+    "phone": "+37477048878"
+  },
+  {
+    "name": "Di Napoli",
+    "address": "Shirazi 5/7, Gyumri 3105, Armenia",
+    "phone": "+37498339988"
+  },
+  {
+    "name": "Shara Restaurant",
+    "address": "Gyumri, Armenia",
+    "phone": "+37499011520"
+  },
+  {
+    "name": "GGH by Chechil",
+    "address": "5 Rijkov St, Gyumri, Armenia",
+    "phone": "+37493644645"
+  },
+  {
+    "name": "Kilikia Bistro",
+    "address": "Խաղաղության օղակ 1, Gyumri, Armenia",
+    "phone": "+37493139989"
+  },
+  {
+    "name": "Herbs & Honey",
+    "address": "Gorku 58\\2, Gyumri, Armenia",
+    "phone": "+37443439999"
+  },
+  {
+    "name": "\"Gyumri\"Hatsatun",
+    "address": "11/3 Tigran Mets Avenue, Gyumri 3102, Armenia",
+    "phone": "+37477023025"
+  },
+  {
+    "name": "Food Time",
+    "address": "27 Rustaveli Street, Gyumri 3104, Armenia",
+    "phone": "+37441111420"
+  },
+  {
+    "name": "Tashir Pizza",
+    "address": "34 house, 23 street, Vahramaberd 2625, Armenia",
+    "phone": "34232625"
+  },
+  {
+    "name": "Trezzo lounge-cafe",
+    "address": "S.Marz Arapi 4p, 2t, Armenia",
+    "phone": "+37493002201"
+  },
+  {
+    "name": "Noon lunch",
+    "address": "7 Sayat Nova Ave, Gyumri, Armenia",
+    "phone": "+37498665577"
+  },
+  {
+    "name": "Restaurant Millenium",
+    "address": "70 Mayakovsky Street, Gyumri 3104, Armenia",
+    "phone": "+37431250051"
+  },
+  {
+    "name": "Kumayri Restaurant",
+    "address": "58 Gorki Street, Gyumri 3104, Armenia",
+    "phone": "+37477424341"
+  },
+  {
+    "name": "Kilikia Restaurant",
+    "address": "2 Haghtanaki Avenue, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Voske Blur Restaurant",
+    "address": "Gyumri Commercial Center, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Khachmeruk",
+    "address": "Khrimyan Hayrik Highway, Gyumri, Armenia",
+    "phone": "+37431238383"
+  },
+  {
+    "name": "Ani Restaurant",
+    "address": "9 ա, 9/9 Sayat Nova Ave ք, Սայաթ-Նովա 9, Gyumri, Armenia",
+    "phone": "+37498945944"
+  },
+  {
+    "name": "Nash Dvor",
+    "address": "2/20 Garegin Nzhdeh Avenue, Gyumri 3101, Armenia",
+    "phone": "+37495111177"
+  },
+  {
+    "name": "Ani Restaurant",
+    "address": "Gyumri, Armenia",
+    "phone": "+37493101534"
+  },
+  {
+    "name": "Հավլաբար",
+    "address": "Gyumri Commercial Center, Gyumri 3103, Armenia",
+    "phone": "+37431255151"
+  },
+  {
+    "name": "HAYAT restaurant &music hall",
+    "address": "Abovyan st., Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Troya",
+    "address": "3 Rijkov St, Gyumri, Armenia",
+    "phone": "+37431257077"
+  },
+  {
+    "name": "Yaghli House",
+    "address": "Աբովյան 139, Gyumri, Armenia",
+    "phone": "+37494623823"
+  },
+  {
+    "name": "Casa Verde",
+    "address": "Gyumri Aleq Manukyan 2/1, Gyumri 3101, Armenia",
+    "phone": "+37494862686"
+  },
+  {
+    "name": "The Arthouse Coffeeshop",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Vanatur Restaurant",
+    "address": "67b Yerevanyan Highway, Gyumri 3112, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Rossia",
+    "address": "58, 1 Gorki Street, Gyumri, Armenia",
+    "phone": "+37477040401"
+  },
+  {
+    "name": "Mush Bistro",
+    "address": "39, 2 Rustaveli Street, Gyumri, Armenia",
+    "phone": "+37477190528"
+  },
+  {
+    "name": "Atlant",
+    "address": "3/2 Ширакаци, Gyumri, Armenia",
+    "phone": "+37493991139"
+  },
+  {
+    "name": "Green Gyumri",
+    "address": "137 Shahumyan St, Gyumri 3101, Armenia",
+    "phone": "+37493303159"
+  },
+  {
+    "name": "Ֆայտոն",
+    "address": "4 Sayat Nova Ave, Gyumri, Armenia",
+    "phone": "+37493777474"
+  },
+  {
+    "name": "Basturma Shop & Grill Bar",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Նաիրի",
+    "address": "25a Vazgen Sargsyan Street, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tigran Mets",
+    "address": "218, 1 Abovyan St, Gyumri 3101, Armenia",
+    "phone": "21813101"
+  },
+  {
+    "name": "Zemlyanka Restaurant",
+    "address": "Keti, Armenia",
+    "phone": "+37491846443"
+  },
+  {
+    "name": "Vale",
+    "address": "Akhuryan, Armenia",
+    "phone": "+37493601313"
+  },
+  {
+    "name": "Karo Bistro",
+    "address": "Rustaveli Street, Gyumri, Armenia",
+    "phone": "+37410561156"
+  },
+  {
+    "name": "Somali restaurant",
+    "address": "73, 3 Gorki Street, Gyumri 3102, Armenia",
+    "phone": "+37498318618"
+  },
+  {
+    "name": "IMPERIAL FAST FOOD",
+    "address": "25 3104, Haghtanaki Avenue, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Aregak Bakery and Café",
+    "address": "Ширакаци 18Б, Gyumri, Armenia",
+    "phone": "+37477732370"
+  },
+  {
+    "name": "Գյումրի պանդոկ",
+    "address": "4 Ryzhkov street, Gyumri 3104, Armenia",
+    "phone": "+37477409133"
+  },
+  {
+    "name": "Yerankyuni",
+    "address": "19 H-32, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "In Gyumri",
+    "address": "Gayi Street, Gyumri, Armenia",
+    "phone": "+37433668998"
+  },
+  {
+    "name": "OASIS",
+    "address": "8 Tigran Mets Avenue, Gyumri 3101, Armenia",
+    "phone": "+37433755705"
+  },
+  {
+    "name": "Vardananq",
+    "address": "9, 1 Mikhail Saltykov-Shchedrin St, Gyumri, Armenia",
+    "phone": "+37498686840"
+  },
+  {
+    "name": "Imperial restaurant",
+    "address": "Danielyan St, Gyumri, Armenia",
+    "phone": "+37477966866"
+  },
+  {
+    "name": "Դվին",
+    "address": "Andranik Ozanyan 16, Gyumri 3123, Armenia",
+    "phone": "+37477646494"
+  },
+  {
+    "name": "Եռանկյունի դարբնոց",
+    "address": "48, 1 Gorki Street, Gyumri, Armenia",
+    "phone": "+37495105678"
+  },
+  {
+    "name": "Ponchik Monchik",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "IGIT Restaurant",
+    "address": "1 Marmashen Hwy, Gyumri, Armenia",
+    "phone": "+37431231304"
+  },
+  {
+    "name": "Victoria Wedding Hall",
+    "address": "121 улица Горганяна, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "ԿՏՈՐ ՄԸ - KTOR M",
+    "address": "Саргсян 8/1, Gyumri, Armenia",
+    "phone": "+37498144455"
+  },
+  {
+    "name": "Վան",
+    "address": "Ք, 1 Վազգեն Սարգսյան 30, Gyumri 3101, Armenia",
+    "phone": "+37455515077"
+  },
+  {
+    "name": "Vale Hotel Restaurant",
+    "address": "25 Gorki Street, Gyumri, Armenia",
+    "phone": "+37493122207"
+  },
+  {
+    "name": "Ծիտրո Ալեք",
+    "address": "Gyumri, Armenia",
+    "phone": "+37494747809"
+  },
+  {
+    "name": "Jam Music Club",
+    "address": "14 Gayi Street, Gyumri, Armenia",
+    "phone": "+37477895008"
+  },
+  {
+    "name": "5x5 Food Court",
+    "address": "8 Alek Manukyan St, Gyumri, Armenia",
+    "phone": "+37441277177"
+  },
+  {
+    "name": "Гюмрва тонратун",
+    "address": "Gyumri, Armenia",
+    "phone": "+37431233000"
+  },
+  {
+    "name": "Garun Hotel & Restaurant",
+    "address": "16, 1 Shirakatsi Street, Gyumri, Armenia",
+    "phone": "+37494090309"
+  },
+  {
+    "name": "Пекарня N1",
+    "address": "10 Khrimyan Hayrik Highway, Gyumri 3109, Armenia",
+    "phone": "+37491808828"
+  },
+  {
+    "name": "Изумрудное озеро",
+    "address": "bagradunyats square, Gyumri, Armenia",
+    "phone": "+37498665577"
+  },
+  {
+    "name": "Voske Blur Hotel",
+    "address": "Gyumri, Armenia",
+    "phone": "+37498444044"
+  },
+  {
+    "name": "Նազուկ",
+    "address": "32, 1 Southeast bypass, Gyumri 3112, Armenia",
+    "phone": "+37493883334"
+  },
+  {
+    "name": "Չիչխան",
+    "address": "67b Yerevanyan Highway, Gyumri 3112, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Շաուրմանիա",
+    "address": "Ghandilyan59, Gyumri, Armenia",
+    "phone": "+37498525232"
+  },
+  {
+    "name": "Maranatha Sushi",
+    "address": "M7, Gyumri, Armenia",
+    "phone": "+37498554232"
+  },
+  {
+    "name": "Երեք խոզուկներ",
+    "address": "242 Abovyan St, Gyumri 3101, Armenia",
+    "phone": "+37498441088"
+  },
+  {
+    "name": "Qyalla",
+    "address": "Komitas str, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Biergarten Berlin",
+    "address": "Vazgen Sargsyan Street, Gyumri, Armenia",
+    "phone": "+37498012106"
+  },
+  {
+    "name": "V.Food Gyumri",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Villa Kars",
+    "address": "Alexander Herzen St, Gyumri, Armenia",
+    "phone": "+37455515077"
+  },
+  {
+    "name": "Ташир пицца",
+    "address": "11g Yerevanyan Highway, Gyumri 3112, Armenia",
+    "phone": "+37431245555"
+  },
+  {
+    "name": "Արագած Ռեստորան",
+    "address": "Teryan Street, Gyumri, Armenia",
+    "phone": "+37493400905"
+  },
+  {
+    "name": "Green Canyon",
+    "address": "Mayr Hayastan, Gyumri, Armenia",
+    "phone": "+37498436543"
+  },
+  {
+    "name": "ShaurMix",
+    "address": "Ghandilyan Street, Gyumri, Armenia",
+    "phone": "+37496100096"
+  },
+  {
+    "name": "Baby Lu",
+    "address": "Հաղթանակի Պողետա 3, Gyumri, Armenia",
+    "phone": "+37498102010"
+  },
+  {
+    "name": "Александровски",
+    "address": "Alexander Herzen St, Gyumri 3108, Armenia",
+    "phone": "+37493675839"
+  },
+  {
+    "name": "Alexandrovski",
+    "address": "Gyumri, Armenia",
+    "phone": "+37498646064"
+  },
+  {
+    "name": "Light bistro",
+    "address": "Tigran Mets Avenue, Gyumri, Armenia",
+    "phone": "+37431252704"
+  },
+  {
+    "name": "Jebby Pub",
+    "address": "29/1 Rustaveli Street, Gyumri 3118, Armenia",
+    "phone": "+37477535107"
+  },
+  {
+    "name": "Maki Sushi",
+    "address": "H-32, Gyumri, Armenia",
+    "phone": "+37432818"
+  },
+  {
+    "name": "Tomu's Garden",
+    "address": "25 Gorki Street, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Шаурма House",
+    "address": "Gorki Street, Gyumri, Armenia",
+    "phone": "+37431250464"
+  },
+  {
+    "name": "Գուրման",
+    "address": "1/1, Nikolay Ryzhkov Street 2, Gyumri 3104, Armenia",
+    "phone": "+37494764704"
+  },
+  {
+    "name": "Bunker pub",
+    "address": "Abovyan St, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lime Hotel & Restaurant Complex",
+    "address": "H-17, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ponchik Monchik",
+    "address": "ул.Рижкова 6/5, Gyumri, Armenia",
+    "phone": "+37477090834"
+  },
+  {
+    "name": "Nane Hotel",
+    "address": "50, 8 Gorki Street, Gyumri, Armenia",
+    "phone": "+37494777067"
+  },
+  {
+    "name": "LeCAFE",
+    "address": "Shara Talyan St, Gyumri, Armenia",
+    "phone": "+37493732839"
+  },
+  {
+    "name": "Pizza Jazz",
+    "address": "133, 6 Abovyan St, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Տաք կերակուր",
+    "address": "133, 6 Abovyan St, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Garage club",
+    "address": "Andranik Ozanyan 15, Gyumri 3108, Armenia",
+    "phone": "+37477646494"
+  },
+  {
+    "name": "Gentlemen's Cafe-Bar",
+    "address": "M7, Gyumri, Armenia",
+    "phone": "+37431268939"
+  },
+  {
+    "name": "Կրուիզ",
+    "address": "Gyumri, Armenia",
+    "phone": "+37431265879"
+  },
+  {
+    "name": "Tomu's Hotel",
+    "address": "246, 4 Abovyan St, Gyumri, Armenia",
+    "phone": "+37491434121"
+  },
+  {
+    "name": "Hagusti Ashxarh",
+    "address": "Mazmanyan St, Gyumri, Armenia",
+    "phone": "+37498650061"
+  },
+  {
+    "name": "Shirak Mall",
+    "address": "Tigranyan St, Gyumri, Armenia",
+    "phone": "+37491003829"
+  },
+  {
+    "name": "Ավալանշ",
+    "address": "77, 7 Proshyan Street, Gyumri, Armenia",
+    "phone": "+37477770081"
+  },
+  {
+    "name": "Петрович Строительные материалы",
+    "address": "Shahumyan St, Gyumri, Armenia",
+    "phone": "+37493252207"
+  },
+  {
+    "name": "Zakaryan",
+    "address": "Arinj, Armenia",
+    "phone": "+37493682207"
+  },
+  {
+    "name": "Arinj Mall",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Erebuni Mall",
+    "address": "17, 1 Erebuni St, Yerevan, Armenia",
+    "phone": "+37498030606"
+  },
+  {
+    "name": "Tashir Street Shopping Centre",
+    "address": "6/2 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37412202202"
+  },
+  {
+    "name": "Dalma Garden Mall",
+    "address": "22, 10 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410540031"
+  },
+  {
+    "name": "Metronome Shopping Center",
+    "address": "46 Khrimyan Hayrik Highway, Gyumri, Armenia",
+    "phone": "+37431254668"
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "Abovyan st., Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tashir Trade Center",
+    "address": "31 Yerkatgtsi alley, Gyumri 3102, Armenia",
+    "phone": "+37493673916"
+  },
+  {
+    "name": "Tashir Underground Shopping Mall",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "XXI Dar",
+    "address": "244/1 Abovyan St, Gyumri, Armenia",
+    "phone": "+37443290003"
+  },
+  {
+    "name": "RIO Mall",
+    "address": "15 Arshakunyats Ave, Yerevan, Armenia",
+    "phone": "+37410544162"
+  },
+  {
+    "name": "Vega",
+    "address": "bagradunyats square, Gyumri, Armenia",
+    "phone": "+37498665577"
+  },
+  {
+    "name": "Mega Mall",
+    "address": "M7, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Rossia Mall",
+    "address": "Gayi Street, Gyumri, Armenia",
+    "phone": "+37455159565"
+  },
+  {
+    "name": "Aregak Bakery and Café",
+    "address": "5 Rijkov St, Gyumri, Armenia",
+    "phone": "+37493644645"
+  },
+  {
+    "name": "Herbs & Honey",
+    "address": "97, 10 26 Komisarner St, Gyumri, Armenia",
+    "phone": "+37477010459"
+  },
+  {
+    "name": "Խցաններով խճանկարների արվեստանոց",
+    "address": "242 Abovyan St, Gyumri 3101, Armenia",
+    "phone": "+37498441088"
+  },
+  {
+    "name": "Cobweb Art Gallery and Museum",
+    "address": "16 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411200500"
+  },
+  {
+    "name": "Surmalu",
+    "address": "1b Garegin Nzhdeh Avenue, Gyumri, Armenia",
+    "phone": "+37477828999"
+  },
+  {
+    "name": "Hotel Plaza Viktoria",
+    "address": "9, 9a Sayat Nova Ave, Gyumri 3101, Armenia",
+    "phone": "+37494455630"
+  },
+  {
+    "name": "Ponchik Monchik",
+    "address": "8 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37411281888"
+  },
+  {
+    "name": "The Iron Fountain",
+    "address": "16 Gai Ave, Yerevan, Armenia",
+    "phone": "+37415777777"
+  },
+  {
+    "name": "Ponchik Monchik",
+    "address": "5 Northern Ave, Yerevan 0001, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Gevorgyan Ceramics",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Gyumri City Stadium",
+    "address": "33 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "+37410545435"
+  },
+  {
+    "name": "Museum of National Architecture and Urban Life",
+    "address": "Աբովյան փ, Gyumri, Armenia",
+    "phone": "+37431253777"
+  },
+  {
+    "name": "Black Fortress",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Central Park",
+    "address": "97, 10 26 Komisarner St, Gyumri, Armenia",
+    "phone": "+37477010459"
+  },
+  {
+    "name": "The Gallery of Mariam and Eranuhi Aslamazyan Sister",
+    "address": "Gorki Street, Gyumri, Armenia",
+    "phone": "+37431255142"
+  },
+  {
+    "name": "Vartanants Square",
+    "address": "30 Rustaveli Street, Gyumri, Armenia",
+    "phone": "+37431255174"
+  },
+  {
+    "name": "Cobweb Art Gallery and Museum",
+    "address": "232 Abovyan St, Gyumri 3104, Armenia",
+    "phone": "+37431248205"
+  },
+  {
+    "name": "Hovhannes Shiraz House-Museum",
+    "address": "Gayi Street, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Museum of Mher Mkrtchyan",
+    "address": "47 Haghtanaki Avenue, Gyumri 3116, Armenia",
+    "phone": "+37431253600"
+  },
+  {
+    "name": "All Saviors",
+    "address": "Vardanants square, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "The Iron Fountain",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Museum of Illusions",
+    "address": "Building 6 2nd Street, Tumanyan 1712, Armenia",
+    "phone": "+37494572334"
+  },
+  {
+    "name": "Old hospital ruins",
+    "address": "Gyulagarak, Armenia",
+    "phone": "+37460501199"
+  },
+  {
+    "name": "Անկախության հրապարակ",
+    "address": "Jrapi, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Gyumri Brewery",
+    "address": "Vladimir Harutyunyan St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Gyumri's Fish Restaurant (Cherkezi Dzor)",
+    "address": "39, 12 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37443884455"
+  },
+  {
+    "name": "Herbs & Honey",
+    "address": "Alley of Glory, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Levon's Divine Underground",
+    "address": "48 Myasnikyan St, Dilijan 3901, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Aregak Bakery and Café",
+    "address": "Karbi 0214, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Amberd",
+    "address": "Tsaturyan St, Dilijan 3903, Armenia",
+    "phone": "+37494399336"
+  },
+  {
+    "name": "Gevorgyan Ceramics",
+    "address": "Zakaryan St, Vanadzor, Armenia",
+    "phone": "+37496321458"
+  },
+  {
+    "name": "Martiros Saryan House-Museum",
+    "address": "Dsegh, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Armenian Alphabet Monument",
+    "address": "Gayi Street, Gyumri, Armenia",
+    "phone": "+37455159565"
+  },
+  {
+    "name": "Sanahin Monastery Complex",
+    "address": "52 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dilijan National Park",
+    "address": "Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lover’s Park",
+    "address": "E 691, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dilijan Local Lore Museum and Art Gallery",
+    "address": "Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37422352085"
+  },
+  {
+    "name": "gwoog gastrohouse",
+    "address": "90/2-3 Myasnikyan St, Vanadzor 2001, Armenia",
+    "phone": "90232001"
+  },
+  {
+    "name": "Saint Sargis Vicarial Church",
+    "address": "1 Hakob Hakobyan d/st, Yerevan 0033, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yaghli House",
+    "address": "40a Khrimyan Hayrik Highway, Gyumri, Armenia",
+    "phone": "+37431230222"
+  },
+  {
+    "name": "Zoravor Surb Astvatsatsin Church",
+    "address": "244/1 Abovyan St, Gyumri, Armenia",
+    "phone": "+37443290003"
+  },
+  {
+    "name": "Berlin Art Hotel",
+    "address": "79X8+7C3 Karmravor, Perch Proshyan Street, Ashtarak, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lori Castle",
+    "address": "Akhtala, Armenia",
+    "phone": "+37495545441"
+  },
+  {
+    "name": "Ardvi Monastery",
+    "address": "44a, Gortsaranayin Lane, Gyumri 3101, Armenia",
+    "phone": "+37493945987"
+  },
+  {
+    "name": "Vanadzor Fine Arts Museum",
+    "address": "58 Gorki Street, Gyumri 3104, Armenia",
+    "phone": "+37477424341"
+  },
+  {
+    "name": "Kobayr Monastery Complex",
+    "address": "17 Dashtents St, Gyumri 3104, Armenia",
+    "phone": "+37493113334"
+  },
+  {
+    "name": "In Gyumri",
+    "address": "Գայի 14/2, Gyumri, Armenia",
+    "phone": "+37494033335"
+  },
+  {
+    "name": "Horomayri",
+    "address": "Rijkov St, Gyumri, Armenia",
+    "phone": "+37431250560"
+  },
+  {
+    "name": "Tigran Honents",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Jukhtakvank Monastery",
+    "address": "Movses Khorenatsi Street, Gyumri, Armenia",
+    "phone": "+37495521522"
+  },
+  {
+    "name": "Victory Park",
+    "address": "Alaverdi 1705, Armenia",
+    "phone": "+37425332574"
+  },
+  {
+    "name": "Mher Mkrtchyan",
+    "address": "Rustaveli Street, Gyumri, Armenia",
+    "phone": "+37410561156"
+  },
+  {
+    "name": "Bjni Fortress",
+    "address": "3, Odzun 1731, Armenia",
+    "phone": "+37491362001"
+  },
+  {
+    "name": "Konjelazia / Tourism & Design",
+    "address": "Shirazi 5/7, Gyumri 3105, Armenia",
+    "phone": "+37498339988"
+  },
+  {
+    "name": "Florence Gyumri",
+    "address": "Nalbandyan St, Gyumri, Armenia",
+    "phone": "+37495091282"
+  },
+  {
+    "name": "Araks Hotel",
+    "address": "4 Sayat Nova Ave, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Villa Kars",
+    "address": "25 Gorki Street, Gyumri 3104, Armenia",
+    "phone": "+37494040203"
+  },
+  {
+    "name": "Odzun Church",
+    "address": "Bjni 2504, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Chalet Gyumri",
+    "address": "Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Leonid Yengibarov Monument",
+    "address": "Azatutyan Ave, Yerevan, Armenia",
+    "phone": "+37410205881"
+  },
+  {
+    "name": "Trezzo lounge-cafe",
+    "address": "Odzun, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Guest House in Gumri",
+    "address": "32, 1 Southeast bypass, Gyumri 3112, Armenia",
+    "phone": "+37493883334"
+  },
+  {
+    "name": "Ani Photoservice",
+    "address": "bagradunyats square, Gyumri, Armenia",
+    "phone": "+37498665577"
+  },
+  {
+    "name": "Tomu's Hotel",
+    "address": "52 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37432243938"
+  },
+  {
+    "name": "Naro Dolls",
+    "address": "Kober Village, Lori Marz M6, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "Kayan Fortress",
+    "address": "Ardvi 1717, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ani Cathedral",
+    "address": "Surb Sargis St, Ashtarak, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Museum of Local Lore of Lori-Pambak",
+    "address": "52 Tigran Mets Ave, Վանաձոր, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Plaza Viktoria",
+    "address": "Haghpat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tsiranavor",
+    "address": "25 Haghtanaki Avenue, Gyumri, Armenia",
+    "phone": "+37431257659"
+  },
+  {
+    "name": "Akhtala Monastery",
+    "address": "ул.Рижкова 6/5, Gyumri, Armenia",
+    "phone": "+37477090834"
+  },
+  {
+    "name": "Vardzia",
+    "address": "9 Ghazar Parpetsi St, Yerevan 0002, Armenia",
+    "phone": "+37410530162"
+  },
+  {
+    "name": "Hnevank Monastery",
+    "address": "Gyumri, Armenia",
+    "phone": "+37431253977"
+  },
+  {
+    "name": "Progress University",
+    "address": "21 Israyelyan St, Yerevan, Armenia",
+    "phone": "+37410585713"
+  },
+  {
+    "name": "Orbeli Brothers House Museum",
+    "address": "11/3 Tigran Mets Avenue, Gyumri 3102, Armenia",
+    "phone": "+37477023025"
+  },
+  {
+    "name": "SHUKA",
+    "address": "28 Myasnikyan St, Dilijan, Armenia",
+    "phone": "+37426824451"
+  },
+  {
+    "name": "Boo Mountain Bike Park",
+    "address": "21 Marshal Baghramyan Ave, Yerevan 0019, Armenia",
+    "phone": "+37411966868"
+  },
+  {
+    "name": "Խցաններով խճանկարների արվեստանոց",
+    "address": "Artashavan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Historical and Ethnographic Museum of Echmiadzin",
+    "address": "Mount, Haghartsin, Armenia",
+    "phone": "+37477723233"
+  },
+  {
+    "name": "Mineral Fountain Tetuh Djour",
+    "address": "31 Yerkatgtsi alley, Gyumri 3102, Armenia",
+    "phone": "+37493673916"
+  },
+  {
+    "name": "Lcher",
+    "address": "3 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37410580568"
+  },
+  {
+    "name": "Khorakert",
+    "address": "M7, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Բարձրաքաշ Սուրբ Գրիգորի վանք",
+    "address": "Alaverdi 1705, Armenia",
+    "phone": null
+  },
+  {
+    "name": "House-museum of Hovhannes Tumanyan",
+    "address": "242 Abovyan St, Gyumri 3101, Armenia",
+    "phone": "+37498441088"
+  },
+  {
+    "name": "Dilijan City Park",
+    "address": "Gyulagarak, Armenia",
+    "phone": "+37410253141"
+  },
+  {
+    "name": "Ani Ruins",
+    "address": "5 Rijkov St, Gyumri, Armenia",
+    "phone": "+37493644645"
+  },
+  {
+    "name": "Saint Sargis Monastery",
+    "address": "Arinj, Armenia",
+    "phone": "+37477178850"
+  },
+  {
+    "name": "Dilijan Amphitheater",
+    "address": "171 Yerevanyan Highway, Gyumri, Armenia",
+    "phone": "+37431242722"
+  },
+  {
+    "name": "Yerablur Military Memorial Cemetery",
+    "address": "Harich, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kumbet Mosque",
+    "address": "Gyumri, Armenia",
+    "phone": "+37499011520"
+  },
+  {
+    "name": "Sochut Resort",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerani Travel",
+    "address": "10 1 St, Dsegh 1718, Armenia",
+    "phone": "+37477906989"
+  },
+  {
+    "name": "Vanis Kvabebi",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Jrapi Church",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tumanyan Matchbox Label Museum",
+    "address": "50/1 Shirakatsi Street, Gyumri 3108, Armenia",
+    "phone": "+37498202211"
+  },
+  {
+    "name": "Hotel Royal Palace",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37498044011"
+  },
+  {
+    "name": "Tufenkian Avan Dzoraget Hotel",
+    "address": "Batum 1 Street, Vanadzor 2001, Armenia",
+    "phone": "+37495442556"
+  },
+  {
+    "name": "AuRoom Hotel",
+    "address": "21 Azatamartikner Street, Vanadzor 2001, Armenia",
+    "phone": "+37491380305"
+  },
+  {
+    "name": "Vanadzor \"Armenia\"Hotel & Health Resort",
+    "address": "2 Zoravar Andranik St, Վանաձոր, Armenia",
+    "phone": "+37496361111"
+  },
+  {
+    "name": "Hotel Maghay",
+    "address": "68a yerevan hwy, Vanadzor, Armenia",
+    "phone": "+37493877222"
+  },
+  {
+    "name": "Vanadzor \"Armenia\"Hotel & Health Resort",
+    "address": "1/2 Nzhde str., Vanadzor 2001, Vanadzor 2001, Armenia",
+    "phone": "1220012001"
+  },
+  {
+    "name": "Kirovakan",
+    "address": "1 Mashtots St, Vanadzor 2005, Armenia",
+    "phone": "+37498417010"
+  },
+  {
+    "name": "Vanadzor Hotel & Restaurant",
+    "address": "104 Abovyan St, Vanadzor 2009, Armenia",
+    "phone": "+37477550770"
+  },
+  {
+    "name": "Argishti Hotel",
+    "address": "building 127, 1st street, Dzoraget 2035, Armenia",
+    "phone": "12712035"
+  },
+  {
+    "name": "Hotel Laguna",
+    "address": "2/2 Zoravar Anrdanik, Ալավերդի 2009, Armenia",
+    "phone": "+37496361111"
+  },
+  {
+    "name": "VANADZOR",
+    "address": "25 Garegin Nzhdeh Avenue, Gyumri 0415, Armenia",
+    "phone": "+37498171013"
+  },
+  {
+    "name": "DownTown B&B",
+    "address": "house 1, 7 street, Vahagni 2040, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Forest1961 Boutique Hotel & Restaurant",
+    "address": "1street 48 house, Arpi, Yeghegnadzor 3601, Armenia",
+    "phone": "+37494388335"
+  },
+  {
+    "name": "Arsego Hostel",
+    "address": "Tumanyan Street, Tumanyan, Armenia",
+    "phone": "+37498780686"
+  },
+  {
+    "name": "Glamping Park",
+    "address": "House 17, 14th street, Dsegh, Armenia",
+    "phone": "+37493900149"
+  },
+  {
+    "name": "Tezh Ler Resort",
+    "address": "3 Vardan Zoravar Yeghegnadzor, 3601, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lori Guest House",
+    "address": "House 6, 10 Street, Dsegh 1718, Armenia",
+    "phone": "+37477906983"
+  },
+  {
+    "name": "Concept Hotel by COAF",
+    "address": "Erevan Mexri Highway 110km, Areni 3601, Armenia",
+    "phone": "+37493658383"
+  },
+  {
+    "name": "Lena's Bed and Breakfast",
+    "address": "Sanhain railway station, Alaverdi 1706, Armenia",
+    "phone": "+37499338433"
+  },
+  {
+    "name": "Palermo Hotel",
+    "address": "Lori, Dzoragyugh 7street house 2, Dzoragyugh 2036, Armenia",
+    "phone": "+37495105447"
+  },
+  {
+    "name": "Grant Ton",
+    "address": "Armenian Missionary Learning Center, Yeghegnadzor 3601, Armenia",
+    "phone": "+37493361811"
+  },
+  {
+    "name": "Palermo Hotel",
+    "address": "40.927683, 44.638268, Dsegh, Armenia",
+    "phone": "4092768344638268"
+  },
+  {
+    "name": "ABA Resort",
+    "address": "1/33 Hankavan village, Kotayk region, Hankʼavan 2312, Armenia",
+    "phone": "+37498430228"
+  },
+  {
+    "name": "Grig House Eco Resort",
+    "address": "Stepanavan, Armenia",
+    "phone": "+37493731711"
+  },
+  {
+    "name": "Loriver Guest House",
+    "address": "3-rd street, 1st Blind Alley House 17, Vahagni 2040, Armenia",
+    "phone": "31172040"
+  },
+  {
+    "name": "Wolf Mount | Glamping",
+    "address": "4 Kentronakan Street, Tumanyan, Armenia",
+    "phone": "+37494572334"
+  },
+  {
+    "name": "Դեբատուն",
+    "address": "Aznvadzor, Armenia",
+    "phone": "+37493388672"
+  },
+  {
+    "name": "Chamich Guesthouse",
+    "address": "58 Kamo, Stepanavan 1902, Armenia",
+    "phone": null
+  },
+  {
+    "name": "EcoLife Lodge",
+    "address": "85 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37494433725"
+  },
+  {
+    "name": "Nayada Rest House",
+    "address": "ulica 1 dom 2, Lermontovo 2034, Armenia",
+    "phone": "+37491235125"
+  },
+  {
+    "name": "Լոռվա Տուն հյուրատուն",
+    "address": "Ванадзор,Армения Nairi 10/2, Armenia",
+    "phone": "+37477360360"
+  },
+  {
+    "name": "Green Agarak Guest House",
+    "address": "Garrgarr village, h. 7, Garrgarr 1909, Armenia",
+    "phone": "+37491402097"
+  },
+  {
+    "name": "MATEVOSYAN'S Rest House",
+    "address": "Isahakyan St, Stepanavan, Armenia",
+    "phone": "+37499011122"
+  },
+  {
+    "name": "Kaghni Hotel",
+    "address": "8/14, Dsegh 1718, Armenia",
+    "phone": "+37491743315"
+  },
+  {
+    "name": "Gugark Retreat",
+    "address": "Vahagnadzor village, Vanadzor 2039, Armenia",
+    "phone": "+37493401080"
+  },
+  {
+    "name": "VV Hotel",
+    "address": "Lori province Armenia Shahumyan 4/38, Vanadzor 2013, Armenia",
+    "phone": "+37494129013"
+  },
+  {
+    "name": "House of Fairy Tale in Pambak",
+    "address": "145 Baghramyan 1904, Stepanavan, Armenia",
+    "phone": "+37443122007"
+  },
+  {
+    "name": "Hotel Odzun",
+    "address": "St. 47/10, Dsegh 1718, Armenia",
+    "phone": "47101718"
+  },
+  {
+    "name": "Մխիթարյան ֊ Մամիկոնյան ամառանոց",
+    "address": "Karbyshev street, 1 lane , house 12, Vanadzor 2009, Armenia",
+    "phone": "+37494308878"
+  },
+  {
+    "name": "Baron Hotel Vanadzor",
+    "address": "Tsatʼer Цатер Ծաթեր, Alaverdi 1705, Armenia",
+    "phone": "+37495335339"
+  },
+  {
+    "name": "Hotel Lori on Tumanyan",
+    "address": "house 9, 1st street, Pambak 2041, Armenia",
+    "phone": "+37491778708"
+  },
+  {
+    "name": "VN Hotel Vanadzor",
+    "address": "120, 2 1-st street, Lermontovo 2034, Armenia",
+    "phone": "120212034"
+  },
+  {
+    "name": "Spitak YMCA",
+    "address": "12/1-2/3, M8 highway, Lermontov Village, Armenia, Lermontov village 2034, Armenia",
+    "phone": "1212382034"
+  },
+  {
+    "name": "Vanadzor Armenia Hotel",
+    "address": "Amrakits, Stepanavan, Armenia",
+    "phone": "+37499324300"
+  },
+  {
+    "name": "Iris Bed and Breakfast",
+    "address": "Stepanavan Avetisyan 43/1, 1094, Armenia",
+    "phone": "+37477070284"
+  },
+  {
+    "name": "Hotel Argishti",
+    "address": "Gargar, Apr. 123 Loriyskaya oblast, Garrgarr 1909, Armenia",
+    "phone": "+37495660059"
+  },
+  {
+    "name": "Cottages in Vanadzor hotel",
+    "address": "55, Stepanavan 2102, Armenia",
+    "phone": "+37493662595"
+  },
+  {
+    "name": "Ցից Քար հանգստյան գոտի Peg Stone Glamping rest house",
+    "address": "Street 1 apt 37, Hankʼavan 2312, Armenia",
+    "phone": "+37441532660"
+  },
+  {
+    "name": "Sochut Resort",
+    "address": "House, 33 Aghayan St, Vanadzor 2017, Armenia",
+    "phone": "+37455028418"
+  },
+  {
+    "name": "Royal Hotel",
+    "address": "1st street, 3 bld., Hankavan 2315, Armenia",
+    "phone": "+37498345678"
+  },
+  {
+    "name": "WOW GLAMPING",
+    "address": "52 Zoravar Andranik St, Alaverdi, Armenia",
+    "phone": "+37494089909"
+  },
+  {
+    "name": "Cosmo Glamping",
+    "address": "30 Mashtots St, Vanadzor, Armenia",
+    "phone": "+37494660086"
+  },
+  {
+    "name": "B&B Zoravar Andranik 89",
+    "address": "Zakaryan str, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ruben's Hotel",
+    "address": "Zoravar Andranik St, Vanadzor 2007, Armenia",
+    "phone": "+37493505954"
+  },
+  {
+    "name": "Hotel.Vanadzor",
+    "address": "Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Van Garden",
+    "address": "Zoravar Andranik 89, Vanadzor 2019, Armenia",
+    "phone": "+37494746400"
+  },
+  {
+    "name": "Mashtots B&B",
+    "address": "Dsegh village, Dsegh 1718, Armenia",
+    "phone": "+37491643317"
+  },
+  {
+    "name": "Nairi Spa Resorts",
+    "address": "12a Chukhadjyan St, Vanadzor, Armenia",
+    "phone": "+37495485484"
+  },
+  {
+    "name": "Anahit Guest House",
+    "address": "95, 71/1 Aghayan St, Vanadzor 2017, Armenia",
+    "phone": "957112017"
+  },
+  {
+    "name": "Vahagn Resort",
+    "address": "Dsegh, Armenia",
+    "phone": "+37498717138"
+  },
+  {
+    "name": "Dendropark House",
+    "address": "Gyulagarak, Armenia",
+    "phone": "+37460501199"
+  },
+  {
+    "name": "Carahunge Village Home",
+    "address": "31 Zakaryan St, Vanadzor 2002, Armenia",
+    "phone": "+37493769063"
+  },
+  {
+    "name": "Nectar Hotel",
+    "address": "65 E001, Alaverdi, Armenia",
+    "phone": "+37491088812"
+  },
+  {
+    "name": "LerMont Guest House",
+    "address": "16 Batumi St, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hanqavan Resort",
+    "address": "Aygestan, Spitak 1802, Armenia",
+    "phone": "+37425524083"
+  },
+  {
+    "name": "Riverside Rancho guest house",
+    "address": "2 Tumanyan St, Vanadzor 2001, Armenia",
+    "phone": "+37455152575"
+  },
+  {
+    "name": "AREGA B&B",
+    "address": "1-1 Halabyan St, Vanadzor 2001, Armenia",
+    "phone": "+37494098840"
+  },
+  {
+    "name": "Tsatʼer Guest House",
+    "address": "Jrashen, Armenia",
+    "phone": "+37443340504"
+  },
+  {
+    "name": "Dzoratun",
+    "address": "street one, 85, Odzun, Armenia",
+    "phone": "+37495717404"
+  },
+  {
+    "name": "SH Resort - Stepanavan Hotel",
+    "address": "Zoravar Andranik St, Vanadzor 2001, Armenia",
+    "phone": "+37477608887"
+  },
+  {
+    "name": "Lori Resort",
+    "address": "62 2 street, Gyulagarak 1910, Armenia",
+    "phone": "+37498445959"
+  },
+  {
+    "name": "Inexpensive B&B",
+    "address": "Building 1, 2'nd street, Vahagnadzor 2039, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lori travel Guest House",
+    "address": "House 19, Street 1, Pambak 2041, Armenia",
+    "phone": "+37493311301"
+  },
+  {
+    "name": "TUC - Tourism Unique Center",
+    "address": "18 52th Street, Dsegh 1718, Armenia",
+    "phone": "18521718"
+  },
+  {
+    "name": "NAIRI HOTEL-Նաիրի հյուրանոց",
+    "address": "Tsater, 7 str, 8 home Armenia, 1715, Armenia",
+    "phone": "+37498006886"
+  },
+  {
+    "name": "Geologist's Home Guesthouse",
+    "address": "21-st street, hause 43, Gyulagarak 1910, Armenia",
+    "phone": "21431910"
+  },
+  {
+    "name": "Tezhler u Tani",
+    "address": "Lermontovo, Armenia",
+    "phone": "+37494973248"
+  },
+  {
+    "name": "Aznvadzor Eco Camp",
+    "address": "Spandaryan St, Stepanavan 1902, Armenia",
+    "phone": "+37493101303"
+  },
+  {
+    "name": "POTI guesthouse",
+    "address": "house 19, 1 street, 8th alley, Debet 2031, Armenia",
+    "phone": "19182031"
+  },
+  {
+    "name": "Guest House Artemi",
+    "address": "6-րդ փողոց, 8-րդ տուն, Debet 2031, Armenia",
+    "phone": "+37491340444"
+  },
+  {
+    "name": "Tumanyan Bathhouse Hostel",
+    "address": "Shahumyan village, 4th street, home 48, Vanadzor 2038, Armenia",
+    "phone": "+37441899099"
+  },
+  {
+    "name": "Arpi B&B",
+    "address": "142 Million Street, Stepanavan 1901, Armenia",
+    "phone": "+37444142010"
+  },
+  {
+    "name": "Anush Rest",
+    "address": "1, 35 Karen Demirtchyan Street, Vanadzor 2022, Armenia",
+    "phone": "+37498758875"
+  },
+  {
+    "name": "Alereks Mountain Camping",
+    "address": "Gyulagarak, 1910, Armenia",
+    "phone": "+37433497070"
+  },
+  {
+    "name": "Dzoragyugh guesthouse",
+    "address": "1, 35 Karen Demirtchyan Street, Vanadzor 2022, Armenia",
+    "phone": "+37498758875"
+  },
+  {
+    "name": "Shushan GUEST HOUSE",
+    "address": "Vahagnadzor, Armenia",
+    "phone": "+37494555151"
+  },
+  {
+    "name": "Park-Hotel Khoren's Lake",
+    "address": "Դեբետ- Դսեղ խաչմերուկ, Debet 2031, Armenia",
+    "phone": "+37460700050"
+  },
+  {
+    "name": "Sunrise B&B",
+    "address": "26 Orbeli Street, Vanadzor 2009, Armenia",
+    "phone": "+37494854403"
+  },
+  {
+    "name": "Station b&b",
+    "address": "Dilijan highway, 11 1 dead end, Shahumyan 2001, Armenia",
+    "phone": "+37455515254"
+  },
+  {
+    "name": "Qobayr B&B",
+    "address": "9 Garegin Nzhdeh St, Vanadzor 2021, Armenia",
+    "phone": "+37477020299"
+  },
+  {
+    "name": "Sona hyuraton Սոնա հյուրատուն",
+    "address": "3 busabanakan street, Vanadzor 2009, Armenia",
+    "phone": "+37441200029"
+  },
+  {
+    "name": "Ureni Guest House",
+    "address": "Garegin Nzhdeh St, Vanadzor 2021, Armenia",
+    "phone": "+37498751530"
+  },
+  {
+    "name": "balesko",
+    "address": "22 Mashtots St, Vanadzor 2001, Armenia",
+    "phone": "+37477296657"
+  },
+  {
+    "name": "Vahagni Guesthouse",
+    "address": "10 Batumi St, Vanadzor 2001, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Afina",
+    "address": "M8, Vanadzor, Armenia",
+    "phone": "+37432241919"
+  },
+  {
+    "name": "Izagri",
+    "address": "Vanadzor Sewage Treatment Plant, E001, Vanadzor, Armenia",
+    "phone": "+37499073555"
+  },
+  {
+    "name": "Tashir Pizza",
+    "address": "56 Grigor Lusavorich, Vanadzor, Armenia",
+    "phone": "+37498822234"
+  },
+  {
+    "name": "Tagavoranist",
+    "address": "M8, Vanadzor, Armenia",
+    "phone": "+37494941214"
+  },
+  {
+    "name": "Elkani",
+    "address": "34b Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Edem national restaurant",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37493329125"
+  },
+  {
+    "name": "Maran",
+    "address": "86-96 Vardanants St, Vanadzor, Armenia",
+    "phone": "+37477042218"
+  },
+  {
+    "name": "Home Restaurant",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37432220840"
+  },
+  {
+    "name": "Lori",
+    "address": "44, 6 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37432244401"
+  },
+  {
+    "name": "Madera Vanadzor",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37455300101"
+  },
+  {
+    "name": "Ayg Restaurant/Hotel",
+    "address": "31 Zakaryan St, Vanadzor 2002, Armenia",
+    "phone": "+37493769063"
+  },
+  {
+    "name": "Vernatun restaurant",
+    "address": "3, 1 Myasnikyan St, Vanadzor, Armenia",
+    "phone": "+37499114049"
+  },
+  {
+    "name": "KFC Vanadzor",
+    "address": "Zoravar Andranik St, Vanadzor 2007, Armenia",
+    "phone": "+37493505954"
+  },
+  {
+    "name": "TURS",
+    "address": "Batum 1 Street, Vanadzor 2001, Armenia",
+    "phone": "+37495442556"
+  },
+  {
+    "name": "Green Cafe Vanadzor",
+    "address": "Татеракан 2, Vanadzor 2001, Armenia",
+    "phone": "+37444199771"
+  },
+  {
+    "name": "Այգ Hall ռեստորանային համալիր",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37493258584"
+  },
+  {
+    "name": "Նավակ",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37443888111"
+  },
+  {
+    "name": "Vanadzor Hotel & Restaurant",
+    "address": "1 Mashtots St, Vanadzor 2005, Armenia",
+    "phone": "+37498417010"
+  },
+  {
+    "name": "Jazz Cafe",
+    "address": "2 Tumanyan St, Vanadzor 2001, Armenia",
+    "phone": "+37455152575"
+  },
+  {
+    "name": "Time four Lunch",
+    "address": "Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Տնակ",
+    "address": "68a yerevan hwy, Vanadzor, Armenia",
+    "phone": "+37493877222"
+  },
+  {
+    "name": "Level up",
+    "address": "Ք. Վանաձոր, Առափնյա 10, Armenia",
+    "phone": "+37494615095"
+  },
+  {
+    "name": "Sajj Terouh Setté",
+    "address": "56 Sundukyan St, Vanadzor, Armenia",
+    "phone": "+37498961056"
+  },
+  {
+    "name": "ՄԱՆՂԱԼ-house",
+    "address": "7 Khorenatsi Street, Vanadzor, Armenia",
+    "phone": "+37477090482"
+  },
+  {
+    "name": "Усанрхакан2",
+    "address": "AH81, Spitak, Armenia",
+    "phone": "+37494367567"
+  },
+  {
+    "name": "Mimino",
+    "address": "21 Azatamartikner Street, Vanadzor 2001, Armenia",
+    "phone": "+37491380305"
+  },
+  {
+    "name": "Pirajok",
+    "address": "M6 Highway Artadrakan baza 11, Vahagnadzor 2002, Armenia",
+    "phone": "+37498686890"
+  },
+  {
+    "name": "Asteri Cafe And Restaurant",
+    "address": "Artsakh square, Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37491771617"
+  },
+  {
+    "name": "ՆԱԻՐԻ",
+    "address": "82 Vardanants St, Vanadzor 2001, Armenia",
+    "phone": "+37499662263"
+  },
+  {
+    "name": "Vegas",
+    "address": "20 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kraki Ham Fast Food",
+    "address": "Shinararneri St, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "MASOOR FAMILY RESTAURANT",
+    "address": "19 Myasnikyan St, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Արագ սնունդ, հրուշակեղեն(fast food, sweets)",
+    "address": "3 busabanakan street, Vanadzor 2009, Armenia",
+    "phone": "+37441200029"
+  },
+  {
+    "name": "Пальма",
+    "address": "Lermontovo 3-1, Vanadzor, Armenia",
+    "phone": "+37494665990"
+  },
+  {
+    "name": "Լճափ",
+    "address": "5-я улица село Базум, Лорийская область, Армения, 2008, AM, Vanadzor, Armenia",
+    "phone": "+37477779737"
+  },
+  {
+    "name": "Fast Food, APPA, WC, AUTOSERVICE",
+    "address": "AH81, Ալավերդի, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Oasis Cafe And Resturant",
+    "address": "Milion St, Stepanavan, Armenia",
+    "phone": "+37499324300"
+  },
+  {
+    "name": "Ինուլ",
+    "address": "1, 1 Baghramyan Avenue, Vanadzor 2001, Armenia",
+    "phone": "+37493770603"
+  },
+  {
+    "name": "Bubble House",
+    "address": "K. Demirchyan, Vanadzor, Armenia",
+    "phone": "+37477706556"
+  },
+  {
+    "name": "MARK xorovacanoc",
+    "address": "Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Համեղ Պատառ",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37493022099"
+  },
+  {
+    "name": "Mush Restaurant Complex Rest zone",
+    "address": "M8, Vanadzor, Armenia",
+    "phone": "+37441184040"
+  },
+  {
+    "name": "Asteri Greek Bakery",
+    "address": "AH81, Vanadzor, Armenia",
+    "phone": "+37477775585"
+  },
+  {
+    "name": "PARKING BISTRO",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37432221229"
+  },
+  {
+    "name": "ARM FOOD",
+    "address": "8/1 Lorva, Vanadzor, Armenia",
+    "phone": "+37498702637"
+  },
+  {
+    "name": "Nectaro Tea House",
+    "address": "48 Տիգրան Մեծի պողոտա, Vanadzor 2002, Armenia",
+    "phone": "+37494012032"
+  },
+  {
+    "name": "Bistro",
+    "address": "26 Garegin Nzhdeh St, Vanadzor, Armenia",
+    "phone": "+37432221666"
+  },
+  {
+    "name": "Համով Հաց Hamov Hac Bakery",
+    "address": "M3, Vanadzor, Armenia",
+    "phone": "+37493578703"
+  },
+  {
+    "name": "Fast Food",
+    "address": "41 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37493108555"
+  },
+  {
+    "name": "Restorant Hovo",
+    "address": "40-44 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37432240646"
+  },
+  {
+    "name": "Отдых на природе - Беседки для мероприятий",
+    "address": "10, 4 Grigor Narekatsi St, Vanadzor, Armenia",
+    "phone": "+37498509060"
+  },
+  {
+    "name": "Шашлычная",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37432241719"
+  },
+  {
+    "name": "Forest1961 Boutique Hotel & Restaurant",
+    "address": "7 Teryan St, Vanadzor 2002, Armenia",
+    "phone": "+37498978388"
+  },
+  { "name": "Lesnoy", "address": "Vanadzor, Armenia", "phone": null },
+  {
+    "name": "Carahunge cafe & more",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37499518780"
+  },
+  {
+    "name": "Gangar café",
+    "address": "Gr. Lusavorich St, Vanadzor, Armenia",
+    "phone": "+37496481898"
+  },
+  {
+    "name": "Getap Restaurant Vahagnadzor",
+    "address": "19, 2 Vardanants St, Vanadzor, Armenia",
+    "phone": "+37460515515"
+  },
+  {
+    "name": "Pirajok",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37441600909"
+  },
+  {
+    "name": "ReFresh Vanadzor",
+    "address": "5, 5 Myasnikyan St, Vanadzor 2021, Armenia",
+    "phone": "+37499021229"
+  },
+  {
+    "name": "Shamam's Macarons",
+    "address": "Տիգրան Մեծ 47/1, Vanadzor, Armenia",
+    "phone": "+37491288286"
+  },
+  {
+    "name": "ANGAR",
+    "address": "Zoravar Andranik St, Vanadzor, Armenia",
+    "phone": "+37493139977"
+  },
+  {
+    "name": "Hotel Maghay",
+    "address": "24 Tigran Mets Ave, Vanadzor 2001, Armenia",
+    "phone": "+37477249543"
+  },
+  {
+    "name": "Մաուգլի Մանկական Սրճարան. Maugli Mankakan Srcharan.",
+    "address": "Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Rhapsody",
+    "address": "Vanadzor, Armenia",
+    "phone": null
+  },
+  { "name": "Masoor", "address": "Vanadzor, Armenia", "phone": null },
+  {
+    "name": "1 Столо́вая 1 chasharan1",
+    "address": "16 Garegin Nzhdeh St, Vanadzor, Armenia",
+    "phone": "+37494113767"
+  },
+  {
+    "name": "Hotel Laguna",
+    "address": "AH81, Vanadzor, Armenia",
+    "phone": "+37499164747"
+  },
+  {
+    "name": "Lakes' cafe",
+    "address": "1լոռվա խճուղի, Vanadzor 2016, Armenia",
+    "phone": "+37496393600"
+  },
+  {
+    "name": "Samovar",
+    "address": "104 Abovyan St, Vanadzor 2009, Armenia",
+    "phone": "+37477550770"
+  },
+  {
+    "name": "Argishti Hotel",
+    "address": "Vanadzor Shiraki 6, Vanadzor, Armenia",
+    "phone": "+37499481898"
+  },
+  {
+    "name": "Anush Restaurants/Hotel",
+    "address": "34b Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37498117282"
+  },
+  {
+    "name": "Kirovakan",
+    "address": "24/1-1 Tigran Mets Ave, Vanadzor 2001, Armenia",
+    "phone": "24112001"
+  },
+  {
+    "name": "Hotel.Vanadzor",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37494040670"
+  },
+  {
+    "name": "Hotel Lori on Tumanyan",
+    "address": "Լոռվա 1Ա, Vanadzor, Armenia",
+    "phone": "+37494941818"
+  },
+  {
+    "name": "Hermes LLC",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37460500505"
+  },
+  {
+    "name": "Tagavoranist Lavash",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37499067040"
+  },
+  {
+    "name": "Vanadzor Armenia Hotel",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37433522265"
+  },
+  {
+    "name": "Պահեստ",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37494222525"
+  },
+  {
+    "name": "Arinj Mall",
+    "address": "6-2, 71-1, 6 Tigran Mets Ave, Vanadzor 2021, Armenia",
+    "phone": "6271162021"
+  },
+  {
+    "name": "Metronome Shopping Center",
+    "address": "Shahumyan St, Gyumri, Armenia",
+    "phone": "+37493252207"
+  },
+  {
+    "name": "Hagusti Ashxarh",
+    "address": "5 Northern Ave, Yerevan 0001, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Arinj, Armenia",
+    "phone": "+37493682207"
+  },
+  {
+    "name": "Tashir Underground Shopping Mall",
+    "address": "22, 10 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410540031"
+  },
+  {
+    "name": "RIO Mall",
+    "address": "17, 1 Erebuni St, Yerevan, Armenia",
+    "phone": "+37498030606"
+  },
+  {
+    "name": "Erebuni Mall",
+    "address": "33 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "+37410545435"
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "8 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37411281888"
+  },
+  {
+    "name": "Tashir Trade Center",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Dalma Garden Mall",
+    "address": "24 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37410537675"
+  },
+  {
+    "name": "Tashir Street Shopping Centre",
+    "address": "13 Vardanants St, Yerevan 0010, Armenia",
+    "phone": "+37410593333"
+  },
+  {
+    "name": "Rossia Mall",
+    "address": "Hr. Kochar 44/53, 0018, Armenia",
+    "phone": "44530018"
+  },
+  {
+    "name": "Vesta",
+    "address": "50 Mesrop Mashtots Ave, Yerevan 0009, Armenia",
+    "phone": "+37460616616"
+  },
+  {
+    "name": "Tysons Corner Center",
+    "address": "99, 6 Teryan Street, Gyumri, Armenia",
+    "phone": "+37431243835"
+  },
+  {
+    "name": "Эльдорадо",
+    "address": "25 Charents St, Yerevan 0025, Armenia",
+    "phone": "+37411900800"
+  },
+  {
+    "name": "Mall St. Vincent",
+    "address": "155, 1 Myasnikyan St, Dilijan 3901, Armenia",
+    "phone": "15513901"
+  },
+  {
+    "name": "Santa Rosa Plaza",
+    "address": "48, 4 Maksim Gorki St, Dilijan 3901, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Pier Park",
+    "address": "26 Yerevanyan St, Իջևան 4001, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "The Gardens Mall",
+    "address": "7/1-1 Hambarcumyan, Vanadzor 2008, Armenia",
+    "phone": "+37498959455"
+  },
+  {
+    "name": "The Mall at Johnson City",
+    "address": "57 Marshal Baghramyan St, Aparan 0301, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "The Gateway",
+    "address": "7/19 Teryan St, Vanadzor, Armenia",
+    "phone": "+37494131817"
+  },
+  {
+    "name": "Palisades Center",
+    "address": "Ереванское шоссе 145, Vanadzor, Armenia",
+    "phone": "+37477053913"
+  },
+  {
+    "name": "The Empire Mall",
+    "address": "28/4 Movses Khorenatsi Street, Yerevan, Armenia",
+    "phone": "+37410545499"
+  },
+  {
+    "name": "Vancouver Mall",
+    "address": "Admiral Isakov 48/1 Admiral Isakov Ave, Yerevan, Armenia",
+    "phone": "+37460707070"
+  },
+  {
+    "name": "Globbing Arabkir",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37494369179"
+  },
+  {
+    "name": "Globbing Nairi",
+    "address": "16 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411200500"
+  },
+  {
+    "name": "Glendale Galleria",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37411540000"
+  },
+  {
+    "name": "\"ID Bank\"CJSC",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Zigzag Electronics",
+    "address": "6/2 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37412202202"
+  },
+  {
+    "name": "Vanadzor Fine Arts Museum",
+    "address": "52 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37432243938"
+  },
+  {
+    "name": "Boo Mountain Bike Park",
+    "address": "Ardvi 1717, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Stepanavan Dendropark",
+    "address": "Saghmosavan 0211, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mineral Fountain Tetuh Djour",
+    "address": "90/2-3 Myasnikyan St, Vanadzor 2001, Armenia",
+    "phone": "90232001"
+  },
+  {
+    "name": "Goshavank Monastery",
+    "address": "Gyulagarak, Armenia",
+    "phone": "+37410253141"
+  },
+  {
+    "name": "Sevanavank",
+    "address": "52 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Haghartsin Monastery Complex",
+    "address": "Gosh 3907, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ardvi Monastery",
+    "address": "Sevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hayravank Monastery",
+    "address": "1 Getapnya St, Dilijan, Armenia",
+    "phone": "+37491703047"
+  },
+  {
+    "name": "Sanahin Monastery Complex",
+    "address": "15 Maxim Gorky St, Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lcher",
+    "address": "Tsaturyan St, Dilijan 3903, Armenia",
+    "phone": "+37494399336"
+  },
+  {
+    "name": "Matosavank Monastery",
+    "address": "Meghradzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Armenian Alphabet Monument",
+    "address": "Dsegh, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kecharis Monastery",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37432220840"
+  },
+  {
+    "name": "Haghpat Monastery Complex",
+    "address": "2 Zoravar Andranik St, Վանաձոր, Armenia",
+    "phone": "+37496361111"
+  },
+  {
+    "name": "Odzun Church",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37493329125"
+  },
+  {
+    "name": "Kobayr Monastery Complex",
+    "address": "2/2 Zoravar Anrdanik, Ալավերդի 2009, Armenia",
+    "phone": "+37496361111"
+  },
+  {
+    "name": "Haghpat Monastery Complex",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Odzun Church",
+    "address": "64 Abovyan St, Yerevan 0009, Armenia",
+    "phone": "+374569380"
+  },
+  {
+    "name": "Kobayr Monastery Complex",
+    "address": "48 Myasnikyan St, Dilijan 3901, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lori Castle",
+    "address": "34b Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37498117282"
+  },
+  {
+    "name": "Horomayri",
+    "address": "Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37422352085"
+  },
+  {
+    "name": "Mikoyan Brothers Museum",
+    "address": "44, 6 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37432244401"
+  },
+  {
+    "name": "Makaravank Monastery Complex",
+    "address": "10 1 St, Dsegh 1718, Armenia",
+    "phone": "+37477906989"
+  },
+  {
+    "name": "Martiros Saryan House-Museum",
+    "address": "Zakaryan St, Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Black Fortress",
+    "address": "10a Sharambeyan St, Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Sayat Nova Park",
+    "address": "56 Grigor Lusavorich, Vanadzor, Armenia",
+    "phone": "+37498822234"
+  },
+  {
+    "name": "Dilijan Local Lore Museum and Art Gallery",
+    "address": "19, City Park, 1 Getapnya St, Dilijan 3903, Armenia",
+    "phone": "+37433499989"
+  },
+  {
+    "name": "Havuts Tar Monastery Complex",
+    "address": "12, 6 Olimpiakan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37443292900"
+  },
+  {
+    "name": "Bjni Fortress",
+    "address": "Mount, Haghartsin, Armenia",
+    "phone": "+37477723233"
+  },
+  {
+    "name": "Lover’s Park",
+    "address": "Vanadzor, Armenia",
+    "phone": "+37477991175"
+  },
+  {
+    "name": "Vernissage",
+    "address": "Noratus, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tegher Monastery",
+    "address": "Akhtala, Armenia",
+    "phone": "+37495545441"
+  },
+  {
+    "name": "Akhtala Monastery",
+    "address": "Avan Rd, Tegher 0207, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Republic Square",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Noratus Cemetery",
+    "address": "21 Marshal Baghramyan Ave, Yerevan 0019, Armenia",
+    "phone": "+37411966868"
+  },
+  {
+    "name": "Dilijan National Park",
+    "address": "Bjni 2504, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Trchkan Waterfall",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+79998383965"
+  },
+  {
+    "name": "VereV Rope Park",
+    "address": "28 Myasnikyan St, Dilijan, Armenia",
+    "phone": "+37426824451"
+  },
+  {
+    "name": "Zip Line Tsaghkadzor",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Sharambeyan Street",
+    "address": "3 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37410580568"
+  },
+  {
+    "name": "Madera Vanadzor",
+    "address": "Alaverdi, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Khorakert",
+    "address": "1 Hakob Hakobyan d/st, Yerevan 0033, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kayan Fortress",
+    "address": "Vanadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Solenoid",
+    "address": "9 Ghazar Parpetsi St, Yerevan 0002, Armenia",
+    "phone": "+37410530162"
+  },
+  {
+    "name": "Lori Stadium",
+    "address": "Alaverdi 1705, Armenia",
+    "phone": "+37425332574"
+  },
+  {
+    "name": "House-museum of Hovhannes Tumanyan",
+    "address": "Odzun, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Orbeli Brothers House Museum",
+    "address": "52 Tigran Mets Ave, Վանաձոր, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dilijan Amphitheater",
+    "address": "Kober Village, Lori Marz M6, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "Centre of Popular Creation",
+    "address": "3, Odzun 1731, Armenia",
+    "phone": "+37491362001"
+  },
+  {
+    "name": "Tashir Pizza",
+    "address": "Kober Village, Lori Marz M6, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "Leonid Yengibarov Monument",
+    "address": "Haghpat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Vanadzor \"Armenia\"Hotel & Health Resort",
+    "address": "3, Odzun 1731, Armenia",
+    "phone": "+37491362001"
+  },
+  {
+    "name": "Tagavoranist",
+    "address": "Haghpat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Home Restaurant",
+    "address": "Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dilijan City Park",
+    "address": "20 Tigran Mets Ave, Vanadzor, Armenia",
+    "phone": "+37443111228"
+  },
+  {
+    "name": "Բարձրաքաշ Սուրբ Գրիգորի վանք",
+    "address": "Artashavan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lake Sevan",
+    "address": "Zakaryan St, Vanadzor, Armenia",
+    "phone": "+37496321458"
+  },
+  {
+    "name": "Tezharuyk Monastery",
+    "address": "Khachatur Kecharetsi St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "Khanjyan Summer House",
+    "address": "Alaverdi 1705, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ժողովրդական արվեստի պետական թանգարան/Folk Art State Museum",
+    "address": "Hayravank, Armenia",
+    "phone": null
+  },
+  {
+    "name": "H Resort Hotel & Restaurant",
+    "address": "Parakar, 1 Baghramyan St, Bagramyan1 1149, Armenia",
+    "phone": "+37494190910"
+  },
+  {
+    "name": "Richmind Hotel",
+    "address": "8, 93 Kostanyan St, Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Machanents Guest House",
+    "address": "36 Shahumyan Street, Vagharshapat, Armenia",
+    "phone": "+37498665300"
+  },
+  {
+    "name": "B&B Artson",
+    "address": "3, 4 street Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37411206000"
+  },
+  {
+    "name": "XACHEN",
+    "address": "50-1 Ashtarak Highway AM 0088, Yerevan, Armenia",
+    "phone": "+37494777077"
+  },
+  {
+    "name": "Our House",
+    "address": "Tairov, Mayrakaghakayin Avenue, M5, Musaler 1129, Armenia",
+    "phone": "+37491292971"
+  },
+  {
+    "name": "Hotel Alexander",
+    "address": "8 Alaverdyan Street, Vagharshapat 1105, Armenia",
+    "phone": "+37477888928"
+  },
+  {
+    "name": "Motel ECO",
+    "address": "141 Admiral Isakov Ave, Yerevan, Armenia",
+    "phone": "+37495545422"
+  },
+  {
+    "name": "Hotel KA-EL",
+    "address": "Petrozavodsk Street, Vagharshapat 1103, Armenia",
+    "phone": "+37477990710"
+  },
+  {
+    "name": "Cross Resort Yerevan",
+    "address": "4 Mesrop Mashtots Street, Vagharshapat 1101, Armenia",
+    "phone": "+37499907921"
+  },
+  {
+    "name": "Royal Palace Hotel",
+    "address": "Pavstos Buzandi St. 1, 1 Building, 1/1 №, Yerevan 0010, Armenia",
+    "phone": "11110010"
+  },
+  {
+    "name": "The Phoenix Hotel",
+    "address": "113/1 Charents St, Yerevan 0025, Armenia",
+    "phone": "11310025"
+  },
+  {
+    "name": "Kesabella Touristic House",
+    "address": "home 8, Smbat Shahaziz St, Ashtarak, Armenia",
+    "phone": "+37444153040"
+  },
+  {
+    "name": "Ararat Hotel",
+    "address": "5, 75 0002, Yeznik Koghbatsi St, Yerevan, Armenia",
+    "phone": "+37494997794"
+  },
+  {
+    "name": "Hotel Orbeli",
+    "address": "65 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37412770000"
+  },
+  {
+    "name": "HOTEL N1",
+    "address": "2 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37460833000"
+  },
+  {
+    "name": "Hotel Aleppo",
+    "address": "3, 1 Rafael Lemkin St, Yerevan, Armenia",
+    "phone": "+37411201000"
+  },
+  {
+    "name": "Anna Bella boutique hotel",
+    "address": "3 Tairov St, Yerevan 0082, Armenia",
+    "phone": "+37493998334"
+  },
+  {
+    "name": "Գոլդեն Սեքընդս",
+    "address": "0082, 81 Admiral Isakov Ave, Yerevan, Armenia",
+    "phone": "+37494104080"
+  },
+  {
+    "name": "Hotel Erebuni",
+    "address": "59 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410241130"
+  },
+  {
+    "name": "Patriott Hotel",
+    "address": "47, 19 Marshal Baghramyan Ave, Yerevan 0019, Armenia",
+    "phone": "47190019"
+  },
+  {
+    "name": "Royal Palace Hotel",
+    "address": "5, 3 Koryun St, Yerevan 0025, Armenia",
+    "phone": "+37499541104"
+  },
+  {
+    "name": "Old Armenia",
+    "address": "11-я улица Айгестана, 89/1, Yerevan, Armenia",
+    "phone": "+37477747110"
+  },
+  {
+    "name": "Diamond House Hotel",
+    "address": "Tumanyan 29, 42 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37491113363"
+  },
+  {
+    "name": "Villa Ayghedzor",
+    "address": "51, 1 Komitas Ave, Yerevan 0014, Armenia",
+    "phone": "+37499280325"
+  },
+  {
+    "name": "Blur Inn Gallery",
+    "address": "213 11th St, Yerevan 0025, Armenia",
+    "phone": "213110025"
+  },
+  {
+    "name": "Forum by Grace Spa-Hotels",
+    "address": "33 Silikian 1st str., Yerevan, Armenia",
+    "phone": "+37493977793"
+  },
+  {
+    "name": "Ramada Hotel & Suites by Wyndham Yerevan",
+    "address": "75 Yeznik Koghbatsi St, Yerevan 0002, Armenia",
+    "phone": "+37477550557"
+  },
+  {
+    "name": "ibis Yerevan Center",
+    "address": "Grigor Hasratyan St, 15|1 0088, Armenia",
+    "phone": "+37493545454"
+  },
+  {
+    "name": "Apricot Hotel Yerevan",
+    "address": "16 13th St, Yerevan, Armenia",
+    "phone": "+37410654654"
+  },
+  {
+    "name": "Forest Hills",
+    "address": "72/1 Ayas St, Yerevan 0082, Armenia",
+    "phone": "+37411552222"
+  },
+  {
+    "name": "Artsakh Hotel",
+    "address": "101, 0070 Vardanants St, Yerevan, Armenia",
+    "phone": "+37441333020"
+  },
+  {
+    "name": "Grand Hotel Yerevan",
+    "address": "19 Sayat-Nova Ave, Yerevan 0001, Armenia",
+    "phone": "+37410589500"
+  },
+  {
+    "name": "Caucasus Hotel",
+    "address": "10 Hakob Hakobyan St, Yerevan 0010, Armenia",
+    "phone": "+37411292905"
+  },
+  {
+    "name": "Hotel Aleppo",
+    "address": "Mher Mkrtchyan St, Yerevan, Armenia",
+    "phone": "+37498977075"
+  },
+  {
+    "name": "Castle Family Hotel",
+    "address": "Bagratunyats str 3 back, apt 21, 0046, Armenia",
+    "phone": "+37491529991"
+  },
+  {
+    "name": "Ararat Hotel",
+    "address": "34, 2 Andranik Zoravar St, Yerevan 0084, Armenia",
+    "phone": "+37498306050"
+  },
+  {
+    "name": "Aghababyan's Hotel",
+    "address": "12/6 Amiryan St, Yerevan 0002, Armenia",
+    "phone": null
+  },
+  {
+    "name": "California Boutique Hotel",
+    "address": "25, 2 Arshakunyats Ave, Yerevan 0023, Armenia",
+    "phone": "+37495155151"
+  },
+  {
+    "name": "In City Hotel",
+    "address": "173 alley Zavarian St, Yerevan, Armenia",
+    "phone": "+37491549090"
+  },
+  {
+    "name": "Forest Hills",
+    "address": "4/3 Movses Khorenatsi Street, Yerevan 0015, Armenia",
+    "phone": "+37496202017"
+  },
+  {
+    "name": "National Hotel",
+    "address": "3, 1 Aygedzor St, Yerevan 0019, Armenia",
+    "phone": "+37410221353"
+  },
+  {
+    "name": "Artsakh Hotel",
+    "address": "2 Baghramyan ave.(entrance via 1a Tamanyan str), Yerevan 0019, Armenia",
+    "phone": "+37499553244"
+  },
+  {
+    "name": "Grand Hotel Yerevan",
+    "address": "40A Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37411570077"
+  },
+  {
+    "name": "Caucasus Hotel",
+    "address": "6 Agatangeghos St, Yerevan 0023, Armenia",
+    "phone": "+37495909525"
+  },
+  {
+    "name": "Studio Boutique Hotel",
+    "address": "37 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37412700007"
+  },
+  {
+    "name": "Best Western Plus Congress Hotel",
+    "address": "91, 1 Armenak Armenakyan St, Yerevan 0047, Armenia",
+    "phone": "+37412331111"
+  },
+  {
+    "name": "Hotel Aleppo",
+    "address": "17/8, 0084,, Yerevan 0054, Armenia",
+    "phone": "17800840054"
+  },
+  {
+    "name": "Castle Family Hotel",
+    "address": "235, 1 Armenak Armenakyan St, Yerevan 0047, Armenia",
+    "phone": "23510047"
+  },
+  {
+    "name": "Ararat Hotel",
+    "address": "64 Barbusse St, Yerevan 0028, Armenia",
+    "phone": "+37410271850"
+  },
+  {
+    "name": "Aghababyan's Hotel",
+    "address": "49/1 Pavstos Buzand St, Yerevan, Armenia",
+    "phone": "+37410569028"
+  },
+  {
+    "name": "California Boutique Hotel",
+    "address": "31 Moskovyan Street, Yerevan 0010, Armenia",
+    "phone": "+37477774825"
+  },
+  {
+    "name": "In City Hotel",
+    "address": "10, 1 Northern Ave, Yerevan 0010, Armenia",
+    "phone": "+37410505055"
+  },
+  {
+    "name": "Primer",
+    "address": "35/3 Nazarbekyan, Yerevan 0037, Armenia",
+    "phone": "+37498382222"
+  },
+  {
+    "name": "Holiday Inn Express Yerevan, an IHG Hotel",
+    "address": "38 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37410546060"
+  },
+  {
+    "name": "Kantar",
+    "address": "51 Aghyusiagortzneri street, Yerevan 0018, Armenia",
+    "phone": "+37499559008"
+  },
+  {
+    "name": "Anna Bella boutique hotel",
+    "address": "1/3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37410569028"
+  },
+  {
+    "name": "Continental Hotel",
+    "address": "17 Mamikoniants St, Yerevan 0014, Armenia",
+    "phone": "+37410240499"
+  },
+  {
+    "name": "Family Hotel",
+    "address": "2, Meghri Highway, Yerevan, Armenia",
+    "phone": "+37410449699"
+  },
+  {
+    "name": "Hotel Maison Yerevan",
+    "address": "10 Deghatan St, Yerevan 0010, Armenia",
+    "phone": "+37455180005"
+  },
+  {
+    "name": "Freedom Armenia",
+    "address": "97/2 Pavstos Buzand St, Yerevan 0002, Armenia",
+    "phone": "+37412222444"
+  },
+  {
+    "name": "Europe Hotel",
+    "address": "58 Karapet Ulnetsi St, Yerevan 0069, Armenia",
+    "phone": "+37410201447"
+  },
+  {
+    "name": "North Avenue by Stellar Hotels",
+    "address": "7 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37410544004"
+  },
+  {
+    "name": "Family Hotel",
+    "address": "5 25, Yerevan 0057, Armenia",
+    "phone": "+37412788888"
+  },
+  {
+    "name": "Hotel Olympia Garden Yerevan",
+    "address": "7 Grigor Lusavorich Street, Yerevan 0015, Armenia",
+    "phone": "+37460511000"
+  },
+  {
+    "name": "Գոլդեն Սեքընդս",
+    "address": "1 Dzorapi St, Yerevan 0015, Armenia",
+    "phone": "+37412902202"
+  },
+  {
+    "name": "Boulevard Hotel",
+    "address": "92 Riga St, Yerevan 0012, Armenia",
+    "phone": "+37443707006"
+  },
+  {
+    "name": "Nork Hotel",
+    "address": "Sebastia St, 10/3, Sebastia Sebastia St, Yerevan, Armenia",
+    "phone": "+37498948914"
+  },
+  {
+    "name": "Eridana Hotel",
+    "address": "6 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37455777050"
+  },
+  {
+    "name": "Nine Rooms Apart-Hotel",
+    "address": "1 Italy St, Yerevan 0010, Armenia",
+    "phone": "+37410591199"
+  },
+  {
+    "name": "Hotel Regineh",
+    "address": "Ashtarak Highway next to Vahakni Resident, Ashtarak Highway, Yerevan 2413, Armenia",
+    "phone": "+37460501177"
+  },
+  {
+    "name": "Mashtots Hotel",
+    "address": "1 Dzorapi St, Yerevan 0015, Armenia",
+    "phone": "+37412902202"
+  },
+  {
+    "name": "Daniel Boutique Hotel",
+    "address": "130, 2 Davit-Bek St, Yerevan 0041, Armenia",
+    "phone": "13020041"
+  },
+  {
+    "name": "Bass Boutique Hotel‎",
+    "address": "Sevan Street 116, Yerevan 0026, Armenia",
+    "phone": "+37410449199"
+  },
+  {
+    "name": "Art Hotel",
+    "address": "4, 3 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37410574000"
+  },
+  {
+    "name": "Cascade Hostel & Tours",
+    "address": "14 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37410591600"
+  },
+  {
+    "name": "Armeni Hotel",
+    "address": "7 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "+37410544004"
+  },
+  {
+    "name": "HOTEL N1",
+    "address": "5 25, Yerevan 0057, Armenia",
+    "phone": "+37412788888"
+  },
+  {
+    "name": "Garden Lounge Hotel",
+    "address": "7 Grigor Lusavorich Street, Yerevan 0015, Armenia",
+    "phone": "+37460511000"
+  },
+  {
+    "name": "ՄԳ Հոթել",
+    "address": "92 Riga St, Yerevan 0012, Armenia",
+    "phone": "+37443707006"
+  },
+  {
+    "name": "Minotel Barsam Suites",
+    "address": "Sebastia St, 10/3, Sebastia Sebastia St, Yerevan, Armenia",
+    "phone": "+37498948914"
+  },
+  {
+    "name": "Hotel For You",
+    "address": "Ashtarak Highway next to Vahakni Resident, Ashtarak Highway, Yerevan 2413, Armenia",
+    "phone": "+37460501177"
+  },
+  {
+    "name": "Ani Plaza Hotel",
+    "address": "130, 2 Davit-Bek St, Yerevan 0041, Armenia",
+    "phone": "13020041"
+  },
+  {
+    "name": "ALEM Hotel",
+    "address": "Sevan Street 116, Yerevan 0026, Armenia",
+    "phone": "+37410449199"
+  },
+  {
+    "name": "Bien hotel",
+    "address": "15, 3 Paronyan St, Yerevan 0015, Armenia",
+    "phone": "+37411330011"
+  },
+  {
+    "name": "Arève Résidence",
+    "address": "14 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37410591600"
+  },
+  {
+    "name": "Welcome Inn",
+    "address": "5/1 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37410595959"
+  },
+  {
+    "name": "For Family & Friends Guesthouse",
+    "address": "15 Pavstos Buzand St.,  Yerevan, Armenia",
+    "phone": "+37411200400"
+  },
+  {
+    "name": "Median Hotel City Center Yerevan",
+    "address": "11 ул.Барбюса, Yerevan 0033, Armenia",
+    "phone": "+37491546566"
+  },
+  {
+    "name": "Opera Avenue Hotel",
+    "address": "19/3 ул. Пароняна, Yerevan 0015, Armenia",
+    "phone": "+37460505044"
+  },
+  {
+    "name": "Thefriends",
+    "address": "1 Գրիգոր Չուբարյան, Yerevan, Armenia",
+    "phone": "+37441502005"
+  },
+  {
+    "name": "guest house",
+    "address": "23 Aygedzor St, Yerevan 0012, Armenia",
+    "phone": "+37410561156"
+  },
+  {
+    "name": "Komitas Avenue Guest House",
+    "address": "17, 1 4-th St, Yerevan 0029, Armenia",
+    "phone": "17140029"
+  },
+  {
+    "name": "Hotel Alpha",
+    "address": "86 Aram Street, Yerevan 0002, Armenia",
+    "phone": "+37410508080"
+  },
+  {
+    "name": "Hotel Grig",
+    "address": "35/3 Nazarbekyan, Yerevan 0037, Armenia",
+    "phone": "+37498382222"
+  },
+  {
+    "name": "Argavand Hotel & Restaurant Complex",
+    "address": "44 Gogol St, Yerevan 0069, Armenia",
+    "phone": "+37494667774"
+  },
+  {
+    "name": "Grand Fortune",
+    "address": "26, 4 Vazgen Sargsyan St, Yerevan 0010, Armenia",
+    "phone": "+37410580505"
+  },
+  {
+    "name": "Opera Suite Hotel Yerevan",
+    "address": "17 Mamikoniants St, Yerevan 0014, Armenia",
+    "phone": "+37410240499"
+  },
+  {
+    "name": "Palma Palace Hotel",
+    "address": "Sebastia St, 10/3, Sebastia Sebastia St, Yerevan, Armenia",
+    "phone": "+37498948914"
+  },
+  {
+    "name": "Holiday Inn Yerevan - Republic Square, an IHG Hotel",
+    "address": "25, 2 Arshakunyats Ave, Yerevan 0023, Armenia",
+    "phone": "+37495155151"
+  },
+  {
+    "name": "Tteni Restaurant",
+    "address": "Antar Purak (near Saint Gayane Church, Vagharshapat 1107, Armenia",
+    "phone": "+37477789950"
+  },
+  {
+    "name": "Nor Dvin Restourant",
+    "address": "8, 1 Mesrop Mashtots Street, Vagharshapat, Armenia",
+    "phone": "+37493511504"
+  },
+  {
+    "name": "Agape Refectory",
+    "address": "Mesrop Mashtots Street, Vagharshapat, Armenia",
+    "phone": "+37498867511"
+  },
+  {
+    "name": "Phlox Restaurant",
+    "address": "Barekamutyan 2/9 Ejmiatsin, Voskehat 1107, Armenia",
+    "phone": "+37495342222"
+  },
+  {
+    "name": "Անտառային գեղեցկուհի",
+    "address": "Manushyan St, Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Vagharshapat Restaurant",
+    "address": "M3, Vagharshapat, Armenia",
+    "phone": "+37423148586"
+  },
+  {
+    "name": "Van Restaurant & Hotel",
+    "address": "Vagharshapat, Armenia",
+    "phone": "+37423148024"
+  },
+  {
+    "name": "Sgo Srah Echmiadznum Edem Srah",
+    "address": "Aragac 2/107, Vagharshapat 1101, Armenia",
+    "phone": "21071101"
+  },
+  {
+    "name": "Tsiatsan",
+    "address": "Manushyan St, Vagharshapat, Armenia",
+    "phone": "+37499883383"
+  },
+  {
+    "name": "Loshik Ejmiatsin",
+    "address": "Mother See of Holy, Araratyan Street, Vagharshapat, Armenia",
+    "phone": "+37496016550"
+  },
+  {
+    "name": "Էջմիածնի Շաուրմա",
+    "address": "Vagharshapat, Armenia",
+    "phone": "+37444687200"
+  },
+  {
+    "name": "4x4 Tavern Khinkali House | 4x4 Հացատուն Խինկալիանոց Hacatun",
+    "address": "H13, Voskehat 1144, Armenia",
+    "phone": "488+97131144"
+  },
+  {
+    "name": "NOAH'S HARBOR",
+    "address": "Vagharshapat, Armenia",
+    "phone": "+37494687200"
+  },
+  {
+    "name": "\"Gevi Mot\"Armenian Fast Food. ՙՙ ԳԵՎԻ ՄՈՏ՚՚ Արագ սննդի կետ",
+    "address": "65 Mesrop Mashtots Street, Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "65",
+    "address": "Իսի-լե-Մուլինոյի փողոց 8, Vagharshapat 1101, Armenia",
+    "phone": "+37423142282"
+  },
+  {
+    "name": "ԷՋՄԻԱԾԻՆ ՀԱՑԱՏՈՒՆ",
+    "address": "Mesrop Mashtots Street, Vagharshapat, Armenia",
+    "phone": "+37496855656"
+  },
+  {
+    "name": "Edem",
+    "address": "Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "HAYAT",
+    "address": "5 Kostanyan St, Vagharshapat, Armenia",
+    "phone": "+37494056068"
+  },
+  {
+    "name": "Sgo srah Echmiadzin",
+    "address": "Tumanyan 1, Vagharshapat 1101, Armenia",
+    "phone": "+37498893030"
+  },
+  {
+    "name": "Mush",
+    "address": "14 Baghramyan St, Vagharshapat 1105, Armenia",
+    "phone": "+37494727233"
+  },
+  {
+    "name": "Tashir Street Shopping Centre",
+    "address": "15 Shinararneri St, Yerevan 0099, Armenia",
+    "phone": "+37477308530"
+  },
+  {
+    "name": "Tashir Trade Center",
+    "address": "17, 1 Erebuni St, Yerevan, Armenia",
+    "phone": "+37498030606"
+  },
+  {
+    "name": "Dalma Garden Mall",
+    "address": "18 Yerevanyan Street, Armavir, Armenia",
+    "phone": "+37460463030"
+  },
+  {
+    "name": "Metronome Shopping Center",
+    "address": "8 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37411281888"
+  },
+  {
+    "name": "RIO Mall",
+    "address": "16 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411200500"
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "33 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "+37410545435"
+  },
+  {
+    "name": "ISSO MALL",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Erebuni Mall",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Rossia Mall",
+    "address": "22, 10 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410540031"
+  },
+  {
+    "name": "ShoppingRoom",
+    "address": "6/2 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37412202202"
+  },
+  {
+    "name": "Garage Master’s Mall",
+    "address": "12 Byron St, Yerevan 0009, Armenia",
+    "phone": "+37410548838"
+  },
+  {
+    "name": "shopping Mall In Yerevan",
+    "address": "Araratyan St, Yerevan, Armenia",
+    "phone": "+37410461333"
+  },
+  {
+    "name": "Rich Plaza",
+    "address": "141 Sebastia St, Yerevan, Armenia",
+    "phone": "+37460688888"
+  },
+  {
+    "name": "Vesta",
+    "address": "76 Tigran Mets Ave, Yerevan 0005, Armenia",
+    "phone": "+37441255063"
+  },
+  {
+    "name": "Dubai Plaza",
+    "address": "4/2 Grigor Lusavorich Street, Yerevan 0015, Armenia",
+    "phone": "+37411555333"
+  },
+  {
+    "name": "Monangel",
+    "address": "22/10 Isahakyan St, Yerevan 0009, Armenia",
+    "phone": "22100009"
+  },
+  {
+    "name": "Surmalu",
+    "address": "Paronyan, 15 3-rd Impasse, Yerevan, Armenia",
+    "phone": "+37493440916"
+  },
+  {
+    "name": "surmalu shopping center",
+    "address": "17 Nansen Street, Yerevan 0056, Armenia",
+    "phone": "+37499959004"
+  },
+  {
+    "name": "Complex-Bar Yerevan",
+    "address": "18 Sayat-Nova Ave, Yerevan, Armenia",
+    "phone": "+37410527786"
+  },
+  {
+    "name": "Petak",
+    "address": "41 Khanjyan Str. area 1, Yerevan 0001, Armenia",
+    "phone": "+37410560644"
+  },
+  {
+    "name": "Complex-Bar Yerevan",
+    "address": "60, 2 Komitas Ave, Yerevan 0014, Armenia",
+    "phone": "+37410299381"
+  },
+  {
+    "name": "Petak",
+    "address": "Garegin Nzhdeh St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "12 Martiros Saryan St, Yerevan, Armenia",
+    "phone": "+37411454416"
+  },
+  {
+    "name": "Miniso Metronome Shopping Center (Մետրոնոմ առևտրի կենտրոն)",
+    "address": "25, 5 Tigran Petrosyan St, Yerevan 0054, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Basic Center",
+    "address": "71 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37410543107"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "36 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410561855"
+  },
+  {
+    "name": "Yerevan City",
+    "address": "53, 55 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "53550010"
+  },
+  {
+    "name": "AGORA Shopping center",
+    "address": "26, 9 Ohanov St, Yerevan 0084, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Alex Retail Store",
+    "address": "7a Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410500567"
+  },
+  {
+    "name": "Hayrenik Trade Center",
+    "address": "5/3 Bagratunyats St Yerevan City\"Supermarket, 0039, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Tashir Pizza",
+    "address": "23, 6 Margaryan St, Yerevan, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Monsoon",
+    "address": "27, 2 Moskovyan St․, Yerevan 0009, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Coffee House in Dalma Garden Mall",
+    "address": "1st floor Tashir Trade Center Kentron, Yerevan, Armenia",
+    "phone": "+37455662490"
+  },
+  {
+    "name": "Topolino Barber Shop & Kids Center",
+    "address": "148, 5 Andranik Zoravar St, Yerevan 0064, Armenia",
+    "phone": "14850064"
+  },
+  {
+    "name": "Pak Shuka",
+    "address": "1, 2 Victor Hambardzumian Street, Yerevan 0033, Armenia",
+    "phone": "+37410320900"
+  },
+  {
+    "name": "Zigzag Megastore",
+    "address": "Yerevan Mall, 34/3 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "LA market",
+    "address": "12 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37499580658"
+  },
+  {
+    "name": "Artemida",
+    "address": "11 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37499942664"
+  },
+  {
+    "name": "Umbreyan's Car Center",
+    "address": "4 Kristapor St, Yerevan 0018, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Biglemon.am - Զեղչեր, պրոմոկոդեր և ակցիաներ Հայաստանում (скидки,промокоды,акции в Армении)",
+    "address": "Yerevan City trade center, pavilion 14, 60/2 Komitas Ave, Yerevan, Armenia",
+    "phone": "+37494064056"
+  },
+  {
+    "name": "Elite Plaza Business Center",
+    "address": "32, 1 Admiral Isakov Ave, Yerevan 0004, Armenia",
+    "phone": "+37410739403"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Yerevan, Armenia",
+    "phone": "+37411300700"
+  },
+  {
+    "name": "iCentre.am",
+    "address": "5 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37493630044"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "25 Charents St, Yerevan 0025, Armenia",
+    "phone": "+37411900800"
+  },
+  {
+    "name": "Dalma",
+    "address": "2, 2 Tadevosian St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Nest Bonus Card",
+    "address": "18 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410530181"
+  },
+  {
+    "name": "Yeraz Kids Center, Hanrapetutyan str.",
+    "address": "Armenia, 0082, Yerevan Tsitsernakaberdi Highway, 3, Area 17 (in the territory of \"Dalma Garden Mall\"trade center, 3 Tsitsernakaberd Hwy, Yerevan, Armenia",
+    "phone": "00823173"
+  },
+  {
+    "name": "BeerBelly",
+    "address": "12 27 Kievyan St, Yerevan 0028, Armenia",
+    "phone": "12270028"
+  },
+  {
+    "name": "Vernissage",
+    "address": "141, City\"Supermarket, 5 Sebastia St, Yerevan 0032, Armenia",
+    "phone": "14150032"
+  },
+  {
+    "name": "Yerevan City",
+    "address": "0014, 7 Nikoghayos Tigranyan St, Yerevan 0014, Armenia",
+    "phone": "001470014"
+  },
+  {
+    "name": "Shoe Repair Shop",
+    "address": "Stepan Zoryan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Shoe Stoe",
+    "address": "64 Baghramyan Street, Yerevan 0011, Armenia",
+    "phone": "+37494180480"
+  },
+  {
+    "name": "Zigzag Electronic Store",
+    "address": "86 Tigran Mets Ave, Yerevan, Armenia",
+    "phone": "+37410572500"
+  },
+  {
+    "name": "Kanach.am",
+    "address": "0033, 7 Hrachya Kochar St, Yerevan 0033, Armenia",
+    "phone": "003370033"
+  },
+  {
+    "name": "Eraz",
+    "address": "2 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "48 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37498184747"
+  },
+  {
+    "name": "O2 Gardens",
+    "address": "28 Yeznik Koghbatsi St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Sharan Crafts Center",
+    "address": "Metronome shopping center, 22/8 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37496289999"
+  },
+  {
+    "name": "Davinci",
+    "address": "Silikyan District 13str, N 2/8, Yerevan 0029, Armenia",
+    "phone": "13280029"
+  },
+  {
+    "name": "Coffee Centre",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ardēan Shop",
+    "address": "17, 1 Erebuni St, Yerevan 0041, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Capital Credit Center",
+    "address": "13/22 Aghayan St, Yerevan 0010, Armenia",
+    "phone": "13220010"
+  },
+  {
+    "name": "Kayarani Shuka",
+    "address": "20 Sayat-Nova Ave, Yerevan 0010, Armenia",
+    "phone": "+37411900800"
+  },
+  {
+    "name": "Mineh Print And Mineh textile",
+    "address": "Alex Manoogian Street, Ashtarak, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Painter's Vernissage",
+    "address": "34 Svachian St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "28e Spandaryan Street, Vagharshapat 1103, Armenia",
+    "phone": "+37496063336"
+  },
+  {
+    "name": "Koshtoyan Fashion Couture House",
+    "address": "5 Mesrop Mashtots Ave, Yerevan 0015, Armenia",
+    "phone": "+37411999022"
+  },
+  {
+    "name": "Zoo World",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+79998383965"
+  },
+  {
+    "name": "ROUGE",
+    "address": "51, 53 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "51530010"
+  },
+  {
+    "name": "Mobile center",
+    "address": "Yerevan, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Global Beauty",
+    "address": "70 Dzorapi Street, Yerevan 0002, Armenia",
+    "phone": "+37460540540"
+  },
+  {
+    "name": "Zigzag Service Center",
+    "address": "17A Arshakunyats Ave, Yerevan 0023, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Aloe Lab",
+    "address": "96 Nalbandyan St, Yerevan, Armenia",
+    "phone": "+37410543127"
+  },
+  {
+    "name": "Carrefour Market",
+    "address": "Nerses Ashtaraketsu Sq., №1, Ashtarak 0201, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Porsche Centre Yerevan",
+    "address": "0010, 15 Movses Khorenatsi Street, Yerevan 0010, Armenia",
+    "phone": "0010150010"
+  },
+  {
+    "name": "One Optics",
+    "address": "Shahumyan Street, Vagharshapat 1101, Armenia",
+    "phone": "+37498241013"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "0001, 6 Yekmalyan St, Yerevan 0002, Armenia",
+    "phone": "000160002"
+  },
+  {
+    "name": "Mi Armenia",
+    "address": "6 Galshoyan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "KinoPark",
+    "address": "Gevorg Chaush St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "AGY - MOBILE SERVICE CENTER",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Erem Jewelry",
+    "address": "21, 28 Derenik Demirtchyan Street, Yerevan 0002, Armenia",
+    "phone": "21280002"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "17 Garegin Nzhdeh St, Yerevan, Armenia",
+    "phone": "+37498370721"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Dalma Garden Mall Megamall Bagratuniats 5/3 Mashtots 5 Erebuni Mall, 0015, Armenia",
+    "phone": "+37444666704"
+  },
+  {
+    "name": "Eduard Issabekyan Gallery",
+    "address": "12, 7 Svachian St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Abovyan St, Yerevan, Armenia",
+    "phone": "+37411251112"
+  },
+  {
+    "name": "Valmar Art Gallery",
+    "address": "60, 2 Komitas Ave, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Albert and Tove Boyajian Gallery",
+    "address": "38 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37411534445"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "5/4 Hanrapetutyun St, Masis 0801, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Nor Zovq",
+    "address": "59 Hanrapetutyan St, Yerevan 0010, Armenia",
+    "phone": "+37460377710"
+  },
+  {
+    "name": "Nor Zovq",
+    "address": "Սևան փողոց Arshakunyatc 17A, Yerevan 0023, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lusinka Wedding Salon",
+    "address": "110, 1 Mashtots Avenue, Vagharshapat 1101, Armenia",
+    "phone": "11011101"
+  },
+  {
+    "name": "Lumiere Optics",
+    "address": "28, Армения, 0018, 28 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "280018280018"
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "Garegin Nzhdeh St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Mobile Centre",
+    "address": "28, Армения, 0018, 28 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "280018280018"
+  },
+  {
+    "name": "Sar Gallery",
+    "address": "Սևան փողոց Arshakunyatc 17A, Yerevan 0023, Armenia",
+    "phone": null
+  },
+  {
+    "name": "TadDin Chocolate shop",
+    "address": "15 Arshakunyats Ave, Yerevan, Armenia",
+    "phone": "+37410544162"
+  },
+  {
+    "name": "Computer Plaza",
+    "address": "28/4 Movses Khorenatsi Street, Yerevan, Armenia",
+    "phone": "+37410545499"
+  },
+  {
+    "name": "Machanents Tourism & Art",
+    "address": "Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Khoren Ter-Harutyunyan Museum",
+    "address": "53 Mesrop Mashtots Ave, Yerevan 0009, Armenia",
+    "phone": "+37410562578"
+  },
+  {
+    "name": "Alex and Marie Manoogian Treasury House Museum",
+    "address": "Araratyan Street, Vagharshapat, Armenia",
+    "phone": "+37423163877"
+  },
+  {
+    "name": "Historical and Ethnographic Museum of Echmiadzin",
+    "address": "Vagharshapat, Armenia",
+    "phone": "+37423157340"
+  },
+  {
+    "name": "Tsitsernakaberd Armenian Genocide Memorial Complex",
+    "address": "17 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37455913545"
+  },
+  {
+    "name": "Saint Gayane Church",
+    "address": "Saghmosavan 0211, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Zvartnots Cathedral",
+    "address": "Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Matenadaran",
+    "address": "8, 8 Tsitsernakaberd Hwy, Yerevan 0028, Armenia",
+    "phone": "+37410391412"
+  },
+  {
+    "name": "Saghmosavank monastic complex",
+    "address": "Vagharshapat, Armenia",
+    "phone": "+37410517110"
+  },
+  {
+    "name": "Holy Mother of God Kathoghike Church",
+    "address": "36 Shahumyan Street, Vagharshapat, Armenia",
+    "phone": "+37498665300"
+  },
+  {
+    "name": "Cascade Complex",
+    "address": "Artashavan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Saint Hripsime Church",
+    "address": "Vagharshapat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "History Museum of Armenia",
+    "address": "Mets Gilanlar, Armenia",
+    "phone": "+37495371367"
+  },
+  {
+    "name": "Geghard Monastery",
+    "address": "Հանրապետության հրապարակ 4, 375010, Armenia",
+    "phone": "+37410582761"
+  },
+  {
+    "name": "Armenian Alphabet Monument",
+    "address": "10 Tamanyan St, Yerevan 0009, Armenia",
+    "phone": "+37410567262"
+  },
+  {
+    "name": "Shoghakat Church",
+    "address": "85 Mesrop Mashtots Street, Vagharshapat, Armenia",
+    "phone": "+37423153696"
+  },
+  {
+    "name": "Writers' House",
+    "address": "4, 3 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37433313331"
+  },
+  {
+    "name": "Tsaghkadzor Marriott Hotel",
+    "address": "25 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37422360051"
+  },
+  {
+    "name": "Ararat Resort",
+    "address": "11 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37499750005"
+  },
+  {
+    "name": "Elegant Hotel & Resort",
+    "address": "Charents Lane, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493013044"
+  },
+  {
+    "name": "Kecharis Hotel",
+    "address": "54 Mher Mkrtchyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37455504504"
+  },
+  {
+    "name": "Everest Rest House",
+    "address": "7 Grigor Magistros St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37498061919"
+  },
+  {
+    "name": "Writers' House",
+    "address": "20 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460577040"
+  },
+  {
+    "name": "Marrone Hotel Tsaghkadzor",
+    "address": "13, 3 Mher Mkrtchyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37443757505"
+  },
+  {
+    "name": "Hotel Russia",
+    "address": "4/1, Tandzaghpyur Street 2, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460717171"
+  },
+  {
+    "name": "Tsaghkadzor Inn Hotel",
+    "address": "Vladimir Harutyunyan Street, Tsaghkadzor, 2310, Armenia",
+    "phone": "+37491477575"
+  },
+  {
+    "name": "Tsaghkahovit",
+    "address": "Karen Demirchyan Street 3/1 Karen Demirchyan Street 3/1, Sevan 1504, Armenia",
+    "phone": "31311504"
+  },
+  {
+    "name": "Eco Homes Tsaghkadzor",
+    "address": "Hrazdan, Armenia",
+    "phone": "+37493989989"
+  },
+  {
+    "name": "Alaska Resort Tsaghkadzor",
+    "address": "Saralanji avenue, Dilijan, Armenia",
+    "phone": "+37477590404"
+  },
+  {
+    "name": "Vosku Ashxarh Hotel",
+    "address": "18-5 Pahlavunyats St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37444501002"
+  },
+  {
+    "name": "Artsvik",
+    "address": "33 Street Kamo St, Dilijan 3904, Armenia",
+    "phone": "+37491519890"
+  },
+  {
+    "name": "Holiday Home Teghenis",
+    "address": "1 Tsaghkunyats Square St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491460617"
+  },
+  {
+    "name": "Faria Boutique Hotel",
+    "address": "12 1 Aygestan, Dilijan 3905, Armenia",
+    "phone": "+37491767649"
+  },
+  {
+    "name": "KareNo",
+    "address": "2 Getapnya St, Dilijan, Armenia",
+    "phone": "+37494636656"
+  },
+  {
+    "name": "Splendor Resort and Restaurant",
+    "address": "12a Myasnikyan St, Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kechi Residence Tsaghkadzor",
+    "address": "Mher Mkrtchyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37422360889"
+  },
+  {
+    "name": "Отель «Russia» Армения",
+    "address": "1building, Antarayin Street, 2blind alley, Arzakan 2503, Armenia",
+    "phone": "+37444880588"
+  },
+  {
+    "name": "Kechi Residence Tsaghkadzor",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": "+37494724216"
+  },
+  {
+    "name": "KareNo",
+    "address": "Sevan 19 Lchapnya st, Sevan, Armenia",
+    "phone": "+37494126500"
+  },
+  {
+    "name": "Tsaghkatun",
+    "address": "Olimpiakan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37410287450"
+  },
+  {
+    "name": "Guest House Arsan",
+    "address": "sevan gorcaranayin 1/42 1501, Sevan, Armenia",
+    "phone": "+37498275054"
+  },
+  {
+    "name": "Elis Hotel",
+    "address": "Tntesakan St Gorcaranayin 8 (Sevano), Sevan 1501, Armenia",
+    "phone": "+37493000166"
+  },
+  {
+    "name": "Tsaghkadzor Villas",
+    "address": "Abovyan Street, Sevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Cottage Tsaghkadzor",
+    "address": "H5, Bjni 2504, Armenia",
+    "phone": "+37493235665"
+  },
+  {
+    "name": "Cottages",
+    "address": "Kalinini 314 a, Dilijan 3903, Armenia",
+    "phone": "+37493486882"
+  },
+  {
+    "name": "Apricot Aghveran Resort",
+    "address": "Tumanyan 25, 1505, Sevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Edem",
+    "address": "Isahakyan 5/3, Tsaghkadzor 2310, Armenia",
+    "phone": "+37498680098"
+  },
+  {
+    "name": "Guesthouse Crown of Tsaghkadzor",
+    "address": "48 Myasnikyan St, Dilijan 3901, Armenia",
+    "phone": "+37499057707"
+  },
+  {
+    "name": "Nairi Garden Tsaghkadzor",
+    "address": "9 Երևանի խճուղի Tsamakaberd, Սևան 1505, Armenia",
+    "phone": null
+  },
+  {
+    "name": "коттеджи",
+    "address": "Isahakyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460755855"
+  },
+  {
+    "name": "Apartments in Tsaghkadzor",
+    "address": "Erevanyan Xchuxi 76, Sevan 1501, Armenia",
+    "phone": "+37493002121"
+  },
+  {
+    "name": "GAH",
+    "address": "Калинини 125, Dilijan 3901, Armenia",
+    "phone": "+37477386339"
+  },
+  {
+    "name": "Best Resort Aghveran Hotel",
+    "address": "30/2 Abovyan St, Dilijan, Armenia",
+    "phone": "+37491702870"
+  },
+  {
+    "name": "Kecharis",
+    "address": "Sevan Griboyedov, 1, Armenia",
+    "phone": "+37495222012"
+  },
+  {
+    "name": "Noyland resort",
+    "address": "98 Kalinin street, Dilijan, Armenia",
+    "phone": "+37491126238"
+  },
+  {
+    "name": "Hostel Tsaghkadzor",
+    "address": "Gorcaranayin 8, Sevan 1501, Armenia",
+    "phone": "+37477104433"
+  },
+  {
+    "name": "Tsaghkadzor Guesthouse",
+    "address": "1st street N.8, Khachardzan, Dilijan 4004, Armenia",
+    "phone": "+37477557703"
+  },
+  {
+    "name": "Villadzor Apart Hotel",
+    "address": "Dilijan, Armenia",
+    "phone": "+37493695019"
+  },
+  {
+    "name": "Sargsyan Eco House",
+    "address": "121 Kamo St, Մ4 3904, Armenia",
+    "phone": "12143904"
+  },
+  {
+    "name": "Ani Hotel",
+    "address": "Անդրանիկի փող․ 1, Dilijan 3903, Armenia",
+    "phone": "+37443522223"
+  },
+  {
+    "name": "Park Resort Aghveran Hotel",
+    "address": "Kamo St, Dilijan, Armenia",
+    "phone": "+37493191519"
+  },
+  {
+    "name": "Lavash hotel",
+    "address": "27 Mayisyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37494093005"
+  },
+  {
+    "name": "Alpine Castle Hotel",
+    "address": "66 Getapnya St, Dilijan, Armenia",
+    "phone": "+37426824303"
+  },
+  { "name": "Sevan Up Inn", "address": "Gosh, 3907, Armenia", "phone": null },
+  {
+    "name": "Best Western Plus Paradise Hotel Dilijan",
+    "address": "Dilijan kalinini street 12/1, Dilijan 3903, Armenia",
+    "phone": "+37493486882"
+  },
+  {
+    "name": "Wolf Mount | Glamping",
+    "address": "19 Երևանի խճուղի, Lavanda City 0008, 0054, Armenia",
+    "phone": "1900080054"
+  },
+  {
+    "name": "Tsaghkunk Chef House 2",
+    "address": "165 Nairyan St, Sevan 1501, Armenia",
+    "phone": "+37499205200"
+  },
+  {
+    "name": "Garden Inn Resort Sevan",
+    "address": "14, 3 Kalinini4 Lane, Dilijan, Armenia",
+    "phone": "+37498444409"
+  },
+  {
+    "name": "Etiuni The Forgotten Kingdom",
+    "address": "Unnamed Road, Meghradzor, Armenia",
+    "phone": "+37477161200"
+  },
+  {
+    "name": "Orsetto Hotel-Restaurant Օրսետտո Հյուրանոց-Ռեստորան",
+    "address": "126 Kamo St, Dilijan 3901, Armenia",
+    "phone": "+37494373839"
+  },
+  {
+    "name": "Tufenkian Old Dilijan Complex",
+    "address": "Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lake Sevan Hostel",
+    "address": "36 house, 4 alley, Ordzhonikidze St, Dilijan 3901, Armenia",
+    "phone": "+37433058888"
+  },
+  {
+    "name": "Dream of Bjni",
+    "address": "Dilijan, Armenia",
+    "phone": "+37495920091"
+  },
+  {
+    "name": "Hover Boutique Hotel",
+    "address": "31 Amaranots, Bjni, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dilijani Tun",
+    "address": "Marmarik, Armenia",
+    "phone": null
+  },
+  {
+    "name": "VAN guesthouse",
+    "address": "Sharambeyan St, Dilijan 3901, Armenia",
+    "phone": "+37494030883"
+  },
+  {
+    "name": "Manana guest house",
+    "address": "Sargis Sevanatsi Street 17, Sevan 1501, Armenia",
+    "phone": "+37477688894"
+  },
+  {
+    "name": "Cozy House - Dilijan/Armenia",
+    "address": "Sevan region, Yerevanyan Highway, 29 Building, Sevan, Armenia",
+    "phone": "+37498800037"
+  },
+  {
+    "name": "KiroviTun",
+    "address": "H29, Tsaghkunk, Armenia",
+    "phone": "+37493991888"
+  },
+  {
+    "name": "ARAGAST HOTEL",
+    "address": "House 11, Street 1 alley 10, Lchashen 1510, Armenia",
+    "phone": "111101510"
+  },
+  {
+    "name": "Popock Dilijan 1",
+    "address": "40.511023, 986841, 44, Armenia",
+    "phone": "4051102398684144"
+  },
+  {
+    "name": "Forest Castle Tsaghkadzor",
+    "address": "Sevan-Chambarak Highway 3.7 km, Sevan, Armenia",
+    "phone": "+37441018808"
+  },
+  {
+    "name": "Dilijan Resort",
+    "address": "Sevan Public Beach 4, 54 Yerevan Sevan Highway, M4, Sevan 1501, Armenia",
+    "phone": "45441501"
+  },
+  {
+    "name": "Holiday home Golovino",
+    "address": "156 Kamo St, Dilijan, Armenia",
+    "phone": "+37477299216"
+  },
+  {
+    "name": "Levanda City - Sevan Lake Cottages",
+    "address": "H5, Aghveran 2503, Armenia",
+    "phone": "+37498775511"
+  },
+  {
+    "name": "Aurelia Hotel & Restaurant",
+    "address": "11 Antarayin St, Arzakan 2503, Armenia",
+    "phone": "+37460650606"
+  },
+  {
+    "name": "Alva Hotel & Spa",
+    "address": "19 Yeghishe Charents St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37498222868"
+  },
+  {
+    "name": "Haghartsin Hotel",
+    "address": "Tsaghkunk, Armenia",
+    "phone": "+37498887184"
+  },
+  {
+    "name": "B&B Tigran The Greatest",
+    "address": "4 Vladimir Harutyunyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37498583890"
+  },
+  {
+    "name": "Hovek Guest house",
+    "address": "1 Khachik Muradyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37477885599"
+  },
+  {
+    "name": "Hotel SEVANO",
+    "address": "Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491013016"
+  },
+  {
+    "name": "Dream House & Hostel",
+    "address": "Gegharkunik Marz, Chkalovka village, M10, 1514, Armenia",
+    "phone": "+37494772211"
+  },
+  {
+    "name": "River side guest house",
+    "address": "1 Tsaghkunyats Square St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491407394"
+  },
+  {
+    "name": "B&B ARMENIA",
+    "address": "1 Antarayin St, Aghveran 2503, Armenia",
+    "phone": "+37491224054"
+  },
+  {
+    "name": "NIRVANA",
+    "address": "tsaghkadzor Isaakyan 13, Tsaghkadzor 2310, Armenia",
+    "phone": "+37499359604"
+  },
+  {
+    "name": "Celentano",
+    "address": "Площадь Цахкуняц, Tsaghkadzor 2310, Armenia",
+    "phone": "+37477760330"
+  },
+  {
+    "name": "Aliq Hotel",
+    "address": "11 Khachik Muradyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491547757"
+  },
+  {
+    "name": "Norik's Guest House",
+    "address": "19 Isahakyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37433510959"
+  },
+  {
+    "name": "Nirvana Hotel",
+    "address": "3 Saralanj St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Dilijan Old Center",
+    "address": "13 Isahakyan Ln, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Sion Resort",
+    "address": "4, 9 Antarayin Street, Aghveran 2503, Armenia",
+    "phone": "+37460530011"
+  },
+  {
+    "name": "Popock Dilijan 2",
+    "address": "19 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493146145"
+  },
+  {
+    "name": "Sevan Backstage Garden",
+    "address": "Ул. Братьев Орбели, 34а Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491123330"
+  },
+  {
+    "name": "BjniHouse family guesthouse",
+    "address": "Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37477738560"
+  },
+  {
+    "name": "Armine's B&B",
+    "address": "Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37494097790"
+  },
+  {
+    "name": "Sevan EM & YU",
+    "address": "6, 5 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37477877800"
+  },
+  {
+    "name": "VOSKE GETAK AGHVERAN",
+    "address": "7 Grigor Magistros Ln, Tsaghkadzor 2310, Armenia",
+    "phone": "+78005003984"
+  },
+  {
+    "name": "Hotel Multi Rest House",
+    "address": "22 Yeghishe Charents ul, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493901020"
+  },
+  {
+    "name": "Hotel Zvartnots",
+    "address": "Vladimir Harutyunyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37496003232"
+  },
+  {
+    "name": "Serik &Geora Guesthouse",
+    "address": "6, 5 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37477877800"
+  },
+  {
+    "name": "Valetta Hotel",
+    "address": "10th building, Antarayin first district, Tsaghkadzor 2310, Armenia",
+    "phone": "+37441515524"
+  },
+  {
+    "name": "Nran Hatik guest house",
+    "address": "10th building, Antarayin first district, Tsaghkadzor 2310, Armenia",
+    "phone": "+37441515524"
+  },
+  {
+    "name": "Dili Angeles Guest House",
+    "address": "Vladimir Harutyunyan Street,Tsaghkadzor, 2310, Armenia",
+    "phone": "+37422360555"
+  },
+  {
+    "name": "Green Garden Guesthouse",
+    "address": "2 Saralanj St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460706706"
+  },
+  {
+    "name": "Picasso Pizza",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "VOSKE .GAH.",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Siro Kayaran",
+    "address": "Spandaryan St, Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Արագ սնունդ",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Աղբյուրակ ռեստորան",
+    "address": "8 Isahakyan Ln, Tsaghkadzor 2310, Armenia",
+    "phone": "+37495444411"
+  },
+  {
+    "name": "Yasaman Tsaghkadzor's Restaurant",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Argishti",
+    "address": "8 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491613333"
+  },
+  {
+    "name": "Panorama Restaurant & Cafe Tsaghkadzor",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Բիստրո",
+    "address": "12, 6 Olimpiakan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37444292900"
+  },
+  {
+    "name": "Թուխ Մանուկ ընտանեկան ռեստորան",
+    "address": "43 Aghbyurak district, Hrazdan, Armenia",
+    "phone": "+37444594932"
+  },
+  {
+    "name": "Tonratun Hotel",
+    "address": "0002, 91 Pavstos Buzand St, Yerevan, Armenia",
+    "phone": "+37460488884"
+  },
+  {
+    "name": "Sovats-ches?",
+    "address": "13 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37411222040"
+  },
+  {
+    "name": "Pur restaurant",
+    "address": "80 Aram Street, Yerevan 0002, Armenia",
+    "phone": "+37444588080"
+  },
+  {
+    "name": "Tonratun",
+    "address": "M, 1/1 Yekmalyan St, Yerevan 0002, Armenia",
+    "phone": "+37411803333"
+  },
+  {
+    "name": "Աղ ու Հացով",
+    "address": "7 Amiryan St, Yerevan 0010, Armenia",
+    "phone": "+37411757505"
+  },
+  {
+    "name": "Xndzori Aygi -Apple Garden",
+    "address": "7 Paronyan St, Yerevan 0015, Armenia",
+    "phone": "+37491530563"
+  },
+  {
+    "name": "GORMAN",
+    "address": "64, 2 Barbusse St, Yerevan 0028, Armenia",
+    "phone": "+37444004555"
+  },
+  {
+    "name": "Հրազդան",
+    "address": "15, 5 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37443709070"
+  },
+  {
+    "name": "Sola Tsaghkadzor",
+    "address": "21/1 Tumanyan St, Yerevan 0001, Armenia",
+    "phone": "+37410580106"
+  },
+  {
+    "name": "Պանդոկ հոթել",
+    "address": "40 Tumanyan St, Yerevan 0010, Armenia",
+    "phone": "+37410531361"
+  },
+  {
+    "name": "Հռիփսիմե Hripsime",
+    "address": "72 Aram Street, Yerevan 0001, Armenia",
+    "phone": "+37496870870"
+  },
+  {
+    "name": "Гостиница Кристалл",
+    "address": "24 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37460530007"
+  },
+  {
+    "name": "Impress Tsaghkadzor",
+    "address": "Barbuse Street, Yerevan, Armenia",
+    "phone": "+37411255755"
+  },
+  {
+    "name": "Adam",
+    "address": "93 Khachatur Kecharetsi St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Էդիտա",
+    "address": "Տիվայի հարևանությամբ, Ogostosi 23, Hrazdan 2310, Armenia",
+    "phone": "+37455610666"
+  },
+  {
+    "name": "Ծովինար",
+    "address": "23 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37410277999"
+  },
+  {
+    "name": "Kavkazskaya Plennitsa",
+    "address": "48A Admiral Isakov Ave, Yerevan, Armenia",
+    "phone": "+37499508040"
+  },
+  {
+    "name": "Karas - Tsaghkadzor",
+    "address": "6, 4 Amiryan St, Yerevan, Armenia",
+    "phone": "+37444120112"
+  },
+  {
+    "name": "Zani Restaurant Tsaghkadzor",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tsovinar Restaurant-Hotel",
+    "address": "6 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37410521932"
+  },
+  {
+    "name": "SaGa",
+    "address": "51 Pushkin St, Yerevan 0002, Armenia",
+    "phone": "+37498670505"
+  },
+  {
+    "name": "Tumanyani Khinkali",
+    "address": "9 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37444341111"
+  },
+  {
+    "name": "DoMik Tsaghkadzor",
+    "address": "Qaghsi, Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ոսկե Գահ | Golden Throne | Золотая Трона",
+    "address": "Babajanyan block 3th 1, M15, Arinj, Armenia",
+    "phone": "+37455850950"
+  },
+  {
+    "name": "Edem",
+    "address": "8 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37441490000"
+  },
+  {
+    "name": "Craftsmen's Tsaghkadzor Restaurant House",
+    "address": "89/1 Hrazdan Gorge, Yerevan, Armenia",
+    "phone": "+37411777777"
+  },
+  {
+    "name": "Fayton Restaurant",
+    "address": "Antarain street, Aghveran 2501, Armenia",
+    "phone": "+37498205540"
+  },
+  {
+    "name": "Օջախ",
+    "address": "Hrazdan Gorge, Yerevan, Armenia",
+    "phone": "+37410543398"
+  },
+  {
+    "name": "Kaghin Tsakhkadzor Restaurant",
+    "address": "13/1 Khanjyan St, Yerevan 0001, Armenia",
+    "phone": "+37410580180"
+  },
+  {
+    "name": "Teghenis Restobar",
+    "address": "Abovyan, Armenia",
+    "phone": "+37477585440"
+  },
+  {
+    "name": "Classic",
+    "address": "38 Տանձաղբյուր, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Джентльмены Удачи",
+    "address": "22/12 Hanrapetutyan Avenue, Abovyan 2202, Armenia",
+    "phone": "22122202"
+  },
+  {
+    "name": "GAH TONRATUN",
+    "address": "155 Hrazdan Riverbank Street, Yerevan 0004, Armenia",
+    "phone": "+37494291010"
+  },
+  {
+    "name": "Արմա",
+    "address": "2/2, 0020 Vladimir Harutyunyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "2200202310"
+  },
+  {
+    "name": "DZORAP",
+    "address": "Hrazdan Gorge, Yerevan 0082, Armenia",
+    "phone": "+37410546001"
+  },
+  {
+    "name": "Tumanyan Shaurma Tsaghkadzor",
+    "address": "Dzorapi Street, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Armenian Restaurant",
+    "address": "Saralanj 1st Ln, Hrazdan 2301, Armenia",
+    "phone": "+37493353033"
+  },
+  {
+    "name": "Teghenis 1",
+    "address": "55 Saralanj St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37444751505"
+  },
+  {
+    "name": "Արջաղբյուր Հացատուն",
+    "address": "Vanatur 440/1-440/2, Hrazdan, Armenia",
+    "phone": "44014402"
+  },
+  {
+    "name": "Tsaghkunk Restaurant & Glkhatun",
+    "address": "Vladimir Harutyunyan Street,Tsaghkadzor, 2310, Armenia",
+    "phone": "+37422360555"
+  },
+  {
+    "name": "Bistro",
+    "address": "Mikroshrjan 4 street, 20/5-20/6, Hrazdan, Armenia",
+    "phone": "+37496999766"
+  },
+  {
+    "name": "Teghenis 2",
+    "address": "Tsaghkadzor, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Գարեջրատուն",
+    "address": "Marmarik, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ararat Resort",
+    "address": "kecharecu 6 Цахкадзор, Yerevan, Armenia",
+    "phone": "+37495550575"
+  },
+  { "name": "У Эммы", "address": "Hrazdan, Armenia", "phone": null },
+  {
+    "name": "Rico Taco Mexican",
+    "address": "17 Khachatur Kechareci street, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Рестопан Амроц",
+    "address": "54 Mher Mkrtchyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37455504504"
+  },
+  {
+    "name": "ՈՒռենի հացատուն",
+    "address": "HVHG+8W 2-րդ տուն, ՀՀ, Գեղարքունիքի մարզ, գյուղ, 1st St, Tsaghkunk, Armenia",
+    "phone": "+37441401890"
+  },
+  {
+    "name": "Ditvan Pizzeria/Դիտվան պիցցերիա",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": "+37494630101"
+  },
+  {
+    "name": "MDM рыбоводческая компания",
+    "address": "23 Yeghishe Charents St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37494838689"
+  },
+  {
+    "name": "Splendor Resort and Restaurant",
+    "address": "2 этаж, Микрорайон, улица 14, 13/1, Hrazdan 2302, Armenia",
+    "phone": "2141312302"
+  },
+  {
+    "name": "Technosnab LTD",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Alaska Resort Tsaghkadzor",
+    "address": "38/2 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37444441133"
+  },
+  {
+    "name": "Gurman",
+    "address": "Saralanj St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37498477515"
+  },
+  {
+    "name": "Fayton",
+    "address": "Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  { "name": "Parvana", "address": "Hrazdan, Armenia", "phone": null },
+  {
+    "name": "Lolik",
+    "address": "6 Hrazdan Highway,Քաղսի, Հայաստան, Քաղսի 2304, Armenia",
+    "phone": "+37477910932"
+  },
+  {
+    "name": "Tashir Pizza",
+    "address": "2 Улица Чаренца, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491760330"
+  },
+  {
+    "name": "Café with Bears On The River",
+    "address": "8 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37411818888"
+  },
+  {
+    "name": "Pishki House",
+    "address": "31 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37433813333"
+  },
+  {
+    "name": "Hin Parvana",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": "+37496011881"
+  },
+  {
+    "name": "Monte Cristo",
+    "address": "20 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37433228800"
+  },
+  {
+    "name": "Buzand Cafe Restaurant",
+    "address": "2, 2 Vladimir Harutyunyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493330676"
+  },
+  {
+    "name": "Old house Aghveran",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Barocco Restaurant Complex",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "EL Garden",
+    "address": "6 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tsirani Garden-Restaurant",
+    "address": "22 Tandzaghbyur St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37495644644"
+  },
+  {
+    "name": "Մեր Տուն Թոնրատուն",
+    "address": "Jrarat, Armenia",
+    "phone": "+37494131403"
+  },
+  {
+    "name": "Tapastan",
+    "address": "6 Khachatur Kecharetsi St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37495505056"
+  },
+  {
+    "name": "Paulaner Munchen",
+    "address": "2 Tsaghkunyats Square St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "dors craft beer & kitchen",
+    "address": "8 Isahakyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37495444411"
+  },
+  {
+    "name": "Smoking Chef",
+    "address": "H1, Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ծաղկսձոր",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tavern Yerevan riverside",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "\"ROKA Coffee\"",
+    "address": "Orbeli Exbayrner 8, Tsaghkadzor 2310, Armenia",
+    "phone": "+37410325555"
+  },
+  {
+    "name": "LaVista",
+    "address": "20 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460577045"
+  },
+  {
+    "name": "Vienna Ribs",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Genacvale Tavern",
+    "address": "Hrazdan, Armenia",
+    "phone": "+37498592487"
+  },
+  {
+    "name": "The Club",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dargett Craft Beer",
+    "address": "Grigor Magistros St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37455996334"
+  },
+  {
+    "name": "Mer Taghe",
+    "address": "10 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493303101"
+  },
+  {
+    "name": "Seasons Restaurant",
+    "address": "332 Shahumyan Street, Hrazdan 2301, Armenia",
+    "phone": "+37498898200"
+  },
+  {
+    "name": "Florence Restaurant",
+    "address": "Սարալանջի 56, Tsaghkadzor 2310, Armenia",
+    "phone": "+37491451717"
+  },
+  {
+    "name": "Eat & Fit Healthy Food Café",
+    "address": "Hrazdan, Armenia",
+    "phone": "+37477444828"
+  },
+  {
+    "name": "Gouroo Club & Garden",
+    "address": "Hrazdan Railway Station, Zoravar Andranik Ave, Hrazdan, Armenia",
+    "phone": "+37499131398"
+  },
+  {
+    "name": "Mansat Plaza",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dalma Garden Mall",
+    "address": "17, 1 Erebuni St, Yerevan, Armenia",
+    "phone": "+37498030606"
+  },
+  {
+    "name": "Arinj Mall",
+    "address": "Arinj, Armenia",
+    "phone": "+37493682207"
+  },
+  {
+    "name": "RIO Mall",
+    "address": "16 Tigran Mets Ave, Yerevan 0010, Armenia",
+    "phone": "+37411200500"
+  },
+  {
+    "name": "Metronome Shopping Center",
+    "address": "8 Vahram Papazyan St, Yerevan 0012, Armenia",
+    "phone": "+37411281888"
+  },
+  {
+    "name": "Tashir Trade Center",
+    "address": "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+    "phone": "+37411888888"
+  },
+  {
+    "name": "Yerevan Mall",
+    "address": "33 Movses Khorenatsi Street, Yerevan 0018, Armenia",
+    "phone": "+37410545435"
+  },
+  {
+    "name": "Rossia Mall",
+    "address": "22, 10 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410540031"
+  },
+  {
+    "name": "Tashir Street Shopping Centre",
+    "address": "6/2 Northern Ave, Yerevan 0001, Armenia",
+    "phone": "+37412202202"
+  },
+  {
+    "name": "Erebuni Mall",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "The Americana At Brand",
+    "address": "7a Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37410500567"
+  },
+  {
+    "name": "Del Amo Fashion Center",
+    "address": "53, 55 Pavstos Buzand St, Yerevan 0010, Armenia",
+    "phone": "53550010"
+  },
+  {
+    "name": "Southwest Plaza",
+    "address": "70 Pushkin St, Yerevan, Armenia",
+    "phone": "+37410561160"
+  },
+  {
+    "name": "Glendale Galleria",
+    "address": "36 Isahakyan St, Yerevan, Armenia",
+    "phone": "+37410561855"
+  },
+  {
+    "name": "Randhurst Village",
+    "address": "12 Martiros Saryan St, Yerevan, Armenia",
+    "phone": "+37411454416"
+  },
+  {
+    "name": "Park Meadows",
+    "address": "12 Byron St, Yerevan 0009, Armenia",
+    "phone": "+37410548838"
+  },
+  {
+    "name": "Desert Ridge Marketplace",
+    "address": "17 Nansen Street, Yerevan 0056, Armenia",
+    "phone": "+37499959004"
+  },
+  {
+    "name": "Beverly Center",
+    "address": "Stepan Zoryan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kings Plaza Shopping Center",
+    "address": "5 Badal Muradian St, Yerevan 0002, Armenia",
+    "phone": "+37498675551"
+  },
+  {
+    "name": "Baldwin Hills Crenshaw",
+    "address": "25, 5 Tigran Petrosyan St, Yerevan 0054, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Short Pump Town Center",
+    "address": "Paronyan, 15 3-rd Impasse, Yerevan, Armenia",
+    "phone": "+37493440916"
+  },
+  {
+    "name": "West Oaks Mall",
+    "address": "86 Tigran Mets Ave, Yerevan, Armenia",
+    "phone": "+37410572500"
+  },
+  {
+    "name": "Westfield San Francisco Centre",
+    "address": "72 Dzorapi Street, Yerevan 0015, Armenia",
+    "phone": "+37410535332"
+  },
+  {
+    "name": "Lakeside Shopping Center",
+    "address": "5 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+    "phone": "+37493630044"
+  },
+  {
+    "name": "Kierland Commons",
+    "address": "12 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37499580658"
+  },
+  {
+    "name": "Park Meadows Mall",
+    "address": "4 Central Square, Gavar 1201, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "NorthPark Center",
+    "address": "148, 1 Nairyan St, Sevan 1501, Armenia",
+    "phone": "14811501"
+  },
+  {
+    "name": "Chula Vista Center",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+79998383965"
+  },
+  {
+    "name": "Tricity Pavilions",
+    "address": "Yerevan, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Sunrise Mall",
+    "address": "vlg. Alapars 5th street 40/1 build, Alapars 2505, Armenia",
+    "phone": "54012505"
+  },
+  {
+    "name": "Broadway Plaza",
+    "address": "Khachatur Kecharetsi St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "Santa Rosa Plaza",
+    "address": "1 Tumanyan Street, Charentsavan 2501, Armenia",
+    "phone": "+37415700000"
+  },
+  {
+    "name": "Deerbrook Mall",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Asheville Mall",
+    "address": "60, 2 Komitas Ave, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Scottsdale Quarter",
+    "address": "15 Arshakunyats Ave, Yerevan, Armenia",
+    "phone": "+37410544162"
+  },
+  {
+    "name": "Kecharis Monastery",
+    "address": "H3, Voghjaberd 2215, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Makravank",
+    "address": "Bjni 2504, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Zip Line Tsaghkadzor",
+    "address": "Khachatur Kecharetsi St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "Levon's Divine Underground",
+    "address": "Artashavan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Geghard Monastery",
+    "address": "Arinj, Armenia",
+    "phone": "+37477178850"
+  },
+  {
+    "name": "Tsitsernakaberd Armenian Genocide Memorial Complex",
+    "address": "Saghmosavan 0211, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Saghmosavank monastic complex",
+    "address": "Hrazdan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Charent's Arch",
+    "address": "12, 6 Olimpiakan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37443292900"
+  },
+  {
+    "name": "Armenian Alphabet Monument",
+    "address": "8, 8 Tsitsernakaberd Hwy, Yerevan 0028, Armenia",
+    "phone": "+37410391412"
+  },
+  {
+    "name": "Bjni Fortress",
+    "address": "Mets Gilanlar, Armenia",
+    "phone": "+37495371367"
+  },
+  {
+    "name": "Haghartsin Monastery Complex",
+    "address": "20 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460577040"
+  },
+  {
+    "name": "Matosavank Monastery",
+    "address": "Charents 3/2 Kotayk province, Tsaghkadzor 2310, Armenia",
+    "phone": "+37444377999"
+  },
+  {
+    "name": "Sergei Paradjanov Museum",
+    "address": "4/ 0001,, 6 Amiryan St, Yerevan 0001, Armenia",
+    "phone": "4000160001"
+  },
+  {
+    "name": "Sevanavank",
+    "address": "4/1, Tandzaghpyur Street 2, Tsaghkadzor 2310, Armenia",
+    "phone": "+37460717171"
+  },
+  {
+    "name": "Yerevan Zoo Park",
+    "address": "54/92-93, Mesrop Mashtots Ave, Yerevan 0009, Armenia",
+    "phone": "5492930009"
+  },
+  {
+    "name": "Khor Virab",
+    "address": "72 Dzorapi Street, Yerevan 0015, Armenia",
+    "phone": "+37410535332"
+  },
+  {
+    "name": "Zazaland",
+    "address": "Orbeli 16/1, Tsaghkadzor 2310, Armenia",
+    "phone": "+37498633336"
+  },
+  {
+    "name": "Republic Square",
+    "address": "H25, Haghpat 1705, Armenia",
+    "phone": "+37498111981"
+  },
+  {
+    "name": "Leonid Yengibarov Monument",
+    "address": "22 Yeghishe Charents ul, Tsaghkadzor 2310, Armenia",
+    "phone": "+37493901020"
+  },
+  {
+    "name": "Hayravank Monastery",
+    "address": "Vladimir Harutyunyan St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Khor Virab",
+    "address": "19 Isahakyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37433510959"
+  },
+  {
+    "name": "Martiros Saryan House-Museum",
+    "address": "4 Republic Square, Yerevan 0001, Armenia",
+    "phone": "+37495859248"
+  },
+  {
+    "name": "Erebuni Fortress",
+    "address": "130 Dzorapi Street, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Republic Square",
+    "address": "16 Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Leonid Yengibarov Monument",
+    "address": "Yeghishe Charents St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37494301706"
+  },
+  {
+    "name": "Hayravank Monastery",
+    "address": "3 Tsitsernakaberd Hwy, Yerevan 0082, Armenia",
+    "phone": "+37460461111"
+  },
+  {
+    "name": "Goshavank Monastery",
+    "address": "Alley of Glory, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lover’s Park",
+    "address": "2 Admiral Isakov Ave, Yerevan 0082, Armenia",
+    "phone": "+37410510100"
+  },
+  {
+    "name": "Red Bridge",
+    "address": "54 Mher Mkrtchyan St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37455504504"
+  },
+  {
+    "name": "Zoravor Surb Astvatsatsin Church",
+    "address": "43 Aghbyurak district, Hrazdan, Armenia",
+    "phone": "+37444594932"
+  },
+  {
+    "name": "Holy Mother of God Kathoghike Church",
+    "address": "10 1 St, Dsegh 1718, Armenia",
+    "phone": "+37477906989"
+  },
+  {
+    "name": "Sanahin Monastery Complex",
+    "address": "79 Muratsan St, Yerevan, Armenia",
+    "phone": "+37455024424"
+  },
+  {
+    "name": "Dilijan National Park",
+    "address": "Ущеле хачахпр, Ijevan, Armenia",
+    "phone": "+37493365437"
+  },
+  {
+    "name": "Erebuni Archaeological Museum",
+    "address": "2 Italy St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Saint Gregory The Illuminator Cathedral",
+    "address": "Megerian Carpet Armenia, 0006, 9 Madoyan Street, Yerevan 0006, Armenia",
+    "phone": "000690006"
+  },
+  {
+    "name": "Khosrov Forest State Reserve",
+    "address": "64 Abovyan St, Yerevan 0009, Armenia",
+    "phone": "+374569380"
+  },
+  {
+    "name": "Garni Gorge",
+    "address": "39, 12 Mesrop Mashtots Ave, Yerevan, Armenia",
+    "phone": "+37443884455"
+  },
+  {
+    "name": "Tegher Monastery",
+    "address": "48 Myasnikyan St, Dilijan 3901, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Central Park",
+    "address": "Sardarapat Memorial, Araks, Armenia",
+    "phone": "+37423769891"
+  },
+  {
+    "name": "Noravank Monastery",
+    "address": "40 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410638998"
+  },
+  {
+    "name": "Vartanants Square",
+    "address": "1 Hakob Hakobyan d/st, Yerevan 0033, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Saint Sargis Vicarial Church",
+    "address": "Odzun, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Zipline Airlines",
+    "address": "15 Լեփսիուսի փողոց, Yerevan 0035, Armenia",
+    "phone": "+37410621762"
+  },
+  {
+    "name": "Alex and Marie Manoogian Treasury House Museum",
+    "address": "52 Tigran Mets Ave, Վանաձոր, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Circular Park",
+    "address": "Noratus, Armenia",
+    "phone": null
+  },
+  {
+    "name": "English Park",
+    "address": "3, Odzun 1731, Armenia",
+    "phone": "+37491362001"
+  },
+  {
+    "name": "Black Fortress",
+    "address": "12 Abovyan St, Yerevan 0010, Armenia",
+    "phone": "+37499580658"
+  },
+  {
+    "name": "Haghpat Monastery Complex",
+    "address": "47 Haghtanaki Avenue, Gyumri 3116, Armenia",
+    "phone": "+37431253600"
+  },
+  {
+    "name": "ROYALE CASINO Entertaiment Center",
+    "address": "Yerevan 0010, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Vernissage",
+    "address": "Kober Village, Lori Marz M6, Armenia",
+    "phone": "+37493966059"
+  },
+  {
+    "name": "dilijan, armenia",
+    "address": "Հանրապետության հրապարակ 4, 375010, Armenia",
+    "phone": "+37410582761"
+  },
+  {
+    "name": "History Museum of Armenia",
+    "address": "1, 3 Buzand St, Yerevan 0010, Armenia",
+    "phone": "+79998383965"
+  },
+  {
+    "name": "Havuts Tar Monastery Complex",
+    "address": "Dilijan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Kobayr Monastery Complex",
+    "address": "19, City Park, 1 Getapnya St, Dilijan 3903, Armenia",
+    "phone": "+37433499989"
+  },
+  {
+    "name": "Trchkan Waterfall",
+    "address": "Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Freedom Square",
+    "address": "Armenia,Tsaghkadzor, Tandzaghbyuri 2, 4/1, Tsaghkadzor, Цахкадзор,Tsaxkadzor 2310, Armenia",
+    "phone": "+37455294145"
+  },
+  {
+    "name": "Makaravank Monastery Complex",
+    "address": "Haghpat, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Museum of National Architecture and Urban Life",
+    "address": "Azatutyan Ave, Yerevan, Armenia",
+    "phone": "+37410205881"
+  },
+  {
+    "name": "Dalan",
+    "address": "79X8+7C3 Karmravor, Perch Proshyan Street, Ashtarak, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Botanical Garden",
+    "address": "Italy St, Yerevan, Armenia",
+    "phone": "+37410448805"
+  },
+  {
+    "name": "Sardarapat Memorial",
+    "address": "Vagharshapat, Armenia",
+    "phone": "+37410517110"
+  },
+  {
+    "name": "Water World",
+    "address": "Khanjyan St, Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Noratus Cemetery",
+    "address": "Vahram Papazyan St, Yerevan, Armenia",
+    "phone": "+37443409090"
+  },
+  {
+    "name": "Odzun Church",
+    "address": "21 Israyelyan St, Yerevan, Armenia",
+    "phone": "+37410585713"
+  },
+  {
+    "name": "Horomayri",
+    "address": "Vardanants square, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lori Castle",
+    "address": "Gayi Street, Gyumri, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Hnevank Monastery",
+    "address": "Avan Rd, Tegher 0207, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dilijan Amphitheater",
+    "address": "12 Mesrop Mashtots Ave, Yerevan 0015, Armenia",
+    "phone": "+37410522193"
+  },
+  {
+    "name": "Museum of Local Lore of Lori-Pambak",
+    "address": "Yervand Kochar St, Yerevan, Armenia",
+    "phone": "+37410543332"
+  },
+  {
+    "name": "Megerian Carpet Armenia",
+    "address": "38 Erebuni St, Yerevan 0020, Armenia",
+    "phone": "+37410432661"
+  },
+  {
+    "name": "Vardanyan's park",
+    "address": "Azizkend, Armenia",
+    "phone": "+37423421352"
+  },
+  {
+    "name": "Hrazdan Central Stadium",
+    "address": "Alaverdi 1705, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Lusik Aguletsi House-Museum and Art Cafe",
+    "address": "Orbeli Brothers St, Tsaghkadzor 2310, Armenia",
+    "phone": "+37422352085"
+  },
+  {
+    "name": "Yerani Travel",
+    "address": "Mount, Haghartsin, Armenia",
+    "phone": "+37477723233"
+  },
+  {
+    "name": "Lastiver Campground",
+    "address": "9 Ghazar Parpetsi St, Yerevan 0002, Armenia",
+    "phone": "+37410530162"
+  },
+  {
+    "name": "Hrazdan River",
+    "address": "Yerevan, Armenia",
+    "phone": "+37498247744"
+  },
+  {
+    "name": "Vardeni Guesthouse",
+    "address": "21 Marshal Baghramyan Ave, Yerevan 0019, Armenia",
+    "phone": "+37411966868"
+  },
+  {
+    "name": "Swan Lake",
+    "address": "17 Abovyan St, Yerevan 0001, Armenia",
+    "phone": "+37455913545"
+  },
+  {
+    "name": "Yerablur Military Memorial Cemetery",
+    "address": "Gosh 3907, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Ararat Resort",
+    "address": "Surb Sargis St, Ashtarak, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Yerevan Brandy Company",
+    "address": "Hayravank, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Dalma Garden Mall",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Free Walking Tour in Yerevan",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Children's Railway",
+    "address": "2 3rd St, Yerevan, Armenia",
+    "phone": "+37410458207"
+  },
+  {
+    "name": "Wine store - National Drinks and Souvenirs",
+    "address": "Hayravank, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Nairi Garden Tsaghkadzor",
+    "address": "Tsaghkadzor 2310, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Tonratun Hotel",
+    "address": "3 Martiros Saryan St, Yerevan 0002, Armenia",
+    "phone": "+37410580568"
+  },
+  {
+    "name": "Action Park Tsaghkadzor",
+    "address": "H11 , near the village of, Pokr Vedi 0612, Armenia",
+    "phone": "+37493533685"
+  },
+  {
+    "name": "Tsaghkadzor Marriott Hotel",
+    "address": "Yerevan, Armenia",
+    "phone": null
+  },
+  {
+    "name": "Guest House Arsan",
+    "address": "Moskovyan Street, Yerevan, Armenia",
+    "phone": "+37455226228"
+  },
+  {
+    "name": "Kecharis Hotel",
+    "address": "H11 , near the village of, Pokr Vedi 0612, Armenia",
+    "phone": "+37493533685"
+  },
+  {
+    "name": "President hotel",
+    "address": "20 Myasnikyan Ave, Yerevan 0025, Armenia",
+    "phone": "+37410562362"
+  }
+]
