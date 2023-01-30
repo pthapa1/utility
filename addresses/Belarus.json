@@ -1,0 +1,5819 @@
+[
+  {
+    "name": "Sputnik Hotel",
+    "address": "vulica Prytyckaha 2, Minsk 220073, Belarus",
+    "phone": "+375291043377"
+  },
+  {
+    "name": "Victoria na Zamkovoy Hotel",
+    "address": "vulica Kirava 18, Minsk 220030, Belarus",
+    "phone": "18220030"
+  },
+  {
+    "name": "Minsk Hotel",
+    "address": "vulica Internacyjanaĺnaja 28, Minsk 220030, Belarus",
+    "phone": "28220030"
+  },
+  {
+    "name": "Minsk Marriott Hotel",
+    "address": "20 Pobediteley Avenue Minsk BY-HM, 220020, Belarus",
+    "phone": "20220020"
+  },
+  {
+    "name": "DoubleTree by Hilton Hotel Minsk",
+    "address": "Ulitsa Storozhovskaya ул 15, Minsk, Belarus",
+    "phone": "+375291980470"
+  },
+  {
+    "name": "Hotel Belarus",
+    "address": "Ulitsa Storozhovskaya ул 15, Minsk, Belarus",
+    "phone": "+375291980470"
+  },
+  {
+    "name": "Гатэль Еўропа",
+    "address": "vulica Čyrvonaarmiejskaja 36, Minsk 220030, Belarus",
+    "phone": "36220030"
+  },
+  {
+    "name": "Hampton by Hilton Minsk City Centre",
+    "address": "Ulitsa Tolstogo 8, Minsk 220007, Belarus",
+    "phone": "+375172154000"
+  },
+  {
+    "name": "Beijing Hotel",
+    "address": "Prospekte Pobeditelei 9, Minsk 220004, Belarus",
+    "phone": "+375173098000"
+  },
+  {
+    "name": "Prezident-Otel'",
+    "address": "prasp. Niezaliežnasci 11, Minsk 220030, Belarus",
+    "phone": "11220030"
+  },
+  {
+    "name": "Astoria Boutique Hotel",
+    "address": "Stanislavskogo Street 16, Minsk 220033, Belarus",
+    "phone": "16220033"
+  },
+  {
+    "name": "Manastyrski Hotel",
+    "address": "vul. Čyrvonaja дом 2, Minsk, Belarus",
+    "phone": "+375333224471"
+  },
+  {
+    "name": "Ренессанс Минск Конгресс Отель и СПА Центр",
+    "address": "Prospekt Dzerzhinskogo 19, Minsk 220089, Belarus",
+    "phone": "19220089"
+  },
+  {
+    "name": "Garni Hotel",
+    "address": "praspiekt haziety Zviazda 47, Minsk, Belarus",
+    "phone": "+375296706156"
+  },
+  {
+    "name": "Yubileiny Hotel Minsk",
+    "address": "vulica Lienina 11, Minsk, Belarus",
+    "phone": "+375296570004"
+  },
+  {
+    "name": "Willing Hotel Minsk",
+    "address": "zavulak Sadovy 11, Minsk 223018, Belarus",
+    "phone": "11223018"
+  },
+  {
+    "name": "The Basilian Minsk, Curio Collection By Hilton",
+    "address": "Ulitsa Starovilenskaya 14, Minsk, Belarus",
+    "phone": "+375293112783"
+  },
+  {
+    "name": "Sputnik Hotel",
+    "address": "vulica Lienina 5, Minsk, Belarus",
+    "phone": "+375296741516"
+  },
+  {
+    "name": "Zalkind Home",
+    "address": "Minsk, 8A, Ulitsa Chaykovskogo, 220049, Belarus",
+    "phone": "+375296913791"
+  },
+  {
+    "name": "Arena Hotel",
+    "address": "prasp. Niezaliežnasci 80А/1, Minsk 220012, Belarus",
+    "phone": "801220012"
+  },
+  {
+    "name": "Hotel IT Time",
+    "address": "Ulitsa Storozhovskaya Дом 8, Minsk, Belarus",
+    "phone": "+375293449700"
+  },
+  {
+    "name": "Urban Hostel",
+    "address": "Skryghanova 4-D, Minsk 220000, Belarus",
+    "phone": "+375447890040"
+  },
+  {
+    "name": "Boutique Hotel Buta",
+    "address": "Nyomanskaya Street 6, Minsk 220033 BY, 220033, Belarus",
+    "phone": "6220033220033"
+  },
+  {
+    "name": "Dipservice Hall",
+    "address": "Prospekt Dzerzhinskogo 92, Minsk 220066, Belarus",
+    "phone": "92220066"
+  },
+  {
+    "name": "Hotel IT Time",
+    "address": "Bogdanovicha St. 55, Minsk 220029, Belarus",
+    "phone": "55220029"
+  },
+  {
+    "name": "Hostel Stary Minsk",
+    "address": "vulica Miastraŭskaja 2, Minsk 220020, Belarus",
+    "phone": "+375172793960"
+  },
+  {
+    "name": "Urban Hostel",
+    "address": "Prospekt Dzerzhinskogo 11 - 642, Minsk 220089, Belarus",
+    "phone": "11642220089"
+  },
+  {
+    "name": "Andrew Loft Guest House",
+    "address": "vulica Haradski Val 9, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Victoria Olimp Hotel Minsk",
+    "address": "Ulitsa Engel'sa 12, Minsk, Belarus",
+    "phone": "+375447529827"
+  },
+  {
+    "name": "Otel' Gubernskiy",
+    "address": "Ждановичский сельсовет, 67, п/о Ратомка поселок, Ratomka 223080, Belarus",
+    "phone": "67223080"
+  },
+  {
+    "name": "StudioMinsk in Historic Centre",
+    "address": "Odoevsky street 10B, Minsk 220073, Belarus",
+    "phone": "10220073"
+  },
+  {
+    "name": "Polonez Hotel",
+    "address": "vul. Čyrvonaja 2, Доры 222362, Belarus",
+    "phone": "+375333034383"
+  },
+  {
+    "name": "Apartments for a day in Minsk | Aparton.com",
+    "address": "vulica Miasnikova 34, Minsk 220000, Belarus",
+    "phone": "34220000"
+  },
+  {
+    "name": "Aparthotel",
+    "address": "vulica Parnikovaja 50, Minsk, Belarus",
+    "phone": "+375333338405"
+  },
+  {
+    "name": "IBB",
+    "address": "Vulitsa Svyardlova 24, Minsk 220050, Belarus",
+    "phone": "24220050"
+  },
+  {
+    "name": "Gostinitsa \"Komfort\"",
+    "address": "vulica Kurhannaja 15, Minsk, Belarus",
+    "phone": "+375296729750"
+  },
+  {
+    "name": "Inn EcoDom",
+    "address": "vulica Rozy Liuksiemburh 101, Minsk 220036, Belarus",
+    "phone": "101220036"
+  },
+  {
+    "name": "Gostinitsa 40 Let Pobedy",
+    "address": "vulica Internacyjanaĺnaja 24а, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Aqua-Minsk Hotel",
+    "address": "vulica Internacyjanaĺnaja 13, Minsk, Belarus",
+    "phone": "+375447000250"
+  },
+  {
+    "name": "Victoria na Zamkovoy Hotel",
+    "address": "Центральная улица 5, Primor'e 223042, Belarus",
+    "phone": "+375296289747"
+  },
+  {
+    "name": "Jacuzzi New ApartComplex Kaskad",
+    "address": "vulica Jakuba Kolasa 35, Minsk 220013, Belarus",
+    "phone": "35220013"
+  },
+  {
+    "name": "Planeta Hotel",
+    "address": "Ulitsa Kosmonavtov 5, Minsk 220025, Belarus",
+    "phone": "+375336796917"
+  },
+  {
+    "name": "Akademičnaja",
+    "address": "Трасса Минск-Молодечно, Ratomka 223035, Belarus",
+    "phone": "+375297004406"
+  },
+  {
+    "name": "Hotel East Time",
+    "address": "вуліца Кірылы Тураўскага 4, Minsk 220116, Belarus",
+    "phone": "+375293257281"
+  },
+  {
+    "name": "Voyage Hotel",
+    "address": "Ulitsa Uzlesnaya 58, Kolodishchi 223050, Belarus",
+    "phone": "58223050"
+  },
+  {
+    "name": "Turist",
+    "address": "Novinkovskaya street, 8, Minsk 222000, Belarus",
+    "phone": "+375296148813"
+  },
+  {
+    "name": "Robinson City",
+    "address": "vulica Miasnikova 34, Minsk 220000, Belarus",
+    "phone": "34220000"
+  },
+  {
+    "name": "ApartPrestige.com",
+    "address": "vulica Kirava 4, Minsk 220006, Belarus",
+    "phone": "+375297861033"
+  },
+  {
+    "name": "Robinson Club",
+    "address": "Kirova Street 13, Minsk 220030, Belarus",
+    "phone": "13220030"
+  },
+  {
+    "name": "Agat Hotel",
+    "address": "vulica Francyska Skaryny 4, Minsk, Belarus",
+    "phone": "+375291623623"
+  },
+  {
+    "name": "U Fontana Hotel",
+    "address": "Ждановичский с/с, 38 Минск аг, Zhdanovichi 223028, Belarus",
+    "phone": "38223028"
+  },
+  {
+    "name": "Khostel Platskart",
+    "address": "vulica Prytyckaha 156, Minsk, Belarus",
+    "phone": "+375173175032"
+  },
+  {
+    "name": "Almaz Hotel",
+    "address": "vulica Zamkavaja 25, Minsk 220004, Belarus",
+    "phone": "25220004"
+  },
+  {
+    "name": "Hostel Square",
+    "address": "vulica Janki Kupaly 25, Minsk 220030, Belarus",
+    "phone": "25220030"
+  },
+  {
+    "name": "Green Park Hotel",
+    "address": "Privokzal'naya Ploshchad' 3, Minsk, Belarus",
+    "phone": "+375336226463"
+  },
+  {
+    "name": "Minsk",
+    "address": "prasp. Niezaliežnasci, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "China Merchants Huashang Business Center",
+    "address": "Prospekt Pushkina 39, Minsk, Belarus",
+    "phone": "+375173737781"
+  },
+  {
+    "name": "Hotel Express",
+    "address": "vulica Kazlova 9, Minsk 220000, Belarus",
+    "phone": "+375291112222"
+  },
+  {
+    "name": "Orbita Hotel",
+    "address": "vulica Hierasimienki 8, Minsk 220047, Belarus",
+    "phone": "+375173577654"
+  },
+  {
+    "name": "Green City Hotel",
+    "address": "Смолевичский район, Индустриальный парк \"Великий камень\", проспект Пекинский, 25, Мінск 222210, Belarus",
+    "phone": "25222210"
+  },
+  {
+    "name": "Otel' Na Zamkovoy",
+    "address": "Смолевичский район Национальный аэропорт Минск, 222223, Belarus",
+    "phone": "+375445646000"
+  },
+  {
+    "name": "Crowne Plaza Minsk",
+    "address": "Nezavisimosti Prospekt 31, office 26, Minsk 220050, Belarus",
+    "phone": "3126220050"
+  },
+  {
+    "name": "Журавинка",
+    "address": "7 км. Р28, 223035, Belarus",
+    "phone": "728223035"
+  },
+  {
+    "name": "Hostel Point Minsk",
+    "address": "vulica Kirava 1, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Отель «Дрозды Клуб»",
+    "address": "vulica Amuratarskaja 4, Minsk 220004, Belarus",
+    "phone": "+375172031400"
+  },
+  {
+    "name": "Jacuzzi Apart City Centre on Miasnikova str",
+    "address": "Ulitsa Zybitskaya 4, Minsk 220030, Belarus",
+    "phone": "+375291217777"
+  },
+  {
+    "name": "Beltransgaz Hotel",
+    "address": "Vulitsa Karbyshava 25, Minsk, Belarus",
+    "phone": "+375173774440"
+  },
+  {
+    "name": "Comfort-House",
+    "address": "Partizanskiy Prospekt 81, Minsk 220026, Belarus",
+    "phone": "81220026"
+  },
+  {
+    "name": "Krinica Sanatorii Chup Belprofsoyuzkurort",
+    "address": "vulica Kirava 1, Minsk, Belarus",
+    "phone": "+375292772222"
+  },
+  {
+    "name": "Riviera Country Club Hotel Complex",
+    "address": "2-Y Velosipednyy Pereulok 5, Minsk 220033, Belarus",
+    "phone": "25220033"
+  },
+  {
+    "name": "Room in private apartment with owner",
+    "address": "Prospekte Pobeditelei 31, Minsk, Belarus",
+    "phone": "+375172038587"
+  },
+  {
+    "name": "Wooden Villa",
+    "address": "vulica Prytyckaha 2, Minsk 220073, Belarus",
+    "phone": "+375291043377"
+  },
+  {
+    "name": "Квартира на сутки в Минске Banksy House",
+    "address": "vulica Jakuboŭskaha 52а, Minsk 220018, Belarus",
+    "phone": "52220018"
+  },
+  {
+    "name": "Hostel \"Sport\"",
+    "address": "vulica Surhanava 7, Minsk, Belarus",
+    "phone": "+375173572701"
+  },
+  {
+    "name": "Stayki - Olimpiyskiy Sportivnyy Kompleks",
+    "address": "Zamkovaya Ulitsa 25, Minsk 220004, Belarus",
+    "phone": "25220004"
+  },
+  {
+    "name": "Prime Apartments Minsk",
+    "address": "vulica Azhura 3, Minsk 220088, Belarus",
+    "phone": "+375172637963"
+  },
+  {
+    "name": "Kafe Belstroytsentr",
+    "address": "vulica Skryhanava дом 4-Д, Minsk 220000, Belarus",
+    "phone": "+375447890040"
+  },
+  {
+    "name": "M-Hotel",
+    "address": "Prospekte Pobeditelei 118, Minsk, Belarus",
+    "phone": "+375445056533"
+  },
+  {
+    "name": "База отдыха Marabu Village",
+    "address": "vulica Lieninhradskaja 5, Minsk 220006, Belarus",
+    "phone": "+375291112222"
+  },
+  {
+    "name": "Apartment Minsk Centr ЖД Вокзал Свердлова 24 с двумя спальнями",
+    "address": "praspiekt Haziety Praŭda 11, Minsk 220116, Belarus",
+    "phone": "11220116"
+  },
+  {
+    "name": "Guest House DOM 15",
+    "address": "Shchorsa 1, Minsk 220014, Belarus",
+    "phone": "+375445750800"
+  },
+  {
+    "name": "Julia Studio",
+    "address": "1-Y Pereulok Mendeleyeva 50/4, Minsk 200037, Belarus",
+    "phone": "1504200037"
+  },
+  {
+    "name": "Domashnij Ujut",
+    "address": "vulica Vyzvaliennia 9, Minsk 220004, Belarus",
+    "phone": "+375293927272"
+  },
+  {
+    "name": "SERC",
+    "address": "Prospekte Pobeditelei 103, Minsk 220020, Belarus",
+    "phone": "103220020"
+  },
+  {
+    "name": "Luxe Apartments Исторический центр",
+    "address": "prasp. Niezaliežnasci 31, Minsk 220005, Belarus",
+    "phone": "31220005"
+  },
+  {
+    "name": "Kompleks \"Stepyanka\"",
+    "address": "vulica Alaizy Paškievič 3, Minsk, Belarus",
+    "phone": "+375173883540"
+  },
+  {
+    "name": "Sanatorium Yunast",
+    "address": "vulica Internacyjanaĺnaja 17, Minsk 220000, Belarus",
+    "phone": "17220000"
+  },
+  {
+    "name": "Minsk4Rent Apartments",
+    "address": "Ulitsa Zaborskogo 3, Minsk, Belarus",
+    "phone": "+375293817000"
+  },
+  {
+    "name": "Hotel \"Sport Time\"",
+    "address": "prasp. Niezaliežnasci 19, Minsk 220030, Belarus",
+    "phone": "19220030"
+  },
+  {
+    "name": "West End Apartment",
+    "address": "пер. Войсковый 4 пер. Броневой 1, vulica Frunze 11, Minsk 220034, Belarus",
+    "phone": "4111220034"
+  },
+  {
+    "name": "Jacuzzi Loft-Hotel Prestige Center",
+    "address": "vulісa Akadеmіka Kuprеvіča 4, Minsk 220141, Belarus",
+    "phone": "+375172696600"
+  },
+  {
+    "name": "Guest House Top Aparts",
+    "address": "prasp. Niezaliežnasci 43, Minsk 220005, Belarus",
+    "phone": "43220005"
+  },
+  {
+    "name": "Квартира на сутки в Минске Music House",
+    "address": "Ulitsa Zaborskogo 3, Minsk, Belarus",
+    "phone": "+375293817000"
+  },
+  {
+    "name": "Квартиры на сутки в Минске | Bulbash Apartments 11",
+    "address": "vulісa Akadеmіka Kuprеvіča 4, Minsk 220141, Belarus",
+    "phone": "+375172696600"
+  },
+  {
+    "name": "Minsk Apartment Service Luxe class",
+    "address": "vulica Miasnikova 7, Minsk 220030, Belarus",
+    "phone": "+375173665555"
+  },
+  {
+    "name": "Grand Inn",
+    "address": "Bogdanovicha Str 2/2, Minsk 220029, Belarus",
+    "phone": "22220029"
+  },
+  {
+    "name": "Gostinitsa Sok \"Olimpiyskiy\"",
+    "address": "Ulitsa Brilevskaya 2, Minsk, Belarus",
+    "phone": "+375172203619"
+  },
+  {
+    "name": "Riverside Hostel",
+    "address": "vulica Lienina 50, Minsk 220030, Belarus",
+    "phone": "50220030"
+  },
+  {
+    "name": "VIP Apartment",
+    "address": "Prospekte Pobeditelei 19, Minsk 220004, Belarus",
+    "phone": "19220004"
+  },
+  {
+    "name": "Tarasovskiy Mayontak",
+    "address": "Ulitsa Revolyutsionnaya 24, Minsk 220030, Belarus",
+    "phone": "24220030"
+  },
+  {
+    "name": "Grand Cafe",
+    "address": "Prospekte Pobeditelei 11, Minsk, Belarus",
+    "phone": "+375291357736"
+  },
+  {
+    "name": "Pena Dney",
+    "address": "vulica Talbuchina 3, Minsk, Belarus",
+    "phone": "+375445555050"
+  },
+  {
+    "name": "Traktir Na Parkovoy",
+    "address": "Ploshchad' Svobody 2, Minsk, Belarus",
+    "phone": "+375293880002"
+  },
+  {
+    "name": "Kamyanitsa Restaurant",
+    "address": "vulica Niamiha 36, Minsk, Belarus",
+    "phone": "+375293119999"
+  },
+  {
+    "name": "SFB MINSK",
+    "address": "vulica Karla Marksa 40, Minsk 220030, Belarus",
+    "phone": "40220030"
+  },
+  {
+    "name": "Kuhmistr",
+    "address": "Ulitsa Revolyutsionnaya 17, Minsk 220030, Belarus",
+    "phone": "17220030"
+  },
+  {
+    "name": "La Scala Trattoria Ignazio",
+    "address": "vulica Internacyjanaĺnaja 23, Minsk, Belarus",
+    "phone": "+375296554499"
+  },
+  {
+    "name": "Gambrinus",
+    "address": "vulica Pieršamajskaja 18, Minsk, Belarus",
+    "phone": "+375172945124"
+  },
+  {
+    "name": "Ember",
+    "address": "vulica Lienina 2, Minsk, Belarus",
+    "phone": "+375447031111"
+  },
+  {
+    "name": "Tiflis Restaurant",
+    "address": "Prospekte Pobeditelei 9, Minsk 220004, Belarus",
+    "phone": "+375445071729"
+  },
+  {
+    "name": "Litviny",
+    "address": "vul. Čyrvonaja 12, Minsk 220089, Belarus",
+    "phone": "12220089"
+  },
+  {
+    "name": "Vasilki",
+    "address": "vulica Internacyjanaĺnaja 25А, Minsk 220030, Belarus",
+    "phone": "25220030"
+  },
+  {
+    "name": "DOM ресторан и бар",
+    "address": "Ploshchad' Svobody 23, Minsk 220030, Belarus",
+    "phone": "23220030"
+  },
+  {
+    "name": "Clever Irish Pub",
+    "address": "vulica Surhanava 7, Minsk, Belarus",
+    "phone": "+375172840194"
+  },
+  {
+    "name": "Natvris Khe",
+    "address": "Гастропаб Дрова, Ulitsa Bogdana Khmel'nitskogo 10А, Minsk, Belarus",
+    "phone": "+375291094040"
+  },
+  {
+    "name": "Smokkin: Gastrobar & Hookah Place",
+    "address": "Prospekte Pobeditelei 21, Minsk 220089, Belarus",
+    "phone": "21220089"
+  },
+  {
+    "name": "Индийское вегетарианское бистро Om Namo",
+    "address": "Ulitsa Oktyabr'skaya 21, Minsk, Belarus",
+    "phone": "+375293331822"
+  },
+  {
+    "name": "Panorama",
+    "address": "vulica Cimirazieva 65, Minsk, Belarus",
+    "phone": "+375293850505"
+  },
+  {
+    "name": "The View",
+    "address": "Prospekte Pobeditelei 1, Minsk, Belarus",
+    "phone": "+375445635555"
+  },
+  {
+    "name": "The ODI",
+    "address": "vulica Babrujskaja 6, Minsk, Belarus",
+    "phone": "+375296017744"
+  },
+  {
+    "name": "Bergamo",
+    "address": "prasp. Niezaliežnasci 89, Minsk 220012, Belarus",
+    "phone": "89220012"
+  },
+  {
+    "name": "Pinsa Romana",
+    "address": "buĺvar Šaŭčenki 20, Minsk, Belarus",
+    "phone": "+375293757777"
+  },
+  {
+    "name": "Sed'moye Nebo",
+    "address": "Prospekte Pobeditelei 114, Minsk, Belarus",
+    "phone": "+375291390505"
+  },
+  {
+    "name": "Lido",
+    "address": "vulica Platonava 20б, корпус 1, Minsk 220005, Belarus",
+    "phone": "201220005"
+  },
+  {
+    "name": "Panorama",
+    "address": "vulica Niamiha 28, Minsk, Belarus",
+    "phone": "+375296079999"
+  },
+  {
+    "name": "Halal Doner",
+    "address": "Беларусь, Минск, vulica Internacyjanaĺnaja 28, Minsk, Belarus",
+    "phone": "+375172298431"
+  },
+  {
+    "name": "Rakovskiy Brovar",
+    "address": "vulica Filimonava 24, Minsk, Belarus",
+    "phone": "+375291726666"
+  },
+  {
+    "name": "Falcone Restaurant",
+    "address": "Ulitsa Zybitskaya 2, Minsk 220030, Belarus",
+    "phone": "+375292943333"
+  },
+  {
+    "name": "Owino",
+    "address": "Ulitsa Ratomskaya 2а, Minsk 220062, Belarus",
+    "phone": "+375447755050"
+  },
+  {
+    "name": "SVOI",
+    "address": "Prospekte Pobeditelei 110, Minsk 220062, Belarus",
+    "phone": "110220062"
+  },
+  {
+    "name": "Masala",
+    "address": "Prospekt Dzerzhinskogo 83/13, Minsk 220045, Belarus",
+    "phone": "8313220045"
+  },
+  {
+    "name": "Khinkal'nya",
+    "address": "Ulitsa Starovilenskaya 15а, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "КАПАРА",
+    "address": "Prospekte Pobeditelei 65, Minsk, Belarus",
+    "phone": "+375293091111"
+  },
+  {
+    "name": "Beten Gav. Israeli bistro",
+    "address": "prasp. Niezaliežnasci 40, Minsk, Belarus",
+    "phone": "+375291404343"
+  },
+  {
+    "name": "Iskander",
+    "address": "vulica Kuĺman 5А, Minsk 220013, Belarus",
+    "phone": "+375293686686"
+  },
+  {
+    "name": "News Cafe",
+    "address": "vulica Haradski Val 10, Minsk 220030, Belarus",
+    "phone": "10220030"
+  },
+  {
+    "name": "Cultura",
+    "address": "Ulitsa Smolenskaya 15, Minsk, Belarus",
+    "phone": "+375445260000"
+  },
+  {
+    "name": "Lebiažy",
+    "address": "vulica Kuĺman 14, Minsk 220089, Belarus",
+    "phone": "14220089"
+  },
+  {
+    "name": "Jamaica Restaurant",
+    "address": "vulica Internacyjanaĺnaja 25а, Minsk 220030, Belarus",
+    "phone": "25220030"
+  },
+  {
+    "name": "Minsk",
+    "address": "Vulitsa Kuybyshava 40, Minsk, Belarus",
+    "phone": "+375299126271"
+  },
+  {
+    "name": "Giroscafe",
+    "address": "vulica Kaĺvaryjskaja 21, Minsk, Belarus",
+    "phone": "+375296282841"
+  },
+  {
+    "name": "Gurman",
+    "address": "vulica Cimirazieva, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Vasilki",
+    "address": "Ulitsa Mel'nikayte 3, Minsk, Belarus",
+    "phone": "+375296056947"
+  },
+  {
+    "name": "Tan Chao",
+    "address": "Ulitsa Revolyutsionnaya 28, Minsk 220030, Belarus",
+    "phone": "28220030"
+  },
+  {
+    "name": "Wood & Fire",
+    "address": "prasp. Niezaliežnasci 11, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Restoran 101",
+    "address": "vulica Niamiha 5, Minsk, Belarus",
+    "phone": "+375172848208"
+  },
+  {
+    "name": "Baldenini Cafe",
+    "address": "vulica Kamunistyčnaja 4, Minsk 220029, Belarus",
+    "phone": "+375291751751"
+  },
+  {
+    "name": "Bul'bashy",
+    "address": "Prospekte Pobeditelei 106, Minsk 220062, Belarus",
+    "phone": "106220062"
+  },
+  {
+    "name": "Restaurant Tang Ren",
+    "address": "vulica Hiercena 1, Minsk, Belarus",
+    "phone": "+375291441155"
+  },
+  {
+    "name": "Rib Raw",
+    "address": "prasp. Niezaliežnasci 40, Minsk, Belarus",
+    "phone": "+375296202739"
+  },
+  {
+    "name": "Seasons",
+    "address": "улица Тимирязева 9к10, Minsk 220004, Belarus",
+    "phone": "910220004"
+  },
+  {
+    "name": "KOKOS - Asian street food",
+    "address": "Кафе Чайхана Ташкент, Kamsamoĺskaja vulica 34, Minsk, Belarus",
+    "phone": "+375336666291"
+  },
+  {
+    "name": "Fornello restaurant",
+    "address": "vulica Janki Kupaly 25, Minsk 220030, Belarus",
+    "phone": "25220030"
+  },
+  {
+    "name": "BierKeller",
+    "address": "vulica Valadarskaha 19, Minsk, Belarus",
+    "phone": "+375447621111"
+  },
+  {
+    "name": "Pizzeria IL Grottino",
+    "address": "Prospekte Pobeditelei 20, Minsk 220020, Belarus",
+    "phone": "20220020"
+  },
+  {
+    "name": "Yangzte Chinese restaurant",
+    "address": "vulica Hikaly 7, Minsk, Belarus",
+    "phone": "+375296668898"
+  },
+  {
+    "name": "Khinkal'nya",
+    "address": "Ploshchad' Svobody 8, Minsk, Belarus",
+    "phone": "+375291236688"
+  },
+  {
+    "name": "Milano",
+    "address": "vulica Internacyjanaĺnaja 13, Minsk, Belarus",
+    "phone": "+375172436357"
+  },
+  {
+    "name": "Oriyent Ekspress",
+    "address": "zavulak Vajskovy 12, Minsk, Belarus",
+    "phone": "+375445888333"
+  },
+  {
+    "name": "Wok",
+    "address": "vulica Kirava 6, Minsk 220000, Belarus",
+    "phone": "+375445674747"
+  },
+  {
+    "name": "Bruklin",
+    "address": "Ulitsa Bogdana Khmel'nitskogo 4, Minsk, Belarus",
+    "phone": "+375447205633"
+  },
+  {
+    "name": "Lido",
+    "address": "vulica Čyrvonaarmiejskaja 36, Minsk 220030, Belarus",
+    "phone": "36220030"
+  },
+  {
+    "name": "Vietnam Cafe",
+    "address": "Ulitsa Zhasminovaya 3б, Minsk, Belarus",
+    "phone": "+375291881144"
+  },
+  {
+    "name": "Restoran Minsk",
+    "address": "vulica Kuĺman 11, Minsk, Belarus",
+    "phone": "+375293821555"
+  },
+  {
+    "name": "Бистро",
+    "address": "Ploshchad' Svobody 4, Minsk 230000, Belarus",
+    "phone": "+375291402340"
+  },
+  {
+    "name": "Charlie",
+    "address": "Budslaŭskaja vulica 2, Minsk 223016, Belarus",
+    "phone": "+375447732177"
+  },
+  {
+    "name": "Insomnia Bar",
+    "address": "Cyril and Methodius St 3, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "UMAMI",
+    "address": "vulica Babrujskaja 6, Minsk 220020, Belarus",
+    "phone": "+375447488269"
+  },
+  {
+    "name": "Бамбук - китайская кухня",
+    "address": "vulica Francyska Skaryny 1, Minsk, Belarus",
+    "phone": "+375296188355"
+  },
+  {
+    "name": "Saygon",
+    "address": "vulica Kamunistyčnaja 7, Minsk, Belarus",
+    "phone": "+375172436774"
+  },
+  {
+    "name": "Chaykhana Tashkent",
+    "address": "vulica Aĺšeŭskaha 10, Minsk, Belarus",
+    "phone": "+375296600889"
+  },
+  {
+    "name": "COMIDA Mexicano",
+    "address": "Ulitsa Oktyabr'skaya 19, Minsk, Belarus",
+    "phone": "+375296786977"
+  },
+  {
+    "name": "El'-Burrito",
+    "address": "vulica Haradski Val 12/1, Minsk 220030, Belarus",
+    "phone": "121220030"
+  },
+  {
+    "name": "Falafel'",
+    "address": "Prospekte Pobeditelei 100, Minsk, Belarus",
+    "phone": "+375293773711"
+  },
+  {
+    "name": "Maslow 6",
+    "address": "Ulitsa Ratomskaya 2а, Minsk, Belarus",
+    "phone": "+375447755050"
+  },
+  {
+    "name": "Martinique Bar",
+    "address": "Kamsamoĺskaja vulica 34, Minsk, Belarus",
+    "phone": "+375447384521"
+  },
+  {
+    "name": "Lido",
+    "address": "vulica Karla Marksa 34, Minsk, Belarus",
+    "phone": "+375291031111"
+  },
+  {
+    "name": "Armenian Shashlik",
+    "address": "Ulitsa Mel'nikayte 3, Minsk, Belarus",
+    "phone": "+375293034141"
+  },
+  {
+    "name": "Aura",
+    "address": "vulica Kisialiova 28, Minsk, Belarus",
+    "phone": "+375291464884"
+  },
+  {
+    "name": "Amsterdam",
+    "address": "vulica Internacyjanaĺnaja 25а, Minsk 220030, Belarus",
+    "phone": "25220030"
+  },
+  {
+    "name": "Berezka",
+    "address": "Ulitsa Starovilenskaya 10, Minsk, Belarus",
+    "phone": "+375445555849"
+  },
+  {
+    "name": "Cotton",
+    "address": "vulica Internacyjanaĺnaja 25, Minsk 220030, Belarus",
+    "phone": "25220030"
+  },
+  {
+    "name": "Lebyazhiy",
+    "address": "vulica Karalia 9, Minsk, Belarus",
+    "phone": "+375293777776"
+  },
+  {
+    "name": "Cafe Namaste",
+    "address": "prasp. Niezaliežnasci 22, Minsk, Belarus",
+    "phone": "+375447313129"
+  },
+  {
+    "name": "Avin'on",
+    "address": "Ulitsa Vitebskaya 10, Minsk, Belarus",
+    "phone": "+375447339339"
+  },
+  {
+    "name": "Bloom Eatery",
+    "address": "prasp. Niezaliežnasci 47, Minsk 220005, Belarus",
+    "phone": "47220005"
+  },
+  {
+    "name": "Lugano Restaurant",
+    "address": "prasp. Niezaliežnasci 11, корп.2, Minsk, Belarus",
+    "phone": "+375172099087"
+  },
+  {
+    "name": "Perfetto Restaurant",
+    "address": "vulica Rakaŭskaja 36, Minsk, Belarus",
+    "phone": "+375291420404"
+  },
+  {
+    "name": "Urartu",
+    "address": "Ulitsa Griboyedova 30, Minsk, Belarus",
+    "phone": "+375445173000"
+  },
+  {
+    "name": "Animal Farm",
+    "address": "Ulitsa Storozhovskaya 15, Minsk, Belarus",
+    "phone": "+375291981664"
+  },
+  {
+    "name": "Ресторан-клуб Усадьба",
+    "address": "prasp. Niezaliežnasci 49/1, Minsk 220089, Belarus",
+    "phone": "491220089"
+  },
+  {
+    "name": "Marani",
+    "address": "vulica Kuĺman 37, Minsk 220100, Belarus",
+    "phone": "37220100"
+  },
+  {
+    "name": "Vasilki",
+    "address": "Prospekte Pobeditelei 7А, Minsk, Belarus",
+    "phone": "+375447028888"
+  },
+  {
+    "name": "Shawarma Mazaj",
+    "address": "Ulitsa Storozhovskaya 15, Minsk, Belarus",
+    "phone": "+375291981664"
+  },
+  {
+    "name": "BAGEL HOUSE MINSK",
+    "address": "prasp. Niezaliežnasci 12, Minsk, Belarus",
+    "phone": "+375447721212"
+  },
+  {
+    "name": "Публика",
+    "address": "vulica Internacyjanaĺnaja 27, Minsk, Belarus",
+    "phone": "+375296020044"
+  },
+  {
+    "name": "Doner friend Halal",
+    "address": "vulica Viery Charužaj 13, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Plan B Bar",
+    "address": "vulica Hikaly 5, Minsk 220089, Belarus",
+    "phone": "+375291092222"
+  },
+  {
+    "name": "Galleria Minsk",
+    "address": "Prospekte Pobeditelei 84, Minsk, Belarus",
+    "phone": "+375293974736"
+  },
+  {
+    "name": "The Capital Mall",
+    "address": "ТЦ \"Немига, vulica Niamiha 3, Minsk 220030, Belarus",
+    "phone": "+375173062585"
+  },
+  {
+    "name": "ТЦ Замок",
+    "address": "vulica Cimirazieva 123/2, Minsk 220089, Belarus",
+    "phone": "1232220089"
+  },
+  {
+    "name": "Galileo Mall",
+    "address": "Prospekte Pobeditelei 65, Minsk, Belarus",
+    "phone": "+375173095450"
+  },
+  {
+    "name": "Zhdanovichi Shopping Center",
+    "address": "vulica Prytyckaha 29, Minsk 220092, Belarus",
+    "phone": "29220092"
+  },
+  {
+    "name": "ARENA City",
+    "address": "Prospekte Pobeditelei 9, Minsk, Belarus",
+    "phone": "+375445557498"
+  },
+  {
+    "name": "Tivali Mall",
+    "address": "vulica Prytyckaha 156, Minsk 220017, Belarus",
+    "phone": "156220017"
+  },
+  {
+    "name": "Palazzo Mall",
+    "address": "vulica Babrujskaja 6, Minsk, Belarus",
+    "phone": "+375173286426"
+  },
+  {
+    "name": "Green City",
+    "address": "vulica Cimirazieva 74A, Minsk 220035, Belarus",
+    "phone": "74220035"
+  },
+  {
+    "name": "Niamiha Mall",
+    "address": "prasp. Niezaliežnasci 3-2, Minsk 220030, Belarus",
+    "phone": "32220030"
+  },
+  {
+    "name": "Minsk City Mall",
+    "address": "8 Bobruiskaya Str, Shopping center, \"Galileo\", 6th floor, 220050, Belarus",
+    "phone": "86220050"
+  },
+  {
+    "name": "Dana Center",
+    "address": "223021, Минская обл., Минский р-н, Щомыслицкий с/с, 58, Ozertso 223021, Belarus",
+    "phone": "22302158223021"
+  },
+  {
+    "name": "Outleto Mall",
+    "address": "Prospekte Pobeditelei 9, Minsk 220004, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "Titan",
+    "address": "vulica Kupryjanava 2а, Minsk, Belarus",
+    "phone": "+375447210000"
+  },
+  {
+    "name": "DiaMond city Mall",
+    "address": "Kirova Street 13, Minsk 220030, Belarus",
+    "phone": "13220030"
+  },
+  {
+    "name": "Expobel Mall",
+    "address": "д 42 а, Dvoryckaja Slabada, Belarus",
+    "phone": "+375293882552"
+  },
+  {
+    "name": "New Europe Mall",
+    "address": "Dawhinawski Trakt 188, Minsk, Belarus",
+    "phone": "+375173626565"
+  },
+  {
+    "name": "Skala Mall",
+    "address": "vulica Kuĺman 3, Minsk 220100, Belarus",
+    "phone": "+375296261632"
+  },
+  {
+    "name": "Korona",
+    "address": "Ulitsa Berestyanskaya дом 4, Minsk 220034, Belarus",
+    "phone": "+375293306603"
+  },
+  {
+    "name": "TSUM Minsk",
+    "address": "vulica Cimirazieva 125/8, Minsk, Belarus",
+    "phone": "+375173776339"
+  },
+  {
+    "name": "Korona",
+    "address": "vulica Piatra Mscislaŭca 11, Minsk 220114, Belarus",
+    "phone": "11220114"
+  },
+  {
+    "name": "Maximus Mall",
+    "address": "9 Bobruiskaya Str, Shopping center, \"Galileo\", 5th floor, 220050, Belarus",
+    "phone": "95220050"
+  },
+  {
+    "name": "Dana mall",
+    "address": "vul. Adzincova 20, Minsk, Belarus",
+    "phone": "+375173223739"
+  },
+  {
+    "name": "E-City Mall",
+    "address": "shopping center, Vitalyur, vul. Niakrasava 3а, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Maximus Shopping Mall",
+    "address": "8 Bobruiskaya Str, Shopping center, \"Galileo\", 6th floor, 220050, Belarus",
+    "phone": "86220050"
+  },
+  {
+    "name": "TSUM Minsk",
+    "address": "vulica Niamiha 5, Minsk, Belarus",
+    "phone": "+375173364344"
+  },
+  {
+    "name": "Силуэт",
+    "address": "prasp. Niezaliežnasci 12, Minsk 220114, Belarus",
+    "phone": "12220114"
+  },
+  {
+    "name": "Impuls Mall",
+    "address": "prasp. Niezaliežnasci 53, Minsk 220089, Belarus",
+    "phone": "53220089"
+  },
+  {
+    "name": "Globo",
+    "address": "Ulitsa Kamennogorskaya 3 к 5, Minsk, Belarus",
+    "phone": "+375173880008"
+  },
+  {
+    "name": "Caravan Mall",
+    "address": "Galileo Shopping mall, Bobruiskaya 6 6th floor, Minsk 220050, Belarus",
+    "phone": "66220050"
+  },
+  {
+    "name": "Metropol Shopping Mall",
+    "address": "Ulitsa Oktyabr'skaya 19, Minsk, Belarus",
+    "phone": "+375293667516"
+  },
+  {
+    "name": "Momo Shoping Mall",
+    "address": "vulica Internacyjanaĺnaja 36, Minsk 220018, Belarus",
+    "phone": "36220018"
+  },
+  {
+    "name": "Zerkalo",
+    "address": "vulica Jakuba Kolasa 1, Minsk 220089, Belarus",
+    "phone": "+375293340909"
+  },
+  {
+    "name": "Belarus department store",
+    "address": "vul. Niakrasava 47, Minsk, Belarus",
+    "phone": "+375297009911"
+  },
+  {
+    "name": "Mfk Strateg'01",
+    "address": "Galileo Shopping mall, vulica Babrujskaja 6, Minsk 220050, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Magnit Shopping Mall",
+    "address": "Lahojski trakt 46, Minsk 220090, Belarus",
+    "phone": "46220090"
+  },
+  {
+    "name": "Sekond-Khend Zhdanovichi",
+    "address": "vulica Cimirazieva 114, Minsk 220099, Belarus",
+    "phone": "114220099"
+  },
+  {
+    "name": "Avtomoll Kol'tso",
+    "address": "Cyril and Methodius St 8, Minsk 220030, Belarus",
+    "phone": "+375255098843"
+  },
+  {
+    "name": "Vape shop Center",
+    "address": "Galileo Shopping mall, Bobruiskaya 6 6th floor, Minsk 220050, Belarus",
+    "phone": "66220050"
+  },
+  {
+    "name": "NORD CITY",
+    "address": "vulica Cimirazieva 127, Minsk, Belarus",
+    "phone": "+375173882608"
+  },
+  {
+    "name": "Сумки и чемоданы David Jones",
+    "address": "шоу-рум Sundays.by, Ulitsa Kamennogorskaya 3, Minsk 220017, Belarus",
+    "phone": "+375291383138"
+  },
+  {
+    "name": "GUM",
+    "address": "buĺvar Muliavina 1, Minsk 220005, Belarus",
+    "phone": "+375293570101"
+  },
+  {
+    "name": "Muzhskiye Kurtki",
+    "address": "vulica Arloŭskaja 88, Minsk 220020, Belarus",
+    "phone": "88220020"
+  },
+  {
+    "name": "Radiomarket",
+    "address": "prasp. Niezaliežnasci, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Na Nemige",
+    "address": "Ploshchad' Svobody 23, Minsk 220030, Belarus",
+    "phone": "23220030"
+  },
+  {
+    "name": "Ozertso",
+    "address": "Ulitsa Burdeynogo 6, Minsk, Belarus",
+    "phone": "+375173655480"
+  },
+  {
+    "name": "Mi Shopping Mall",
+    "address": "vulica Kisialiova 36, Minsk 220000, Belarus",
+    "phone": "36220000"
+  },
+  {
+    "name": "Green City business center",
+    "address": "ТЦ «Корона-Сити», vulica Dzianisaŭskaja 8, Minsk 220006, Belarus",
+    "phone": "+375173772380"
+  },
+  {
+    "name": "Gippo",
+    "address": "prasp. Niezaliežnasci 23, Minsk 220030, Belarus",
+    "phone": "23220030"
+  },
+  {
+    "name": "Karandash Printing Center",
+    "address": "prasp. Niezaliežnasci 198, Minsk 220056, Belarus",
+    "phone": "198220056"
+  },
+  {
+    "name": "Almi",
+    "address": "Vitalyur shopping center, vul. Niakrasava 3а, Minsk, Belarus",
+    "phone": "+375173928970"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Prospekt Dzerzhinskogo 5, Minsk, Belarus",
+    "phone": "+375293217777"
+  },
+  {
+    "name": "Comic Book Store Time to be a Hero",
+    "address": "Partizanskiy Prospekt 56, Minsk 220026, Belarus",
+    "phone": "56220026"
+  },
+  {
+    "name": "i-Store - магазин Apple Store: iPhone, iPad, AirPods, TV, MacBook, бу в Минске",
+    "address": "prasp. Niezaliežnasci 198, Minsk 220056, Belarus",
+    "phone": "198220056"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Partizanskiy Prospekt 182, Minsk, Belarus",
+    "phone": "+375296945857"
+  },
+  {
+    "name": "SC Europark",
+    "address": "prasp. Niezaliežnasci 105, Minsk 220114, Belarus",
+    "phone": "105220114"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Prospekt Dzerzhinskogo 119, Minsk 220045, Belarus",
+    "phone": "119220045"
+  },
+  {
+    "name": "Audi Центр Минск",
+    "address": "Pieršy Zaharadny zavulak 20, Minsk, Belarus",
+    "phone": "+375172569565"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "vulica Lienina 5, Minsk, Belarus",
+    "phone": "+375173003700"
+  },
+  {
+    "name": "Marko",
+    "address": "vulica Kaĺvaryjskaja 4, Minsk 220004, Belarus",
+    "phone": "+375336356721"
+  },
+  {
+    "name": "Green",
+    "address": "ТЦ Скала, Ulitsa Petra Glebki 5, Minsk 223018, Belarus",
+    "phone": "+375296000150"
+  },
+  {
+    "name": "Porsche Центр Минск",
+    "address": "Prospekte Pobeditelei 106-1, Minsk 220062, Belarus",
+    "phone": "1061220062"
+  },
+  {
+    "name": "BNK Estate",
+    "address": "Пл.Независимости, торговый центр \"Столица Минск BY, 220030, Belarus",
+    "phone": "+375173290290"
+  },
+  {
+    "name": "Korona",
+    "address": "vulica Prytyckaha 156, Minsk 220017, Belarus",
+    "phone": "156220017"
+  },
+  {
+    "name": "Caparol Center - Капарол Центр Минск",
+    "address": "Partizanskiy Prospekt 150а, Minsk, Belarus",
+    "phone": "+375173016338"
+  },
+  {
+    "name": "Nasenne Magazin N 1 OAO Minsksortsemovosch",
+    "address": "Беларусь, Минск, Московский район, Men'kovskiy Trakt 43, Minsk 223021, Belarus",
+    "phone": "43223021"
+  },
+  {
+    "name": "Western Market",
+    "address": "vulica Prytyckaha 93, Minsk 220136, Belarus",
+    "phone": "93220136"
+  },
+  {
+    "name": "Drukarnya",
+    "address": "vulica Niamiha 8, Minsk, Belarus",
+    "phone": "+375172276293"
+  },
+  {
+    "name": "Centraĺny",
+    "address": "vulica Dzianisaŭskaja 8, Minsk 220006, Belarus",
+    "phone": "+375293561188"
+  },
+  {
+    "name": "Toyota Belarus (Emir Motors)",
+    "address": "ул. Немига 3 ТЦ 2эт. 92пав, Minsk 220030, Belarus",
+    "phone": "3292220030"
+  },
+  {
+    "name": "Mon Platin Center",
+    "address": "vulica Cimirazieva 127, Minsk 220020, Belarus",
+    "phone": "127220020"
+  },
+  {
+    "name": "Plošča Niezaliežnasci",
+    "address": "Lahojski trakt 37, Minsk 220090, Belarus",
+    "phone": "37220090"
+  },
+  {
+    "name": "Norway Visa Application Center in Belarus",
+    "address": "Пр-т Независимости 179 2й этаж (напротив лифта, Minsk, Belarus",
+    "phone": "+375296726866"
+  },
+  {
+    "name": "Шоурум Sundays - товары для дачи и отдыха (Каменная горка)",
+    "address": "Vulitsa Svyardlova 11, Minsk, Belarus",
+    "phone": "+375297025349"
+  },
+  {
+    "name": "Mile",
+    "address": "prasp. Niezaliežnasci 21, Minsk, Belarus",
+    "phone": "+375173231048"
+  },
+  {
+    "name": "Mile Строительный гипермаркет",
+    "address": "vulica Cimirazieva 125/3, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Estonia Visa Application Center in Belarus",
+    "address": "Prospekt Dzerzhinskogo 106, Minsk 220116, Belarus",
+    "phone": "106220116"
+  },
+  {
+    "name": "Minskiy Fleytovyy Tsentr",
+    "address": "vulica Janki Lučyny 5, Minsk, Belarus",
+    "phone": "+375172277555"
+  },
+  {
+    "name": "Geely Center Minsk",
+    "address": "vulica Viery Charužaj 6б, Minsk 220089, Belarus",
+    "phone": "+375293141716"
+  },
+  {
+    "name": "Garden Center No 3 JV Ltd United Company",
+    "address": "Ulitsa Nalibokskaya 1, Minsk, Belarus",
+    "phone": "+375447848417"
+  },
+  {
+    "name": "Samsung Service Plaza",
+    "address": "Ulitsa Umanskaya 54, Minsk 220089, Belarus",
+    "phone": "54220089"
+  },
+  {
+    "name": "Lithuania Visa Application Center in Belarus",
+    "address": "пр.Партизанский 150 А ст. метро Могилевская Минск, 220102, Belarus",
+    "phone": "150220102"
+  },
+  {
+    "name": "A1 Digital Center",
+    "address": "vulica Niamiha 5, Minsk, Belarus",
+    "phone": "+375295757575"
+  },
+  {
+    "name": "Ў Gallery of Contemporary Art",
+    "address": "vulica Žylunoviča 4, Minsk 220026, Belarus",
+    "phone": "+375172217111"
+  },
+  {
+    "name": "Mile Строительный гипермаркет",
+    "address": "vulica Viery Charužaj 2, Minsk 220005, Belarus",
+    "phone": "+375445571880"
+  },
+  {
+    "name": "Russia Visa Application Center",
+    "address": "vulica Viery Charužaj 1a, Minsk 220089, Belarus",
+    "phone": "+375172863004"
+  },
+  {
+    "name": "Belblank",
+    "address": "вуліца Гашкевіча 3, Minsk 220112, Belarus",
+    "phone": "+375445291977"
+  },
+  {
+    "name": "HUAWEI Сервисный центр",
+    "address": "vulica Jasienina 76, Minsk, Belarus",
+    "phone": "+375172550710"
+  },
+  {
+    "name": "Sony Centre",
+    "address": "vulica Piatra Mscislaŭca 9, Minsk, Belarus",
+    "phone": "+375292010219"
+  },
+  {
+    "name": "Flormar",
+    "address": "prasp. Niezaliežnasci 54, Minsk 220089, Belarus",
+    "phone": "54220089"
+  },
+  {
+    "name": "VFS Global Poland Visa Application Center Визовый центр Польши VFS Global",
+    "address": "prasp. Niezaliežnasci 54, Minsk 220089, Belarus",
+    "phone": "54220089"
+  },
+  {
+    "name": "Marko",
+    "address": "vulica Labanka 94, Minsk, Belarus",
+    "phone": "+375173751836"
+  },
+  {
+    "name": "Minsk",
+    "address": "prasp. Niezaliežnasci 171, Minsk, Belarus",
+    "phone": "+375173882600"
+  },
+  {
+    "name": "5 Element",
+    "address": "vulica Kaĺvaryjskaja 24, Minsk, Belarus",
+    "phone": "+375173735219"
+  },
+  {
+    "name": "Korona",
+    "address": "vulica Kaĺvaryjskaja 24, Minsk, Belarus",
+    "phone": "+375173735219"
+  },
+  {
+    "name": "Спортивный магазин Sport-Center.by №1",
+    "address": "Ulitsa Petra Glebki 5, Minsk, Belarus",
+    "phone": "+375173621760"
+  },
+  {
+    "name": "Mile",
+    "address": "vulica Surhanava 57б, Minsk 220100, Belarus",
+    "phone": "57220100"
+  },
+  {
+    "name": "Semena V Sadovyy Tsentr \"Ogorodik\"",
+    "address": "Prasp. Zukava 44, Minsk 220089, Belarus",
+    "phone": "44220089"
+  },
+  {
+    "name": "Victory Park",
+    "address": "вуліца Леніна 20, Minsk 220030, Belarus",
+    "phone": "20220030"
+  },
+  {
+    "name": "Čaliuskincaŭ Park of Culture and Recreation",
+    "address": "Prospekte Pobeditelei 8, Minsk, Belarus",
+    "phone": "+375173041166"
+  },
+  {
+    "name": "Belarusian Central Botanic Gardens",
+    "address": "Vulitsa Svyardlova, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Park Horkaha",
+    "address": "prasp. Niezaliežnasci, Minsk, Belarus",
+    "phone": "+375172037510"
+  },
+  {
+    "name": "Belarusian National Arts Museum",
+    "address": "prasp. Niezaliežnasci, Minsk, Belarus",
+    "phone": "+375172800449"
+  },
+  {
+    "name": "Park of Stones",
+    "address": "vulica Surhanava 2в, Minsk, Belarus",
+    "phone": "+375173796915"
+  },
+  {
+    "name": "Komarovsky Market",
+    "address": "vulica Viery Charužaj 8, Minsk 220100, Belarus",
+    "phone": "+375172926608"
+  },
+  {
+    "name": "Mikhailovsky Garden Square",
+    "address": "vulica Frunze 2, Minsk, Belarus",
+    "phone": "+375172944252"
+  },
+  {
+    "name": "Cat museum",
+    "address": "vulica Piatra Mscislaŭca 9, Minsk, Belarus",
+    "phone": "+375292010219"
+  },
+  {
+    "name": "Lenin Monument",
+    "address": "vulica Lienina 50, Minsk 220030, Belarus",
+    "phone": "50220030"
+  },
+  {
+    "name": "All Saints Church",
+    "address": "Ulitsa Sovetskaya 15, Minsk, Belarus",
+    "phone": "+375172004415"
+  },
+  {
+    "name": "Janka Kupała Park",
+    "address": "улица Замковая 20, Grodno, Belarus",
+    "phone": "+375152718688"
+  },
+  {
+    "name": "Janka Kupała Park",
+    "address": "vulica Parnikovaja, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Dudutki",
+    "address": "20 Pobediteley Avenue Minsk BY-HM, 220020, Belarus",
+    "phone": "20220020"
+  },
+  {
+    "name": "Minsk-Arena",
+    "address": "prasp. Niezaliežnasci 21, Minsk, Belarus",
+    "phone": "+375173231048"
+  },
+  {
+    "name": "The Belarusian State Museum of Rural Architecture and Life",
+    "address": "vulica Babrujskaja 6, Minsk, Belarus",
+    "phone": "+375173286426"
+  },
+  {
+    "name": "Plošča Pieramohi",
+    "address": "vulica Prytyckaha 156, Minsk, Belarus",
+    "phone": "+375297392325"
+  },
+  {
+    "name": "Palace of the Republic",
+    "address": "prasp. Niezaliežnasci, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "ТЦ Замок",
+    "address": "Ulitsa Michasia Lynkova 17, Minsk, Belarus",
+    "phone": "+375293696123"
+  },
+  {
+    "name": "Independence Square, Minsk",
+    "address": "Ulitsa Engel'sa 7, Minsk, Belarus",
+    "phone": "+375173276081"
+  },
+  {
+    "name": "Island of Tears",
+    "address": "prasp. Niezaliežnasci 6, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Свята-Духаў кафедральны сабор",
+    "address": "отель \"Пекин, vulica Čyrvonaarmiejskaja 36, Minsk 220030, Belarus",
+    "phone": "36220030"
+  },
+  {
+    "name": "Dinamo Stadium",
+    "address": "praspekt Niezaliežnasci, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Minsk Guide",
+    "address": "Nezavisimosti Prospekt 37, Minsk 220005, Belarus",
+    "phone": "37220005"
+  },
+  {
+    "name": "Kastryčnickaja",
+    "address": "vulica Kirava 8, Minsk, Belarus",
+    "phone": "+375172430911"
+  },
+  {
+    "name": "Vierchni Horad",
+    "address": "Cyril and Methodius St 3, Minsk, Belarus",
+    "phone": "+375293050598"
+  },
+  {
+    "name": "Plošča Lienina",
+    "address": "prasp. Niezaliežnasci 3/2, Minsk, Belarus",
+    "phone": "+375291259090"
+  },
+  {
+    "name": "Kvestrum - Kvesty",
+    "address": "Oktoberpl. 1, Minsk, Belarus",
+    "phone": "+375172299039"
+  },
+  {
+    "name": "TELEPORT",
+    "address": "Prospekte Pobeditelei 65, Minsk, Belarus",
+    "phone": "+375173095450"
+  },
+  {
+    "name": "GUM",
+    "address": "Ploshchad' Svobody 9, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Las-Legas",
+    "address": "Prospekte Pobeditelei 111, Minsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Немига",
+    "address": "vul. Taškienckaja 40, Minsk, Belarus",
+    "phone": "+375173453265"
+  },
+  {
+    "name": "Minsk Marriott Hotel",
+    "address": "д.Птичь, Ptich', Belarus",
+    "phone": "+375296025250"
+  },
+  {
+    "name": "Minsk Belarus",
+    "address": "Krasnoarmeyskaya Ulitsa 2, Mir 231444, Belarus",
+    "phone": "+375159636270"
+  },
+  {
+    "name": "New Castle",
+    "address": "Krasnoarmeyskaya Ulitsa 2, Mir 231444, Belarus",
+    "phone": "+375159636270"
+  },
+  {
+    "name": "National Airport Minsk",
+    "address": "prasp. Niezaliežnasci 25, Minsk 220100, Belarus",
+    "phone": "25220100"
+  },
+  {
+    "name": "Willing Hotel Minsk",
+    "address": "Vulica Kalinoŭskaha 121, Minsk 220086, Belarus",
+    "phone": "121220086"
+  },
+  {
+    "name": "Church of Saints Simon and Helena",
+    "address": "plošča Paryžskaj Kamuny 1, Minsk 220029, Belarus",
+    "phone": "+375172431041"
+  },
+  {
+    "name": "United States Holocaust Memorial Museum",
+    "address": "vulica Azhura 8, Minsk 220088, Belarus",
+    "phone": "+375173800632"
+  },
+  {
+    "name": "Memorial to the Murdered Jews of Europe",
+    "address": "vulica Internacyjanaĺnaja 23, Minsk, Belarus",
+    "phone": "+375296423183"
+  },
+  {
+    "name": "Barbican Centre",
+    "address": "Prajezd Čyžeŭskich 10, Minsk, Belarus",
+    "phone": "+375295071376"
+  },
+  {
+    "name": "Dana mall",
+    "address": "prasp. Niezaliežnasci 116, Minsk 220114, Belarus",
+    "phone": "116220114"
+  },
+  {
+    "name": "National Art Museum of Ukraine",
+    "address": "Ulitsa Elizy Ozheshko 23, Grodno 230023, Belarus",
+    "phone": "23230023"
+  },
+  {
+    "name": "Zamkovyj",
+    "address": "Sialianskaja St 16, Gomel, Belarus",
+    "phone": "+375232509090"
+  },
+  {
+    "name": "Amaks Vizit Hotel",
+    "address": "Pryvakzaĺnaja Square 1, Gomel, Belarus",
+    "phone": "+375293222526"
+  },
+  {
+    "name": "City-Hotel",
+    "address": "Iryninskaja St, Gomel, Belarus",
+    "phone": "+375445112728"
+  },
+  {
+    "name": "Chisto Hotel",
+    "address": "Ulitsa Brat'yev Lizyukovykh 4а, Gomel 246000, Belarus",
+    "phone": "+375291737373"
+  },
+  {
+    "name": "Homieĺ Hotel",
+    "address": "Gagarin Street 6, Gomel, Belarus",
+    "phone": "+375291750450"
+  },
+  {
+    "name": "Prestige Hotel",
+    "address": "Pryvakzaĺnaja Square 1, Gomel, Belarus",
+    "phone": "+375255492721"
+  },
+  {
+    "name": "Paradise Hotel",
+    "address": "Ulitsa Golovatskogo 72, Gomel, Belarus",
+    "phone": "+375333605784"
+  },
+  {
+    "name": "Gostinitsa Gotsor Po Igrovym Vidam Sporta",
+    "address": "vulica Iĺiča 150, Gomel 246042, Belarus",
+    "phone": "150246042"
+  },
+  {
+    "name": "Sož",
+    "address": "Kisialioŭ St 6, Gomel 246017, Belarus",
+    "phone": "+375445353017"
+  },
+  {
+    "name": "Villa Rosa Mini-Hotel",
+    "address": "улица Чкалова 44, Krasnoe Selishche, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Turyst",
+    "address": "вуліца Рачная 15, Chenki 247001, Belarus",
+    "phone": "15247001"
+  },
+  {
+    "name": "Gostevoy Dom Pugachevskiy",
+    "address": "Ulitsa Oktyabr'skaya 113, Chenki, Belarus",
+    "phone": "+74991105879"
+  },
+  {
+    "name": "Hvalana Apartments",
+    "address": "Derevnya Aleksandrovka, Borovaya 247506, Belarus",
+    "phone": "+375234052126"
+  },
+  {
+    "name": "\"Cyrk\" Hotel",
+    "address": "дом отдыха \"Белый Берег, 247000, Belarus",
+    "phone": "+375333941823"
+  },
+  {
+    "name": "Centraĺnaja",
+    "address": "ул.Речная 9, Chenki, Belarus",
+    "phone": "+375336371918"
+  },
+  {
+    "name": "5",
+    "address": "1й, zavulak Krupskaj 1-y 1д, Gomel 246015, Belarus",
+    "phone": "111246015"
+  },
+  {
+    "name": "Nadzieja",
+    "address": "vulica Nabiarežnaja 62, Gomel, Belarus",
+    "phone": "+375296500056"
+  },
+  {
+    "name": "Homieĺ Hockey Club",
+    "address": "Пирогова, 39, Gomel 246042, Belarus",
+    "phone": "39246042"
+  },
+  {
+    "name": "Paul Marine apartments",
+    "address": "Volgogradskaya Ulitsa 14, Gomel, Belarus",
+    "phone": "+375232404515"
+  },
+  {
+    "name": "Cottage Svajaki",
+    "address": "Mazuraŭ St 112, Gomel, Belarus",
+    "phone": "+375232565938"
+  },
+  {
+    "name": "Belaya Dacha Apartment",
+    "address": "Привокзальная 3-а второй этаж, Gomel 246017, Belarus",
+    "phone": "+375447294961"
+  },
+  {
+    "name": "Kastryčnickaja",
+    "address": "Karl Marks St, Gomel 246050, Belarus",
+    "phone": "+375444870712"
+  },
+  {
+    "name": "Хостел Привокзальный",
+    "address": "Ulitsa Rabochaya 3, Gomel, Belarus",
+    "phone": "+375232512579"
+  },
+  {
+    "name": "Siarhiejeŭski",
+    "address": "Poselok Chenki, Oktyabr'skaya 117, Gomel 247001, Belarus",
+    "phone": "117247001"
+  },
+  {
+    "name": "River Club",
+    "address": "Mazuraŭ St 112, Gomel, Belarus",
+    "phone": "+375232565938"
+  },
+  {
+    "name": "Khostel Geo",
+    "address": "ap. 23, ulica Valataŭskaja 2, Gomel, Belarus",
+    "phone": "+375298668050"
+  },
+  {
+    "name": "Apartments on Pirogova 39",
+    "address": "Ulitsa Golovatskogo 19, Gomel, Belarus",
+    "phone": "+375445545608"
+  },
+  { "name": "Dynama", "address": "Kožar St 5, Gomel, Belarus", "phone": null },
+  {
+    "name": "Homieĺ Hockey Club",
+    "address": "Vatutina Street 40 A, Gomel 246014, Belarus",
+    "phone": "40246014"
+  },
+  {
+    "name": "Sunny Bank Health Resort and Spa",
+    "address": "Улица Ланге 17, въезд со стороны улицы Советская, Gomel 246050, Belarus",
+    "phone": "17246050"
+  },
+  {
+    "name": "Chenki",
+    "address": "Savieckaja St 27а, Gomel 238868, Belarus",
+    "phone": "27238868"
+  },
+  {
+    "name": "Агроусадьба Речная",
+    "address": "C. T. Baradzin St д.6, Gomel, Belarus",
+    "phone": "+375447180859"
+  },
+  {
+    "name": "Belyy Bereg",
+    "address": "Puhačoŭ St 52, Gomel, Belarus",
+    "phone": "+375291039794"
+  },
+  {
+    "name": "Agrousad'ba Rechnaya",
+    "address": "Savieckaja St 87, Gomel, Belarus",
+    "phone": "+375445545608"
+  },
+  {
+    "name": "Прованс.tut",
+    "address": "Kastryčnika Ave 46, Gomel, Belarus",
+    "phone": "+375291406288"
+  },
+  {
+    "name": "Stary Čas",
+    "address": "Rahačoŭskaja St 4, Gomel 246003, Belarus",
+    "phone": "+375447779099"
+  },
+  {
+    "name": "Befana Restaurant",
+    "address": "Savieckaja St 29а, Gomel 246050, Belarus",
+    "phone": "29246050"
+  },
+  {
+    "name": "Robin Food",
+    "address": "Savieckaja St 36, Gomel, Belarus",
+    "phone": "+375447903333"
+  },
+  {
+    "name": "Markoni",
+    "address": "Lienin Ave 20, Gomel, Belarus",
+    "phone": "+375445338851"
+  },
+  {
+    "name": "Ресторан Фасоль",
+    "address": "Biliecki spusk 1, Gomel 236000, Belarus",
+    "phone": "+375447730303"
+  },
+  {
+    "name": "La Salute",
+    "address": "Savieckaja St 29а, Gomel 246050, Belarus",
+    "phone": "29246050"
+  },
+  {
+    "name": "Patio",
+    "address": "Krest'yanskaya 14, Gomel 246050, Belarus",
+    "phone": "14246050"
+  },
+  {
+    "name": "Siabry",
+    "address": "Pieramohi Ave 4, Gomel, Belarus",
+    "phone": "+375445515152"
+  },
+  {
+    "name": "Pravans",
+    "address": "Lienin Ave 33, Gomel, Belarus",
+    "phone": "+375291350515"
+  },
+  {
+    "name": "Mama Chuana",
+    "address": "Kamunaraŭ St 6, Gomel 246050, Belarus",
+    "phone": "+375445151430"
+  },
+  {
+    "name": "Rasskazov",
+    "address": "Liaščynskaja St 153Б, Gomel, Belarus",
+    "phone": "+375296508333"
+  },
+  {
+    "name": "Nemo Restaurant",
+    "address": "34, Lienin Ave, Gomel, Belarus",
+    "phone": "+375291526502"
+  },
+  {
+    "name": "Rukkola",
+    "address": "Kastryčnika Ave 60, Gomel, Belarus",
+    "phone": "+375232406082"
+  },
+  {
+    "name": "Rumiancaŭski Restaurant",
+    "address": "Savieckaja St, Gomel 246003, Belarus",
+    "phone": "+375293242244"
+  },
+  {
+    "name": "Umi",
+    "address": "Puškin St 14, Gomel 246050, Belarus",
+    "phone": "14246050"
+  },
+  {
+    "name": "Vasiĺki",
+    "address": "Katunin Street 14, Gomel 246017, Belarus",
+    "phone": "14246017"
+  },
+  {
+    "name": "Kunzhut",
+    "address": "Ulitsa Yaroslavskaya 19, Gomel, Belarus",
+    "phone": "+375445139330"
+  },
+  {
+    "name": "Ivieryja",
+    "address": "Lenin Square 2, Gomel, Belarus",
+    "phone": "+375291557777"
+  },
+  {
+    "name": "Chinkaĺnia",
+    "address": "Rahačoŭskaja St 1A-3, Gomel 246003, Belarus",
+    "phone": "13246003"
+  },
+  {
+    "name": "Wok",
+    "address": "Liaščynskaja St 153Б, Gomel, Belarus",
+    "phone": "+375291699695"
+  },
+  {
+    "name": "Ryŭjera",
+    "address": "Savieckaja vulica 12, Gomel, Belarus",
+    "phone": "+375445959595"
+  },
+  {
+    "name": "Chinkaĺnia",
+    "address": "Padhornaja St 10Г, Gomel, Belarus",
+    "phone": "+375445389898"
+  },
+  {
+    "name": "Ivieryja",
+    "address": "Savieckaja St 57, Gomel 246003, Belarus",
+    "phone": "57246003"
+  },
+  {
+    "name": "harbor.By",
+    "address": "Kiraŭ St д. 1, Gomel 246050, Belarus",
+    "phone": "+375291434340"
+  },
+  {
+    "name": "Wok",
+    "address": "Mazuraŭ St 114, Gomel 246000, Belarus",
+    "phone": "114246000"
+  },
+  {
+    "name": "Kunzhut",
+    "address": "Pryvakzaĺnaja St 1, Gomel 246000, Belarus",
+    "phone": "+375447110033"
+  },
+  {
+    "name": "Spartakaŭski Zamak",
+    "address": "Lienin Ave 41, Gomel 246050, Belarus",
+    "phone": "41246050"
+  },
+  {
+    "name": "Čabarok Restaurant",
+    "address": "Lienin Ave 49, Gomel, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Restoran Villa Grilla",
+    "address": "ул. Советская, д97, к5, Gomel 246032, Belarus",
+    "phone": "975246032"
+  },
+  {
+    "name": "Menu.by",
+    "address": "Гандлёвы цэнтр Сакрэт, Gagarin Street 65, Gomel, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Любава",
+    "address": "Abjaznaja St 9, Gomel, Belarus",
+    "phone": "+375447074719"
+  },
+  {
+    "name": "Kafe Gruzinskoy Kukhni Kinto",
+    "address": "Biliecki spusk 1, Gomel 236000, Belarus",
+    "phone": "+375447660299"
+  },
+  {
+    "name": "King Fast Food",
+    "address": "Katunin Street 2, Gomel 246000, Belarus",
+    "phone": "+375255008131"
+  },
+  {
+    "name": "Italija",
+    "address": "Mazuraŭ St 70б, Gomel 246006, Belarus",
+    "phone": "70246006"
+  },
+  {
+    "name": "Dodo Pizza",
+    "address": "Mazuraŭ St 70-72, Gomel, Belarus",
+    "phone": null
+  },
+  {
+    "name": "THE BOX 99",
+    "address": "Sevastopol'skaya 43, Gomel, Belarus",
+    "phone": "+375232363048"
+  },
+  {
+    "name": "Station One Cafe",
+    "address": "Kosaraŭ St 18, Gomel 246012, Belarus",
+    "phone": "18246012"
+  },
+  {
+    "name": "Чараўніца",
+    "address": "Savieckaja St 23, Gomel, Belarus",
+    "phone": "+375445164450"
+  },
+  {
+    "name": "Siarhiejeŭski",
+    "address": "ул, Rečycki Ave 62а, Gomel, Belarus",
+    "phone": "+375445327717"
+  },
+  {
+    "name": "Kebab Bar",
+    "address": "Čačerskaja St 3А, Gomel 246038, Belarus",
+    "phone": "+375445813492"
+  },
+  {
+    "name": "Бонсай | Пицца и суши в Гомеле | Доставка еды",
+    "address": "Bahdan Chmiaĺnicki St 80А, Gomel 246036, Belarus",
+    "phone": "80246036"
+  },
+  {
+    "name": "Papa John's Pizza",
+    "address": "vulica Iĺiča 85, Gomel 246042, Belarus",
+    "phone": "85246042"
+  },
+  {
+    "name": "Disko-Bar Kazantip",
+    "address": "Kiraŭ St 20, Gomel, Belarus",
+    "phone": "+375336620055"
+  },
+  {
+    "name": "Taboo Sushi Bar",
+    "address": "praspiekt Kasmanaŭtaŭ 61, Gomel, Belarus",
+    "phone": "+375293144444"
+  },
+  {
+    "name": "Kunžut",
+    "address": "Savieckaja St 2, Gomel 246050, Belarus",
+    "phone": "+375291290030"
+  },
+  {
+    "name": "Shaurmaniya Gomel",
+    "address": "Lienin Ave 3, Gomel 246050, Belarus",
+    "phone": "+375232320101"
+  },
+  {
+    "name": "GARAGE food&coffee",
+    "address": "vulica Dastajeŭskaha 1-1, Gomel 246000, Belarus",
+    "phone": "11246000"
+  },
+  {
+    "name": "tegal restaurant",
+    "address": "Kožar St 6а, Gomel 246028, Belarus",
+    "phone": "+375445051010"
+  },
+  {
+    "name": "Novy Čas",
+    "address": "Ulitsa Khimakova 16, Gomel 246014, Belarus",
+    "phone": "16246014"
+  },
+  {
+    "name": "Пиццерия-Суши-Бар \"Рабиналли\"",
+    "address": "Lienin Ave 6, Gomel 246050, Belarus",
+    "phone": "+375232266101"
+  },
+  {
+    "name": "Stolovaja UO Gomel'Skii Gosudarstvennyi Universitet Im F. Skoriny",
+    "address": "Padhornaja St 12/1, Gomel 246038, Belarus",
+    "phone": "121246038"
+  },
+  {
+    "name": "L'Dinka Kafe Filiala PK OAO Gomel'Transneft' Druzhba",
+    "address": "Rečycki Ave 5, Gomel, Belarus",
+    "phone": "+375232406600"
+  },
+  {
+    "name": "GARAGE food&coffee",
+    "address": "Iryninskaja St 6, Gomel 246000, Belarus",
+    "phone": "+375291585858"
+  },
+  {
+    "name": "Dodo Pitstsa",
+    "address": "ТЦ Мандарин, Rečycki Ave 5В, Gomel, Belarus",
+    "phone": "+375445837197"
+  },
+  {
+    "name": "Burger King",
+    "address": "улица М.Г. Ефремова 11, Gomel 246031, Belarus",
+    "phone": "11246031"
+  },
+  {
+    "name": "PNVI",
+    "address": "Artilleriyskaya Ulitsa 6, Gomel, Belarus",
+    "phone": "+375447575213"
+  },
+  {
+    "name": "Сталовая ЕЖА",
+    "address": "Kosaraŭ St 18, Gomel 246012, Belarus",
+    "phone": "18246012"
+  },
+  {
+    "name": "Homieĺablaŭtatrans Canteen",
+    "address": "Mazuraŭ St 110, Gomel, Belarus",
+    "phone": "+375232784094"
+  },
+  {
+    "name": "Barak",
+    "address": "Savieckaja St 46, Gomel, Belarus",
+    "phone": "+375445327717"
+  },
+  {
+    "name": "Stolovaya Zao Gomel'skiy Vsz",
+    "address": "любилейная гомель дровинская, 154172, Belarus",
+    "phone": "+375299578408"
+  },
+  {
+    "name": "Этна Кафе",
+    "address": "Ulitsa Lange 17, Gomel, Belarus",
+    "phone": "+375447855805"
+  },
+  {
+    "name": "7 Fridays",
+    "address": "Piesin St, Gomel, Belarus",
+    "phone": "+375232573726"
+  },
+  {
+    "name": "Піццбург",
+    "address": "vulica Iĺiča 51, Gomel 246047, Belarus",
+    "phone": "51246047"
+  },
+  {
+    "name": "Bulldog Pub | Бульдог Паб",
+    "address": "Rečycki Ave 5В, Gomel 246027, Belarus",
+    "phone": "+3752919306007767"
+  },
+  {
+    "name": "City Hot Dog",
+    "address": "Rahačoŭskaja St 4, Gomel 246003, Belarus",
+    "phone": "+375333953956"
+  },
+  {
+    "name": "Сталовая Аблспажыўсаюза",
+    "address": "Karpovič St 22, Gomel, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Čyrvonaja Panda",
+    "address": "Puškin St 2, Gomel, Belarus",
+    "phone": "+375296018625"
+  },
+  {
+    "name": "Arliekina",
+    "address": "Советская улица 12, Gomel, Belarus",
+    "phone": "+375445757575"
+  },
+  {
+    "name": "Фаст Пицца",
+    "address": "Bahdan Chmiaĺnicki St 79, Gomel 246027, Belarus",
+    "phone": "79246027"
+  },
+  {
+    "name": "Dodo Pica",
+    "address": "Frunze Street, Gomel, Belarus",
+    "phone": "+375232755005"
+  },
+  {
+    "name": "Burger Club",
+    "address": "Kosareva Str 18, Gomel 246012, Belarus",
+    "phone": "18246012"
+  },
+  {
+    "name": "Teatraĺny",
+    "address": "Kamunaraŭ St 14, Gomel 246050, Belarus",
+    "phone": "14246050"
+  },
+  {
+    "name": "Slavnaya шаверма",
+    "address": "Ulitsa Rabochaya 3, Gomel, Belarus",
+    "phone": "+375232512579"
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Ulitsa Rabochaya 23, Gomel, Belarus",
+    "phone": "+375232592552"
+  },
+  {
+    "name": "Arabika",
+    "address": "Savieckaja St 29а, Gomel 246050, Belarus",
+    "phone": "29246050"
+  },
+  {
+    "name": "Stolovaja Chpup Gomel'Oboi",
+    "address": "Savieckaja St 3, Gomel 246050, Belarus",
+    "phone": "+375291810080"
+  },
+  {
+    "name": "Kapibara Sushi",
+    "address": "Bresckaja St 8, Gomel 246023, Belarus",
+    "phone": "+375291363177"
+  },
+  {
+    "name": "Pitstseriya Vesta",
+    "address": "Savieckaja St 2, Gomel 246050, Belarus",
+    "phone": "+375296067576"
+  },
+  {
+    "name": "Restaurant Pyramida",
+    "address": "Savieckaja St 5-13, Gomel, Belarus",
+    "phone": "+375232232052"
+  },
+  {
+    "name": "Kvaternik",
+    "address": "vulica Pracoŭnaja 3а, Gomel 246050, Belarus",
+    "phone": "+375445139330"
+  },
+  {
+    "name": "Stolovaja OAO Gomel'Skii Radiozavod",
+    "address": "Ulitsa Narodnogo Opolcheniya 4а, Gomel 246035, Belarus",
+    "phone": "+375299966690"
+  },
+  {
+    "name": "Mama Doma V Tts \"Sekret\"",
+    "address": "Puškin St 14, Gomel 246050, Belarus",
+    "phone": "14246050"
+  },
+  {
+    "name": "Raz Dva Sushi",
+    "address": "Volgogradskaya Ulitsa 45, Gomel 246023, Belarus",
+    "phone": "45246023"
+  },
+  {
+    "name": "Shaurma Gomel Za Obe Shchoki",
+    "address": "Savieckaja St 63-2, Gomel 246003, Belarus",
+    "phone": "632246003"
+  },
+  {
+    "name": "Burger Lux",
+    "address": "Rečycki Ave 62a, Gomel 246012, Belarus",
+    "phone": "62246012"
+  },
+  {
+    "name": "Dostavka \"Gran-Pri\", Kafe \"Rokko\"",
+    "address": "Lienin Ave 10, Gomel, Belarus",
+    "phone": "+375296657795"
+  },
+  {
+    "name": "Smile Coffee",
+    "address": "vulica Iĺiča 371, Gomel, Belarus",
+    "phone": "+375447222654"
+  },
+  {
+    "name": "SozhskiHub",
+    "address": "Pieramohi Ave 16, Gomel, Belarus",
+    "phone": "+375296440666"
+  },
+  {
+    "name": "Siti Shaurma King",
+    "address": "vulica Baŭmana 1, Gomel, Belarus",
+    "phone": "+375445847000"
+  },
+  {
+    "name": "Pieršy",
+    "address": "Savieckaja St 44, Gomel, Belarus",
+    "phone": "+375293081313"
+  },
+  {
+    "name": "Baćki",
+    "address": "Rečycki Ave 62a, Gomel 246012, Belarus",
+    "phone": "62246012"
+  },
+  {
+    "name": "Есть Поесть",
+    "address": "Pieramohi Ave 16, Gomel, Belarus",
+    "phone": "+375296440666"
+  },
+  {
+    "name": "Shaurma King",
+    "address": "Rahačoŭskaja St 2, Gomel 246003, Belarus",
+    "phone": "+375299720951"
+  },
+  {
+    "name": "Coffee&Toast",
+    "address": "Rahačoŭskaja St 2, Gomel 246003, Belarus",
+    "phone": "+375299720951"
+  },
+  {
+    "name": "Jeŭropa",
+    "address": "Savieckaja St 44, Gomel, Belarus",
+    "phone": "+375293081313"
+  },
+  {
+    "name": "Stolovaya Bteu Pk",
+    "address": "Kiraŭ St 35, Gomel, Belarus",
+    "phone": "+375293085556"
+  },
+  {
+    "name": "Torgovyy Tsentr \"Karusel'\", Gomel",
+    "address": "Savieckaja St 39А, Ашмяны 231103, Belarus",
+    "phone": "39231103"
+  },
+  {
+    "name": "Mandarin Plaza",
+    "address": "Savieckaja St 60, Gomel 246003, Belarus",
+    "phone": "60246003"
+  },
+  {
+    "name": "Sakret",
+    "address": "Pieramohi Ave 21, Gomel 246017, Belarus",
+    "phone": "21246017"
+  },
+  {
+    "name": "Brendovaya Odezhda Iz Germanii",
+    "address": "14, Rečycki Ave 12, Gomel, Belarus",
+    "phone": null
+  },
+  {
+    "name": "VapourStore",
+    "address": "Улица Гагарина , 65 2 этаж 55 павильон, Gomel 246028, Belarus",
+    "phone": "65255246028"
+  },
+  {
+    "name": "Mebel'nyy Kvartal Torgovyy Tsentr",
+    "address": "Ofisnoye Zdaniye, Rečycki Ave 5В, Gomel 246027, Belarus",
+    "phone": "+375291430145"
+  },
+  {
+    "name": "Homieĺ",
+    "address": "Savieckaja St 60, Gomel 246003, Belarus",
+    "phone": "60246003"
+  },
+  {
+    "name": "Ooo \"Al'terra\"",
+    "address": "Barykin St 155, Gomel 246008, Belarus",
+    "phone": "155246008"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Gagarin Street 65, Gomel, Belarus",
+    "phone": "+375445670050"
+  },
+  {
+    "name": "De Facto",
+    "address": "Savieckaja St 149, Gomel 246007, Belarus",
+    "phone": "149246007"
+  },
+  {
+    "name": "Udačnik",
+    "address": "Sovyetskaya Street 66, Rečyca 247500, Belarus",
+    "phone": "66247500"
+  },
+  {
+    "name": "5 Element",
+    "address": "Ulitsa Shilova д.24, Gomel, Belarus",
+    "phone": "+375296665644"
+  },
+  {
+    "name": "Electrosila",
+    "address": "м. 142, ул. Героев-Подпольщиков 18 Ефремовский рынок, Gomel 246000, Belarus",
+    "phone": "14218246000"
+  },
+  {
+    "name": "Dachnik-Udachnik",
+    "address": "завулак Ільіча 8-ы, Gomel, Belarus",
+    "phone": "+375447979797"
+  },
+  {
+    "name": "Kapel'nyy Poliv. Spanbond. Plenka. Tovary Dlya Turizma Ip Dem'yantsev A.v.",
+    "address": "Вайсковая вуліца 5б, Gomel, Belarus",
+    "phone": "+375291815505"
+  },
+  {
+    "name": "CAT",
+    "address": "Jafremaŭ St 63, Gomel 246049, Belarus",
+    "phone": "63246049"
+  },
+  {
+    "name": "Electrosila",
+    "address": "ТРЦ Кристаll, vulica Iĺiča 333, Gomel 246013, Belarus",
+    "phone": "333246013"
+  },
+  {
+    "name": "OMA Hardware store",
+    "address": "Savieckaja St 97/3, Gomel, Belarus",
+    "phone": "+375445093086"
+  },
+  {
+    "name": "Electrosila",
+    "address": "Речицкий пр-т 5в, ТЦ ''Мандарин-Плаза'', 2 этаж, место 94, Gomel 246000, Belarus",
+    "phone": "5294246000"
+  },
+  {
+    "name": "Salon \"Nuga Best\"",
+    "address": "Центральный рынок, Karpovič St 28, Gomel, Belarus",
+    "phone": "+375293525532"
+  },
+  {
+    "name": "Avtorazborka Gomel",
+    "address": "Sialianskaja St 40, Gomel, Belarus",
+    "phone": "+375291704536"
+  },
+  {
+    "name": "Podbor Avto. Avtopodbor Gomel', Belarus'",
+    "address": "Kosaraŭ St 4, Gomel 246012, Belarus",
+    "phone": "+375232227171"
+  },
+  {
+    "name": "Avtoprivoz",
+    "address": "Rečycki Ave 3, Gomel, Belarus",
+    "phone": "+375293067336"
+  },
+  {
+    "name": "Mir Motorov - Gomel",
+    "address": "Гандлёвы цэнтр Сакрэт, Gagarin Street 65, Gomel 246017, Belarus",
+    "phone": "65246017"
+  },
+  {
+    "name": "Prosto Avtoservis",
+    "address": "Savieckaja St 200, Gomel 246007, Belarus",
+    "phone": "200246007"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Гандлёвы цэнтр Сакрэт, Гомель улица Гагарина 65 ТЦ Секрет, этаж 1, Gagarin Street 65, Gomel 240050, Belarus",
+    "phone": "65165240050"
+  },
+  {
+    "name": "The Mall at Millenia",
+    "address": "ТЦ Мандарин, Rečycki Ave 5в, Gomel 246000, Belarus",
+    "phone": "+375232296494"
+  },
+  {
+    "name": "Columbiana Centre",
+    "address": "Rečycki Ave 5в, Gomel, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "Lakeside Shopping Center",
+    "address": "Mezhdunarodnaya Ulitsa 30, Gomel, Belarus",
+    "phone": "+375333826961"
+  },
+  {
+    "name": "St Johns Town Center",
+    "address": "Karpovicha street 28, Gomel 246050, Belarus",
+    "phone": "28246050"
+  },
+  {
+    "name": "Ala Moana Center",
+    "address": "Savieckaja St 52, Gomel, Belarus",
+    "phone": "+375232332016"
+  },
+  {
+    "name": "Fashion Valley",
+    "address": "пр.Партизанский 150 А ст. метро Могилевская Минск, 220102, Belarus",
+    "phone": "150220102"
+  },
+  {
+    "name": "Jordan Creek Town Center",
+    "address": "3 МЖК Солнечный к, Gomel, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Fashion Island",
+    "address": "Savieckaja St 97/4, Gomel, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "The Shops at Mission Viejo",
+    "address": "Il'icha 41, Gomel, Belarus",
+    "phone": "+375447441522"
+  },
+  {
+    "name": "Pier Park",
+    "address": "ТЦ Мандарин, Rečycki Ave 5В, Gomel 246000, Belarus",
+    "phone": "+375232286198"
+  },
+  {
+    "name": "South Coast Plaza",
+    "address": "Kosaraŭ St 4, Gomel, Belarus",
+    "phone": "+375232223838"
+  },
+  {
+    "name": "MAR Shopping Algarve",
+    "address": "Inšaharodniaja 8th St д.2, корп.8, Gomel 246025, Belarus",
+    "phone": "828246025"
+  },
+  {
+    "name": "Chula Vista Center",
+    "address": "Pieramohi Ave 2а, Gomel 246000, Belarus",
+    "phone": "+375447335083"
+  },
+  {
+    "name": "Kings Plaza Shopping Center",
+    "address": "ТЦ \"Виктория, Karpovič St 28к1, Gomel, Belarus",
+    "phone": "+375296819207"
+  },
+  {
+    "name": "Hillside Village Shopping Center",
+    "address": "Bahdan Chmiaĺnicki St 59/2, Gomel 246027, Belarus",
+    "phone": "592246027"
+  },
+  {
+    "name": "Anaheim Plaza",
+    "address": "Гомель Речицкий проспект 5В ТЦ 'Мандарин Плаза, 246000, Belarus",
+    "phone": "+375232277578"
+  },
+  {
+    "name": "Irvine Spectrum Center",
+    "address": "Cialiehin St 19, Gomel, Belarus",
+    "phone": "+375447616529"
+  },
+  {
+    "name": "The Gateway",
+    "address": "Chatajevič St 9, Gomel 246502, Belarus",
+    "phone": "+375336690333"
+  },
+  {
+    "name": "Hillsdale Shopping Center",
+    "address": "Teĺman St 4, Dobruš 247050, Belarus",
+    "phone": "+375233356670"
+  },
+  {
+    "name": "The Mall at Johnson City",
+    "address": "Savieckaja St 4, Gomel 246000, Belarus",
+    "phone": "+375232328328"
+  },
+  {
+    "name": "Westfield Mission Valley",
+    "address": "Алми, ул. Сухого 2, Gomel, Belarus",
+    "phone": "+375296774439"
+  },
+  {
+    "name": "Town Center at Boca Raton",
+    "address": "Lienin Ave 3, Gomel, Belarus",
+    "phone": "+375445184444"
+  },
+  {
+    "name": "Chandler Fashion Center",
+    "address": "Хатаевича, 9, гипермаркет \"Евроопт\"; (прикассовая зона, Gomel, Belarus",
+    "phone": "+375296774439"
+  },
+  {
+    "name": "Altamonte Mall",
+    "address": "vulica 30 hod BSSR д.1, Gomel, Belarus",
+    "phone": "+375447390330"
+  },
+  {
+    "name": "The Shops at Nanuet",
+    "address": "Savieckaja St 39, Gomel 246000, Belarus",
+    "phone": "39246000"
+  },
+  {
+    "name": "Services for center TehProriv (telefonov Repair in Chernigov)",
+    "address": "Rečycki Ave 5в, Gomel, Belarus",
+    "phone": "+375232271566"
+  },
+  {
+    "name": "Yorkdale Shopping Centre",
+    "address": "Kiraŭ St 59, Gomel 246000, Belarus",
+    "phone": "59246000"
+  },
+  {
+    "name": "Westfield Century City",
+    "address": "Gagarin Street 15, Gomel 246000, Belarus",
+    "phone": "15246000"
+  },
+  {
+    "name": "Del Monte Shopping Center",
+    "address": "Savieckaja St 106, Gomel 246028, Belarus",
+    "phone": "106246028"
+  },
+  {
+    "name": "Scottsdale Fashion Square",
+    "address": "Savieckaja St 141А, Gomel 246007, Belarus",
+    "phone": "141246007"
+  },
+  {
+    "name": "Woodland Mall",
+    "address": "вуліца Чарнігаўская 22б/2, Gomel 246042, Belarus",
+    "phone": "222246042"
+  },
+  {
+    "name": "Lindale Mall",
+    "address": "проспект Речицкий, 5в, 2-ой этаж, Gomel 246027, Belarus",
+    "phone": "52246027"
+  },
+  {
+    "name": "Bella Terra",
+    "address": "Rečycki Ave 5В, Gomel 246027, Belarus",
+    "phone": "+375232567323"
+  },
+  {
+    "name": "Lakeside Mall New Orleans",
+    "address": "Savieckaja St 97 к4, Gomel 246003, Belarus",
+    "phone": "974246003"
+  },
+  {
+    "name": "Palace of the Rumiancaŭ and the Paskievič",
+    "address": "Savieckaja St 39, Gomel 246003, Belarus",
+    "phone": "39246003"
+  },
+  {
+    "name": "Homieĺ Regional Museum of Military Glory",
+    "address": "Puškin St 5, Gomel 246050, Belarus",
+    "phone": "+375232341129"
+  },
+  {
+    "name": "Gomel State Circus",
+    "address": "Savieckaja St 27, Gomel 246050, Belarus",
+    "phone": "27246050"
+  },
+  {
+    "name": "Cathedral of St. Peter and St. Paul",
+    "address": "Puškin St 1, Gomel, Belarus",
+    "phone": "+375232341129"
+  },
+  {
+    "name": "Homieĺ Palace and Park Ensemble's Park",
+    "address": "Lenin Square 4, Gomel 246050, Belarus",
+    "phone": "+375232703818"
+  },
+  {
+    "name": "Memorial Sign of Concentration Camp Prisoners",
+    "address": "пл. Леніна, 4, Gomel 246050, Belarus",
+    "phone": "+375232703818"
+  },
+  {
+    "name": "Hotel Metropol",
+    "address": "Lieninskaja St 56, Mogilev 212030, Belarus",
+    "phone": "56212030"
+  },
+  {
+    "name": "Hotel ATRIUM",
+    "address": "Kamsamoĺskaja St 6, Mogilev 212030, Belarus",
+    "phone": "+375222707051"
+  },
+  {
+    "name": "Haścinica Mahiloŭ",
+    "address": "Lieninskaja St 45, Mogilev 212030, Belarus",
+    "phone": "45212030"
+  },
+  {
+    "name": "Tourist Hotel",
+    "address": "Ulitsa Meshchanskiye Polosy д.11, Mogilev 212029, Belarus",
+    "phone": "11212029"
+  },
+  {
+    "name": "Gubernskaya",
+    "address": "Miru Ave 6, Mogilev, Belarus",
+    "phone": "+375222738888"
+  },
+  {
+    "name": "Kim Gostinica OOO Bolvit",
+    "address": "Pieršamajskaja St 57, Mogilev, Belarus",
+    "phone": "+375336177979"
+  },
+  {
+    "name": "Mogilev",
+    "address": "улица Первомайская 14, Mogilev 212030, Belarus",
+    "phone": "14212030"
+  },
+  {
+    "name": "Gostinitsa Lira",
+    "address": "MIRA AVE 6, Mogilev 212000, Belarus",
+    "phone": "+375222737888"
+  },
+  {
+    "name": "Gostevoy Dom",
+    "address": "Pushkin Avenue 6, Mogilev 212027, Belarus",
+    "phone": "+375447500080"
+  },
+  {
+    "name": "Aparthotel Ljubuzh",
+    "address": "Чаусская 19, Городня, Gorodnya 213122, Belarus",
+    "phone": "19213122"
+  },
+  {
+    "name": "Okay Mogilev",
+    "address": "Деревня Горяны, Улица Центральная 42, Деревня Горяны 213124, Belarus",
+    "phone": "42213124"
+  },
+  {
+    "name": "Green Hill Hotel",
+    "address": "Могилёвский район, Вильчицы, ул. Вильчанская, 1, Mahilyow District 213152, Belarus",
+    "phone": "+375296911917"
+  },
+  {
+    "name": "Усадьба \"Апельсин\"",
+    "address": "Lazarenki St 27, Mogilev, Belarus",
+    "phone": "+375222229113"
+  },
+  {
+    "name": "KVARTIRA-STUDIO NA SUTKI MOGILEV",
+    "address": "Ulitsa Zaslonova 27, Mogilev, Belarus",
+    "phone": "+375222643115"
+  },
+  {
+    "name": "Agroecousadba Rajskij Ugolok",
+    "address": "Полыковичское шоссе 1, Могилев, 212001, Mogilev, Belarus",
+    "phone": "+375222711587"
+  },
+  {
+    "name": "Центр олимпийского резерва по гребле",
+    "address": "ул. Лесничество 18, Liubuzh 213118, Belarus",
+    "phone": "18213118"
+  },
+  {
+    "name": "Khostel Kambodzha",
+    "address": "Orlovskogo street 2, Mogilev 212026, Belarus",
+    "phone": "+375297872232"
+  },
+  {
+    "name": "Slavyanskaya Traditsiya",
+    "address": "Privokzal'naya 1, Mogilev 212001, Belarus",
+    "phone": "+375222392636"
+  },
+  {
+    "name": "Komnaty Otdykha Zheleznodorozhnogo Vokzala Stantsii \"Mogilev-1\"",
+    "address": "Ulitsa Zaslonova 27, Mogilev, Belarus",
+    "phone": "+375222643115"
+  },
+  {
+    "name": "Khostel",
+    "address": "Privokzal'naya 1, Mogilev 212001, Belarus",
+    "phone": "+375222392636"
+  },
+  {
+    "name": "Khostel Kambodzha",
+    "address": "Orlovskogo street 2, Mogilev 212026, Belarus",
+    "phone": "+375297872232"
+  },
+  {
+    "name": "Komnaty Otdykha Zheleznodorozhnogo Vokzala Stantsii \"Mogilev-1\"",
+    "address": "Čaliuskincaŭ St 178, Mogilev, Belarus",
+    "phone": "+375222630000"
+  },
+  {
+    "name": "Dinamo Uchebno-Sportivnaja Baza Bfso Dinamo",
+    "address": "Mogilevskij district, village Butrimovka, Centralnaja street 6, Mogilev, 213130 BY, 213130, Belarus",
+    "phone": "6213130213130"
+  },
+  {
+    "name": "Khostel",
+    "address": "Miru Ave 10, Mogilev, Belarus",
+    "phone": "+375299061516"
+  },
+  {
+    "name": "охотбаза Вильчицы",
+    "address": "Bolshaya Chausskaya street 2А, Mogilev 212002, Belarus",
+    "phone": "+375445050564"
+  },
+  {
+    "name": "Agrousadba \"U Doktora Makarycha\"",
+    "address": "6 км Бобруйского Направления, Деревня Салтановка 212000, Belarus",
+    "phone": null
+  },
+  {
+    "name": "AgroecoUsadba U Druzey",
+    "address": "заселение по согласованию, Lieninskaja St д. 68, Mogilev 212030, Belarus",
+    "phone": "68212030"
+  },
+  {
+    "name": "Vasil'ki",
+    "address": "Pieršamajskaja St 31, Mogilev 212030, Belarus",
+    "phone": "31212030"
+  },
+  {
+    "name": "Shale",
+    "address": "Miru Ave 18, Mogilev, Belarus",
+    "phone": "+375291988899"
+  },
+  {
+    "name": "Myasnik\"",
+    "address": "Kamsamoĺskaja St 2, Mogilev, Belarus",
+    "phone": "+375222230808"
+  },
+  {
+    "name": "Bellagio",
+    "address": "Pieršamajskaja St 23, Mogilev 212001, Belarus",
+    "phone": "23212001"
+  },
+  {
+    "name": "Restoran 101",
+    "address": "Pieršamajskaja St 29, Mogilev 212001, Belarus",
+    "phone": "29212001"
+  },
+  {
+    "name": "Parmezan",
+    "address": "Pieršamajskaja St 34, Mogilev 212030, Belarus",
+    "phone": "34212030"
+  },
+  {
+    "name": "Grand Savoy Restaurant",
+    "address": "Pozharnyy Pereulok 6/2, Mogilev, Belarus",
+    "phone": "+375292733101"
+  },
+  {
+    "name": "Restoran Vintazh",
+    "address": "Pervomaiskaya Street 57, Mogilev 212030, Belarus",
+    "phone": "57212030"
+  },
+  {
+    "name": "Inari",
+    "address": "Pieršamajskaja St 57, Mogilev 212030, Belarus",
+    "phone": "57212030"
+  },
+  {
+    "name": "Gabrovo",
+    "address": "Darwin St 4, Mogilev 212017, Belarus",
+    "phone": "+375291707123"
+  },
+  {
+    "name": "Ale House",
+    "address": "Lieninskaja St 15, Mogilev 212030, Belarus",
+    "phone": "15212030"
+  },
+  {
+    "name": "Modern",
+    "address": "Niepakoranych Blvd 33, Mogilev, Belarus",
+    "phone": "+375222473456"
+  },
+  {
+    "name": "Amici",
+    "address": "Čaliuskincaŭ St 64а, Mogilev, Belarus",
+    "phone": "+375291096060"
+  },
+  {
+    "name": "Restobar Luna",
+    "address": "Krupskaj St 178, Mogilev, Belarus",
+    "phone": "+375222728216"
+  },
+  {
+    "name": "Pizzaroni",
+    "address": "Pieršamajskaja St 28А, Mogilev 212030, Belarus",
+    "phone": "28212030"
+  },
+  {
+    "name": "BURGER HOUSE",
+    "address": "zavulak Bujanava 4, Mogilev, Belarus",
+    "phone": "+375291816641"
+  },
+  {
+    "name": "Sprut - ресторан паназиатской кухни Могилев",
+    "address": "Pozharnyy Pereulok 20, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Ресторан «Цоколь» | Могилев (ТЦ «Материк»)",
+    "address": "улица Миронова 4 Могилёв Могилев, Lieninskaja St, 21 212030, Belarus",
+    "phone": "421212030"
+  },
+  {
+    "name": "\"Khinkal'nya\" Gruzinskiy Restoran",
+    "address": "Pozharnyy Pereulok, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "STAR FOOD",
+    "address": "Ulitsa Privokzal'naya 2а, Mogilev 212001, Belarus",
+    "phone": "+375222392052"
+  },
+  {
+    "name": "Sprut - ресторан паназиатской кухни Могилев",
+    "address": "Pieršamajskaja St 97, Mogilev, Belarus",
+    "phone": "+375222777911"
+  },
+  {
+    "name": "Ресторан «Цоколь» | Могилев (ТЦ «Материк»)",
+    "address": "Lieninskaja St 7, Mogilev 212030, Belarus",
+    "phone": "+375447000051"
+  },
+  {
+    "name": "Блинная \"Блин&GO\"",
+    "address": "Krylienki St 7, Mogilev, Belarus",
+    "phone": "+375222717180"
+  },
+  {
+    "name": "Kapibara",
+    "address": "Lazarenki St 73в, Mogilev 212000, Belarus",
+    "phone": "73212000"
+  },
+  {
+    "name": "\"Khinkal'nya\" Gruzinskiy Restoran",
+    "address": "Lieninskaja St 36, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Burger master",
+    "address": "Lieninskaja St 36, Mogilev, Belarus",
+    "phone": "+375222718740"
+  },
+  {
+    "name": "Salhino Restoran",
+    "address": "Pieršamajskaja St 31, Mogilev 212030, Belarus",
+    "phone": "31212030"
+  },
+  {
+    "name": "Pekin Kafe",
+    "address": "Lienina Blvd 3, Mogilev 212030, Belarus",
+    "phone": "+375222311772"
+  },
+  {
+    "name": "Papa John's Pizza",
+    "address": "Lieninskaja St 56, Mogilev 212030, Belarus",
+    "phone": "56212030"
+  },
+  {
+    "name": "Park Hall (Парк Холл) Ресторан Банкетный Зал",
+    "address": "Dniprovskyi parkway 1, Mogilev, Belarus",
+    "phone": "+375293368817"
+  },
+  {
+    "name": "Tiflos Chup Oo Beltiz",
+    "address": "Kamsamoĺskaja St 5, Mogilev 212030, Belarus",
+    "phone": "+375291402240"
+  },
+  {
+    "name": "RESTO-CLUB | FABERGE",
+    "address": "Surhanava St д. 13А, Mogilev 212026, Belarus",
+    "phone": "13212026"
+  },
+  {
+    "name": "Кафе-пиццерия \"Pizza Smile\"",
+    "address": "Pieršamajskaja St 29, Mogilev 212001, Belarus",
+    "phone": "29212001"
+  },
+  {
+    "name": "Pitstsa Tempo",
+    "address": "Lieninskaja St д. 11, Mogilev 212030, Belarus",
+    "phone": "11212030"
+  },
+  {
+    "name": "Столовая ОАО \"Универмаг \"Центральный\"",
+    "address": "Lieninskaja St 23а, Mogilev 212000, Belarus",
+    "phone": "23212000"
+  },
+  {
+    "name": "Bar Bez Bashni",
+    "address": "Pieršamajskaja St 29, Mogilev 212030, Belarus",
+    "phone": "29212030"
+  },
+  {
+    "name": "Belyy Lis",
+    "address": "Jakuboŭskaha St 71, Mogilev, Belarus",
+    "phone": "+375293277711"
+  },
+  {
+    "name": "Банкетный зал \"DE PARIS\"",
+    "address": "1-Y Yuzhnyy Pereulok 54, Mogilev, Belarus",
+    "phone": "+375447999323"
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Lazarenki St 52, Mogilev, Belarus",
+    "phone": "+375296587788"
+  },
+  {
+    "name": "Dodo Pitstsa",
+    "address": "ул. Ленинская, 14А ул. Гоголя, 2А ул. Каштановая, 2А Могилев BY, 212030, Belarus",
+    "phone": "1422212030"
+  },
+  {
+    "name": "Forum",
+    "address": "Lienina Blvd 4, Mogilev 212030, Belarus",
+    "phone": "+375297873388"
+  },
+  {
+    "name": "Remeslennyy Khleb",
+    "address": "Lienina Blvd, Mogilev, Belarus",
+    "phone": "+375222739797"
+  },
+  {
+    "name": "Takito",
+    "address": "Pieršamajskaja St 15, Mogilev 212030, Belarus",
+    "phone": "15212030"
+  },
+  {
+    "name": "Grand-Picca Piccerija Chup Landija",
+    "address": "Mironava St 23, Mogilev, Belarus",
+    "phone": "+375333440023"
+  },
+  {
+    "name": "Stolovaya Oao \"Strommashina\"",
+    "address": "Pozharnyy Pereulok 3, Mogilev 212015, Belarus",
+    "phone": "+375222622150"
+  },
+  {
+    "name": "«Da Sushi» доставка суши",
+    "address": "Tani Karpinskaj Ln 9, Mogilev, Belarus",
+    "phone": "+375222650908"
+  },
+  {
+    "name": "Pitstseriya Karolina",
+    "address": "Čechava St 10, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Upletayka",
+    "address": "Pozharnyy Pereulok 33, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Seti Mini Kafe Yaponchik",
+    "address": "В центре города, Liepiašynskaha St 16, Mogilev, Belarus",
+    "phone": "+375339917685"
+  },
+  {
+    "name": "Na Uglyakh",
+    "address": "Mironava St 4, Mogilev 212030, Belarus",
+    "phone": "+375299754754"
+  },
+  {
+    "name": "Доставка суши Могилев | Фуджи",
+    "address": "Obshchezhitiye Bru, Lieninskaja St 81a, Mogilev, Belarus",
+    "phone": "+375222764103"
+  },
+  {
+    "name": "Terruar. Kofe I Kokteyli",
+    "address": "Stolovaya, Ulitsa Vokzal'naya 7, Mogilev 212001, Belarus",
+    "phone": "+375222392274"
+  },
+  {
+    "name": "Bar Cherchill'",
+    "address": "14, город Могилёв улица Лепешинского дом, Liepiašynskaha St 14, Mogilev, Belarus",
+    "phone": "+375298457439"
+  },
+  {
+    "name": "KFC Атриум Могилев",
+    "address": "Krylienki St, Mogilev, Belarus",
+    "phone": "+375222230507"
+  },
+  {
+    "name": "Karolina Piccerija OOO Lenkur",
+    "address": "Pieršamajskaja St 26, Mogilev, Belarus",
+    "phone": "+375222228696"
+  },
+  {
+    "name": "Stolovaja N 2 OAO Zheldorsevis",
+    "address": "ТРЦ АТРИУМ, Pieršamajskaja St 57, Mogilev 212001, Belarus",
+    "phone": "57212001"
+  },
+  {
+    "name": "Kafe \"Ararat\"",
+    "address": "Mihaja St 13, Mogilev 212030, Belarus",
+    "phone": "13212030"
+  },
+  {
+    "name": "Столовая № 113 БРУ",
+    "address": "Pieršamajskaja St 57, Mogilev, Belarus",
+    "phone": "+375333507077"
+  },
+  {
+    "name": "Upletayka",
+    "address": "Lieninskaja St 32, Mogilev, Belarus",
+    "phone": "+375295006600"
+  },
+  {
+    "name": "Shaurma King",
+    "address": "Lieninskaja St 61, Mogilev 222000, Belarus",
+    "phone": "61222000"
+  },
+  {
+    "name": "Nora Yezha",
+    "address": "Мини-кафе, Lieninskaja St 23А, Mogilev 212030, Belarus",
+    "phone": "23212030"
+  },
+  {
+    "name": "Столовая № 29",
+    "address": "Pieršamajskaja St улица 57, Mogilev 212000, Belarus",
+    "phone": "57212000"
+  },
+  {
+    "name": "\"Steak & Wine\" \"Стейк и Вино\"",
+    "address": "Jakuboŭskaha St 37, Mogilev, Belarus",
+    "phone": "+375298371100"
+  },
+  {
+    "name": "Круассаны \\ слойки",
+    "address": "Pieršamajskaja St 77, Mogilev, Belarus",
+    "phone": "+375222223889"
+  },
+  {
+    "name": "Pitstsa \"Khayp\"",
+    "address": "Pieršamajskaja St, Mogilev 212030, Belarus",
+    "phone": "+375222311644"
+  },
+  {
+    "name": "\"Drova\" | Наливочная",
+    "address": "Pieršamajskaja St 15, Mogilev 212030, Belarus",
+    "phone": "15212030"
+  },
+  {
+    "name": "Mir 23",
+    "address": "Timiryazevskaya St, Mogilev, Belarus",
+    "phone": "+375293286705"
+  },
+  {
+    "name": "Pan Bul'ban",
+    "address": "Pravaja Dubravienka St д. 31, Mogilev 212030, Belarus",
+    "phone": "31212030"
+  },
+  {
+    "name": "YOKO | Доставка суши",
+    "address": "Lieninskaja St 61, Mogilev, Belarus",
+    "phone": "+375222311790"
+  },
+  {
+    "name": "«Da Grill» стритфуд бар",
+    "address": "Ulitsa Privokzal'naya 2б, Mogilev 212001, Belarus",
+    "phone": "+375222211211"
+  },
+  {
+    "name": "Steyk-Khaus",
+    "address": "ул. Первомайская, 57 ТЦ Атриум, Mogilev, Belarus",
+    "phone": "+375293381287"
+  },
+  {
+    "name": "Zhivoye Pivo",
+    "address": "Kosmonavtov street 8, Mogilev 220025, Belarus",
+    "phone": "+375296067576"
+  },
+  {
+    "name": "Veselyy Samuray - Dostavka Sushi I Pitstsy",
+    "address": "Pieršamajskaja St 5/1, Mogilev 212030, Belarus",
+    "phone": "51212030"
+  },
+  {
+    "name": "Япончик",
+    "address": "Miru Ave 21а, Mogilev 212022, Belarus",
+    "phone": "21212022"
+  },
+  {
+    "name": "Kafe Yerevan",
+    "address": "Pieršamajskaja St 29, Mogilev 212030, Belarus",
+    "phone": "29212030"
+  },
+  {
+    "name": "Ресторан \"ROYAL CLUB\"",
+    "address": "АТЦ Атриум, Pieršamajskaja St 57, Mogilev 212000, Belarus",
+    "phone": "57212000"
+  },
+  {
+    "name": "Tokyo Food - доставка суши и пиццы",
+    "address": "Mihaja St 11, Mogilev 212030, Belarus",
+    "phone": "11212030"
+  },
+  {
+    "name": "Edison Bar",
+    "address": "Gabrovskaya street 32, Mogilev 212029, Belarus",
+    "phone": "32212029"
+  },
+  {
+    "name": "Banoffi",
+    "address": "Movchancky Str 6, Mogilev 212040, Belarus",
+    "phone": "+375445809203"
+  },
+  {
+    "name": "Gubernskaya",
+    "address": "Pieršamajskaja St 31А, Mogilev 212030, Belarus",
+    "phone": "31212030"
+  },
+  {
+    "name": "Lada",
+    "address": "Tsiolkovskogo street 11, Mogilev, Belarus",
+    "phone": "+375298408444"
+  },
+  {
+    "name": "Буффет",
+    "address": "Челюскинцев 64 а, Mogilev 212003, Belarus",
+    "phone": "64212003"
+  },
+  {
+    "name": "Zolotoy Klyuchik",
+    "address": "Pieršamajskaja St 12/2, Mogilev 212030, Belarus",
+    "phone": "122212030"
+  },
+  {
+    "name": "Birariya",
+    "address": "50, вул. Лазарэнкі, 50, Mogilev, Belarus",
+    "phone": "+375222771699"
+  },
+  {
+    "name": "Van Gogh",
+    "address": "Budzionaha St 13, Mogilev, Belarus",
+    "phone": "+375291060088"
+  },
+  {
+    "name": "Madlen Bakery",
+    "address": "ТЦ \"ПерекрестОК Центр, Kosmonavtov street 2, Mogilev, Belarus",
+    "phone": "+375292823286"
+  },
+  {
+    "name": "\"Contrabanda\" доставка пиццы и суши в Могилеве",
+    "address": "Lieninskaja St 50в, Mogilev 212000, Belarus",
+    "phone": "50212000"
+  },
+  {
+    "name": "Pirogovaya",
+    "address": "Pieršamajskaja St улица 3, Mogilev 212030, Belarus",
+    "phone": "+375298677777"
+  },
+  {
+    "name": "Soprano",
+    "address": "Budzionaha St 13, Mogilev, Belarus",
+    "phone": "+375291060088"
+  },
+  {
+    "name": "Druzhba Mogilevskoye Raypo",
+    "address": "Jakuboŭskaha St 71, Mogilev, Belarus",
+    "phone": "+375293377711"
+  },
+  {
+    "name": "Khutorok",
+    "address": "Dziaržynskaha St 19, Mogilev 212030, Belarus",
+    "phone": "19212030"
+  },
+  {
+    "name": "Kaza-Dzeraza",
+    "address": "Dziaržynskaha St 19, Mogilev 212030, Belarus",
+    "phone": "19212030"
+  },
+  {
+    "name": "Kafe \"O'key\"",
+    "address": "Kosmonavtov street 2, Mogilev, Belarus",
+    "phone": "+375447713105"
+  },
+  {
+    "name": "Tortila",
+    "address": "Kosmonavtov street 2, Mogilev, Belarus",
+    "phone": "+375447713105"
+  },
+  {
+    "name": "Park Avenyu Kafe-Bistro",
+    "address": "Mironava St 4, Mogilev 212030, Belarus",
+    "phone": "+375333333733"
+  },
+  {
+    "name": "Bonjour",
+    "address": "Pieršamajskaja St 12, Mogilev, Belarus",
+    "phone": "+375222726773"
+  },
+  {
+    "name": "Park City Mall",
+    "address": "Kaluzhskaya St, Mogilev 212011, Belarus",
+    "phone": "+375293050140"
+  },
+  {
+    "name": "Evgen",
+    "address": "Lazarenki St 73а, Mogilev, Belarus",
+    "phone": "+375295432765"
+  },
+  {
+    "name": "E-City Mall",
+    "address": "Dziaržynskaha St 19, Mogilev 212030, Belarus",
+    "phone": "19212030"
+  },
+  {
+    "name": "Centraĺny Department Store",
+    "address": "Movchanskogo street 6, Mogilev, Belarus",
+    "phone": "+375222604582"
+  },
+  {
+    "name": "Торгово-развлекательный центр «Атриум»",
+    "address": "Lieninskaja St 46, Mogilev, Belarus",
+    "phone": "+375293421953"
+  },
+  {
+    "name": "Atrium Svadebnyi Salon",
+    "address": "Gagarin Street 79, Mogilev, Belarus",
+    "phone": "+375222784117"
+  },
+  {
+    "name": "Tts Vilenskiy",
+    "address": "Ciarechina St 6а, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Tts Materik",
+    "address": "Pieršamajskaja St 57, Mogilev 212030, Belarus",
+    "phone": "57212030"
+  },
+  {
+    "name": "Zlatoust Mall",
+    "address": "Pieršamajskaja St 61, Mogilev 212030, Belarus",
+    "phone": "61212030"
+  },
+  {
+    "name": "Gippo",
+    "address": "Minskoye Shosse 31, Mogilev, Belarus",
+    "phone": "+375222777771"
+  },
+  {
+    "name": "Milkservis Plyus",
+    "address": "улица Лазаренко 73Б ТЦ Армада Авто Мир, пав. 2б, Mogilev 212000, Belarus",
+    "phone": "732212000"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Ulitsa Kalinovskogo 43, Mogilev 212039, Belarus",
+    "phone": "43212039"
+  },
+  {
+    "name": "ВИЛЕНСКИЙ РЫНОК (пав 18) ~ СПЕЦОДЕЖДА ДЛЯ МЕДИКОВ",
+    "address": "Slavgorodskoe shosse, Mogilev, Belarus",
+    "phone": "+375292291282"
+  },
+  {
+    "name": "Gippo",
+    "address": "Ulitsa Goncharnaya дом 2, Mogilev 212002, Belarus",
+    "phone": "+375222240882"
+  },
+  {
+    "name": "Zhdanovichi Shopping Center",
+    "address": "Быховский рынок, Ulitsa Bykhovskaya 6, Mogilev, Belarus",
+    "phone": "+375296916196"
+  },
+  {
+    "name": "Park-Siti",
+    "address": "Pijanierskaja St 31, Mogilev 212030, Belarus",
+    "phone": "31212030"
+  },
+  {
+    "name": "Galileo Mall",
+    "address": "Mironava St 4, Mogilev 212030, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Galleria Minsk",
+    "address": "Ulitsa Borodina 27, Mogilev 212010, Belarus",
+    "phone": "27212010"
+  },
+  {
+    "name": "Euroopt",
+    "address": "Čaliuskincaŭ St 43, Mogilev 212003, Belarus",
+    "phone": "43212003"
+  },
+  {
+    "name": "Caparol Center Капарол Центр",
+    "address": "Miru Ave 59А, Mogilev, Belarus",
+    "phone": "+375222707014"
+  },
+  {
+    "name": "Nasenne",
+    "address": "Gabrovskaya street 45, Mogilev 212029, Belarus",
+    "phone": "45212029"
+  },
+  {
+    "name": "Nasenne",
+    "address": "ТЦ Арбат, Pushkin Avenue 12, Mogilev 212002, Belarus",
+    "phone": "12212002"
+  },
+  {
+    "name": "Dana mall",
+    "address": "Hryšyna St 61А, Mogilev 212011, Belarus",
+    "phone": "61212011"
+  },
+  {
+    "name": "Momo Shoping Mall",
+    "address": "Ulitsa Goncharnaya 2, Mogilev 212000, Belarus",
+    "phone": "+375447808688"
+  },
+  {
+    "name": "Green City",
+    "address": "Tchaikovsky street 11, Mogilev 212002, Belarus",
+    "phone": "11212002"
+  },
+  {
+    "name": "Strela Magazin Cifrovoi Tehniki",
+    "address": "Lazarenki St 73-Б, Mogilev 212022, Belarus",
+    "phone": "73212022"
+  },
+  {
+    "name": "Tovary Dlya Rybalki Ip Yermolovich N.v.",
+    "address": "Liepiašynskaha St 22/36, Mogilev, Belarus",
+    "phone": "+375222417523"
+  },
+  {
+    "name": "Electrosila",
+    "address": "Minskoye Shosse 40, Mogilev 212000, Belarus",
+    "phone": "40212000"
+  },
+  {
+    "name": "Tsentr Meditsinskoy Kosmetologii Klinika\"Estemed\"",
+    "address": "vulica Dubko 17, Grodno 230005, Belarus",
+    "phone": "17230005"
+  },
+  {
+    "name": "5 Element",
+    "address": "Minskoye Shosse 31, Mogilev, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "Kupit' Semena",
+    "address": "Gabrovskaya street 30, Mogilev 212029, Belarus",
+    "phone": "30212029"
+  },
+  {
+    "name": "ВпрOK",
+    "address": "Čaliuskincaŭ St 172 б, Mogilev, Belarus",
+    "phone": "+375296160150"
+  },
+  {
+    "name": "Lobzik_Mogilev",
+    "address": "ТЦ Атриум, Pieršamajskaja St 57, Mogilev 212001, Belarus",
+    "phone": "57212001"
+  },
+  {
+    "name": "5 Element",
+    "address": "Krylienki St 4, Mogilev 212030, Belarus",
+    "phone": "+375291229966"
+  },
+  {
+    "name": "Magazin Benzotekhnika",
+    "address": "vulica Prytyckaha 156, Minsk 220017, Belarus",
+    "phone": "156220017"
+  },
+  {
+    "name": "Bita.by - электроинструмент, бензоинструмент, садовая техника",
+    "address": "vulica Piatra Mscislaŭca 9, Minsk, Belarus",
+    "phone": "+375292010219"
+  },
+  {
+    "name": "OldCity Mall",
+    "address": "Jakuboŭskaha St 22А, Mogilev 212026, Belarus",
+    "phone": "22212026"
+  },
+  {
+    "name": "5 Element",
+    "address": "пр.Партизанский 150 А ст. метро Могилевская Минск, 220102, Belarus",
+    "phone": "150220102"
+  },
+  {
+    "name": "Electrosila",
+    "address": "Pushkin Avenue 16, Mogilev 212000, Belarus",
+    "phone": "16212000"
+  },
+  {
+    "name": "«Удачник»",
+    "address": "Jakuboŭskaha St 44-2, Mogilev 212026, Belarus",
+    "phone": "442212026"
+  },
+  {
+    "name": "Magazin \"Semena Udachi\"",
+    "address": "Gagarin Street 79, Mogilev, Belarus",
+    "phone": "+375447888880"
+  },
+  {
+    "name": "Baskin Plaza",
+    "address": "Prospekte Pobeditelei 9, Minsk, Belarus",
+    "phone": "+375445557498"
+  },
+  {
+    "name": "Tsentr Khoroshego Slukha",
+    "address": "Zaharadnaja šaša 66, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Semena Partner",
+    "address": "vulica Babrujskaja 6, Minsk, Belarus",
+    "phone": "+375173286426"
+  },
+  {
+    "name": "Elektroinstrument. Benzoinstrument. Lespromservis",
+    "address": "Lazarenki St 73а, Mogilev, Belarus",
+    "phone": "+375297466222"
+  },
+  {
+    "name": "Samogonnyye Apparaty",
+    "address": "Ulitsa Kashtanovaya 2, Mogilev 212008, Belarus",
+    "phone": "+375222728123"
+  },
+  {
+    "name": "РЕМОНТ БЕНЗОИНСТРУМЕНТА/РЕМОНТ БЕНЗОПИЛ/РЕМОНТ БЕНЗОКОС",
+    "address": "vulica Cimirazieva 123/2, Minsk 220089, Belarus",
+    "phone": "1232220089"
+  },
+  {
+    "name": "Avtoelektrik",
+    "address": "а, Lazarenki St 55, Mogilev, Belarus",
+    "phone": "+375445969916"
+  },
+  {
+    "name": "Avtoprivoz",
+    "address": "Могилёв улица Мовчанского 6 ТЦ Гиппо, 1, Mogilev 213105, Belarus",
+    "phone": "61213105"
+  },
+  {
+    "name": "Авторазборка Bi-Bi Shop",
+    "address": "Pieršamajskaja St 2, Mogilev 212000, Belarus",
+    "phone": "+375222252342"
+  },
+  {
+    "name": "Church of the Assumption of the Blessed Virgin Mary and St. Stanislaus",
+    "address": "Slavy Square 1, Mogilev 212030, Belarus",
+    "phone": "+375222640120"
+  },
+  {
+    "name": "P. Maslienikaŭ Mahilioŭ Regional Art Museum",
+    "address": "Miru Ave, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Mogilev Regional Museum of Local Lore named after E.R.Romanova",
+    "address": "Kamsamoĺskaja St 4, Mogilev 212030, Belarus",
+    "phone": "+375291211082"
+  },
+  {
+    "name": "Mahilioŭ Town Hall",
+    "address": "Mironava St 33, Mogilev 212030, Belarus",
+    "phone": "33212030"
+  },
+  {
+    "name": "Fighters for Soviet Power",
+    "address": "Pieršamajskaja St 8, Mogilev 212030, Belarus",
+    "phone": "+375222654281"
+  },
+  {
+    "name": "Zero kilometer",
+    "address": "Slavy Square, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Star square",
+    "address": "Lieninskaja St 1а, Mogilev 21203, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Park City Mall",
+    "address": "остановка Зоосад аг, Buinichi 213134, Belarus",
+    "phone": "+375445591739"
+  },
+  {
+    "name": "Mogilev Region",
+    "address": "Pushkin Avenue, Mogilev, Belarus",
+    "phone": "+375222772667"
+  },
+  {
+    "name": "СПА-центр SPA NEBO Lounge",
+    "address": "Vitebskiy Ave, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Gippo",
+    "address": "Pieršamajskaja St 57, Mogilev, Belarus",
+    "phone": "+375336177979"
+  },
+  {
+    "name": "СПА-центр SPA NEBO Lounge",
+    "address": "Kosmonavtov street 1, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Sprut - ресторан паназиатской кухни Могилев",
+    "address": "vulica Puškina, Viciebsk, Belarus",
+    "phone": null
+  },
+  { "name": "Zoosad", "address": "Р93, Buinichi, Belarus", "phone": null },
+  {
+    "name": "Mogilevskiy Gosudarstvennyy Universitet Imeni A. A. Kuleshova",
+    "address": "Kosmonavtov street 2, Mogilev, Belarus",
+    "phone": "+375447713105"
+  },
+  {
+    "name": "Hotel ATRIUM",
+    "address": "Kosmonavtov street 1, Mogilev, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Airport Magileu (MVQ)",
+    "address": "Ulitsa Kashtanovaya 2, Mogilev 212008, Belarus",
+    "phone": "+375222728123"
+  },
+  {
+    "name": "Pushkinskiy Most",
+    "address": "Р93, Buinichi, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Lyubuzh",
+    "address": "Pieršamajskaja St 57, Mogilev 212030, Belarus",
+    "phone": "57212030"
+  },
+  {
+    "name": "Mogilevtsy",
+    "address": "Pieršamajskaja St 57, Mogilev 212030, Belarus",
+    "phone": "57212030"
+  },
+  {
+    "name": "Магілёўка",
+    "address": "Movchanskogo street 6, Mogilev, Belarus",
+    "phone": "+375222604582"
+  },
+  {
+    "name": "University of California, Berkeley",
+    "address": "Minskoye Shosse 31, Mogilev, Belarus",
+    "phone": "+375222777771"
+  },
+  {
+    "name": "Safarway",
+    "address": "Zagorodnyy Pereulok 9, Mogilev 212026, Belarus",
+    "phone": "+375447779787"
+  },
+  {
+    "name": "Hotel Eridan",
+    "address": "Zielienahurskaja St 50, Viciebsk 210007, Belarus",
+    "phone": "50210007"
+  },
+  {
+    "name": "Viciebsk",
+    "address": "Kastryčnickaja vulica 10, Viciebsk 210001, Belarus",
+    "phone": "10210001"
+  },
+  {
+    "name": "Luchosa",
+    "address": "Ulitsa Oktyabrskaya 6А, Vitebsk, 210001 BY, 210001, Belarus",
+    "phone": "6210001210001"
+  },
+  {
+    "name": "Apartment in Vitebsk Tower",
+    "address": "Kamsamoĺskaja vulica 11/5, Viciebsk, Belarus",
+    "phone": "+375296928210"
+  },
+  {
+    "name": "Smart Boutique Hotel Vitebsk",
+    "address": "Sovietskaya St 21/17, Viciebsk, Belarus",
+    "phone": "+375293297555"
+  },
+  {
+    "name": "Otel' Gubernskiy",
+    "address": "Budaŭnikoŭ Ave 1, Viciebsk 210027, Belarus",
+    "phone": "+375333366730"
+  },
+  {
+    "name": "Vetraz Hotel",
+    "address": "улица Замковая 5/2а, Viciebsk 210026, Belarus",
+    "phone": "52210026"
+  },
+  {
+    "name": "Gostevoy Dom \"Gosti\"",
+    "address": "vulica Praŭdy 66к, Viciebsk 210029, Belarus",
+    "phone": "66210029"
+  },
+  {
+    "name": "Like Home Apartment",
+    "address": "Suvorova St 11, Viciebsk 210026, Belarus",
+    "phone": "11210026"
+  },
+  {
+    "name": "Khostel V Vitebske",
+    "address": "Vitebskii raion, derevnia Lushchikha, Naberezhnaia 26a 26a, Vitebsk 211321, Belarus",
+    "phone": "2626211321"
+  },
+  {
+    "name": "Dvina",
+    "address": "Suvorova St 20/13, Viciebsk 210026, Belarus",
+    "phone": "2013210026"
+  },
+  {
+    "name": "Zagorodny Dom Piknik Park",
+    "address": "Деревня Крупенино, Витебск 211364, Belarus",
+    "phone": "+375296198060"
+  },
+  {
+    "name": "Zolotoy Telonok",
+    "address": "Витебская обл., Витебский р-н, Летчанский сельсовет, вблизи д. Новоселки, Новоселки 211315, Belarus",
+    "phone": "+375295001111"
+  },
+  {
+    "name": "Guest house ColiseuM",
+    "address": "улица Озёрная 1, poselok Lipovtsy 211347, Belarus",
+    "phone": "+375297108905"
+  },
+  {
+    "name": "Cottage In Vitebsk",
+    "address": "vulica Praŭdy 55, Viciebsk 210029, Belarus",
+    "phone": "55210029"
+  },
+  {
+    "name": "Elandra",
+    "address": "Village Ostrovlyane, House 13, Ostrovlyane 211575, Belarus",
+    "phone": "13211575"
+  },
+  {
+    "name": "Усадьба Яблоновка",
+    "address": "1, Gorodno 211364, Belarus",
+    "phone": "+375295998998"
+  },
+  {
+    "name": "Nikolayevo Fazenda",
+    "address": "Prospekt Chernyakhovskogo 1, Талачын 211070, Belarus",
+    "phone": "+375213621439"
+  },
+  {
+    "name": "Cottage on 6 Stadionnaya",
+    "address": "Prospekt Chernyakhovskogo 25/1, Viciebsk 210600, Belarus",
+    "phone": "251210600"
+  },
+  {
+    "name": "Agrousad'ba \"Chistyye Klyuchi\"",
+    "address": "vulica Karla Marksa д.93, Верхнядзвінск 211631, Belarus",
+    "phone": "93211631"
+  },
+  {
+    "name": "Khostel V Vitebske",
+    "address": "д, Malye Lettsy 211230, Belarus",
+    "phone": "+375212297239"
+  },
+  {
+    "name": "Apartment on Chernyakhovskogo 22",
+    "address": "Беларусь, Витебская область д, Prudniki 211573, Belarus",
+    "phone": "+375293058736"
+  },
+  {
+    "name": "Hostel 1915",
+    "address": "до 6 , кор. 1, проспект Черняховского, Viciebsk 210015, Belarus",
+    "phone": "61210015"
+  },
+  {
+    "name": "Agrousad'ba \"Chistyye Klyuchi\"",
+    "address": "Prospekt Chernyakhovskogo 20/4, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Усадьба Яблоновка",
+    "address": "Витебский район, деревня Коммунарка, ул. Луговая, дом 1А, Viciebsk, Belarus",
+    "phone": "+375297162584"
+  },
+  {
+    "name": "Kvartira Posutochno",
+    "address": "Kastryčnickaja vulica 10, Viciebsk 210001, Belarus",
+    "phone": "10210001"
+  },
+  {
+    "name": "BIBLIOTEKA FILIAL N 1",
+    "address": "Oktyabrskiy Proyezd 11 - 17, Viciebsk 210001, Belarus",
+    "phone": "1117210001"
+  },
+  {
+    "name": "Relax мини гостиница",
+    "address": "Витебский район, деревня Коммунарка, ул. Луговая, дом 1А, Viciebsk, Belarus",
+    "phone": "+375297162584"
+  },
+  {
+    "name": "five comfortable rooms",
+    "address": "Вороновский сельсовет, Driukovo, Belarus",
+    "phone": "+375297134575"
+  },
+  {
+    "name": "Country House Ostrov Lyany",
+    "address": "vulica Karla Marksa д.93, Верхнядзвінск 211631, Belarus",
+    "phone": "93211631"
+  },
+  {
+    "name": "Sanatoriy ''lottsy'': Ozdorovitel'nyye Protsedury, Lecheniye, Otdykh",
+    "address": "6-Ya Stadionnaya Ulitsa 6, Viciebsk 210033, Belarus",
+    "phone": "66210033"
+  },
+  {
+    "name": "Usadba Aleksandrina",
+    "address": "улица Лесная 8, Barvin 211333, Belarus",
+    "phone": "+375296376238"
+  },
+  {
+    "name": "Загородный комплекс Верасы",
+    "address": "1-aya Pribуrezhnaya ulitsa 19, Vitebsk 210020, Belarus",
+    "phone": "119210020"
+  },
+  {
+    "name": "Holiday Park Krupenino",
+    "address": "Mazolievskiy sel.sovet. 3km severnee severnee derevni Drekolie, Дреколье, 211317 BY, 211317, Belarus",
+    "phone": "3211317211317"
+  },
+  {
+    "name": "Agrousad'ba Lushchikha",
+    "address": "vulica Iĺinskaha 41/18, Viciebsk, Belarus",
+    "phone": "+375212359173"
+  },
+  {
+    "name": "Apartments on Suvorova 19",
+    "address": "Bielaruskaja vuilica 6, Viciebsk, Belarus",
+    "phone": "+375212640264"
+  },
+  {
+    "name": "Rebro Gril'-Bar",
+    "address": "vulica Lienina 23, Viciebsk, Belarus",
+    "phone": "+375295099696"
+  },
+  {
+    "name": "Vitebskiy Traktir",
+    "address": "vulica Talstoha дом 4, Viciebsk 210026, Belarus",
+    "phone": "+375295949999"
+  },
+  {
+    "name": "Bat'kova Khata",
+    "address": "Moskovskiy Prospekt 9А, Viciebsk 220020, Belarus",
+    "phone": "+375447488267"
+  },
+  {
+    "name": "La Cultura",
+    "address": "Frunze Ave 15, Viciebsk 210023, Belarus",
+    "phone": "15210023"
+  },
+  {
+    "name": "Vasil'ki",
+    "address": "vulica Žastkova 8, Viciebsk 210000, Belarus",
+    "phone": "+375333052530"
+  },
+  {
+    "name": "Agnivo",
+    "address": "Suvorova St 2, Viciebsk 210026, Belarus",
+    "phone": "+375295121261"
+  },
+  {
+    "name": "Manao",
+    "address": "Sovietskaya St 15, Viciebsk 210026, Belarus",
+    "phone": "15210026"
+  },
+  {
+    "name": "Доставка еды в Витебске меню",
+    "address": "vulica Lienina 46, Viciebsk 210026, Belarus",
+    "phone": "46210026"
+  },
+  {
+    "name": "Viktoriya",
+    "address": "vulica Lienina 61, Viciebsk 210026, Belarus",
+    "phone": "61210026"
+  },
+  {
+    "name": "Shafran - Kukhnya Indii I Shri-Lanki",
+    "address": "2-я, Pervaya Dovatora St 5, Viciebsk 210026, Belarus",
+    "phone": "25210026"
+  },
+  {
+    "name": "\"Golden Lion\"",
+    "address": "vulica Talstoha 6, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Pushkin Times Cafe Lounge",
+    "address": "Prospekt Chernyakhovskogo 26а, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Severnaya Stolitsa",
+    "address": "Zamkovaya Ulitsa 2, Viciebsk 210026, Belarus",
+    "phone": "+375212482398"
+  },
+  {
+    "name": "Pel'mennaya",
+    "address": "Ulitsa Gorovtsa 10, Viciebsk 210021, Belarus",
+    "phone": "10210021"
+  },
+  {
+    "name": "Задвинье - белорусская кухня",
+    "address": "Суворова 6, Viciebsk 210026, Belarus",
+    "phone": "+375291832388"
+  },
+  {
+    "name": "Amsterdam",
+    "address": "vulica Lienina 53, Viciebsk 210023, Belarus",
+    "phone": "53210023"
+  },
+  {
+    "name": "Dvina",
+    "address": "vulica Žastkova 7, Viciebsk 210000, Belarus",
+    "phone": "+375333058510"
+  },
+  {
+    "name": "Pchela",
+    "address": "vulica Talstoha 3, Viciebsk, Belarus",
+    "phone": "+375445772211"
+  },
+  {
+    "name": "Salsa - bistro",
+    "address": "57/, vulica Lienina 4, Viciebsk 210026, Belarus",
+    "phone": "574210026"
+  },
+  {
+    "name": "Шаурма сити",
+    "address": "Moskovskiy Prospekt 66/1, Viciebsk 210035, Belarus",
+    "phone": "661210035"
+  },
+  {
+    "name": "ПРОПОРЦИЯ БАЙ",
+    "address": "Moskovskiy Prospekt 66, Viciebsk 210035, Belarus",
+    "phone": "66210035"
+  },
+  {
+    "name": "Maksima Restoran OOO Pinrest",
+    "address": "vulica Hienierala Bielabarodava 1д, Viciebsk 210015, Belarus",
+    "phone": "+375333339494"
+  },
+  {
+    "name": "Pchela",
+    "address": "Frunze Ave 10, Viciebsk, Belarus",
+    "phone": "+375212602000"
+  },
+  {
+    "name": "GARAGE food&coffee",
+    "address": "vulica Čapajeva, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Amsterdam",
+    "address": "Meditsinskiy Universitet, Frunze Ave, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Papa John's Pizza",
+    "address": "Budaŭnikoŭ Ave 15В/Г, Viciebsk 210032, Belarus",
+    "phone": "15210032"
+  },
+  {
+    "name": "Zelena Gura",
+    "address": "Budaŭnikoŭ Ave 11А, Viciebsk 210000, Belarus",
+    "phone": "11210000"
+  },
+  {
+    "name": "Papa Zharit",
+    "address": "vulica Lienina 54, Viciebsk 210026, Belarus",
+    "phone": "54210026"
+  },
+  {
+    "name": "ZDOBA",
+    "address": "vulica Lienina 53, Viciebsk 210026, Belarus",
+    "phone": "53210026"
+  },
+  {
+    "name": "Пиццерия 142",
+    "address": "Suvorova St 6, Viciebsk 210026, Belarus",
+    "phone": null
+  },
+  {
+    "name": "\"Marvin\" Kafe-Bar",
+    "address": "vulica Talstoha 1, Viciebsk, Belarus",
+    "phone": "+375333999920"
+  },
+  {
+    "name": "Papa Zharit",
+    "address": "praspiekt Pieramohi 9, Viciebsk, Belarus",
+    "phone": "+375445211600"
+  },
+  {
+    "name": "Dvor U Berezy Sauna",
+    "address": "ШаурмаCity, vulica Lienina Д.28, Viciebsk 210026, Belarus",
+    "phone": "28210026"
+  },
+  {
+    "name": "Smart Boutique Hotel Vitebsk",
+    "address": "Ulitsa Kalinina 2А, Viciebsk 210001, Belarus",
+    "phone": "+375298338866"
+  },
+  {
+    "name": "Papa Zharit",
+    "address": "Московский проспект 19/2, Витебск, Viciebsk 210000, Belarus",
+    "phone": "192210000"
+  },
+  {
+    "name": "Restoran \"Kontinent\"",
+    "address": "Kolledzh Kul'tury I Iskusstv Vitebskiy Gosudarstvennyy Uo, vulica Maksima Horkaha 74, Viciebsk, Belarus",
+    "phone": "+375297122316"
+  },
+  {
+    "name": "ЛАВАШ",
+    "address": "Фрунзе 77л, корпус 2, Viciebsk 210033, Belarus",
+    "phone": "772210033"
+  },
+  {
+    "name": "Royal Burum",
+    "address": "Suvorova St 2, Viciebsk, Belarus",
+    "phone": "+375212364994"
+  },
+  {
+    "name": "Ferma Shaverma",
+    "address": "vulica Talstoha 4, Viciebsk, Belarus",
+    "phone": "+375295493310"
+  },
+  {
+    "name": "Танцы",
+    "address": "Sovietskaya St 21/17, Viciebsk, Belarus",
+    "phone": "+375293297555"
+  },
+  {
+    "name": "YOKI",
+    "address": "Budaŭnikoŭ Ave 1, Viciebsk 210027, Belarus",
+    "phone": "+375333366730"
+  },
+  {
+    "name": "Papa Zharit",
+    "address": "Moskovskiy Prospekt 7, Viciebsk, Belarus",
+    "phone": "+375445102626"
+  },
+  {
+    "name": "Dodo Pitstsa",
+    "address": "Gagarina Street, Viciebsk 200000, Belarus",
+    "phone": "+375295175559"
+  },
+  {
+    "name": "Restoran \"U Ganny\"",
+    "address": "ТЦ Трио, Budaŭnikoŭ Ave 15В, Viciebsk 210032, Belarus",
+    "phone": "15210032"
+  },
+  {
+    "name": "Развлекательный комплекс «Город»",
+    "address": "Moskovskiy Prospekt 9B, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Stolovaja N 2 Filiala Voenservis Rup Tpu Pri Ministerstve Oborony RB",
+    "address": "Prospekt Chernyakhovskogo 6 к4, Viciebsk, Belarus",
+    "phone": "+375333174551"
+  },
+  {
+    "name": "\"100 Obedov\" Kafe",
+    "address": "vulica Praŭdy 66К, Viciebsk, Belarus",
+    "phone": "+375292851851"
+  },
+  {
+    "name": "TOKO Sushi",
+    "address": "vulica Lienina 65, Viciebsk, Belarus",
+    "phone": "+375297565555"
+  },
+  {
+    "name": "Kafe Sushidom",
+    "address": "vulica Hienierala Bielabarodava 2А, Viciebsk 210024, Belarus",
+    "phone": "+375336222228"
+  },
+  {
+    "name": "Burger King",
+    "address": "vulica Lienina 72, Viciebsk 210026, Belarus",
+    "phone": "72210026"
+  },
+  {
+    "name": "Суши Пицца Маркет",
+    "address": "Moskovskiy Prospekt 33, Viciebsk 210035, Belarus",
+    "phone": "33210035"
+  },
+  {
+    "name": "Nimbus Lounge bar & hookah",
+    "address": "Revaliucyjnaja vulica 30, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Vulica Krylova 3, Viciebsk, Belarus",
+    "phone": "+375333953035"
+  },
+  {
+    "name": "Papa Zharit",
+    "address": "пр-т, Moskovskiy Prospekt 130-1, Viciebsk 210036, Belarus",
+    "phone": "1301210036"
+  },
+  {
+    "name": "Stolovaya Vgavm",
+    "address": "vulica Praŭdy 66, Viciebsk, Belarus",
+    "phone": "+375295468018"
+  },
+  {
+    "name": "Shawarma Mustafa",
+    "address": "Zamkovaya Ulitsa 21, Viciebsk 210026, Belarus",
+    "phone": "21210026"
+  },
+  {
+    "name": "Dodo Pitstsa",
+    "address": "ТРИО, Budaŭnikoŭ Ave 15в, Viciebsk 210032, Belarus",
+    "phone": "15210032"
+  },
+  {
+    "name": "KFC Трио Витебск",
+    "address": "Воинов-интернационалистов дом 1, корпус 3 Витебск BY 210041, vulica Voinaŭ-Internacyjanalistaŭ 1, Viciebsk, Belarus",
+    "phone": "132100411"
+  },
+  {
+    "name": "\"Isola-Pitstsa\".",
+    "address": "vulica Bahatyrova 7б, Viciebsk 210036, Belarus",
+    "phone": "+375445733891"
+  },
+  {
+    "name": "Kapibara Sushi",
+    "address": "Moskovskiy Prospekt 8 282а, Viciebsk 210015, Belarus",
+    "phone": "8282210015"
+  },
+  {
+    "name": "Stolovaja OAO Vitebskii Kombinat Hleboproduktov",
+    "address": "Prospekt Chernyakhovskogo 27, Viciebsk 210027, Belarus",
+    "phone": "27210027"
+  },
+  {
+    "name": "Kukukha",
+    "address": "Moskovskiy Prospekt 7, Viciebsk, Belarus",
+    "phone": "+375445327717"
+  },
+  {
+    "name": "Kapibara",
+    "address": "vulica Lienina 28, Viciebsk, Belarus",
+    "phone": "+375445283315"
+  },
+  {
+    "name": "Stolovaya Ot Vgu Im P.m. Masherova",
+    "address": "Prospekt Chernyakhovskogo 4, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Pizza Planet — бесплатная доставка пиццы",
+    "address": "vulica Baŭmana 20В, Viciebsk 210026, Belarus",
+    "phone": "20210026"
+  },
+  {
+    "name": "Sushi Mafiya",
+    "address": "Sovietskaya St 9, Viciebsk 210026, Belarus",
+    "phone": "+375293764661"
+  },
+  {
+    "name": "Kornilov's Restaurant",
+    "address": "Ulitsa Lazo 114, Viciebsk, Belarus",
+    "phone": "+375298943161"
+  },
+  {
+    "name": "Суши Wok",
+    "address": "Smalienskaja St 18, Viciebsk 210023, Belarus",
+    "phone": "18210023"
+  },
+  {
+    "name": "Formula Yedy",
+    "address": "Smalienskaja St 3/1, Viciebsk 210035, Belarus",
+    "phone": "31210035"
+  },
+  {
+    "name": "Burger King",
+    "address": "Moskovskiy Prospekt 99, Viciebsk 210038, Belarus",
+    "phone": "99210038"
+  },
+  {
+    "name": "tigur.by",
+    "address": "Gagarina Street 24, Viciebsk, Belarus",
+    "phone": "+375293437036"
+  },
+  {
+    "name": "Restoran - Pab \"Bol'shoy Tim\"",
+    "address": "Čkalava St 35, Viciebsk 220039, Belarus",
+    "phone": "35220039"
+  },
+  {
+    "name": "Luchosa",
+    "address": "Suvorova St 18, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Hotel Eridan",
+    "address": "Budaŭnikoŭ Ave 11а, Viciebsk, Belarus",
+    "phone": "+375297942222"
+  },
+  {
+    "name": "Shaurma212",
+    "address": "vulica Lienina 26, Viciebsk, Belarus",
+    "phone": "+375292109210"
+  },
+  {
+    "name": "Sushi Papa",
+    "address": "Frunze Ave 28, Viciebsk 210009, Belarus",
+    "phone": "28210009"
+  },
+  {
+    "name": "Mayakovskiy Diskaunt Bar",
+    "address": "Frunze Ave 15, Viciebsk 210026, Belarus",
+    "phone": "15210026"
+  },
+  {
+    "name": "Arena-Gril'",
+    "address": "vulica Lienina 26а, Viciebsk, Belarus",
+    "phone": "+375298164783"
+  },
+  {
+    "name": "Karaoke Opera",
+    "address": "Suvorova St 11, Viciebsk 210026, Belarus",
+    "phone": "11210026"
+  },
+  {
+    "name": "Zakol'tsovo-Lyuks",
+    "address": "ул. 3-я Суражская, Viciebsk, Belarus",
+    "phone": "+375298939090"
+  },
+  {
+    "name": "Nino",
+    "address": "Čkalava St 49, Viciebsk, Belarus",
+    "phone": "+375257281313"
+  },
+  {
+    "name": "Torvald",
+    "address": "б, Budaŭnikoŭ Ave 12/1, Viciebsk, Belarus",
+    "phone": "+375297199901"
+  },
+  {
+    "name": "Kafe \"Kofeynya\"",
+    "address": "Suvorova St 6, Viciebsk 210026, Belarus",
+    "phone": "+375333331305"
+  },
+  {
+    "name": "ШаурмаCity",
+    "address": "Moskovskiy Prospekt 20 А, Viciebsk, Belarus",
+    "phone": "+375333208090"
+  },
+  {
+    "name": "Пиццерия «Лайк Пицца» - Доставка пиццы в Витебске",
+    "address": "Biešankovickaja šaša 3, Viciebsk 210007, Belarus",
+    "phone": "+375212540481"
+  },
+  {
+    "name": "Apteka Bar",
+    "address": "Территория Автомойки \"Дельфин, vulica Cieraškovaj 5, Viciebsk 210035, Belarus",
+    "phone": "+375333446147"
+  },
+  {
+    "name": "Шаурма",
+    "address": "Čkalava St 50, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Arena-Sushi",
+    "address": "Beloborodova Str. 2, Viciebsk 210101, Belarus",
+    "phone": "+375445809203"
+  },
+  {
+    "name": "Arena-Sushi",
+    "address": "Biešankovickaja šaša 3, Viciebsk 210007, Belarus",
+    "phone": "+375212540534"
+  },
+  {
+    "name": "Goa. Indiyskaya Kukhnya",
+    "address": "Frunze Ave 44, Viciebsk 210009, Belarus",
+    "phone": "44210009"
+  },
+  {
+    "name": "Trio",
+    "address": "praspiekt Pieramohi 15, Viciebsk, Belarus",
+    "phone": "+375298087747"
+  },
+  {
+    "name": "U Klima",
+    "address": "Moskovskiy Prospekt 7, Viciebsk 210015, Belarus",
+    "phone": "+3752951470077767"
+  },
+  {
+    "name": "Филипок",
+    "address": "Čkalava St 24А, Viciebsk, Belarus",
+    "phone": "+375212229457"
+  },
+  {
+    "name": "Arena-Pitstsa",
+    "address": "Frunze Ave 77/2, Viciebsk 210033, Belarus",
+    "phone": "772210033"
+  },
+  {
+    "name": "Kafe Pel'mennaya",
+    "address": "vulica Lienina 26А, Viciebsk, Belarus",
+    "phone": "+375292766565"
+  },
+  {
+    "name": "Malinki",
+    "address": "praspiekt Pieramohi 15, Viciebsk, Belarus",
+    "phone": "+375298087747"
+  },
+  {
+    "name": "Ковёр coffee shop",
+    "address": "vulica Iĺinskaha 41/18, Viciebsk, Belarus",
+    "phone": "+375212359173"
+  },
+  {
+    "name": "Батькова хата",
+    "address": "Salsa, Suvorova St 5, Viciebsk 210026, Belarus",
+    "phone": "+375333377557"
+  },
+  {
+    "name": "Avrora Kafe OAO Vitmil",
+    "address": "Biešankovickaja šaša 3, Viciebsk 210007, Belarus",
+    "phone": "+375212540534"
+  },
+  {
+    "name": "GREENCENTER",
+    "address": "Frunze Ave 81 корпус 33, Viciebsk 210033, Belarus",
+    "phone": "8133210033"
+  },
+  {
+    "name": "Biznes-Tsentr \"Marko-Siti\"",
+    "address": "vulica Kasmanaŭtaŭ 10А, Viciebsk 210001, Belarus",
+    "phone": "10210001"
+  },
+  {
+    "name": "Mega",
+    "address": "Čkalava St 35, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "ТРЦ \"Metro Park\" - торговый центр (ТЦ) в Витебске",
+    "address": "vulica Lienina 35, Viciebsk, Belarus",
+    "phone": "+375212962554"
+  },
+  {
+    "name": "Torgovyy Tsentr Belarus",
+    "address": "Budaŭnikoŭ Ave 1, Viciebsk 210038, Belarus",
+    "phone": "+375297199901"
+  },
+  {
+    "name": "Trio",
+    "address": "Budaŭnikoŭ Ave 15В/Г, Viciebsk 210032, Belarus",
+    "phone": "15210032"
+  },
+  {
+    "name": "TC \"Passage\"",
+    "address": "пр-т Фрунзе 81 корп.33, Viciebsk 210033, Belarus",
+    "phone": "8133210033"
+  },
+  {
+    "name": "Torgovyy Tsentr Kontinent",
+    "address": "praspiekt Pieramohi 15, Viciebsk, Belarus",
+    "phone": "+375297199907"
+  },
+  {
+    "name": "Evikom",
+    "address": "vulica Hienierala Bielabarodava 3, Viciebsk, Belarus",
+    "phone": "+375297199904"
+  },
+  {
+    "name": "Ip Demosyuk F.t.",
+    "address": "vulica Lienina 26А, Viciebsk, Belarus",
+    "phone": "+375212358284"
+  },
+  {
+    "name": "Kopitsentr Na Dovatora",
+    "address": "Ulitsa 39-Y Armii д.54, Viciebsk, Belarus",
+    "phone": "+375296665644"
+  },
+  {
+    "name": "\"Koler\"",
+    "address": "пр.Партизанский 150 А ст. метро Могилевская Минск, 220102, Belarus",
+    "phone": "150220102"
+  },
+  {
+    "name": "A1 Shop",
+    "address": "Вороновский сельский совет деревня Поляи, улица Солнечная 28, Viciebsk, Belarus",
+    "phone": "+375298947546"
+  },
+  {
+    "name": "Kopitsentr Ser Vatman",
+    "address": "vulica Piatra Mscislaŭca 9, Minsk, Belarus",
+    "phone": "+375292010219"
+  },
+  {
+    "name": "Marc Chagall Art Center",
+    "address": "vulica Cieraškovaj 25А, корп. 4, Viciebsk 210033, Belarus",
+    "phone": "254210033"
+  },
+  {
+    "name": "ТЦ Замок",
+    "address": "пав. 31в, улица Софьи Панковой 1 Автомобильный рынок, Viciebsk 210000, Belarus",
+    "phone": "311210000"
+  },
+  {
+    "name": "izindii.by товары из Индии, г. Витебск ТЦ Беларусь, пав. 33, INDIA",
+    "address": "Вороновский сельсовет, Трасса М-8 88-й километр, 2, 211341, Belarus",
+    "phone": "8882211341"
+  },
+  {
+    "name": "Veyp Shop \"Om\"",
+    "address": "станция метро \"Восток, Минск улица Петра Мстиславца 9 Dana Center, Minsk 220114, Belarus",
+    "phone": "+375172693279"
+  },
+  {
+    "name": "IT Center (Ремонт мобильных телефонов ноутбуков и компьютеров)",
+    "address": "vulica Kasmanaŭtaŭ 13, Viciebsk, Belarus",
+    "phone": "+375293203336"
+  },
+  {
+    "name": "Nasenne",
+    "address": "vulica Žastkova 10а - 19, Viciebsk 210015, Belarus",
+    "phone": "1019210015"
+  },
+  {
+    "name": "Беккер Беларусь",
+    "address": "vulica Sofji Pankovaj 1а, Viciebsk, Belarus",
+    "phone": "+375293300446"
+  },
+  {
+    "name": "сеть магазинов «Подземка» Витебск",
+    "address": "Kazimiraŭskaja vulica 34, Viciebsk, Belarus",
+    "phone": "+375297126138"
+  },
+  {
+    "name": "Евроопт Hyper",
+    "address": "Moskovskiy Prospekt 19, Viciebsk, Belarus",
+    "phone": "+375336960030"
+  },
+  {
+    "name": "KAPRIZ KOMISSIONNYI MAGAZIN CHUP AGENTSTVO VITEBSKIE USLUGI",
+    "address": "ТЦ Грин, Čkalava St 35, Viciebsk, Belarus",
+    "phone": "+78002001063"
+  },
+  {
+    "name": "Fol'Ksvagen Avtocentr OOO Amiko",
+    "address": "Budaŭnikoŭ Ave 15, Viciebsk 210032, Belarus",
+    "phone": "15210032"
+  },
+  {
+    "name": "Yelektronservis VRC Odo",
+    "address": "vulica Kasmanaŭtaŭ 11, Viciebsk, Belarus",
+    "phone": "+375212600700"
+  },
+  {
+    "name": "\"Park Pobediteley\"",
+    "address": "Витебский район Вороновский сельсовет, М-8, 88км, 2, 211341, Belarus",
+    "phone": "8882211341"
+  },
+  {
+    "name": "Fototochka",
+    "address": "пр-кт Людникова, дом № 2, Viciebsk 210026, Belarus",
+    "phone": "+375212602905"
+  },
+  {
+    "name": "5 Element",
+    "address": "ТЦ Корона, Biešankovickaja šaša 3, Viciebsk 210007, Belarus",
+    "phone": "+375291538222"
+  },
+  {
+    "name": "Electrosila",
+    "address": "Великолукский тракт, 71Р, Viciebsk 210016, Belarus",
+    "phone": "71210016"
+  },
+  {
+    "name": "Magazin Tovarov Dlya Sporta, Plavaniya, Podvodnoy Okhoty \"Drayv\"",
+    "address": "Ulitsa Titova, Viciebsk, Belarus",
+    "phone": "+375336143321"
+  },
+  {
+    "name": "Kruglosutochnyy Veyp Shop Bigboy V Vitebske",
+    "address": "Leningradskaya Street 134А, Viciebsk, Belarus",
+    "phone": "+375336144457"
+  },
+  {
+    "name": "5 Element",
+    "address": "Biešankovickaja šaša 3-1, Viciebsk 210007, Belarus",
+    "phone": "31210007"
+  },
+  {
+    "name": "Dachnik Magazin Chutpp Pluton",
+    "address": "Gagarina Street 169, Viciebsk 210040, Belarus",
+    "phone": "169210040"
+  },
+  {
+    "name": "Лозанж. Официальный дилер Renault в Витебске.",
+    "address": "vulica Praŭdy, Viciebsk, Belarus",
+    "phone": "+375212680188"
+  },
+  {
+    "name": "Smoke Land",
+    "address": "vulica Lienina 35, Viciebsk 210026, Belarus",
+    "phone": "35210026"
+  },
+  {
+    "name": "Правильная мебель",
+    "address": "vulica Lienina 26А, Viciebsk, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "Sadovyy Tsentr Oma",
+    "address": "Moskovskiy Prospekt 86, Viciebsk, Belarus",
+    "phone": "+375291225290"
+  },
+  {
+    "name": "\"Svetofor\"",
+    "address": "ТРЦ Трио, Budaŭnikoŭ Ave 15В, Viciebsk 210038, Belarus",
+    "phone": "15210038"
+  },
+  {
+    "name": "5 Element",
+    "address": "магазин Драйв, Бешенковичское шоссе, 3А, ТЦ Корона, Viciebsk 210015, Belarus",
+    "phone": "+375333368222"
+  },
+  {
+    "name": "ŠKODA в Витебске",
+    "address": "Чкалова 35, тц Green, 1 Этаж, под траволатором, Viciebsk, Belarus",
+    "phone": "+375297207968"
+  },
+  {
+    "name": "kari",
+    "address": "Čkalava St 35, Viciebsk, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "\"Mir Dachnika\"",
+    "address": "Ulitsa Kalinina 19, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "ООО \"Пилакос\" STIHL",
+    "address": "vulica Pietrusia Broŭki 22А/1, Viciebsk 210039, Belarus",
+    "phone": "221210039"
+  },
+  {
+    "name": "Magazin Rybolovnykh Snastey \"Barrakuda\"",
+    "address": "Moskovskiy Prospekt 14, Viciebsk 210015, Belarus",
+    "phone": "14210015"
+  },
+  {
+    "name": "«Удачник» — магазин садовой техники, Karcher и электроинструмента в Витебске",
+    "address": "Moskovskiy Prospekt 130к1, Viciebsk 210036, Belarus",
+    "phone": "1301210036"
+  },
+  {
+    "name": "Magazin \"Usad'ba\"",
+    "address": "vulica Cieraškovaj 7а, Viciebsk 210601, Belarus",
+    "phone": "+375293401100"
+  },
+  {
+    "name": "Pitomnik Sadovykh Rasteniy \"Semitsvetik\"",
+    "address": "vulica Lienina 26А, Viciebsk, Belarus",
+    "phone": "+375293794203"
+  },
+  {
+    "name": "vitebsk.razbor",
+    "address": "Moskovskiy Prospekt 74/1, Viciebsk 210035, Belarus",
+    "phone": "741210035"
+  },
+  {
+    "name": "Lor-Tsentr",
+    "address": "пр-т, Moskovskiy Prospekt 66, Viciebsk 210029, Belarus",
+    "phone": "66210029"
+  },
+  {
+    "name": "Tsentr Khoroshego Slukha",
+    "address": "vulica Hienierala Bielabarodava дом 3, Viciebsk, Belarus",
+    "phone": "+375333650999"
+  },
+  {
+    "name": "vitebsk.razbor",
+    "address": "Moskovskiy Prospekt 68, Viciebsk 210035, Belarus",
+    "phone": "68210035"
+  },
+  {
+    "name": "ŠKODA в Витебске | Официальный сервис",
+    "address": "Prospekte Pobeditelei 65, Minsk, Belarus",
+    "phone": "+375173095450"
+  },
+  {
+    "name": "Dana Center",
+    "address": "Čkalava St 17, Viciebsk 210000, Belarus",
+    "phone": "17210000"
+  },
+  {
+    "name": "Avtoprivoz",
+    "address": "Proyezd Gogolya д. 11, Viciebsk 210015, Belarus",
+    "phone": "11210015"
+  },
+  {
+    "name": "Dana mall",
+    "address": "Moskovskiy Prospekt 66, Viciebsk 210035, Belarus",
+    "phone": "66210035"
+  },
+  {
+    "name": "Mir Motorov - Viciebsk",
+    "address": "ул, Pervaya Dovatora St д.12, Viciebsk, Belarus",
+    "phone": "+375295513506"
+  },
+  {
+    "name": "Momo Shoping Mall",
+    "address": "Frunze Ave 28, Viciebsk, Belarus",
+    "phone": "+375333013067"
+  },
+  {
+    "name": "Конные прогулки Horse Vitebsk",
+    "address": "vulica Putna 2, Viciebsk, Belarus",
+    "phone": "+375212360387"
+  },
+  {
+    "name": "Marc Chagall Art Center",
+    "address": "Ulitsa Kalinina 19, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Viciebsk Regional History Museum",
+    "address": "vulica Puškina, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Pushkinskiy Most",
+    "address": "vulica Pakroŭskaja 11, Viciebsk, Belarus",
+    "phone": "+375212663468"
+  },
+  {
+    "name": "Marc Chagall Museum",
+    "address": "vulica Lienina 36, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Marc Chagall Monument",
+    "address": "vulica Janki Kupaly 17, Viciebsk, Belarus",
+    "phone": "+375212364572"
+  },
+  {
+    "name": "Memorial'nyy Kompleks \"Tri Shtyka\"",
+    "address": "vulica Pakroŭskaja, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Muzeum of modern arts",
+    "address": "Zamkovaya Ulitsa 1, Viciebsk, Belarus",
+    "phone": "+375212676710"
+  },
+  {
+    "name": "Viciebsk Zoo",
+    "address": "vulica Putna 2, Viciebsk, Belarus",
+    "phone": "+375212360387"
+  },
+  {
+    "name": "Blagoveshchenskaya Tserkov'",
+    "address": "vulica Hienierala Bielabarodava 6, Viciebsk, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Summer Amphitheatre",
+    "address": "vulica Budzionnaha 7, Viciebsk 210024, Belarus",
+    "phone": "+375295192583"
+  },
+  {
+    "name": "Direktsiya Mezhdunarodnogo Festivalya Iskusstv \"Slavyanskiy Bazar V Vitebske\"",
+    "address": "вулiца Маякоўскага 1, Viciebsk, Belarus",
+    "phone": "+375212626591"
+  },
+  {
+    "name": "Dream Tours - Дрим Турс | Горящие туры в Витебске",
+    "address": "Frunze Ave 13а, Viciebsk 210026, Belarus",
+    "phone": "13210026"
+  },
+  {
+    "name": "Кронон Парк Отель",
+    "address": "vulica Lienina 12, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Yevrouyut",
+    "address": "Ulitsa Stefana Batoriya 8, Grodno, Belarus",
+    "phone": "+375152791700"
+  },
+  {
+    "name": "Neman Hotel",
+    "address": "ул. Пышки 19, Grodno 230030, Belarus",
+    "phone": "19230030"
+  },
+  {
+    "name": "Apart Otel' Semashko",
+    "address": "Soviet St 6, Grodno, Belarus",
+    "phone": "+375296622288"
+  },
+  {
+    "name": "Butik-Otel' \"Novyy Svet\"",
+    "address": "10, Antonova street, Grodno 230025, Belarus",
+    "phone": "10230025"
+  },
+  {
+    "name": "VS DESIGN HOTEL",
+    "address": "Ulitsa Vasil'ka 40, Grodno 230025, Belarus",
+    "phone": "40230025"
+  },
+  {
+    "name": "Гродно Гостиница Омега",
+    "address": "Ulitsa Budonnogo 28, Grodno 230023, Belarus",
+    "phone": "28230023"
+  },
+  {
+    "name": "Гостиница Семашко на Антонова",
+    "address": "ул. Калючинская, д. 23, Grodno 230025, Belarus",
+    "phone": "23230025"
+  },
+  {
+    "name": "Хостел Центр Hostel Center",
+    "address": "Ulitsa Uritskogo 23, Grodno 230025, Belarus",
+    "phone": "23230025"
+  },
+  {
+    "name": "Evrouyut Chup",
+    "address": "vulica Maksima Horkaha 27, Grodno 230029, Belarus",
+    "phone": "27230029"
+  },
+  {
+    "name": "Slavija",
+    "address": "Minevichi 27, Minevichi 231607, Belarus",
+    "phone": "27231607"
+  },
+  {
+    "name": "Хостел ГОСТИМ",
+    "address": "Novaya Ruda 73b, Grodno 231757, Belarus",
+    "phone": "73231757"
+  },
+  {
+    "name": "Hotel Tourist, Grodno",
+    "address": "Республика Беларусь, Гродненская область, Гродненский район, аг. Поречье ул. Л улица Толстого 10 А, Belarus",
+    "phone": "+74991106991"
+  },
+  {
+    "name": "Hotel Belarus",
+    "address": "улица Новая 85, Grodno 230030, Belarus",
+    "phone": "85230030"
+  },
+  {
+    "name": "Sport Gostinica Gu CSK Neman",
+    "address": "д. Крулевщина д. 7, Svyatsk Velikiy 230000, Belarus",
+    "phone": "+375333333227"
+  },
+  {
+    "name": "Kvartira Na Sutki",
+    "address": "Golovnicheб 19, Golovniche 230000, Belarus",
+    "phone": "19230000"
+  },
+  {
+    "name": "Hello Grodno Hostel",
+    "address": "Porokhovaya St 9, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Hostel Old Bridge",
+    "address": "д.Салатье, дом 34, Salat'e 231742, Belarus",
+    "phone": "34231742"
+  },
+  {
+    "name": "Hotel Prival",
+    "address": "Zarechnaya Street 32A, Porechie 231742, Belarus",
+    "phone": "32231742"
+  },
+  {
+    "name": "Karalinski Falvarok Tyzengauza",
+    "address": "аг. Поречье, гродненская обл, гродненский район, Озерская 16 Поречье BY, 231742, Belarus",
+    "phone": "16231742"
+  },
+  {
+    "name": "Hotel Prival",
+    "address": "Ulitsa Pobedy 42, Koptevka 231710, Belarus",
+    "phone": "42231710"
+  },
+  {
+    "name": "Kip Town Hostel Grodno",
+    "address": "Praspiekt Kasmanaŭtaŭ 100, Grodno 230013, Belarus",
+    "phone": "100230013"
+  },
+  {
+    "name": "Sport Gostinica Gu CSK Neman",
+    "address": "Ulitsa Sadakova 53, Grodno 230028, Belarus",
+    "phone": "53230028"
+  },
+  {
+    "name": "Apartamenty Le Tua",
+    "address": "ул. Экзотическая 16, Grodno, Belarus",
+    "phone": "+375297809401"
+  },
+  {
+    "name": "Khostel Sarmatiya",
+    "address": "Гродненский р-н, Путришковский СС д.5 д. Зарица, Grodno, Belarus",
+    "phone": "+375297864000"
+  },
+  {
+    "name": "Hotel Belarus",
+    "address": "Могутная 31, д Коробчицы, Гродно, 231721, Belarus",
+    "phone": "31231721"
+  },
+  {
+    "name": "Apartotel' \"Slaviya\"",
+    "address": "Ulitsa Tsentral'naya 112, Grodno, Belarus",
+    "phone": "+375297811071"
+  },
+  {
+    "name": "Санаторий \"Озерный\"",
+    "address": "Ulitsa 17 Sentyabrya 36, Навагрудак 231400, Belarus",
+    "phone": "1736231400"
+  },
+  {
+    "name": "Yevrouyut",
+    "address": "ул. Таранова, 69 д, Kazimirovka, Belarus",
+    "phone": "+375295833335"
+  },
+  {
+    "name": "Rayskiy Ugolok",
+    "address": "M-6, 291-i km, 3, Bruzgi 231731, Belarus",
+    "phone": "62913231731"
+  },
+  {
+    "name": "Sanatoriy Zhemchuzhina",
+    "address": "Ulitsa Uritskogo 26, Grodno 230025, Belarus",
+    "phone": "26230025"
+  },
+  {
+    "name": "Уютный домик с камином",
+    "address": "улица Розанова 34, Grodno 230001, Belarus",
+    "phone": "34230001"
+  },
+  {
+    "name": "Apartaiyent",
+    "address": "Ulitsa Avtomobil'naya 13, Kolbasino 230771, Belarus",
+    "phone": "13230771"
+  },
+  {
+    "name": "Agrousadby",
+    "address": "Street Lounge 7, Korobchitsy 231721, Belarus",
+    "phone": "+375292714047"
+  },
+  {
+    "name": "Guest house with sauna",
+    "address": "Porokhovaya St 9/1, Grodno, Belarus",
+    "phone": "+375333087603"
+  },
+  {
+    "name": "Хостел Старый Мост",
+    "address": "Околичная 50, Chekhovshchina 231721, Belarus",
+    "phone": "50231721"
+  },
+  {
+    "name": "U Grushi",
+    "address": "ул. Санаторная 23, Grodno 230007, Belarus",
+    "phone": "23230007"
+  },
+  {
+    "name": "Drive Hotel",
+    "address": "Дубровенская 125, Grodno 230023, Belarus",
+    "phone": "125230023"
+  },
+  {
+    "name": "Apartamenty \"Viatur\"",
+    "address": "Ulitsa Elizy Ozheshko д.33, Grodno 230023, Belarus",
+    "phone": "33230023"
+  },
+  {
+    "name": "Частное Предприятие Санаторий \"Неман-72\"",
+    "address": "vulica Lienina 19, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Agrousad'ba \"Gelena\"",
+    "address": "деревня Зарица,ул.Гожская 6, Grodno 230014, Belarus",
+    "phone": "+375295883444"
+  },
+  {
+    "name": "Дом Новогрудок",
+    "address": "ул. Санаторная 26, Grodno 230009, Belarus",
+    "phone": "26230009"
+  },
+  {
+    "name": "Коттеджи на сутки в Гродно. Аренда коттеджей",
+    "address": "Ulitsa 17 Sentyabrya, Grodno, Belarus",
+    "phone": "+375152773535"
+  },
+  {
+    "name": "SOSNOVAJA OPUSHKA USADBA",
+    "address": "vulica Karla Marksa 11, Grodno 230005, Belarus",
+    "phone": "11230005"
+  },
+  {
+    "name": "Bremino-Bruzgi Hotel",
+    "address": "vulica Maksima Horkaha 18, Grodno, Belarus",
+    "phone": "+375152740780"
+  },
+  {
+    "name": "Usad'ba Na Ekzoticheskoy",
+    "address": "Коммунальная 3, Гродно, 230029, Belarus",
+    "phone": "+375152723849"
+  },
+  {
+    "name": "HOTEL 412",
+    "address": "Гродненская обл., Гродненский р-н, агрогородок Озеры., агрогородок Озеры 231753, Belarus",
+    "phone": "+375295818525"
+  },
+  {
+    "name": "Hostel Rubanovka 98",
+    "address": "гродненская область, Подлабенский сельский совет 35/1, Grodno 230000, Belarus",
+    "phone": "351230000"
+  },
+  {
+    "name": "Dom in Koptevka",
+    "address": "Soviet St 15а, Grodno 230023, Belarus",
+    "phone": "15230023"
+  },
+  {
+    "name": "Agrousad'ba \"Mechta\"",
+    "address": "vulica Karla Marksa 11-4, Grodno 230025, Belarus",
+    "phone": "114230025"
+  },
+  {
+    "name": "Agrousadba Zariechie",
+    "address": "гродненская область, Подлабенский сельский совет 35/1, Grodno 230000, Belarus",
+    "phone": "351230000"
+  },
+  {
+    "name": "Agrousadba Tri Babri",
+    "address": "Коммунальная 3, Гродно, 230029, Belarus",
+    "phone": "+375152723849"
+  },
+  {
+    "name": "Usadba Zlaty Teren",
+    "address": "Haradnichanskaya 30-1, Grodno 230025, Belarus",
+    "phone": "301230025"
+  },
+  {
+    "name": "Usadba la Svyatska",
+    "address": "Rozanova street 34 Строение, Grodno 230001, Belarus",
+    "phone": "34230001"
+  },
+  {
+    "name": "Khostel \"85\"",
+    "address": "vulica Lienina, Grodno, Belarus",
+    "phone": "+375336557951"
+  },
+  {
+    "name": "Country House on Novaya Ruda 73b",
+    "address": "vulica Maksima Horkaha 18, Grodno, Belarus",
+    "phone": "+375152740780"
+  },
+  {
+    "name": "Usadba Minevichi",
+    "address": "праспект Я. Купалы 63, Grodno 230026, Belarus",
+    "phone": "63230026"
+  },
+  {
+    "name": "Parečča",
+    "address": "Mostowa 31, Grodno, Belarus",
+    "phone": "+375333131312"
+  },
+  {
+    "name": "Maxhouse Apartment on Zaharova",
+    "address": "Molodezhnaya Ulitsa 1, Grodno 230025, Belarus",
+    "phone": "+375447998393"
+  },
+  {
+    "name": "Restoran Bakst",
+    "address": "buĺvar Lieninskaha Kamsamolu 50, Grodno 230009, Belarus",
+    "phone": "50230009"
+  },
+  {
+    "name": "Pizza Forno",
+    "address": "vulica Pieramohi 35, Grodno 230026, Belarus",
+    "phone": "35230026"
+  },
+  {
+    "name": "Bol'shoy Bufet",
+    "address": "Ulitsa Elizy Ozheshko 3, Grodno, Belarus",
+    "phone": "+375152723339"
+  },
+  {
+    "name": "Basta Pasta!",
+    "address": "ул.Замковая 21, Grodno 230025, Belarus",
+    "phone": "21230025"
+  },
+  {
+    "name": "Turan",
+    "address": "Калючинская 23, Grodno 230025, Belarus",
+    "phone": "23230025"
+  },
+  {
+    "name": "Sanvino",
+    "address": "Vilenskaya Ulitsa 2, Grodno 230023, Belarus",
+    "phone": "+375152620664"
+  },
+  {
+    "name": "Ресторан белорусской кухни Беласток",
+    "address": "1-я Працоўная вуліца 10, Grodno, Belarus",
+    "phone": "+375297444999"
+  },
+  {
+    "name": "Khani Kabani Gril' Bar",
+    "address": "buĺvar Lieninskaha Kamsamolu 29а, Grodno 230009, Belarus",
+    "phone": "29230009"
+  },
+  {
+    "name": "Лаунж Кафе Барашка",
+    "address": "Soviet St 18, Grodno, Belarus",
+    "phone": "+375333321803"
+  },
+  {
+    "name": "Грынвіч",
+    "address": "7A, Red Army St, Grodno 230003, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Хинкальня",
+    "address": "Praspiekt Kasmanaŭtaŭ 56, Grodno, Belarus",
+    "phone": "+375152559360"
+  },
+  {
+    "name": "Staryy Gorod",
+    "address": "vulica Boldzina 16, Grodno, Belarus",
+    "phone": "+375152648712"
+  },
+  {
+    "name": "Staryy Lyamus",
+    "address": "Vilenskaya Ulitsa 6, Grodno 230023, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Restobar Granat Grodno",
+    "address": "лесопарк Пышки, Grodno, Belarus",
+    "phone": "+375333144144"
+  },
+  {
+    "name": "Pablo Restobar",
+    "address": "Ulitsa 17 Sentyabrya 61, Grodno, Belarus",
+    "phone": "+375333066300"
+  },
+  {
+    "name": "Restoran Murav'yev",
+    "address": "Zamkavaja vulica 11, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Пешков",
+    "address": "Soviet St 31, Grodno, Belarus",
+    "phone": "+375152625705"
+  },
+  {
+    "name": "Beer Restaurant \"Neman\"",
+    "address": "Vilenskaya Ulitsa 1, Grodno, Belarus",
+    "phone": "+375297442442"
+  },
+  {
+    "name": "Buffet",
+    "address": "ул. Гагарина, 19, Grodno 230011, Belarus",
+    "phone": "19230011"
+  },
+  {
+    "name": "Beer Restaurant \"Neman\"",
+    "address": "Ulitsa Budonnogo 28, Grodno 230023, Belarus",
+    "phone": "28230023"
+  },
+  {
+    "name": "Buffet",
+    "address": "Калючинская, 12, Grodno, Belarus",
+    "phone": "+375445773300"
+  },
+  {
+    "name": "Кронон Парк Отель",
+    "address": "vulica Voĺhi Solamavaj 157, Grodno, Belarus",
+    "phone": "+375298448877"
+  },
+  {
+    "name": "Go-Go Pizza",
+    "address": "vulica Bieluša 4, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Houdini",
+    "address": "Замкавы тупік 18, Grodno 230025, Belarus",
+    "phone": "18230025"
+  },
+  {
+    "name": "Dom Restoran OOO Bartashevich",
+    "address": "Soviet St 23, Grodno, Belarus",
+    "phone": "+375152743546"
+  },
+  {
+    "name": "Belyye Rozy Restoran",
+    "address": "Ulitsa Elizy Ozheshko 1, Grodno, Belarus",
+    "phone": "+375333327777"
+  },
+  {
+    "name": "Litviny",
+    "address": "кафе Справа, Mostowa 31, Grodno 230025, Belarus",
+    "phone": "31230025"
+  },
+  {
+    "name": "Coffee way",
+    "address": "Ulitsa Stefana Batoriya 8, Grodno, Belarus",
+    "phone": "+375152791700"
+  },
+  {
+    "name": "Pyatnitsa",
+    "address": "Soviet St 10, Grodno, Belarus",
+    "phone": "+375333250916"
+  },
+  {
+    "name": "Belye Rozy Restoran Odo Al'Bionzapad",
+    "address": "Soviet St 18, Grodno, Belarus",
+    "phone": "+375298068926"
+  },
+  {
+    "name": "Troyka",
+    "address": "Ulitsa Budonnogo 23а, Grodno 230029, Belarus",
+    "phone": "23230029"
+  },
+  {
+    "name": "Bar Faradey",
+    "address": "Ulitsa Elizy Ozheshko 22А, Grodno, Belarus",
+    "phone": "+375297792222"
+  },
+  {
+    "name": "Shanson Kafe OOO Belpryeks",
+    "address": "Ulitsa Dzerzhinskogo 10А, Grodno 230005, Belarus",
+    "phone": "10230005"
+  },
+  {
+    "name": "Khinkal'nya",
+    "address": "vul. Suvorava 135, Grodno, Belarus",
+    "phone": "+375152520164"
+  },
+  {
+    "name": "Parkking",
+    "address": "Ulitsa Elizy Ozheshko 35 а, Grodno, Belarus",
+    "phone": "+375152620908"
+  },
+  {
+    "name": "Burger King",
+    "address": "праспект Я. Купалы 63, Grodno 230026, Belarus",
+    "phone": "63230026"
+  },
+  {
+    "name": "Dzhezva",
+    "address": "Ulitsa Budonnogo 56, Grodno, Belarus",
+    "phone": "+375336605656"
+  },
+  {
+    "name": "Gastrobar Werden",
+    "address": "Limozha St 3, Grodno 230005, Belarus",
+    "phone": "+375333667742"
+  },
+  {
+    "name": "Пит Stop",
+    "address": "Tts Folyush, vulica Voĺhi Solamavaj 137, Grodno, Belarus",
+    "phone": "+375298878787"
+  },
+  {
+    "name": "YellowStreet17",
+    "address": "Zavodskaya vulitsa 14, Grodno, Belarus",
+    "phone": "+375445109203"
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "vulica Paryžskaj Kamuny 2, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "MC Doner",
+    "address": "ул. Гаспадарчая 19, Grodno 230005, Belarus",
+    "phone": "19230005"
+  },
+  {
+    "name": "Винный ресторан | Esperanto Wine Bar | Живая музыка",
+    "address": "vulica Maksima Horkaha 91, Grodno 230015, Belarus",
+    "phone": "91230015"
+  },
+  {
+    "name": "Карафуто",
+    "address": "Mostowa 31, Grodno, Belarus",
+    "phone": "+375292266866"
+  },
+  {
+    "name": "Limuzin Restoran Tpuchp Al'Ett",
+    "address": "Замковая 3, Grodno 230025, Belarus",
+    "phone": "+375333224777"
+  },
+  {
+    "name": "Traktir\" Podkova",
+    "address": "вулiца Пестрака 7, Grodno 230026, Belarus",
+    "phone": "+375293111114"
+  },
+  {
+    "name": "Додо Пицца",
+    "address": "praspiekt Janki Kupaly 87, Grodno 230026, Belarus",
+    "phone": "87230026"
+  },
+  {
+    "name": "Dodo Pitstsa",
+    "address": "улица Замковая 12А, Grodno 230025, Belarus",
+    "phone": "12230025"
+  },
+  {
+    "name": "Big Jones",
+    "address": "улица Господарчая 27, Grodno 230005, Belarus",
+    "phone": "27230005"
+  },
+  {
+    "name": "NoriSushi.by",
+    "address": "Зернова 3, Гродно, 230029, Belarus",
+    "phone": "+375152771530"
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Ulitsa Slavinskogo 4, Grodno, Belarus",
+    "phone": "+375152617546"
+  },
+  {
+    "name": "Chempi Kafe-Klub",
+    "address": "праспект Я. Купалы 87, Grodno 230026, Belarus",
+    "phone": "87230026"
+  },
+  {
+    "name": "Burger King",
+    "address": "Ulitsa Kalyuchinskaya 21, Grodno 230025, Belarus",
+    "phone": "21230025"
+  },
+  {
+    "name": "Столовая и банкетный зал в УО \"ГГЭК им.И.Счастного\"",
+    "address": "vulica Maksima Horkaha 72, Grodno 230029, Belarus",
+    "phone": "72230029"
+  },
+  {
+    "name": "Суши в Гродно от SushiHome",
+    "address": "Grgu Im. Ya.kupaly, zavulak Davatara 3, Grodno 230005, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Bufet Grgu",
+    "address": "ул. Победы 16к14, vulica Pieramohi, Grodno, Belarus",
+    "phone": "+375292873805"
+  },
+  {
+    "name": "Dining room of the bus fleet",
+    "address": "Ulitsa Sovetskikh Pogranichnikov 31, Grodno, Belarus",
+    "phone": "+375295992220"
+  },
+  {
+    "name": "Veras",
+    "address": "Ulitsa Dzerzhinskogo 41/2, Grodno 230005, Belarus",
+    "phone": "412230005"
+  },
+  {
+    "name": "Суши Wok Гродно",
+    "address": "vulica Karla Marksa 10, Grodno 230005, Belarus",
+    "phone": "10230005"
+  },
+  {
+    "name": "Stolovaya Beltopaz",
+    "address": "Limozha St 32б, Grodno 230005, Belarus",
+    "phone": "32230005"
+  },
+  {
+    "name": "KFC Triniti",
+    "address": "ул. Антонова 29, Grodno, Belarus",
+    "phone": "+375298385099"
+  },
+  {
+    "name": "Stolovaya Khimvolokno",
+    "address": "Ulitsa Budonnogo 37, Grodno, Belarus",
+    "phone": "+375333834477"
+  },
+  {
+    "name": "Kofeynya Doppio",
+    "address": "praspiekt Janki Kupaly 82А, Grodno 230010, Belarus",
+    "phone": "82230010"
+  },
+  {
+    "name": "GARAGE food&coffee",
+    "address": "Praspiekt Kasmanaŭtaŭ 1, Grodno 230025, Belarus",
+    "phone": "+375296067576"
+  },
+  {
+    "name": "Stolovaja Rup Grodnenskoe Proizvodstvennoe Kozhevennoe Obedinenie",
+    "address": "Soviet St 25, Grodno, Belarus",
+    "phone": "+375291991172"
+  },
+  {
+    "name": "Grizzly Grill & Bar",
+    "address": "vulica Kirava 9, Grodno 230025, Belarus",
+    "phone": "+375333444470"
+  },
+  {
+    "name": "Ресторан-пивоварня «Гости»",
+    "address": "Mostowa 31, Grodno, Belarus",
+    "phone": "+375333428888"
+  },
+  {
+    "name": "Stolovaya Oao Groniteks",
+    "address": "вулiца Пестрака 7, Grodno 230026, Belarus",
+    "phone": "+375336020845"
+  },
+  {
+    "name": "МЯТА Lounge",
+    "address": "vulica Dubko 17, Grodno 230005, Belarus",
+    "phone": "17230005"
+  },
+  {
+    "name": "Kavalava",
+    "address": "vulica Kirava 5, Grodno 230025, Belarus",
+    "phone": "+375447044344"
+  },
+  {
+    "name": "Кафе \"Бизнес Паб\"",
+    "address": "vulica Maksima Horkaha 80, Grodno, Belarus",
+    "phone": "+375152432119"
+  },
+  {
+    "name": "Zamok Zevany",
+    "address": "ул. Антонова 3, Grodno 230025, Belarus",
+    "phone": "+375445327717"
+  },
+  {
+    "name": "Pub Mr.Hops",
+    "address": "Praspiekt Kasmanaŭtaŭ 81, Grodno 230025, Belarus",
+    "phone": "81230025"
+  },
+  {
+    "name": "KOIfish",
+    "address": "vulica Akademičnaja 17, Grodno 230023, Belarus",
+    "phone": "17230023"
+  },
+  {
+    "name": "Berloga Bar Chtup MVV-Torg",
+    "address": "Ulitsa Elizy Ozheshko 22А, Grodno, Belarus",
+    "phone": "+375298814559"
+  },
+  {
+    "name": "\"Palanez\"",
+    "address": "Tts Korona, Praspiekt Kasmanaŭtaŭ 81, Grodno, Belarus",
+    "phone": "+375447997249"
+  },
+  {
+    "name": "Stolovaja OAO Grodnozhilstroi",
+    "address": "Mostowa 31, Grodno 230025, Belarus",
+    "phone": "31230025"
+  },
+  {
+    "name": "Hotel Tourist, Grodno",
+    "address": "Soviet St 5, Grodno, Belarus",
+    "phone": "+375297845535"
+  },
+  {
+    "name": "Park King",
+    "address": "часть зоны аренды №255, praspiekt Janki Kupaly 87, Grodno 230026, Belarus",
+    "phone": "25587230026"
+  },
+  {
+    "name": "МакаРонин / MakaRonin",
+    "address": "Prospekt Kletskova, Grodno, Belarus",
+    "phone": "+375152684949"
+  },
+  {
+    "name": "Draniki",
+    "address": "Ulitsa Gaya, Grodno, Belarus",
+    "phone": "+375152569046"
+  },
+  {
+    "name": "Sushimaniya - Dostavka Sushi V Grodno S Besplatnoy Dostavkoy",
+    "address": "Дзержинского 98, Гродно, 230005, Belarus",
+    "phone": "98230005"
+  },
+  {
+    "name": "Krysha Mira",
+    "address": "Ulitsa Budonnogo 37, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Restobar \"Rozmarin\"",
+    "address": "Sotsialisticheskaya Ulitsa 32, Grodno, Belarus",
+    "phone": "+375333593232"
+  },
+  {
+    "name": "Neman Hotel",
+    "address": "praspiekt Janki Kupaly 87, Grodno 230026, Belarus",
+    "phone": "87230026"
+  },
+  {
+    "name": "Bistro Semafor",
+    "address": "Mostowa 31, Grodno 230025, Belarus",
+    "phone": "31230025"
+  },
+  {
+    "name": "Pitstsa I Sushi \"Khotey\"",
+    "address": "Ulitsa Dzerzhinskogo 98, Grodno 230005, Belarus",
+    "phone": "98230005"
+  },
+  {
+    "name": "Prosta Kava",
+    "address": "vul. Suvorava 216, Grodno, Belarus",
+    "phone": "+375333400035"
+  },
+  {
+    "name": "Sprava",
+    "address": "ул. Пышки 19, Grodno 230030, Belarus",
+    "phone": "19230030"
+  },
+  {
+    "name": "Шаурма Shaw-Books Гродно О. Соломовой 157",
+    "address": "Bus Station, Чырвонаармейская вуліца 7a, Grodno 230025, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Kofeynya Kakao",
+    "address": "vulica Lienina 13, Grodno 230025, Belarus",
+    "phone": "13230025"
+  },
+  {
+    "name": "Randevu",
+    "address": "Bus Station, Чырвонаармейская вуліца 7a, Grodno 230025, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Cuba",
+    "address": "Ulitsa Stefana Batoriya 8, Grodno, Belarus",
+    "phone": "+375292791733"
+  },
+  {
+    "name": "Лондан",
+    "address": "Ulitsa Stefana Batoriya 8, Grodno, Belarus",
+    "phone": "+375292791733"
+  },
+  {
+    "name": "Карчма",
+    "address": "vulica Maksima Horkaha 27, Grodno 230029, Belarus",
+    "phone": "27230029"
+  },
+  {
+    "name": "Nasha Kava",
+    "address": "Savieckaja plošča 2, Grodno 230025, Belarus",
+    "phone": "+375447733087"
+  },
+  {
+    "name": "Baza Otdykha \"Prival\"",
+    "address": "Mostowa 31, Grodno, Belarus",
+    "phone": "+375295511121"
+  },
+  {
+    "name": "OldCity Mall",
+    "address": "Schorsa St, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "TRINITI",
+    "address": "ул. Фомичева 2, Grodno, Belarus",
+    "phone": "+375297860547"
+  },
+  {
+    "name": "Korona Mall",
+    "address": "vulica Puškina 29А, Grodno 230012, Belarus",
+    "phone": "29230012"
+  },
+  {
+    "name": "Nioman",
+    "address": "vulica Dubko 17, Grodno 230005, Belarus",
+    "phone": "17230005"
+  },
+  {
+    "name": "Sts Tiande Tts Magnit",
+    "address": "praspiekt Janki Kupaly 87, Grodno 230026, Belarus",
+    "phone": "87230026"
+  },
+  {
+    "name": "Torgovo-Servisnyy Tsentr \"Na Pushkina\"",
+    "address": "praspiekt Janki Kupaly 16а, Grodno, Belarus",
+    "phone": "+375152509950"
+  },
+  {
+    "name": "Kazzarma Mall",
+    "address": "vulica Kirava 3, Grodno 230025, Belarus",
+    "phone": "+375336232616"
+  },
+  {
+    "name": "Savieckaja Square",
+    "address": "Soviet St 18, Grodno 230023, Belarus",
+    "phone": "18230023"
+  },
+  {
+    "name": "Etnakrama \"Cudounia\"",
+    "address": "Schorsa St 11а, Grodno, Belarus",
+    "phone": "+375297838751"
+  },
+  {
+    "name": "Евроопт Hyper",
+    "address": "Ulitsa Vishnevetskaya 1, Grodno 230020, Belarus",
+    "phone": "+375333338885"
+  },
+  {
+    "name": "Etnoya",
+    "address": "62а, vulica Haharyna, Skidzyel’, Belarus",
+    "phone": "+375152974047"
+  },
+  {
+    "name": "Evroopt Magazin OOO Evrotorg",
+    "address": "Ulitsa Slavinskogo 4/69, Grodno 230026, Belarus",
+    "phone": "469230026"
+  },
+  {
+    "name": "ARENA City",
+    "address": "Skidel'skoye Shosse д. 28, Grodno, Belarus",
+    "phone": "+375296665644"
+  },
+  {
+    "name": "Galleria Minsk",
+    "address": "улица Кирова, 11, Sotsialisticheskaya Ulitsa 38, Grodno 230012, Belarus",
+    "phone": "1138230012"
+  },
+  {
+    "name": "Nasenne",
+    "address": "улица Кирова, 11, Sotsialisticheskaya Ulitsa 38, Grodno 230027, Belarus",
+    "phone": "1138230027"
+  },
+  {
+    "name": "AutoCenter Crystal",
+    "address": "vul. Suvorava 123А, Grodno 230001, Belarus",
+    "phone": "123230001"
+  },
+  {
+    "name": "Galileo Mall",
+    "address": "Гродно Индурское шоссе 30 Рынок Южный, м. 10 А/З, Grodno 230000, Belarus",
+    "phone": "3010230000"
+  },
+  {
+    "name": "Tsentr Dobraga Zroku",
+    "address": "Praspiekt Kasmanaŭtaŭ 2, Grodno 230003, Belarus",
+    "phone": "+375333931060"
+  },
+  {
+    "name": "Святобор",
+    "address": "Белпочта, ул. Карла Маркса, 29, 1-й этаж (Дом связи, вход справа от, Grodno 230025, Belarus",
+    "phone": "291230025"
+  },
+  {
+    "name": "5 Element",
+    "address": "vul. Suvorava 166, Grodno 230001, Belarus",
+    "phone": "166230001"
+  },
+  {
+    "name": "MOB SHOP Вы знаете кто мы!",
+    "address": "Ulitsa Generala Lebedeva 6А, Grodno 230026, Belarus",
+    "phone": "+375295865455"
+  },
+  {
+    "name": "Green City",
+    "address": "Korona, vulica Maksima Horkaha 91, Grodno 230015, Belarus",
+    "phone": "91230015"
+  },
+  {
+    "name": "Магазин Xiaomi в Гродно - МиБай|MI.BY",
+    "address": "Praspiekt Kasmanaŭtaŭ 68, Grodno 230003, Belarus",
+    "phone": "68230003"
+  },
+  {
+    "name": "Januš Parulis Museum of Life and History of Hrodna",
+    "address": "vulica Piatra Mscislaŭca 9, Minsk, Belarus",
+    "phone": "+375292010219"
+  },
+  {
+    "name": "5 Element",
+    "address": "Sotsialisticheskaya Ulitsa 21, Grodno 230029, Belarus",
+    "phone": "21230029"
+  },
+  {
+    "name": "Electrosila",
+    "address": "vulica Dubko 17, Grodno 230005, Belarus",
+    "phone": "17230005"
+  },
+  {
+    "name": "Декор интерьера Квитней | Магазин обоев в Гродно",
+    "address": "Praspiekt Kasmanaŭtaŭ 2Б, Grodno, Belarus",
+    "phone": "+375297817938"
+  },
+  {
+    "name": "Магазин садовой техники и инвентаря «Хозтоварищ»",
+    "address": "vulica Maksima Horkaha 91, Grodno 230005, Belarus",
+    "phone": "91230005"
+  },
+  {
+    "name": "5 Element",
+    "address": "vulica Puškina 31А, Grodno 230012, Belarus",
+    "phone": "31230012"
+  },
+  {
+    "name": "ZooLand",
+    "address": "Indurskoye Shosse 11/2, Grodno 230026, Belarus",
+    "phone": "112230026"
+  },
+  {
+    "name": "Magazin Agromototekhniki \"Svyatobor\"",
+    "address": "1-я Трудовая д.4, Grodno 230023, Belarus",
+    "phone": "14230023"
+  },
+  {
+    "name": "Salon Nuga Best",
+    "address": "Praspiekt Kasmanaŭtaŭ 81, Grodno 230003, Belarus",
+    "phone": "81230003"
+  },
+  {
+    "name": "Electrosila",
+    "address": "Praspiekt Kasmanaŭtaŭ 81, Grodno 230003, Belarus",
+    "phone": "81230003"
+  },
+  {
+    "name": "Leonidoff Chtup",
+    "address": "праспект Я. Купалы 87, Grodno, Belarus",
+    "phone": "+375173595959"
+  },
+  {
+    "name": "Dana mall",
+    "address": "vulica Liermantava 25, Grodno, Belarus",
+    "phone": "+375336049008"
+  },
+  {
+    "name": "OSAKOVICH I.V. IP",
+    "address": "vulica Prytyckaha 156, Minsk 220017, Belarus",
+    "phone": "156220017"
+  },
+  {
+    "name": "Oil Change Center #1",
+    "address": "Yulan, пр-кт Косманавтов, 2/1 (за зданием МОДО, Grodno, Belarus",
+    "phone": "+375297817938"
+  },
+  {
+    "name": "Oma",
+    "address": "праспект Я. Купалы 16А-1, Grodno 230010, Belarus",
+    "phone": "161230010"
+  },
+  {
+    "name": "Tsentr Global'nogo Turizma",
+    "address": "Praspiekt Kasmanaŭtaŭ 9, Grodno, Belarus",
+    "phone": "+375293123595"
+  },
+  {
+    "name": "Мотовело",
+    "address": "вуліца Акадэміка Карскага 2А, Grodno 230000, Belarus",
+    "phone": "+375256041096"
+  },
+  {
+    "name": "Avtoprivoz",
+    "address": "Pralietarskaja vulica 4А, Grodno 230000, Belarus",
+    "phone": "+375152711033"
+  },
+  {
+    "name": "Olimp Spetsializirovannyy Magazin Inzhenernoy Santekhniki",
+    "address": "Ploshchad' Tyzengauza 4, Grodno, Belarus",
+    "phone": "+375333243030"
+  },
+  {
+    "name": "Tsentr Global'nogo Turizma",
+    "address": "vulica Dzianisaŭskaja 8, Minsk, Belarus",
+    "phone": "+375173772380"
+  },
+  {
+    "name": "Mir Motorov - Grodno",
+    "address": "vulica Babrujskaja 6, Minsk, Belarus",
+    "phone": "+375173286426"
+  },
+  {
+    "name": "TRAVEL LOUNGE туристическое агентство",
+    "address": "Prospekte Pobeditelei 65, Minsk, Belarus",
+    "phone": "+375173095450"
+  },
+  {
+    "name": "Avtorazborka Ip Kozlovich V. I.",
+    "address": "Prospekte Pobeditelei 9, Minsk, Belarus",
+    "phone": "+375445557498"
+  },
+  {
+    "name": "Магазин автозапчастей \"Флагман\" | запчасти для авто | запчасти б/у",
+    "address": "Prospekte Pobeditelei 84, Minsk, Belarus",
+    "phone": "+375293974736"
+  },
+  {
+    "name": "Southern Hills Mall",
+    "address": "vulica Maksima Horkaha 82, Grodno 230015, Belarus",
+    "phone": "82230015"
+  },
+  {
+    "name": "GUM",
+    "address": "2nd floor, праспект Касманаўтаў 81 shopping center “Korona, Grodno, Belarus",
+    "phone": "+375447026960"
+  },
+  {
+    "name": "Fashion Valley",
+    "address": "230005, Limozha St 30, Grodno 230005, Belarus",
+    "phone": "23000530230005"
+  },
+  {
+    "name": "Store \"Udachnyi\"",
+    "address": "praspiekt Janki Kupaly 82А, Grodno, Belarus",
+    "phone": "+375447888880"
+  },
+  {
+    "name": "Old Castle",
+    "address": "Ulitsa Kolozha 6, Grodno 230029, Belarus",
+    "phone": "+375152770763"
+  },
+  {
+    "name": "St Boris and Gleb Church of Kalozha",
+    "address": "Замкавы тупік улица Замковая, 22., Grodno, Belarus",
+    "phone": "+375152721851"
+  },
+  {
+    "name": "Holy Intercession Cathedral",
+    "address": "vulica Liermantava 25, Grodno, Belarus",
+    "phone": "+375336049008"
+  },
+  {
+    "name": "St. Francis Xavier Cathedral",
+    "address": "Vialikaja Trajeckaja vulica 59A, Grodno, Belarus",
+    "phone": "+375152743270"
+  },
+  {
+    "name": "New Castle",
+    "address": "улица Замковая 20, Grodno, Belarus",
+    "phone": "+375152718688"
+  },
+  {
+    "name": "Hrodna Cabinet of Curiosities",
+    "address": "Savieckaja plošča 4, Grodno, Belarus",
+    "phone": null
+  },
+  {
+    "name": "Great Synagogue of Grodno",
+    "address": "Ulitsa Elizy Ozheshko 23, Grodno 230023, Belarus",
+    "phone": "23230023"
+  },
+  {
+    "name": "Hrodna State Museum of Religion History",
+    "address": "Палац Храптовіча, вул. Замкавая, Grodno, Belarus",
+    "phone": "+375152718707"
+  },
+  {
+    "name": "Mir Castle",
+    "address": "vulica Karla Marksa 1, Grodno 230025, Belarus",
+    "phone": "+375152721378"
+  },
+  {
+    "name": "The Ludwik Zamenhof Centre",
+    "address": "10, Antonova street, Grodno 230025, Belarus",
+    "phone": "10230025"
+  },
+  {
+    "name": "Radžiūnai",
+    "address": "ул. Пышки 19, Grodno 230030, Belarus",
+    "phone": "19230030"
+  },
+  {
+    "name": "Church of the Guardian Angels",
+    "address": "vulica Dubko 17, Grodno 230005, Belarus",
+    "phone": "17230005"
+  },
+  {
+    "name": "Kaczy Dołek",
+    "address": "праспект Я. Купалы 63, Grodno 230026, Belarus",
+    "phone": "63230026"
+  },
+  {
+    "name": "VasaRojus",
+    "address": "Ulitsa Uritskogo 5, Grodno 230025, Belarus",
+    "phone": "+375445845151"
+  },
+  {
+    "name": "Gryzy",
+    "address": "vulica Kirava 3, Grodno 230025, Belarus",
+    "phone": "+375336232616"
+  },
+  {
+    "name": "MAŁA FLOTA rejsy po mazurach, rejsy Giżycko, rejsy statkiem Giżycko, rejsy statkiem Mazury",
+    "address": "Ulitsa Elizy Ozheshko 22, Grodno 230023, Belarus",
+    "phone": "22230023"
+  },
+  {
+    "name": "The Museum of Interesting Things (advance appt only)",
+    "address": "praspiekt Janki Kupaly 87, Grodno 230026, Belarus",
+    "phone": "87230026"
+  },
+  {
+    "name": "Lenin Square",
+    "address": "Krasnoarmeyskaya Ulitsa 2, Mir 231444, Belarus",
+    "phone": "+375159636270"
+  },
+  {
+    "name": "Zooparkas",
+    "address": "Mostowa 35, Grodno 230025, Belarus",
+    "phone": "35230025"
+  },
+  {
+    "name": "Galeria Iluzji 3D",
+    "address": "vulica Dubko 17, Grodno 230005, Belarus",
+    "phone": "17230005"
+  }
+]
