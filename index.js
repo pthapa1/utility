@@ -1,6 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 const replace = require('replace-in-file');
+
 // to use it with address search. AddressType is required for the API.
 const addressTypes = [
   'hotels',
@@ -8,8 +9,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-const country = 'Belarus';
-const cities = ['Minsk', 'Gomel', 'Mogilev', 'Vitebsk', 'Hrodna'];
+exports.country = 'Benin';
+const country = this.country;
+const cities = ['Porto Novo', 'Cotonou', 'Abomey Calavi', 'Parakou', 'Djougou'];
 // const city = cities[1];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file

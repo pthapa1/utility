@@ -1,7 +1,7 @@
 const fs = require('fs');
-const country = 'Belarus';
-const path = `././addresses/${country}.json`;
+const { country } = require('..');
 
+const path = `././addresses/${country}.json`;
 fs.readFile(path, 'utf-8', async (err, data) => {
   if (err) throw err;
   const addressList = await JSON.parse(data);
