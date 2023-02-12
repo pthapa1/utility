@@ -21,7 +21,7 @@
   },
   {
     "name": "Hôtel Mercure Alger Aéroport",
-    "address": "P57V+25 Trust Complex Buildings Nouveau, Bab Ezzouar 16311, Algeria",
+    "address": "Trust Complex Buildings Nouveau, Bab Ezzouar 16311, Algeria",
     "phone": "+21323741313"
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "name": "Tulip Inn Naya",
-    "address": "P7QJ+PH5، rue adel nouddine Rouïba, Rouiba, Algeria",
+    "address": "، rue adel nouddine Rouïba, Rouiba, Algeria",
     "phone": "+21323854444"
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "name": "HOTEL ROZA",
-    "address": "QXC8+66Q Hotel Lounge, Entrée, Chéraga, Algeria",
+    "address": "Hotel Lounge, Entrée, Chéraga, Algeria",
     "phone": "+213555042640"
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "name": "Hostel ALAA Familial - El Harrach",
-    "address": "P57V+25 Trust Complex Buildings Nouveau, Bab Ezzouar 16024, Algeria",
+    "address": "Trust Complex Buildings Nouveau, Bab Ezzouar 16024, Algeria",
     "phone": "+21323741333"
   },
   {
@@ -492,7 +492,7 @@
   {
     "name": "Ketchaoua Mosque",
     "address": "Casbah 16000, Algeria",
-    "phone": "36+28716000"
+    "phone": ""
   },
   {
     "name": "Djemaa El Djedid",
@@ -771,8 +771,8 @@
   },
   {
     "name": "Hotel Restaurant Hadil",
-    "address": "P935+M25، Rue Larbi el Hadj، 15 bis, Oran 31000, Algeria",
-    "phone": "935+251531000"
+    "address": "، Rue Larbi el Hadj، 15 bis, Oran 31000, Algeria",
+    "phone": ""
   },
   {
     "name": "Hotel II Horloges Oran",
@@ -866,7 +866,7 @@
   },
   {
     "name": "Hotel Lalla Mokhtara",
-    "address": "Q638+9PG، Rue de la république, Aïn El Turk 31000, Algeria",
+    "address": "، Rue de la république, Aïn El Turk 31000, Algeria",
     "phone": "+21341603147"
   },
   {
@@ -1412,7 +1412,7 @@
   },
   {
     "name": "مشاوي السلطان",
-    "address": "PC8G+M3Q، restaurants, Bir El Djir, Algeria",
+    "address": "، restaurants, Bir El Djir, Algeria",
     "phone": "+213799954526"
   },
   {
@@ -1563,7 +1563,7 @@
   },
   {
     "name": "Centre commercial Aljazair",
-    "address": "M9JV+5HX، N4, Oran, Algeria",
+    "address": "، N4, Oran, Algeria",
     "phone": null
   },
   {
@@ -1997,7 +1997,7 @@
   {
     "name": "Porte du Santon",
     "address": "19, Avenue Ahmed Zabana, Oran 31000, Algeria",
-    "phone": "93+71931000"
+    "phone": ""
   },
   {
     "name": "Porte d'Espagne",
@@ -2456,7 +2456,7 @@
   },
   {
     "name": "Hôtel Restaurant SABRI",
-    "address": "WQ25+4RX hotel touring, Annaba, Algeria",
+    "address": "hotel touring, Annaba, Algeria",
     "phone": "+21338459041"
   },
   {
@@ -2481,7 +2481,7 @@
   },
   {
     "name": "فندق تورينغ",
-    "address": "WQ25+4RX hotel touring, Annaba, Algeria",
+    "address": "hotel touring, Annaba, Algeria",
     "phone": "+21338459041"
   },
   {
@@ -2506,7 +2506,7 @@
   },
   {
     "name": "Hôtel El Mouna",
-    "address": "WQWC+W7W Plage Belvedere, Annaba, Algeria",
+    "address": "Plage Belvedere, Annaba, Algeria",
     "phone": "+21338409839"
   },
   {
@@ -2651,7 +2651,7 @@
   },
   {
     "name": "Restaurant Amadeus",
-    "address": "WQ74+H4G، Unnamed Road, Annaba, Algeria",
+    "address": "، Unnamed Road, Annaba, Algeria",
     "phone": "+213792979335"
   },
   {

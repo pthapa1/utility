@@ -1096,8 +1096,8 @@
   },
   {
     "name": "City Park Albania",
-    "address": "Rruga Frank Bardhi 8R73+F4 Tirana Rruga Ndrek Luca, Tirana 1060 Tirane, 1001, Albania",
-    "phone": "873+410601001"
+    "address": "Rruga Frank Bardhi  Tirana Rruga Ndrek Luca, Tirana 1060 Tirane, 1001, Albania",
+    "phone": ""
   },
   {
     "name": "Qendra Tregtare Online",
@@ -2021,7 +2021,7 @@
   },
   {
     "name": "Hotel Rinia 2",
-    "address": "8G7M+XP Maliq Muço, durres, Albania",
+    "address": "Maliq Muço, durres, Albania",
     "phone": "+355692055599"
   },
   {
@@ -3238,7 +3238,7 @@
   },
   {
     "name": "Kantina e Pijeve Gjergj Kastrioti Skënderbeu",
-    "address": "8F79+WW5 Plazhi, Durrës, Albania",
+    "address": "Plazhi, Durrës, Albania",
     "phone": null
   },
   {
@@ -3489,7 +3489,7 @@
   },
   {
     "name": "Pishat e Buta Resort",
-    "address": "8G7M+XP Maliq Muço, durres, Albania",
+    "address": "Maliq Muço, durres, Albania",
     "phone": "+355692055599"
   },
   {
@@ -5057,7 +5057,7 @@
   },
   {
     "name": "Bar Restorant Gorishti",
-    "address": " Rruga Murat Tërbaçi, Vlorë 9402, Albania",
+    "address": "Rruga Murat Tërbaçi, Vlorë 9402, Albania",
     "phone": "+355695218221"
   },
   {
@@ -5207,7 +5207,7 @@
   },
   {
     "name": "Lungomare -Uji i ftohtë Vlorë",
-    "address": "9F2Q+82 Vlorë, Vlore 9401, Albania",
+    "address": "Vlorë, Vlore 9401, Albania",
     "phone": "+355695348977"
   },
   {
@@ -6730,7 +6730,7 @@
   {
     "name": "Metropol Center",
     "address": "Rr. Kepi i Gjeranve Port Milena, Ulcinj 85360, Montenegro",
-    "phone": "66+62285360"
+    "phone": ""
   },
   {
     "name": "Studio Fizioterapi Broci Shkoder",
@@ -6987,7 +6987,7 @@
   {
     "name": "SS Market",
     "address": "E-851, Ulcinj 85360, Montenegro",
-    "phone": "69+285185360"
+    "phone": ""
   },
   { "name": "Zdrale", "address": "Shkodër 4001, Albania", "phone": null },
   {
@@ -7421,7 +7421,7 @@
   { "name": "InTown Guesthouse Shkoder", "address": null, "phone": null },
   {
     "name": "Bar Restaurant San Francisco",
-    "address": "P8Q4+687",
+    "address": "",
     "phone": null
   },
   {
@@ -8071,7 +8071,7 @@
   },
   {
     "name": "Furra Buke Albert Marku",
-    "address": "435M+QQ2 Elbasan Toska, Elbasan, Albania",
+    "address": "Elbasan Toska, Elbasan, Albania",
     "phone": null
   },
   {
@@ -8248,7 +8248,7 @@
   {
     "name": "Real Scampis Hotel",
     "address": "E853, Unaza Jugore, Kr.Cerrikut, Elbasan 3001 Elbasan, Rruga Aleks Vini, Elbasan 3001, Albania",
-    "phone": "432+985330013001"
+    "phone": ""
   },
   {
     "name": "Hotel Imperial",
@@ -8427,7 +8427,7 @@
   },
   {
     "name": "Hotel Florentina",
-    "address": "23CP+P46 llixha Hidrajt, Cikallesh, Elbasan 3001, Albania",
+    "address": "llixha Hidrajt, Cikallesh, Elbasan 3001, Albania",
     "phone": "+355682146185"
   },
   {

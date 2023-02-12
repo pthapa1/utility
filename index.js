@@ -9,9 +9,15 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Benin';
+exports.country = 'Botswana';
 const country = this.country;
-const cities = ['Porto Novo', 'Cotonou', 'Abomey Calavi', 'Parakou', 'Djougou'];
+const cities = [
+  'Gaborone',
+  'Francistown',
+  'Molepolole',
+  'Selebi Phikwe',
+  'Mogoditshane',
+];
 // const city = cities[1];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
