@@ -9,14 +9,14 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Botswana';
+exports.country = 'Brazil';
 const country = this.country;
 const cities = [
-  'Gaborone',
-  'Francistown',
-  'Molepolole',
-  'Selebi Phikwe',
-  'Mogoditshane',
+  'São Paulo',
+  'Rio de Janeiro',
+  'Salvador',
+  'Brasília',
+  'Fortaleza',
 ];
 // const city = cities[1];
 const filePath = `./addresses/${country}.json`;
