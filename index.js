@@ -9,15 +9,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Brazil';
+exports.country = 'Brunei';
 const country = this.country;
-const cities = [
-  'São Paulo',
-  'Rio de Janeiro',
-  'Salvador',
-  'Brasília',
-  'Fortaleza',
-];
+const cities = ['Bandar Seri Begawan'];
 // const city = cities[1];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
