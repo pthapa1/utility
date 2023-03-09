@@ -1,0 +1,5297 @@
+[
+  {
+    "name": "Scotty's Boutique Hotel",
+    "address": "ul. Han Kubrat 69, 1229 g.k. Nadezhda 3, Sofia, Bulgaria",
+    "phone": "+35929032555"
+  },
+  {
+    "name": "Hotel Nadezhda",
+    "address": "ul. Pirotska 18, 1301 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929831707"
+  },
+  {
+    "name": "InterContinental Sofia, an IHG Hotel",
+    "address": "pl. Narodno sabranie 4, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929334334"
+  },
+  {
+    "name": "Sofia Balkan Palace",
+    "address": "Vasil Levski Square, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924401234"
+  },
+  {
+    "name": "Grand Hotel Millennium Sofia",
+    "address": "Милениум център, bul. Vitosha 89B, 1463 Ivan Vazov, Sofia, Bulgaria",
+    "phone": "+35924456789"
+  },
+  {
+    "name": "Hyatt Regency Sofia",
+    "address": "Boulevard Tsarigradsko shose 357, 1582 g.k. Druzhba 2, Sofia, Bulgaria",
+    "phone": "35715822"
+  },
+  {
+    "name": "Hilton Sofia",
+    "address": "bul. Todor Alexandrov 14, 1303 Pette Kyosheta, Sofia, Bulgaria",
+    "phone": "+35929119900"
+  },
+  {
+    "name": "Sveta Sofia Hotel",
+    "address": "5, pl. Sveta Nedelya Square, 1000 Sofia, Bulgaria",
+    "phone": "+35929816541"
+  },
+  {
+    "name": "Grand Hotel Sofia",
+    "address": "Bulevard Bulgaria 1, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+35929335000"
+  },
+  {
+    "name": "Hotel Anel",
+    "address": "1, ul. Gen. Y. V. Gurko str, 1000 Sofia, Bulgaria",
+    "phone": "+35928110811"
+  },
+  {
+    "name": "Hotel Rila Sofia",
+    "address": "15Ivan Dimitrov Str, Sofia, 1574, 1574 Sofia, Bulgaria",
+    "phone": "1515741574"
+  },
+  {
+    "name": "Best Western Plus Bristol Hotel",
+    "address": "ul. Tri ushi 8, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359884107070"
+  },
+  {
+    "name": "easyHotel Sofia",
+    "address": "43, ul. Dedeagach Str, 1408 Sofia, Bulgaria",
+    "phone": "+359888275177"
+  },
+  {
+    "name": "Central Hotel Sofia",
+    "address": "TRADE HOUSE WEST, bul. Nikola Petkov 52, 1618 kv. Ovcha kupel, Sofia, Bulgaria",
+    "phone": "+359882616106"
+  },
+  {
+    "name": "Eurostars Sofia City",
+    "address": "ul. Karnobatski Prohod 1, 1415 Dragalevtsi, Sofia, Bulgaria",
+    "phone": "+35924824000"
+  },
+  {
+    "name": "Best Western Terminus Hotel",
+    "address": "bul. Todor Alexandrov 135, 1309 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359885747606"
+  },
+  {
+    "name": "Astoria Grand Hotel",
+    "address": "Aleksandar Malinov Boulevard 36, 1784 Mladost 1, Sofia, Bulgaria",
+    "phone": "+35929744948"
+  },
+  {
+    "name": "Metropolitan Hotel Sofia, a member of Radisson Individuals",
+    "address": "ul. Okolovrasten pat 72, 1415 Dragalevtsi, Sofia, Bulgaria",
+    "phone": "+35928160101"
+  },
+  {
+    "name": "Hotel Sofia Palace",
+    "address": "Dragalevtsi pl. Tsar Ivan Alexander Nr 1, Sofia, Bulgaria",
+    "phone": "+35924373802"
+  },
+  {
+    "name": "Sense Hotel Sofia",
+    "address": "ul. Paris 8, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887677170"
+  },
+  {
+    "name": "Ramada by Wyndham Sofia City Center",
+    "address": "1612, ul. Balkandzhi Yovo 9, 1612 Sofia, Bulgaria",
+    "phone": "161291612"
+  },
+  {
+    "name": "Best Western Premier Sofia Airport Hotel",
+    "address": "ul. Trapezitsa 4, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359895417300"
+  },
+  {
+    "name": "Central Point",
+    "address": "108 Besarabia, ul. Besarabia 108, 1517 Sofia, Bulgaria",
+    "phone": "1081081517"
+  },
+  {
+    "name": "Adella Boutique Hotel",
+    "address": "4 Emiliyan Stanev Str, ul. Akad. Vera Mutafchieva, 1407 Sofia, Bulgaria",
+    "phone": "+359899666655"
+  },
+  {
+    "name": "Hotel Downtown",
+    "address": "bulevard Knyaginya Maria Luiza 20, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929807895"
+  },
+  {
+    "name": "Abrazo Hotel by HMG",
+    "address": "ul. Baba Vida 1, 1510 Hadzhi Dimitar, Sofia, Bulgaria",
+    "phone": "+35929477777"
+  },
+  {
+    "name": "Hotel Sofia Palace",
+    "address": "ul. Han Asparuh 65, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929898998"
+  },
+  {
+    "name": "Rosslyn Central Park Hotel Sofia",
+    "address": "bul. Sveti Naum 48, 1164 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359899148801"
+  },
+  {
+    "name": "Best Western Terminus Hotel",
+    "address": "ul. Silivria 42, 1404 Motopista, Sofia, Bulgaria",
+    "phone": "+359876300111"
+  },
+  {
+    "name": "City Avenue Hotel",
+    "address": "bulevard Cherni vrah 25, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+35928165000"
+  },
+  {
+    "name": "easyHotel Sofia",
+    "address": "bulevard Knyaginya Maria Luiza 62, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35928329090"
+  },
+  {
+    "name": "Rosslyn Thracia Hotel Sofia",
+    "address": "ul. Venera 5, 1574 Geo Milev, Sofia, Bulgaria",
+    "phone": "+35929706777"
+  },
+  {
+    "name": "Vega Hotel Sofia",
+    "address": "ul. Tsvetna Gradina 16, 1138 Gorublyane, Sofia, Bulgaria",
+    "phone": "+35924415410"
+  },
+  {
+    "name": "Hotel Aris",
+    "address": "Boulevard Tsarigradsko shose 131, 1784 7-Mi Kilometar, Sofia, Bulgaria",
+    "phone": "13117847"
+  },
+  {
+    "name": "Best Western Art Plaza Hotel",
+    "address": "ul. Veslets 37, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359877231243"
+  },
+  {
+    "name": "Arte Sofia Hotel",
+    "address": "ul. Liditse 1, 1113 Geo Milev, Sofia, Bulgaria",
+    "phone": "+35929701500"
+  },
+  {
+    "name": "Хотел Феста София",
+    "address": "ul. Krum Popov 84, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Hotel LION Sofia",
+    "address": "ulitsa Sv. Sveti Kiril I Metodiy 28, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929066000"
+  },
+  {
+    "name": "Budapest Hotel Sofia",
+    "address": "ul. Hristo Belchev 29, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359884789203"
+  },
+  {
+    "name": "Hotel Slavyanska Beseda",
+    "address": "bul. Patriarh Evtimiy 10, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886502222"
+  },
+  {
+    "name": "Boutique Hotel Sofia",
+    "address": "ul. Svilenitsa 12, 1463 Pette Kyosheta, Sofia, Bulgaria",
+    "phone": "+35924949991"
+  },
+  {
+    "name": "The Embassy Bar & Suites",
+    "address": "Boulevard Tsarigradsko shose 357, 1582 g.k. Druzhba 2, Sofia, Bulgaria",
+    "phone": "35715822"
+  },
+  {
+    "name": "Hotel “Crystal Palace Boutique“",
+    "address": "Bulgaria, Sofia, Sofia Center, ul. Trapezitsa",
+    "phone": "+359895417300"
+  },
+  {
+    "name": "Hotel Niky",
+    "address": "ul. 61-va 20, 1839 kv. Vrajdebna, Враждебна, ul. 61-va 20, 1839 Vrazhdebna, Sofia, Bulgaria",
+    "phone": "6120183961201839"
+  },
+  {
+    "name": "Art'Otel",
+    "address": "ulitsa Akademik Stefan Mladenov 70, 1700 Studentski Kompleks, Sofia, Bulgaria",
+    "phone": "+35970070701"
+  },
+  {
+    "name": "R34 Boutique Hotel",
+    "address": "Aleksandar Malinov Boulevard 79G, 1712 g.k. Mladost 4, Sofia, Bulgaria",
+    "phone": "+359885304200"
+  },
+  {
+    "name": "Hotel Central Point Boutique",
+    "address": "bul. Tsar Boris III 59, 1612 Hipodruma, Sofia, Bulgaria",
+    "phone": "+35924399959"
+  },
+  {
+    "name": "5 Vintage",
+    "address": "ul. Rosario 1, 1700 Studentski Kompleks, Sofia, Bulgaria",
+    "phone": "+35928168888"
+  },
+  {
+    "name": "Maison Sofia - MGallery",
+    "address": "ul. Okolovrasten pat 27, 1680 Manastirski Livadi, Sofia, Bulgaria",
+    "phone": "+35924241000"
+  },
+  {
+    "name": "St. George Hotel",
+    "address": "bul. Sveti Naum 23, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+35929654444"
+  },
+  {
+    "name": "Scotty's Boutique Hotel",
+    "address": "ul. Knyaz Boris I 193, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359885858985"
+  },
+  {
+    "name": "Expo Hotel",
+    "address": "ul. Ekzarh Yosif 77, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886088399"
+  },
+  {
+    "name": "Новотел София",
+    "address": "ul. Iskar 30, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924521460"
+  },
+  {
+    "name": "Hotel ZOO Sofia",
+    "address": "ul. Zdrave 21А, 1463 Ivan Vazov, Sofia, Bulgaria",
+    "phone": "+35924510000"
+  },
+  {
+    "name": "Hotel Forum",
+    "address": "bulevard Knyaginya Maria Luiza 83, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878528833"
+  },
+  {
+    "name": "Olives City Hotel",
+    "address": "bul. Aleksandar Stamboliyski 36, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887285550"
+  },
+  {
+    "name": "Impresamente Art hotel",
+    "address": "ul. Knyaz Boris I 207, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924470733"
+  },
+  {
+    "name": "Park Hotel MOSKVA",
+    "address": "pl. Sborishte 4, 1616 Boyana, Sofia, Bulgaria",
+    "phone": "+359883960009"
+  },
+  {
+    "name": "All Seasons Residence Hotel",
+    "address": "Nezabravka Str, ul. Nezabravka 25, 1113 Sofia, Bulgaria",
+    "phone": "+359885142901"
+  },
+  {
+    "name": "Hotel Adria",
+    "address": "ул. Винсент ван Гог 5, 1407 Promishlena zona Hladilnika, Sofia, Bulgaria",
+    "phone": "+359898624673"
+  },
+  {
+    "name": "HOTEL 36",
+    "address": "Boulevard Simeonovsko Shose 6, 1700 zh.g. Zoopark, Sofia, Bulgaria",
+    "phone": "+359896666888"
+  },
+  {
+    "name": "COOP Hotel Sofia / COOP Hotel Sofia",
+    "address": "bul. Tsar Boris III 41, 1612 Hipodruma, Sofia, Bulgaria",
+    "phone": "+35929544444"
+  },
+  {
+    "name": "Generaator Sofia",
+    "address": "ulitsa Professor Hristo Vakarelski 1, 1700 Studentski Kompleks, Sofia, Bulgaria",
+    "phone": "+359885755455"
+  },
+  {
+    "name": "VIKO Boutique Apart Hotel",
+    "address": "ul. Ekzarh Yosif 11, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878666766"
+  },
+  {
+    "name": "Secession Style",
+    "address": "Boulevard Tsarigradsko shose булевард Цариградско шосе, 1784 7-Mi Kilometar, Sofia, Bulgaria",
+    "phone": "+35928178100"
+  },
+  {
+    "name": "Hotel Favorit",
+    "address": "115 N, Boulevard Tsarigradsko shose Blvd, 1784 м. Къро, Sofia, Bulgaria",
+    "phone": "+35929043000"
+  },
+  {
+    "name": "Best Western Hotel Lozenets",
+    "address": "36, ul. Atanas Dukov Str, 1407 Sofia, Bulgaria",
+    "phone": "+35928615700"
+  },
+  {
+    "name": "Kitchen59",
+    "address": "ul. Knyaz Boris I 64, 1463 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924650130"
+  },
+  {
+    "name": "Vitosha Park Hotel",
+    "address": "ul. William Gladstone 49, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888961606"
+  },
+  {
+    "name": "Earth & People Hotel & SPA",
+    "address": "ul. Ivan Denkoglu 34, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899734734"
+  },
+  {
+    "name": "Grami Hotel, Sofia",
+    "address": "ul. 6-ti septemvri str, 3, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929963943"
+  },
+  {
+    "name": "Santa Sofia Guestrooms",
+    "address": "44 William Gladstone Street, 1000 Sofia, Bulgaria",
+    "phone": "+359877819035"
+  },
+  {
+    "name": "AVENUE HOTEL",
+    "address": "Shipka Street 14, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886399504"
+  },
+  {
+    "name": "Hotel Vrazhdebna (Хотел Враждебна)",
+    "address": "ul. Neofit Rilski 16, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929523058"
+  },
+  {
+    "name": "Hotel Montecito",
+    "address": "Shipka Street 48, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359885888500"
+  },
+  {
+    "name": "The Moon Boutique Hotel",
+    "address": "ул. „Алабин И. Вл.“ 22, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929878766"
+  },
+  {
+    "name": "Family Hotel Agoncev",
+    "address": "bul. Hristo Botev 150, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886641442"
+  },
+  {
+    "name": "Хотел Леда",
+    "address": "ul. Slavyanska 3, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929801303"
+  },
+  {
+    "name": "Hotel Sofia Place",
+    "address": "Budapeshta Street 92, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924215800"
+  },
+  {
+    "name": "ATM Center Hotel",
+    "address": "bulevard Knyaginya Maria Luiza 60, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929178400"
+  },
+  {
+    "name": "Мег-Лозенец хотел",
+    "address": "Hristo Belchev, 46 Str, 1000 Sofia, Bulgaria",
+    "phone": "+35929800030"
+  },
+  {
+    "name": "Hotel Europe",
+    "address": "Bulevard Bulgaria 83, 1404 Manastirski Livadi, Sofia, Bulgaria",
+    "phone": "+35970014422"
+  },
+  {
+    "name": "Hotel Light",
+    "address": "ul. Seliolu str, 1, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359882925540"
+  },
+  {
+    "name": "Hotel L Do Rado",
+    "address": "30, ul. Solunska Str, 1000 Sofia, Bulgaria",
+    "phone": "+35928017900"
+  },
+  {
+    "name": "Hotel Triada",
+    "address": "bulevard „Doctor G. M. Dimitrov“ 75, 1700 Studentski Kompleks, Sofia, Bulgaria",
+    "phone": "+35928066000"
+  },
+  {
+    "name": "Hotel Maksim",
+    "address": "ul. Aldomirovska 108, 1309 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929201654"
+  },
+  {
+    "name": "Hemus Hotel",
+    "address": "ul. Osogovo 49, 1303 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924715000"
+  },
+  {
+    "name": "Calipso Hotel",
+    "address": "bul. Hristo Botev 154, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886487739"
+  },
+  {
+    "name": "Хотел Акорд",
+    "address": "бул. „Княз Александър Дондуков 5, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878360770"
+  },
+  {
+    "name": "Boutique Apartments Sofia",
+    "address": "bul. Vitosha 106, 1463 Pette Kyosheta, Sofia, Bulgaria",
+    "phone": "+35928058181"
+  },
+  {
+    "name": "Diter Hotel",
+    "address": "ul. Tri ushi 8, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924942299"
+  },
+  {
+    "name": "Central Club - Free Spa access",
+    "address": "bul. Vasil Levski 27А, 1040 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929305200"
+  },
+  {
+    "name": "Hotel Fashion",
+    "address": "bul. Hristo Botev 116, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359883909922"
+  },
+  {
+    "name": "Hotel Astra",
+    "address": "ul. Trapezitsa 6, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924817262"
+  },
+  {
+    "name": "Guest Room Heart of Sofia",
+    "address": "ul. Tintyava 15 Г, 1113 NPZ Dianabad, Sofia, Bulgaria",
+    "phone": "+359887901160"
+  },
+  {
+    "name": "L'Opera House",
+    "address": "bul. Bruksel 11, 1592 NPZ Iskar, Sofia, Bulgaria",
+    "phone": "+35929051313"
+  },
+  {
+    "name": "Hotel-Restaurant Geneva",
+    "address": "ul. Tri ushi 8, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924942299"
+  },
+  {
+    "name": "Elate Plaza Sofia - Business hotel & Restaurant",
+    "address": "bulevard Knyaginya Maria Luiza 131, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929338888"
+  },
+  {
+    "name": "Central West Hotel",
+    "address": "bul. Tsar Osvoboditel 16, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924462500"
+  },
+  {
+    "name": "Tsarsko Selo Spa",
+    "address": "ul. Aldomirovska 108, 1309 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929201654"
+  },
+  {
+    "name": "Sofia Family House / Hotel",
+    "address": "bul. Hristo Botev 154, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886487739"
+  },
+  {
+    "name": "спа хотел Драгалевци",
+    "address": "ul. Stara Planina 6, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929151500"
+  },
+  {
+    "name": "Ресторант Щастливеца Витошка",
+    "address": "ul. Iskar 11, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878642825"
+  },
+  {
+    "name": "Hadjidraganov's Houses Restaurant",
+    "address": "bul. Vitosha 190, 1408 Ivan Vazov, Sofia, Bulgaria",
+    "phone": "+35924236096"
+  },
+  {
+    "name": "The Hadjidragana Tavern",
+    "address": "ul. Tsar Asen 16, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887026190"
+  },
+  {
+    "name": "Felicità",
+    "address": "София, пл. България 1, Ндк, Проното, bul. Pencho Slaveykov, 1463 Sofia, Bulgaria",
+    "phone": "+359885630308"
+  },
+  {
+    "name": "Niko'las 0/360",
+    "address": "ul. Tsar Shishman 37, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359882490030"
+  },
+  {
+    "name": "Traditional Bulgarian Restaurant Chevermeto Sofia",
+    "address": "pl. Rayko Daskalov 3, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359876888471"
+  },
+  {
+    "name": "Moma Bulgarian Food and Wine",
+    "address": "ul. Hristo Belchev 18, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359898775936"
+  },
+  {
+    "name": "The Little Things",
+    "address": "bul. Vitosha 27, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924411155"
+  },
+  {
+    "name": "Pastorant",
+    "address": "ul. Kozloduy 75, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899917837"
+  },
+  {
+    "name": "Carnivale Funky Gastrotaverna",
+    "address": "ul. Zlatovrah 17, 1164 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359885866503"
+  },
+  {
+    "name": "Chef's Restaurant",
+    "address": "ul. Hristo Belchev 32, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359877794999"
+  },
+  {
+    "name": "Ashurbanipal",
+    "address": "ul. Nikolay Haytov 3, 1113 g.k. Iztok, Sofia, Bulgaria",
+    "phone": "+359886700269"
+  },
+  {
+    "name": "Raketa Rakia Bar",
+    "address": "ul. 197-ma 25, 1434 Simeonovo - Sever, Sofia, Bulgaria",
+    "phone": "197251434"
+  },
+  {
+    "name": "Manastirska Magernitsa Restaurant",
+    "address": "ul. Tsar Samuil 50, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929803460"
+  },
+  {
+    "name": "Soul Kitchen",
+    "address": "Bulevard Bulgaria 118, 1618 Manastirski Livadi, Sofia, Bulgaria",
+    "phone": "+359882108070"
+  },
+  {
+    "name": "CAVA",
+    "address": "ul. Professor Asen Zlatarov 24, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359895500606"
+  },
+  {
+    "name": "Supa Star",
+    "address": "ul. Elemag 34, 1113 g.k. Izgrev, Sofia, Bulgaria",
+    "phone": "+35929630365"
+  },
+  {
+    "name": "Checkpoint Charly",
+    "address": "Chervena Stena St 58, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359889798887"
+  },
+  {
+    "name": "Agarta",
+    "address": "ul. Iskar 1, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924836356"
+  },
+  {
+    "name": "Ararat - Armenian Family Restaurant",
+    "address": "ul. Iskar 86, 1527 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879014090"
+  },
+  {
+    "name": "Tenebris",
+    "address": "ul. Ekzarh Stefan 16, 1220 g.k. Nadezhda 2, Sofia, Bulgaria",
+    "phone": "+359876117403"
+  },
+  {
+    "name": "33 Gastronauts",
+    "address": "bulevard Knyaginya Maria Luiza 106, 1233 Tsentralna Zhp Gara, Sofia, Bulgaria",
+    "phone": "+359878105627"
+  },
+  {
+    "name": "Farmer's",
+    "address": "Милениум център, bul. Vitosha 89b, 1463 Ivan Vazov, Sofia, Bulgaria",
+    "phone": "+35924440888"
+  },
+  {
+    "name": "Restaurant Gambrinus SOFIA",
+    "address": "ul. Hristo Belchev 12, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359877339933"
+  },
+  {
+    "name": "Vegetarian restaurant and bakery Sun Moon",
+    "address": "ul. Maragidik 21, 1505 Reduta, Sofia, Bulgaria",
+    "phone": "+359886805905"
+  },
+  {
+    "name": "Russian Restaurant Arbat",
+    "address": "ul. Nikola Gabrovski 1, 1172 NPZ Dianabad, Sofia, Bulgaria",
+    "phone": "+359884443333"
+  },
+  {
+    "name": "Social Cafe Bar & Kitchen restaurant",
+    "address": "ul. Tsar Simeon 82, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359896644919"
+  },
+  {
+    "name": "Restaurant Vodenitzata",
+    "address": "bul. Vitosha 89b, 1463 Ivan Vazov, Sofia, Bulgaria",
+    "phone": "+359887955525"
+  },
+  {
+    "name": "Agarta",
+    "address": "ul. San Stefano 18, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35970011313"
+  },
+  {
+    "name": "Vino & Tapas",
+    "address": "ul. Oborishte 37, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878737737"
+  },
+  {
+    "name": "Takoteka",
+    "address": "ul. Slavyanska 18, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929895533"
+  },
+  {
+    "name": "Royal Thai",
+    "address": "ul. Tsar Samuil 60, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359897506376"
+  },
+  {
+    "name": "Made in Home",
+    "address": "От страната на, улица Уилям Гладстон, ul. Knyaz Boris I 18Б, 1000 Sofia, Bulgaria",
+    "phone": "+359877333397"
+  },
+  {
+    "name": "ANDRé",
+    "address": "Vasil Levski Square, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924476720"
+  },
+  {
+    "name": "Annapurna Nepali & Indian Restaurant, Sofia",
+    "address": "ul. Kumata 75, 1616 Bojana, Sofia, Bulgaria",
+    "phone": "+359885760160"
+  },
+  {
+    "name": "Restaurant Staria Chinar",
+    "address": "ul. Professor Asen Zlatarov 16, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886202717"
+  },
+  {
+    "name": "Shtastlivetsa - San Stefano Plaza",
+    "address": "ul. William Gladstone 2, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359882108108"
+  },
+  {
+    "name": "Boho",
+    "address": "ul. Tsar Asen 53, 1463 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359894419133"
+  },
+  {
+    "name": "Ahora by Sevda Dimitrova",
+    "address": "15 1000, ul. Angel Kanchev 18a, 1000 Sofia, Bulgaria",
+    "phone": "151000181000"
+  },
+  {
+    "name": "Fanshan Restaurant",
+    "address": "ulitsa „Georgi S. Rakovski“ 84, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888068592"
+  },
+  {
+    "name": "HAMACHI-Ni - Japanese Fish Restaurant",
+    "address": "ul. Neofit Rilski 10, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888235459"
+  },
+  {
+    "name": "URBAN LEGENDS",
+    "address": "bul. Hristo Botev 52, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359894590117"
+  },
+  {
+    "name": "Cactus",
+    "address": "ul. Hristo Maksimov 71, 1111 Geo Milev, Sofia, Bulgaria",
+    "phone": "+359888132465"
+  },
+  {
+    "name": "Made in Blue",
+    "address": "ul. William Gladstone 54, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887440011"
+  },
+  {
+    "name": "Under the Linden Trees",
+    "address": "ul. Stara Planina 5, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887275064"
+  },
+  {
+    "name": "Oriste",
+    "address": "193 Rakovski str, 1000, Bulgaria",
+    "phone": "+359879900699"
+  },
+  {
+    "name": "Farmhopping Kitchen",
+    "address": "Sofia, bul. Tsar Osvoboditel 21, Bulgaria",
+    "phone": "+359884441441"
+  },
+  {
+    "name": "The Three Daughters",
+    "address": "ul. Angel Kanchev 20, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359883705757"
+  },
+  {
+    "name": "Saffron Indian Restaurant",
+    "address": "ul. 11-ti avgust 11, 1520 Sofia Center, Sofia, Bulgaria",
+    "phone": "11111520"
+  },
+  {
+    "name": "Garden House",
+    "address": "ul. Knyaz Boris I 137, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899453200"
+  },
+  {
+    "name": "Grozd Restaurant",
+    "address": "59, bul. Tsar Boris III Blvd, 1612 Sofia, Bulgaria",
+    "phone": "+359882947426"
+  },
+  {
+    "name": "Galata Kitchen Sofia - Soup House",
+    "address": "pl. Sveti Aleksandar Nevski 1А, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888040404"
+  },
+  {
+    "name": "Nepali Gurkha Restaurant",
+    "address": "1309 ж.к. Илинден, Sofia, Bulgaria",
+    "phone": "+359878574564"
+  },
+  {
+    "name": "Happy Bar & Grill Rakovski",
+    "address": "ул. „Алабин И. Вл.“ 50, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929808163"
+  },
+  {
+    "name": "KALIMNOS Greek Island Fish Restaurant",
+    "address": "ул. „Алабин И. Вл.“ 22, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359897094139"
+  },
+  {
+    "name": "Annette Moroccan Restaurant",
+    "address": "ul. Graf Ignatiev 4, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929884444"
+  },
+  {
+    "name": "Rainbow Factory",
+    "address": "ul. Angel Kanchev 27, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359885139676"
+  },
+  {
+    "name": "Dream House",
+    "address": "ul. Veslets 10, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924440556"
+  },
+  {
+    "name": "Bone",
+    "address": "bul. Vardar 51, 1309 g.k. Zapaden park, Sofia, Bulgaria",
+    "phone": "+359877674025"
+  },
+  {
+    "name": "DaOrganic restaurant",
+    "address": "ul. Solunska 28, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359885622020"
+  },
+  {
+    "name": "Loving Hut",
+    "address": "ulitsa „Georgi S. Rakovski“ 145А, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35970020888"
+  },
+  {
+    "name": "Ресторант Таланти / Talents Restaurant",
+    "address": "bul. Hristo Botev 62, 1303 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879099839"
+  },
+  {
+    "name": "Confetti",
+    "address": "ul. Tsvetna Gradina 56, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+35928650216"
+  },
+  {
+    "name": "La Cattedrale",
+    "address": "bul. Tsar Osvoboditel 21, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929443915"
+  },
+  {
+    "name": "Taj Mahal Restaurant",
+    "address": "bul. Vitosha 69, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359884225774"
+  },
+  {
+    "name": "Belogradchik Rocks Restaurant - Sofia",
+    "address": "бул. „Княз Александър Дондуков 60А, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924949496"
+  },
+  {
+    "name": "Manzo restaurant",
+    "address": "ul. Kraishte 29 b, 1408 Ivan Vazov, Sofia, Bulgaria",
+    "phone": "+359884070679"
+  },
+  {
+    "name": "DARO",
+    "address": "София, Ул. Франсоа Митеран,до Блок 42б, Bulgaria",
+    "phone": "+359876338370"
+  },
+  {
+    "name": "Miyabi",
+    "address": "ul. “Aksakov„ 14, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879255555"
+  },
+  {
+    "name": "Esterhasi Restaurant",
+    "address": "bul. Patriarh Evtimiy 44, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899983631"
+  },
+  {
+    "name": "Central Sofia Restaurant",
+    "address": "ulitsa „Georgi S. Rakovski“ 179, 1142 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359884262244"
+  },
+  {
+    "name": "Gulum",
+    "address": "ul. Elin Pelin 1, 1164 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359886801227"
+  },
+  {
+    "name": "Divaka",
+    "address": "улица „Христо Белчев“ 20, ul. Solunska 14, 1000 Sofia, Bulgaria",
+    "phone": "20141000"
+  },
+  {
+    "name": "Yati Cooking",
+    "address": "ul. Yuri Venelin 6, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359898579999"
+  },
+  {
+    "name": "Ninja Bowl",
+    "address": "Sofia, Struma St 2, Центр, Bulgaria",
+    "phone": "+35928360469"
+  },
+  {
+    "name": "Bistro Pesto",
+    "address": "ul. Hristo Belchev 29b, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359896451458"
+  },
+  {
+    "name": "Veda House",
+    "address": "bul. Nikola Y. Vaptsarov 25A, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+35924680570"
+  },
+  {
+    "name": "Atelier",
+    "address": "минава през безистена в дворчето, ulitsa „Georgi S. Rakovski“ 181 б, 1142 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924439100"
+  },
+  {
+    "name": "Cinecitta Osteria Italiana",
+    "address": "ul. San Stefano 22, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924413344"
+  },
+  {
+    "name": "Edgy Veggy",
+    "address": "ul. Angel Kanchev 30, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359876884014"
+  },
+  {
+    "name": "The Revolutionary Dining Room & Bar",
+    "address": "ul. Slavyanska 24, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888685860"
+  },
+  {
+    "name": "Izbata Tavern",
+    "address": "ul. Tsar Shishman 22, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888222323"
+  },
+  {
+    "name": "Quché37",
+    "address": "бул. „Княз Александър Дондуков 38, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878410930"
+  },
+  {
+    "name": "CRAFT bistro Sofia",
+    "address": "ul. “Aksakov„ 11, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888931151"
+  },
+  {
+    "name": "Olio D'Oliva Pizzeria",
+    "address": "бул. „Княз Александър Дондуков 71, 1527 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887455050"
+  },
+  {
+    "name": "Skapto - San Stefano",
+    "address": "ul. Han Asparuh 36, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888630951"
+  },
+  {
+    "name": "Mediterra Restaurant & Wine bar",
+    "address": "ul. Han Asparuh 65, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886011188"
+  },
+  {
+    "name": "St. George Restaurant",
+    "address": "bul. Tsar Osvoboditel 10, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929461138"
+  },
+  {
+    "name": "888 Taste Show Asian Cuisine",
+    "address": "bul. Vitosha 1А, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879090906"
+  },
+  {
+    "name": "Mehana Sofia",
+    "address": "ul. Gen. Y. V. Gurko 38-Б, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888052299"
+  },
+  {
+    "name": "Canteen Sofia",
+    "address": "ресторант Воденицата, 1415 м. Орехите, Sofia, Bulgaria",
+    "phone": "+35929671058"
+  },
+  {
+    "name": "101 Bar & Dinner",
+    "address": "ul. Professor Asen Zlatarov 14, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879375233"
+  },
+  {
+    "name": "The Old House Restaurant",
+    "address": "bul. Vitosha 16, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359876767647"
+  },
+  {
+    "name": "Contour",
+    "address": "ul. 6-ti septemvri 39, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899138411"
+  },
+  {
+    "name": "Osteria San Marco",
+    "address": "ul. Antim I 36, 1303 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929963836"
+  },
+  {
+    "name": "Melo by the Ruins",
+    "address": "ul. Han Asparuh 36, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888630951"
+  },
+  {
+    "name": "Padre Restaurant",
+    "address": "ul. Ivan Vazov 12, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929880370"
+  },
+  {
+    "name": "Корейски ресторант „Юн“",
+    "address": "ul. Tsar Shishman 8, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359882908678"
+  },
+  {
+    "name": "Ресторант VICTORIA България",
+    "address": "ul. Han Asparuh 67, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899949400"
+  },
+  {
+    "name": "Kaminata Restaurant",
+    "address": "Sofia, Knyaz Boris I St 174, Bulgaria",
+    "phone": "+359876608887"
+  },
+  {
+    "name": "Mall of Sofia",
+    "address": "bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+35928657275"
+  },
+  {
+    "name": "Serdika Center",
+    "address": "bulevard Knyaginya Maria Luiza 2, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929260700"
+  },
+  {
+    "name": "Park Center",
+    "address": "Aleksandar Malinov Boulevard 23, 1729 g.k. Mladost 1A, Sofia, Bulgaria",
+    "phone": "+359876618067"
+  },
+  {
+    "name": "Paradise Center",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359882008624"
+  },
+  {
+    "name": "Bulgaria Mall",
+    "address": "Bulevard Bulgaria 69, 1404 Manastirski Livadi, Sofia, Bulgaria",
+    "phone": "+35924914001"
+  },
+  {
+    "name": "Mega Mall Sofia",
+    "address": "ul. Okolovrasten pat 214, 1434 Simeonovo - Sever, Sofia, Bulgaria",
+    "phone": "+35970011190"
+  },
+  {
+    "name": "Sofia Ring Mall",
+    "address": "bul. Aleksandar Stamboliyski 101 A, 1303 Zona B-5, Sofia, Bulgaria",
+    "phone": "10113035"
+  },
+  {
+    "name": "Central Universal Store (Tsum)",
+    "address": "bul. Tsaritsa Yoanna 15, 1336 zh.k. Lyulin 7, Sofia, Bulgaria",
+    "phone": "+35924053075"
+  },
+  {
+    "name": "The Mall",
+    "address": "bul. Sitnyakovo 48, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+35924952121"
+  },
+  {
+    "name": "Shopping center City Point",
+    "address": "Boulevard Tsarigradsko shose 115з, 1784 м. Къро, Sofia, Bulgaria",
+    "phone": "+35928787920"
+  },
+  {
+    "name": "Shopping center Nadezhda",
+    "address": "bul. Hristo Botev 88, 1303 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359878131011"
+  },
+  {
+    "name": "SkyCity Mall",
+    "address": "ul. Graf Ignatiev 14, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879227675"
+  },
+  {
+    "name": "Sofia Outlet Center",
+    "address": "bul. Vitosha 47, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35980040004"
+  },
+  {
+    "name": "Princess Outlet",
+    "address": "Boulevard Botevgradsko Shose 489, 1839 Sofia, Bulgaria",
+    "phone": "+35924424194"
+  },
+  {
+    "name": "Galaxy Trade Center",
+    "address": "bul. Sitnyakovo 48, етаж -1, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+359884203746"
+  },
+  {
+    "name": "Purple",
+    "address": "ul. Dimitar Petkov 97, 1309 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Vynil Shop",
+    "address": "Сердика Център, Ниво 0, bul. Sitnyakovo 48, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Mercato Donne",
+    "address": "bul. Hristo Botev 60, 1303 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Висша Козметика-Haute Parfumerie",
+    "address": "ul. Graf Ignatiev 3, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359888201914"
+  },
+  {
+    "name": "INTERPRED - WTC Sofia",
+    "address": "bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359877667665"
+  },
+  {
+    "name": "Apex Service Sofia",
+    "address": "bulevard Ovcha kupel 63, 1618 g.k. Ovcha kupel 1, Sofia, Bulgaria",
+    "phone": "+359888547488"
+  },
+  {
+    "name": "San Stefano Plaza",
+    "address": "ul. Ivan Susanin 65, 1618 Manastirski Livadi, Sofia, Bulgaria",
+    "phone": "+359878371821"
+  },
+  {
+    "name": "Orange Center",
+    "address": "ul. Lege 10, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359887806128"
+  },
+  {
+    "name": "Next children",
+    "address": "Paradise Center, ниво -1, булевард „Черни връх“ 100, 1407 Sofia, Bulgaria",
+    "phone": "11001407"
+  },
+  {
+    "name": "Fjällräven Shop Sofia",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359878634584"
+  },
+  {
+    "name": "Магазин Maxx Mania София Jumbo Plaza",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359884230101"
+  },
+  {
+    "name": "Книжарница Сиела - Park Center Sofia",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359899984318"
+  },
+  {
+    "name": "Guess",
+    "address": "bul. Sitnyakovo 48, 1000 Oborishte, Sofia, Bulgaria",
+    "phone": "+35924260202"
+  },
+  {
+    "name": "Store Orange Center - Sky City",
+    "address": "bul. Arsenalski 5, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359885136197"
+  },
+  {
+    "name": "GiAnni Mall Sofia",
+    "address": "ul. General Ivan Kolev 47, 1407 Krastova vada, Sofia, Bulgaria",
+    "phone": "+359898984673"
+  },
+  {
+    "name": "Etam Park Center Sofia",
+    "address": "ul. Lege 10, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359899923817"
+  },
+  {
+    "name": "Plus 0 Outlet",
+    "address": "bul. Vitosha 6, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924192022"
+  },
+  {
+    "name": "adidas Outlet Store Sofia, Sofia Outlet Center",
+    "address": "Bulevard Bulgaria 69, 1404 Manastirski Livadi, Sofia, Bulgaria",
+    "phone": "+35924192290"
+  },
+  {
+    "name": "Kenvelo (Sofia Ring Mall)",
+    "address": "ul. Tsar Samuil 87, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359884614472"
+  },
+  {
+    "name": "Estil Mall Paradise",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359887915001"
+  },
+  {
+    "name": "WMF Store Sofia Outlet Center",
+    "address": "bul. Vitosha 63, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Reserved",
+    "address": "бул. „България“ 69, Bulgaria Mall, ниво 2, 1404 Sofia, Bulgaria",
+    "phone": "+359885988945"
+  },
+  {
+    "name": "AX Armani Exchange Sofia Paradise Mall",
+    "address": "ul. Oborishte 75, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+359878773150"
+  },
+  {
+    "name": "Ciela",
+    "address": "Paradise Center, bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359889273719"
+  },
+  {
+    "name": "Sony Center",
+    "address": "c/o Serdika Center, bul. Sitnyakovo 48, 1505 Sofia, Bulgaria",
+    "phone": "+359882391988"
+  },
+  {
+    "name": "GiAnni Mall Serdika",
+    "address": "Paradise Center, bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+35924928311"
+  },
+  {
+    "name": "Teodor Park Center",
+    "address": "магазин 3, ul. Tsar Simeon 200, 1303 Lion's Bridge, Sofia, Bulgaria",
+    "phone": "32001303"
+  },
+  {
+    "name": "Quantum Blue",
+    "address": "bul. Sitnyakovo 48, 1505, 1000 Oborishte, Sofia, Bulgaria",
+    "phone": "4815051000"
+  },
+  {
+    "name": "Hermes Park",
+    "address": "ulitsa „Georgi S. Rakovski“ 126, 128, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "1261281000"
+  },
+  {
+    "name": "Miniso",
+    "address": "Bulevard Evlogi i Hristo Georgiev 127, 1504 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359882920420"
+  },
+  {
+    "name": "Superdry",
+    "address": "Park Center, ниво -2, bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359884201135"
+  },
+  {
+    "name": "Daphne Sofia ul.Solunska 8",
+    "address": "bul. Patriarh Evtimiy 72, 1463 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359884135664"
+  },
+  {
+    "name": "Opticlasa - Mall Of Sofia",
+    "address": "1407 Hladilnika, Sofia, Mall Paradise, floor 3, Hladilnika, Sofia, Bulgaria",
+    "phone": "+35928669440"
+  },
+  {
+    "name": "Mini me Bulgaria Polo Mayoral Abel&Lula София",
+    "address": "HERMES PARK GROUND FLOOR, The Mall, Boulevard Tsarigradsko shose 115, 1784 м. Къро, Sofia, Bulgaria",
+    "phone": "+35924371130"
+  },
+  {
+    "name": "Next Serdika Center Sofia",
+    "address": "bul. Arsenalski 2, 1421 Park Center, Sofia, Bulgaria",
+    "phone": "+359884403082"
+  },
+  {
+    "name": "Opticlasa - Park Center Sofia",
+    "address": "bul. Slivnitsa 245, 1202 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35970050555"
+  },
+  {
+    "name": "Technopolis",
+    "address": "bul. Sitnyakovo 48, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+359893965555"
+  },
+  {
+    "name": "Kompass - Paradise Center Sofia",
+    "address": "bul. Sitnyakovo 48, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+35928412810"
+  },
+  {
+    "name": "Punto Art Bazaar",
+    "address": "bul. Aleksandar Stamboliyski 101A, 1303 Zona B-5, Sofia, Bulgaria",
+    "phone": "10113035"
+  },
+  {
+    "name": "PREMIUM CIGARS & TOBACCO",
+    "address": "ul. Pirotska 20Б, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359885196655"
+  },
+  {
+    "name": "My snowdrop",
+    "address": "ul. Solunska 2, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929062110"
+  },
+  {
+    "name": "H&M",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359883721717"
+  },
+  {
+    "name": "Teilor - Paradise Sofia",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359876995661"
+  },
+  {
+    "name": "Outlet DiKa Sofia",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+35924192020"
+  },
+  {
+    "name": "Decathlon Sofia Center | Декатлон София Център",
+    "address": "ul. Angel Kanchev 4, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359883481726"
+  },
+  {
+    "name": "CASIO Watch Store Paradise Center",
+    "address": "City Center, bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359888881127"
+  },
+  {
+    "name": "The North Face Store Sofia Serdika",
+    "address": "Bulgaria, ul. Yuri Venelin 2, 1000 Sofia, Bulgaria",
+    "phone": "+359889431220"
+  },
+  {
+    "name": "МебелМаг - София",
+    "address": "гр.София бул.Черни Връх 100 Мол Paradise Center ниво 1, 1407 Sofia, Bulgaria",
+    "phone": "10011407"
+  },
+  {
+    "name": "Andrews Serdika Center Sofia",
+    "address": "bulevard Cherni vrah 100, 1000 Hladilnika, Sofia, Bulgaria",
+    "phone": "+35924462556"
+  },
+  {
+    "name": "IKEA Mall of Sofia",
+    "address": "bul. Sitnyakovo 48, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+359897012202"
+  },
+  {
+    "name": "SEPHORA SOFIA THE MALL",
+    "address": "ul. Hristo Belchev 4, етаж 1, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "BEAUTY | ZONE 2 PARK CENTER",
+    "address": "bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+35924260039"
+  },
+  {
+    "name": "Sofia Event Center",
+    "address": "bul. Aleksandar Stamboliyski 101, 1303 Zona B-5, Sofia, Bulgaria",
+    "phone": "10113035"
+  },
+  {
+    "name": "Gradinar Growshop",
+    "address": "ul. Solunska 8, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359886735308"
+  },
+  {
+    "name": "Contrabanda",
+    "address": "Level 1 Paradise Center, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359877276222"
+  },
+  {
+    "name": "Joy Optics - Park Center, ниво -2",
+    "address": "ul. Knyaz Boris I 55, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Teodor Serdika Center",
+    "address": "ul. Ivan Denkoglu 44, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Lidl",
+    "address": "bul. Arsenalski 2, 1421, 1000 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "214211000"
+  },
+  {
+    "name": "Магазин Фейт",
+    "address": "1784 м. Къро, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Notino Sofia – Paradise Center",
+    "address": "ul. Solunska 4, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929863733"
+  },
+  {
+    "name": "Магазин Пулсар",
+    "address": "bul. Sitnyakovo 48, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+359893461551"
+  },
+  {
+    "name": "TWINSET Sofia",
+    "address": "bulevard Cherni vrah 100, 1000 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359879207763"
+  },
+  {
+    "name": "Rockeds",
+    "address": "Paradise Mall, bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Parfois",
+    "address": "Outlet shopping Center, Boulevard Tsarigradsko shose 115, 1784 м. Къро, Sofia, Bulgaria",
+    "phone": "+35929023262"
+  },
+  {
+    "name": "Alcohol Center",
+    "address": "bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359893694447"
+  },
+  {
+    "name": "BUZZ | Мол Парадайз",
+    "address": "bulevard Cherni vrah 100, 1407 Hladilnika, Sofia, Bulgaria",
+    "phone": "+359898668897"
+  },
+  {
+    "name": "matstar shop",
+    "address": "ul. Okolovrasten pat 299, 1434 Simeonovo - Sever, Sofia, Bulgaria",
+    "phone": "+35970010048"
+  },
+  {
+    "name": "H&M",
+    "address": "Plus Zero Outlet, bul. Patriarh Evtimiy 78, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Tabacchi Center",
+    "address": "bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359878458352"
+  },
+  {
+    "name": "H&M",
+    "address": "bul. Aleksandar Stamboliyski 103, 1303 Zona B-5, Sofia, Bulgaria",
+    "phone": "10313035"
+  },
+  {
+    "name": "Fashion studio Mira Bachvarova",
+    "address": "Outlet Center, Boulevard Tsarigradsko shose 92A, 1784 7-Mi Kilometar, Sofia, Bulgaria",
+    "phone": "+359879862001"
+  },
+  {
+    "name": "Aquamarine Shoes & Bags",
+    "address": "ul. Kosta Lulchev 52, 1111 g.k. Hristo Smirnenski, Sofia, Bulgaria",
+    "phone": "+35929733540"
+  },
+  {
+    "name": "Högl Store Sofia",
+    "address": "bul. Arsenalski 2, 1000 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359885907051"
+  },
+  {
+    "name": "100 грама сладки - 100 grama sladki",
+    "address": "Jumbo Plaza, Boulevard Botevgradsko Shose 525, 1839 Sofia, Bulgaria",
+    "phone": "+359882793601"
+  },
+  {
+    "name": "Playground",
+    "address": "bul. Arsenalski 2, 1421 g.k. Lozenets, Sofia, Bulgaria",
+    "phone": "+359876543209"
+  },
+  {
+    "name": "Grand Optics - Paradise Center, ниво -1",
+    "address": "Tsarigradsko Shose Blvd 92A Sofia Outlet Center, 1138 Sofia, Bulgaria",
+    "phone": "+359893351435"
+  },
+  {
+    "name": "Thomas Sabo Paradise Center Sofia",
+    "address": "The Mall Shopping Center, 115z, Boulevard Tsarigradsko shose Blvd, 1784 Sofia, Bulgaria",
+    "phone": "+359883333141"
+  },
+  {
+    "name": "Smart Center Sofia",
+    "address": "ul. Okolovrasten pat № 214, ет. 2, 1434 Simeonovo - Sever, Sofia, Bulgaria",
+    "phone": "21421434"
+  },
+  {
+    "name": "SOFIA RENT CENTER",
+    "address": "ul. Saborna 14, 1111 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359896334664"
+  },
+  {
+    "name": "Inmedio",
+    "address": "1040, bul. Dragan Tsankov 36, 1113 Sofia, Bulgaria",
+    "phone": "1040361113"
+  },
+  {
+    "name": "Fonax (Park Center Sofia)",
+    "address": "Sofia, bul. Knyaginya Mariya-Luiza 2, TsUM , fl. 1, Bulgaria",
+    "phone": "+35929260305"
+  },
+  {
+    "name": "S-Gifts",
+    "address": "ul. Knyaz Boris I 59-55, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "59551000"
+  },
+  {
+    "name": "Non-Stop My Shop - Alcohol & Tobacco",
+    "address": "Boulevard Shipchenski Prohod 18, 1113 Geo Milev, Sofia, Bulgaria",
+    "phone": "+35929733367"
+  },
+  {
+    "name": "Мъпет Маг",
+    "address": "Boulevard Tsarigradsko shose 92A, 1138 7-Mi Kilometar, Sofia, Bulgaria",
+    "phone": "+35924484040"
+  },
+  {
+    "name": "National Palace of Culture",
+    "address": "ul. Vitoshko lale 16, 1404 Boyana, Sofia, Bulgaria",
+    "phone": "+35929554280"
+  },
+  {
+    "name": "St. Alexander Nevsky Cathedral",
+    "address": "Bulevard Bulgaria, 1463 Ndk, Sofia, Bulgaria",
+    "phone": "+35929166300"
+  },
+  {
+    "name": "Regional History Museum Sofia",
+    "address": "Platno.„Banski 1, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929854455"
+  },
+  {
+    "name": "St. George Rotunda Church",
+    "address": "1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924918344"
+  },
+  {
+    "name": "Borisova Gradina Park",
+    "address": "пл. „Атанас Буров“, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929882406"
+  },
+  {
+    "name": "National Museum of History",
+    "address": "bulevard Knyaginya Maria Luiza 18, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929816001"
+  },
+  {
+    "name": "Church of St. Nicholas the Miracle-Maker",
+    "address": "bul. Tsar Osvoboditel 3, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929862715"
+  },
+  {
+    "name": "Sofia Monument",
+    "address": "бул. „Княз Александър Дондуков 2, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929809216"
+  },
+  {
+    "name": "National Bulgarian Archeological Museum",
+    "address": "pl. Sveti Aleksandar Nevski, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929881704"
+  },
+  {
+    "name": "St. Sofia Church",
+    "address": "1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924918344"
+  },
+  {
+    "name": "City Garden",
+    "address": "ul. Lachezar Stanchev 7, 1756 g.k. Iztok, Sofia, Bulgaria",
+    "phone": "+359879834043"
+  },
+  {
+    "name": "National Museum of Natural History",
+    "address": "pl. Nezavisimost, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359897279157"
+  },
+  {
+    "name": "Serdica ancient complex",
+    "address": "Bulevard Evlogi i Hristo Georgiev 99А, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35924918344"
+  },
+  {
+    "name": "Saint Petka Church",
+    "address": "1000 Sofia Center, Sofia, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Knyazheska Garden",
+    "address": "1504 Doktorska Gradina, Sofia, Bulgaria",
+    "phone": "+35924918344"
+  },
+  {
+    "name": "National Museum of Military History",
+    "address": "ul. Paris 2, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929870971"
+  },
+  {
+    "name": "Doctors' Garden",
+    "address": "1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+35929807899"
+  },
+  {
+    "name": "Crystal Garden",
+    "address": "bul. Tsar Osvoboditel 1, 1000 Sofia Center, Sofia, Bulgaria",
+    "phone": "+359879226573"
+  },
+  {
+    "name": "Socialist Art Museum",
+    "address": "ul. Cherkovna 92, 1505 Oborishte, Sofia, Bulgaria",
+    "phone": "+35929461805"
+  },
+  {
+    "name": "Boris Palace",
+    "address": "ul. Zlatyu Boyadzhiev 2, 4003 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "+35932934442"
+  },
+  {
+    "name": "Philipopolis",
+    "address": "pl. Sveta Petka 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932350000"
+  },
+  {
+    "name": "DoubleTree by Hilton Plovdiv Center",
+    "address": "ul. Brezovsko Shose 145а, 4003 Northern Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "+35932904860"
+  },
+  {
+    "name": "Hotel Imperial Plovdiv, a member of Radisson Individuals",
+    "address": "ul. Georgi Benkovski 21, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+35932650800"
+  },
+  {
+    "name": "Grand Hotel Plovdiv",
+    "address": "ul. Kapitan Raycho Nikolov 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932605000"
+  },
+  {
+    "name": "The Emporium Plovdiv - MGallery Open since June 2022",
+    "address": "Kapitan Raycho Str 66, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+35932386600"
+  },
+  {
+    "name": "Plovdiv City Center Hotel",
+    "address": "ul. Saborna 27, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359887258646"
+  },
+  {
+    "name": "HillHouse Plovdiv",
+    "address": "ul. Brezovsko Shose 127, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932333784"
+  },
+  {
+    "name": "Ramada by Wyndham Plovdiv Trimontium",
+    "address": "ul. Knyaz Alexander I № 14, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359895469270"
+  },
+  {
+    "name": "Best Western Premier Plovdiv Hills",
+    "address": "6, ul. Lev Tolstoy str, 4017 Plovdiv, Bulgaria",
+    "phone": "+35932600730"
+  },
+  {
+    "name": "Hotel Residence City Garden",
+    "address": "ul. Saturn 3, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877111176"
+  },
+  {
+    "name": "Hotel Gallery 37, BW Premier Collection",
+    "address": "парк Отдих и култура, ул. 40, 4004 Plovdiv, Bulgaria",
+    "phone": "+359887556630"
+  },
+  {
+    "name": "Plaza Hotel Plovdiv",
+    "address": "app. 4, ul. Doctor Georgi Valkovich 6, 6, flat floor, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877115606"
+  },
+  {
+    "name": "Old Plovdiv House",
+    "address": "19, str, ul. General Gurko 19, str, 4000 Plovdiv, Bulgaria",
+    "phone": "19194000"
+  },
+  {
+    "name": "Park Hotel Plovdiv",
+    "address": "ul. Knyaz Alexander I 43, 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888609445"
+  },
+  {
+    "name": "Business Hotel Plovdiv",
+    "address": "ul. Tsar Asen 8, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359893510409"
+  },
+  {
+    "name": "Hotel Antique Plovdiv",
+    "address": "ul. Knyaz Alexander I 31, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359878109231"
+  },
+  {
+    "name": "Villa Flavia Boutique Hotel",
+    "address": "ul. Pop Zlatan 13, 4003 Plovdiv, Bulgaria",
+    "phone": "+35932579758"
+  },
+  {
+    "name": "Hotel Jägerhof",
+    "address": "bul. Tsar Boris III Obedinitel 120, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359898690534"
+  },
+  {
+    "name": "Hotel Pulpudeva",
+    "address": "ul. Petko D. Petkov 64, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359877884475"
+  },
+  {
+    "name": "Hotel Evmolpia",
+    "address": "ul. Konstantin Stoilov 2, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359899515753"
+  },
+  {
+    "name": "Park Sankt Peterburg Hotel",
+    "address": "ul. Brezovsko Shose 145а, 4003 Northern Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "+35932904860"
+  },
+  {
+    "name": "Aurora hills hotel / Аурора Хилс Хотел",
+    "address": "ul. Pobeda 1, 4003 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "+35932967300"
+  },
+  {
+    "name": "Hotel Evmolpia",
+    "address": "ul. Stoycho Moshanov 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359898444660"
+  },
+  {
+    "name": "Boutique Guest House Yes For You",
+    "address": "ul. Petko R. Slaveykov 24, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+35932623931"
+  },
+  {
+    "name": "Business Hotel Plovdiv",
+    "address": "1 Sveti Valentine Street, 4001, ул. Свети Валентин 4001, 4001 Plovdiv, Bulgaria",
+    "phone": "1400140014001"
+  },
+  {
+    "name": "SOHO - Apart House",
+    "address": "boulevard Knyaginya Maria Luiza 64, 4000 Kamenitsa 2, Plovdiv, Bulgaria",
+    "phone": "+35932340500"
+  },
+  {
+    "name": "The Old Bakery Apartments",
+    "address": "ul. Hristo Matov 13, 4013 g.k. Hristo Botev-North, Plovdiv, Bulgaria",
+    "phone": "+359893510409"
+  },
+  {
+    "name": "Hotel Leipzig",
+    "address": "ul. Yasna Polyana 18, 4000 Septemvri, Plovdiv, Bulgaria",
+    "phone": "+359884544308"
+  },
+  {
+    "name": "Хотел Хеброс",
+    "address": "bul. Tsar Boris III Obedinitel 130, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359886113180"
+  },
+  {
+    "name": "City Park Inn",
+    "address": "ul. Georgi Benkovski 21, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+35932650800"
+  },
+  {
+    "name": "Hotel Pulpudeva",
+    "address": "ul. Konstantin Stoilov 9, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359877699399"
+  },
+  {
+    "name": "HOTEL ODEON",
+    "address": "ul. Ilarion Makariopolski 27, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+35932631718"
+  },
+  {
+    "name": "ATLAS HOUSE Luxury Suites",
+    "address": "bul. 6-ti septemvri 268, 4006 Eastern Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "62684006"
+  },
+  {
+    "name": "29А Guesthouse",
+    "address": "ul. Ivan Vazov 29, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359896567475"
+  },
+  {
+    "name": "Clepsydra Residence",
+    "address": "ul. Sevastopol 49, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932642051"
+  },
+  {
+    "name": "Intelcoop Hotel",
+    "address": "ul. Konstantin Stoilov 36, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359888523504"
+  },
+  {
+    "name": "Boutique Guest House COCÓ",
+    "address": "ul. Beethoven 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932279800"
+  },
+  {
+    "name": "Vizualiza Hotel",
+    "address": "ulitsa Trakia 26, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359878120130"
+  },
+  {
+    "name": "Boutique Hostel Old Plovdiv",
+    "address": "ul. Georgi Benkovski 42, 4330 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359888762487"
+  },
+  {
+    "name": "Hotel Avion",
+    "address": "bul. 6-ti septemvri 38, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932686484"
+  },
+  {
+    "name": "Family Hotel At Renaissance Square",
+    "address": "ul. Stefan Karadzha 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359889600690"
+  },
+  {
+    "name": "Hotel Alians",
+    "address": "bul. Osvobozhdenie 3, 4023 Trakiya, Plovdiv, Bulgaria",
+    "phone": "+35932659111"
+  },
+  {
+    "name": "A&М Хотел",
+    "address": "ul. Hristo Dyukmedzhiev 28, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359898977477"
+  },
+  {
+    "name": "Felix Kanitz Apartments",
+    "address": "bul. Ruski 38, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932631133"
+  },
+  {
+    "name": "Hotel Real",
+    "address": "ul. Sveti Sveti Kiril I Metodiy 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359899019006"
+  },
+  {
+    "name": "The Stay Hotel",
+    "address": "ul. Saborna 25, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359885868696"
+  },
+  {
+    "name": "Guest Rooms Best Rest",
+    "address": "ul. Otets Paisiy 21A, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359877899259"
+  },
+  {
+    "name": "Plaza Hotel Plovdiv",
+    "address": "boulevard Knyaginya Maria Luiza 64, 4000 Kamenitsa 2, Plovdiv, Bulgaria",
+    "phone": "+35932340500"
+  },
+  {
+    "name": "Noviz Hotel",
+    "address": "ul. General Gurko 15, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359892273297"
+  },
+  {
+    "name": "Mouse House Plovdiv",
+    "address": "ulitsa Trakia 26, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Skyler Guest House",
+    "address": "ul. Peter Parchevich 5, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359889735696"
+  },
+  {
+    "name": "Nomad Studios",
+    "address": "ul. Teodosi tarnovski 3А, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359878120130"
+  },
+  {
+    "name": "Villa Antica",
+    "address": "ul. Georgi Benkovski 44, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Temple House Plovdiv",
+    "address": "ul. Perushtitsa 25, 4000 Western Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "+359893334444"
+  },
+  {
+    "name": "City Hotel Plovdiv",
+    "address": "ul. Saborna 49, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932266379"
+  },
+  {
+    "name": "Hotel BLVD7",
+    "address": "ul. Preslav 47, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359895139870"
+  },
+  {
+    "name": "ФЛАМА РЕЗИДЕНТС",
+    "address": "ul. Eliezer Kalev 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932636261"
+  },
+  {
+    "name": "Hotel Dafi (Hraninvest EOOD)",
+    "address": "ul. Neofit Rilski 17 17, 4003 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "17174003"
+  },
+  {
+    "name": "Hotel Ego",
+    "address": "ul. Georgi Benkovski 23, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+35932620041"
+  },
+  {
+    "name": "Boris Palace",
+    "address": "ul. Vladaya 3, 4003 Eastern Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "+359886761677"
+  },
+  {
+    "name": "Ginger House",
+    "address": "bulevard Bulgaria 7, 4003 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "+359877211155"
+  },
+  {
+    "name": "City garden studio",
+    "address": "ul. Knyaz Alexander I 36, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359899706009"
+  },
+  {
+    "name": "Hotel Capri",
+    "address": "ul. General Gurko 17, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932622675"
+  },
+  {
+    "name": "Централ парк студио",
+    "address": "ul. Abadzhiyska 12, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359885133599"
+  },
+  {
+    "name": "Vel house - guest rooms",
+    "address": "2 Skyler street, 4000 Plovdiv, Bulgaria",
+    "phone": "+359878802220"
+  },
+  {
+    "name": "8 1/2 Art Guest House",
+    "address": "bul. Ruski 55, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932631281"
+  },
+  {
+    "name": "Guest house Maison 21",
+    "address": "12 Аltseko str 12, ul. Altseko str, 4000 Plovdiv, Bulgaria",
+    "phone": "12124000"
+  },
+  {
+    "name": "Agora Club",
+    "address": "bulevard Bulgaria 125A, 4003 Plovdiv, Bulgaria",
+    "phone": "+35932949999"
+  },
+  {
+    "name": "HOTEL MONET",
+    "address": "ul. Odrin 7, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359895579222"
+  },
+  {
+    "name": "Hakuna Matata Guest House",
+    "address": "ul. Felix Kanitz 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359889993392"
+  },
+  {
+    "name": "Експо Хотел",
+    "address": "бул. „Христо Ботев“ 46, 4002 Southern Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "+359882100370"
+  },
+  {
+    "name": "Hotel MINI",
+    "address": "bul. Vasil Aprilov 7, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932646333"
+  },
+  {
+    "name": "Saborna 25 Guest House",
+    "address": "ul. Georgi Voyteh 2, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359884161167"
+  },
+  {
+    "name": "HOTEL THE WHITE HOUSE Plovdiv",
+    "address": "ul. Patriarh Evtimiy 13, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932633599"
+  },
+  {
+    "name": "Hotel Globus",
+    "address": "пл. Възраждане 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Residence Art Guest House",
+    "address": "ul. Han Presiyan 15, 4003 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "+35932967451"
+  },
+  {
+    "name": "Famous House",
+    "address": "ul. Hristo Dyukmedzhiev 32, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359878801883"
+  },
+  {
+    "name": "Trakia street apartment",
+    "address": "ul. Chetvarti yanuari 3, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888636370"
+  },
+  {
+    "name": "Hotel SPS",
+    "address": "ul. Angel Bukureshtliev 15, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Photo Club",
+    "address": "ul. Konstantin Nunkov 13А, 4004 g.k. Hristo Botev-North, Plovdiv, Bulgaria",
+    "phone": "+359878671185"
+  },
+  {
+    "name": "Hotel Bordo",
+    "address": "ul. Bozhidar Zdravkov 9, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359893510402"
+  },
+  {
+    "name": "Guest Rooms Plovdiv",
+    "address": "ul. Ivan Vazov 29А, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359897535406"
+  },
+  {
+    "name": "Hotel Kendros",
+    "address": "Супер център, ul. Otets Paisiy №40, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888710239"
+  },
+  {
+    "name": "Bright House, Апартаменти на Хотелски Принцип",
+    "address": "4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359894768147"
+  },
+  {
+    "name": "Hotel Noris",
+    "address": "ул. „Панайот Волов“ 2, ul. Petko R. Slaveykov 3, 4000 Plovdiv, Bulgaria",
+    "phone": "+359883300990"
+  },
+  {
+    "name": "Pijama Hostel",
+    "address": "ul. Osogovo № 21, 4003 Plovdiv, Bulgaria",
+    "phone": "+359877860460"
+  },
+  {
+    "name": "Хотел Пълдин КООП / Hotel Puldin COOP",
+    "address": "ul. Konstantin Stoilov 51, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359888220377"
+  },
+  {
+    "name": "Младежки център Пловдив",
+    "address": "bul. Ruski 70, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932654000"
+  },
+  {
+    "name": "Hotel Mirena",
+    "address": "Инженер Стефан Христов Гешов 3, 4002 g.k. Mladezhki halm, Plovdiv, Bulgaria",
+    "phone": "+359886460443"
+  },
+  {
+    "name": "SimplyComfy",
+    "address": "ul. Kapitan Raycho Nikolov 23, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359887888891"
+  },
+  {
+    "name": "Apart Center 22/7",
+    "address": "Rayko Daskalov 57 A Str, 4000 Plovdiv, Bulgaria",
+    "phone": "+359889014013"
+  },
+  {
+    "name": "Hotel Belle Ville",
+    "address": "ul. Naycho Tsanov 11, 4000 Sadiyski, Plovdiv, Bulgaria",
+    "phone": "+35932270370"
+  },
+  {
+    "name": "Philipopolis",
+    "address": "Откъм главната улица, ul. Rayko Daskalov 53, 4000 Plovdiv, Bulgaria",
+    "phone": "+359889780003"
+  },
+  {
+    "name": "4 Rooms",
+    "address": "ul. Pernik 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888636370"
+  },
+  {
+    "name": "Gerdjika Hotel",
+    "address": "bulevard Bulgaria 97, 4003 Plovdiv, Bulgaria",
+    "phone": "+35932904200"
+  },
+  {
+    "name": "Landmark Creek Hotel @ Spa",
+    "address": "ул. „Панайот Волов“ 2, ul. Petko R. Slaveykov 3, 4000 Plovdiv, Bulgaria",
+    "phone": "+359883300990"
+  },
+  {
+    "name": "Allur",
+    "address": "ul. Pernik 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888636370"
+  },
+  {
+    "name": "ASEN APARTMENTS - Hotel",
+    "address": "bul. Vasil Aprilov №1, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359883505090"
+  },
+  {
+    "name": "Hostel Center Plovdiv",
+    "address": "ul. Otets Paisiy 13, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359883131131"
+  },
+  {
+    "name": "Hotel Trakart Residence",
+    "address": "ul. Naycho Tsanov 11, 4000 Sadiyski, Plovdiv, Bulgaria",
+    "phone": "+35932270370"
+  },
+  {
+    "name": "Skerzzo Guesthouse",
+    "address": "Saedinenie Str. 2, 4023 Trakiya, Plovdiv, Bulgaria",
+    "phone": "+35932347060"
+  },
+  {
+    "name": "Hemingway Restaurant",
+    "address": "ul. Knyaz Alexander I 41, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359882666555"
+  },
+  {
+    "name": "Pavaj",
+    "address": "ul. Mladezhka 28, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359889666555"
+  },
+  {
+    "name": "Atlas Restaurant",
+    "address": "ul. Tsaribrod 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359876736155"
+  },
+  {
+    "name": "Smokini",
+    "address": "ул. Ген.И.В.Гурко 10, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359894490636"
+  },
+  {
+    "name": "Айлякрия / Aylyakria Restaurant",
+    "address": "ul. Zlatarska 7, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359878111876"
+  },
+  {
+    "name": "Sofra",
+    "address": "ul. Otets Paisiy 12 Street, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359999000996"
+  },
+  {
+    "name": "Tams House",
+    "address": "ul. Doctor Stoyan Chomakov 20, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359878450259"
+  },
+  {
+    "name": "Vivaldi",
+    "address": "Zagreb 4, 4000, Bulgaria",
+    "phone": "+359887242727"
+  },
+  {
+    "name": "Rahat Tepe",
+    "address": "ul. Kozhuharska №3, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359876163666"
+  },
+  {
+    "name": "Le Petit Paris",
+    "address": "ul. Zhelezarska 13, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359888343459"
+  },
+  {
+    "name": "Ресторант Мегдана",
+    "address": "bul. Mendeleev 2B, 4000 Trakiya, Plovdiv, Bulgaria",
+    "phone": "+35970020888"
+  },
+  {
+    "name": "Memory",
+    "address": "ul. Georgi Benkovski 78, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359878963490"
+  },
+  {
+    "name": "Taco Reyes Mexican Grill",
+    "address": "ul. Filip Makedonski 27А, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877840830"
+  },
+  {
+    "name": "Porky's bbq",
+    "address": "ul. Han Presiyan 13, 4018 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "+359876702085"
+  },
+  {
+    "name": "Antico",
+    "address": "ul. Kapitan Raycho Nikolov 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877116777"
+  },
+  {
+    "name": "Ресторант Елеа / Restaurant Elea",
+    "address": "ul. Hristo Dyukmedzhiev 3, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359897777840"
+  },
+  {
+    "name": "Skapto - Plovdiv",
+    "address": "bul. 6-ti septemvri 216, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "62164000"
+  },
+  {
+    "name": "Happy Bar & Grill",
+    "address": "ul. Ivan Vazov 18, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359884859221"
+  },
+  {
+    "name": "Tables Brunch & Dinner",
+    "address": "bulevard Peshtersko Shose 82, 4001 Western Industrial Zone, Plovdiv, Bulgaria",
+    "phone": "+359888950052"
+  },
+  {
+    "name": "Mayriges Lebanese Cuisine",
+    "address": "ul. Henrih Hershkovich 8, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359878542362"
+  },
+  {
+    "name": "Gusto Restaurant",
+    "address": "bul. SVOBODA 65, 4002 g.k. Mladezhki halm, Plovdiv, Bulgaria",
+    "phone": "+35932330878"
+  },
+  {
+    "name": "Poco Loco",
+    "address": "ul. Macedonia 62, 4004 g.k. Hristo Botev-North, Plovdiv, Bulgaria",
+    "phone": "+359888223577"
+  },
+  {
+    "name": "UNICO RESTAURANT",
+    "address": "ul. Avksentiy Veleshki 37, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359895305312"
+  },
+  {
+    "name": "Restaurant - Garden Philippopolis",
+    "address": "ul. Angista 1, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877414142"
+  },
+  {
+    "name": "Osteria Rosmarino",
+    "address": "ul. Filip Makedonski 1, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932630959"
+  },
+  {
+    "name": "restaurant Maestro",
+    "address": "ul. Zlatarska 3, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359889227278"
+  },
+  {
+    "name": "La Pasta",
+    "address": "ul. Filipovo 1, 4003 Filipovo, Plovdiv, Bulgaria",
+    "phone": "+359988806888"
+  },
+  {
+    "name": "Kadife Restaurant",
+    "address": "бул. „Васил Априлов“ 47, 4002 g.k. Mladezhki halm, Plovdiv, Bulgaria",
+    "phone": "+359887149474"
+  },
+  {
+    "name": "Fresh Pasta",
+    "address": "бул. „Христо Ботев“ 81, 4000 Kamenitsa, Plovdiv, Bulgaria",
+    "phone": "+359899191264"
+  },
+  {
+    "name": "Mykonos Plovdiv",
+    "address": "ul. Bogomil 59, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359877575075"
+  },
+  {
+    "name": "Supa Bar",
+    "address": "ul. Ravnishta 4, 4001 g.k. Hristo Smirnenski, Plovdiv, Bulgaria",
+    "phone": "+359893468413"
+  },
+  {
+    "name": "PASA Restaurant",
+    "address": "4017 Каменица 2, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Yuzhen Polah Pri Malak Bunardzhik Restaurant",
+    "address": "ресторант Djanam, Комплекс 7POINTS, bul. Sankt Peterburg, 4017 Plovdiv, Bulgaria",
+    "phone": "+359879686868"
+  },
+  {
+    "name": "Hitar Petar Restaurant",
+    "address": "ul. Spartak 10, 4013 g.k. Hristo Botev-North, Plovdiv, Bulgaria",
+    "phone": "+35932696178"
+  },
+  {
+    "name": "Torro Grande / Торро Гранде",
+    "address": "ul. Stefan I Obreyko Obreykovi 60, 4018 Gagarin, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Sombrero Mexican Restaurant",
+    "address": "ul. Zelenika 5, 4017 Kamenitsa 2, Plovdiv, Bulgaria",
+    "phone": "+35932575269"
+  },
+  {
+    "name": "Salt & Pepper",
+    "address": "ul. Zlatarska 4, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359882555301"
+  },
+  {
+    "name": "Bellagio Restaurant",
+    "address": "ul. Ilarion Makariopolski 69, 4003 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+35932662566"
+  },
+  {
+    "name": "Pojarnata",
+    "address": "4000, ul. Han Kubrat 5, 4000 Plovdiv, Bulgaria",
+    "phone": "400054000"
+  },
+  {
+    "name": "Joana",
+    "address": "ul. Hristo Dyukmedzhiev 7, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359894021744"
+  },
+  {
+    "name": "Fork and knife",
+    "address": "ul. Kapitan Raycho Nikolov 44, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+35932623445"
+  },
+  {
+    "name": "Ruski Restorant Petar І",
+    "address": "ul. Hristo G. Danov 32, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877290492"
+  },
+  {
+    "name": "Chinese restaurant Diamond-Plovdiv (中国餐厅钻石）",
+    "address": "ul. Knyaz Al. Dondukov-Korsakov 4, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932267711"
+  },
+  {
+    "name": "The Terrace Restaurant",
+    "address": "ul. Brezovsko Shose 127, 4003 Plovdiv, Bulgaria",
+    "phone": "+359897521331"
+  },
+  {
+    "name": "Multi Culti",
+    "address": "ul. Yoakim Gruev 36, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359888714286"
+  },
+  {
+    "name": "Veggic",
+    "address": "Boulevard Maritza 85А, 4000 Karshiaka, Plovdiv, Bulgaria",
+    "phone": "+359887521199"
+  },
+  {
+    "name": "Prego Pizza and Wine",
+    "address": "ul. Doctor G. M. Dimitrov 3-А, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877883900"
+  },
+  {
+    "name": "Ресторант Монро / Monroe Restaurant",
+    "address": "bul. Ruski 54, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877180777"
+  },
+  {
+    "name": "Torro Boulevard",
+    "address": "ul. Zefir 4, 4000 Kamenitsa 2, Plovdiv, Bulgaria",
+    "phone": "+359898634049"
+  },
+  {
+    "name": "Restaurant Pateritsata",
+    "address": "ul. Bogomil 30, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359884434207"
+  },
+  {
+    "name": "Restaurant XIX Century",
+    "address": "ul. Otets Paisiy 6, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888992198"
+  },
+  {
+    "name": "Arena Restaurant",
+    "address": "ul. Aleksander Ekzarh 15, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359899130195"
+  },
+  {
+    "name": "Restaurant - Garden Romantic",
+    "address": "ul. Georgi Voyteh 2, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Ресторант “Фестивал”",
+    "address": "ul. Konstantin Stoilov 10, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932629953"
+  },
+  {
+    "name": "Casa Petraglia",
+    "address": "ул. Младежки Хълм, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932643693"
+  },
+  {
+    "name": "Happy Bar & Grill",
+    "address": "ul. Skopie 1, 4030 g.k. Hristo Botev-North, Plovdiv, Bulgaria",
+    "phone": "+359894919491"
+  },
+  {
+    "name": "Restaurant Pagona",
+    "address": "ul. Konstantin Stoilov 27, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359890236023"
+  },
+  {
+    "name": "Saborna 23",
+    "address": "Пловдив, ул. Фр.Жолио-Кюри 6А, Bulgaria",
+    "phone": "+35932629133"
+  },
+  {
+    "name": "РесторантСтарият Пловдив",
+    "address": "ul. Ivan Vazov 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359897056222"
+  },
+  {
+    "name": "Iceberg Greek restaurant",
+    "address": "ul. Otets Paisiy 3, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932622320"
+  },
+  {
+    "name": "Amsterdam",
+    "address": "ul. Valko Shopov, 4023 Lulacite, Plovdiv, Bulgaria",
+    "phone": "+359877007375"
+  },
+  {
+    "name": "Italian restaurant Gallo Nero",
+    "address": "ul. Vasil Levski 2, 4003 Vassil, Plovdiv, Bulgaria",
+    "phone": "+35970020888"
+  },
+  {
+    "name": "Piacere",
+    "address": "ul. Nayden Gerov 19, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888997751"
+  },
+  {
+    "name": "d'Asti-Osteria Italiana",
+    "address": "ul. Pavel Kurtevich 2, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359898704701"
+  },
+  {
+    "name": "Central Park",
+    "address": "ul. Sevastopol 26, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932644534"
+  },
+  {
+    "name": "Evergreen",
+    "address": "ul. Tsar Kaloyan 1А, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932653882"
+  },
+  {
+    "name": "Restaurant Djump",
+    "address": "bul. Vasil Aprilov 60, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359879006100"
+  },
+  {
+    "name": "Restaurant Riviera",
+    "address": "ul. Kapitan Raycho Nikolov 50, 4000 Kamenitsa, Plovdiv, Bulgaria",
+    "phone": "+359898772005"
+  },
+  {
+    "name": "Plovdiv Hills",
+    "address": "ul. Antim I 5, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359896301140"
+  },
+  {
+    "name": "Restorant Malkiyat Dvor",
+    "address": "ul. Zlatarska 9, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359879588988"
+  },
+  {
+    "name": "Restaurant Victoria Markovo Tepe Mall",
+    "address": "ul. Knyaz Tseretelev 11, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932620789"
+  },
+  {
+    "name": "Kitchen of Raya / Кухнята на Рая",
+    "address": "ul. Yane Sandanski 20, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359879990005"
+  },
+  {
+    "name": "Restaurant Dayana-3",
+    "address": "ul. Abadzhiyska 6а, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359882933309"
+  },
+  {
+    "name": "Supa Bar",
+    "address": "ul. Hristo G. Danov 24, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359899842375"
+  },
+  {
+    "name": "Elegant Chinese Restaurant",
+    "address": "ul. Tsar Asen 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359894515334"
+  },
+  {
+    "name": "Golden fish",
+    "address": "ul. Emile Zola 9, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359894466544"
+  },
+  {
+    "name": "Restaurant India",
+    "address": "ul. Hristo Dyukmedzhiev 8, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359893048010"
+  },
+  {
+    "name": "Ресторант Арт и Шок | Ресторант в Пловдив | Вкусна Храна",
+    "address": "ul. Han Kubrat 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932275671"
+  },
+  {
+    "name": "Halal restaurant (oriental menu)",
+    "address": "бул. Дунав и ул. Победа, Plovdiv, Bulgaria",
+    "phone": "+35932393050"
+  },
+  {
+    "name": "Kristi",
+    "address": "ROYAL CITY CENTER, bul. Dunav 5, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932336179"
+  },
+  {
+    "name": "Bologna Food",
+    "address": "ul. Volga № 1A, 4000 Halm Na Osvoboditelite, Plovdiv, Bulgaria",
+    "phone": "+359878711777"
+  },
+  {
+    "name": "Дюнер Shef",
+    "address": "Пловдив, бул. В.Априлов 140, Bulgaria",
+    "phone": "+35932968778"
+  },
+  {
+    "name": "Restaurant Rio",
+    "address": "ul. Victor Hugo 27, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877290030"
+  },
+  {
+    "name": "Рибен ресторант Синьото",
+    "address": "ul. Kapitan Raycho Nikolov 66, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359885399939"
+  },
+  {
+    "name": "DJANAM STEAK HOUSE PLOVDIV",
+    "address": "bul. 6-ti septemvri 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359879550001"
+  },
+  {
+    "name": "Original Gyros",
+    "address": "ul. Zlatarska 8, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359897733433"
+  },
+  {
+    "name": "Дон Апети",
+    "address": "Plovdiv, Makedoniya Blvd 20А, ul. Dimitar Talev, 4013 Plovdiv, Bulgaria",
+    "phone": "+359894793030"
+  },
+  {
+    "name": "Arab Taste",
+    "address": "ul. Vasil Levski 74, 4003 Plovdiv, Bulgaria",
+    "phone": "+35932957044"
+  },
+  {
+    "name": "STREET CHEFS PLOVDIV | Plovdiv Kapana District",
+    "address": "bulevard Peshtersko Shose 28а, 4002 g.k. Mladezhki halm, Plovdiv, Bulgaria",
+    "phone": "+359899173509"
+  },
+  {
+    "name": "Ресторант Бразилия, град Пловдив",
+    "address": "ул. „Уилям Гладстон 3, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359886764070"
+  },
+  {
+    "name": "Restaurants",
+    "address": "ul. Otets Paisiy 41, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888515055"
+  },
+  {
+    "name": "Funky Creperie",
+    "address": "4003, ul. Nikolay Haytov 17, 4003 Plovdiv, Bulgaria",
+    "phone": "4003174003"
+  },
+  {
+    "name": "Central Park",
+    "address": "ul. Saborna 29, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932624851"
+  },
+  {
+    "name": "Sombrero 2",
+    "address": "ul. Otets Paisiy 26, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888429738"
+  },
+  {
+    "name": "Restorant Trompeta",
+    "address": "ul. Konstantin Stoilov 14, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359897771772"
+  },
+  {
+    "name": "Restaurant Aromatno",
+    "address": "ul. Hristo Dyukmedzhiev 1, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+359888770177"
+  },
+  {
+    "name": "Антик",
+    "address": "ul. Yoakim Gruev 24, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+35970011313"
+  },
+  {
+    "name": "Divino Cafe Plovdiv",
+    "address": "ul. Nayden Gerov 8, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359885544051"
+  },
+  {
+    "name": "Vitafix",
+    "address": "Plovdiv, Patriarh Evtimiy St 13, 4000, Bulgaria",
+    "phone": "+35970020888"
+  },
+  {
+    "name": "Restaurant Grand Victoria",
+    "address": "ul. Leonardo Da Vinci 30, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": "+359893507269"
+  },
+  {
+    "name": "Mall Plovdiv",
+    "address": "ул. Княз Ал.Богориди 8, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+35932628579"
+  },
+  {
+    "name": "Plovdiv Plaza Mall",
+    "address": "ul. Zlatyu Boyadzhiev 2, 4003 Karshiaka, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Shopping Center Hali",
+    "address": "ul. Brezovska, 4000 Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Mall Markovo Tepe",
+    "address": "bul. Aleksander Stamboliyski 131, 4004 g.k. Ostromila, Plovdiv, Bulgaria",
+    "phone": "+359884445587"
+  },
+  {
+    "name": "Maritza River Bridge Shopping Center",
+    "address": "ul. Kozhuharska 4, 4000 Kapana, Plovdiv, Bulgaria",
+    "phone": "+35932624535"
+  },
+  {
+    "name": "Retail Park Plovdiv",
+    "address": "ul. Kapitan Raycho Nikolov 56, 4000 Kamenitsa, Plovdiv, Bulgaria",
+    "phone": "+359886888150"
+  },
+  {
+    "name": "Shopping Center Grand Hotel",
+    "address": "3, Dr. Georgi Stranski Str, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932396601"
+  },
+  {
+    "name": "VIA Park",
+    "address": "bul. Mendeleev 2Б, 4000 Trakiya, Plovdiv, Bulgaria",
+    "phone": "+359888604210"
+  },
+  {
+    "name": "Shopping Center Maritsa",
+    "address": "ul. Perushtitsa 8, 4002 g.k. Mladezhki halm, Plovdiv, Bulgaria",
+    "phone": "+359885963434"
+  },
+  {
+    "name": "ТЦ Гранд",
+    "address": "bul. Ruski 54, 4002 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Market Center 1",
+    "address": "8 Perushtica str, 4000 Plovdiv, Bulgaria",
+    "phone": "+359894422219"
+  },
+  {
+    "name": "Teodor Mall Plovdiv",
+    "address": "ul. Knyaz Alexander I 12, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359877366744"
+  },
+  {
+    "name": "Teodor Plaza",
+    "address": "bul. Sankt Peterburg 34, 4017 Trakiya, Plovdiv, Bulgaria",
+    "phone": "+359898866445"
+  },
+  {
+    "name": "Next Plovdiv Plaza Mall",
+    "address": "ул. „Д-р Георги Странски“ 3, 4006 Kazarmi, Plovdiv, Bulgaria",
+    "phone": "+359876543131"
+  },
+  {
+    "name": "Copy center MULTI PLACE",
+    "address": "ул. „Д-р Георги Странски“ 3, 4019 Kazarmi, Plovdiv, Bulgaria",
+    "phone": "+359888908844"
+  },
+  {
+    "name": "Fusion Mall Plovdiv",
+    "address": "ul. Perushtitsa 8, 4002 g.k. Mladezhki halm, Plovdiv, Bulgaria",
+    "phone": "+359889901512"
+  },
+  {
+    "name": "German Shopping Center",
+    "address": "ul. Kapitan Raycho Nikolov 50, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Old Town Of Plovdiv - Architectural Reserve",
+    "address": "pl. Saedinenie 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932629409"
+  },
+  {
+    "name": "Ancient Theatre of Philippopolis",
+    "address": "ul. Knyaz Alexander I 30, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Regional Ethnographic Museum Plovdiv",
+    "address": "ул. Цар Ивайло 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932621040"
+  },
+  {
+    "name": "Regional Archaeological Museum, Plovdiv",
+    "address": "ul. Veliko Tarnovo 11А, 4000 Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "The Statue of Milyo",
+    "address": "Бунарджика, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932620229"
+  },
+  {
+    "name": "“Tsar Simeon Garden” Park",
+    "address": "ul. Saborna 24, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Singing Fountains",
+    "address": "pl. Saedinenie 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932633106"
+  },
+  {
+    "name": "Alyosha Monument",
+    "address": "ul. Hristo G. Danov, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+3593589258"
+  },
+  {
+    "name": "Balabanov's House",
+    "address": "ul. Doctor Stoyan Chomakov 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932625654"
+  },
+  {
+    "name": "Museum of Natural Sciences",
+    "address": "4000, ul. Sofroniy Vrachanski 4, 4000 Plovdiv, Bulgaria",
+    "phone": "400044000"
+  },
+  {
+    "name": "Roman Forum of Philippopolis",
+    "address": "ul. Ivan Vazov 17, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359879811211"
+  },
+  {
+    "name": "Zlatyu Boyadzhiev Permanent Exhibition",
+    "address": "bul. Ruski 48, 4020 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359899887807"
+  },
+  {
+    "name": "Clock Tower",
+    "address": "ul. Doctor Georgi Valkovich 7, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+35932623276"
+  },
+  {
+    "name": "House-Museum Hindliyan",
+    "address": "Bulgaria, bul. SVOBODA 69, 4001 Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Sveta Bogoroditsa Church",
+    "address": "boulevard Knyaginya Maria Luiza 31, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359876662882"
+  },
+  {
+    "name": "Free Plovdiv Tour",
+    "address": "ul. Saborna 29, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+35932622963"
+  },
+  {
+    "name": "Youth Hill",
+    "address": "bul. Tsar Boris III Obedinitel 89, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932631303"
+  },
+  {
+    "name": "Bishop’s Basilica of Philippopolis",
+    "address": "ul. Chetvarti yanuari 3, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359888637809"
+  },
+  {
+    "name": "Trakart Cultural Center",
+    "address": "pl. Stefan Stambolov 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359886993977"
+  },
+  {
+    "name": "Museum - Gallery Philippopolis",
+    "address": "boulevard Knyaginya Maria Luiza 2, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+359876662900"
+  },
+  {
+    "name": "Sahat Tepe",
+    "address": "ul. Saborna 2, 4000 Staria grad, Plovdiv, Bulgaria",
+    "phone": "+359879963737"
+  },
+  {
+    "name": "Sveta Marina church",
+    "address": "ul. Bozhidar Zdravkov 19, 4000 Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Escape Zone Plovdiv",
+    "address": "ul. Artin Gidikov 4, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932628998"
+  },
+  {
+    "name": "Small Basilica Archeological Site (5th-6th century)",
+    "address": "ul. Saborna 18, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932635308"
+  },
+  {
+    "name": "Museum of Aviation",
+    "address": "ul. Saborna 24, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932624573"
+  },
+  {
+    "name": "Bratskata Mogila",
+    "address": "4002 Halm Na Mladostta, Plovdiv, Bulgaria",
+    "phone": "+359893464019"
+  },
+  {
+    "name": "Plovdiv",
+    "address": "ul. Konstantin Stoilov 57, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": "+35932627082"
+  },
+  {
+    "name": "Стая на загадките - QuestionRooms",
+    "address": "4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Bachkovo Monastery Uspenie Bogorodichno",
+    "address": "pl. Hisar kapiya, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Domus Rebus - The Bulgarian House of Mystery",
+    "address": "pl. Tsentralen 1, 4000 Tsentar, Plovdiv, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Kapana",
+    "address": "ul. Hristo G. Danov 34, 4000 Plovdiv, Bulgaria",
+    "phone": "+35932633096"
+  },
+  {
+    "name": "Hotel Arena Mar",
+    "address": "ul. Musala 3, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359898664100"
+  },
+  {
+    "name": "Grand Hotel London",
+    "address": "bul. Slivnitsa 33, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359882907308"
+  },
+  {
+    "name": "Rosslyn Dimyat Hotel Varna",
+    "address": "bul. Knyaz Boris I 65, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952989900"
+  },
+  {
+    "name": "Hotel Gallery Graphite",
+    "address": "bul. Slivnitsa 33, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359882907308"
+  },
+  {
+    "name": "Hotel & Casino “Cherno More”",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+35952355449"
+  },
+  {
+    "name": "Hotel Panorama",
+    "address": "bul. Slivnitsa 10, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952684060"
+  },
+  {
+    "name": "Modus Hotel",
+    "address": "ul. Stefan Stambolov 46, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+35952660910"
+  },
+  {
+    "name": "International Hotel Casino & Tower Suites",
+    "address": "Front Beach Alley, 9007 Golden Sands, Bulgaria",
+    "phone": "+35952357180"
+  },
+  {
+    "name": "Grand Hotel London",
+    "address": "bul. Knyaz Boris I 111, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35952910800"
+  },
+  {
+    "name": "Plaza Hotel Varna",
+    "address": "bul. Primorski 31, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952687300"
+  },
+  {
+    "name": "BEST WESTERN Park Hotel",
+    "address": "ul. Nikola Kanev, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359897939006"
+  },
+  {
+    "name": "Aqua Hotel",
+    "address": "ul. Stefan Stambolov 15, 9000 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Hotel Belle Epoque Beach",
+    "address": "Mestnost Saltanat 37, местност Салтанат 37, 9000 Varna, Bulgaria",
+    "phone": "37379000"
+  },
+  {
+    "name": "The Palace Balneo & Spa Hotel",
+    "address": "bul. Knyaz Boris I 143, 9000 g.k. Briz, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Boutique Hotel Antiques&Gold",
+    "address": "ul. Krastyu Mirski 1, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359886140315"
+  },
+  {
+    "name": "Villa Chinka",
+    "address": "бул. „Христо Смирненски“ 76 Вход В, Вход Г, етаж 1 и 2, 9000 Varna, Bulgaria",
+    "phone": "76129000"
+  },
+  {
+    "name": "Golden Tulip Varna",
+    "address": "ж.к. Чайка 190, 9005 Golden Sands, Varna, Bulgaria",
+    "phone": "+359889533739"
+  },
+  {
+    "name": "Alekta Hotel Varna",
+    "address": "ul. 2-ra 1, 5307 Trakata, Gabrovo, Bulgaria",
+    "phone": "+359889907084"
+  },
+  {
+    "name": "Royal Hotel",
+    "address": "ul. Stefan Karadzha 33, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+359885941729"
+  },
+  {
+    "name": "Reverence",
+    "address": "139, ul. Boyan Bachvarov 9007, 9007 Varna, Bulgaria",
+    "phone": "13990079007"
+  },
+  {
+    "name": "хотел Капитол",
+    "address": "х-л П а л и т р а, ul. Konstantin Doganov № 11, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359885821871"
+  },
+  {
+    "name": "M Hostel Musala",
+    "address": "ul. Ilarion Makariopolski 1, 9000 Center, Varna, Bulgaria",
+    "phone": "+359894496070"
+  },
+  {
+    "name": "Hotel Duchess",
+    "address": "ul. Marko Balabanov 25, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952608040"
+  },
+  {
+    "name": "Hotel Arena Mar",
+    "address": "м, ул. Ален мак, 9000 Varna, Bulgaria",
+    "phone": "+35952356981"
+  },
+  {
+    "name": "хотел Капитол",
+    "address": "ul. Dr. Lyuben Lazarov №, 9007 Chayka, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Perfect",
+    "address": "Варна, Спирка Марек, Bulgaria",
+    "phone": "+35952361140"
+  },
+  {
+    "name": "Boutique Hotel Antiques&Gold",
+    "address": "ul. Stefan Stambolov 15, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359893683341"
+  },
+  {
+    "name": "Alekta Hotel Varna",
+    "address": "Vajalar 89, 9006 Vayalar, Varna, Bulgaria",
+    "phone": "+35952690002"
+  },
+  {
+    "name": "Hotel Art Green",
+    "address": "bul. 8-mi Primorski Polk 269, 9010 Akchelar, Varna, Bulgaria",
+    "phone": "82699010"
+  },
+  {
+    "name": "HOTEL DIVESTA",
+    "address": "ul. Knyaz Aleksander Batenberg 41, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952361271"
+  },
+  {
+    "name": "HOTEL IMPERIA",
+    "address": "ul. Nikola Kanev 7, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359877888583"
+  },
+  {
+    "name": "Best Western Prima Hotel",
+    "address": "сп. Студентска 264, Varna, Bulgaria",
+    "phone": "+35952302513"
+  },
+  {
+    "name": "Hotel Gran Ivan",
+    "address": "St. Konstantin and Helena Resort, 9006 Varna, Bulgaria",
+    "phone": "+35952385400"
+  },
+  {
+    "name": "M Hostel Musala",
+    "address": "bul. Tsar Osvoboditel 23B, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+359888862299"
+  },
+  {
+    "name": "Vezhen Hotel",
+    "address": "ul. Stefan Karadzha 26, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+359888859256"
+  },
+  {
+    "name": "Hotel Amfora Varna - for Business and Holiday",
+    "address": "1, 33 Street, st st Constantine and Helena, Varna 9006, Varna, Bulgaria",
+    "phone": "+359988936696"
+  },
+  {
+    "name": "Hotel Orbita",
+    "address": "ul. Frederic Shopen 2, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359886000055"
+  },
+  {
+    "name": "Royal Beach",
+    "address": "bul. Tsar Osvoboditel 90, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359882530413"
+  },
+  {
+    "name": "Плиска",
+    "address": "Vila Katalina, ул. „Янко Славчев“ 26, 9007 Chayka, Varna, Bulgaria",
+    "phone": "+79264552245"
+  },
+  {
+    "name": "IHS Hotel Joliot Curie",
+    "address": "Golden sands 116, 9007 Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Infinity Varna Sky",
+    "address": "Saints Constantine and Elena Resort, 9006 Varna, Bulgaria",
+    "phone": "+35952363740"
+  },
+  {
+    "name": "Piter Hotel",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+436643524749"
+  },
+  {
+    "name": "Just Rooms & Wine",
+    "address": "приморски парк, пл. 3, 9010 Varna, Bulgaria",
+    "phone": "+359882002006"
+  },
+  {
+    "name": "Kristel Hotel",
+    "address": "ul. Dubrovnik 23, 9000 Levski, Varna, Bulgaria",
+    "phone": "+359887866033"
+  },
+  {
+    "name": "CASINO HOTEL HAVANA",
+    "address": "ul. Parizhka Komuna 2А, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+35952615168"
+  },
+  {
+    "name": "Primorski Hotel",
+    "address": "ul. Parva 55, 9006 Trakata, Varna, Bulgaria",
+    "phone": "+35952761188"
+  },
+  {
+    "name": "Three Dolphins",
+    "address": "bul. 8-mi Primorski Polk 180, 9010 g.k. Briz, Varna, Bulgaria",
+    "phone": "81809010"
+  },
+  {
+    "name": "Hotel Dionis",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+35952355344"
+  },
+  {
+    "name": "Art Hotel",
+    "address": "Приморски парк, 9010 Primorski, Varna, Bulgaria",
+    "phone": "+359882002006"
+  },
+  {
+    "name": "Caro Apartments",
+    "address": "13 Petur Nikov Str., Kabakum, 9000 Varna, Bulgaria",
+    "phone": "+359889719541"
+  },
+  {
+    "name": "hotel Yo",
+    "address": "к.к, 9000 Golden Sands, Bulgaria",
+    "phone": "+359878387650"
+  },
+  {
+    "name": "Hotel Casablanca Green",
+    "address": "bul. Knyaz Boris I 191, 9002 Trakata, Varna, Bulgaria",
+    "phone": "+359893374799"
+  },
+  {
+    "name": "Hotel Estreya Palace",
+    "address": "ул. „Девня“ 106, 9009 Western Industrial Zone, Varna, Bulgaria",
+    "phone": "+35952727800"
+  },
+  {
+    "name": "Hotel Color Varna",
+    "address": "Чайка 94, до бл.24, 9005 Varna, Bulgaria",
+    "phone": "94249005"
+  },
+  {
+    "name": "Summer House Seaempress",
+    "address": "Св.Св. Константин и Елена, ул. 50 номер 15, 9000 Varna, Bulgaria",
+    "phone": "50159000"
+  },
+  {
+    "name": "CLASIC HOTEL",
+    "address": "ul. Krakra 30, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+35952602626"
+  },
+  {
+    "name": "Romance Family Hotel",
+    "address": "ul. Han Malamir 6, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+35952660950"
+  },
+  {
+    "name": "Хотел Варна",
+    "address": "ul. Solun 2, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359877808889"
+  },
+  {
+    "name": "Hotel Victoria",
+    "address": "30-th Str. 11, Varna, Bulgaria",
+    "phone": "+359897848440"
+  },
+  {
+    "name": "Santa Marina",
+    "address": "ul. Baba Rada 28, 9000 Center, Varna, Bulgaria",
+    "phone": "+359885824226"
+  },
+  {
+    "name": "Elica Hotel",
+    "address": "ul. Rali Mavridov 23, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+35952608006"
+  },
+  {
+    "name": "La Casa Guest House",
+    "address": "Sv. Konstantin i Elena, Saints Constantine and Helena, Bulgaria",
+    "phone": "+359879585022"
+  },
+  {
+    "name": "Fantasy Apartments",
+    "address": "м-ст, bul. Knyaz Boris I № 122, № 58, 9005 Saltanat, Varna, Bulgaria",
+    "phone": "122589005"
+  },
+  {
+    "name": "Къща Джаки Варна",
+    "address": "k.k. Sveti Sveti Konstantin i Elena к.к. Свети Свети Константин и Елена, 9006 Saints Constantine and Helena, Bulgaria",
+    "phone": "+35952361135"
+  },
+  {
+    "name": "Hotel Trakata",
+    "address": "67 str, 9006 Varna, Bulgaria",
+    "phone": "+35952385400"
+  },
+  {
+    "name": "hotel Adamo",
+    "address": "Св. Св. Константин и Елена, 9006 Varna, Bulgaria",
+    "phone": "+359879000250"
+  },
+  {
+    "name": "Hotel Poseydon",
+    "address": "St.Nikola area, 9010 Varna, Bulgaria",
+    "phone": "+359887821901"
+  },
+  {
+    "name": "Hotel Jambo",
+    "address": "ul. Baba Rada 6, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359893048143"
+  },
+  {
+    "name": "Joya Park Complex",
+    "address": "ul. Preslav 59, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952657600"
+  },
+  {
+    "name": "Complex Horizont",
+    "address": "13 Buzludja Street, 9000 Varna, Bulgaria",
+    "phone": "+359899021122"
+  },
+  {
+    "name": "Ellinis Hotel",
+    "address": "ul. Gabrovo 27, 9000 Center, Varna, Bulgaria",
+    "phone": "+359885629137"
+  },
+  {
+    "name": "Paralax Hotel",
+    "address": "9007 Golden Sands, Resort, Bulgaria",
+    "phone": "+35952381200"
+  },
+  {
+    "name": "Hotel Sorbona",
+    "address": "к. к. Св. Св. Константин и Елена, 9006 Varna, Bulgaria",
+    "phone": "+35952810300"
+  },
+  {
+    "name": "Boutique Hotel Horizont",
+    "address": "bul. Knyaz Boris I 350, 9006 St, Saints Constantine and Helena, Bulgaria",
+    "phone": "+35952363599"
+  },
+  {
+    "name": "Hotel Caprice",
+    "address": "ul. Ilarion Makariopolski 1, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359894496070"
+  },
+  {
+    "name": "Hotel Paradise",
+    "address": "Varna, Kabakum, 9007 Chayka, Varna, Bulgaria",
+    "phone": "+359894606973"
+  },
+  {
+    "name": "Ivanchov Han",
+    "address": "St. Constantine, 9006 Saints Constantine and Helena, Bulgaria",
+    "phone": "+35952361161"
+  },
+  {
+    "name": "Villa Katalina",
+    "address": "9020 Salzitsa, Varna, Bulgaria",
+    "phone": "+359877667002"
+  },
+  {
+    "name": "Hotel Opera Plaza",
+    "address": "139 Bojan Bachvarov st, 9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+35952355453"
+  },
+  {
+    "name": "Guest House Yanita / Къща за гости Янита",
+    "address": "bul. Tsar Osvoboditel 25, 9002 Varna Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Теви Апартс",
+    "address": "Resort, Varna, 9006 Saints Constantine and Helena, Bulgaria",
+    "phone": "+35952363979"
+  },
+  {
+    "name": "Campus 90",
+    "address": "Chaika area, 9000 Golden Sands, Varna, Bulgaria",
+    "phone": "+35952355310"
+  },
+  {
+    "name": "Enika",
+    "address": "ul. Musala 1, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359988228908"
+  },
+  {
+    "name": "Paradise Green Park",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+35952355639"
+  },
+  {
+    "name": "Spa Hotel Romance Splendid",
+    "address": "ul. Tsar Samuil 5, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+35952609809"
+  },
+  {
+    "name": "Nomado Hostel",
+    "address": "ul. Ovche Pole 28, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359876448087"
+  },
+  {
+    "name": "Citadel Guest House, Guest House Citadel",
+    "address": "ul. Ohrid 10, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359888085008"
+  },
+  {
+    "name": "complex Antik",
+    "address": "ul. Sofia, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359878018400"
+  },
+  {
+    "name": "MareliS Sea Hostel",
+    "address": "ul. Hristo Samsarov 1, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359894620289"
+  },
+  {
+    "name": "Hotel Divata Cheresha",
+    "address": "D-r Piskyuliev Str, ul. Doctor Piskyuliev 66, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359888084300"
+  },
+  {
+    "name": "Hotel Margarita",
+    "address": "28, Sv. Nikola area, Picadilly Park, ul. Dr. Hristina Hranova 28, 9006 Varna, Bulgaria",
+    "phone": "28289006"
+  },
+  {
+    "name": "ТОРО НЕГРО",
+    "address": "ul. Petko Karavelov 8, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952600416"
+  },
+  {
+    "name": "Magnolia Sea View Studio",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+35952355449"
+  },
+  {
+    "name": "Hotel Breeze 3",
+    "address": "ul. Petko Karavelov 40, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359886688000"
+  },
+  {
+    "name": "Хотел Арго",
+    "address": "ul. Musala 1, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359988228908"
+  },
+  {
+    "name": "Bed and Book Hostel",
+    "address": "местност Салтанат 64, п. кутия 270, 9010 Varna, Bulgaria",
+    "phone": "642709010"
+  },
+  {
+    "name": "Palitra Rooms",
+    "address": "ul. Petko Karavelov 40, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359886688000"
+  },
+  {
+    "name": "Amiral Hotel",
+    "address": "ul. Han Omurtag 11, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359895464567"
+  },
+  {
+    "name": "Royal Hostel Golden Sands",
+    "address": "28, Sv. Nikola area, Picadilly Park, ul. Dr. Hristina Hranova 28, 9006 Varna, Bulgaria",
+    "phone": "28289006"
+  },
+  {
+    "name": "Villa Climate Guest House",
+    "address": "D-r Piskyuliev Str, ul. Doctor Piskyuliev 66, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359888084300"
+  },
+  {
+    "name": "Hostel Rayska Yabalka",
+    "address": "3A, bul. Hristo Botev Blvd, 9000 Varna, Bulgaria",
+    "phone": "+35952683000"
+  },
+  {
+    "name": "Hostel Casablanca City",
+    "address": "бул. „8-ми Приморски полк“ 58, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35952631831"
+  },
+  {
+    "name": "Mr Baba",
+    "address": "ul. Neofit Rilski, 9000 Center, Varna, Bulgaria",
+    "phone": "+359988345444"
+  },
+  {
+    "name": "Parmy Family Restaurant",
+    "address": "bul. Primorski 27, 9000 Center, Varna, Bulgaria",
+    "phone": "+359896505050"
+  },
+  {
+    "name": "Staria Chinar - Port Varna",
+    "address": "opposite Cherno More Hotel, bul. Slivnitsa 22, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35970020888"
+  },
+  {
+    "name": "Happy Bar & Grill",
+    "address": "Северни Морски Бани, кап. Георги Георгиев, Крайбрежна алея, 9000 Varna, Bulgaria",
+    "phone": "+359877449544"
+  },
+  {
+    "name": "Monkeys",
+    "address": "9002 Primorski, Varna, Bulgaria",
+    "phone": "+35952610862"
+  },
+  {
+    "name": "Candles Café Bar & Dinner",
+    "address": "ul. Makedonia 154, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359878514683"
+  },
+  {
+    "name": "Морска тераса",
+    "address": "9010 Saltanat, Varna, Bulgaria",
+    "phone": "+35952807807"
+  },
+  {
+    "name": "Marché Restaurant",
+    "address": "Sea Garden , complex Horizont, Морска градина, комплекс Хоризонт, 9000 Varna, Bulgaria",
+    "phone": "+359884754075"
+  },
+  {
+    "name": "Nord",
+    "address": "Ресторант Морска Тераса, Централен плаж, 9000 Varna, Bulgaria",
+    "phone": "+359882505050"
+  },
+  {
+    "name": "Staria Chinar Restaurant",
+    "address": "9000 Пристанищен комплекс, Varna, Bulgaria",
+    "phone": "+359879549494"
+  },
+  {
+    "name": "Red Canape by the Bay",
+    "address": "bul. Knyaz Boris I 82, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359877225526"
+  },
+  {
+    "name": "Restaurant „Buna“",
+    "address": "ul. Doctor Lyudvig Zamenhof 10, 9000 Center, Varna, Bulgaria",
+    "phone": "+359876327223"
+  },
+  {
+    "name": "Chuchura Restaurant",
+    "address": "ul. Vasil Drumev 97, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359885055444"
+  },
+  {
+    "name": "Halbata Restaurant",
+    "address": "ul. Kapitan Georgi Georgiev, 9000 Primorski, Varna, Bulgaria",
+    "phone": "+359893636863"
+  },
+  {
+    "name": "La Casa - Italian restaurant",
+    "address": "bul. 8-mi Primorski Polk 1743, 9010 Akchelar, Varna, Bulgaria",
+    "phone": "817439010"
+  },
+  {
+    "name": "Captain Cook",
+    "address": "ul. Preslav 11, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952949400"
+  },
+  {
+    "name": "Veranda",
+    "address": "Port Varna, 9000 Pristanishten kompleks, Varna, Bulgaria",
+    "phone": "+359885008242"
+  },
+  {
+    "name": "Odaiata Restaurant",
+    "address": "ul. Knyaz Aleksander Batenberg 6, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359899400439"
+  },
+  {
+    "name": "Bistro Happy House",
+    "address": "Shopping Complex, ul. Yan Palah Str, 10, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+359888792875"
+  },
+  {
+    "name": "Турски ресторант Ориент | Orient Turkish Restaurant | Arabic Restaurant",
+    "address": "E87 2010, 9022 Sv. Sv. Konstantin I Elena, Varna, Bulgaria",
+    "phone": "8720109022"
+  },
+  {
+    "name": "Veranda",
+    "address": "bul. Vasil Levski 7Г, 9010 Levski, Varna, Bulgaria",
+    "phone": "+35952302394"
+  },
+  {
+    "name": "Nida",
+    "address": "bul. Knyaz Boris I 66, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35970016010"
+  },
+  {
+    "name": "Турски ресторант Ориент | Orient Turkish Restaurant | Arabic Restaurant",
+    "address": "район Приморски, местност Салтанат 81, 9000 Varna, Bulgaria",
+    "phone": "+359877622641"
+  },
+  {
+    "name": "La Mer Restaurant",
+    "address": "bul. Knyaz Boris I 46, 9000 Center, Varna, Bulgaria",
+    "phone": "+35970090090"
+  },
+  {
+    "name": "Viking Restaurant",
+    "address": "ul. Ivan Aksakov 7, 9002 Center, Varna, Bulgaria",
+    "phone": "+35952644949"
+  },
+  {
+    "name": "Dolce Amaro Garden",
+    "address": "bul. Slivnitsa 33, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359878922822"
+  },
+  {
+    "name": "Le Chef",
+    "address": "к.к. Чайка ул, ul. Boyan Bachvarov 152, 9007 Varna, Bulgaria",
+    "phone": "+359888101909"
+  },
+  {
+    "name": "Stariya Chinar Cherno More",
+    "address": "ul. General Stolipin 17, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35952995164"
+  },
+  {
+    "name": "Tavern Hashove",
+    "address": "ul. Tsaribrod 1, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952602380"
+  },
+  {
+    "name": "Godzila Sevastopol",
+    "address": "Морска Градина, Complex Horizont, Sea Garden, 9000 Varna, Bulgaria",
+    "phone": "+359884754075"
+  },
+  {
+    "name": "Happy Bar & Grill",
+    "address": "ul. Tsaribrod 1, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952602380"
+  },
+  {
+    "name": "Alba",
+    "address": "ul. General Georgi Popov 30, 9010 Levski, Varna, Bulgaria",
+    "phone": "+359887092774"
+  },
+  {
+    "name": "Restaurant Kopitoto",
+    "address": "бул. „8-ми Приморски полк“ 128, 9010 Center, Varna, Bulgaria",
+    "phone": "81289010"
+  },
+  {
+    "name": "Старият Чинар Преслав",
+    "address": "Морска Градина, Complex Horizont, Sea Garden, 9000 Varna, Bulgaria",
+    "phone": "+359884754075"
+  },
+  {
+    "name": "Ethno Restaurant „Старата къща”",
+    "address": "ul. 30-ta 11, 9006 Trakata, Varna, Bulgaria",
+    "phone": "30119006"
+  },
+  {
+    "name": "BM Olea",
+    "address": "Morska gara Морска гара, 9000 Varna, Bulgaria",
+    "phone": "+359882999002"
+  },
+  {
+    "name": "ресторант MARMALAD PORT",
+    "address": "бул. „Княгиня Мария Луиза“ 34, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359877699976"
+  },
+  {
+    "name": "Vege Joy Restaurant - Pizza & Burger",
+    "address": "ul. Bregalnitsa 1, 9000 Center, Varna, Bulgaria",
+    "phone": "+359884870791"
+  },
+  {
+    "name": "Moonlight",
+    "address": "bul. Knyaz Boris I 65, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359882005005"
+  },
+  {
+    "name": "Nutrio Bar - Knyaz Boris, Varna",
+    "address": "ul. Dragoman 11, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359876848918"
+  },
+  {
+    "name": "Mall Varna EAD",
+    "address": "ul. Nikola Y. Vaptzarov 5, 9010 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "The Cube Mall",
+    "address": "ул. „2-ра“ 2, 9006 Trakata, Varna, Bulgaria",
+    "phone": "+359895666648"
+  },
+  {
+    "name": "PFOHE Mall",
+    "address": "бул. „Народни будители“, 9003 Asparuhovo, Varna, Bulgaria",
+    "phone": "+35952463065"
+  },
+  {
+    "name": "Delta Planet Mall",
+    "address": "9009 ж.к. Трошево, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Chayka Center",
+    "address": "bul. Slivnitsa 185, 9009 g.k. Troshevo, Varna, Bulgaria",
+    "phone": "+35952810232"
+  },
+  {
+    "name": "Grand Mall",
+    "address": "ul. Atanas Hristov 4, 9009 g.k. Pobeda, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "City center Asparuhovo",
+    "address": "бул. „Владислав Варненчик“ 310, 9009 Western Industrial Zone, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Varna Centrum Shop",
+    "address": "ul. Yan Palah 10, 9002 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Retail Park Varna",
+    "address": "бул. „Владислав Варненчик“ 186, 9009 g.k. Troshevo, Varna, Bulgaria",
+    "phone": "+359882028882"
+  },
+  {
+    "name": "Palach center",
+    "address": "ul. Akademik Andrei Saharov 2, 9000 Varna, Bulgaria",
+    "phone": "+35970033939"
+  },
+  {
+    "name": "Plaza",
+    "address": "39, A2, 9023 Varna, Bulgaria",
+    "phone": "+35970070063"
+  },
+  {
+    "name": "NEW YORKER",
+    "address": "ul. Doctor Peter Beron 13, 9000 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Orange Center-Grand Mall Varna",
+    "address": "bul. Knyaginya Maria Luiza Blvd 35, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952609688"
+  },
+  {
+    "name": "German Shopping Center",
+    "address": "bul. Slivnitsa 120, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35970015060"
+  },
+  {
+    "name": "BulMag Хипермаркет Grand Mall",
+    "address": "ul. Atanas Hristov 4, 9009 g.k. Pobeda, Varna, Bulgaria",
+    "phone": "+359878512954"
+  },
+  {
+    "name": "Desigual",
+    "address": "ul. Aleksander Dyakovich 45, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359884810555"
+  },
+  {
+    "name": "Urban botaniks - Grow Shop Varna",
+    "address": "ul. Sheynovo 4, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359879551224"
+  },
+  {
+    "name": "iCenter - Apple Authorized Reseller",
+    "address": "ul. Varna, ul. Seliolu 2-A, 9002 Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Desigual",
+    "address": "ul. Opalchenska 23, 9002 Center, Varna, Bulgaria",
+    "phone": "+359893528917"
+  },
+  {
+    "name": "Urban botaniks - Grow Shop Varna",
+    "address": "bul. Knyaz Boris I 17, 9000 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Playground Grand Mall",
+    "address": "Varna, Devnya St, ul. Devnya 3, 9000 Southern Industrial Zone, Varna, Bulgaria",
+    "phone": "+35952305610"
+  },
+  {
+    "name": "H&M",
+    "address": "ul. Dragoman, 9000 Varna Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Кино Арена Grand Mall Варна IMAX",
+    "address": "ul. Professor Marin Drinov 60, 9002 Center, Varna, Bulgaria",
+    "phone": "+35952727042"
+  },
+  {
+    "name": "GiAnni Grand Mall Varna",
+    "address": "бул. „Владислав Варненчик“ 82, 9000 Center, Varna, Bulgaria",
+    "phone": "+359895786955"
+  },
+  {
+    "name": "iCenter - Apple Authorized Reseller",
+    "address": "ul. Vasil Drumev 4, 9002 Center, Varna, Bulgaria",
+    "phone": "+359988954654"
+  },
+  {
+    "name": "The Funny T-shirt Factory - MALL VARNA",
+    "address": "bul. Hristo Botev 3, 9000 Center, Varna, Bulgaria",
+    "phone": "+359888405585"
+  },
+  {
+    "name": "Hellokids",
+    "address": "ul. Stefan Karadzha 28, 9002 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Subra Mall Varna",
+    "address": "ul. Marko Balabanov 49, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359894949932"
+  },
+  {
+    "name": "Creative Center Varna",
+    "address": "бул. „Владислав Варненчик“ 325, 9023 Zapad, Varna, Bulgaria",
+    "phone": "+35952599600"
+  },
+  {
+    "name": "Мареа - Хоби и Градина",
+    "address": "ul. Knyaz Aleksander Batenberg 13, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359895727562"
+  },
+  {
+    "name": "Starmarket",
+    "address": "ul. Aleksander Malinov 3, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359892231778"
+  },
+  {
+    "name": "Copy center - CONTRAST",
+    "address": "bul. Slivnitsa 22, 9002 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "SPORT DEPOT Varna Palah Centre",
+    "address": "ul. Aleksander Malinov 4, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359888390861"
+  },
+  {
+    "name": "JOY Optics - Grand Mall Varna, ниво -2",
+    "address": "ГРАНД МОЛ, ul. Akademik Andrei Saharov 2, ет. 2, 9000 Varna, Bulgaria",
+    "phone": "+35952702400"
+  },
+  {
+    "name": "Bohotopia Varna Gift Shop - Магазин за Подаръци",
+    "address": "ul. Preslav 53, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359896888479"
+  },
+  {
+    "name": "Parkmart Supermarket Park",
+    "address": "ul. Praga 20, 9000 Center, Varna, Bulgaria",
+    "phone": "+359888407237"
+  },
+  {
+    "name": "Чорапи Pirin Hill",
+    "address": "ul. Pirin 43, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359897801203"
+  },
+  {
+    "name": "Adidas Outlet",
+    "address": "boulevard Republika 55, 9000 Vladislavovo, Varna, Bulgaria",
+    "phone": "+35924744546"
+  },
+  {
+    "name": "Nolina",
+    "address": "bul. Slivnitsa 160, 9009 Northern Industrial Zone, Varna, Bulgaria",
+    "phone": "+35970090093"
+  },
+  {
+    "name": "Factory outlet Sweet Plus, Varna \\ Фирмен магазин Sweet Plus, гр. Варна",
+    "address": "бул. „Владислав Варненчик“ 277A, 9009 Zapad, Varna, Bulgaria",
+    "phone": "+35970018866"
+  },
+  {
+    "name": "Библейски център - Варна / Bible Center Varna",
+    "address": "ul. General Stolipin 28, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+359887544004"
+  },
+  {
+    "name": "Lu's Gallery Selected Brands",
+    "address": "бул. „Владислав Варненчик“ 36-38, 9000 Center, Varna, Bulgaria",
+    "phone": "36389000"
+  },
+  {
+    "name": "Shop Kinderland",
+    "address": "ul. Professor Nikolay Derzhavin 5А, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952604478"
+  },
+  {
+    "name": "Nolima",
+    "address": "store No, 186 бул. „Владислав Варненчик“ 18, 2nd floor, 9000 Varna, Bulgaria",
+    "phone": "1861829000"
+  },
+  {
+    "name": "Table Tennis Center Mall Varna",
+    "address": "ul. Kapitan I rang Dobrev 4, 9000 Center, Varna, Bulgaria",
+    "phone": "+359888210115"
+  },
+  {
+    "name": "Семко & Хмелко Чайка",
+    "address": "ul. Petar Raychev 4K, 9010 Levski, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Tourist Information Center - Varna",
+    "address": "бул. „Владислав Варненчик“ 256, 9009 Western Industrial Zone, Varna, Bulgaria",
+    "phone": "+359878695054"
+  },
+  {
+    "name": "Supermarket Aldo",
+    "address": "bul. Knyaz Boris I 34, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+359888654652"
+  },
+  {
+    "name": "Satya Namaste Shop",
+    "address": "ul. Bitolya 1a, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35929066444"
+  },
+  {
+    "name": "Hiron 2000",
+    "address": "ul. 8-ma №153, 9000 Evksinograd, Varna, Bulgaria",
+    "phone": "81539000"
+  },
+  {
+    "name": "Wedding Center Varna",
+    "address": "ul. Drin 65-51, 9000 Center, Varna, Bulgaria",
+    "phone": "65519000"
+  },
+  {
+    "name": "Gallery23.Varna",
+    "address": "улица, bul. “Yanko Komitov” 6, 8001 Burgas, Bulgaria",
+    "phone": "+35956706020"
+  },
+  {
+    "name": "Kashmirshop_varna",
+    "address": "ul. Seliolu 28, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+359898626227"
+  },
+  {
+    "name": "Vodolazen Center Manta",
+    "address": "bul. Tsar Osvoboditel 63, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359885732429"
+  },
+  {
+    "name": "Hilti Center Varna",
+    "address": "бул. „Владислав Варненчик“ 57, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359892231769"
+  },
+  {
+    "name": "CBA",
+    "address": "ul. Patriarh Evtimiy 1, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952463065"
+  },
+  {
+    "name": "TOP SHOP Varna",
+    "address": "ul. Ilarion Makariopolski 10, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359898533539"
+  },
+  {
+    "name": "shop Humana - second-hand clothes",
+    "address": "Varna, Gen Gurko St 43, Bulgaria",
+    "phone": "+35952610841"
+  },
+  {
+    "name": "Магазин за италиански храни Farfalle",
+    "address": "ul. Lyuben Karavelov 3, 9002 Center, Varna, Bulgaria",
+    "phone": "+359896711872"
+  },
+  {
+    "name": "Градински център Евксиноград - Озеленяване Варна и репко",
+    "address": "bul. Tsar Osvoboditel 263A, 9000 Sever, Varna, Bulgaria",
+    "phone": "+35980012398"
+  },
+  {
+    "name": "Enrico Marinelli",
+    "address": "ul. Professor Nikolay Derzhavin 15, 9000 Center, Varna, Bulgaria",
+    "phone": "+359878505167"
+  },
+  {
+    "name": "Lidl",
+    "address": "ul. Hristo Popovich 31, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Farmers' Market",
+    "address": "Dragan Tzankov St 22, 23Shipka, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "22239000"
+  },
+  {
+    "name": "Mall Galleria Burgas",
+    "address": "Свети Свети Кирил и Методий“ 2 Козирката, 9000 Varna, Bulgaria",
+    "phone": "+35952820690"
+  },
+  {
+    "name": "Varna Towers",
+    "address": "Market Chaika, 9000 g.k. Chayka, Varna, Bulgaria",
+    "phone": "+359896373330"
+  },
+  {
+    "name": "VinArt Club",
+    "address": "Mall Varna EAD, бул. „Владислав Варненчик“, 9009 Varna, Bulgaria",
+    "phone": "+359889991640"
+  },
+  {
+    "name": "Music center Kanev",
+    "address": "бул. „Владислав Варненчик“ 186, Mall Varna, Етаж 1, 9009 Varna, Bulgaria",
+    "phone": "18619009"
+  },
+  {
+    "name": "CBA",
+    "address": "ul. Akademik Metodi Popov 1, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359894619100"
+  },
+  {
+    "name": "FeetGears",
+    "address": "bul. Chataldzha 49, 9002 Center, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Lilly Drogerie",
+    "address": "ul. Preslav 47, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359896737307"
+  },
+  {
+    "name": "Aiko",
+    "address": "ul. Sofroniy Vrachanski 6, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+35952630425"
+  },
+  {
+    "name": "Vishnev cvqt",
+    "address": "ul. Atanas Moskov 27, 9009 Zapad, Varna, Bulgaria",
+    "phone": "+359889283695"
+  },
+  {
+    "name": "Trade Center KAMKO",
+    "address": "ul. Todor Vlaykov 14, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359896725295"
+  },
+  {
+    "name": "Аниме Магазин TomodachiBG",
+    "address": "bul. Knyaz Boris I 117, 9010 g.k. Briz, Varna, Bulgaria",
+    "phone": "+359879862004"
+  },
+  {
+    "name": "JYSK Varna, Retail Park",
+    "address": "Grand Mall, ul. Akademik Andrei Saharov 2, ет.-2, 9009 Varna, Bulgaria",
+    "phone": "+359884201144"
+  },
+  {
+    "name": "Children Market VEGA",
+    "address": "бул. „Владислав Варненчик“ 7, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+35952953100"
+  },
+  {
+    "name": "ATG Selection Samsonite",
+    "address": "str, ul. Sheynovo 1, 9000 Varna, Bulgaria",
+    "phone": "+359896705152"
+  },
+  {
+    "name": "Техномаркет @ Хоум Варна",
+    "address": "bul. Knyaz Boris I 152, 9000 Saltanat, Varna, Bulgaria",
+    "phone": "+35970042211"
+  },
+  {
+    "name": "магазин Humana second hand",
+    "address": "бул. Чаталджа № 20, вх. В, офис14, 9000 Varna, Bulgaria",
+    "phone": "20149000"
+  },
+  {
+    "name": "Котарак в чизми",
+    "address": "до ХЕИ, ul. Yan Palah 10, Varna, Bulgaria",
+    "phone": "+35970190009"
+  },
+  {
+    "name": "Party Land Varna",
+    "address": "ul. Ivan Vazov 5, 9000 Center, Varna, Bulgaria",
+    "phone": "+35970020915"
+  },
+  {
+    "name": "Sevastopol",
+    "address": "бул. „Владислав Варненчик“ 316, 9009 Zapad, Varna, Bulgaria",
+    "phone": "+359882277072"
+  },
+  {
+    "name": "Antiquarian bookstore Antik Varna",
+    "address": "бул. „Владислав Варненчик“ 186, 9009 g.k. Troshevo, Varna, Bulgaria",
+    "phone": "+359882424407"
+  },
+  {
+    "name": "Color Profi Center Ltd",
+    "address": "ul. Makedonia 138-140, 9000 Center, Varna, Bulgaria",
+    "phone": "1381409000"
+  },
+  {
+    "name": "Grandi Firme",
+    "address": "бул. „Владислав Варненчик“ 113, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359895512300"
+  },
+  {
+    "name": "CBA",
+    "address": "9000, ul. Georgi Benkovski 19, 9000 Varna, Bulgaria",
+    "phone": "9000199000"
+  },
+  {
+    "name": "Office 1",
+    "address": "ul. Atanas Hristov 91, 9009 Varna, Bulgaria",
+    "phone": "+359893461558"
+  },
+  {
+    "name": "Kopirno Studio City",
+    "address": "бул. „Владислав Варненчик“ 186, 9000 g.k. Troshevo, Varna, Bulgaria",
+    "phone": "+359885057552"
+  },
+  {
+    "name": "Magazin za Vrati - Davido",
+    "address": "ul. Akademik Andrei Saharov 2, 9000 Varna, Bulgaria",
+    "phone": "+35952915970"
+  },
+  {
+    "name": "EKO",
+    "address": "ul. Akademik Andrei Saharov 2, 9009 Varna, Bulgaria",
+    "phone": "+35924047133"
+  },
+  {
+    "name": "Refan",
+    "address": "бул. „Владислав Варненчик“ 113, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+359895512300"
+  },
+  {
+    "name": "Lol & pop Varna Bulgaria",
+    "address": "ж.к. Чайка 100, бл 100, 9010 g.k. Chayka, Varna, Bulgaria",
+    "phone": "1001009010"
+  },
+  {
+    "name": "Pastry shop Milena",
+    "address": "bul. Slivnitsa 185, 9009 g.k. Troshevo, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "ZLATNA RIBKA Sheynovo",
+    "address": "ж.к. Чайка 100, бл 100, 9010 g.k. Chayka, Varna, Bulgaria",
+    "phone": "1001009010"
+  },
+  {
+    "name": "Ardes.bg - Varna",
+    "address": "bul. Slivnitsa 185, 9009 g.k. Troshevo, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Fresh Zone",
+    "address": "ul. Doctor Lyudvig Zamenhof 1, 9000 Varna Center, Varna, Bulgaria",
+    "phone": "+359877729646"
+  },
+  {
+    "name": "Galix",
+    "address": "bul. Slivnitsa № 185, 9009 g.k. Troshevo, Varna, Bulgaria",
+    "phone": "+359889601305"
+  },
+  {
+    "name": "Retro Museum",
+    "address": "ul. 8-mi noemvri 3, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+35952632677"
+  },
+  {
+    "name": "Приморски парк",
+    "address": "Св. Св. Константин и Елена Резиденция, 9002 Evksinograd, Varna, Bulgaria",
+    "phone": "+35952393140"
+  },
+  {
+    "name": "Dormition of the Theotokos Cathedral",
+    "address": "Archaeological Museum, бул. „Княгиня Мария Луиза“ 41, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952681030"
+  },
+  {
+    "name": "Dolphinarium Varna",
+    "address": "ul. San Stefano, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952600059"
+  },
+  {
+    "name": "Varna Roman Baths",
+    "address": "м-ст Салтанат № 5 м-ст Салтанат № 5, 9000 Varna, Bulgaria",
+    "phone": "+35952820611"
+  },
+  {
+    "name": "Archaeological Museum Varna",
+    "address": "pl. Sveti Sveti Kiril I Metodiy 2, 9000 Hristo Botev, Varna, Bulgaria",
+    "phone": "+35952613005"
+  },
+  {
+    "name": "Monument of the Bulgarian-Soviet Friendship",
+    "address": "ul. Akademik Andrei Saharov 2, 9009 Varna, Bulgaria",
+    "phone": "+359886001070"
+  },
+  {
+    "name": "Varna Museum of Modern History",
+    "address": "Dolphinarium Varna, Primorski Park, Saltanat district, 9000 Varna, Bulgaria",
+    "phone": "+35952302199"
+  },
+  {
+    "name": "Varna Ethnographic Museum",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Monastery Saints Constantine and Helena",
+    "address": "ul. San Stefano 1, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952652344"
+  },
+  {
+    "name": "Varna Aquarium",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Naval Museum",
+    "address": "Melia Grand Ermitage Hotel, 9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+359885506560"
+  },
+  {
+    "name": "Tourist Information Center - Varna",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": "+359888235217"
+  },
+  {
+    "name": "Wake Park Varna",
+    "address": "ul. Dubrovnik 46, 9010 Levski, Varna, Bulgaria",
+    "phone": "+359879164424"
+  },
+  {
+    "name": "Baltata",
+    "address": "9007 Golden Sands, Zlatni pyasatsi, Varna, Bulgaria",
+    "phone": "+359890170170"
+  },
+  {
+    "name": "Balchik Botanic Garden",
+    "address": "bul. Tsar Osvoboditel 17, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35970089050"
+  },
+  {
+    "name": "Cape Kaliakra",
+    "address": "Varna Airport, 9154 Varna, Bulgaria",
+    "phone": "+35952573323"
+  },
+  {
+    "name": "Varna",
+    "address": "Sveti sv. Konstantin i Elena 45, 9006 Varna, Bulgaria",
+    "phone": "+35929066444"
+  },
+  {
+    "name": "Rappongi Beach",
+    "address": "Varna, 9006 Saints Constantine and Helena, Bulgaria",
+    "phone": "+359876047973"
+  },
+  {
+    "name": "Nirvana Beach",
+    "address": "Северни Морски Бани, кап. Георги Георгиев, Крайбрежна алея, 9000 Varna, Bulgaria",
+    "phone": "+359877449544"
+  },
+  {
+    "name": "Sahara beach",
+    "address": "м-ст „Салтанат“ № 43, Морска градина, 9002, Bulgaria",
+    "phone": "+359885668750"
+  },
+  {
+    "name": "Black Sam - Pirate Ship",
+    "address": "плаж Adora Beach, 9654 Topola, Bulgaria",
+    "phone": "+359894000034"
+  },
+  {
+    "name": "Trakata beach",
+    "address": "str, ul. Sheynovo 1, 9000 Varna, Bulgaria",
+    "phone": "+359896705152"
+  },
+  {
+    "name": "Камчия",
+    "address": "bul. Primorski 27, 9000 Center, Varna, Bulgaria",
+    "phone": "+359896505050"
+  },
+  {
+    "name": "Yaylata",
+    "address": "ul. Georgi S. Rakovski 36, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35952658904"
+  },
+  {
+    "name": "Church of Saint Paraskeva",
+    "address": "bul. Primorski 5, 9000 Tsentralna Zhp Gara, Varna, Bulgaria",
+    "phone": "+359888040242"
+  },
+  {
+    "name": "Varna City Center",
+    "address": "9009 ж.к. Трошево, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Aquapark Aquamania",
+    "address": "Main Street Albena 1 Aquapark Aquamania, 9620 Albena, Bulgaria",
+    "phone": "+35970012110"
+  },
+  {
+    "name": "Sveta Petka Church",
+    "address": "Месамбрия 2А, 8231 Nessebar, Bulgaria",
+    "phone": "+35955446019"
+  },
+  {
+    "name": "Varna",
+    "address": "901 16, 9661 Kamen Bryag, Bulgaria",
+    "phone": "901169661"
+  },
+  {
+    "name": "Varna Municipality",
+    "address": "Побити камъни, 1000 Varna, Bulgaria",
+    "phone": "+359885224798"
+  },
+  {
+    "name": "Rubik Art and Music",
+    "address": "904 1, 9130 Kamchiya, Bulgaria",
+    "phone": "90419130"
+  },
+  {
+    "name": "Mr Baba",
+    "address": "Варна, Южен плаж, 9000 Varna, Bulgaria",
+    "phone": "+35952820646"
+  },
+  {
+    "name": "Albena Resort",
+    "address": "ул. Андрей Сахаров 2 ет.2 Grand Mall Varna, 9000 Varna, Bulgaria",
+    "phone": "+359886346401"
+  },
+  {
+    "name": "БМ Градината",
+    "address": "9007 Golden Sands, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Adora Beach",
+    "address": "9010 Saltanat, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Monkeys",
+    "address": "Варна, кв. Виница, М. Горна Трака, 9022, Bulgaria",
+    "phone": "+359899901981"
+  },
+  {
+    "name": "Butterfly House Varna",
+    "address": "ул. Черно море 24, 9649 Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Top Rent A Car Varna",
+    "address": "ул. „Акад. Даки Йорданов 1, 9600 Dvoretsa, Balchik, Bulgaria",
+    "phone": "+35957976197"
+  },
+  {
+    "name": "Lidl",
+    "address": "Свети Свети Кирил и Методий“ 2 Козирката, 9000 Varna, Bulgaria",
+    "phone": "+35952820690"
+  },
+  {
+    "name": "BILLA",
+    "address": "9000 Primorski, Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Top Rent A Car Golden Sands",
+    "address": "3-та Буна, Крайбрежна алея 3, 9000 Saltanat, Varna, Bulgaria",
+    "phone": "+359898766588"
+  },
+  {
+    "name": "Bar Mini Wieża Eiffla",
+    "address": "2, 9223 Neofit Rilski, Bulgaria",
+    "phone": "+359878251247"
+  },
+  {
+    "name": "Megapark Dolphin",
+    "address": "bul. Primorski 2, 9000 Primorski, Varna, Bulgaria",
+    "phone": "+35952731523"
+  },
+  {
+    "name": "Varna golden sands",
+    "address": "ul. 45-ta 5, 9006 Sv. Sv. Konstantin I Elena, Varna, Bulgaria",
+    "phone": "+35952359667"
+  },
+  {
+    "name": "Migration Department - Varna",
+    "address": "Приморски парк, 9002 Varna, Bulgaria",
+    "phone": "+359897847020"
+  },
+  {
+    "name": "Varna",
+    "address": "ul. Panagyurishte 22, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952630588"
+  },
+  {
+    "name": "Pomorie",
+    "address": "Вход на морска градина, 9002 Primorski, Varna, Bulgaria",
+    "phone": "+35952684444"
+  },
+  {
+    "name": "Sunny Beach",
+    "address": "ul. Doctor Lyudvig Zamenhof 21, 9000 Center, Varna, Bulgaria",
+    "phone": "+35952658891"
+  },
+  {
+    "name": "Bournemouth Pavilion Theatre",
+    "address": "ul. Lyuben Karavelov 1, 9002 Varna Center, Varna, Bulgaria",
+    "phone": "+35952612363"
+  },
+  {
+    "name": "Nicopolis ad Istrum",
+    "address": "ul. Paraskeva Nikolau 7, 9000 Greek Neighborhood, Varna, Bulgaria",
+    "phone": "+35952639729"
+  },
+  {
+    "name": "Klook",
+    "address": "South Bay Street 4, 9003 Varna, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Klook New Zealand",
+    "address": "Абай 61, 9000 Varna, Bulgaria",
+    "phone": "+359888939277"
+  },
+  {
+    "name": "Klook Australia",
+    "address": "Varna, Sq. Slaveykov 1, Bulgaria",
+    "phone": "+35952692508"
+  },
+  {
+    "name": "Gran Vía",
+    "address": "Khan Krum 5, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956816666"
+  },
+  {
+    "name": "Микадо",
+    "address": "ul. Tsar Samuil 46, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+359892229111"
+  },
+  {
+    "name": "Grand Hotel & SPA Primoretz",
+    "address": "ul. Knyaz Alexander Batenberg 32, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359883223939"
+  },
+  {
+    "name": "Hotel Bulgaria Burgas",
+    "address": "ul. Professor Stoyanov 5, 8200 Tsentar, Pomorie, Bulgaria",
+    "phone": "+359889206666"
+  },
+  {
+    "name": "Burgas Beach Resort Apartments",
+    "address": "бул. Демокрация, комплекс Лазур, 8000 Burgas, Bulgaria",
+    "phone": "+35956833535"
+  },
+  {
+    "name": "Hotel Burgas",
+    "address": "8000 Пристанищен комплекс, Burgas, Bulgaria",
+    "phone": "+35956810010"
+  },
+  {
+    "name": "DAS Marina Burgas Hotel",
+    "address": "ul. Knyaz Alexander Batenberg 2, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956812345"
+  },
+  {
+    "name": "Aqua Hotel",
+    "address": "ul. Aleksandrovska 21, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956842610"
+  },
+  {
+    "name": "Boutique family hotel Promenade",
+    "address": "ul. Perushtitsa 15, 8000 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+35956838284"
+  },
+  {
+    "name": "Grand Hotel Pomorie - Medical spa",
+    "address": "Кв, ул. Албатрос 1, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359876706366"
+  },
+  {
+    "name": "Hotel and Restaurant Milan",
+    "address": "Плаж Тополите, 8142 Chernomorets, Bulgaria",
+    "phone": "+359876595806"
+  },
+  {
+    "name": "Luxury Apartment Burgas",
+    "address": "ul. Knjaz Boris I 148, 8201 кв. Свети Георги, Pomorie, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Mirage Hotel",
+    "address": "Парк Езеро, 8000 Burgas, Bulgaria",
+    "phone": "+35956813757"
+  },
+  {
+    "name": "No13 Boutique House",
+    "address": "Unnamed Rd,, Burgas, Bulgaria",
+    "phone": "+359878562914"
+  },
+  {
+    "name": "Hotel Bulair",
+    "address": "zh.k. Lazur 107, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359879887797"
+  },
+  {
+    "name": "Hotel Utopia Forest",
+    "address": "Черноморец, 8142 Chernomorets, Bulgaria",
+    "phone": "+359887805776"
+  },
+  {
+    "name": "Хотел Луксор - Hotel Luxor",
+    "address": "ul. Slivnitsa 63, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+359878472467"
+  },
+  {
+    "name": "NOVEL CITY HOTEL",
+    "address": "ul. Angel Dimitrov 56, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+35956999899"
+  },
+  {
+    "name": "Gran Vía",
+    "address": "ul. Sveti Sveti Kiril I Metodiy 38, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956820670"
+  },
+  {
+    "name": "Chiplakov",
+    "address": "ul. „Albaros 8, 8142 Chernomorets, Bulgaria",
+    "phone": "+359896888116"
+  },
+  {
+    "name": "Hotel Avenue",
+    "address": "ul. Professor Stoyanov 13, 8200 Tsentar, Pomorie, Bulgaria",
+    "phone": "+35959622440"
+  },
+  {
+    "name": "City Hotel Burgas",
+    "address": "Местност Аклади, 8142 Chernomorets, Bulgaria",
+    "phone": "+359889700799"
+  },
+  {
+    "name": "Хотел „Руван“",
+    "address": "8201 кв. Свети Георги, Pomorie, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Hotel Sveti Ilia",
+    "address": "Аклади регион, ul. Plazhna 5, 8142 Chernomorets, Bulgaria",
+    "phone": "+359898445153"
+  },
+  {
+    "name": "Хотел „Опера“",
+    "address": "ul. Remsova 5, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359898666473"
+  },
+  {
+    "name": "Микадо",
+    "address": "ul. Angel Dimitrov 22, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359889484970"
+  },
+  {
+    "name": "Hotel Avenue",
+    "address": "E87 343, 8201 кв. Свети Георги, Burgas, Bulgaria",
+    "phone": "873438201"
+  },
+  {
+    "name": "Хотел Форс",
+    "address": "ul. Dimitar Dimov 82, 8000 g.k. Zornitsa, Burgas, Bulgaria",
+    "phone": "+359876432121"
+  },
+  {
+    "name": "The Old Captain Hostel",
+    "address": "Ul 46, ul. Mihail Lermontov, 8000 Burgas, Bulgaria",
+    "phone": "+33650225481"
+  },
+  {
+    "name": "Cote d'Azur",
+    "address": "ul. Ferdinandova 116, 8000 g.k. Vazrazhdane, Burgas, Bulgaria",
+    "phone": "+35956827378"
+  },
+  {
+    "name": "Хотел Авеню Делукс",
+    "address": "ulitsa Albatros Floor 1, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Hotel Viva Beach",
+    "address": "Vardar str. 34 A, Burgas, 8000, 8000, Bulgaria",
+    "phone": "3480008000"
+  },
+  {
+    "name": "City Hotel Burgas",
+    "address": "ул. „Лагуна“ 2, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359888272758"
+  },
+  {
+    "name": "Хотел Камъните",
+    "address": "ul. Aleksandrovska 59, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359876210700"
+  },
+  {
+    "name": "Samuil Apartments / Guest House Samuil",
+    "address": "Парк Езеро, 8000 Burgas, Bulgaria",
+    "phone": "+35956813757"
+  },
+  {
+    "name": "Sarafovo Sea & Forest",
+    "address": "ul. Kalofer 1, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359894303013"
+  },
+  {
+    "name": "СТАИ ЗА ГОСТИ ХАН КРУМ",
+    "address": "Bratsigovo 10 Str, ul. Bratsigovo, 8016 Burgas, Bulgaria",
+    "phone": "+359885034245"
+  },
+  {
+    "name": "Main Street Hostel",
+    "address": "ж.к. Зорница бл. 23, 8018 g.k. Zornitsa, Burgas, Bulgaria",
+    "phone": "+35956866410"
+  },
+  {
+    "name": "хотел Бяла Роза",
+    "address": "Grad, 8210 Kableshkovo, Bulgaria",
+    "phone": "+359882425054"
+  },
+  {
+    "name": "Bourgas De Luxe Studio",
+    "address": "Флора Бийч Резорт, 8201 Поморие, м. Кротиря, Bulgaria",
+    "phone": "+359885281974"
+  },
+  {
+    "name": "ДАС Марина Бургас",
+    "address": "Бургас, ул. Ив.Вазов 79Б, Bulgaria",
+    "phone": "+35956841703"
+  },
+  {
+    "name": "Hotel Briz",
+    "address": "Krotiria area, 8200 Pomorie, Bulgaria",
+    "phone": "+359887500003"
+  },
+  {
+    "name": "Hotel Palma",
+    "address": "ul. Drama 12, 8000 g.k. Bratya Miladinovi, Burgas, Bulgaria",
+    "phone": "+359886401016"
+  },
+  {
+    "name": "Mariya`s Apartments",
+    "address": "8018 Zornitsa, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Studio Love",
+    "address": "ul. Konstantin Fotinov 22, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359878974703"
+  },
+  {
+    "name": "Вирикс",
+    "address": "ул. „кн. Ал. Батенберг 26, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956522522"
+  },
+  {
+    "name": "Апартамент Нова /Apartment Nova",
+    "address": "ul. Perushtitsa 41, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+35956816567"
+  },
+  {
+    "name": "Sunny Sands Studios",
+    "address": "ul. Oktomvri 38, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359885117702"
+  },
+  {
+    "name": "The HUG Center HOSTEL of VeloLobby",
+    "address": "ul. Sredna Gora №28, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956820808"
+  },
+  {
+    "name": "Ария",
+    "address": "ul. Professor Stoyanov 78, 8200 Tsentar, Pomorie, Bulgaria",
+    "phone": "+359886311001"
+  },
+  {
+    "name": "Хотел Св.Св.Петър и Павел",
+    "address": "ul. Angel Kanchev 32, 8201 кв. Свети Георги, Pomorie, Bulgaria",
+    "phone": "+359897658069"
+  },
+  {
+    "name": "Veda Guest House",
+    "address": "zh.k. Lazur бл.53, вх.Г, 8000 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359878618999"
+  },
+  {
+    "name": "Еко каравана Марбея 23",
+    "address": "ulitsa Georgi S. Rakovski 39, 8000 Раковски 39, Бургас 8000, 8000 Burgas, Bulgaria",
+    "phone": "3980003980008000"
+  },
+  {
+    "name": "Wave Resort",
+    "address": "ul. Angel Dimitrov 78, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+35956872047"
+  },
+  {
+    "name": "Къща за гости Талигаров",
+    "address": "ж.к. Меден рудник 1364, 8009 Meden Rudnik, Burgas, Bulgaria",
+    "phone": "13648009"
+  },
+  {
+    "name": "Atlantis Resort & Spa",
+    "address": "bul. Aleko Bogoridi 42, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359889728359"
+  },
+  {
+    "name": "Varly Briag",
+    "address": "ул. Княз Борис I №187, 8201 Pomorie, Bulgaria",
+    "phone": "+359887690239"
+  },
+  {
+    "name": "Plaza Hotel Burgas",
+    "address": "ul. Angel Dimitrov 58, 8016 Sarafovo, Bulgaria",
+    "phone": "+359884037272"
+  },
+  {
+    "name": "The Clara Hotel Bulgaria",
+    "address": "Camping area, Aheloy, 8217 Pomorie, Bulgaria",
+    "phone": "+35959098181"
+  },
+  {
+    "name": "Hotel Biju Burgas",
+    "address": "ul. Professor Stoyanov 11, 8200 Tsentar, Pomorie, Bulgaria",
+    "phone": "+35959628002"
+  },
+  {
+    "name": "Burgas sea apartment",
+    "address": "ul. Georgi Kaloianchev 200, 8008 g.k. Izgrev, Burgas, Bulgaria",
+    "phone": "+359887893377"
+  },
+  {
+    "name": "The Sunflowers Guest Rooms - Pomorie",
+    "address": "ul. Vasil Levski 59, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+359899613259"
+  },
+  {
+    "name": "Hotel St. Anastasia",
+    "address": "къмпинг Градина Еко каравана, Черноморец къмпинг Градина Еко каравана Марбея 23 Марбея 23 BG, 8142 Chernomorets, Bulgaria",
+    "phone": "23238142"
+  },
+  {
+    "name": "Gardenia Palace",
+    "address": "6 Alexander Stamboliiski Str, Pomorie 8200, 8200, Bulgaria",
+    "phone": "682008200"
+  },
+  {
+    "name": "New Star Residence",
+    "address": "Lesopark Rosenets, Лесопарк Росенец, 8000 Burgas, Bulgaria",
+    "phone": "+359888255078"
+  },
+  {
+    "name": "Doro",
+    "address": "Морски плаж, 8014 Kraymorie, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Морско Конче",
+    "address": "ul. Bratsigovo 13, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359877985506"
+  },
+  {
+    "name": "Aparthotel Fotinov - Burgas",
+    "address": "zh.k. Slaveykov 162, 8010 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Lazuren Briag Private Apartments",
+    "address": "Квартал Чорно море, ул.Васил Коларов 11, 8115 Бургас, Bulgaria",
+    "phone": "+359877015629"
+  },
+  {
+    "name": "Family Hotel Sezoni South Burgas",
+    "address": "ж.к. Лазур,8001, Burgas, Bulgaria",
+    "phone": "+359887664520"
+  },
+  {
+    "name": "Vineyards resort",
+    "address": "ul. Komsomolska 5, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359899433734"
+  },
+  {
+    "name": "Flora Beach Resort",
+    "address": "ul. William Gladstone 33, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+359895888231"
+  },
+  {
+    "name": "Drama",
+    "address": "ul. Cherno more 1, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359888804859"
+  },
+  {
+    "name": "Incognito Hotel",
+    "address": "ul. Vasil Aprilov 2, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359885578000"
+  },
+  {
+    "name": "Mirana",
+    "address": "ul. Sheynovo 37, ап. 1, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+359885837496"
+  },
+  {
+    "name": "Hotel Lazur",
+    "address": "ul. Batak 422, 8000 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359895123355"
+  },
+  {
+    "name": "Hotel Park",
+    "address": "ul. Han Krum 15 Б, ет 2, 8000 g.k. Vazrazhdane, Burgas, Bulgaria",
+    "phone": "+35956531000"
+  },
+  {
+    "name": "Hotel Burgas Free University",
+    "address": "ul. Tsar Samuil 46, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+359892229111"
+  },
+  {
+    "name": "Sea Club AJ",
+    "address": "ul. Angel Dimitrov 34, 4, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359895555267"
+  },
+  {
+    "name": "Нощувки Бургас",
+    "address": "ul. Burevestnik 4А, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359899424200"
+  },
+  {
+    "name": "Hotel Vega",
+    "address": "ul. Angel Dimitrov 16, 8016 Sarafovo, Burgas, Bulgaria",
+    "phone": "+359895777846"
+  },
+  {
+    "name": "Почивка в Сарафово Diamond Beach",
+    "address": "ул. Васил Македонски 6, 8000 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359889125555"
+  },
+  {
+    "name": "Balneohotel Sveti Mina 1",
+    "address": "ул. Княз Борис I 150 Kniaz Boris I str. №150, 8200 Pomorie, Bulgaria",
+    "phone": "1501508200"
+  },
+  {
+    "name": "House bedroom burgas",
+    "address": "бул. „Транспортна“ 53, 8000 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359893336606"
+  },
+  {
+    "name": "Резиденция Лазурен бряг",
+    "address": "ul. Ribarska 1, 8016 Sarafovo, Bulgaria",
+    "phone": "+35956873218"
+  },
+  {
+    "name": "SV. Georgi Hotel",
+    "address": "ul. Trayko Kitanchev 48, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359885578000"
+  },
+  {
+    "name": "Hotel Prometei",
+    "address": "ul. Konstantin Fotinov 17, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359876961067"
+  },
+  {
+    "name": "Pomorie Beach Resort",
+    "address": "ж.к. Петко Р. Славейков бл 184, 8000 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": "+359895658610"
+  },
+  {
+    "name": "Aparthotel Crotiria",
+    "address": "36 Luben Karavelov str, ul. Lyuben Karavelov № 36, 8000 Burgas, Bulgaria",
+    "phone": "36368000"
+  },
+  {
+    "name": "Hotel Kraimorie",
+    "address": "ж.к. Изгрев 21, 8008 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359886643333"
+  },
+  {
+    "name": "Costa Bulgara Mediterranean Club",
+    "address": "ul. Perushtitsa 15, 8000 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+35956838284"
+  },
+  {
+    "name": "Relax Hotel All Inclusive",
+    "address": "ул. Васил Македонски 6, 8000 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359889125555"
+  },
+  {
+    "name": "Family Hotel Littoral",
+    "address": "ж.к. Изгрев 21, 8008 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359886643333"
+  },
+  {
+    "name": "Adena Hotel, Hotel Adena",
+    "address": "ul. Ferdinandova 88, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "+35956829325"
+  },
+  {
+    "name": "Santa Maria",
+    "address": "ул. „Софроний, Sofroniy str 5, 8000, Bulgaria",
+    "phone": "+359886222323"
+  },
+  {
+    "name": "SEA BEAUTY",
+    "address": "ul. Industrialna 56, 8002 Akatsiite, Burgas, Bulgaria",
+    "phone": "+359879054009"
+  },
+  {
+    "name": "Hotel Astoria",
+    "address": "bul. Demokratsia 54, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359895149393"
+  },
+  {
+    "name": "Vila Bufo - Rest House Buffon",
+    "address": "ul. Bulair 27, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956847670"
+  },
+  {
+    "name": "Хотел Парк",
+    "address": "ul. Mitropolit Simeon 13, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359885445700"
+  },
+  {
+    "name": "Neptune",
+    "address": "ul. Tsar Simeon I 20, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359893343430"
+  },
+  {
+    "name": "Ethno Restaurant Burgas",
+    "address": "ul. Aleksander Veliki 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35970020011"
+  },
+  {
+    "name": "8 Mamas",
+    "address": "ul. Tsar Simeon I 3, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359889865555"
+  },
+  {
+    "name": "Incanto restaurant",
+    "address": "bul. Aleko Bogoridi 60, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35970020888"
+  },
+  {
+    "name": "Zlatna ribka",
+    "address": "Приморски парк, плаж Централен, 8000 Burgas, Bulgaria",
+    "phone": "+359878101788"
+  },
+  {
+    "name": "DIVERSO",
+    "address": "ul. Saedinenie №7, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359882284507"
+  },
+  {
+    "name": "Fish express",
+    "address": "ul. Silistra 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359877088610"
+  },
+  {
+    "name": "Ti Bar & Kitchen - ресторант и бар в Бургас",
+    "address": "ul. Bulair 35, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359884647725"
+  },
+  {
+    "name": "Romance Pub & Pizza",
+    "address": "bul. Aleko Bogoridi 6, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Happy Bar & Grill",
+    "address": "bul. San Stefano 64, 8001 g.k. Bratya Miladinovi, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "The Maze",
+    "address": "ul. Bulair 35, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359876207146"
+  },
+  {
+    "name": "Piazza Grande",
+    "address": "bul. Stefan Stambolov 94, 8001 g.k. Bratya Miladinovi, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Dalyana",
+    "address": "бл.80, кв. 8000, ul. Dimitar Dimov, Zornitsa, Burgas, Bulgaria",
+    "phone": "+359877370209"
+  },
+  {
+    "name": "Happy Bar & Grill",
+    "address": "ul. Pomorie 8, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+35956582200"
+  },
+  {
+    "name": "Golden Anchor",
+    "address": "ul. Vazrazhdane 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359896642623"
+  },
+  {
+    "name": "Dock 5",
+    "address": "bul. Aleko Bogoridi 19, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "La Toscana Pizza Bar & Dinner",
+    "address": "pl. Baba Ganka 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359893641833"
+  },
+  {
+    "name": "Flora Bar & Grill Burgas",
+    "address": "bul. Aleko Bogoridi 38, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359893667885"
+  },
+  {
+    "name": "Maracas Pizza",
+    "address": "zh.k. Slaveykov 141, 8010 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": "+359882680018"
+  },
+  {
+    "name": "Adonis",
+    "address": "ДО ХРАМ СВ.ИВАН РИЛСКИ ГР. КАРНОБАТ, СКЛАД БУРГАС, ул. „Одрин“ 15 - /ЕЛ.КАБЕЛ БЪРЗО ХРАНЕНЕ - БУРГАС, СЛАВЕЙКОВ ПРЕД БЛОК 46 БЪРЗО ХРАНЕНЕ - БУРГАС, УЛ.АПОСТОЛ КАРАМИТЕВ 2 БЪРЗО ХРАНЕНЕ, bul. Stefan Stambolov, 8001 Burgas, Bulgaria",
+    "phone": "154628001"
+  },
+  {
+    "name": "Kapana Seafront Fish Shack",
+    "address": "ul. Aleksandrovska 21, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359887398516"
+  },
+  {
+    "name": "Bistro Roma Tria",
+    "address": "North beach 5, 8000 Burgas, Bulgaria",
+    "phone": "+359988750712"
+  },
+  {
+    "name": "Pri Staria Kapitan",
+    "address": "ul. Apostol Karamitev 2, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35970017422"
+  },
+  {
+    "name": "Grog",
+    "address": "ul. Tsar Simeon I 32, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879599955"
+  },
+  {
+    "name": "Walnut Tree Bistro",
+    "address": "8005 ж.к. Петко Р. Славейков, Burgas, Bulgaria",
+    "phone": "+35970011999"
+  },
+  {
+    "name": "Gilzata",
+    "address": "ul. Vasil Aprilov 18, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359877781440"
+  },
+  {
+    "name": "Mistral",
+    "address": "ul. Mihail Lermontov 13, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359895788089"
+  },
+  {
+    "name": "Mladost Cafe & Patisserie",
+    "address": "Blvd. Dame Gruev 6, 8001 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "The Mill",
+    "address": "ul. Tsar Simeon I 1, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359878200999"
+  },
+  {
+    "name": "Bohemian",
+    "address": "zh.k. Slaveykov 55, 8010 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": "+359893486992"
+  },
+  {
+    "name": "Бирария Гролш | Бирария Бургас | Ресторант Бургас | Заведение в морската градина | Ресторант на плажа",
+    "address": "ul. Koprivshtitsa 10, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359888625713"
+  },
+  {
+    "name": "Tortuga",
+    "address": "ж.к. Изгрев 160, 8008 g.k. Izgrev, Burgas, Bulgaria",
+    "phone": "+359884628464"
+  },
+  {
+    "name": "Iskender kebab",
+    "address": "ul. Georgi Baev 7Б, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "The Old Pub",
+    "address": "ul. Sofroniy 29, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359876111492"
+  },
+  {
+    "name": "La Vie",
+    "address": "Mall Burgas Plaza, 8000 Burgas, Bulgaria",
+    "phone": "+359897931965"
+  },
+  {
+    "name": "La Veranda Зорница",
+    "address": "Приморски парк, 8001 Burgas, Bulgaria",
+    "phone": "+359897931965"
+  },
+  {
+    "name": "VERONIQUE Restaurant",
+    "address": "ul. Han Krum 6, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879321333"
+  },
+  {
+    "name": "Bistro ,, Roner ''",
+    "address": "ul. Vazrazhdane 6, 8001 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359876475990"
+  },
+  {
+    "name": "Shanghai 上海",
+    "address": "Burgas, Aleksandrovska St 20, Bulgaria",
+    "phone": "+359889299225"
+  },
+  {
+    "name": "100% GRILL",
+    "address": "bul. Aleko Bogoridi 22, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "At the Museum",
+    "address": "ul. Georgi Baev 2, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359886291153"
+  },
+  {
+    "name": "Mezetto beer'n'wine",
+    "address": "ul. Slavyanska 75, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879633424"
+  },
+  {
+    "name": "MOKA Bar",
+    "address": "bul. Demokratsia 94, 8001 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359899861666"
+  },
+  {
+    "name": "The Island of Bali",
+    "address": "ul. Dunav 13, 8001 g.k. Bratya Miladinovi, Burgas, Bulgaria",
+    "phone": "+359878821134"
+  },
+  {
+    "name": "ЯВ-КА food bar",
+    "address": "ul. Slivnitsa 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879445443"
+  },
+  {
+    "name": "Escobar Burgas",
+    "address": "ul. Sveti Sveti Kiril I Metodiy, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359898699936"
+  },
+  {
+    "name": "Restorant Bulgaria",
+    "address": "ul. Antim I 28, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Master kebap",
+    "address": "bul. Aleko Bogoridi 49, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Pizza Buonissimo",
+    "address": "ul. Perushtitsa 35, 8000 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359876533414"
+  },
+  {
+    "name": "Chinese Moon",
+    "address": "ж.к Славейков Парка до бл.60, 8005 Burgas, Bulgaria",
+    "phone": "+359877100166"
+  },
+  {
+    "name": "Düner Kebap",
+    "address": "Burgas, Sq. Sveti Sveti Kiril I Metodiy, Bulgaria",
+    "phone": "+359898582764"
+  },
+  {
+    "name": "Бар МАНДЖАР",
+    "address": "ул. „Морска, 8230 Бургас, Bulgaria",
+    "phone": "+359877440083"
+  },
+  {
+    "name": "Starfish",
+    "address": "ul. Knyaz Alexander Batenberg 2, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359877810018"
+  },
+  {
+    "name": "ROMANCE Pizzeria Speciale",
+    "address": "bul. Aleko Bogoridi 27, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359892244889"
+  },
+  {
+    "name": "Gran Via grill house",
+    "address": "ul. Slivnitsa 21, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359886299292"
+  },
+  {
+    "name": "Asian - Sushi Restaurant Ha Long",
+    "address": "до старата поща, ul. Tsar Peter 7, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Ресторант Incanto Mall Galleria | Заведение Инканто Бургас | Салати | Пици | Суши | Бургери | Паста | Десерти | Кетъринг",
+    "address": "bul. Aleko Bogoridi 57, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "BMS Българска кухня",
+    "address": "Blvd. Dame Gruev 6, 8001 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359892443550"
+  },
+  {
+    "name": "Salini",
+    "address": "ul. Knyaz Boris I 37, 8000 g.k. Vazrazhdane, Burgas, Bulgaria",
+    "phone": "+35970020011"
+  },
+  {
+    "name": "Cardamon Soul Food & Drinks",
+    "address": "ж.к. Петко Р. Славейков бл 156, 8005 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": "+359876393823"
+  },
+  {
+    "name": "Pont Evxin",
+    "address": "зад ПМГ, ul. Tsar Simeon I 101, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879878781"
+  },
+  {
+    "name": "Container Bar & Seafood Burgas",
+    "address": "ul. Konstantin Fotinov 27, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956844852"
+  },
+  {
+    "name": "Grand Italia",
+    "address": "ul. Sveti Sveti Kiril I Metodiy 51, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359885556711"
+  },
+  {
+    "name": "Maisons Burgas",
+    "address": "pl. Troykata 3, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": null
+  },
+  {
+    "name": "Papa Lapas meet and eat",
+    "address": "ul. Slavyanska 38, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359883684660"
+  },
+  {
+    "name": "Uncle G",
+    "address": "ul. Aleksandrovska 49, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359887877999"
+  },
+  {
+    "name": "Pizza Shop",
+    "address": "ul. Aleksandrovska 21, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956875200"
+  },
+  {
+    "name": "BURGER FEAST",
+    "address": "ul. Aleksandrovska 16, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879118020"
+  },
+  {
+    "name": "Beerhouse Museum",
+    "address": "Морска градина, 8000 Burgas, Bulgaria",
+    "phone": "+359897949488"
+  },
+  {
+    "name": "Рибарницата BBQ",
+    "address": "ul. Tsar Simeon I 83, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359879925975"
+  },
+  {
+    "name": "Tropikana",
+    "address": "bul. “Yanko Komitov” 6, 8001 Northern Industrial Zone, Burgas, Bulgaria",
+    "phone": "+359888002278"
+  },
+  {
+    "name": "Sunny",
+    "address": "Konstantin Fotinov str, ul. Konstantin Fotinov 14, 8000 Burgas, Bulgaria",
+    "phone": "+359877147333"
+  },
+  {
+    "name": "Protein Bar and Shop",
+    "address": "pl. Troykata 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359877190900"
+  },
+  {
+    "name": "Фалафел при Будис",
+    "address": "8001 ж.к. Братя Миладинови, Burgas, Bulgaria",
+    "phone": "+359895774651"
+  },
+  {
+    "name": "Bulgarian Cuisine",
+    "address": "bul. Aleko Bogoridi 61, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359878200988"
+  },
+  {
+    "name": "HashtagSTUDIO - The Culture Club.",
+    "address": "ul. Lyuben Karavelov 12, вх.Д , 8000, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "1280008000"
+  },
+  {
+    "name": "The Cups Florata",
+    "address": "ul. Antim I 33, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359898585861"
+  },
+  {
+    "name": "The Brewery - Пивоварната",
+    "address": "ж.к. Зорница 57, 8018, 8018 Zornitsa, Burgas, Bulgaria",
+    "phone": "5780188018"
+  },
+  {
+    "name": "The Cups Mall Burgas Plaza",
+    "address": "Хотел Парк - Ресторант Ла Ви, 8000 Burgas, Bulgaria",
+    "phone": "+359878470787"
+  },
+  {
+    "name": "Breakfast Restaurant",
+    "address": "ul. Slavyanska 20, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359898696797"
+  },
+  {
+    "name": "Chinatown",
+    "address": "ul. General Gurko 39, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359876850024"
+  },
+  {
+    "name": "Buddy",
+    "address": "ul. Bulair 27, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359889013636"
+  },
+  {
+    "name": "Tony GiGi Burgas",
+    "address": "Kraybrezhna Aleya, 8000, 8000, Bulgaria",
+    "phone": "80008000"
+  },
+  {
+    "name": "STREET Hunger FOOD",
+    "address": "ул. 24-ТИ ПЕХОТЕН ЧЕРНОМОРСКИ ПОЛК No 12 Приморски парк, 8000 Burgas, Bulgaria",
+    "phone": "24128000"
+  },
+  {
+    "name": "Hesburger",
+    "address": "bul. Stefan Stambolov 53, 8001 g.k. Bratya Miladinovi, Burgas, Bulgaria",
+    "phone": "+359884199096"
+  },
+  {
+    "name": "Inkanto",
+    "address": "zh.k. Slaveykov 1А, 8005 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": "+359899976434"
+  },
+  {
+    "name": "Butlers Coffee & Kitchen",
+    "address": "ul. Aleksandrovska 46, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956826091"
+  },
+  {
+    "name": "KFC Drive Thru Бургас",
+    "address": "bul. Aleko Bogoridi 51, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359899175032"
+  },
+  {
+    "name": "Pizza & Duner Sezam",
+    "address": "ul. Ekzarh Yosif 4, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359888589624"
+  },
+  {
+    "name": "Sesame Doner",
+    "address": "ul. Slivnitsa 11-13, 8000 Wasraschdane, Burgas, Bulgaria",
+    "phone": "11138000"
+  },
+  {
+    "name": "Shanghai 上海",
+    "address": "ul. Serdika 2, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+35956870800"
+  },
+  {
+    "name": "Burgas Sushi",
+    "address": "zh.k. Slaveykov 135, 8005 g.k. Petko R. Slaveykov, Burgas, Bulgaria",
+    "phone": "+359876332988"
+  },
+  {
+    "name": "NORI sushi & grill",
+    "address": "ul. Veliko Tarnovo 11, 8001 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359893888388"
+  },
+  {
+    "name": "A LA CARTE RESTAURANT at Hotel Bulgaria",
+    "address": "ul. Antim I 32, 8000 Burgas Center, Burgas, Bulgaria",
+    "phone": "+359889514215"
+  },
+  {
+    "name": "Pancakes - Delicious pancakes",
+    "address": "Burgas, Aleko Bogoridi St 19, Bulgaria",
+    "phone": "+359887879101"
+  },
+  {
+    "name": "Fast food Нова Asia",
+    "address": "ul. Kalofer 156, 8000 g.k. Lazur, Burgas, Bulgaria",
+    "phone": "+359883266676"
+  },
+  {
+    "name": "Hotel and Restaurant Milan",
+    "address": "8014, 8000 Burgas, Bulgaria",
+    "phone": "80148000"
+  }
+]
