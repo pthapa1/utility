@@ -9,15 +9,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Cuba';
+exports.country = 'Ecuador';
 const country = this.country;
-const cities = [
-  'Havana',
-  'Santiago de Cuba',
-  'Camagüey',
-  'Holguín',
-  'Santa Clara',
-];
+const cities = ['Cuenca', 'Santo Domingo', 'Machala'];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
 const options = {
