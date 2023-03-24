@@ -1,0 +1,5924 @@
+[
+  {
+    "name": "Atlantic Hotel",
+    "address": "Marina Parade, Banjul, Gambia",
+    "phone": "+2202909090"
+  },
+  {
+    "name": "Alsaraya Hotel",
+    "address": "Kotu, Serrekunda, Gambia",
+    "phone": "+2204465466"
+  },
+  {
+    "name": "Ocean Bay Hotel & Spa",
+    "address": "Costal Highway, Serrekunda, Gambia",
+    "phone": "+2204466500"
+  },
+  {
+    "name": "Coco Ocean Resort & Spa Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204465555"
+  },
+  {
+    "name": "Sunprime Tamala Beach",
+    "address": "Cape Point, Bakau, Gambia",
+    "phone": "+2204497190"
+  },
+  {
+    "name": "Sunbeach Hotel & Resort",
+    "address": "Bakau New Town, 98 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204495034"
+  },
+  {
+    "name": "African Princess Beach Hotel",
+    "address": "Marina Parade, Soldier Town, Banjul, Gambia",
+    "phone": "+2204228601"
+  },
+  {
+    "name": "Bakotu",
+    "address": "Kotu Beach, Kololi, Kotu, Gambia",
+    "phone": "+2204462426"
+  },
+  {
+    "name": "Kombo Beach Hotel",
+    "address": "Bakau, Gambia",
+    "phone": "+2204494265"
+  },
+  {
+    "name": "Balafon Beach Resort",
+    "address": "Old Yundum, West Coast Region Old-Yundum, Brikama, Gambia",
+    "phone": "+2207941307"
+  },
+  {
+    "name": "Kalimba Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202547385"
+  },
+  {
+    "name": "Leybato Beach Hotel",
+    "address": "28 Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+2203885085"
+  },
+  {
+    "name": "Senegambia Beach Hotel",
+    "address": "Kotu Point, Kololi, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bungalow Beach hotel",
+    "address": "Ginak Kajata, Gambia",
+    "phone": "+2203430994"
+  },
+  {
+    "name": "Sunset Beach",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kololi Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203767600"
+  },
+  {
+    "name": "Kasumai Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203700701"
+  },
+  {
+    "name": "Tropic Garden Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204461858"
+  },
+  {
+    "name": "The Mansea Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207732400"
+  },
+  {
+    "name": "Seafront Residences & Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Cape Point Hotel",
+    "address": "New Senegambia Road, Kololi, Banjul, Gambia",
+    "phone": "+2207222277"
+  },
+  {
+    "name": "Bamboo Village Resort",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Lemon Creek Hotel",
+    "address": "Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2202673642"
+  },
+  {
+    "name": "RoofTop",
+    "address": "Kerr Serign, Gambia",
+    "phone": "+2207171621"
+  },
+  {
+    "name": "Hibiscus House",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2203972583"
+  },
+  {
+    "name": "Harmony Resort Boutique Hotel",
+    "address": "Banjul Serrekunda Hwy, Banjul, Gambia",
+    "phone": "+2204201620"
+  },
+  {
+    "name": "Swiss Boutique Hotel",
+    "address": "Jinack Lodge Jinack Island, Jinack Island, Gambia",
+    "phone": "+447979751751"
+  },
+  {
+    "name": "Seaview Hotel",
+    "address": "52 A U Highway, Brufut Highway, west coast region, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Rink Self Catering Apartments",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2204382736"
+  },
+  {
+    "name": "Atlantic Luxury Apartments",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466264"
+  },
+  {
+    "name": "Badala Park Hotel",
+    "address": "51 Brufut Heights, Brufut, Gambia",
+    "phone": "+2202487430"
+  },
+  {
+    "name": "Baobab Holiday Resort",
+    "address": "KOMBO COASTAL ROAD, BIJILO, Serrekunda, Gambia",
+    "phone": "+2204465111"
+  },
+  {
+    "name": "The Flame Tree",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460418"
+  },
+  {
+    "name": "Riyan Apartments",
+    "address": "Off Kofi Annan Street, Bakau, Gambia",
+    "phone": "+2202022988"
+  },
+  {
+    "name": "Tropic Garden Hotel",
+    "address": "Samba Breku Road, Bakau, Banjul, Gambia",
+    "phone": "+2204495428"
+  },
+  {
+    "name": "Sarges Hotel",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Palma Rima Junction",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  {
+    "name": "Woodpecker Resort",
+    "address": "Fajara, Bakau New Town, 10 Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2204495605"
+  },
+  {
+    "name": "D white villas",
+    "address": "Kubuneh, Gambia",
+    "phone": "+2204463867"
+  },
+  {
+    "name": "Tranquil Hotel Resort",
+    "address": "46, Brufut Heights, Unnamed Road, Brufut, Gambia",
+    "phone": "+2207212830"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "Point Zone, Kololi, Serrekunda, Gambia",
+    "phone": "+2204464734"
+  },
+  {
+    "name": "Casacarla",
+    "address": "Mandinari River Lodge Mandinari Village Kombo North, Serrekunda, Gambia",
+    "phone": "+447886393600"
+  },
+  {
+    "name": "Camara Gardens Apartments Brufut",
+    "address": "F75R+J3M Kunta Kinteh Beach Complex, Kololi, Serrekunda, Gambia",
+    "phone": "+2205153680"
+  },
+  {
+    "name": "Sarawally Guesthouse",
+    "address": "Bijilo, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sanchaba Yellow Apèartments",
+    "address": "10 Atlantic Blvd, Fajara, Gambia",
+    "phone": "+34928143393"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "64 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204494045"
+  },
+  {
+    "name": "Calabash Residence",
+    "address": "African Road, Barry Road Nos 1 To 6, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sanchaba Yellow Apartments",
+    "address": "00000, Brufut, Gambia",
+    "phone": "+15555555"
+  },
+  {
+    "name": "BLUE RESIDENCE",
+    "address": "Kerr-Serign Vismarkt, Kololi, Gambia",
+    "phone": "+32476428458"
+  },
+  {
+    "name": "Camping Sukuta Lodge",
+    "address": "Sanchaba Sulay Jobe, Serrekunda, 20100, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Residence 21",
+    "address": "F8C9+X8J New Town, Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Mango Village",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2207776600"
+  },
+  {
+    "name": "Champions Lodge Brusubi Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209917786"
+  },
+  {
+    "name": "HOTEL SINKILING GAMBIA",
+    "address": "F Section, Ampaya, Gambia",
+    "phone": "+2202562692"
+  },
+  {
+    "name": "Fajara All Inclusive Resort",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2207857972"
+  },
+  {
+    "name": "Ngala Lodge",
+    "address": "Rue de Smet, Bijilo, Sukuta, 10000, Gambia",
+    "phone": "+2207700057"
+  },
+  {
+    "name": "Mandinari River Lodge",
+    "address": "C79F+M8P Bijilo, Serrekunda, Gambia",
+    "phone": "+2205293370"
+  },
+  {
+    "name": "LABRANDA Coral Beach Resort",
+    "address": "Old Yundum, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Sand Beach Hotel",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2209917823"
+  },
+  {
+    "name": "Kunta Kinteh Beach Complex",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Djeliba Resort",
+    "address": "Old Yundum, Gambia",
+    "phone": "+2202423471"
+  },
+  {
+    "name": "Mandina River Lodge",
+    "address": "Brusubi, Gambia",
+    "phone": "+2205291059"
+  },
+  {
+    "name": "Fajara Hotel",
+    "address": "Brikama Hwy, Banjulunding, Gambia",
+    "phone": "+2203338880"
+  },
+  {
+    "name": "Djembe Beach Resort",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202535081"
+  },
+  {
+    "name": "Lamin Lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466979"
+  },
+  {
+    "name": "roc Heights lodge",
+    "address": "10 Kofi Annan Street, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Holiday Beach Club",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2204463734"
+  },
+  {
+    "name": "Paradise Suites Hotel",
+    "address": "Bakau, Gambia",
+    "phone": "+2207910001"
+  },
+  {
+    "name": "Golden Beach Hotel",
+    "address": "Kombo Coastal Road Highway, Bijilo, Serrekunda, Gambia",
+    "phone": "+2207310073"
+  },
+  {
+    "name": "Luigi's Complex",
+    "address": "Kofi annan street, Bakau, Gambia",
+    "phone": "+2207559978"
+  },
+  {
+    "name": "Banjul International House",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460400"
+  },
+  {
+    "name": "Damel Luxury Villa",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202022121"
+  },
+  {
+    "name": "Palm Grove",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466660"
+  },
+  {
+    "name": "Atlanticoast Residence",
+    "address": "Brufut, Serrekunda, Gambia",
+    "phone": "+441208862037"
+  },
+  {
+    "name": "DANDIMAYO",
+    "address": "Kerr Seringe, Gambia",
+    "phone": "+46702040823"
+  },
+  {
+    "name": "Blue Ocean Apartments (Brufut)",
+    "address": "52 Brufut Heights, Brufut, Gambia",
+    "phone": "+2207355148"
+  },
+  {
+    "name": "Bojang Kaira Kunda Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2206611800"
+  },
+  {
+    "name": "RoofTop Hotel aka ”The Roof” The Gambia",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202949631"
+  },
+  {
+    "name": "BAMBOO VILLAGE",
+    "address": "Kofi Annan Street, Bakau, Gambia",
+    "phone": "+2204495005"
+  },
+  {
+    "name": "Jinack Lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466541"
+  },
+  {
+    "name": "Avalon Garden Lodge",
+    "address": "C7XH+5V5 Duplex Entertainment centre, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2204463081"
+  },
+  {
+    "name": "Hotel Janta Bi",
+    "address": "Kombo Coastal Highway, Serrekunda, Gambia",
+    "phone": "+2207019000"
+  },
+  {
+    "name": "Princess Apartments",
+    "address": "Off Bretil Harding Highway, Serrekunda, Gambia",
+    "phone": "+2204461177"
+  },
+  {
+    "name": "Coconut Residence",
+    "address": "Bakau, Gambia",
+    "phone": "+2207910001"
+  },
+  {
+    "name": "SKY Guesthouse",
+    "address": "Kotu, Serrekunda, Gambia",
+    "phone": "+2204463876"
+  },
+  {
+    "name": "Easy Time Lodge",
+    "address": "Kololi, Banjul, Gambia",
+    "phone": "+2204461889"
+  },
+  {
+    "name": "Crown Restaurant",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Nefertiti",
+    "address": "Banjul, Gambia",
+    "phone": "+2204227755"
+  },
+  {
+    "name": "King Of Shawarma",
+    "address": "Independence Dr, Banjul, Gambia",
+    "phone": "+2207618032"
+  },
+  {
+    "name": "Jankey Jobe's Memorial Restaurant",
+    "address": "Banjul, Gambia",
+    "phone": "+2207730553"
+  },
+  {
+    "name": "Ali Baba",
+    "address": "Banjul, Gambia",
+    "phone": "+2204224055"
+  },
+  {
+    "name": "Modou Chicken",
+    "address": "Banjul, Gambia",
+    "phone": "+2207299860"
+  },
+  {
+    "name": "Ndey Fatou’s Kitchen",
+    "address": "Portuguese Town, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Mike's Black and White Cafe",
+    "address": "The beach next to the Atlantic Hotel, Banjul, Banjul, Gambia",
+    "phone": "+2203164464"
+  },
+  {
+    "name": "City Warf Restaurant",
+    "address": "Marina Parade, Banjul, Gambia",
+    "phone": "+2203962770"
+  },
+  {
+    "name": "20 new primet",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Jacaranda",
+    "address": "64 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204494045"
+  },
+  {
+    "name": "gambia bakers unoin",
+    "address": "Jamgam Restaurant Bar & Grill 531, Serrekunda, Gambia",
+    "phone": "+2205314393"
+  },
+  {
+    "name": "Attaya cafe",
+    "address": "New Town Road, Bakau, Gambia",
+    "phone": "+2203025391"
+  },
+  {
+    "name": "Happy place Bar and Restaurant",
+    "address": "Former Dream Park (Next to EcoBank, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202731106"
+  },
+  {
+    "name": "Jabang Petty Trading",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207896181"
+  },
+  {
+    "name": "Taj India Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202746653"
+  },
+  {
+    "name": "James Banjul Francisca Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "YOSH",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207049804"
+  },
+  {
+    "name": "Uncle Joe's Bar & Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207244958"
+  },
+  {
+    "name": "Sambas Kitchen",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207340813"
+  },
+  {
+    "name": "Darboe's Bar and Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Clay Oven",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202464537"
+  },
+  {
+    "name": "Friends Bar & Restaurant",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2202229868"
+  },
+  {
+    "name": "Shiraz",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2203149995"
+  },
+  {
+    "name": "La Parisienne Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207017024"
+  },
+  { "name": "El Sol", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "Cassy's Café & Restaurant",
+    "address": "53 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207266300"
+  },
+  {
+    "name": "Delicious Fast Food",
+    "address": "Serrekunda, Gambia",
+    "phone": "+22073680342088227"
+  },
+  {
+    "name": "Al Baba Bar And Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2209901914"
+  },
+  {
+    "name": "Chillout Palace",
+    "address": "Kotu power station, Serrekunda, Gambia",
+    "phone": "+2205296790"
+  },
+  {
+    "name": "Wonderful Chinese Restaurant",
+    "address": "Fatou Jatta Way, off Mamakoto Road, Bakau, Bakau, Gambia",
+    "phone": "+2207725780"
+  },
+  {
+    "name": "Sea Shells Bar & Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2203782586"
+  },
+  {
+    "name": "Bulfalleh Bar and Restaurant",
+    "address": "Duplex junction, Serrekunda, Gambia",
+    "phone": "+2202782901"
+  },
+  {
+    "name": "Freddy's Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2204497961"
+  },
+  {
+    "name": "Blaque Magique Bistro & Café",
+    "address": "New Road, Serrekunda, Gambia",
+    "phone": "+2207172055"
+  },
+  {
+    "name": "Alliance Café",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202977737"
+  },
+  {
+    "name": "Broadway Restaurant",
+    "address": "Atlantic Blvd, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "GRAND'OR GAMBIA",
+    "address": "Peace Corps, Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207333377"
+  },
+  {
+    "name": "Njie's Detox Juice Bar",
+    "address": "1 Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207267942"
+  },
+  {
+    "name": "Fast Ali's",
+    "address": "Mile 5, Banjul, Gambia",
+    "phone": "+2209077774"
+  },
+  {
+    "name": "FOODIES",
+    "address": "Senegambia Road, Serrekunda, Gambia",
+    "phone": "+2202222209"
+  },
+  {
+    "name": "Ashu's Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2204498223"
+  },
+  {
+    "name": "NIRO Bar And Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202050666"
+  },
+  {
+    "name": "Divine Restaurant",
+    "address": "1 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204395800"
+  },
+  {
+    "name": "Scala Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+447909971320"
+  },
+  {
+    "name": "Saffie J's bar and restaurant",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202003060"
+  },
+  {
+    "name": "Calypso bar & restaurant",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Captain's table",
+    "address": "22 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202139718"
+  },
+  {
+    "name": "Gibbi's on the beach",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Solomon’s Beach Bar & Restaurant",
+    "address": "Kotu Fire Station, Behind, Banjul, Gambia",
+    "phone": "+2202057401"
+  },
+  {
+    "name": "Djolof Chicken Banjul",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209471202"
+  },
+  {
+    "name": "JalDarboe Restaurant Drammeh Kunda D74",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2205014414"
+  },
+  {
+    "name": "Sky Tourist Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207630007"
+  },
+  {
+    "name": "Sweet Crepes GM",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Rendezvous Resto",
+    "address": "Tropic Shopping Center, Senegambian, Gambia",
+    "phone": "+2207211110"
+  },
+  {
+    "name": "Friends fast food",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "MRC Bantaba Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2205302976"
+  },
+  {
+    "name": "D'nubian Seafood Garden",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203928583"
+  },
+  {
+    "name": "Villa Roula",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Cave Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202222212"
+  },
+  {
+    "name": "Burgers Beyond",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202235254"
+  },
+  {
+    "name": "BAI ENTERPRISE - Gambia imports & exports fish, chicken, meat, fruits, and vegetable products.",
+    "address": "Between Iceland and Church, Traffic Light Highway, Serrekunda, Gambia",
+    "phone": "+2207000444"
+  },
+  {
+    "name": "Mr Bass",
+    "address": "Kairaba Ave, Banjul, Gambia",
+    "phone": "+2202458977"
+  },
+  {
+    "name": "Mazaya",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207712999"
+  },
+  {
+    "name": "Kuntas",
+    "address": "FAJARA KAIRABA AVENUE,SERRE KUNDA THE GAMBIA, Fajara, Bakau New Town, Serrekunda, Gambia",
+    "phone": "+2204495672"
+  },
+  {
+    "name": "Plass Bi",
+    "address": "16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2203717777"
+  },
+  {
+    "name": "Kaddijatou's Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Woodies Dutch Bar and Restaurant",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207060255"
+  },
+  {
+    "name": "Gusto Italian Resto &bar",
+    "address": "Fajara, Bakau New Town, Serrekunda, Gambia",
+    "phone": "+2204494213"
+  },
+  {
+    "name": "Restaurant USA gambia",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207650293"
+  },
+  {
+    "name": "Sofi's bar and restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207727055"
+  },
+  {
+    "name": "Kingsway Foods And Events",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Chef's Corner",
+    "address": "Senegambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207760070"
+  },
+  {
+    "name": "Mak Domoro",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": "+2207960024"
+  },
+  {
+    "name": "Justice Bar & Restaurant",
+    "address": "F74W+R27 Bin Luxury Complex, BB Junction, Serrekunda, Gambia",
+    "phone": "+2206655444"
+  },
+  {
+    "name": "Sunshine Beach Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207944441"
+  },
+  {
+    "name": "Mamie's Kitchen & Catering",
+    "address": "opp American University, Serrekunda, Gambia",
+    "phone": "+2207777277"
+  },
+  {
+    "name": "KadiMo`s Restaurant",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2203837056"
+  },
+  {
+    "name": "Dragon Red",
+    "address": "100 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2207411218"
+  },
+  {
+    "name": "GT's Bar & Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207660676"
+  },
+  {
+    "name": "Felicity Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207449090"
+  },
+  {
+    "name": "Solmic Restaurant",
+    "address": "Kololi Rd, Banjul, Gambia",
+    "phone": "+2207008181"
+  },
+  {
+    "name": "Same Time Same Place Bar/fast food Restaurant",
+    "address": "The, Kololi Rd, Serrekunda, Gambia",
+    "phone": "+2202222622"
+  },
+  {
+    "name": "Anta's Restaurant",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+919731949034"
+  },
+  {
+    "name": "Babou's Food Paradise",
+    "address": "Trans-Gambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207816814"
+  },
+  {
+    "name": "Dolima Restaurant",
+    "address": "Unnamed Road, Serrekunda Serekunda Kanifing Municipal Council Banjul, Gambia",
+    "phone": "+2207170958"
+  },
+  {
+    "name": "MacCeasars",
+    "address": "Banjul-Serrekunda Hwy, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Am'Harit Restaurant and Catering Services",
+    "address": "9 GM, Bakau New Town, Fajara, Garba Jahumpa Rd, Serrekunda, Gambia",
+    "phone": "+2207122121"
+  },
+  {
+    "name": "Sailor Beach Bar & Restaurant",
+    "address": "5 Banjul-Serrekunda Hwy, Bakau, Gambia",
+    "phone": "+2207645436"
+  },
+  {
+    "name": "Becca Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "Mall of Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900335"
+  },
+  {
+    "name": "Kairaba Shopping Centre",
+    "address": "Banjul, Gambia",
+    "phone": "+2207535983"
+  },
+  {
+    "name": "RASLAN DISCOUNT CENTER",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "Fouta Enterprise",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2209906600"
+  },
+  {
+    "name": "Garden Centre",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202222240"
+  },
+  {
+    "name": "The Village Shopping and Dining Centre",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202320304"
+  },
+  {
+    "name": "GuineeGalaise SUARL",
+    "address": "4, Portuguese Town, 5 Liberation Ave, Banjul, Gambia",
+    "phone": "+2202176837"
+  },
+  {
+    "name": "Westfield Plaza",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202195956"
+  },
+  {
+    "name": "Tropic Shopping Centre",
+    "address": "Sayerr Jobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ebo Town Market",
+    "address": "Tropic Shopping Centre, A8/A9, First Floor, Bertil Harding Hwy, Gambia",
+    "phone": "+2207990992"
+  },
+  {
+    "name": "my supermarket",
+    "address": "49 Kairaba Avenue, KMC, Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204399471"
+  },
+  {
+    "name": "first choice garden center",
+    "address": "Bakau Community Center, Bakau, Gambia",
+    "phone": "+2203079898"
+  },
+  {
+    "name": "Brusubi Mini Market",
+    "address": "BESIDE KAIRABA SHOPPING CENTER, 40 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207470376"
+  },
+  {
+    "name": "W/Alkitan",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207122989"
+  },
+  {
+    "name": "TOP-SHOP",
+    "address": "Churchill's Town, Serrekunda, Gambia",
+    "phone": "+2203520250"
+  },
+  {
+    "name": "Palms Plaza",
+    "address": "48 Atlantic Boulevard, Fajara, Serrekunda, The Gambia, Banjul, Gambia",
+    "phone": "+2204494508"
+  },
+  {
+    "name": "1001 Business Center Gambia",
+    "address": "32 Fillan St, Serrekunda, Gambia",
+    "phone": "+2207744255"
+  },
+  {
+    "name": "The Emporium",
+    "address": "Tropic Shopping Center, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2203385410"
+  },
+  {
+    "name": "Alhagie cosmetics plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204410793"
+  },
+  {
+    "name": "Albert Market",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "YANA'S CENTER",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "LENA BUSINESS CENTER",
+    "address": "Shop 15, Mall of Gambia, Bakoteh, Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": "+2207489766"
+  },
+  {
+    "name": "Famous Boutique",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2207940525"
+  },
+  {
+    "name": "Rayan Farms Garden Shop",
+    "address": "Duplex Entertainment centre, Serrekunda, Gambia",
+    "phone": "+2207870810"
+  },
+  {
+    "name": "MALI KUNDA SHOP",
+    "address": "Tropic Shopping Center, Senegambian, Gambia",
+    "phone": "+2207211110"
+  },
+  {
+    "name": "Gift and Goodies Center",
+    "address": "16 Mamadi Manjang Highway, Old Jeshwang, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "LG Electronics (Showroom & Service Center)",
+    "address": "Kairaba Avenue, Comium Building, Serrekunda, Gambia",
+    "phone": "+2207962789"
+  },
+  {
+    "name": "ONE PLUS ONE - HOME CENTER",
+    "address": "Lamin, Gambia",
+    "phone": "+2203078599"
+  },
+  {
+    "name": "Jarboh kunda 1",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207256085"
+  },
+  {
+    "name": "Jaiya World Express",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "OneUp Plaza",
+    "address": "Brikama, Gambia",
+    "phone": "+2209985793"
+  },
+  {
+    "name": "Ndigal Mobile Repairing",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Discount Center",
+    "address": "health centre, Opposite palma rima Hotel Serekunda Market hydra plaza Banjul opposite ferry terminal Birkama opposite jorko Basse opposite the, Banjul, Gambia",
+    "phone": "+2202558247"
+  },
+  {
+    "name": "hydara plaza",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Amisjobis Wholesale Clothing Center",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "MK SPORT SHOP NO.22 TUNKARA PLAZA",
+    "address": "Tropic Shopping Centre, Serrekunda, Gambia",
+    "phone": "+2207839826"
+  },
+  {
+    "name": "Apex Optics",
+    "address": "Banjul-Serrekunda Hwy, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Babs",
+    "address": "Fatou Golden Plaza, Bertil Harding Highway Opposite Election House, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Fatimas Couture, Kanefing Estate G16",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Happy Mini Market",
+    "address": "Petroleum House, Zak Plaza Brusubi Turntable ( Adjacent, Gambia",
+    "phone": "+2207442445"
+  },
+  {
+    "name": "Lamp Fall Fashion",
+    "address": "Sait Matty Road, Bakau, Gambia",
+    "phone": "+2209100400"
+  },
+  {
+    "name": "Yeew Fashion Enterprise",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202666626"
+  },
+  {
+    "name": "Beauty Stop",
+    "address": "Essau, Gambia",
+    "phone": "+2203064927"
+  },
+  {
+    "name": "Gamtech Solutions IT center",
+    "address": "Tujereng, Gambia",
+    "phone": "+2209982102"
+  },
+  {
+    "name": "Tunbung Art Village and Cultural Centre",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202204444"
+  },
+  {
+    "name": "Minka Center",
+    "address": "Kombo Sillah Dr, Serrekunda, Gambia",
+    "phone": "+2203636368"
+  },
+  {
+    "name": "Elegance Magazine",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Fajikunda health center",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "NF Batteries and Tyres Shop",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kanifing Estate Market",
+    "address": "TUNKARA PLAZA, NO. 22, Serrekunda, Gambia",
+    "phone": "+2207274141"
+  },
+  {
+    "name": "Velor Beauty",
+    "address": "42 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "Health center, Serrekunda",
+    "address": "118, Fajara, Booser, Gambia",
+    "phone": "+2207781222"
+  },
+  {
+    "name": "Baby centre",
+    "address": "Independence Dr, Banjul, Gambia",
+    "phone": "+2202369999"
+  },
+  {
+    "name": "Russell Hobbs Discount Center",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "youth center",
+    "address": "Banjul-Serrekunda Hwy, Serrekunda, Gambia",
+    "phone": "+2203152098"
+  },
+  {
+    "name": "MALI SHOP",
+    "address": "15 Buckle Street, Banjul, Gambia",
+    "phone": "+2207763619"
+  },
+  {
+    "name": "ChopShop Kairaba Avenue",
+    "address": "Banjul Sereknda Hwy, Serrekunda, Gambia",
+    "phone": "+2207966126"
+  },
+  {
+    "name": "TechnoFarm",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Lamin NTC JUNCTION",
+    "address": "C89G+WG8 Buffer Zone, Serrekunda, Gambia",
+    "phone": "+2203185319"
+  },
+  {
+    "name": "American Corner Gambia",
+    "address": "New Road, Tropic Shopping Center Kololi, Gambia",
+    "phone": "+2202446189"
+  },
+  {
+    "name": "Gambia Horticultural Enterprises",
+    "address": "Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Final Touch Massage and Beauty Center",
+    "address": "12 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204375900"
+  },
+  {
+    "name": "Kunkujang",
+    "address": "Garba Jahumpa RD Bakau NewTown, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Peace Of Mind Yoga Studio",
+    "address": "Kololi Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo Plaza",
+    "address": "Anne Marie Javouhay, Street, Gambia",
+    "phone": "+2202711290"
+  },
+  {
+    "name": "RightChoice Supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207788222"
+  },
+  {
+    "name": "Tanji Fishing Center",
+    "address": "Banjul, Gambia",
+    "phone": "+2204373080"
+  },
+  {
+    "name": "Djolof Chicken Banjul",
+    "address": "Fajara, Bakau New Town, 1 Garba Jahumpa Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Rebel Gaming Gambia",
+    "address": "S Bank Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "K. APEX SERVICES",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Sir Dawda Kairaba Jawara International Conference Center",
+    "address": "Becca Plaza, Banjul, Gambia",
+    "phone": "+2207944050"
+  },
+  {
+    "name": "SuperDrive",
+    "address": "Senegambia Beach Hotel, Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203989171"
+  },
+  {
+    "name": "LABMEDENT Co Ltd",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900760"
+  },
+  {
+    "name": "Talk Hot Media",
+    "address": "Round about, Brufut, Gambia",
+    "phone": null
+  },
+  {
+    "name": "British Embassy Banjul",
+    "address": "Kanifing Industrial Estate, Serrekunda, Gambia",
+    "phone": "+2205358220"
+  },
+  {
+    "name": "Bakau Community Youth Bakery Association",
+    "address": "Brufut, Gambia",
+    "phone": "+2207055073"
+  },
+  {
+    "name": "Innovarx Global Health (IGH Community Pharmacy)",
+    "address": "16 kairaba ave gambia west afficra, 16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Zenith Bank",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Swami India International Limited - Sales Office",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207955666"
+  },
+  {
+    "name": "Timatech Solutions",
+    "address": "15, 17 Kaira Avenue, Brufut, Gambia",
+    "phone": "+2203861800"
+  },
+  {
+    "name": "Banjul",
+    "address": "Ebo Town Bantaba, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "National Museum of the Gambia",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Banjul Central Mosque",
+    "address": "Barra, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Albert Market",
+    "address": "Banjul, Gambia",
+    "phone": "+2204373080"
+  },
+  {
+    "name": "Bijilo National Park",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207919937"
+  },
+  {
+    "name": "Abuko Nature Reserve",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Arch 22",
+    "address": "Brikama Hwy, Lamin, Gambia",
+    "phone": "+2207248035"
+  },
+  {
+    "name": "Bakau craft market",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama Craft Market",
+    "address": "Brikama marketing Brikama, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Fort Bullen",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tour Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202000300"
+  },
+  {
+    "name": "Edward Francis Small Teaching Hospital",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brusubi",
+    "address": "Coastal road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ecotours Gambia",
+    "address": "Kololi, Banjul, Gambia",
+    "phone": "+2204461889"
+  },
+  {
+    "name": "Jufureh",
+    "address": "Serrekunda, Gambia",
+    "phone": "+22037841553611704"
+  },
+  {
+    "name": "Craft Market",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Banjul International Airport",
+    "address": "Senegambia, Serrekunda, Serrekunda, Gambia",
+    "phone": "+2207792858"
+  },
+  {
+    "name": "Kololi",
+    "address": "Costal Highway, Serrekunda, Gambia",
+    "phone": "+2204466500"
+  },
+  {
+    "name": "Gunjur",
+    "address": "Jinack Island, Jinack, Gambia",
+    "phone": "+2203055014"
+  },
+  {
+    "name": "Aji Tours Gambia Ltd",
+    "address": "Senegambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207167697"
+  },
+  {
+    "name": "Senegambia Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207952874"
+  },
+  {
+    "name": "Kotu Craftmarket",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tanji",
+    "address": "Yundum, Gambia",
+    "phone": "+2202966093"
+  },
+  {
+    "name": "Old yundum market",
+    "address": "Senegambia Strip Kololi, Serrekunda, Gambia",
+    "phone": "+2209840753"
+  },
+  {
+    "name": "Tendaba",
+    "address": "Kairaba Beach Hotel, Banjul, Gambia",
+    "phone": "+2205100022"
+  },
+  {
+    "name": "Lush",
+    "address": "Banjul, Gambia",
+    "phone": "+2204228223"
+  },
+  {
+    "name": "Wassu",
+    "address": "Lemon Creek Hotel, Serrekunda, Gambia",
+    "phone": "+2207919175"
+  },
+  {
+    "name": "Protected area In Fadiouth",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Abéné",
+    "address": "Lams tours BB Craft-marked Kotu, Gambia",
+    "phone": "+2209906757"
+  },
+  {
+    "name": "Ziguinchor Region",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209947255"
+  },
+  {
+    "name": "Pointe-Saint-Georges",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2209912891"
+  },
+  {
+    "name": "Diembéreng",
+    "address": "Denton Bridge Banjul, Gambia, West Africa, Banjul Serrekunda Hwy, Gambia",
+    "phone": "+31610245948"
+  },
+  {
+    "name": "Ziguinchor",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  {
+    "name": "Galerie Arte",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Cap Skirring",
+    "address": "Denton Bridge Banjul, Bakau, Gambia",
+    "phone": "+2202204083"
+  },
+  {
+    "name": "Sao Domingos",
+    "address": "Wassu, Gambia",
+    "phone": "+2203414605"
+  },
+  {
+    "name": "Toubab Dialao",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Richard Toll",
+    "address": "Bafuloto, Gambia",
+    "phone": "+2204483335"
+  },
+  {
+    "name": "Kedougou",
+    "address": "Coastal Rd, Tanji, Gambia",
+    "phone": "+2209926618"
+  },
+  {
+    "name": "Usadan-ro 10-gil",
+    "address": "Portuguese Town, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "tripdo.com",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Baobab Holiday Resort",
+    "address": "Kotu Beach, Kololi, Kotu, Gambia",
+    "phone": "+2204462426"
+  },
+  {
+    "name": "Calabash Residence",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2204463734"
+  },
+  {
+    "name": "Kalimba Beach Resort",
+    "address": "Kotu, Serrekunda, Gambia",
+    "phone": "+2204465466"
+  },
+  {
+    "name": "Leybato Beach Hotel",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2209902408"
+  },
+  {
+    "name": "African Princess Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202787744"
+  },
+  {
+    "name": "Bungalow Beach hotel",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207327777"
+  },
+  {
+    "name": "Kairaba Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207096884"
+  },
+  {
+    "name": "Kololi Beach Resort",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2204382736"
+  },
+  {
+    "name": "Sunset Beach",
+    "address": "Kerr Serign, Gambia",
+    "phone": "+2207171621"
+  },
+  {
+    "name": "Coco Ocean Resort & Spa Hotel",
+    "address": "Ann St, Serrekunda, Gambia",
+    "phone": "+442080899601"
+  },
+  {
+    "name": "Bamboo Garden Hotel",
+    "address": "New Senegambia Road, Kololi, Banjul, Gambia",
+    "phone": "+2207222277"
+  },
+  {
+    "name": "Seaview Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207242953"
+  },
+  {
+    "name": "Metzy Residence Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207441888"
+  },
+  {
+    "name": "Bakotu",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204461858"
+  },
+  {
+    "name": "Senegambia Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466714"
+  },
+  {
+    "name": "Kasumai Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207176226"
+  },
+  {
+    "name": "Sarawally Guesthouse",
+    "address": "28 Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+2203885085"
+  },
+  {
+    "name": "Badala Park Hotel",
+    "address": "KOMBO COASTAL ROAD, BIJILO, Serrekunda, Gambia",
+    "phone": "+2204465111"
+  },
+  {
+    "name": "The Rink Self Catering Apartments",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kotu Island Lodge.",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202547385"
+  },
+  {
+    "name": "Palma Rima Junction",
+    "address": "10 Atlantic Blvd, Fajara, Gambia",
+    "phone": "+34928143393"
+  },
+  {
+    "name": "African Village Hotel",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+923134560786"
+  },
+  {
+    "name": "Sarges Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203700701"
+  },
+  {
+    "name": "Afro Garden Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207732400"
+  },
+  {
+    "name": "The Flame Tree",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203767600"
+  },
+  {
+    "name": "Lemon Creek Hotel",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Camping Sukuta Lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460418"
+  },
+  {
+    "name": "Casacarla",
+    "address": "Fajara, Bakau New Town, 10 Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2204495605"
+  },
+  {
+    "name": "Swiss Boutique Hotel",
+    "address": "Junction Ba, Serrekunda, Gambia",
+    "phone": "+2209906217"
+  },
+  {
+    "name": "Sanchaba Yellow Apèartments",
+    "address": "Paradise Beach, Sanyang, Gambia",
+    "phone": "+2209986188"
+  },
+  {
+    "name": "Sanchaba Yellow Apartments",
+    "address": "Point Zone, Kololi, Serrekunda, Gambia",
+    "phone": "+2204464734"
+  },
+  {
+    "name": "One World Village Guesthouse",
+    "address": "Tujereng, Gambia",
+    "phone": "+2207021151"
+  },
+  {
+    "name": "Ocean Bay Hotel & Spa",
+    "address": "Sanyang, Gambia",
+    "phone": "+2207720380"
+  },
+  {
+    "name": "Wavecrest Hotel Gambia- Apartments",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466264"
+  },
+  {
+    "name": "Tropic Garden Hotel",
+    "address": "Off Coastal Highway, Gunjur, Gambia",
+    "phone": "+447305651551"
+  },
+  {
+    "name": "Harmony Resort Boutique Hotel",
+    "address": "Batokuku Lane, Batukunku, Gambia",
+    "phone": "+2203905079"
+  },
+  {
+    "name": "Residence 21",
+    "address": "F75R+J3M Kunta Kinteh Beach Complex, Kololi, Serrekunda, Gambia",
+    "phone": "+2205153680"
+  },
+  {
+    "name": "Sunbeach Hotel & Resort",
+    "address": "Marina Parade, Soldier Town, Banjul, Gambia",
+    "phone": "+2204228601"
+  },
+  {
+    "name": "Mango Village",
+    "address": "64 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204494045"
+  },
+  {
+    "name": "Tranquil Hotel Resort",
+    "address": "Sanyang Beach Sanyang, How Ba, Gambia",
+    "phone": "+2209350032"
+  },
+  {
+    "name": "Cape Point Hotel",
+    "address": "Marina Parade, Banjul, Gambia",
+    "phone": "+2202909090"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "13.32665, -16.79355, Butukunku, Tujereng, Gambia",
+    "phone": "13326651679355"
+  },
+  {
+    "name": "Atlantic Luxury Apartments",
+    "address": "Coastal Rd, Batukunku, Gambia",
+    "phone": "+2203395196"
+  },
+  {
+    "name": "Woodpecker Resort",
+    "address": "Bijilo, Gambia",
+    "phone": null
+  },
+  {
+    "name": "D white villas",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2207857972"
+  },
+  {
+    "name": "Champions Lodge Brusubi Gambia",
+    "address": "00000, Brufut, Gambia",
+    "phone": "+15555555"
+  },
+  {
+    "name": "HOTEL SINKILING GAMBIA",
+    "address": "Kofi annan street, Bakau, Gambia",
+    "phone": "+2207559978"
+  },
+  {
+    "name": "Camara Gardens Apartments Brufut",
+    "address": "Brikama Hwy, Banjulunding, Gambia",
+    "phone": "+2203338880"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "Old Yundum, Gambia",
+    "phone": "+2202423471"
+  },
+  {
+    "name": "Bendula",
+    "address": "Old Yundum, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Alsaraya Hotel",
+    "address": "Brufut, Serrekunda, Gambia",
+    "phone": "+441208862037"
+  },
+  {
+    "name": "Atlantic Hotel",
+    "address": "Brusubi, Gambia",
+    "phone": "+2205291059"
+  },
+  {
+    "name": "Ngala Lodge",
+    "address": "Kofi Annan Street, Bakau, Gambia",
+    "phone": "+2204495005"
+  },
+  {
+    "name": "Kunta Kinteh Beach Complex",
+    "address": "Cape Point, Bakau, Gambia",
+    "phone": "+2204497190"
+  },
+  {
+    "name": "2 Coconut Lodge",
+    "address": "African Road, Barry Road Nos 1 To 6, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kinkilibar",
+    "address": "Kerr-Serign Vismarkt, Kololi, Gambia",
+    "phone": "+32476428458"
+  },
+  {
+    "name": "Paradise Suites Hotel",
+    "address": "52 Brufut Heights, Brufut, Gambia",
+    "phone": "+2207355148"
+  },
+  {
+    "name": "Suleima Lodge",
+    "address": "Bakau, Gambia",
+    "phone": "+2207910001"
+  },
+  {
+    "name": "Bosofet Beach and Creek Lodge",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2207776600"
+  },
+  {
+    "name": "Footsteps Eco Lodge, The Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466979"
+  },
+  {
+    "name": "REAL OWL GUEST HOUSE",
+    "address": "F8C9+X8J New Town, Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Evergreen Retreat",
+    "address": "Bakau, Gambia",
+    "phone": "+2204494265"
+  },
+  {
+    "name": "River By the Sea",
+    "address": "Sanchaba Sulay Jobe, Serrekunda, 20100, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Luigi's Complex",
+    "address": "10 Kofi Annan Street, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sand Beach Hotel",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2209917823"
+  },
+  {
+    "name": "Fajara Hotel",
+    "address": "Kombo Coastal Highway, Serrekunda, Gambia",
+    "phone": "+2207019000"
+  },
+  {
+    "name": "Jungle Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202022121"
+  },
+  {
+    "name": "Omakan Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209917786"
+  },
+  {
+    "name": "Holiday Beach Club",
+    "address": "Rue de Smet, Bijilo, Sukuta, 10000, Gambia",
+    "phone": "+2207700057"
+  },
+  {
+    "name": "Avalon Garden Lodge",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2204463734"
+  },
+  {
+    "name": "Akkwa Suites",
+    "address": "Kerr Seringe, Gambia",
+    "phone": "+46702040823"
+  },
+  {
+    "name": "DANDIMAYO",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2206611800"
+  },
+  {
+    "name": "Princess Apartments",
+    "address": "C79F+M8P Bijilo, Serrekunda, Gambia",
+    "phone": "+2205293370"
+  },
+  {
+    "name": "Dana Lodge Residence",
+    "address": "Bakau New Town, 98 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204495034"
+  },
+  {
+    "name": "Patta Patta Hotel",
+    "address": "Kombo Coastal Road Highway, Bijilo, Serrekunda, Gambia",
+    "phone": "+2207310073"
+  },
+  {
+    "name": "SKY Guesthouse",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202535081"
+  },
+  {
+    "name": "Shelley's",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Golden Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460400"
+  },
+  {
+    "name": "Pelican Residence",
+    "address": "F Section, Ampaya, Gambia",
+    "phone": "+2202562692"
+  },
+  {
+    "name": "Oasis Relax Lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460400"
+  },
+  {
+    "name": "Coconut Residence",
+    "address": "Kololi, Banjul, Gambia",
+    "phone": "+2204461889"
+  },
+  {
+    "name": "Hansen's Lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204465555"
+  },
+  {
+    "name": "Bakadaji Hotel",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202949631"
+  },
+  {
+    "name": "Queen Zee Garden Apartments",
+    "address": "Off Bretil Harding Highway, Serrekunda, Gambia",
+    "phone": "+2204461177"
+  },
+  {
+    "name": "Hotel Janta Bi",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466660"
+  },
+  {
+    "name": "Darboe's Bar and Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207660676"
+  },
+  {
+    "name": "Scala Restaurant",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2205014414"
+  },
+  {
+    "name": "3 Chicks & A Grill",
+    "address": "New Road, Serrekunda, Gambia",
+    "phone": "+2207172055"
+  },
+  {
+    "name": "The Neem Tree Restaurant",
+    "address": "Trans-Gambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207816814"
+  },
+  {
+    "name": "Rendezvous Resto",
+    "address": "Duplex road, Serrekunda, Gambia",
+    "phone": "+2207994914"
+  },
+  {
+    "name": "The Clay Oven",
+    "address": "The, Kololi Rd, Serrekunda, Gambia",
+    "phone": "+2202222622"
+  },
+  {
+    "name": "Sea Shells Bar & Restaurant",
+    "address": "Kombo Sillah Dr, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Broadway Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2203782586"
+  },
+  {
+    "name": "Uncle Joe's Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207247886"
+  },
+  {
+    "name": "Woodies Dutch Bar and Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209111165"
+  },
+  {
+    "name": "Palm Tree Bar & Restaurant",
+    "address": "New road kololi, Gambia",
+    "phone": "+2202245673"
+  },
+  {
+    "name": "Plass Bi",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207727055"
+  },
+  {
+    "name": "Delicious Food Plaza",
+    "address": "Jamgam Restaurant Bar & Grill 531, Serrekunda, Gambia",
+    "phone": "+2205314393"
+  },
+  {
+    "name": "Babou's Food Paradise",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Babou's Food Paradise",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202003060"
+  },
+  {
+    "name": "Muna's Bar And Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202235254"
+  },
+  {
+    "name": "Felicity Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Yasmina Restaurant",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2209924082"
+  },
+  {
+    "name": "Poco Loco Beachbar Gambia",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207049804"
+  },
+  {
+    "name": "Savory Snacks",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207244958"
+  },
+  {
+    "name": "Paradiso Restaurant",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Captain's table",
+    "address": "Duplex Road, Kollli, Gambia",
+    "phone": "+2207914240"
+  },
+  {
+    "name": "The Vineyard",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203928583"
+  },
+  {
+    "name": "D'nubian Seafood Garden",
+    "address": "London corner, Serrekunda, Gambia",
+    "phone": "+2203592285"
+  },
+  {
+    "name": "Al Baba Bar And Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202050666"
+  },
+  {
+    "name": "The Butcher's Shop",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207991111"
+  },
+  {
+    "name": "Emeka Great Hands Nigerian Restaurant",
+    "address": "Former Dream Park (Next to EcoBank, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202731106"
+  },
+  {
+    "name": "Gusto Italian Resto &bar",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207944441"
+  },
+  {
+    "name": "Ashu's Restaurant",
+    "address": "Duplex junction, Serrekunda, Gambia",
+    "phone": "+2202782901"
+  },
+  {
+    "name": "Peters Fine Dining & Bar",
+    "address": "Forest View Apartments, Senegambia Strip Next to, Gambia",
+    "phone": "+2207627824"
+  },
+  {
+    "name": "KadiMo`s Restaurant",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2202600002"
+  },
+  {
+    "name": "Magic Bar And Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202222212"
+  },
+  {
+    "name": "Two Rays Bar and Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "GRAND'OR GAMBIA",
+    "address": "Old, Kololi Rd, Gambia",
+    "phone": "+2203418586"
+  },
+  {
+    "name": "FoodCourt@ Senegambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207746808"
+  },
+  {
+    "name": "Blagger's Bar and Restaurant",
+    "address": "16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2203717777"
+  },
+  {
+    "name": "Green Mamba",
+    "address": "Bertil Harding Highway, Kololi, Serrekunda, Gambia",
+    "phone": "+2207446593"
+  },
+  {
+    "name": "Fast Ali's",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207700877"
+  },
+  {
+    "name": "Emeka Great Hands Nigerian Restaurant",
+    "address": "No. 44/47 Kololi Way, Senegambia Rd, Serrekunda PMB 601 SERREKUNDA, Gambia",
+    "phone": "+2207900395"
+  },
+  {
+    "name": "Shiraz",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207276727"
+  },
+  {
+    "name": "Bamboo Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207722821"
+  },
+  {
+    "name": "Ozzie's Restaurant and Diner",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2203837056"
+  },
+  {
+    "name": "Same Time Same Place Bar/fast food Restaurant",
+    "address": "Kololi Rd, Serrekunda, Gambia",
+    "phone": "+2207799997"
+  },
+  {
+    "name": "African Queen Restaurant",
+    "address": "Near Senegambia Garage, Dippakunda, Serekunda, KMC, Serrekunda, Serrekunda, Serrekunda, Gambia",
+    "phone": "+2203043230"
+  },
+  {
+    "name": "Dragon Red",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Chicken Place",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203311111"
+  },
+  {
+    "name": "Swiss Tavern Beach Bar and Restaurant",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Cocoricooo",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207017024"
+  },
+  {
+    "name": "The new wild monkey",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Vineyard Restaurant",
+    "address": "Beach Road, Serrekunda, Gambia",
+    "phone": "+2207834768"
+  },
+  {
+    "name": "The Fajara Garden Restaurant",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2207569236"
+  },
+  {
+    "name": "Lika's",
+    "address": "Fajara, Bakau New Town, Serrekunda, Gambia",
+    "phone": "+2204494213"
+  },
+  {
+    "name": "Patta Patta Bar And Restaurant",
+    "address": "Between Iceland and Church, Traffic Light Highway, Serrekunda, Gambia",
+    "phone": "+2207000444"
+  },
+  {
+    "name": "Al-Rawshe Restaurant",
+    "address": "Senegambia New Road, Kololi, Serrekunda, Gambia",
+    "phone": "+2207557585"
+  },
+  {
+    "name": "Mango Indian Global Kitchen, Bar and Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+22073680342088227"
+  },
+  {
+    "name": "3m fast food",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Aroma Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207449090"
+  },
+  {
+    "name": "Heritage Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207712999"
+  },
+  {
+    "name": "Sally's 24 Hours",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2202229868"
+  },
+  {
+    "name": "Chosaan Senegambia Bar & Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Relax Bar and Restaurant",
+    "address": "2345, Serrekunda, Gambia",
+    "phone": "+2207924047"
+  },
+  {
+    "name": "Chicken Plaza Gambia",
+    "address": "FAJARA KAIRABA AVENUE,SERRE KUNDA THE GAMBIA, Fajara, Bakau New Town, Serrekunda, Gambia",
+    "phone": "+2204495672"
+  },
+  {
+    "name": "Sky Tourist Restaurant",
+    "address": "Senegambia Hwy, Serrekunda, Gambia",
+    "phone": "+393511086116"
+  },
+  {
+    "name": "NIRO Bar And Restaurant",
+    "address": "53 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207266300"
+  },
+  {
+    "name": "Mani Sushi",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202235254"
+  },
+  {
+    "name": "Diamonds Restaurant and Lounge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207147930"
+  },
+  {
+    "name": "The Cave Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207432055"
+  },
+  {
+    "name": "Mo2 Bar & Restaurant Gambia (Mosiah's)",
+    "address": "F74W+R27 Bin Luxury Complex, BB Junction, Serrekunda, Gambia",
+    "phone": "+2206655444"
+  },
+  {
+    "name": "Pinay's Delight Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204495069"
+  },
+  {
+    "name": "Divine Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Flames catering and snack bar",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Neneh's Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202464537"
+  },
+  {
+    "name": "Curry Curry Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207779333"
+  },
+  {
+    "name": "MacCeasars",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207340813"
+  },
+  {
+    "name": "Jay's Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+447909971320"
+  },
+  {
+    "name": "Villa Roula",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207340813"
+  },
+  {
+    "name": "Paradise Beach Club Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207770770"
+  },
+  {
+    "name": "JamGam Restaurant Bar & Grill",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "City food restaurants",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202977737"
+  },
+  {
+    "name": "Evolution Bar & Restaurant",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207060255"
+  },
+  {
+    "name": "Wonderful Chinese Restaurant",
+    "address": "1 Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207267942"
+  },
+  {
+    "name": "Mall of Gambia",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "Tropic Shopping Centre",
+    "address": "Sayerr Jobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Village Shopping and Dining Centre",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "Kairaba Shopping Centre",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202320304"
+  },
+  {
+    "name": "RASLAN DISCOUNT CENTER",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202222240"
+  },
+  {
+    "name": "Garden Centre",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2209906600"
+  },
+  {
+    "name": "Craft market",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202195956"
+  },
+  {
+    "name": "Westfield Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900335"
+  },
+  {
+    "name": "my supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "GuineeGalaise SUARL",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207955666"
+  },
+  {
+    "name": "first choice garden center",
+    "address": "Tropic Shopping Center, Senegambian, Gambia",
+    "phone": "+2207211110"
+  },
+  {
+    "name": "The Turntable",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207256085"
+  },
+  {
+    "name": "TOP-SHOP",
+    "address": "health centre, Opposite palma rima Hotel Serekunda Market hydra plaza Banjul opposite ferry terminal Birkama opposite jorko Basse opposite the, Banjul, Gambia",
+    "phone": "+2202558247"
+  },
+  {
+    "name": "Madiba Mall",
+    "address": "Churchill's Town, Serrekunda, Gambia",
+    "phone": "+2203520250"
+  },
+  {
+    "name": "Palms Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202610516"
+  },
+  {
+    "name": "Becca Plaza",
+    "address": "Bakau Community Center, Bakau, Gambia",
+    "phone": "+2203079898"
+  },
+  {
+    "name": "AMJ Business Center",
+    "address": "1Bena The village shopping and dining center, kololi, Gambia",
+    "phone": "+2207985916"
+  },
+  {
+    "name": "YANA'S CENTER",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Rayan Farms Garden Shop",
+    "address": "49 Kairaba Avenue, KMC, Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204399471"
+  },
+  {
+    "name": "Famous Boutique",
+    "address": "Banjul-Serrekunda Hwy, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "ONE PLUS ONE - HOME CENTER",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Gift and Goodies Center",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Serekunda Market",
+    "address": "Tropic Shopping Centre, A8/A9, First Floor, Bertil Harding Hwy, Gambia",
+    "phone": "+2207990992"
+  },
+  {
+    "name": "MK SPORT SHOP NO.22 TUNKARA PLAZA",
+    "address": "2 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207960133"
+  },
+  {
+    "name": "LG Electronics (Showroom & Service Center)",
+    "address": "Banjul, Gambia",
+    "phone": "+2204373080"
+  },
+  {
+    "name": "Happy Mini Market",
+    "address": "GramQuill,, Coastal Rd, Brufut, Gambia",
+    "phone": "+2207940529"
+  },
+  {
+    "name": "Discount Center",
+    "address": "Pipeline Mosque, Serrekunda, Gambia",
+    "phone": "+2207591041"
+  },
+  {
+    "name": "Babs",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207122989"
+  },
+  {
+    "name": "Kairaba Super Market",
+    "address": "BESIDE KAIRABA SHOPPING CENTER, 40 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207470376"
+  },
+  {
+    "name": "Lamp Fall Fashion",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Health center, Serrekunda",
+    "address": "Essau, Gambia",
+    "phone": "+2203064927"
+  },
+  {
+    "name": "OneUp Plaza",
+    "address": "32 Fillan St, Serrekunda, Gambia",
+    "phone": "+2207744255"
+  },
+  {
+    "name": "Ice Land",
+    "address": "Brikama, Gambia",
+    "phone": "+2209985793"
+  },
+  {
+    "name": "Yeew Fashion Enterprise",
+    "address": "Lamin, Gambia",
+    "phone": "+2203078599"
+  },
+  {
+    "name": "W/Alkitan",
+    "address": "16 Mamadi Manjang Highway, Old Jeshwang, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "Kanifing Estate Market",
+    "address": "Fatou Golden Plaza, Bertil Harding Highway Opposite Election House, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "RightChoice Supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202355555"
+  },
+  {
+    "name": "Ndigal Mobile Repairing",
+    "address": "Tropic Shopping Center, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2203385410"
+  },
+  {
+    "name": "Fatimas Couture, Kanefing Estate G16",
+    "address": "Duplex Entertainment centre, Serrekunda, Gambia",
+    "phone": "+2207870810"
+  },
+  {
+    "name": "Senegambia Craft Market",
+    "address": "Kololi Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Beauty Stop",
+    "address": "Petroleum House, Zak Plaza Brusubi Turntable ( Adjacent, Gambia",
+    "phone": "+2207442445"
+  },
+  {
+    "name": "Minka Center",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204381925"
+  },
+  {
+    "name": "Velor Beauty",
+    "address": "Tujereng, Gambia",
+    "phone": "+2209982102"
+  },
+  {
+    "name": "Binta en Peter",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Jaiya World Express",
+    "address": "Kairaba Avenue, Comium Building, Serrekunda, Gambia",
+    "phone": "+2207962789"
+  },
+  {
+    "name": "Fajikunda health center",
+    "address": "MBA Kairaba Stationery, Kairaba Avenue Next to, Gambia",
+    "phone": "+2202293266"
+  },
+  {
+    "name": "Jarboh kunda 1",
+    "address": "Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "ChopShop Kairaba Avenue",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo Plaza",
+    "address": "Shop 15, Mall of Gambia, Bakoteh, Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": "+2207489766"
+  },
+  {
+    "name": "American Corner Gambia",
+    "address": "Banjul Sereknda Hwy, Serrekunda, Gambia",
+    "phone": "+2207966126"
+  },
+  {
+    "name": "KangaROOS Enterprises",
+    "address": "Tropic Shopping Centre, Serrekunda, Gambia",
+    "phone": "+2207839826"
+  },
+  {
+    "name": "Final Touch Massage and Beauty Center",
+    "address": "Sait Matty Road, Bakau, Gambia",
+    "phone": "+2209100400"
+  },
+  {
+    "name": "Atlas Serrekunda",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Rebel Gaming Gambia",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202204444"
+  },
+  {
+    "name": "ATMK Boutique",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Elegance Magazine",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2207940525"
+  },
+  {
+    "name": "O'délice",
+    "address": "Banjul-Serrekunda Hwy, Serrekunda, Gambia",
+    "phone": "+2203152098"
+  },
+  {
+    "name": "Gambia Horticultural Enterprises",
+    "address": "Becca Plaza, Banjul, Gambia",
+    "phone": "+2207944050"
+  },
+  {
+    "name": "Lamin NTC JUNCTION",
+    "address": "Kombo Sillah Dr, Serrekunda, Gambia",
+    "phone": "+2203636368"
+  },
+  {
+    "name": "K. APEX SERVICES",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Gamtech Solutions IT center",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202666626"
+  },
+  {
+    "name": "Talk Hot Media",
+    "address": "42 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "LABMEDENT Co Ltd",
+    "address": "118, Fajara, Booser, Gambia",
+    "phone": "+2207781222"
+  },
+  {
+    "name": "K.S.T CAR BUSINESS",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "RightChoice Supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "NOMM Company Ltd.",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Albert Market",
+    "address": "TUNKARA PLAZA, NO. 22, Serrekunda, Gambia",
+    "phone": "+2207274141"
+  },
+  {
+    "name": "youth center",
+    "address": "12 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204375900"
+  },
+  {
+    "name": "Swami India International Limited - Sales Office",
+    "address": "Anne Marie Javouhay, Street, Gambia",
+    "phone": "+2202711290"
+  },
+  {
+    "name": "Tanji Fishing Center",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "NF Batteries and Tyres Shop",
+    "address": "New Road, Tropic Shopping Center Kololi, Gambia",
+    "phone": "+2202446189"
+  },
+  {
+    "name": "Baby centre",
+    "address": "Garba Jahumpa RD Bakau NewTown, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Zenith Bank",
+    "address": "Kololi Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kunkujang",
+    "address": "Kanifing Industrial Estate, Serrekunda, Gambia",
+    "phone": "+2205358220"
+  },
+  {
+    "name": "1Bena",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207788222"
+  },
+  {
+    "name": "Innovarx Global Health (IGH Community Pharmacy)",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900760"
+  },
+  {
+    "name": "Timatech Solutions",
+    "address": "4, Portuguese Town, 5 Liberation Ave, Banjul, Gambia",
+    "phone": "+2202176837"
+  },
+  {
+    "name": "Kairaba Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202528340"
+  },
+  {
+    "name": "Matkiz Worldwide Entertainment",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bakau Community Youth Bakery Association",
+    "address": "15, 17 Kaira Avenue, Brufut, Gambia",
+    "phone": "+2203861800"
+  },
+  {
+    "name": "TechnoFarm",
+    "address": "Senegambia Beach Hotel, Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203989171"
+  },
+  {
+    "name": "Unitrade company Ltd",
+    "address": "16 kairaba ave gambia west afficra, 16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Djolof Chicken Banjul",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Djeliba Resort",
+    "address": "Round about, Brufut, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo National Park",
+    "address": "Brikama Hwy, Lamin, Gambia",
+    "phone": "+2207248035"
+  },
+  {
+    "name": "Senegambia Craft Market",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kachikally Crocodile Pool",
+    "address": "Coastal Rd, Tanji, Gambia",
+    "phone": "+2209926618"
+  },
+  {
+    "name": "Abuko Nature Reserve",
+    "address": "Brikama marketing Brikama, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Monkey Park",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "National Museum of the Gambia",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Pipeline Mosque",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207919937"
+  },
+  {
+    "name": "Tanje Village Museum",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama Craft Market",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Fort Bullen",
+    "address": "Gunjar Madina, Gambia",
+    "phone": "+2207711209"
+  },
+  {
+    "name": "Falu Tours",
+    "address": "Sarr Jobe street, Serrekunda, Gambia",
+    "phone": "+2202640323"
+  },
+  {
+    "name": "Serekunda",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Lams Tours in The Gambia",
+    "address": "2 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207960133"
+  },
+  {
+    "name": "Tour Gambia",
+    "address": "Coastal road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Arch 22",
+    "address": "Kombo Coastal Highway, Serrekunda, Gambia",
+    "phone": "+2207019000"
+  },
+  {
+    "name": "Ecotours Gambia",
+    "address": "Jinack Island, Jinack, Gambia",
+    "phone": "+2203055014"
+  },
+  {
+    "name": "Senegambia",
+    "address": "Box4061, Bakau, Gambia",
+    "phone": "+2209911691"
+  },
+  {
+    "name": "Kotu",
+    "address": "Portuguese Town, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Omi Tours Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460418"
+  },
+  {
+    "name": "TOP-SHOP",
+    "address": "calabash residence, Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202244424"
+  },
+  {
+    "name": "Gambia view tours",
+    "address": "Off Bretil Harding Highway, Serrekunda, Gambia",
+    "phone": "+2204461177"
+  },
+  {
+    "name": "Bakau",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2207776600"
+  },
+  {
+    "name": "Scala Restaurant",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203427404"
+  },
+  {
+    "name": "Craft Market",
+    "address": "Kotu, Serrekunda, Gambia",
+    "phone": "+2204465466"
+  },
+  {
+    "name": "St. Anthony's Catholic Church",
+    "address": "C7XH+5V5 Duplex Entertainment centre, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2204463081"
+  },
+  {
+    "name": "Luigi's Complex",
+    "address": "Kololi Beach Resort, Serrekunda, Gambia",
+    "phone": "+2207134203"
+  },
+  {
+    "name": "Trinity Methodist Church",
+    "address": "Sunset Beach Hotel, Ocean Bay Hotel | Senegambia Beach Hotel | Sun Beach Hotel | Kombo Beach Hotel |, Serrekunda, Gambia",
+    "phone": "+2209922276"
+  },
+  {
+    "name": "Coco Ocean Resort & Spa Hotel",
+    "address": "Bakau, Gambia",
+    "phone": "+2209225887"
+  },
+  {
+    "name": "Craft market",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kartong",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207327777"
+  },
+  {
+    "name": "My Gambia",
+    "address": "Palma Rima Beach, Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2207961066"
+  },
+  {
+    "name": "Kunta Kinteh Island",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207000111"
+  },
+  {
+    "name": "GT's Bar & Restaurant",
+    "address": "Kairaba Beach Hotel, Banjul, Gambia",
+    "phone": "+2205100022"
+  },
+  {
+    "name": "Bijilo",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Yundum",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sunprime Tamala Beach",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207926509"
+  },
+  {
+    "name": "Gandah Surf School",
+    "address": "Costal Highway, Serrekunda, Gambia",
+    "phone": "+2204466500"
+  },
+  {
+    "name": "(Head Office)",
+    "address": "Denton Bridge Banjul, Gambia, West Africa, Banjul Serrekunda Hwy, Gambia",
+    "phone": "+31610245948"
+  },
+  { "name": "Lamin", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "The Natural Remedy Studio",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209988748"
+  },
+  {
+    "name": "Bamboo Garden Hotel",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kololi Beach Resort",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2207606337"
+  },
+  {
+    "name": "Kombo Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202000300"
+  },
+  {
+    "name": "Mango Indian Global Kitchen, Bar and Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Gunjur",
+    "address": "Serrekunda, Gambia",
+    "phone": "+22037841553611704"
+  },
+  {
+    "name": "Holiday Beach Club",
+    "address": "Senegambia Beach Hotel, Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203989171"
+  },
+  {
+    "name": "Big Apple Executive Lounge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207952874"
+  },
+  {
+    "name": "Banjul Roman Catholic Cathedral",
+    "address": "Senegambia, Serrekunda, Serrekunda, Gambia",
+    "phone": "+2207792858"
+  },
+  {
+    "name": "Gambia Guide",
+    "address": "Senegambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207167697"
+  },
+  {
+    "name": "Barra",
+    "address": "Denton Bridge Banjul, Bakau, Gambia",
+    "phone": "+2202204083"
+  },
+  {
+    "name": "NOMM Company Ltd.",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Seafront Residences & Hotel",
+    "address": "Lams tours BB Craft-marked Kotu, Gambia",
+    "phone": "+2209906757"
+  },
+  {
+    "name": "Bakers' Pantry Gambia",
+    "address": "Lemon Creek Hotel, Serrekunda, Gambia",
+    "phone": "+2207919175"
+  },
+  {
+    "name": "Stylux construction and interior design company",
+    "address": "Barra, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Djeliba Resort",
+    "address": "Senegambia Strip Kololi, Serrekunda, Gambia",
+    "phone": "+2209840753"
+  },
+  {
+    "name": "Sandele Eco Retreat",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2209912891"
+  },
+  {
+    "name": "Tendaba",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Parc national de Basse Casamance",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  {
+    "name": "Fathala Wildlife Reserve - Safari Senegal Accommodation",
+    "address": "Banjul, Gambia",
+    "phone": "+2204373080"
+  },
+  {
+    "name": "Protected area In Fadiouth",
+    "address": "Stream, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kasumai Beach Resort",
+    "address": "Sanyang Beach Sanyang, How Ba, Gambia",
+    "phone": "+2209350032"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "Costal Highway, Serrekunda, Gambia",
+    "phone": "+2204466500"
+  },
+  {
+    "name": "Footsteps Eco Lodge, The Gambia",
+    "address": "Bakau New Town, 98 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204495034"
+  },
+  {
+    "name": "Woodpecker Resort",
+    "address": "Old Yundum, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "Brikama Hwy, Banjulunding, Gambia",
+    "phone": "+2203338880"
+  },
+  {
+    "name": "African Village Hotel",
+    "address": "Off Coastal Highway, Gunjur, Gambia",
+    "phone": "+447305651551"
+  },
+  {
+    "name": "Harmony Resort Boutique Hotel",
+    "address": "Kartong village, Kartong, Gambia",
+    "phone": "+2203902990"
+  },
+  {
+    "name": "Kinkilibar",
+    "address": "52 Brufut Heights, Brufut, Gambia",
+    "phone": "+2207355148"
+  },
+  {
+    "name": "Hibiscus House",
+    "address": "Tabokoto 8, Sanyang, Gambia",
+    "phone": "+420777711884"
+  },
+  {
+    "name": "Jungle Beach Resort",
+    "address": "Kombo Coastal Rd, Gunjur, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Nemasu Ecolodge",
+    "address": "Kerr Serign, Gambia",
+    "phone": "+2207171621"
+  },
+  {
+    "name": "2 Coconut Lodge",
+    "address": "Tujereng, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Lemon Creek Hotel",
+    "address": "Serrere Mosque Junction, Tanji Village, Gambia",
+    "phone": "+2202369014"
+  },
+  {
+    "name": "Swiss Boutique Hotel",
+    "address": "Sanyang, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sandele Eco Retreat",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209832604"
+  },
+  {
+    "name": "Tranquil Hotel Resort",
+    "address": "Coastal Rd, Batukunku, Gambia",
+    "phone": "+2203200465"
+  },
+  {
+    "name": "The Gunjur Project Lodge",
+    "address": "How Ba Rd, Sanyang, Gambia",
+    "phone": "+4915208348876"
+  },
+  {
+    "name": "Baobab Holiday Resort",
+    "address": "00, Madina Salaam, Western Division, Gambia",
+    "phone": "+2209919012"
+  },
+  {
+    "name": "Tranquil Hotel Resort",
+    "address": "15-17 Kaira Avenue , Brufut Gardens Estate, The Gambia, Brufut, Gambia",
+    "phone": "+2203861800"
+  },
+  {
+    "name": "The Mansea Beach Hotel",
+    "address": "Darsilami, Gambia",
+    "phone": "+31655112176"
+  },
+  {
+    "name": "Dalaba Eco-Lodge Gambia",
+    "address": "Tree C`s Junction, Medina Salam, Gunjur, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Wavecrest Hotel Gambia- Apartments",
+    "address": "Brufut, Gambia",
+    "phone": "+46702792425"
+  },
+  {
+    "name": "Camping Sukuta Lodge",
+    "address": "Unnamed Road, Brufut, Gambia",
+    "phone": "+2207440814"
+  },
+  {
+    "name": "2 Coconut Lodge",
+    "address": "Brufut, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bosofet Beach and Creek Lodge",
+    "address": "Sukuta Sabiji. Tanji Road. Behind Castle/Speed Petrol Station before Brusubi Police Station, Bijilo, Banjul Bijilo, Gambia",
+    "phone": "+46705475676"
+  },
+  {
+    "name": "REAL OWL GUEST HOUSE",
+    "address": "Brufut, Gambia",
+    "phone": "+2206336336"
+  },
+  {
+    "name": "Casacarla",
+    "address": "Kombo Coastal Rd, Gunjur, Gambia",
+    "phone": "+2202288274"
+  },
+  {
+    "name": "Suleima Lodge",
+    "address": "Ann St, Serrekunda, Gambia",
+    "phone": "+442080899601"
+  },
+  {
+    "name": "The Rink Self Catering Apartments",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202547385"
+  },
+  {
+    "name": "River By the Sea",
+    "address": "Haw, How Ba Rd, Sanyang, Gambia",
+    "phone": "+2202188382"
+  },
+  {
+    "name": "Camara Gardens Apartments Brufut",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207207595"
+  },
+  {
+    "name": "Sanchaba Yellow Apèartments",
+    "address": "Solifor Layout, Tanji, Gambia",
+    "phone": "+2207178711"
+  },
+  {
+    "name": "Unspoiled South Gambia Paradise",
+    "address": "Paradise Beach - Sanyang Village (Kombo South Gambia), Sanyang, Gambia",
+    "phone": "+2202047913"
+  },
+  {
+    "name": "Afro Garden Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207176226"
+  },
+  {
+    "name": "Mandina River Lodge",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2207288221"
+  },
+  {
+    "name": "Mango Village",
+    "address": "Bafuloto Village Kombo Central, Brikama, 11100, Gambia",
+    "phone": "+2206185626"
+  },
+  {
+    "name": "Champions Lodge Brusubi Gambia",
+    "address": "Coastal Rd, Tanji, Gambia",
+    "phone": "+2205124422"
+  },
+  {
+    "name": "Residence 21",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204461858"
+  },
+  {
+    "name": "HOTEL SINKILING GAMBIA",
+    "address": "52 A U Highway, Brufut Highway, west coast region, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Mandinari River Lodge",
+    "address": "Coastal Road, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kingfisher's Lodge",
+    "address": "Fajara, Bakau New Town, 10 Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2204495605"
+  },
+  {
+    "name": "Wunderland Lodge",
+    "address": "How Ba, Gambia",
+    "phone": null
+  },
+  {
+    "name": "LABRANDA Coral Beach Resort",
+    "address": "Kartong, Gambia",
+    "phone": "+2207095705"
+  },
+  {
+    "name": "The White Horse Boutique Hotel",
+    "address": "Hygate Rd, Brufut, Gambia",
+    "phone": "+447500444474"
+  },
+  {
+    "name": "Leo's Beach Hotel & Restaurant",
+    "address": "The Folly Plantation Gambia Boutique Hotel Madiana Highway, Brufut, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Boboi Beach Lodge",
+    "address": "Samba Breku Road, Bakau, Banjul, Gambia",
+    "phone": "+2204495428"
+  },
+  {
+    "name": "Ocean Villa Heights Boutique Hotel",
+    "address": "KOMBO COASTAL ROAD, BIJILO, Serrekunda, Gambia",
+    "phone": "+2204465111"
+  },
+  {
+    "name": "Football Hotel",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Arijana - just heavenly - Resort",
+    "address": "Suleima Lane, Batukunku, Gambia",
+    "phone": "+2203905079"
+  },
+  {
+    "name": "Boboi Beach Lodge",
+    "address": "Paradise Beach Sanyang Village, Sanyang, Gambia",
+    "phone": "+2202398101"
+  },
+  {
+    "name": "Sita Joyeh - Baobab Island",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": "+2207527218"
+  },
+  {
+    "name": "Blue Ocean Apartments (Brufut)",
+    "address": "Kuloro, Gambia",
+    "phone": "+2203465987"
+  },
+  {
+    "name": "Bojang Kaira Kunda Resort",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  {
+    "name": "GRAND VILLA GUEST HOUSE",
+    "address": "New Yundum, West Coast Region, Kombo North, The Gambia, Yundum, Gambia",
+    "phone": "+2203733655"
+  },
+  {
+    "name": "Santana Beach Bar Restaurant and Lodge",
+    "address": "Kartong, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Suleima Lodge",
+    "address": "Old Yundum, West Coast Region Old-Yundum, Brikama, Gambia",
+    "phone": "+2207941307"
+  },
+  {
+    "name": "Bees Mouth Gambia",
+    "address": "Sanyang Kunda, Sanyang, Gambia",
+    "phone": "+2207090639"
+  },
+  {
+    "name": "Kairoh Garden",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2203972583"
+  },
+  {
+    "name": "Golden Beach Hotel",
+    "address": "51 Brufut Heights, Brufut, Gambia",
+    "phone": "+2202487430"
+  },
+  {
+    "name": "The Folly Plantation Gambia Boutique Hotel. Book direct",
+    "address": "46, Brufut Heights, Unnamed Road, Brufut, Gambia",
+    "phone": "+2207212830"
+  },
+  {
+    "name": "Fajara Hotel",
+    "address": "Coastal Rd, Batukunku, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Halahin Lodge",
+    "address": "Marakissa, Gambia",
+    "phone": "+2203774337"
+  },
+  {
+    "name": "Rainbow Beach Bar And Lodge",
+    "address": "Bijilo, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Coconut Residence",
+    "address": "Kerr-Serign Vismarkt, Kololi, Gambia",
+    "phone": "+32476428458"
+  },
+  {
+    "name": "Damel Luxury Villa",
+    "address": "Mandinari River Lodge Mandinari Village Kombo North, Serrekunda, Gambia",
+    "phone": "+447886393600"
+  },
+  {
+    "name": "BAY INN HOTEL,",
+    "address": "Kubuneh, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Futatorolodge",
+    "address": "00000, Brufut, Gambia",
+    "phone": "+15555555"
+  },
+  {
+    "name": "Bijilo Inn",
+    "address": "African Road, Barry Road Nos 1 To 6, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Oasis Relax Lodge",
+    "address": "Kubuneh, Gambia",
+    "phone": "+2204463867"
+  },
+  {
+    "name": "Mama Africa Art Residence",
+    "address": "C79F+M8P Bijilo, Serrekunda, Gambia",
+    "phone": "+2205293370"
+  },
+  {
+    "name": "Kajamor Tours & Lodge",
+    "address": "Kombo Coastal Rd, Kartong, Gambia",
+    "phone": "+31647366151"
+  },
+  {
+    "name": "Shelley's",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2209917823"
+  },
+  {
+    "name": "House Of The Rising Sun",
+    "address": "Sanyang, Gambia",
+    "phone": "+2207720380"
+  },
+  {
+    "name": "Eco Lodge Resort Haw Ba Sanyang Beach",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2207857972"
+  },
+  {
+    "name": "Kunta Lodges Bijilo",
+    "address": "Batokuku Lane, Batukunku, Gambia",
+    "phone": "+2203905079"
+  },
+  {
+    "name": "Flowerlodge",
+    "address": "Rue de Smet, Bijilo, Sukuta, 10000, Gambia",
+    "phone": "+2207700057"
+  },
+  {
+    "name": "Tree C's Eco Resort & Beach Club",
+    "address": "Coastal Rd, Batukunku, Gambia",
+    "phone": "+2203395196"
+  },
+  {
+    "name": "Timberland lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209917786"
+  },
+  {
+    "name": "Dabo House",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466979"
+  },
+  {
+    "name": "Heather‘s Retreat Gambia",
+    "address": "Off Bretil Harding Highway, Serrekunda, Gambia",
+    "phone": "+2204461177"
+  },
+  {
+    "name": "Villa Calliandra",
+    "address": "Brusubi, Gambia",
+    "phone": "+2205291059"
+  },
+  {
+    "name": "Balaba Nature Camp",
+    "address": "13.32665, -16.79355, Butukunku, Tujereng, Gambia",
+    "phone": "13326651679355"
+  },
+  {
+    "name": "Brufut Gardens Villas & Apartments",
+    "address": "13.32665, -16.79355, Butukunku, Tujereng, Gambia",
+    "phone": "13326651679355"
+  },
+  {
+    "name": "Mandinka Lodges",
+    "address": "Kombo Coastal Road Highway, Bijilo, Serrekunda, Gambia",
+    "phone": "+2207310073"
+  },
+  {
+    "name": "Kobokoto lodge",
+    "address": "Brusubi, Gambia",
+    "phone": "+2205291059"
+  },
+  {
+    "name": "Picca Laa Eco Lodge",
+    "address": "Gunjar Madina, Gambia",
+    "phone": "+2207711209"
+  },
+  {
+    "name": "Villa Amarant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202022121"
+  },
+  {
+    "name": "Papaya Residence",
+    "address": "Gunjur, Gunjur, Gunjur, Gambia",
+    "phone": "+2203145757"
+  },
+  {
+    "name": "La Parisienne Restaurant",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Jojo'S Restaurant",
+    "address": "Brikama Hwy, Busumbala, Gambia",
+    "phone": null
+  },
+  {
+    "name": "RESTAURANT NDEYE DIOP",
+    "address": "Brikama, Gambia",
+    "phone": "+2202532783"
+  },
+  {
+    "name": "Fatou's",
+    "address": "Brikama, Gambia",
+    "phone": "+2202022640"
+  },
+  {
+    "name": "Happy Corner Restaurant Yundum",
+    "address": "Yundum, Gambia",
+    "phone": "+2207709636"
+  },
+  {
+    "name": "Happy Corner Restaurant",
+    "address": "Brikama, Gambia",
+    "phone": "+34632525289"
+  },
+  {
+    "name": "Woodpecker Bar and Restaurant",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Happy Corner",
+    "address": "Brikama Hwy, Banjulunding, Gambia",
+    "phone": "+2209908781"
+  },
+  {
+    "name": "Moonlight Fast-food Restaurant",
+    "address": "How Ba, Gambia",
+    "phone": "+2203401473"
+  },
+  {
+    "name": "Texas clothing and restaurant",
+    "address": "Younus junction, Busumbala, Gambia",
+    "phone": null
+  },
+  {
+    "name": "BAR RESTAURANTE BIRD GARDEN",
+    "address": "Coastal highway, Old Yundum, Gambia",
+    "phone": "+447438477885"
+  },
+  {
+    "name": "Caravan Beach Disco & Pub",
+    "address": "Sanchaba, Serrekunda, Gambia",
+    "phone": "+2203166789"
+  },
+  {
+    "name": "Famagi Music Beach Bar and Restaurant",
+    "address": "Unnamed Road, Janjanbureh, Gambia",
+    "phone": "+2207348896"
+  },
+  {
+    "name": "Osay's Bar and Grill",
+    "address": "Old Yundum, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Local restaurant taxi stand",
+    "address": "Tujereng, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Abass sillah",
+    "address": "51 Brufut Heights, Brufut, Gambia",
+    "phone": "+2202487430"
+  },
+  {
+    "name": "Sony's Palace Bar & Restaurant",
+    "address": "School Road, Sanyang, Gambia",
+    "phone": "+2203423368"
+  },
+  {
+    "name": "Afra City Dibiterie & Restaurant",
+    "address": "Babas street Baks Barrow house, Brufut, Gambia",
+    "phone": "+2207484642"
+  },
+  {
+    "name": "Twins bar and restaurant",
+    "address": "Tujereng, Gambia",
+    "phone": "+2207263141"
+  },
+  {
+    "name": "Faas restaurant",
+    "address": "Old Yundum, West Coast Region Old-Yundum, Brikama, Gambia",
+    "phone": "+2207941307"
+  },
+  {
+    "name": "Yundum",
+    "address": "No 111 Kombo Sillah Drv, Brikama Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Nyameh Restaurant",
+    "address": "S Bank Rd, Yundum, Gambia",
+    "phone": "+2202575190"
+  },
+  {
+    "name": "Brikama Drugs Store",
+    "address": "Paradise Beach Sanyang Village, Sanyang, Gambia",
+    "phone": "+2202398101"
+  },
+  {
+    "name": "Pizza House Restaurant",
+    "address": "Coastal Rd, Tujereng, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bob's Beach Bar",
+    "address": "Coastal Rd, Tanji, Gambia",
+    "phone": "+2205124422"
+  },
+  {
+    "name": "Alibaba Restaurant brusubi",
+    "address": "Brikama Hwy, Banjulunding, Gambia",
+    "phone": "+2203338880"
+  },
+  {
+    "name": "Lisa's Restaurant",
+    "address": "How Ba Rd, How Ba, Gambia",
+    "phone": "+2202211772"
+  },
+  {
+    "name": "GAM-JAM",
+    "address": "Yundum, Gambia",
+    "phone": "+2209802919"
+  },
+  {
+    "name": "La Parisienne Restaurant",
+    "address": "How Ba, Gambia",
+    "phone": "+2203194761"
+  },
+  {
+    "name": "Paradise Place",
+    "address": "Yundum, Gambia",
+    "phone": "+2207102102"
+  },
+  {
+    "name": "Scala Restaurant",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2207827957"
+  },
+  {
+    "name": "Chosaan",
+    "address": "The Gambia, Sanyang Fishing Village Rd, Gambia",
+    "phone": "+2207390806"
+  },
+  {
+    "name": "Zion Restaurant",
+    "address": "Kubuneh, Gambia",
+    "phone": "+2204463867"
+  },
+  {
+    "name": "Rainbow Beach Bar And Lodge",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  {
+    "name": "Terubi beach bar and restaurant",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207724788"
+  },
+  {
+    "name": "Linkz Enterprise",
+    "address": "Batokunku Beach, Tujereng, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kaira restaurant and catering",
+    "address": "Airport Road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "BatuKunku Camp beach bar and restaurant",
+    "address": "Sanyang junction ba, Sanyang, Gambia",
+    "phone": "+2203700609"
+  },
+  {
+    "name": "PARADISE INN & RESORT",
+    "address": "Brikama, Gambia",
+    "phone": "+2204381925"
+  },
+  {
+    "name": "Brikama",
+    "address": "Brikama Hwy, Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The new wild monkey",
+    "address": "S Bank Rd, Brikama Ba, Gambia",
+    "phone": "+2203253626"
+  },
+  {
+    "name": "Suu Beray Culture Point",
+    "address": "Kembujae, Gambia",
+    "phone": null
+  },
+  {
+    "name": "King Of Shawarma",
+    "address": "Unnamed Road, Brikama, Gambia",
+    "phone": "+2205264127"
+  },
+  {
+    "name": "Sally's 24 Hours",
+    "address": "Sifoe, Gambia",
+    "phone": "+2203156728"
+  },
+  {
+    "name": "Al-Rawshe Restaurant",
+    "address": "Sanchaba Container Junction Kombo Lamin, Lamin, Gambia",
+    "phone": "+2203135738"
+  },
+  {
+    "name": "New Baileys Beach Bar",
+    "address": "Batukunku, Gambia",
+    "phone": "+491629456105"
+  },
+  {
+    "name": "Leo's Beach Hotel & Restaurant",
+    "address": "Batokunku Beach, Batukunku, Gambia",
+    "phone": "+2207791039"
+  },
+  {
+    "name": "Kinkilibar",
+    "address": "Nyambai highway Near Sally's restaurant Brikama, Brikama, Gambia",
+    "phone": "+2207006600"
+  },
+  {
+    "name": "Tapha saidy shop",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama",
+    "address": "Sanyang Beach Sanyang, How Ba, Gambia",
+    "phone": "+2209350032"
+  },
+  {
+    "name": "Brikama drug store",
+    "address": "Brikama marketing Brikama, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Doudou's Riverside Bar & Restaurant",
+    "address": "5 Banjul-Serrekunda Hwy, Bakau, Gambia",
+    "phone": "+2207645436"
+  },
+  {
+    "name": "Mari's Bar & Restaurants",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Siboe's restaurant",
+    "address": "46, Brufut Heights, Unnamed Road, Brufut, Gambia",
+    "phone": "+2207212830"
+  },
+  {
+    "name": "Fansue's Beach Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207722821"
+  },
+  {
+    "name": "Coconut Beach Bar And Restaurant",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama Hotel",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "DADIMA SHOP MAIN BRANCH",
+    "address": "Batokunku Beach, Batukunku, Gambia",
+    "phone": "+2207338735"
+  },
+  {
+    "name": "FB Happiness Fast Food and Restaurant",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": "+2207297105"
+  },
+  {
+    "name": "Santana Beach Bar Restaurant and Lodge",
+    "address": "Sanyang paradise_inn_resort1, Sanyang, Gambia",
+    "phone": "+447424347580"
+  },
+  {
+    "name": "Atlas Brikama Junction",
+    "address": "Brikama, Gambia",
+    "phone": "+2203012589"
+  },
+  {
+    "name": "Fabulous restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209300319"
+  },
+  {
+    "name": "Sony's Palace Bar & Restaurant",
+    "address": "Old Yundum, Gambia",
+    "phone": "+2205100652"
+  },
+  {
+    "name": "Mandina River Lodge",
+    "address": "How Ba, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Batu Kunku Paradise",
+    "address": "Batukunku, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Salim's Cafe",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207660676"
+  },
+  {
+    "name": "Bambo Juice Bar",
+    "address": "Costal Road Highway, Old-Yundum, Gambia",
+    "phone": "+2205100652"
+  },
+  {
+    "name": "BAR RESTAURANT & GUEST HOUSE - THAMANGED HOTEL",
+    "address": "Batokunku Beach, Tujereng, Gambia",
+    "phone": "+2202372004"
+  },
+  {
+    "name": "Lamin Lodge",
+    "address": "Old Yundum, Gambia",
+    "phone": "+2205380067"
+  },
+  {
+    "name": "Fountain Bar",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207734057"
+  },
+  {
+    "name": "BAY INN HOTEL,",
+    "address": "Coastal Rd, Brusubi, Gambia",
+    "phone": "+2207171711"
+  },
+  {
+    "name": "Kachadulaa Garden",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2209900091"
+  },
+  {
+    "name": "Brikama",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207733969"
+  },
+  {
+    "name": "LABRANDA Coral Beach Resort",
+    "address": "Sally's restaurant, Nyambai highway Next shop to, Brikama, Gambia",
+    "phone": "+2207778086"
+  },
+  {
+    "name": "Otta General Motors",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202746653"
+  },
+  {
+    "name": "Woodpecker Resort",
+    "address": "Latri Ya, Gambia",
+    "phone": "+2207792668"
+  },
+  {
+    "name": "Dream Nest",
+    "address": "Keninding Saibali, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Football Hotel",
+    "address": "Yundum, Gambia",
+    "phone": "+2202302116"
+  },
+  {
+    "name": "Beachbar FantaTing Ting Tujereng",
+    "address": "Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Darboejula",
+    "address": "Sukuta, Gambia",
+    "phone": "+2207900462"
+  },
+  {
+    "name": "Sanchaba Market",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": "+2207682545"
+  },
+  {
+    "name": "Muslim Cafe",
+    "address": "Sanyang, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ousman J. Sanyang",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ocean Villa Heights Boutique Hotel",
+    "address": "Batukunku, Gambia",
+    "phone": "+2202412288"
+  },
+  {
+    "name": "Mall of Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202320304"
+  },
+  {
+    "name": "Kairaba Shopping Centre",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "The Village Shopping and Dining Centre",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202195956"
+  },
+  {
+    "name": "Tropic Shopping Centre",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "RASLAN DISCOUNT CENTER",
+    "address": "Sayerr Jobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "my supermarket",
+    "address": "15, 17 Kaira Avenue, Brufut, Gambia",
+    "phone": "+2203861800"
+  },
+  {
+    "name": "Madiba Mall",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900335"
+  },
+  {
+    "name": "GuineeGalaise SUARL",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202222240"
+  },
+  {
+    "name": "Garden Centre",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207955666"
+  },
+  {
+    "name": "Westfield Plaza",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2209906600"
+  },
+  {
+    "name": "Alhagie Kebba Conteh Plaza",
+    "address": "Tropic Shopping Center, Senegambian, Gambia",
+    "phone": "+2207211110"
+  },
+  {
+    "name": "first choice garden center",
+    "address": "49 Kairaba Avenue, KMC, Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204399471"
+  },
+  {
+    "name": "Sillah shop",
+    "address": "BESIDE KAIRABA SHOPPING CENTER, 40 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207470376"
+  },
+  {
+    "name": "Brikama Craft Market",
+    "address": "32 Fillan St, Serrekunda, Gambia",
+    "phone": "+2207744255"
+  },
+  {
+    "name": "Ala cosmetics plaza",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207122989"
+  },
+  {
+    "name": "youth center",
+    "address": "Banjul-Serrekunda Hwy, Serrekunda, Gambia",
+    "phone": "+2203152098"
+  },
+  {
+    "name": "AMJ Business Center",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Rayan Farms Garden Shop",
+    "address": "Tropic Shopping Center, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2203385410"
+  },
+  {
+    "name": "Baby Center",
+    "address": "Bakau Community Center, Bakau, Gambia",
+    "phone": "+2203079898"
+  },
+  {
+    "name": "LENA BUSINESS CENTER",
+    "address": "Duplex Entertainment centre, Serrekunda, Gambia",
+    "phone": "+2207870810"
+  },
+  {
+    "name": "1001 Business Center Gambia",
+    "address": "MBA Kairaba Stationery, Kairaba Avenue Next to, Gambia",
+    "phone": "+2202293266"
+  },
+  {
+    "name": "Binta en Peter",
+    "address": "16 Mamadi Manjang Highway, Old Jeshwang, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "W/Alkitan",
+    "address": "Shop 15, Mall of Gambia, Bakoteh, Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": "+2207489766"
+  },
+  {
+    "name": "Famous Boutique",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kairaba Super Market",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207256085"
+  },
+  {
+    "name": "OneUp Plaza",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202666626"
+  },
+  {
+    "name": "Brikama",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "ONE PLUS ONE - HOME CENTER",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Babs",
+    "address": "GramQuill,, Coastal Rd, Brufut, Gambia",
+    "phone": "+2207940529"
+  },
+  {
+    "name": "Tunbung Art Village and Cultural Centre",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2207940525"
+  },
+  {
+    "name": "Serekunda Market",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Minka Center",
+    "address": "Kairaba Avenue, Comium Building, Serrekunda, Gambia",
+    "phone": "+2207962789"
+  },
+  {
+    "name": "MK SPORT SHOP NO.22 TUNKARA PLAZA",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202204444"
+  },
+  {
+    "name": "LG Electronics (Showroom & Service Center)",
+    "address": "Fatou Golden Plaza, Bertil Harding Highway Opposite Election House, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Jarboh kunda 1",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Discount Center",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Happy Mini Market",
+    "address": "Banjul Sereknda Hwy, Serrekunda, Gambia",
+    "phone": "+2207966126"
+  },
+  {
+    "name": "Jaiya World Express",
+    "address": "118, Fajara, Booser, Gambia",
+    "phone": "+2207781222"
+  },
+  {
+    "name": "hydara plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama",
+    "address": "Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo Plaza",
+    "address": "Petroleum House, Zak Plaza Brusubi Turntable ( Adjacent, Gambia",
+    "phone": "+2207442445"
+  },
+  {
+    "name": "Bakau craft market",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Elegance Magazine",
+    "address": "12 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204375900"
+  },
+  {
+    "name": "Baby centre",
+    "address": "TUNKARA PLAZA, NO. 22, Serrekunda, Gambia",
+    "phone": "+2207274141"
+  },
+  {
+    "name": "Beauty Stop",
+    "address": "Sait Matty Road, Bakau, Gambia",
+    "phone": "+2209100400"
+  },
+  {
+    "name": "RightChoice Supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Russell Hobbs Discount Center",
+    "address": "Tujereng, Gambia",
+    "phone": "+2209982102"
+  },
+  {
+    "name": "RightChoice Supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "TechnoFarm",
+    "address": "Brikama, Gambia",
+    "phone": "+2203012589"
+  },
+  {
+    "name": "Health center, Serrekunda",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ice Land",
+    "address": "42 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "Fajikunda health center",
+    "address": "New Road, Tropic Shopping Center Kololi, Gambia",
+    "phone": "+2202446189"
+  },
+  {
+    "name": "Peace Of Mind Yoga Studio",
+    "address": "Becca Plaza, Banjul, Gambia",
+    "phone": "+2207944050"
+  },
+  {
+    "name": "KangaROOS Enterprises",
+    "address": "Kanifing Industrial Estate, Serrekunda, Gambia",
+    "phone": "+2205358220"
+  },
+  {
+    "name": "Kunkujang",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207788222"
+  },
+  {
+    "name": "Rebel Gaming Gambia",
+    "address": "Garba Jahumpa RD Bakau NewTown, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Gambia Horticultural Enterprises",
+    "address": "Kololi Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tanji Fishing Center",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202528340"
+  },
+  {
+    "name": "Final Touch Massage and Beauty Center",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ndigal Mobile Repairing",
+    "address": "Anne Marie Javouhay, Street, Gambia",
+    "phone": "+2202711290"
+  },
+  {
+    "name": "Bakau Community Youth Bakery Association",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900760"
+  },
+  {
+    "name": "LABMEDENT Co Ltd",
+    "address": "Kombo Sillah Dr, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Innovarx Global Health (IGH Community Pharmacy)",
+    "address": "Brikama, Gambia",
+    "phone": "+2209985793"
+  },
+  {
+    "name": "Talk Hot Media",
+    "address": "Brikama marketing Brikama, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "K. APEX SERVICES",
+    "address": "Via tc 1, Brikama, Gambia",
+    "phone": "+2203132923"
+  },
+  {
+    "name": "SuperDrive",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Mall at Millenia",
+    "address": "16 kairaba ave gambia west afficra, 16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Zenith Bank",
+    "address": "4, Portuguese Town, 5 Liberation Ave, Banjul, Gambia",
+    "phone": "+2202176837"
+  },
+  {
+    "name": "Southwest Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Cherry Creek Shopping Center",
+    "address": "Senegambia Beach Hotel, Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203989171"
+  },
+  {
+    "name": "CHEZ OURY SASSÉ",
+    "address": "Round about, Brufut, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama Craft Market",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo National Park",
+    "address": "Coastal Rd, Tanji, Gambia",
+    "phone": "+2209926618"
+  },
+  {
+    "name": "Bakau craft market",
+    "address": "Bafuloto, Gambia",
+    "phone": "+2204483335"
+  },
+  {
+    "name": "Kachikally Crocodile Pool",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Senegambia Craft Market",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Makasutu",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tanje Village Museum",
+    "address": "Brikama marketing Brikama, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Monkey Park",
+    "address": "Brikama Hwy, Lamin, Gambia",
+    "phone": "+2207248035"
+  },
+  {
+    "name": "National Museum of the Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207919937"
+  },
+  {
+    "name": "Matano Guest House",
+    "address": "7C5599FF+G3 Lamin Daranka Highway Lamin, Kerewan, Gambia",
+    "phone": "+2207839714"
+  },
+  {
+    "name": "Kotu",
+    "address": "Senegambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207167697"
+  },
+  {
+    "name": "Barra",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2209912891"
+  },
+  {
+    "name": "Fathala",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207952874"
+  },
+  { "name": "Tanji", "address": "Brikama, Gambia", "phone": null },
+  {
+    "name": "Banjul",
+    "address": "Denton Bridge Banjul, Bakau, Gambia",
+    "phone": "+2202204083"
+  },
+  {
+    "name": "Jufureh",
+    "address": "Lemon Creek Hotel, Serrekunda, Gambia",
+    "phone": "+2207919175"
+  },
+  { "name": "Tendaba", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "Fathala Wildlife Reserve - Safari Senegal Accommodation",
+    "address": "Mbalit Street, Brikama, Gambia",
+    "phone": "+2202080682"
+  },
+  {
+    "name": "Janjanbureh",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Abéné",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209947255"
+  },
+  {
+    "name": "Palmarin",
+    "address": "Brikama, Gambia",
+    "phone": "+2203012589"
+  },
+  { "name": "Missirah", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "Ziguinchor Region",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209947255"
+  },
+  {
+    "name": "Ziguinchor",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  { "name": "Diembéreng", "address": "Barra, Gambia", "phone": null },
+  {
+    "name": "Joal Fadiout",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  {
+    "name": "Sao Domingos",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kaolack",
+    "address": "Banjul, Gambia",
+    "phone": "+2204373080"
+  },
+  {
+    "name": "Ocean Bay Hotel & Spa",
+    "address": "Bakau, Gambia",
+    "phone": "+2207910001"
+  },
+  {
+    "name": "African Village Hotel",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2209902408"
+  },
+  {
+    "name": "Sunbeach Hotel & Resort",
+    "address": "Bakau New Town, 98 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204495034"
+  },
+  {
+    "name": "Cape Point Hotel",
+    "address": "Cape Point, Bakau, Gambia",
+    "phone": "+2204497190"
+  },
+  {
+    "name": "One World Village Guesthouse",
+    "address": "10 Kofi Annan Street, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tropic Garden Hotel",
+    "address": "F8C9+X8J New Town, Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Atlantic Luxury Apartments",
+    "address": "Kofi annan street, Bakau, Gambia",
+    "phone": "+2207559978"
+  },
+  {
+    "name": "Sunprime Tamala Beach",
+    "address": "Kofi Annan Street, Bakau, Gambia",
+    "phone": "+2204495005"
+  },
+  {
+    "name": "Leybato Beach Hotel",
+    "address": "Bakau, Gambia",
+    "phone": "+2204494265"
+  },
+  {
+    "name": "Coco Ocean Resort & Spa Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "African Princess Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203700701"
+  },
+  {
+    "name": "Kombo Beach Hotel",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+923134560786"
+  },
+  {
+    "name": "Bakotu",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202547385"
+  },
+  {
+    "name": "Kalimba Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2203767600"
+  },
+  {
+    "name": "Bungalow Beach hotel",
+    "address": "Kubuneh, Gambia",
+    "phone": "+2204463867"
+  },
+  {
+    "name": "Kairaba Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207732400"
+  },
+  {
+    "name": "The Flame Tree",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207242953"
+  },
+  {
+    "name": "Palm Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "BLUE RESIDENCE",
+    "address": "KOMBO COASTAL ROAD, BIJILO, Serrekunda, Gambia",
+    "phone": "+2204465111"
+  },
+  {
+    "name": "Palm Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204461858"
+  },
+  {
+    "name": "The Flame Tree",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460418"
+  },
+  {
+    "name": "Seafront Residences & Hotel",
+    "address": "F893+VGW South Atlantic, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sarawally Guesthouse",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Badala Park Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466264"
+  },
+  {
+    "name": "The Mansea Beach Hotel",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2204382736"
+  },
+  {
+    "name": "Wavecrest Hotel Gambia- Apartments",
+    "address": "34 Atlantic Blvd, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Palma Rima Junction",
+    "address": "16 Samba Breco Road, Bakau, Gambia",
+    "phone": "+2209217752"
+  },
+  {
+    "name": "Lemon Creek Hotel",
+    "address": "46, Brufut Heights, Unnamed Road, Brufut, Gambia",
+    "phone": "+2207212830"
+  },
+  {
+    "name": "RoofTop",
+    "address": "Tropic Garden Hotel, Bakau road Bakau, Bakau, Gambia",
+    "phone": "+2205168365"
+  },
+  {
+    "name": "Kotu Island Lodge.",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Seaview Hotel",
+    "address": "Mandinari River Lodge Mandinari Village Kombo North, Serrekunda, Gambia",
+    "phone": "+447886393600"
+  },
+  {
+    "name": "Baobab Holiday Resort",
+    "address": "Old Cape Rd, Bakau, Gambia",
+    "phone": "+2202273619"
+  },
+  {
+    "name": "Harmony Resort Boutique Hotel",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Swiss Boutique Hotel",
+    "address": "West Africa, 1 Mamakoto Road Banjul, Bakau, Gambia",
+    "phone": "+2207793506"
+  },
+  {
+    "name": "Fajara All Inclusive Resort",
+    "address": "28 Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+2203885085"
+  },
+  {
+    "name": "The Rink Self Catering Apartments",
+    "address": "Point Zone, Kololi, Serrekunda, Gambia",
+    "phone": "+2204464734"
+  },
+  {
+    "name": "Riyan Apartments",
+    "address": "Coastal Rd, Brufut, Gambia",
+    "phone": "+2207857972"
+  },
+  {
+    "name": "Hibiscus House",
+    "address": "F75R+J3M Kunta Kinteh Beach Complex, Kololi, Serrekunda, Gambia",
+    "phone": "+2205153680"
+  },
+  {
+    "name": "roc Heights lodge",
+    "address": "00000, Brufut, Gambia",
+    "phone": "+15555555"
+  },
+  {
+    "name": "Sarges Hotel",
+    "address": "Coastal Rd, Batukunku, Gambia",
+    "phone": "+2203395196"
+  },
+  {
+    "name": "Tranquil Hotel Resort",
+    "address": "Fajara, Bakau New Town, 10 Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2204495605"
+  },
+  {
+    "name": "Sanchaba Yellow Apèartments",
+    "address": "13.32665, -16.79355, Butukunku, Tujereng, Gambia",
+    "phone": "13326651679355"
+  },
+  {
+    "name": "Calabash Residence",
+    "address": "Bijilo, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "Kerr-Serign Vismarkt, Kololi, Gambia",
+    "phone": "+32476428458"
+  },
+  {
+    "name": "Casacarla",
+    "address": "African Road, Barry Road Nos 1 To 6, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Camping Sukuta Lodge",
+    "address": "Old Yundum, Gambia",
+    "phone": "+2202423471"
+  },
+  {
+    "name": "Bojang River Lodge",
+    "address": "Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2202673642"
+  },
+  {
+    "name": "Alsaraya Hotel",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Afro Garden Hotel",
+    "address": "Brikama Hwy, Banjulunding, Gambia",
+    "phone": "+2203338880"
+  },
+  {
+    "name": "Cape Residence",
+    "address": "Marina Parade, Banjul, Gambia",
+    "phone": "+2202909090"
+  },
+  {
+    "name": "Atlanticoast Residence",
+    "address": "Bakau, Gambia",
+    "phone": "+2204497460"
+  },
+  {
+    "name": "Bakau Guest House",
+    "address": "C79F+M8P Bijilo, Serrekunda, Gambia",
+    "phone": "+2205293370"
+  },
+  {
+    "name": "Woodpecker Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209917786"
+  },
+  {
+    "name": "D white villas",
+    "address": "Rue de Smet, Bijilo, Sukuta, 10000, Gambia",
+    "phone": "+2207700057"
+  },
+  {
+    "name": "Residence 21",
+    "address": "Off Kofi Annan Street, Bakau, Gambia",
+    "phone": "+2202022988"
+  },
+  {
+    "name": "Mango Village",
+    "address": "Old Yundum, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Yuna Village Garden Resort",
+    "address": "Sanchaba Sulay Jobe, Serrekunda, 20100, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bendula",
+    "address": "Brusubi, Gambia",
+    "phone": "+2205291059"
+  },
+  {
+    "name": "Fajara Hotel",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2207776600"
+  },
+  {
+    "name": "Champions Lodge Brusubi Gambia",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2209917823"
+  },
+  {
+    "name": "Katchikally Holiday INN",
+    "address": "Samba Breku Road, Bakau, Banjul, Gambia",
+    "phone": "+2204495428"
+  },
+  {
+    "name": "Pelican Residence",
+    "address": "Brufut, Serrekunda, Gambia",
+    "phone": "+441208862037"
+  },
+  {
+    "name": "Sand Beach Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202022121"
+  },
+  {
+    "name": "GAMBIAFLATSTOLET",
+    "address": "10 Atlantic Blvd, Fajara, Gambia",
+    "phone": "+34928143393"
+  },
+  {
+    "name": "Mandinari River Lodge",
+    "address": "64 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204494045"
+  },
+  {
+    "name": "Sanyang Nature Camp",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Anns guesthouse",
+    "address": "Kombo Coastal Road Highway, Bijilo, Serrekunda, Gambia",
+    "phone": "+2207310073"
+  },
+  {
+    "name": "Tropic Garden Hotel",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466660"
+  },
+  {
+    "name": "Luigi's Complex",
+    "address": "Kerr Seringe, Gambia",
+    "phone": "+46702040823"
+  },
+  {
+    "name": "Heritage House",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2206611800"
+  },
+  {
+    "name": "Leo's Beach Hotel & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466979"
+  },
+  {
+    "name": "Ocean Spray Residential Appartment",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202535081"
+  },
+  {
+    "name": "Banjul International House",
+    "address": "Off Bretil Harding Highway, Serrekunda, Gambia",
+    "phone": "+2204461177"
+  },
+  {
+    "name": "Djembe Beach Resort",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204466541"
+  },
+  {
+    "name": "Paradise Suites Hotel",
+    "address": "Palma Rima Road, Serrekunda, Gambia",
+    "phone": "+2202949631"
+  },
+  {
+    "name": "DANDIMAYO",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204460400"
+  },
+  {
+    "name": "Limbas Business Hotel",
+    "address": "F Section, Ampaya, Gambia",
+    "phone": "+2202562692"
+  },
+  {
+    "name": "LABRANDA Coral Beach Resort",
+    "address": "Kololi, Banjul, Gambia",
+    "phone": "+2204461889"
+  },
+  {
+    "name": "Avalon Garden Lodge",
+    "address": "Kombo Coastal Highway, Serrekunda, Gambia",
+    "phone": "+2207019000"
+  },
+  {
+    "name": "Holiday Beach Club",
+    "address": "F8C9+X8J New Town, Garba Jahumpa Rd, Bakau, Gambia",
+    "phone": "+46709494963"
+  },
+  {
+    "name": "Golden Beach Hotel",
+    "address": "C7XH+5V5 Duplex Entertainment centre, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2204463081"
+  },
+  {
+    "name": "Jabali Apartments / Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202787744"
+  },
+  {
+    "name": "Mandina River Lodge",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202787744"
+  },
+  {
+    "name": "Hansen's Lodge",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2207327777"
+  },
+  {
+    "name": "Gibbi's on the beach",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Freddy's Restaurant",
+    "address": "Atlantic Blvd, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Friends Bar & Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2204498223"
+  },
+  {
+    "name": "Sambu's Grill",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  { "name": "Mr Bass", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "Kuntas",
+    "address": "100 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2207411218"
+  },
+  {
+    "name": "Calypso bar & restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2205302976"
+  },
+  {
+    "name": "Sibi's Grill",
+    "address": "Bakau, Gambia",
+    "phone": "+2207222180"
+  },
+  {
+    "name": "Anta's Restaurant",
+    "address": "Point Zone, Kololi, Serrekunda, Gambia",
+    "phone": "+2204464734"
+  },
+  {
+    "name": "Kora´s House Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Taj India Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209471202"
+  },
+  {
+    "name": "Sunshine Beach Bar & Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Logic Restaurant & Catering",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tip Top Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bobby's",
+    "address": "16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2203717777"
+  },
+  {
+    "name": "Mak Domoro",
+    "address": "Kotu power station, Serrekunda, Gambia",
+    "phone": "+2205296790"
+  },
+  {
+    "name": "Garden Bakery",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "One for the Road",
+    "address": "Kololi, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Cafe Opera",
+    "address": "Duplex road, Serrekunda, Gambia",
+    "phone": "+2207994914"
+  },
+  {
+    "name": "Doobi Doo Bar and Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207449090"
+  },
+  {
+    "name": "Solomelo's Music Venue",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209990416"
+  },
+  {
+    "name": "Mamie's Kitchen & Catering",
+    "address": "opp American University, Serrekunda, Gambia",
+    "phone": "+2207777277"
+  },
+  {
+    "name": "Rising Sun",
+    "address": "Jimpex Rd, Serrekunda, Gambia",
+    "phone": "+2203664055"
+  },
+  {
+    "name": "Saffie J's bar and restaurant",
+    "address": "Kotu Road, Manjai, Gambia",
+    "phone": "+2202552791"
+  },
+  {
+    "name": "Philly's Grill",
+    "address": "100 Kotu Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Cape Point juice bars",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "INDIAN ZAIKA",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207722821"
+  },
+  {
+    "name": "The Meeting Point",
+    "address": "Unnamed Road, Serrekunda Serekunda Kanifing Municipal Council Banjul, Gambia",
+    "phone": "+2207170958"
+  },
+  {
+    "name": "House of Flavour",
+    "address": "Serrekunda, Gambia",
+    "phone": "+22073680342088227"
+  },
+  {
+    "name": "F. Jallow's Boutique",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202222212"
+  },
+  { "name": "YOSH", "address": "Serrekunda, Gambia", "phone": null },
+  {
+    "name": "Ya Ndey's Fast Food",
+    "address": "12 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Grandour",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Clay Oven",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": "+2207960024"
+  },
+  {
+    "name": "Ashu's Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207700877"
+  },
+  {
+    "name": "The Fajara Garden Restaurant",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2203149995"
+  },
+  {
+    "name": "GRAND'OR GAMBIA",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207896181"
+  },
+  {
+    "name": "Presidents' International Award Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bamboo Restaurant",
+    "address": "F74W+R27 Bin Luxury Complex, BB Junction, Serrekunda, Gambia",
+    "phone": "+2206655444"
+  },
+  {
+    "name": "MRC Bantaba Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207432055"
+  },
+  {
+    "name": "Plass Bi",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202954664"
+  },
+  {
+    "name": "Sailor Beach Bar & Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+447909971320"
+  },
+  {
+    "name": "Villa Roula",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207049804"
+  },
+  {
+    "name": "The Butcher's Shop",
+    "address": "Peace Corps, Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207333377"
+  },
+  {
+    "name": "FOODIES",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207991111"
+  },
+  {
+    "name": "Alaeldin",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Jmix Grill & Sports Bar",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202050666"
+  },
+  {
+    "name": "Rasoi Restaurant",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207650293"
+  },
+  {
+    "name": "The Chicken Place",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2209045291"
+  },
+  {
+    "name": "Ngala Lodge",
+    "address": "34 Atlantic Blvd, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ocean Spray Residential Appartment",
+    "address": "Leybato junction, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "La Parisienne Restaurant",
+    "address": "64 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204494045"
+  },
+  {
+    "name": "Chillout Palace",
+    "address": "Kairaba Ave, Banjul, Gambia",
+    "phone": "+2202458977"
+  },
+  {
+    "name": "Paradise Beach Club Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Njie's Detox Juice Bar",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207660676"
+  },
+  {
+    "name": "Bobs bar and cafe",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207538866"
+  },
+  {
+    "name": "The Cave Restaurant",
+    "address": "Between Iceland and Church, Traffic Light Highway, Serrekunda, Gambia",
+    "phone": "+2207000444"
+  },
+  {
+    "name": "Captain's table",
+    "address": "Garba Jahumpa Rd, Serrekunda, Gambia",
+    "phone": "+2207383838"
+  },
+  {
+    "name": "Pinay's Delight Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207944441"
+  },
+  {
+    "name": "Mazaya",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202003060"
+  },
+  {
+    "name": "MacCeasars",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204495069"
+  },
+  {
+    "name": "Homeway Resturant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+256706737377"
+  },
+  {
+    "name": "Dominos Beachbar",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202977737"
+  },
+  {
+    "name": "Sianbou",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Emeka Great Hands Nigerian Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207727055"
+  },
+  {
+    "name": "Al Baba Bar And Restaurant",
+    "address": "Fajara, Bakau New Town, Serrekunda, Gambia",
+    "phone": "+2204494213"
+  },
+  {
+    "name": "John Raymond'S Beach Bar And Restaurant",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Joofen Kitchen",
+    "address": "Bakary Camara Road, Bakau, Gambia",
+    "phone": "+2207775332"
+  },
+  {
+    "name": "Am'Harit Restaurant and Catering Services",
+    "address": "FAJARA KAIRABA AVENUE,SERRE KUNDA THE GAMBIA, Fajara, Bakau New Town, Serrekunda, Gambia",
+    "phone": "+2204495672"
+  },
+  {
+    "name": "Aroma Bar & Restaurant",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202235254"
+  },
+  {
+    "name": "Mariana’s fast food",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Broadway Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2209210965"
+  },
+  {
+    "name": "NIRO Bar And Restaurant",
+    "address": "Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2203837056"
+  },
+  {
+    "name": "Last Born Fast food & Restaurant",
+    "address": "New Town Road, Bakau, Gambia",
+    "phone": "+2203025391"
+  },
+  {
+    "name": "Chef's Corner",
+    "address": "9 GM, Bakau New Town, Fajara, Garba Jahumpa Rd, Serrekunda, Gambia",
+    "phone": "+2207122121"
+  },
+  {
+    "name": "2020Bar.Restaurant",
+    "address": "78 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2207750400"
+  },
+  {
+    "name": "Uncle Joe's Bar & Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2202272172"
+  },
+  {
+    "name": "Emeka Great Hands Nigerian Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "2020 Bar & Restaurant",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Al-Rawshe Restaurant",
+    "address": "Unnamed Road, Bakau, Gambia",
+    "phone": "+2207079220"
+  },
+  {
+    "name": "AJI FATOU JARRIS RESTAURANT",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Delicious Fast Food",
+    "address": "Fatou Jatta Way, off Mamakoto Road, Bakau, Bakau, Gambia",
+    "phone": "+2207725780"
+  },
+  {
+    "name": "Saine Jen",
+    "address": "Unnamed Road, Bakau, Gambia",
+    "phone": "+2207559192"
+  },
+  {
+    "name": "Adam's Restuarant",
+    "address": "Unnamed Road, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Shiraz",
+    "address": "100 Atlantic Blvd, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "NEEDO FASTFOOD",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sofi's bar and restaurant",
+    "address": "Bakau, Gambia",
+    "phone": "+2204497961"
+  },
+  {
+    "name": "JD's bar and restaurant",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Rahma's Kitchen",
+    "address": "97 Atlantic Blvd, Serrekunda, Gambia",
+    "phone": "+2207474040"
+  },
+  {
+    "name": "JalDarboe Restaurant Drammeh Kunda D74",
+    "address": "Bakau, Gambia",
+    "phone": "+2203262009"
+  },
+  {
+    "name": "Kairaba Shopping Centre",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "Mall of Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "RASLAN DISCOUNT CENTER",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202320304"
+  },
+  {
+    "name": "Westfield Plaza",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202195956"
+  },
+  {
+    "name": "The Village Shopping and Dining Centre",
+    "address": "Sayerr Jobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tropic Shopping Centre",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "Alhagie Kebba Conteh Plaza",
+    "address": "Ebo Town Bantaba, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Ebo Town Market",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2207955666"
+  },
+  {
+    "name": "Garden Centre",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2209906600"
+  },
+  {
+    "name": "my supermarket",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202222240"
+  },
+  {
+    "name": "Discount Center",
+    "address": "Tropic Shopping Center, Senegambian, Gambia",
+    "phone": "+2207211110"
+  },
+  {
+    "name": "Gift and Goodies Center",
+    "address": "49 Kairaba Avenue, KMC, Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204399471"
+  },
+  {
+    "name": "Alhagie cosmetics plaza",
+    "address": "32 Fillan St, Serrekunda, Gambia",
+    "phone": "+2207744255"
+  },
+  {
+    "name": "W/Alkitan",
+    "address": "Tropic Shopping Center, Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2203385410"
+  },
+  {
+    "name": "LENA BUSINESS CENTER",
+    "address": "BESIDE KAIRABA SHOPPING CENTER, 40 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207470376"
+  },
+  {
+    "name": "AMJ Business Center",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Baby Center",
+    "address": "Duplex Entertainment centre, Serrekunda, Gambia",
+    "phone": "+2207870810"
+  },
+  {
+    "name": "ONE PLUS ONE - HOME CENTER",
+    "address": "16 Mamadi Manjang Highway, Old Jeshwang, Gambia",
+    "phone": "+2204394819"
+  },
+  {
+    "name": "Bakau fish market",
+    "address": "Batukunku, Gambia",
+    "phone": "+2207256085"
+  },
+  {
+    "name": "Famous Boutique",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207122989"
+  },
+  {
+    "name": "Kairaba Super Market",
+    "address": "Unnamed Road, Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "OneUp Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bakau Community Youth Bakery Association",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Binta en Peter",
+    "address": "Brikama, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Babs",
+    "address": "Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Happy Mini Market",
+    "address": "134 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "MK SPORT SHOP NO.22 TUNKARA PLAZA",
+    "address": "Banjul-Serrekunda Hwy, Serrekunda, Gambia",
+    "phone": "+2203152098"
+  },
+  {
+    "name": "LG Electronics (Showroom & Service Center)",
+    "address": "Shop 15, Mall of Gambia, Bakoteh, Sayerrjobe Ave, Serrekunda, Gambia",
+    "phone": "+2207489766"
+  },
+  {
+    "name": "hydara plaza",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2202204444"
+  },
+  {
+    "name": "Serekunda Market",
+    "address": "Banjul Sereknda Hwy, Serrekunda, Gambia",
+    "phone": "+2207966126"
+  },
+  {
+    "name": "Amisjobis Wholesale Clothing Center",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Jarboh kunda 1",
+    "address": "Banjul-Serrekunda Hwy, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "ATMK Boutique",
+    "address": "Essau, Gambia",
+    "phone": "+2203064927"
+  },
+  {
+    "name": "Yeew Fashion Enterprise",
+    "address": "Petroleum House, Zak Plaza Brusubi Turntable ( Adjacent, Gambia",
+    "phone": "+2207442445"
+  },
+  {
+    "name": "Gamtech Solutions IT center",
+    "address": "Unnamed Road, Serrekunda, Gambia",
+    "phone": "+2202666626"
+  },
+  {
+    "name": "Innovarx Global Health (IGH Community Pharmacy)",
+    "address": "Brikama, Gambia",
+    "phone": "+2209985793"
+  },
+  {
+    "name": "Fatimas Couture, Kanefing Estate G16",
+    "address": "Kombo Sillah Dr, Serrekunda, Gambia",
+    "phone": "+2203636368"
+  },
+  {
+    "name": "Abdou",
+    "address": "Tujereng, Gambia",
+    "phone": "+2209982102"
+  },
+  {
+    "name": "Lamp Fall Fashion",
+    "address": "Old Yundum, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Beauty Stop",
+    "address": "TUNKARA PLAZA, NO. 22, Serrekunda, Gambia",
+    "phone": "+2207274141"
+  },
+  {
+    "name": "Peace Of Mind Yoga Studio",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Health center, Serrekunda",
+    "address": "12 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204375900"
+  },
+  {
+    "name": "Ndigal Mobile Repairing",
+    "address": "Fatou Golden Plaza, Bertil Harding Highway Opposite Election House, Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "youth center",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Fajikunda health center",
+    "address": "Bakau Community Center, Bakau, Gambia",
+    "phone": "+2203079898"
+  },
+  {
+    "name": "Baby centre",
+    "address": "42 Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2204372359"
+  },
+  {
+    "name": "LABMEDENT Co Ltd",
+    "address": "New Road, Tropic Shopping Center Kololi, Gambia",
+    "phone": "+2202446189"
+  },
+  { "name": "Kunkujang", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "TechnoFarm",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Gambia Horticultural Enterprises",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900760"
+  },
+  {
+    "name": "Tanji Fishing Center",
+    "address": "Kololi Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Final Touch Massage and Beauty Center",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202528340"
+  },
+  {
+    "name": "Rebel Gaming Gambia",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207788222"
+  },
+  {
+    "name": "Talk Hot Media",
+    "address": "Becca Plaza, Banjul, Gambia",
+    "phone": "+2207944050"
+  },
+  {
+    "name": "SuperDrive",
+    "address": "S Bank Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Zenith Bank",
+    "address": "Anne Marie Javouhay, Street, Gambia",
+    "phone": "+2202711290"
+  },
+  {
+    "name": "Djolof Chicken Banjul",
+    "address": "118, Fajara, Booser, Gambia",
+    "phone": "+2207781222"
+  },
+  {
+    "name": "K-PARC Shopping Mall Kangar",
+    "address": "Garba Jahumpa RD Bakau NewTown, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "The Summit Batu Pahat",
+    "address": "Kanifing Industrial Estate, Serrekunda, Gambia",
+    "phone": "+2205358220"
+  },
+  {
+    "name": "The Mall at Millenia",
+    "address": "Banjul, Gambia",
+    "phone": "+2207535983"
+  },
+  {
+    "name": "Southwest Plaza",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Coconut Point",
+    "address": "Round about, Brufut, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Aventura Mall",
+    "address": "15, 17 Kaira Avenue, Brufut, Gambia",
+    "phone": "+2203861800"
+  },
+  {
+    "name": "Cherry Creek Shopping Center",
+    "address": "Brufut, Gambia",
+    "phone": "+2207055073"
+  },
+  {
+    "name": "Town Center at Boca Raton",
+    "address": "16 kairaba ave gambia west afficra, 16 Kairaba Ave, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "South Coast Plaza",
+    "address": "Senegambia Beach Hotel, Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203989171"
+  },
+  {
+    "name": "Kings Plaza Shopping Center",
+    "address": "4, Portuguese Town, 5 Liberation Ave, Banjul, Gambia",
+    "phone": "+2202176837"
+  },
+  {
+    "name": "AEON Rawang",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209900335"
+  },
+  {
+    "name": "Bakau craft market",
+    "address": "Brikama marketing Brikama, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Bijilo National Park",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Abuko Nature Reserve",
+    "address": "Bafuloto, Gambia",
+    "phone": "+2204483335"
+  },
+  {
+    "name": "National Museum of the Gambia",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tanje Village Museum",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207919937"
+  },
+  { "name": "Makasutu", "address": "Banjul, Gambia", "phone": null },
+  {
+    "name": "Banjul Central Mosque",
+    "address": "Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Brikama Craft Market",
+    "address": "Brikama Hwy, Lamin, Gambia",
+    "phone": "+2207248035"
+  },
+  {
+    "name": "Senegambia Craft Market",
+    "address": "Coastal Rd, Tanji, Gambia",
+    "phone": "+2209926618"
+  },
+  {
+    "name": "Brusubi",
+    "address": "Jinack Island, Jinack, Gambia",
+    "phone": "+2203055014"
+  },
+  {
+    "name": "Gambia Guide",
+    "address": "Bakau, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Tanji",
+    "address": "Bakau, Gambia",
+    "phone": "+2204498223"
+  },
+  {
+    "name": "Senegambia",
+    "address": "Senegambia, Serrekunda, Serrekunda, Gambia",
+    "phone": "+2207792858"
+  },
+  {
+    "name": "Saloum Delta National Park",
+    "address": "Bijilo, Off The Bertil Harding Highway, Gambia",
+    "phone": "+2207762462"
+  },
+  {
+    "name": "Janeya Tours",
+    "address": "Kuloro, Gambia",
+    "phone": "+2203465987"
+  },
+  {
+    "name": "Mr Bass",
+    "address": "Kofi Annan Street, Bakau, Gambia",
+    "phone": "+2204495005"
+  },
+  {
+    "name": "Jinack Island Adventure Tours",
+    "address": "Box4061, Bakau, Gambia",
+    "phone": "+2209911691"
+  },
+  {
+    "name": "Tendaba",
+    "address": "Portuguese Town, Banjul, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Fathala Wildlife Reserve - Safari Senegal Accommodation",
+    "address": "Bakau, Gambia",
+    "phone": "+2207910001"
+  },
+  {
+    "name": "Parc national de Basse Casamance",
+    "address": "Senegambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207167697"
+  },
+  {
+    "name": "Protected area In Fadiouth",
+    "address": "Tanji, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Supertree Grove",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Gardens by the Bay",
+    "address": "Cape Point, Bakau, Gambia",
+    "phone": "+2204497190"
+  },
+  {
+    "name": "Ao Phang Nga National Park",
+    "address": "Denton Bridge Banjul, Gambia, West Africa, Banjul Serrekunda Hwy, Gambia",
+    "phone": "+31610245948"
+  },
+  {
+    "name": "Mangrove Munjang Kurau Barat",
+    "address": "Serrekunda, Gambia",
+    "phone": "+22037841553611704"
+  },
+  {
+    "name": "Toubakouta",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2204465555"
+  },
+  {
+    "name": "Abéné",
+    "address": "64 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204494045"
+  },
+  {
+    "name": "Ras Mohamed Nature Reserve",
+    "address": "Bakau New Town, 98 Atlantic Blvd, Bakau, Gambia",
+    "phone": "+2204495034"
+  },
+  {
+    "name": "Eastern Mangrove National Park",
+    "address": "Bakau, Gambia",
+    "phone": "+2209225887"
+  },
+  {
+    "name": "Taman Wisata Alam Mangrove, Angke Kapuk",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207952874"
+  },
+  {
+    "name": "Caroni Bird Sanctuary",
+    "address": "Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2209912891"
+  },
+  {
+    "name": "Kafountine",
+    "address": "Bakau, Gambia",
+    "phone": "+2204494265"
+  },
+  {
+    "name": "Joal Fadiout",
+    "address": "Lams tours BB Craft-marked Kotu, Gambia",
+    "phone": "+2209906757"
+  },
+  {
+    "name": "Ziguinchor Region",
+    "address": "Lemon Creek Hotel, Serrekunda, Gambia",
+    "phone": "+2207919175"
+  },
+  {
+    "name": "Coex Aquarium",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2209947255"
+  },
+  {
+    "name": "Sirinat National Park",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Mangrove Center Graha Indah",
+    "address": "Serrekunda, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Sao Domingos",
+    "address": "Lamin, Gambia",
+    "phone": "+2207812332"
+  },
+  { "name": "Ziguinchor", "address": "Bakau, Gambia", "phone": null },
+  {
+    "name": "Banana River Aquatic Preserve",
+    "address": "Denton Bridge Banjul, Bakau, Gambia",
+    "phone": "+2202204083"
+  },
+  {
+    "name": "Wallymann Hotel",
+    "address": "Tujereng, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kaira Konko Lodge and Scout Centre",
+    "address": "Jajari, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Mandinari River Lodge",
+    "address": "Old Yundum, West Coast Region Old-Yundum, Brikama, Gambia",
+    "phone": "+2207941307"
+  },
+  {
+    "name": "Football Hotel",
+    "address": "Mandinari River Lodge Mandinari Village Kombo North, Serrekunda, Gambia",
+    "phone": "+447886393600"
+  },
+  {
+    "name": "Morgan Kunda Lodge",
+    "address": "Poste highway, Farafenni, Gambia",
+    "phone": "+2207100133"
+  },
+  {
+    "name": "Farakunku Lodges",
+    "address": "S Bank Rd, Soma, Gambia",
+    "phone": "+2203951055"
+  },
+  {
+    "name": "Babou's Food Paradise",
+    "address": "Soma, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Kaira Restaurant",
+    "address": "Farafenni, Gambia",
+    "phone": null
+  },
+  {
+    "name": "SUNU YAI FAST FOOD AND TAKE AWAY",
+    "address": "Trans-Gambia Hwy, Farafenni, Gambia",
+    "phone": "+2207428007"
+  },
+  {
+    "name": "Eddy's Hotel",
+    "address": "Trans-Gambia Hwy, Soma, Gambia",
+    "phone": "+2207782997"
+  },
+  {
+    "name": "Master Chef Restaurant",
+    "address": "Trans-Gambia Hwy, Soma, Gambia",
+    "phone": "+2202293370"
+  },
+  {
+    "name": "Afra GNPC",
+    "address": "Trans-Gambia Hwy, Farafenni, Gambia",
+    "phone": "+2207627043"
+  },
+  {
+    "name": "Nema fast food restaurant",
+    "address": "Trans-Gambia Hwy, Soma, Gambia",
+    "phone": "+2207017704"
+  },
+  {
+    "name": "Raamdaan Restaurant and Catering Services",
+    "address": "Soma, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Domoridima Restaurant",
+    "address": "Farafeni, Gambia",
+    "phone": "+2207113131"
+  },
+  {
+    "name": "Bantaba Restaurant",
+    "address": "Soma, Gambia",
+    "phone": "+2202817888"
+  },
+  {
+    "name": "Tomaring Fast food",
+    "address": "Soma, Gambia",
+    "phone": null
+  },
+  { "name": "Bambo Bar", "address": "Soma, Gambia", "phone": null },
+  {
+    "name": "Tasty Burger Restaurant Tel.: 781160008",
+    "address": "Farafenni, Gambia",
+    "phone": "+2207306205"
+  },
+  {
+    "name": "La Parisienne Restaurant",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2207944441"
+  },
+  {
+    "name": "The Fig Treefood And Drinks",
+    "address": "Kairaba Ave, Serrekunda, Gambia",
+    "phone": "+2207660676"
+  },
+  {
+    "name": "Alaeldin",
+    "address": "Trans-Gambia Hwy, Serrekunda, Gambia",
+    "phone": "+2207816814"
+  },
+  {
+    "name": "Darboe's Bar and Restaurant",
+    "address": "Soma, Gambia",
+    "phone": null
+  },
+  {
+    "name": "Afra Shop",
+    "address": "Tendaba, Gambia",
+    "phone": "+2209911088"
+  },
+  {
+    "name": "Farafenni Internet & Shopping Center",
+    "address": "Serrekunda, Gambia",
+    "phone": "+2202222240"
+  },
+  {
+    "name": "The Village Shopping and Dining Centre",
+    "address": "Senegambia Beach Hotel, Senegambia Rd, Serrekunda, Gambia",
+    "phone": "+2203989171"
+  },
+  {
+    "name": "Tropic Shopping Centre",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2209906600"
+  },
+  {
+    "name": "Mall of Gambia",
+    "address": "Bertil Harding Hwy, Serrekunda, Gambia",
+    "phone": "+2202195956"
+  },
+  {
+    "name": "Halabaid Trading Enterprises paradise supermarket",
+    "address": "Trans-Gambia Hwy, Farafenni, Gambia",
+    "phone": "+2207428007"
+  },
+  {
+    "name": "TOP-SHOP",
+    "address": "No 25 Bamba Tenda Road, Farafenni, Gambia",
+    "phone": "+2206565808"
+  },
+  {
+    "name": "JSF- Horticulture Garden Kaiaf Ward LRR",
+    "address": "Kaiaf, Gambia",
+    "phone": null
+  }
+]

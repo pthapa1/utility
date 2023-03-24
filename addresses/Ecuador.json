@@ -75,11 +75,6 @@
     "phone": "349170401"
   },
   {
-    "name": "Hotel Finlandia",
-    "address": "Quito 170143, Ecuador",
-    "phone": "+59322544866"
-  },
-  {
     "name": "Hotel La Basílica Quito",
     "address": "Colon y, 9 de Octubre, Quito 170126, Ecuador",
     "phone": "+593995478022"
@@ -166,7 +161,7 @@
   },
   {
     "name": "Hotel Rio Amazonas Quito",
-    "address": "RG36+MJ2, Av. Río Amazonas, Quito 170135, Ecuador",
+    "address": "Av. Río Amazonas, Quito 170135, Ecuador",
     "phone": "+59322972102"
   },
   {
@@ -286,7 +281,7 @@
   },
   {
     "name": "Casa Hotel Las Plazas",
-    "address": "QGW6+R9C, Juan Rodríguez E820 y, Quito 170143, Ecuador",
+    "address": "Juan Rodríguez E820 y, Quito 170143, Ecuador",
     "phone": "6+9820170143"
   },
   {
@@ -306,7 +301,7 @@
   },
   {
     "name": "Barnard Hotel",
-    "address": "QGX5+45C, Juan León Mera, Quito 170143, Ecuador",
+    "address": "Juan León Mera, Quito 170143, Ecuador",
     "phone": "5+45170143"
   },
   {
@@ -333,11 +328,6 @@
     "name": "City Art Hotel Silberstein",
     "address": "Joaquín Pinto, Quito 170118, Ecuador",
     "phone": "+59322224791"
-  },
-  {
-    "name": "Val Hotel Santamaria Quito",
-    "address": "Quito, Ecuador",
-    "phone": "+593987636422"
   },
   {
     "name": "Hampton By Hilton Quito La Carolina Park",
@@ -426,7 +416,7 @@
   },
   {
     "name": "Air Suites Hotel Boutique",
-    "address": "RG27+C6H La Niña, Quito 170517, Ecuador",
+    "address": "La Niña, Quito 170517, Ecuador",
     "phone": "+59322906729"
   },
   {
@@ -570,11 +560,6 @@
     "phone": "2235170143"
   },
   {
-    "name": "Vista Hermosa (Itchimbía)",
-    "address": "Quito 170133, Ecuador",
-    "phone": null
-  },
-  {
     "name": "ZFOOD",
     "address": "Av. 6 de Diciembre, Quito 170135, Ecuador",
     "phone": "+593999091128"
@@ -601,7 +586,7 @@
   },
   {
     "name": "RINCÓN DE FRANCIA",
-    "address": "RGPC+HJQ, Rousseau, Quito 170513, Ecuador",
+    "address": "Rousseau, Quito 170513, Ecuador",
     "phone": "+593990122899"
   },
   {
@@ -616,7 +601,7 @@
   },
   {
     "name": "Osaka",
-    "address": "RGP8+FM5, Av. Río Amazonas, Quito 170513, Ecuador",
+    "address": "Av. Río Amazonas, Quito 170513, Ecuador",
     "phone": "+593999942462"
   },
   {
@@ -666,7 +651,7 @@
   },
   {
     "name": "Cafe Mosaico",
-    "address": "QGV6+HHQ, Quito 170143, Ecuador",
+    "address": "Quito 170143, Ecuador",
     "phone": "+593983352670"
   },
   {
@@ -711,7 +696,7 @@
   },
   {
     "name": "Fabiolita",
-    "address": "QGW5+7WW, Mariscal Foch, Quito 170143, Ecuador",
+    "address": "Mariscal Foch, Quito 170143, Ecuador",
     "phone": "+593994509914"
   },
   {
@@ -1015,13 +1000,8 @@
     "phone": "170905170905"
   },
   {
-    "name": "Quicentro",
-    "address": "Quito 170401, Ecuador",
-    "phone": "+593989084559"
-  },
-  {
     "name": "Granada Shopping Center",
-    "address": "RGH9+VW5, y, Av. de los Shyris & Av. Gaspar de Villarroel, Quito, Ecuador",
+    "address": "y, Av. de los Shyris & Av. Gaspar de Villarroel, Quito, Ecuador",
     "phone": "+59322269260"
   },
   {
@@ -1061,7 +1041,7 @@
   },
   {
     "name": "Commercial Center United Nations",
-    "address": "QFJQ+C8F, García Moreno, Quito 170401, Ecuador",
+    "address": "García Moreno, Quito 170401, Ecuador",
     "phone": null
   },
   {
@@ -1086,12 +1066,12 @@
   },
   {
     "name": "Shopping Center Bodega Deportiva",
-    "address": "QFJR+HFG, Quito 170131, Ecuador",
+    "address": "Quito 170131, Ecuador",
     "phone": null
   },
   {
     "name": "Centro Comercial CCI",
-    "address": "QFMM+GRP, José López, Quito 170401, Ecuador",
+    "address": "José López, Quito 170401, Ecuador",
     "phone": null
   },
   {
@@ -1116,7 +1096,7 @@
   },
   {
     "name": "Paseo del Norte",
-    "address": "QHWC+XXW, Padre Luis Garzón, Quito 170157, Ecuador",
+    "address": "Padre Luis Garzón, Quito 170157, Ecuador",
     "phone": null
   },
   {
@@ -1141,22 +1121,22 @@
   },
   {
     "name": "Airport Commercial Center",
-    "address": "RGJ6+5QX, Av. América, Quito 170104, Ecuador",
+    "address": "Av. América, Quito 170104, Ecuador",
     "phone": "+593969853055"
   },
   {
     "name": "El Portal Shopping",
-    "address": "QHW7+852, plaza modena cumbaya, Quito, Ecuador",
+    "address": "plaza modena cumbaya, Quito, Ecuador",
     "phone": "+59326012619"
   },
   {
     "name": "QUITUS CRAFT MARKET",
-    "address": "QF27+8GG, Av. Mariscal Sucre, Quito 170111, Ecuador",
+    "address": "Av. Mariscal Sucre, Quito 170111, Ecuador",
     "phone": null
   },
   {
     "name": "Granados Plaza",
-    "address": "MGVV+PRX, Avenida General Enriquez, Quito, Ecuador",
+    "address": "Avenida General Enriquez, Quito, Ecuador",
     "phone": null
   },
   {
@@ -1171,13 +1151,8 @@
   },
   {
     "name": "El Bosque Mall",
-    "address": "WH36+WQV, Capitán Giovanni Calles, Quito 170202, Ecuador",
+    "address": "Capitán Giovanni Calles, Quito 170202, Ecuador",
     "phone": "+59322022520"
-  },
-  {
-    "name": "C.C Plaza Isabella",
-    "address": "Quito 170157, Ecuador",
-    "phone": "+593969542057"
   },
   {
     "name": "Centro Comercial Plaza Victoria",
@@ -1186,12 +1161,12 @@
   },
   {
     "name": "Mall Nogal Plaza",
-    "address": "QHW2+VGR, Humberto Fierro, Quito 170157, Ecuador",
+    "address": "Humberto Fierro, Quito 170157, Ecuador",
     "phone": null
   },
   {
     "name": "Centro Comercial Gran Plaza",
-    "address": "PG2Q+2XR, Quito, Ecuador",
+    "address": "Quito, Ecuador",
     "phone": null
   },
   {
@@ -1206,7 +1181,7 @@
   },
   {
     "name": "Puente Scala Shoping- Chaquiñan",
-    "address": "VJ6R+CMW, Quito 170907, Ecuador",
+    "address": "Quito 170907, Ecuador",
     "phone": null
   },
   {
@@ -1221,7 +1196,7 @@
   },
   {
     "name": "La Mansion Plaza Comercial",
-    "address": "PG2R+5G9, Av. Ilaló, Quito, Ecuador",
+    "address": "Av. Ilaló, Quito, Ecuador",
     "phone": "+593979155130"
   },
   {
@@ -1231,7 +1206,7 @@
   },
   {
     "name": "Centro Comercial Plaza Norte",
-    "address": "WM9C+CX2, Quito, Ecuador",
+    "address": "Quito, Ecuador",
     "phone": "+593999624776"
   },
   {
@@ -1246,7 +1221,7 @@
   },
   {
     "name": "Plaza Amazonas Garden",
-    "address": "VHWG+WHJ, Quito 170202, Ecuador",
+    "address": "Quito 170202, Ecuador",
     "phone": "+593993665545"
   },
   {
@@ -1256,7 +1231,7 @@
   },
   {
     "name": "Plaza Coelho",
-    "address": "PG2R+27R, Av. Ilaló, Quito, Ecuador",
+    "address": "Av. Ilaló, Quito, Ecuador",
     "phone": "+5931800909090"
   },
   {
@@ -1266,7 +1241,7 @@
   },
   {
     "name": "Milan Plaza",
-    "address": "QHQH+G26, Vía Interoceánica y Vía Intervalles. Centro Comercial Home Design Plaza, E28C, Quito 170902, Ecuador",
+    "address": "Vía Interoceánica y Vía Intervalles. Centro Comercial Home Design Plaza, E28C, Quito 170902, Ecuador",
     "phone": "+2628170902"
   },
   {
@@ -1276,7 +1251,7 @@
   },
   {
     "name": "C.C Plaza Alegria",
-    "address": "PF77+53W, Quito 170131, Ecuador",
+    "address": "Quito 170131, Ecuador",
     "phone": "77+53170131"
   },
   {
@@ -1286,7 +1261,7 @@
   },
   {
     "name": "La Merced Mall Parking Lot",
-    "address": "RGH9+RR4, Av. Gaspar de Villarroel, Quito 170135, Ecuador",
+    "address": "Av. Gaspar de Villarroel, Quito 170135, Ecuador",
     "phone": null
   },
   {
@@ -1301,12 +1276,12 @@
   },
   {
     "name": "Plaza Real Calderon",
-    "address": "PG3W+HQM, Río Corrientes, Quito, Ecuador",
+    "address": "Río Corrientes, Quito, Ecuador",
     "phone": "+593983847981"
   },
   {
     "name": "Centro Comercial Milenium Plaza",
-    "address": "MHR4+69M, Autopista General Rumiñahui S/N, Sangolqui, Quito 171103, Ecuador",
+    "address": "Autopista General Rumiñahui S/N, Sangolqui, Quito 171103, Ecuador",
     "phone": "4+69171103"
   },
   {
@@ -1321,12 +1296,12 @@
   },
   {
     "name": "Centro comercial el dorado",
-    "address": "MGVV+PVW, Avenida General Enriquez, Quito 171102, Ecuador",
+    "address": "Avenida General Enriquez, Quito 171102, Ecuador",
     "phone": "+593998261057"
   },
   {
     "name": "Plaza Vintage",
-    "address": "RHJ9+V33, Quito 170170, Ecuador",
+    "address": "Quito 170170, Ecuador",
     "phone": "9+33170170"
   },
   {
@@ -1341,12 +1316,12 @@
   },
   {
     "name": "Pirámide Plaza",
-    "address": "WG8H+666, Quito 170120, Ecuador",
+    "address": "Quito 170120, Ecuador",
     "phone": "8+666170120"
   },
   {
     "name": "CC Plaza del Valle",
-    "address": "PG4X+236, Rio Rumiyacu, Quito, Ecuador",
+    "address": "Rio Rumiyacu, Quito, Ecuador",
     "phone": null
   },
   {
@@ -1356,37 +1331,37 @@
   },
   {
     "name": "Plaza Centro Calderón",
-    "address": "MGR9+23P, Marqueza de, Quito, Ecuador",
+    "address": "Marqueza de, Quito, Ecuador",
     "phone": null
   },
   {
     "name": "Centro Comercial Multiplaza",
-    "address": "VG99+868, Quito 170138, Ecuador",
+    "address": "Quito 170138, Ecuador",
     "phone": "99+868170138"
   },
   {
     "name": "Plaza Río Coca",
-    "address": "QGW2+H3W, Quito 170129, Ecuador",
+    "address": "Quito 170129, Ecuador",
     "phone": null
   },
   {
     "name": "Plaza Arenas",
-    "address": "RH62+MXM, Av. Interoceánica, y, Quito 170157, Ecuador",
+    "address": "Av. Interoceánica, y, Quito 170157, Ecuador",
     "phone": "+59322897581"
   },
   {
     "name": "Paseo del Parque Cumbayá",
-    "address": "QHVG+83F, Quito 170157, Ecuador",
+    "address": "Quito 170157, Ecuador",
     "phone": "+83170157"
   },
   {
     "name": "C.C. Paseo Santa Fe",
-    "address": "RGPC+V6C, Quito 170138, Ecuador",
+    "address": "Quito 170138, Ecuador",
     "phone": null
   },
   {
     "name": "Centro Comercial Mini Mall",
-    "address": "RGPC+XMH, Quito 170138, Ecuador",
+    "address": "Quito 170138, Ecuador",
     "phone": "+59322432033"
   },
   {
@@ -1396,7 +1371,7 @@
   },
   {
     "name": "SAN JOSÉ PLAZA",
-    "address": "WM8C+8HJ, Quito, Ecuador",
+    "address": "Quito, Ecuador",
     "phone": "+593999624776"
   },
   {
@@ -1406,17 +1381,17 @@
   },
   {
     "name": "PLAZA COMERCIAL LA CABAÑA DE SAN JUAN",
-    "address": "PG4F+C9V, Quito, Ecuador",
+    "address": "Quito, Ecuador",
     "phone": null
   },
   {
     "name": "Gran Marcelino Plaza",
-    "address": "PG2Q+MWW, Av. Gral. Rumiñahui, Quito, Ecuador",
+    "address": "Av. Gral. Rumiñahui, Quito, Ecuador",
     "phone": "+593984255281"
   },
   {
     "name": "Plaza Ilalo",
-    "address": "MCPX+3WJ, OE1J, Quito 170146, Ecuador",
+    "address": "OE1J, Quito 170146, Ecuador",
     "phone": "+31170146"
   },
   {
@@ -1431,7 +1406,7 @@
   },
   {
     "name": "Plaza Comercial Marianitas",
-    "address": "RGF4+GR4, Quito 170521, Ecuador",
+    "address": "Quito 170521, Ecuador",
     "phone": "+59322240460"
   },
   {
@@ -1451,7 +1426,7 @@
   },
   {
     "name": "Centro Comercial Plaza Cumbayá",
-    "address": "PFJ9+HVR, Quito 170148, Ecuador",
+    "address": "Quito 170148, Ecuador",
     "phone": "+593995869837"
   },
   {
@@ -1470,13 +1445,8 @@
     "phone": "189170103"
   },
   {
-    "name": "Plaza Tajamar",
-    "address": "Quito 170157, Ecuador",
-    "phone": "+59322928269"
-  },
-  {
     "name": "Plaza Comercial Carcelen",
-    "address": "WH59+VQ7, Quito 170201, Ecuador",
+    "address": "Quito 170201, Ecuador",
     "phone": "+593984005617"
   },
   {
@@ -1496,17 +1466,17 @@
   },
   {
     "name": "PLAZA KROZE",
-    "address": "QGV3+9J9, Av. América, Quito 170143, Ecuador",
+    "address": "Av. América, Quito 170143, Ecuador",
     "phone": "3+99170143"
   },
   {
     "name": "VACCARI PLAZA",
-    "address": "QHVF+5M6, E28C, Quito 170157, Ecuador",
+    "address": "E28C, Quito 170157, Ecuador",
     "phone": "+5628170157"
   },
   {
     "name": "Plaza La Cerámica",
-    "address": "VGV3+M57, Diego Vaca de la Vega, Quito DC, Ecuador",
+    "address": "Diego Vaca de la Vega, Quito DC, Ecuador",
     "phone": null
   },
   {
@@ -1566,7 +1536,7 @@
   },
   {
     "name": "Vulqano Park",
-    "address": "QGH2+39C, Quito 170136, Ecuador",
+    "address": "Quito 170136, Ecuador",
     "phone": "2+39170136"
   },
   {
@@ -1585,11 +1555,6 @@
     "phone": "+593997677662"
   },
   {
-    "name": "Calle La Ronda",
-    "address": "negocio.site",
-    "phone": "+593998790192"
-  },
-  {
     "name": "Basílica del Voto Nacional",
     "address": "García Moreno N7-39 y, Quito 170401, Ecuador",
     "phone": "739170401"
@@ -1599,7 +1564,6 @@
     "address": "Av. Eloy Alfaro, Quito 170135, Ecuador",
     "phone": "+59322901699"
   },
-  { "name": "Yaku Water Museum", "address": null, "phone": null },
   {
     "name": "Mindalae - Ethnohistoric & Crafts Museum of Ecuador",
     "address": "Cardenal de la torre OE7-156 y Calle 3 Puembo, Quito 170179, Ecuador",
@@ -1627,7 +1591,7 @@
   },
   {
     "name": "Free Walking Tour Quito",
-    "address": "W6FW+467, Vía a Mindo, Ecuador",
+    "address": "Vía a Mindo, Ecuador",
     "phone": null
   },
   {
@@ -1642,10 +1606,9 @@
   },
   {
     "name": "Yanacocha Biological Reserve",
-    "address": "QGW5+7WW, Mariscal Foch, Quito 170143, Ecuador",
+    "address": "Mariscal Foch, Quito 170143, Ecuador",
     "phone": "+593994509914"
   },
-  { "name": "La Mariscal Artisan Market", "address": null, "phone": null },
   {
     "name": "Parque Metropolitano Guangüiltagua",
     "address": "N 76-94 Mariano Paredes, y, Quito 170501, Ecuador",
@@ -1658,7 +1621,7 @@
   },
   {
     "name": "Iglesia de Nuestra Señora de La Merced",
-    "address": "QFHQ+P5Q, VENEZUELA Y, Eugenio Espejo, Quito 170401, Ecuador",
+    "address": "VENEZUELA Y, Eugenio Espejo, Quito 170401, Ecuador",
     "phone": "+593983359796"
   },
   {
@@ -1697,11 +1660,6 @@
     "phone": "460170136"
   },
   {
-    "name": "Museo Franciscano Fray Pedro Gocial",
-    "address": null,
-    "phone": null
-  },
-  {
     "name": "JACCHIGUA",
     "address": "Quito Business Center Plaza del Rancho Bloque 1, piso 2, Oficina 208, Ecuador",
     "phone": "+59323980900"
@@ -1721,35 +1679,21 @@
     "address": "Av Pichincha, Quito 170136, Ecuador",
     "phone": "+593998910022"
   },
-  { "name": "Iglesia de Santo Domingo", "address": null, "phone": null },
   {
     "name": "Church of the Tabernacle",
     "address": "Naciones Unidas Ave, Quito 170506, Ecuador",
     "phone": "+593983359796"
   },
   {
-    "name": "Carolina Park",
-    "address": "2 5km, Ecuador",
-    "phone": "+593999435098"
-  },
-  { "name": "Tumba Antonio José de Sucre", "address": null, "phone": null },
-  {
-    "name": "Fundación Guayasamín",
-    "address": "Quito, Ecuador",
-    "phone": "+593991311854"
-  },
-  {
     "name": "El Panecillo",
     "address": "Pedro fermin Cevallos N6-78 and Olmedo, Quito 170130, Ecuador",
     "phone": "678170130"
   },
-  { "name": "Alado Ilaló Garden", "address": null, "phone": null },
   {
     "name": "Plaza Grade _ Quito",
     "address": "Sct Mariscal, Av. Río Amazonas N21- 217, Quito 170143, Ecuador",
     "phone": "21217170143"
   },
-  { "name": "Casa Museo Guayasamín", "address": null, "phone": null },
   {
     "name": "Museo del Carmen Alto",
     "address": "Km 62 Ruta Antigua Nono, Tandayapa 170104, Ecuador",
@@ -1757,12 +1701,12 @@
   },
   {
     "name": "Mural Okuda en Quito Bicentenario",
-    "address": "QFHP+GFC, Quito 170130, Ecuador",
+    "address": "Quito 170130, Ecuador",
     "phone": "+59323938600"
   },
   {
     "name": "Quito Sign",
-    "address": "QH49+X62, Quito 170801, Ecuador",
+    "address": "Quito 170801, Ecuador",
     "phone": "49+62170801"
   },
   {
@@ -1772,11 +1716,9 @@
   },
   {
     "name": "Casa Museo Trude Sojka",
-    "address": "W6WF+8Q4, San Carlos, Ecuador",
+    "address": "San Carlos, Ecuador",
     "phone": null
   },
-  { "name": "Mirador de Otón", "address": "Ecuador", "phone": "+59323987600" },
-  { "name": "Condor Machay Cascadas", "address": null, "phone": null },
   {
     "name": "Butterfly House Nathaly Mindo",
     "address": "Pje. Moeller (N24J), Quito 170143, Ecuador",
@@ -1788,33 +1730,23 @@
     "phone": null
   },
   {
-    "name": "Parque Nacional Cotopaxi",
-    "address": "Quito, Ecuador",
-    "phone": null
-  },
-  {
-    "name": "Bellavista Cloud Forest Reserve & Lodge",
-    "address": "Quito, Ecuador",
-    "phone": null
-  },
-  {
     "name": "Museo Numismático - Bco Central del Ecuador",
-    "address": "XPHM+C8W, Quito, Ecuador",
+    "address": "Quito, Ecuador",
     "phone": "+593991635622"
   },
   {
     "name": "ILALO ADVENTURE ( Jardín Alado Ilaló)",
-    "address": "QFGM+X6G, Av. 24 de Mayo, Quito 170130, Ecuador",
+    "address": "Av. 24 de Mayo, Quito 170130, Ecuador",
     "phone": "+624170130"
   },
   {
     "name": "Climbing Tour",
-    "address": "QFHP+RX7, Quito 170401, Ecuador",
+    "address": "Quito 170401, Ecuador",
     "phone": null
   },
   {
     "name": "Plaza de San Francisco",
-    "address": "QFGM+VV4, Rocafuerte, Quito 170401, Ecuador",
+    "address": "Rocafuerte, Quito 170401, Ecuador",
     "phone": "+59322955817"
   },
   {
@@ -1834,12 +1766,7 @@
   },
   {
     "name": "Guápulo",
-    "address": "QFHP+QW2, García Moreno, Quito 170401, Ecuador",
-    "phone": null
-  },
-  {
-    "name": "Santa Rita Reserva Ecológica",
-    "address": "Quito 170111, Ecuador",
+    "address": "García Moreno, Quito 170401, Ecuador",
     "phone": null
   },
   {
@@ -1854,7 +1781,7 @@
   },
   {
     "name": "Teatro Sucre",
-    "address": "QFGM+VV4, Sebastián de Benalcázar &, Quito 170401, Ecuador",
+    "address": "Sebastián de Benalcázar &, Quito 170401, Ecuador",
     "phone": "+59322282320"
   },
   {
@@ -1869,7 +1796,7 @@
   },
   {
     "name": "CarpeDM Adventures Ecuador",
-    "address": "RG77+GQV, Quito 170135, Ecuador",
+    "address": "Quito 170135, Ecuador",
     "phone": "+59322449224"
   },
   {
@@ -1884,7 +1811,7 @@
   },
   {
     "name": "Mariscal Sucre Quito International Airport",
-    "address": "QFHP+XR5, Gabriel García Moreno, Sebastián de Benalcázar, Quito 170130, Ecuador",
+    "address": "Gabriel García Moreno, Sebastián de Benalcázar, Quito 170130, Ecuador",
     "phone": "+59323952300"
   },
   {
@@ -1894,17 +1821,17 @@
   },
   {
     "name": "Refugio Paz de Las Aves",
-    "address": "QGXF+WWC, Quito 170136, Ecuador",
+    "address": "Quito 170136, Ecuador",
     "phone": "+59322565652"
   },
   {
     "name": "Metropolitan District of Quito",
-    "address": "QHVJ+69G, Quito 170184, Ecuador",
+    "address": "Quito 170184, Ecuador",
     "phone": "+69170184"
   },
   {
     "name": "Community Adventures Ecuador",
-    "address": "QGR2+8GX, Quito 170136, Ecuador",
+    "address": "Quito 170136, Ecuador",
     "phone": null
   },
   {
@@ -1914,12 +1841,12 @@
   },
   {
     "name": "Best Trip Ecuador",
-    "address": "QFHP+7P2, Venezuela, Quito 170401, Ecuador",
+    "address": "Venezuela, Quito 170401, Ecuador",
     "phone": "+72170401"
   },
   {
     "name": "Embassy of the United States of America",
-    "address": "RGFQ+FJC, Quito, Ecuador",
+    "address": "Quito, Ecuador",
     "phone": "+59322907005"
   },
   {
@@ -1934,7 +1861,7 @@
   },
   {
     "name": "Quito Bike Tours & Travel Experiences",
-    "address": "VCQ8+832, Unnamed Road, Quito, Ecuador",
+    "address": "Unnamed Road, Quito, Ecuador",
     "phone": "+593997101535"
   },
   {
@@ -1949,7 +1876,7 @@
   },
   {
     "name": "Bandidos Del Paramo",
-    "address": "QFJX+277, Jose Maria Aguirre, Quito 170136, Ecuador",
+    "address": "Jose Maria Aguirre, Quito 170136, Ecuador",
     "phone": "+277170136"
   },
   {
@@ -1959,7 +1886,7 @@
   },
   {
     "name": "Inspiring Ecuador",
-    "address": "QFHP+RX7, Eugenio Espejo, Quito 170401, Ecuador",
+    "address": "Eugenio Espejo, Quito 170401, Ecuador",
     "phone": "+59322570371"
   },
   {
@@ -2044,7 +1971,7 @@
   },
   {
     "name": "Grand Hotel Guayaquil, an Ascend Hotel Collection Member",
-    "address": "V445+578, Dr.Luis Augusto Mendoza Moreira, Guayaquil 090513, Ecuador",
+    "address": "Dr.Luis Augusto Mendoza Moreira, Guayaquil 090513, Ecuador",
     "phone": "445+578090513"
   },
   {
@@ -2074,7 +2001,7 @@
   },
   {
     "name": "Luxury Suites River Front",
-    "address": "R33J+M82, y, Guayaquil 090412, Ecuador",
+    "address": "y, Guayaquil 090412, Ecuador",
     "phone": "33+82090412"
   },
   {
@@ -2179,12 +2106,12 @@
   },
   {
     "name": "Urdesa Suites Hotel",
-    "address": "R4H4+JGR, 1er Callejon 12 NO, Guayaquil 090512, Ecuador",
+    "address": "1er Callejon 12 NO, Guayaquil 090512, Ecuador",
     "phone": "44+112090512"
   },
   {
     "name": "Dreamkapture Hostel, Guayaquil - Ecuador",
-    "address": "R4X5+8MH, 5o, Guayaquil 090513, Ecuador",
+    "address": "5o, Guayaquil 090513, Ecuador",
     "phone": "45+85090513"
   },
   {
@@ -2249,7 +2176,7 @@
   },
   {
     "name": "Hotel Castell",
-    "address": "R48C+6MP, Guayaquil 090306, Ecuador",
+    "address": "Guayaquil 090306, Ecuador",
     "phone": "+59342597850"
   },
   {
@@ -2319,7 +2246,7 @@
   },
   {
     "name": "Apartments Puerto Santa Ana",
-    "address": "V426+HPJ, Guayaquil 090513, Ecuador",
+    "address": "Guayaquil 090513, Ecuador",
     "phone": "+593980198203"
   },
   {
@@ -2339,7 +2266,7 @@
   },
   {
     "name": "Hostel Macaw",
-    "address": "R456+5VP, Guayaquil 090312, Ecuador",
+    "address": "Guayaquil 090312, Ecuador",
     "phone": "+59345114132"
   },
   {
@@ -2394,7 +2321,7 @@
   },
   {
     "name": "Hotel Fika",
-    "address": "V436+WV7, C. 15C N-E-Dr.Miguel Angel Jijon Teran, Guayaquil 090513, Ecuador",
+    "address": "C. 15C N-E-Dr.Miguel Angel Jijon Teran, Guayaquil 090513, Ecuador",
     "phone": "436+715090513"
   },
   {
@@ -2439,7 +2366,7 @@
   },
   {
     "name": "Hostel Suites Madrid",
-    "address": "Q4W6+VGH, lorenzo de garaicoa y brasil, Guayaquil, Ecuador",
+    "address": "lorenzo de garaicoa y brasil, Guayaquil, Ecuador",
     "phone": "+59342415788"
   },
   {
@@ -2464,7 +2391,7 @@
   },
   {
     "name": "Hotel Luque",
-    "address": "R448+WVP, Chile, Guayaquil 090313, Ecuador",
+    "address": "Chile, Guayaquil 090313, Ecuador",
     "phone": "+59342321080"
   },
   {
@@ -2501,5 +2428,3322 @@
     "name": "Marcelius Business",
     "address": "1615 Boyaca entre, Diez de Agosto &, Guayaquil 090307, Ecuador",
     "phone": "1615090307"
+  },
+  {
+    "name": "El Conquistador",
+    "address": "La Condamine, Cuenca, Ecuador",
+    "phone": "+59372840100"
+  },
+  {
+    "name": "Hotel Victoria",
+    "address": "Benigno Malo 1095-1015, Cuenca, Ecuador",
+    "phone": "10951015"
+  },
+  {
+    "name": "TRYP by Wyndham Cuenca Zahir",
+    "address": "Junto Al, Mall del Rio, Ave. CircunvalacióN Sur, Y, Cuenca 010169, Ecuador",
+    "phone": "+593980212653"
+  },
+  {
+    "name": "ITZA Hotel Boutique Internacional",
+    "address": "Calle Larga 7-93 y, Cuenca 010150, Ecuador",
+    "phone": "793010150"
+  },
+  {
+    "name": "Hotel Oro Verde Cuenca",
+    "address": "Av. Del Estadio y, Florencia Astudillo Esq, Cuenca 010107, Ecuador",
+    "phone": "+59374105000"
+  },
+  {
+    "name": "Four Points by Sheraton Cuenca",
+    "address": "Presidente Córdova, y, General Torres, Cuenca 010111, Ecuador",
+    "phone": "+59372848138"
+  },
+  {
+    "name": "Hotel Santa Lucia",
+    "address": "Planta Baja, Calle:Presidente Borrero, Exterior: 8-44, Cuenca 010101, Ecuador",
+    "phone": "844010101"
+  },
+  {
+    "name": "Mansión Alcázar",
+    "address": "Simón Bolívar 12-55 Y, Cuenca, Ecuador",
+    "phone": "+593998254612"
+  },
+  {
+    "name": "Selina Cuenca",
+    "address": "sector de la Iglesia Calle de la Merced, Honorato Vázquez 7-36, entre Borrero, y, Cuenca 010100, Ecuador",
+    "phone": "736010100"
+  },
+  {
+    "name": "Hotel Cruz del Vado",
+    "address": "Av Ordóñez Lasso S/N, Cuenca 010150, Ecuador",
+    "phone": "+59374090000"
+  },
+  {
+    "name": "Hotel Inca Real",
+    "address": "Sucre 11-60 entre Tarqui y General Torres, Cuenca 010101, Ecuador",
+    "phone": "1160010101"
+  },
+  {
+    "name": "Hotel Victoria",
+    "address": "Mariano Cueva, Simón Bolívar 9-42 y, Cuenca 010105, Ecuador",
+    "phone": "942010105"
+  },
+  {
+    "name": "Valgus Hotel & Centro de negocios",
+    "address": "Cuenca 010107, Ecuador",
+    "phone": "+59372817565"
+  },
+  {
+    "name": "El Conquistador",
+    "address": "10-56, Hermano Miguel, Cuenca 010104, Ecuador",
+    "phone": "1056010104"
+  },
+  {
+    "name": "NASS Bed & Breakfast",
+    "address": "General Eloy Alfaro 1-43, Cuenca 010105, Ecuador",
+    "phone": "143010105"
+  },
+  {
+    "name": "Casa Firenza Hotel & Suites Boutique",
+    "address": "Aurelio Aguilar V. 1-31, Cuenca 010107, Ecuador",
+    "phone": "131010107"
+  },
+  {
+    "name": "Hotel Cuenca",
+    "address": "Av. Diez de Agosto 457, Cuenca 010107, Ecuador",
+    "phone": "457010107"
+  },
+  {
+    "name": "Hotel Raymipampa",
+    "address": "Calle Larga, Cuenca 010107, Ecuador",
+    "phone": "+593989856924"
+  },
+  {
+    "name": "San Juan Hotel",
+    "address": "Tarqui 7-92, Cuenca 010101, Ecuador",
+    "phone": "792010101"
+  },
+  {
+    "name": "Hotel Boutique Los Balcones",
+    "address": "Hermano Miguel 4-79 y, Cuenca 010115, Ecuador",
+    "phone": "479010115"
+  },
+  {
+    "name": "Rioné Hotel Boutique",
+    "address": "Mariano Cueva 11-28 y, Cuenca 010101, Ecuador",
+    "phone": "1128010101"
+  },
+  {
+    "name": "Hotel Yanuncay",
+    "address": "Estévez de Toral 11-24, Cuenca 010101, Ecuador",
+    "phone": "1124010101"
+  },
+  {
+    "name": "Floré hotel boutique",
+    "address": "5-66, C. Luis Cordero 5-66 y, Cuenca 010101, Ecuador",
+    "phone": "566566010101"
+  },
+  {
+    "name": "Hotel Italia Cuenca",
+    "address": "Honorato Vásquez 736, Cuenca 010101, Ecuador",
+    "phone": "736010101"
+  },
+  {
+    "name": "Hotel Raymipampa",
+    "address": "Mariscal Sucre 12-19 y, Cuenca 010101, Ecuador",
+    "phone": "1219010101"
+  },
+  {
+    "name": "Hotel El Dorado",
+    "address": "General Torres 11-69 y, Cuenca 010150, Ecuador",
+    "phone": "1169010150"
+  },
+  {
+    "name": "Hotel Cuenca",
+    "address": "Juan Montalvo 11-40, Cuenca 010101, Ecuador",
+    "phone": "1140010101"
+  },
+  {
+    "name": "NASS Bed & Breakfast",
+    "address": "Gonzalo Cordero Dávila 1-57, Cuenca 010150, Ecuador",
+    "phone": "157010150"
+  },
+  {
+    "name": "Hotel Casa San Rafael",
+    "address": "Mariano Cueva 9-69, Cuenca 010205, Ecuador",
+    "phone": "969010205"
+  },
+  {
+    "name": "El Conquistador",
+    "address": "Mariano Cueva 13-59, Cuenca 010101, Ecuador",
+    "phone": "1359010101"
+  },
+  {
+    "name": "Hotel Santa Ana",
+    "address": "Mariano Cueva 11-67, Cuenca 010101, Ecuador",
+    "phone": "1167010101"
+  },
+  {
+    "name": "Hotel Rio Piedra",
+    "address": "Cacique Chaparra, entre Av. Paseo de los Cañaris, y, Cuenca 010104, Ecuador",
+    "phone": "+593994735355"
+  },
+  {
+    "name": "Posada del Angel",
+    "address": "Av. 12 de Abril 5-40, Cuenca, Ecuador",
+    "phone": "+593997245870"
+  },
+  {
+    "name": "Santa Lucia House - Forum",
+    "address": "Tarqui y, Calle Larga, Cuenca 010107, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "La Posada del Rey",
+    "address": "Mariscal Sucre 554, Cuenca, Ecuador",
+    "phone": "+593995544041"
+  },
+  {
+    "name": "Casa Merced",
+    "address": "Hermano Miguel 4-19 y, Cuenca 010104, Ecuador",
+    "phone": "419010104"
+  },
+  {
+    "name": "Hotel Cruz del Vado",
+    "address": "Calle Larga 6-96, Cuenca 010101, Ecuador",
+    "phone": "696010101"
+  },
+  {
+    "name": "La Cofradía Pub-House",
+    "address": "C. Luis Cordero 4-22, Cuenca 010101, Ecuador",
+    "phone": "422010101"
+  },
+  {
+    "name": "Hotel Mariscal Inn & Suites",
+    "address": "Gran colombia 12-64 entre Tarqui y Juan Montalvo, Cuenca, Ecuador",
+    "phone": "+59372823196"
+  },
+  {
+    "name": "HOSTAL SUITE LE FABRIQUE",
+    "address": "Gaspar Sangurima 9 De Octubre 6-22, Cuenca 010101, Ecuador",
+    "phone": "9622010101"
+  },
+  {
+    "name": "Alejandrina Hotel",
+    "address": "Hernando de la Cruz &, Cuenca 010101, Ecuador",
+    "phone": "+593996770482"
+  },
+  {
+    "name": "Hotel El Quijote",
+    "address": "Del Farol 167 y, Cuenca 010202, Ecuador",
+    "phone": "167010202"
+  },
+  {
+    "name": "Hotel Vieja Mansion",
+    "address": "y, Presidente Borrero &, Cuenca, Ecuador",
+    "phone": "+59372824511"
+  },
+  {
+    "name": "Hotel Patrimonio",
+    "address": "Av. Gil Ramírez Dávalos 1-42 y, Cuenca 010103, Ecuador",
+    "phone": "142010103"
+  },
+  {
+    "name": "Hotel Azul De La Plaza",
+    "address": "Av. de las Américas, Cuenca 010107, Ecuador",
+    "phone": "+593984227441"
+  },
+  {
+    "name": "Hotel Morenica del Rosario",
+    "address": "Benigno Malo 10-31, Cuenca 010107, Ecuador",
+    "phone": "1031010107"
+  },
+  {
+    "name": "Hotel NASS Loft Atahualpa",
+    "address": "Luis Cordero 11-29 y Mariscal Lamar, Cuenca 010101, Ecuador",
+    "phone": "1129010101"
+  },
+  {
+    "name": "Hotel Check Inn",
+    "address": "Carlos Quinto, Cuenca, Ecuador",
+    "phone": "+593997004303"
+  },
+  {
+    "name": "Wild Incas Cuenca",
+    "address": "Benigno Malo 6-34 y, Cuenca, Ecuador",
+    "phone": "+593988358413"
+  },
+  {
+    "name": "Casa Ruth Hotel Boutique",
+    "address": "AVENIDA 27 de FEBRERO 6-42. Entre Arturo Valencia, y, Cuenca 010204, Ecuador",
+    "phone": "27642010204"
+  },
+  {
+    "name": "Hotel Pinar del Lago",
+    "address": "Benigno Malo 10-70 y, Cuenca 010101, Ecuador",
+    "phone": "1070010101"
+  },
+  {
+    "name": "La Cigale",
+    "address": "Juan Montalvo 10-44 y, Cuenca, Ecuador",
+    "phone": "+593987132380"
+  },
+  {
+    "name": "Casa De Las Rosas",
+    "address": "Unnamed Road, Cuenca 010107, Ecuador",
+    "phone": "+59372843048"
+  },
+  {
+    "name": "Hotel Kuna",
+    "address": "Tarqui 946, Cuenca, Ecuador",
+    "phone": "+593991703807"
+  },
+  {
+    "name": "CASA SAN BENITO HOSPEDAJE BOUTIQUE",
+    "address": "Av. 12 de Abril, y, Cuenca 010150, Ecuador",
+    "phone": "12010150"
+  },
+  {
+    "name": "Hotel Chasky Cuenca",
+    "address": "Avenue Remigio Romero 2-61, Cuenca 010203, Ecuador",
+    "phone": "261010203"
+  },
+  {
+    "name": "Casa Montalvo Bed & Breakfast",
+    "address": "Antonio Vega Muñoz 7-45, Cuenca 010104, Ecuador",
+    "phone": "745010104"
+  },
+  {
+    "name": "Hotel Pegasus",
+    "address": "Simón Bolívar 17-89, Cuenca 010111, Ecuador",
+    "phone": "1789010111"
+  },
+  {
+    "name": "Hotel El Morlaco",
+    "address": "Av. Ricardo Durán, Baños 010150, Ecuador",
+    "phone": "+59372892485"
+  },
+  {
+    "name": "Hosteria Duran",
+    "address": "Cuenca, Ecuador",
+    "phone": "+59372850130"
+  },
+  {
+    "name": "Venue Batán Hotel&Suites",
+    "address": "C. Gran Colombia 2, Cuenca 010107, Ecuador",
+    "phone": "+593998571180"
+  },
+  {
+    "name": "Casa Todosantos",
+    "address": "Juan Montalvo 8-33, Cuenca 010150, Ecuador",
+    "phone": "833010150"
+  },
+  {
+    "name": "Le Bristol aparthotel",
+    "address": "Av. de las Américas 10-93 y, Cuenca 010106, Ecuador",
+    "phone": "1093010106"
+  },
+  {
+    "name": "Hotel Terra Sur Cuenca",
+    "address": "C. Luis Cordero 1144, Cuenca, Ecuador",
+    "phone": "+593984987698"
+  },
+  {
+    "name": "Hotel Las Gardenias",
+    "address": "Honorato Vásquez 7-80, Cuenca, Ecuador",
+    "phone": "+59372835308"
+  },
+  {
+    "name": "La Posada Cuencana",
+    "address": "Av. Ordoñez Lasso E Higuerillas, Av Ordóñez Lasso, Cuenca 010215, Ecuador",
+    "phone": "476+426010215"
+  },
+  {
+    "name": "Hotel 4 Mundos Cuenca",
+    "address": "General Torres 8-82, Cuenca, Ecuador",
+    "phone": "+59372831711"
+  },
+  {
+    "name": "Villa Entre Rios",
+    "address": "Manuel Vega 12- 57 y, Cuenca, Ecuador",
+    "phone": "+59374115454"
+  },
+  {
+    "name": "Mochiliers",
+    "address": "Presidente Borrero, y, Cuenca 010101, Ecuador",
+    "phone": "+593983083986"
+  },
+  {
+    "name": "Hotel Majestic 1",
+    "address": "Vargas Machuca 11-50, Cuenca 010101, Ecuador",
+    "phone": "1150010101"
+  },
+  {
+    "name": "HOSTAL KOLIBRI B&B",
+    "address": "Mariscal Sucre 3-50, Cuenca 010101, Ecuador",
+    "phone": "350010101"
+  },
+  {
+    "name": "Guillerminas Hostel Boutique",
+    "address": "Simon Bolivar 6-22 Entre Hermano Miguel, Calle Alfonso Borrero &, Cuenca 010150, Ecuador",
+    "phone": "622010150"
+  },
+  {
+    "name": "Santiago De Compostella Suites - Hotel",
+    "address": "C. Gran Colombia 10-65 y, Cuenca 010101, Ecuador",
+    "phone": "1065010101"
+  },
+  {
+    "name": "Hospedaje La Farola",
+    "address": "Hermano Miguel 9 - 58 and Gran Colombia front of Pasaje, Cuenca 010154, Ecuador",
+    "phone": "958010154"
+  },
+  {
+    "name": "San Rocke House",
+    "address": "Coronel Guillermo Tálbot 8-64, Cuenca 010101, Ecuador",
+    "phone": "864010101"
+  },
+  {
+    "name": "Hotel La Orquídea",
+    "address": "C. Luis Cordero 5-65 y, Cuenca 010104, Ecuador",
+    "phone": "565010104"
+  },
+  {
+    "name": "Hostel Bella Vista",
+    "address": "Calle Gran Colombia 13-34 Entre Esteves de Toral, y, Cuenca, Ecuador",
+    "phone": "+593999826709"
+  },
+  {
+    "name": "Hotel Lloresa",
+    "address": "La Condamine y, Tarqui, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hotel Inés Maria",
+    "address": "sector de la Iglesia Calle de la Merced, Honorato Vázquez 7-36, entre Borrero, y, Cuenca 010100, Ecuador",
+    "phone": "736010100"
+  },
+  {
+    "name": "Hostal Siberia",
+    "address": "Mariano Cueva 7-45 y, Cuenca, Ecuador",
+    "phone": "+59372850734"
+  },
+  {
+    "name": "La Casa Cuencana",
+    "address": "Pdte. Córdova 10-33 y, Cuenca 010107, Ecuador",
+    "phone": "1033010107"
+  },
+  {
+    "name": "Hotel Balcón del Arte",
+    "address": "C. Mariscal Lamar 4-19, Cuenca 010150, Ecuador",
+    "phone": "419010150"
+  },
+  {
+    "name": "Hostal Morlaquita",
+    "address": "Simón Bolívar 14-11, Cuenca 010101, Ecuador",
+    "phone": "1411010101"
+  },
+  {
+    "name": "Apartamentos Otorongo",
+    "address": "Pdte. Córdova 8-40, Cuenca 010150, Ecuador",
+    "phone": "840010150"
+  },
+  {
+    "name": "Hotel Norte",
+    "address": "Presidente Córdova, y, General Torres, Cuenca 010111, Ecuador",
+    "phone": "+59372848138"
+  },
+  {
+    "name": "Hostal El Río",
+    "address": "Presidente Borrero 10-91, Cuenca, Ecuador",
+    "phone": "+59372828801"
+  },
+  {
+    "name": "NASS Central Garden",
+    "address": "C. Gran Colombia, Cuenca 010101, Ecuador",
+    "phone": "+59372842888"
+  },
+  {
+    "name": "Hotel Las Americas",
+    "address": "Federico Malo 1-261 and Tadeo Torres, Cuenca 001015, Ecuador",
+    "phone": "1261001015"
+  },
+  {
+    "name": "Hostal Casa de Lidice",
+    "address": "C. Gran Colombia 11, Cuenca, Ecuador",
+    "phone": "+59372840674"
+  },
+  {
+    "name": "Casa Isabel",
+    "address": "C. Gran Colombia 7-39, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "La Casa Azul",
+    "address": "Presidente Borrero 1069, Cuenca, Ecuador",
+    "phone": "+59372833711"
+  },
+  {
+    "name": "Pepe´s House Cuenca | Hotel & Boutique Hostel",
+    "address": "Av. España y Huayna-capac, Cuenca 010110, Ecuador",
+    "phone": "+59372840060"
+  },
+  {
+    "name": "Casa Merced",
+    "address": "Vargas Machuca 10-70 y, Cuenca 010150, Ecuador",
+    "phone": "1070010150"
+  },
+  {
+    "name": "El Cafecito Cuenca",
+    "address": "Simón Bolívar 5-05, Cuenca, Ecuador",
+    "phone": "+59372823920"
+  },
+  {
+    "name": "Hostal Yakumama",
+    "address": "Presidente Borrero 12-08 y, Cuenca, Ecuador",
+    "phone": "+59372842103"
+  },
+  {
+    "name": "BlueBird Bed&Breakfast",
+    "address": "Eduardo Malo, Cuenca 010107, Ecuador",
+    "phone": "+59374092085"
+  },
+  {
+    "name": "Posada Todos Santos",
+    "address": "Padre Aguirre 8, Cuenca 010107, Ecuador",
+    "phone": "+59372840253"
+  },
+  {
+    "name": "Mallki Hostel",
+    "address": "C. Gran Colombia 11, Cuenca, Ecuador",
+    "phone": "+59372840674"
+  },
+  {
+    "name": "Hotel 4 Rios Cuenca",
+    "address": "Presidente Borrero 1069, Cuenca, Ecuador",
+    "phone": "+59372833711"
+  },
+  {
+    "name": "Hostal El Cajas",
+    "address": "Federico Malo 1-261 and Tadeo Torres, Cuenca 001015, Ecuador",
+    "phone": "1261001015"
+  },
+  {
+    "name": "Hotel Rest House",
+    "address": "Calle General Torres, y, Cuenca, Ecuador",
+    "phone": "+59372840870"
+  },
+  {
+    "name": "Tiesto's Cafe Restaurant",
+    "address": "Simón Bolívar, Cuenca 010104, Ecuador",
+    "phone": "+59372823918"
+  },
+  {
+    "name": "Casa Alonso Gourmet Restaurant",
+    "address": "Av. 12 de Abril, Cuenca 010101, Ecuador",
+    "phone": "12010101"
+  },
+  {
+    "name": "El Mercado",
+    "address": "Av del Estadio, y Esq, Cuenca 010150, Ecuador",
+    "phone": "+59374105000"
+  },
+  {
+    "name": "La Esquina",
+    "address": "Estévez de Toral, Cuenca 010111, Ecuador",
+    "phone": "+593999528496"
+  },
+  {
+    "name": "Mangiare Bene",
+    "address": "Roberto Crespo Toral 3-56, Cuenca 010107, Ecuador",
+    "phone": "356010107"
+  },
+  {
+    "name": "El Jardín Restaurante",
+    "address": "Calle Larga 5-90, Cuenca 010101, Ecuador",
+    "phone": "590010101"
+  },
+  {
+    "name": "Dos Sucres",
+    "address": "Calle Larga 6-93, Cuenca, Ecuador",
+    "phone": "+593993099131"
+  },
+  {
+    "name": "Zircus Restaurant",
+    "address": "junto a la Catedral, Benigno Malo 8-59, Cuenca, Ecuador",
+    "phone": "+59372834159"
+  },
+  {
+    "name": "Raymipampa Restaurant",
+    "address": "Juan Jaramillo 4-89 y Mariano Cueva, Juan Jaramillo 4-89, Cuenca 010104, Ecuador",
+    "phone": "489489010104"
+  },
+  {
+    "name": "Rosée Dip & Drink by Villarosa",
+    "address": "Calle Larga 8-27, Cuenca, Ecuador",
+    "phone": "+59372823089"
+  },
+  {
+    "name": "PARADISE INDIAN RESTAURANT CUENCA",
+    "address": "Calle Honorato Vázquez, Exterior:6-29, Cuenca, Ecuador",
+    "phone": "+593992260154"
+  },
+  {
+    "name": "Capitan",
+    "address": "Entre Honorato Vázquez, Presidente Borrero 566, Cuenca 010101, Ecuador",
+    "phone": "566010101"
+  },
+  {
+    "name": "SAUJA bistro restaurant",
+    "address": "Sin, Padre Aguirre, Cuenca 010101, Ecuador",
+    "phone": "+59372834963"
+  },
+  {
+    "name": "Moliendo Café",
+    "address": "Av. Jose Peralta, Cuenca 010107, Ecuador",
+    "phone": "+59374103406"
+  },
+  {
+    "name": "Sabatino's Garden Restaurant",
+    "address": "Presidente Borrero 6-27, Cuenca 010104, Ecuador",
+    "phone": "627010104"
+  },
+  {
+    "name": "Thai Connection",
+    "address": "C. Luis Cordero 578, Cuenca, Ecuador",
+    "phone": "+593958992423"
+  },
+  {
+    "name": "Monday Blue",
+    "address": "PASEO 3 DE NOVIEMBRE Y, Escalinata Juana de Oro, Cuenca 010107, Ecuador",
+    "phone": "+593984949934"
+  },
+  {
+    "name": "Sofy Glocal Cuisine",
+    "address": "Mariscal Sucre 232, Cuenca, Ecuador",
+    "phone": "+593967551204"
+  },
+  {
+    "name": "Tres Estrellas",
+    "address": "Manuel Vega 9-52, Cuenca, Ecuador",
+    "phone": "+59372834003"
+  },
+  {
+    "name": "Akelarre Restaurant",
+    "address": "Benigno Malo, Cuenca, Ecuador",
+    "phone": "+59372835065"
+  },
+  {
+    "name": "Bistro Yaku",
+    "address": "Federico Malo 1-64, Cuenca 010107, Ecuador",
+    "phone": "164010107"
+  },
+  {
+    "name": "Salumeria Vecchia Modena",
+    "address": "Calle Larga 9-34 y, Cuenca 010101, Ecuador",
+    "phone": "934010101"
+  },
+  {
+    "name": "Thai Connection",
+    "address": "Av. del Estadio, Cuenca 010107, Ecuador",
+    "phone": "+593984325977"
+  },
+  {
+    "name": "Le moulin Restaurante",
+    "address": "Remigio Tamariz Crespo 2-21, Cuenca, Ecuador",
+    "phone": "+593983733050"
+  },
+  {
+    "name": "Goza Espresso Bar",
+    "address": "Frente Edif Genova, Av. Juan Iñiguez y Av, Alfonso Moreno Mora, Cuenca 010101, Ecuador",
+    "phone": "+593958733259"
+  },
+  {
+    "name": "Govinda's Vegetariano & Vegano",
+    "address": "Presidente Borrero 627, Cuenca, Ecuador",
+    "phone": "+59372844344"
+  },
+  {
+    "name": "Golden Prague Pub - Cuenca",
+    "address": "Agustín Cueva, Cuenca, Ecuador",
+    "phone": "+593989607566"
+  },
+  {
+    "name": "Punjabi Rasoi indian Restaurant",
+    "address": "Calle: Remijio Romero, Exterior: 3-55, Remijio, Cuenca 010203, Ecuador",
+    "phone": "355010203"
+  },
+  {
+    "name": "Kolo Restaurant and Bakery",
+    "address": "Presidente Borrero 844 y, Cuenca 010104, Ecuador",
+    "phone": "844010104"
+  },
+  {
+    "name": "Restaurant Pizzería Mediterráneo",
+    "address": "Cuenca, Ecuador",
+    "phone": "+593983911394"
+  },
+  {
+    "name": "Las Campanas Restaurant",
+    "address": "Padre Aguirre 8-17 y, Cuenca, Ecuador",
+    "phone": "+593989928069"
+  },
+  {
+    "name": "Fabiano's pizzería",
+    "address": "Calle Alfonso Cordero, Todos Santos S/N, Cuenca 010204, Ecuador",
+    "phone": "+593992791332"
+  },
+  {
+    "name": "El Pedregal Azteca",
+    "address": "Luis Cordero y Bolivar, Casa del Parque, Cuenca 010101, Ecuador",
+    "phone": "+593984551397"
+  },
+  {
+    "name": "Cafe del Museo",
+    "address": "Interior Hotel Carvallo, Gran Colombia 9-52 Entre Padre Aguirre y, Benigno Malo, Cuenca 010150, Ecuador",
+    "phone": "952010150"
+  },
+  {
+    "name": "La Placita",
+    "address": "Luis cordero entre bolivar y gran colombia, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Carbón Restaurante",
+    "address": "Calle Larga, Exterior:8-17, Cuenca 010101, Ecuador",
+    "phone": "817010101"
+  },
+  {
+    "name": "Cafe San Sebas",
+    "address": "Paucarbamba 4-114, Cuenca 010107, Ecuador",
+    "phone": "4114010107"
+  },
+  {
+    "name": "LaMaría Cocina Libre",
+    "address": "Florencia Astudillo 1-28, Cuenca 010107, Ecuador",
+    "phone": "128010107"
+  },
+  {
+    "name": "Quo Vadis Gourmet Italia",
+    "address": "C. Luis Cordero 12-32, Cuenca, Ecuador",
+    "phone": "+59372831016"
+  },
+  {
+    "name": "Mansión Matilde",
+    "address": "Honorato Vásquez 6-93 y, Cuenca, Ecuador",
+    "phone": "+593982407815"
+  },
+  {
+    "name": "La Olla",
+    "address": "Calle Padre Aguirre, Exterior: 8-19, Cuenca 010101, Ecuador",
+    "phone": "819010101"
+  },
+  {
+    "name": "EL MESÓN ESPAÑOL",
+    "address": "Calle, Cacique Duma S/N, Cuenca 010104, Ecuador",
+    "phone": "+59374109302"
+  },
+  {
+    "name": "El Confesionario Cuenca",
+    "address": "Hermano Miguel 8, Cuenca 010101, Ecuador",
+    "phone": "+59372840899"
+  },
+  {
+    "name": "Black Angus",
+    "address": "Pa. 3 de Noviembre, Cuenca 010107, Ecuador",
+    "phone": "3+743010107"
+  },
+  {
+    "name": "Restaurante La Mansion",
+    "address": "Av. 12 de Abril, Cuenca 010150, Ecuador",
+    "phone": "12010150"
+  },
+  {
+    "name": "SUNRISE CAFE",
+    "address": "Gonzalo Cordero Dávila 4-31 y, Cuenca, Ecuador",
+    "phone": "+59372810476"
+  },
+  {
+    "name": "La Madame",
+    "address": "Ramirez, Cuenca 010107, Ecuador",
+    "phone": "+59372882869"
+  },
+  {
+    "name": "La Parrillada Argentina (El Che Pibe)",
+    "address": "Calle, Alfonso Cordero S/N, Cuenca 010107, Ecuador",
+    "phone": "+59374103482"
+  },
+  {
+    "name": "Distrito - Cuenca Taller de Tapas",
+    "address": "Simón Bolívar 8-44, Cuenca 010101, Ecuador",
+    "phone": "844010101"
+  },
+  {
+    "name": "Puerto Monje",
+    "address": "Calle Borrero entre Jaramillo, y, Cuenca 010170, Ecuador",
+    "phone": "+593963244357"
+  },
+  {
+    "name": "El Santo",
+    "address": "Vargas Machuca 4-31, Cuenca, Ecuador",
+    "phone": "+593978697004"
+  },
+  {
+    "name": "Amaya Bistro",
+    "address": "Presidente Borrero 5-64 y, Cuenca 010104, Ecuador",
+    "phone": "564010104"
+  },
+  {
+    "name": "Cositas Restaurant",
+    "address": "Av. 12 de Abril y Guayas (A 100m del, Puente del Vado, Cuenca 010208, Ecuador",
+    "phone": "12100010208"
+  },
+  {
+    "name": "RESTAURANT LOS GATOS",
+    "address": "Vargas Machuca 3-33, Cuenca 010107, Ecuador",
+    "phone": "333010107"
+  },
+  {
+    "name": "La Chicheria",
+    "address": "Manuel Vega 8-66, Cuenca 010101, Ecuador",
+    "phone": "866010101"
+  },
+  {
+    "name": "Balcon Quiteno",
+    "address": "Presidente Borrero 10-87, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Little Thai Restaurant",
+    "address": "Hermano Miguel 652, Cuenca 010101, Ecuador",
+    "phone": "652010101"
+  },
+  {
+    "name": "La Herencia Del Sabor",
+    "address": "Gaspar Sangurima 6-49, Cuenca 010101, Ecuador",
+    "phone": "649010101"
+  },
+  {
+    "name": "YúA Restaurante",
+    "address": "Museo de los Metales, Av. Fray Vicente Solano 11-83 y, Cuenca, Ecuador",
+    "phone": "+593998591505"
+  },
+  {
+    "name": "Alfredos Cazuelas",
+    "address": "Alfonso Cordero, A.Vega 7-50) y, Cuenca 010203, Ecuador",
+    "phone": "750010203"
+  },
+  {
+    "name": "D'Fercho Restaurant",
+    "address": "Simón Bolívar 4-49, Cuenca 010101, Ecuador",
+    "phone": "449010101"
+  },
+  {
+    "name": "Los Molinos del Batán",
+    "address": "Manuel Vega 919:, Simón Bolívar, Cuenca 010101, Ecuador",
+    "phone": "919010101"
+  },
+  {
+    "name": "D’Leñus",
+    "address": "C. Luis Cordero 6-75, Cuenca 010101, Ecuador",
+    "phone": "675010101"
+  },
+  {
+    "name": "Restaurante Amaya",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Coco's Green",
+    "address": "Luis Moreno Mora S/N, Cuenca 010204, Ecuador",
+    "phone": "+593992947034"
+  },
+  {
+    "name": "El Nopal",
+    "address": "Remigio Crespo, Exterior: 2-19, Cuenca 010203, Ecuador",
+    "phone": "219010203"
+  },
+  {
+    "name": "Chef Papa",
+    "address": "Calle Larga 9-82, Cuenca, Ecuador",
+    "phone": "+593992747145"
+  },
+  {
+    "name": "El Rey Del Burrito",
+    "address": "Calle Larga 938, Cuenca, Ecuador",
+    "phone": "+59372840423"
+  },
+  {
+    "name": "El Charrua Parrillada Uruguaya",
+    "address": "Benigno Malo, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "NEGRONI Cuenca",
+    "address": "Tarqui 7-57 entre sucre y pdt, Pdte. Córdova, Cuenca 010105, Ecuador",
+    "phone": "757010105"
+  },
+  {
+    "name": "Cuchi Suco BBQ Pit",
+    "address": "Gonzalo Cordero Dávila 1 53 y, Cuenca 010111, Ecuador",
+    "phone": "153010111"
+  },
+  {
+    "name": "Sisa Restaurante",
+    "address": "Pizar-Cápac 134, Cuenca, Ecuador",
+    "phone": "+59374084274"
+  },
+  {
+    "name": "Las Cúpulas Restaurante",
+    "address": "Parque Calderon - Benigno malo & Simon Bolivar | Seminario San Luis, Cuenca, Ecuador",
+    "phone": "+593995795891"
+  },
+  {
+    "name": "Café Austria",
+    "address": "Calle, Presidente Borrero 7-47, Cuenca 010101, Ecuador",
+    "phone": "747010101"
+  },
+  {
+    "name": "CASSOT",
+    "address": "Honorato Vásquez S/N, Cuenca 010101, Ecuador",
+    "phone": "+593968880756"
+  },
+  {
+    "name": "Cositas",
+    "address": "C. Luis Cordero, Cuenca 010110, Ecuador",
+    "phone": "+593995030935"
+  },
+  {
+    "name": "Nandala Cocina Vegana",
+    "address": "Benigno Malo 516 y, Cuenca 010112, Ecuador",
+    "phone": "516010112"
+  },
+  {
+    "name": "Guajibamba",
+    "address": "Presidente Borrero 10-69 y, Cuenca 010104, Ecuador",
+    "phone": "1069010104"
+  },
+  {
+    "name": "Goda Restaurant and Bar",
+    "address": "Agustín Cueva y Av. 12 de Abril Esquina, Cuenca 010101, Ecuador",
+    "phone": "12010101"
+  },
+  {
+    "name": "Restaurante Kolibri",
+    "address": "San Sebastian 1-94 Y, Cuenca 010150, Ecuador",
+    "phone": "194010150"
+  },
+  {
+    "name": "COMER SANAR VIVIR",
+    "address": "Pdte. Córdova 4-74, Cuenca 010101, Ecuador",
+    "phone": "474010101"
+  },
+  {
+    "name": "Consuelo Restaurante",
+    "address": "Calle Paseo Tres de Noviembre S/N, Cuenca 010101, Ecuador",
+    "phone": "+593993780721"
+  },
+  {
+    "name": "Indian Restaurant Barbecue palace",
+    "address": "Estévez de Toral 8-60, Cuenca, Ecuador",
+    "phone": "+59372823652"
+  },
+  {
+    "name": "Chill & Grill",
+    "address": "C. Luis Cordero 674, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Terra Rooftop 360",
+    "address": "y Altos del Hotel Vieja Mansión, Luis Cordero, Juan Jaramillo 5-65 e, Cuenca 010107, Ecuador",
+    "phone": "565010107"
+  },
+  {
+    "name": "Santa Lucia Restaurante",
+    "address": "Honorato Vásquez 7-64, Cuenca 010101, Ecuador",
+    "phone": "764010101"
+  },
+  {
+    "name": "D'Galia Perú",
+    "address": "Calle Larga 5-48, Cuenca 010101, Ecuador",
+    "phone": "548010101"
+  },
+  {
+    "name": "Raclette Cuenca",
+    "address": "Gaspar Sangurima 6-22 Y, Presidente Borrero, Cuenca 010101, Ecuador",
+    "phone": "622010101"
+  },
+  {
+    "name": "Chinatown",
+    "address": "Gonzalo Cordero Dávila, Cuenca 010104, Ecuador",
+    "phone": "+593967344696"
+  },
+  {
+    "name": "La Herradura Parrilladas",
+    "address": "Av. 12 de Abril 285, Cuenca 010208, Ecuador",
+    "phone": "12285010208"
+  },
+  {
+    "name": "El Gaucho Parrilla Argentina",
+    "address": "Honorato Vásquez 639 y, Cuenca, Ecuador",
+    "phone": "+593987046607"
+  },
+  {
+    "name": "Pio Café by Pio Pio Restaurants",
+    "address": "Calle Alfonso Cordero y, Av. Jose Peralta s/n, Cuenca 010107, Ecuador",
+    "phone": "+593984586070"
+  },
+  {
+    "name": "Origami",
+    "address": "Luis Moreno Mora &, Cuenca 010107, Ecuador",
+    "phone": "+593987633506"
+  },
+  {
+    "name": "Prancing Pony Cafe",
+    "address": "General Torres 8-40, Cuenca 010101, Ecuador",
+    "phone": "840010101"
+  },
+  {
+    "name": "Café Del Parque",
+    "address": "C. Luis Cordero 5-66 y, Cuenca 010101, Ecuador",
+    "phone": "566010101"
+  },
+  {
+    "name": "Taj Mahal",
+    "address": "Calle Larga 1-174, Cuenca 010107, Ecuador",
+    "phone": "1174010107"
+  },
+  {
+    "name": "El Rincón del Ángel",
+    "address": "Simón Bolívar 7-79, Cuenca 010101, Ecuador",
+    "phone": "779010101"
+  },
+  {
+    "name": "El Brujo",
+    "address": "Honorato Vásquez 639 y, Cuenca, Ecuador",
+    "phone": "+593987046607"
+  },
+  {
+    "name": "Mayu",
+    "address": "R. Aguilar, Cuenca 010208, Ecuador",
+    "phone": "+593987042538"
+  },
+  {
+    "name": "Kanibales Restaurante",
+    "address": "La Merced, Calle Larga, Cuenca, Ecuador",
+    "phone": "+59372823182"
+  },
+  {
+    "name": "River Mall",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Monay Shopping",
+    "address": "Vargas Machuca 1127, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Centro Comercial Milenium Plaza",
+    "address": "F. Goya, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Batan Shopping Mall",
+    "address": "Presidente Borrero, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "RBS Mall del Rio",
+    "address": "Cam. a San Pedro del Cebollar, Cuenca, Ecuador",
+    "phone": "+59374121913"
+  },
+  {
+    "name": "Multiplaza Miraflores",
+    "address": "Av. Felipe II y Circunvalación Sur, Ave Circunvalación Sur, Cuenca, Ecuador",
+    "phone": "+59372817616"
+  },
+  {
+    "name": "Centro Comercial San Jose",
+    "address": "Avenida Elia Liut &, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Comercial Santa Lucia",
+    "address": "CENTRO COMERCIAL MILLENIUM PLAZA, Cuenca, Ecuador",
+    "phone": "+59374103508"
+  },
+  {
+    "name": "Mall de Max",
+    "address": "C. del Batan, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Racar Plaza",
+    "address": "Presidente Borrero 10-77, Cuenca, Ecuador",
+    "phone": "+59372835745"
+  },
+  {
+    "name": "UNIPLAZA",
+    "address": "Av. de las Américas, Cuenca 010206, Ecuador",
+    "phone": "+593984605556"
+  },
+  {
+    "name": "South Plaza Shopping Mall",
+    "address": "La República 3-22, Cuenca 010104, Ecuador",
+    "phone": "322010104"
+  },
+  {
+    "name": "El Gran Pasaje",
+    "address": "Avenida Gonzalo Suárez S/N, Cuenca 010209, Ecuador",
+    "phone": "+59374106345"
+  },
+  {
+    "name": "Centro Comercial Rotari",
+    "address": "Sur, Av. Felipe II, Cuenca 010150, Ecuador",
+    "phone": "+593997841819"
+  },
+  {
+    "name": "El Vergel Centro Comercial",
+    "address": "Avenue España, Cuenca, Ecuador",
+    "phone": "+593992036649"
+  },
+  {
+    "name": "Roco plaza",
+    "address": "Benigno Malo, Cuenca, Ecuador",
+    "phone": "+593994861994"
+  },
+  {
+    "name": "Plaza De Las Américas",
+    "address": "Avenida 12 de Abril, y Jose Peralta, Cuenca 010204, Ecuador",
+    "phone": "12010204"
+  },
+  {
+    "name": "Los Nogales",
+    "address": "Monumento Chola Cuencana, C. Mariscal Lamar 3-20, Cuenca 010101, Ecuador",
+    "phone": "320010101"
+  },
+  {
+    "name": "Plaza del sol",
+    "address": "Avenida Gonzalo Suárez 14-96, Cuenca 010209, Ecuador",
+    "phone": "1496010209"
+  },
+  {
+    "name": "Centro de comercializacion Artesanal",
+    "address": "SAN JOAQUIN A 20m de la Plaza Central de, Cuenca, Ecuador",
+    "phone": "+593939924045"
+  },
+  {
+    "name": "Supermercados Center Plaza",
+    "address": "Avenida Guapondelig 1-14, Cuenca 010103, Ecuador",
+    "phone": "114010103"
+  },
+  {
+    "name": "Tecnología",
+    "address": "Brazilia J-23 entre Popayan, y, Cuenca 010107, Ecuador",
+    "phone": "23010107"
+  },
+  {
+    "name": "El Detalle Perfecto",
+    "address": "San Joaquín: Av. Erique Arizaga Toral a media cuadra del puente de, C. 1 de Septiembre, Cuenca 010116, Ecuador",
+    "phone": "+593993743593"
+  },
+  {
+    "name": "Casa esquinera",
+    "address": "Luis Moreno Mora, Cuenca 010107, Ecuador",
+    "phone": "+593969999118"
+  },
+  {
+    "name": "Puppy Happy",
+    "address": "Luis Cordero, y 10-32, Cuenca 010107, Ecuador",
+    "phone": "1032010107"
+  },
+  {
+    "name": "Comercial Zhagñay",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "La Casa del Coco",
+    "address": "Avenida Gonzalo Suárez, 21-34, Cuenca 010103, Ecuador",
+    "phone": "2134010103"
+  },
+  {
+    "name": "Plaza Maggio",
+    "address": "y, Mariano Cueva & Pío Bravo, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "CEMUART (Centro Municipal de Artesanias)",
+    "address": "Coronel Guillermo Tálbot &, Cuenca, Ecuador",
+    "phone": "+593991314090"
+  },
+  {
+    "name": "Plaza Baguanchi",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Coral Centro",
+    "address": "Mariscal Sucre 10-18, Cuenca 010101, Ecuador",
+    "phone": "1018010101"
+  },
+  {
+    "name": "Feria Libre - A large market",
+    "address": "Av. De las Américas y Calle Tejar, Centro Comercial Plaza de las Américas. Local 39, Av. del Tejar, Cuenca, Ecuador",
+    "phone": "+59372840946"
+  },
+  {
+    "name": "Comercial Arias",
+    "address": "Parque Artesanal, Chordeleg, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Dikaty",
+    "address": "Mall del Rio, Av. Felipe II, Cuenca, Ecuador",
+    "phone": "+59323802195"
+  },
+  {
+    "name": "Mercado 12 De Abril",
+    "address": "Benigno Malo 6-70, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Warrior Technologies",
+    "address": "Simón Bolívar 6-22, Cuenca 010101, Ecuador",
+    "phone": "622010101"
+  },
+  {
+    "name": "DEKORARE IMPORTACIONES",
+    "address": "Pdte. Córdova, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Feria de Ganado Cuenca",
+    "address": "Av. Felipe II, Cuenca, Ecuador",
+    "phone": "+59374090474"
+  },
+  {
+    "name": "Multicines Millenium Plaza",
+    "address": "ENTRADA A LA CALDERA, Via a Bibin, Ecuador",
+    "phone": "+593982900845"
+  },
+  {
+    "name": "Wester Union",
+    "address": "Calle Larga 1147, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "PLAZA DEL BOSQUE",
+    "address": "General Torres, Cuenca, Ecuador",
+    "phone": "+593984200701"
+  },
+  {
+    "name": "Mall Rio Cuenca",
+    "address": "Gualaceo, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "LUXURY COMPANY EC",
+    "address": "Cuenca, Gualaceo, Ecuador",
+    "phone": "+59359352259056"
+  },
+  {
+    "name": "La esquina de los juguetes",
+    "address": "Centro Comerial Monay Shopping, Piso Nivel, B09-B11 Avenida Gonzalo Suárez S/N, Cuenca 010209, Ecuador",
+    "phone": "0911010209"
+  },
+  {
+    "name": "Arpi Shopping Center",
+    "address": "Centro Comerial Monay Shopping, , Nivel 3, Av. González Suárez S/N, Cuenca 010209, Ecuador",
+    "phone": "+593984704017"
+  },
+  {
+    "name": "Plazangel",
+    "address": "C. C. Mall Del Río Av. Felipe 2 Y, Ave Circunvalación Sur, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Eco Plaza Challuabamba",
+    "address": "Juan Jaramillo 9-55 y, Cuenca 010101, Ecuador",
+    "phone": "955010101"
+  },
+  {
+    "name": "EDCA Mall del Rio - Cuenca",
+    "address": "Av. González Suárez, Cuenca 010109, Ecuador",
+    "phone": "+593995572666"
+  },
+  {
+    "name": "San Blas Shopping",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Plaza Sur",
+    "address": "010203, Cuenca 010107, Ecuador",
+    "phone": "3+9010203010107"
+  },
+  {
+    "name": "TOPCELL SERVICIO TECNICO CUENCA",
+    "address": "Shopping Center, Av. Gonzalez Suarez Y Rayo Loma, C.C, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Natural Vitality - Monay Shopping Center",
+    "address": "Centro Comerial Monay Shopping, B-02, Nivel 3, Av. González Suárez S/N, Cuenca 010209, Ecuador",
+    "phone": "023010209"
+  },
+  {
+    "name": "Plaza San Francisco Cuenca Ecuador",
+    "address": "Mall del Rio, Av. Felipe II, Cuenca, Ecuador",
+    "phone": "+593985167187"
+  },
+  {
+    "name": "Mercado de Artesanias Rotary",
+    "address": "Nivel 4, Centro Comerial Monay Shopping, A-01 S/N, Cuenca 010209, Ecuador",
+    "phone": "401010209"
+  },
+  {
+    "name": "LibriMundi Cuenca bookstore",
+    "address": "Unnamed Road, Cuenca, Ecuador",
+    "phone": "+59374030543"
+  },
+  {
+    "name": "Bellimas",
+    "address": "Cuenca, Ecuador",
+    "phone": "+593999664274"
+  },
+  {
+    "name": "Pharmacys C.C.Monay Shopping Center",
+    "address": "Mall del Rio, Av. Felipe II, Cuenca 010205, Ecuador",
+    "phone": "+593967642753"
+  },
+  {
+    "name": "Tienda y Distribuidora de gas BARBECHO",
+    "address": "Vargas Machuca 1127, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Coral hipermercados",
+    "address": "Luis Rios Rodriguez, Gualaceo, y, Cuenca, Ecuador",
+    "phone": "+593986371833"
+  },
+  {
+    "name": "Campus Ecuador - Cuenca (Monay Shopping)",
+    "address": "Pdte. Córdova 818, Cuenca, Ecuador",
+    "phone": "+593939896833"
+  },
+  {
+    "name": "Plaza de las Flores",
+    "address": "Simón Bolívar S/N, Cuenca 010101, Ecuador",
+    "phone": "+593969119928"
+  },
+  {
+    "name": "Plaza Santa Ana (under construction)",
+    "address": "Presidente Cordova, entre, Padre Aguirre, y, Ecuador",
+    "phone": "+593963292825"
+  },
+  {
+    "name": "Banco Guayaquil • C.C. Monay Shopping",
+    "address": "Centro Comerial Monay Shopping, Piso Nivel, B13-IC04 Avenida Gonzalo Suárez, S/N, Cuenca 010209, Ecuador",
+    "phone": "1304010209"
+  },
+  {
+    "name": "Plaza Marisco Monay Shopping",
+    "address": "Panamericana Nte., Capulispamba, Ecuador",
+    "phone": "+59374075270"
+  },
+  {
+    "name": "Tienda de la Fe",
+    "address": "Av. Felipe II, y, Cuenca 010205, Ecuador",
+    "phone": "+593969309722"
+  },
+  {
+    "name": "Fissare",
+    "address": "Av. Gil Ramírez Dávalos 465, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Athlelic",
+    "address": "Aristóteles &, Cuenca, Ecuador",
+    "phone": "+593995558120"
+  },
+  {
+    "name": "CELL MOVI",
+    "address": "Mall del Rio, Av. Felipe II, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Yanbal",
+    "address": "Av. 10 De Agosto, Y, Cuenca 010203, Ecuador",
+    "phone": "10010203"
+  },
+  {
+    "name": "bank of Guayaquil",
+    "address": "Via Monay Baguanchi Paccha, Cuenca, Ecuador",
+    "phone": "+593984169735"
+  },
+  {
+    "name": "Centro Municipal Artesanal Arts & Crafts",
+    "address": "Av. Gonzalez Suarez. y Emilio Zapata, Cuenca Ecuador 010109, Ecuador",
+    "phone": "+59374078007"
+  },
+  {
+    "name": "Explorer",
+    "address": "25 de Marzo, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Mercado 10 de Agosto",
+    "address": "C. Camilo Ponce Enriquez 27, Azogues, Ecuador",
+    "phone": "+593984168808"
+  },
+  {
+    "name": "Coral Hipermercados San Blas",
+    "address": "Carretera Panamericana, Troncal de la Sierra, Ecuador",
+    "phone": "+59374075555"
+  },
+  {
+    "name": "Portal Center | Venta Online de Computadoras en Cuenca",
+    "address": "Av. De las Americas y del Tejar. C.C. Plaza de las Americas Piso 1, Cuenca 010112, Ecuador",
+    "phone": "+593984459802"
+  },
+  {
+    "name": "GMM Gerencia Marqueting Mundial",
+    "address": "Cuenca 010107, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "COMERCIAL DOM",
+    "address": "Javier Maldonado, Cuenca 010107, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "MULTICINES - MALL DEL RIO",
+    "address": "Mercado 12 de Abril, Padre Monroy, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Smart Shop",
+    "address": "Cornelio Merchan, Cuenca 010107, Ecuador",
+    "phone": "+59372844320"
+  },
+  {
+    "name": "casa Park",
+    "address": "C. Gran Colombia &, Cuenca, Ecuador",
+    "phone": "+593983546764"
+  },
+  {
+    "name": "Cuenca Shop",
+    "address": "Ricaute, Eloy Guambaña S/N, Cuenca 010108, Ecuador",
+    "phone": "+59372475480"
+  },
+  {
+    "name": "La Marca",
+    "address": "Ecuador km 5, Via Monay Baguanchi Paccha, Cuenca, Ecuador",
+    "phone": "+593999269669"
+  },
+  {
+    "name": "Plaza Artesanal",
+    "address": "Simón Bolívar 1260, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Comercial Herrera Verdugo",
+    "address": "Av. Primero de Mayo, Cuenca 010101, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "SUKASA CUENCA",
+    "address": "General Torres y, Pdte. Córdova, Cuenca, Ecuador",
+    "phone": "+59324049194"
+  },
+  {
+    "name": "Mercado 9 de Octubre",
+    "address": "C. Vieja, Cuenca, Ecuador",
+    "phone": "+593991064337"
+  },
+  {
+    "name": "Comercial Rojas",
+    "address": "Via Monay Baguanchi Paccha, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Samsung Store | Cuenca",
+    "address": "Av. de las Américas, Cuenca, Ecuador",
+    "phone": "+593939805566"
+  },
+  {
+    "name": "Ciudad.de.cuenca",
+    "address": "Av. Abelardo J. Andrade, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "PLAZA EUROPEA",
+    "address": "Av. Jose Peralta, Cuenca 010107, Ecuador",
+    "phone": "+593995462336"
+  },
+  {
+    "name": "Monedería Cuenca",
+    "address": "Av. de las Américas, Cuenca, Ecuador",
+    "phone": "+59374104455"
+  },
+  {
+    "name": "Ooh la la",
+    "address": "C. Ricardo Darquea Granda 450, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Ferretero importer Trujillo, Cuenca",
+    "address": "Moctezuma &, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "kokettas Shoes",
+    "address": "Cuenca, Ecuador",
+    "phone": "+593986659850"
+  },
+  {
+    "name": "Paseo del Puente",
+    "address": "Mariscal Sucre 1029, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "El Gato",
+    "address": "y, Ave de las Américas & Calle del Tejar, Cuenca, Ecuador",
+    "phone": "+59374075886"
+  },
+  {
+    "name": "Parque de los Hippies",
+    "address": "Tomas Ordoñez 7-72 entre Pdte Cordova y Mariscal Sucre, Tomás Ordóñez, Cuenca 010101, Ecuador",
+    "phone": "772010101"
+  },
+  {
+    "name": "El Paraíso Park",
+    "address": "Calle Larga, Cuenca 010107, Ecuador",
+    "phone": "323+77010107"
+  },
+  {
+    "name": "Pumapungo Museum",
+    "address": "Calle Larga 1159, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Museum of Aboriginal Cultures",
+    "address": "Hospital del Río, Azogues - Cuenca km 10, Cuenca, Ecuador",
+    "phone": "+593969956055"
+  },
+  {
+    "name": "Amaru Zoológico Bioparque",
+    "address": "Calle Larga 5-24, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Old Cathedral of Cuenca",
+    "address": "C. Luis Cordero, Cuenca, Ecuador",
+    "phone": "+59372834636"
+  },
+  {
+    "name": "Plaza de las Flores",
+    "address": "Puento Roto, Cuenca 010107, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Puente Roto",
+    "address": "Cuenca, Ecuador",
+    "phone": "+593983335238"
+  },
+  {
+    "name": "Catedral de la Inmaculada Concepción",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Museo Remigio Crespo Toral",
+    "address": "Mariscal Sucre, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Parque Nacional Cajas",
+    "address": "Aurelio Aguilar V. 1-31, Cuenca 010107, Ecuador",
+    "phone": "131010107"
+  },
+  {
+    "name": "Museo de las Madres Conceptas",
+    "address": "Av Ordóñez Lasso 7-86, Cuenca 010111, Ecuador",
+    "phone": "786010111"
+  },
+  {
+    "name": "Mercado 9 de Octubre",
+    "address": "11 de Septiembre, Río Verde, Ecuador",
+    "phone": "+59332493165"
+  },
+  {
+    "name": "Ruinas de Pumapungo",
+    "address": "Calle Sucre entre calle Chile y calle, Pedro Carbo, Ecuador",
+    "phone": "+59342594800"
+  },
+  {
+    "name": "Homero Ortega Hats",
+    "address": "San Sebastian Park, Coronel Guillermo Tálbot, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Economuseo Municipal Casa del Sombrero",
+    "address": "Alausí, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Mercado de Artesanias Rotary",
+    "address": "San Sebastian 1-94 Y, Cuenca 010150, Ecuador",
+    "phone": "194010150"
+  },
+  {
+    "name": "Iglesia de San Blas",
+    "address": "Zumbagua, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Cuenca Canopy",
+    "address": "Calle de San sebastian y, Mariscal Sucre, Cuenca, Ecuador",
+    "phone": "+593979093186"
+  },
+  {
+    "name": "Museo Del Sombrero De Paja Toquilla",
+    "address": "Baños de Agua Santa, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Calle Santa Ana",
+    "address": "Av. Gil Ramírez Dávalos 386, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Church of Todos Santos",
+    "address": "Hermano Miguel Exterior:5-62, Cuenca 010101, Ecuador",
+    "phone": "562010101"
+  },
+  {
+    "name": "Prohibido Centro Cultural",
+    "address": "Gaspar Sangurima 11-51, Cuenca 010101, Ecuador",
+    "phone": "1151010101"
+  },
+  {
+    "name": "Tarqui Guzho Park",
+    "address": "Alausí, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Mirador Tres Cruces",
+    "address": "Baños de Agua Santa, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Mirador de Turi",
+    "address": "Simon Bolivar Palacios, Guayaquil 090313, Ecuador",
+    "phone": "+593993075347"
+  },
+  {
+    "name": "Plaza San Francisco Cuenca Ecuador",
+    "address": "Calle Larga 7-93 y, Cuenca 010150, Ecuador",
+    "phone": "793010150"
+  },
+  {
+    "name": "Chapando al Pisho",
+    "address": "Cuenca, Ecuador",
+    "phone": "+59372000100"
+  },
+  {
+    "name": "Cuenca",
+    "address": "Santa Elena, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "CENTRO ECUESTRE BELLAVISTA",
+    "address": "Camino Chilca Totora a Totorillas, Cuenca 010150, Ecuador",
+    "phone": "24+52010150"
+  },
+  {
+    "name": "Miguel Illescas Art Gallery",
+    "address": "VIA BAÑOS PUYO SECTOR AGOYAN FRENTE A HOSTERIA AGOYAN, Vía a Baños, Ecuador",
+    "phone": "+593991334866"
+  },
+  {
+    "name": "Parque",
+    "address": "Cuenca 477, Quito 170401, Ecuador",
+    "phone": "477170401"
+  },
+  {
+    "name": "Eduardo Vega Galeria/Taller",
+    "address": "Remigio Tamariz Crespo entre Alfonso Borrero, y, Cuenca, Ecuador",
+    "phone": "+593995483329"
+  },
+  {
+    "name": "Free Walking Tours Cuenca",
+    "address": "Simón Bolívar, Loja, Ecuador",
+    "phone": "+593981411685"
+  },
+  {
+    "name": "Piedra de Agua, Fuente Termal & Spa",
+    "address": "Chimborazo, Guayaquil 090313, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Parque Extremo Turi",
+    "address": "Calle Pastaza, y, Baños de Agua Santa, Ecuador",
+    "phone": "+593983858733"
+  },
+  {
+    "name": "Museo Paleontológico de Cuenca",
+    "address": "Sibambe, Ecuador",
+    "phone": "+5931800873637"
+  },
+  {
+    "name": "San Pablo Bridge",
+    "address": "Juan Jaramillo 4-89 y Mariano Cueva, Juan Jaramillo 4-89, Cuenca 010104, Ecuador",
+    "phone": "489489010104"
+  },
+  {
+    "name": "Giron Waterfalls",
+    "address": "C. Luis Cordero 12-32, Cuenca, Ecuador",
+    "phone": "+59372831016"
+  },
+  {
+    "name": "Turi",
+    "address": "Km 45 a 50 metros de la Hda Aloja SatoRi 091201, 091201, Ecuador",
+    "phone": "4550091201091201"
+  },
+  {
+    "name": "River Mall",
+    "address": "Via tena km3, Puyo, Ecuador",
+    "phone": "+593987123029"
+  },
+  {
+    "name": "MIPA (Museo Interactivo de Pirotecnia Artesanal)",
+    "address": "Calle, De las Brevas, Cuenca 010150, Ecuador",
+    "phone": "+593968191518"
+  },
+  {
+    "name": "Bellavista",
+    "address": "Gran Colombia 11-02 y General Torres esquina 2do piso, oficina 111, General Torres 11-02, Our cellphone number answers 24 hours, Cuenca 010104, Ecuador",
+    "phone": "11022111110224010104"
+  },
+  {
+    "name": "Antonio Pérez Foundation Museum",
+    "address": "Av. Rio Esmeraldas, Samborondón 092301, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Parque Central De Macas",
+    "address": "Alfonso Moreno Mora 1-75, Cuenca 010150, Ecuador",
+    "phone": "175010150"
+  },
+  {
+    "name": "Laguna Toreadora",
+    "address": "Simón Bolívar 12-55 Y, Cuenca, Ecuador",
+    "phone": "+593998254612"
+  },
+  {
+    "name": "Mercado El Arenal",
+    "address": "Cuenca 477, Quito 170401, Ecuador",
+    "phone": "477170401"
+  },
+  {
+    "name": "Iglesia San Pedro",
+    "address": "Avenue España, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Terminal Terrestre",
+    "address": "Pdte. Córdova 6-37, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Cuenca Bestours Tour Operator",
+    "address": "Av. de las Américas 7, Cuenca 010202, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "AVENTURA SAN MARTIN Park",
+    "address": "y, Padre Aguirre, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Palacio Episcopal - Obispado de Cuenca",
+    "address": "Tarqui, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Guayaquil Historical Park",
+    "address": "Los Cedros 2-05, Cuenca 010208, Ecuador",
+    "phone": "205010208"
+  },
+  {
+    "name": "Plaza de San Sebastián",
+    "address": "Av. Felipe II y Circunvalación Sur, Ave Circunvalación Sur, Cuenca, Ecuador",
+    "phone": "+59372817616"
+  },
+  {
+    "name": "Jardines De Cuenca",
+    "address": "Avenue Remigio Crespo Toral, Gualaceo, Ecuador",
+    "phone": "+593984818252"
+  },
+  {
+    "name": "Reserva Ecológica Manglar Churute",
+    "address": "Seminario San Luis, Benigno Malo &, Cuenca 010107, Ecuador",
+    "phone": "+593963170292"
+  },
+  {
+    "name": "Tiesto's Cafe Restaurant",
+    "address": "Pa. de la Guadalupana s/n, Cuenca 010202, Ecuador",
+    "phone": "+593984912044"
+  },
+  {
+    "name": "Zarza Brewing, Cuenca",
+    "address": "Av Mirador de Turi, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "La Nariz del Diablo",
+    "address": "Cam. a Turi 201, Cuenca, Ecuador",
+    "phone": "+59374151853"
+  },
+  {
+    "name": "Provincial Court of Azuay",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Central Park",
+    "address": "Rircay, Girón 100101, Ecuador",
+    "phone": "+593993947419"
+  },
+  {
+    "name": "MontaRuna",
+    "address": "Calle Larga 1-209 y, Cuenca 010107, Ecuador",
+    "phone": "1209010107"
+  },
+  {
+    "name": "La Casa del Arbol",
+    "address": "Presidente Cordova, entre, Padre Aguirre, y, Ecuador",
+    "phone": "+593963292825"
+  },
+  {
+    "name": "Selina Cuenca",
+    "address": "KM 7.7, Cuenca, Ecuador",
+    "phone": "+593994150643"
+  },
+  {
+    "name": "Malecón 2000",
+    "address": "Dos Cuevas, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Parque 13 de Noviembre",
+    "address": "Av. Doce de Octubre, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Los Hotdogs de la Tropical",
+    "address": "Benigno Malo 859, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Mirador Resort \"Cerro El Tablazo\"",
+    "address": "Av Mirador de Turi, Cuenca, Ecuador",
+    "phone": "+593995454455"
+  },
+  {
+    "name": "Mirador \" La Virgen \"",
+    "address": "El Vado, La Condamine 12-102, Cuenca 010203, Ecuador",
+    "phone": "12102010203"
+  },
+  {
+    "name": "Homero Ortega P & Hijos Co. Ltd",
+    "address": "Via a Bibin, Cuenca, Ecuador",
+    "phone": "+593983228450"
+  },
+  {
+    "name": "Cajas",
+    "address": "Manuel Vega, Cuenca, Ecuador",
+    "phone": "+59372822899"
+  },
+  {
+    "name": "Cascada de la Virgen",
+    "address": "Calle Larga 494y, Cuenca 010107, Ecuador",
+    "phone": "494010107"
+  },
+  {
+    "name": "Jodoco Belgian Bistro",
+    "address": "General Torres, Cuenca, Ecuador",
+    "phone": "+59372845562"
+  },
+  {
+    "name": "Café Ñucallacta",
+    "address": "Vargas Machuca 1127, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Plazoleta Guayaquil",
+    "address": "7-95, Rafael María Arizaga, Cuenca, Ecuador",
+    "phone": "+593992351934"
+  },
+  {
+    "name": "Cafe San Sebas",
+    "address": "Av. Gil Ramírez Dávalos, Cuenca, Ecuador",
+    "phone": "+59372809000"
+  },
+  {
+    "name": "Cuenca",
+    "address": "Calle Larga 10-41 y, Cuenca, Ecuador",
+    "phone": "+593982362998"
+  },
+  {
+    "name": "Chicano Taqueria",
+    "address": "y, Mariano Cueva & Pío Bravo, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Guayaquil Municipal Museum",
+    "address": "Calle Larga 1147, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hotel \"Veuxor\"",
+    "address": "Junin, Machala 070150, Ecuador",
+    "phone": "+593997266400"
+  },
+  {
+    "name": "Hotel Royal",
+    "address": "C. Bolivia, Machala, Ecuador",
+    "phone": "+59372786430"
+  },
+  {
+    "name": "Hotel Regal",
+    "address": "Calle Machala y, Gran Colombia esquina, El Guabo 070650, Ecuador",
+    "phone": "+59372955270"
+  },
+  {
+    "name": "Hotel París",
+    "address": "Av. Arizaga, y, Machala, Ecuador",
+    "phone": "+593987229794"
+  },
+  {
+    "name": "Hostal Solar del Puerto",
+    "address": "Av. Sucre 1234, Machala, Ecuador",
+    "phone": "+59372960000"
+  },
+  {
+    "name": "GRAND HOTEL MACHALA",
+    "address": "Junin entre Sucre y Olmedo, Machala 070150, Ecuador",
+    "phone": "+59372960010"
+  },
+  {
+    "name": "Casa Geydi",
+    "address": "Gonzalo Córdova, y, Machala, Ecuador",
+    "phone": "+59372928796"
+  },
+  {
+    "name": "PALMAR CENTER HOTEL",
+    "address": "Sucre e/ 9 de Mayo, y, Machala, Ecuador",
+    "phone": "+593985076197"
+  },
+  {
+    "name": "REEC Machala by Oro Verde Hotels",
+    "address": "General Thelmo Sandoval y Circunvalación Norte, Machala, Ecuador, Machala 070216, Ecuador",
+    "phone": "+59372980074"
+  },
+  {
+    "name": "mimos le cafe",
+    "address": "DIAGONAL AL ESTADIO CARLOS NIETO PESANTEZ, Santa Rosa 070601, Ecuador",
+    "phone": "+593969433089"
+  },
+  {
+    "name": "Hotel Montecarlo",
+    "address": "JUNIO 25TH URB SANTA INES LV-15AB, Machala 070212, Ecuador",
+    "phone": "2515070212"
+  },
+  {
+    "name": "Gualingo",
+    "address": "Zaruma, Machala 070102, Ecuador",
+    "phone": "+59372973618"
+  },
+  {
+    "name": "BRITNEY HOTEL MACHALA",
+    "address": "Malecón de Puerto Jelí. Puerto Jely. Santa Rosa., Puerto Jeli. Santa Rosa. El Oro. Puerto Jely., Ecuador",
+    "phone": "+593987164864"
+  },
+  {
+    "name": "Centro Hotel",
+    "address": "Av. Alberto Sorroza, Puerto Jelí, Ecuador",
+    "phone": "+593999608849"
+  },
+  {
+    "name": "Hotel Puerto Banana",
+    "address": "Boyaca entre Guayas y Ayacucho, Machala 070102, Ecuador",
+    "phone": "+59372931759"
+  },
+  {
+    "name": "Hotel San Francisco International",
+    "address": "Circunvalación Norte y Marcel Laniado, esquina Gustavo Febres Cordero, Machala 070150, Ecuador",
+    "phone": "+59372985196"
+  },
+  {
+    "name": "Grand Hotel Americano",
+    "address": "Av sucre y, Malecon, Machala, Ecuador",
+    "phone": "+59372927352"
+  },
+  {
+    "name": "HOTEL MATRO",
+    "address": "Av. 9 de Mayo, Machala, Ecuador",
+    "phone": "+593982618629"
+  },
+  {
+    "name": "Hotel Mar Del Plata",
+    "address": "Boyacá, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "BRITNEY HOTEL MACHALA",
+    "address": "9 de Mayo Avenida Central, Machala, Ecuador",
+    "phone": "+59372933992"
+  },
+  {
+    "name": "Hostal Saloah",
+    "address": "Malecón de Jambelí, Balneario Jambelí, Ecuador",
+    "phone": "+593998251031"
+  },
+  {
+    "name": "Hotel Mosquera",
+    "address": "Tarqui, Machala, Ecuador",
+    "phone": "+593939764476"
+  },
+  {
+    "name": "Hotel Adriand's",
+    "address": "Av. 25 de Junio entre Guayas y Ayacucho, Machala 070102, Ecuador",
+    "phone": "25070102"
+  },
+  {
+    "name": "Hotel San Francisco International",
+    "address": "Pasaje, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hotel Machala",
+    "address": "Av. 25 de Junio, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hostal Las Iguanas",
+    "address": "entre y, Rocafuerte & Colón, Machala, Ecuador",
+    "phone": "+59372934344"
+  },
+  {
+    "name": "Hotel Ejecutivo",
+    "address": "Rocafuerte &, Machala, Ecuador",
+    "phone": "+5932939396"
+  },
+  {
+    "name": "HOTEL ARAUJO",
+    "address": "Eloy Alfaro 404, Machala, Ecuador",
+    "phone": "+593991604527"
+  },
+  {
+    "name": "Hotel Catitoza",
+    "address": "Tarqui, Machala, Ecuador",
+    "phone": "+593939764476"
+  },
+  {
+    "name": "Hotel Gaviota Azul",
+    "address": "Machala, Ecuador",
+    "phone": "+59372983930"
+  },
+  {
+    "name": "Casa Corona",
+    "address": "Rocafuerte &, Machala, Ecuador",
+    "phone": "+5932939396"
+  },
+  {
+    "name": "Hostal Gualingo. Heladería Puerto Helado. Galería de Artesanias La Huaca.",
+    "address": "Taqui, Av. 25 de Junio, Machala, Ecuador",
+    "phone": "+59372966400"
+  },
+  {
+    "name": "Hotel Catitozav",
+    "address": "Malecón Puerto Jelí, Santa Rosa, Santa Rosa 070601, Ecuador",
+    "phone": "+593969596356"
+  },
+  {
+    "name": "EL PULPO Hotel Restaurante",
+    "address": "Machala, Ecuador",
+    "phone": "+593989701630"
+  },
+  {
+    "name": "Hotel Hostal Romería",
+    "address": "Sucre y 3 de Noviembre, El Guabo 070650, Ecuador",
+    "phone": "+59373700720"
+  },
+  {
+    "name": "Habitación grande,aire acondicionado.",
+    "address": "1era Avenida, Machala, Ecuador",
+    "phone": "+593978770649"
+  },
+  {
+    "name": "HOSTAL LADY",
+    "address": "9 de Mayo Avenida Central, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Fast Grill",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "La Olla Criolla",
+    "address": "Quito 312, Machala, Ecuador",
+    "phone": "+593939600528"
+  },
+  { "name": "Bramdi", "address": "Machala, Ecuador", "phone": null },
+  {
+    "name": "MarcaB.L.I Café Bar",
+    "address": "Parroquia, Providencia, Ecuador",
+    "phone": "+593990834329"
+  },
+  {
+    "name": "El Paraiso de la Vida",
+    "address": "Ciudadela las brisas manzana a4 villa 8, Machala, Ecuador",
+    "phone": "+59372985537"
+  },
+  {
+    "name": "Rosso Pastas & Vinos",
+    "address": "Pichincha 1224, Machala, Ecuador",
+    "phone": "+593985936913"
+  },
+  {
+    "name": "Restaurant 33 Machala",
+    "address": "Avenida 25 de Junio y, calle, Machala 070219, Ecuador",
+    "phone": "25070219"
+  },
+  {
+    "name": "CASA CUBA",
+    "address": "Páez, Machala, Ecuador",
+    "phone": "+59376002690"
+  },
+  {
+    "name": "Canton Deli Dim Sum",
+    "address": "Carrera 8va Oeste &, Machala, Ecuador",
+    "phone": "+593967483004"
+  },
+  {
+    "name": "Restaurant Mar&Tierra Machala",
+    "address": "Av. Marcel Laniado, Machala, Ecuador",
+    "phone": "+593993968142"
+  },
+  {
+    "name": "Cafetería Las Tejas",
+    "address": "Guabo/ Junín, y, Machala 070502, Ecuador",
+    "phone": "+59372920583"
+  },
+  {
+    "name": "\"El Bosque\" Restaurant Machala - El Oro",
+    "address": "Machala, Ecuador",
+    "phone": "+593939402503"
+  },
+  {
+    "name": "Restaurant MAYRITA",
+    "address": "MZ. B, Av. Segunda 8411, Machala, Ecuador",
+    "phone": "+593986605909"
+  },
+  {
+    "name": "Oro Pollo",
+    "address": "Galeria del Sol, Calles 25 de junio y Avenida del Sol, Machala 070102, Ecuador",
+    "phone": "25070102"
+  },
+  {
+    "name": "La Casa del Tigrillo",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Tikilon",
+    "address": "Av Apolinario Gálvez Rocafuerte, y, Machala, Ecuador",
+    "phone": "+593985140191"
+  },
+  {
+    "name": "El Bosque Restaurant",
+    "address": "Machala, Ecuador",
+    "phone": "+59372980346"
+  },
+  {
+    "name": "Don Tito Gourmet \"Machala\"",
+    "address": "Ayacucho 1616, Machala, Ecuador",
+    "phone": "+5936000980"
+  },
+  {
+    "name": "A LA PARRILLA",
+    "address": "Palmeras, Y, Machala 070201, Ecuador",
+    "phone": "+593985817881"
+  },
+  {
+    "name": "El Bosque Restaurant",
+    "address": "Machala, Ecuador",
+    "phone": "+593995509950"
+  },
+  {
+    "name": "Don Tito Gourmet \"Machala\"",
+    "address": "10 de Agosto, Machala 070102, Ecuador",
+    "phone": "33+10070102"
+  },
+  {
+    "name": "Restaurant Oasis",
+    "address": "Avenida de Las Palmeras &, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "THOM'S RESTAURANT",
+    "address": "Av. Mongomery Sánchez, Machala, Ecuador",
+    "phone": "+593959524795"
+  },
+  {
+    "name": "Tikilon",
+    "address": "Av Napoleón Mera entre Arizaga y, Gral. Manuel Serrano, Machala, Ecuador",
+    "phone": "+59372923008"
+  },
+  {
+    "name": "Restaurant Buena Mesa",
+    "address": "Av 25 de junio, y, Machala 070150, Ecuador",
+    "phone": "25070150"
+  },
+  {
+    "name": "Taco Home",
+    "address": "Av. Sucre &, Machala, Ecuador",
+    "phone": "+593989912143"
+  },
+  {
+    "name": "La Casa del Tigrillo",
+    "address": "y, Pichincha & Napoleon Mera, Machala, Ecuador",
+    "phone": "+59372962057"
+  },
+  {
+    "name": "Restaurante \"El Oro\"",
+    "address": "Boyaca entre 9 de mayo y, Juan Montalvo, Machala 070102, Ecuador",
+    "phone": "+59372935214"
+  },
+  {
+    "name": "Hillary Deli",
+    "address": "Bolivar, y, Machala 070506, Ecuador",
+    "phone": "+593998262711"
+  },
+  {
+    "name": "Chili's",
+    "address": "9 Norte Cjon.#2 y, Antigua Via El Limon, Machala 070212, Ecuador",
+    "phone": "92070212"
+  },
+  {
+    "name": "Sol Marino",
+    "address": "Machala, Ecuador",
+    "phone": "+59376002974"
+  },
+  {
+    "name": "Cangrejada de Mary",
+    "address": "Machala, Ecuador",
+    "phone": "+59375004141"
+  },
+  {
+    "name": "Parrillada La Canoa",
+    "address": "Avenida de Las Palmeras, Machala, Ecuador",
+    "phone": "+593994386990"
+  },
+  {
+    "name": "Soul Maki Sushi Machala",
+    "address": "25 de Junio y, Carrera 9na Oeste esq, Machala, Ecuador",
+    "phone": "+593968138269"
+  },
+  {
+    "name": "EL COSTEÑITO",
+    "address": "Machala, Ecuador",
+    "phone": "+593983024116"
+  },
+  {
+    "name": "Restaurant Albaca #706",
+    "address": "Pichincha &, Machala, Ecuador",
+    "phone": "+593984671513"
+  },
+  {
+    "name": "Puerto Racimo",
+    "address": "Avenida de Las Palmeras, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Monterrey",
+    "address": "Buenavista, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Rosso Pastas & Vinos",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Pikeo's",
+    "address": "Avenida Vela, Machala 070206, Ecuador",
+    "phone": "+593964052236"
+  },
+  {
+    "name": "Machala",
+    "address": "Pasaje 810, Machala, Ecuador",
+    "phone": "+59372967324"
+  },
+  {
+    "name": "Tinajitas",
+    "address": "PINEDA ENTRE FICUS Y HELECHOS, Av. Colón Tinoco, Machala 070213, Ecuador",
+    "phone": "+593993277294"
+  },
+  {
+    "name": "Asados De Mandi",
+    "address": "Avenida Central 25 de Junio &, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Grill's Especialistas En Costillas",
+    "address": "Rocafuerte 455 y, Machala 070206, Ecuador",
+    "phone": "455070206"
+  },
+  {
+    "name": "RESAKA Mariscos & Grill",
+    "address": "Avenida Central 25 de Junio, Machala, Ecuador",
+    "phone": "+593978720887"
+  },
+  {
+    "name": "CEVICHERIA SUBMARINO",
+    "address": "ATRAS DE ESCUELA, Camilo Gallegos, CDLA LA ROLDOS MZA, A2, Machala 070102, Ecuador",
+    "phone": "+593993109006"
+  },
+  { "name": "Xquisito", "address": "Tarqui, Machala, Ecuador", "phone": null },
+  {
+    "name": "Pato's Restaurante",
+    "address": "Bolivar, Machala, Ecuador",
+    "phone": "+59376002923"
+  },
+  {
+    "name": "Leone",
+    "address": "Marcel Laniado 109, Machala, Ecuador",
+    "phone": "+593986993512"
+  },
+  {
+    "name": "Mon Grill",
+    "address": "Colón 1530, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "La Antorcha",
+    "address": "Mini Urb Quirola, Machala 070102, Ecuador",
+    "phone": "+593988611609"
+  },
+  {
+    "name": "Takeshi Restaurant Oriental",
+    "address": "Colón, Machala, Ecuador",
+    "phone": "+593987346381"
+  },
+  {
+    "name": "RESTAURANTE PICANTERIA PIGUARI",
+    "address": "Machala, Ecuador",
+    "phone": "+593986069220"
+  },
+  {
+    "name": "Sabor Latino Restaurant",
+    "address": "Juan Montalvo 2418, Machala, Ecuador",
+    "phone": "+59372934763"
+  },
+  {
+    "name": "Restaurant Armonia",
+    "address": "Av. 25 de Junio, Machala 070212, Ecuador",
+    "phone": "25070212"
+  },
+  {
+    "name": "BRAĆO",
+    "address": "Avenida Circunvalacion Norte y Kleber Franco Cruz, Machala, Ecuador",
+    "phone": "+593985342199"
+  },
+  {
+    "name": "Restaurant \"Gaby\"",
+    "address": "Avenida Central 25 de Junio 1337, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Cevicheria El Manaba",
+    "address": "C. Chile, Machala, Ecuador",
+    "phone": "+593998222652"
+  },
+  {
+    "name": "La Daga Bar Restaurant",
+    "address": "Arízaga / Guayas y, Ayacucho, Machala, Ecuador",
+    "phone": "+59372920228"
+  },
+  {
+    "name": "Cevicheria La Perla",
+    "address": "Marcel Laniado, Machala, Ecuador",
+    "phone": "+593939006098"
+  },
+  {
+    "name": "Parrillada&Restaurant D'Lufase",
+    "address": "Gral. Manuel Serrano, Machala, Ecuador",
+    "phone": "+593997390018"
+  },
+  {
+    "name": "Añoranza de antaño Restaurant",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Alaa-El dien",
+    "address": "Y, Av. Arizaga & Colón, Machala, Ecuador",
+    "phone": "+593969815922"
+  },
+  {
+    "name": "Parrillada Patty",
+    "address": "Gral. Manuel Serrano 1605 y, Machala, Ecuador",
+    "phone": "+59372968999"
+  },
+  {
+    "name": "MotZa Risto Bar",
+    "address": "Junin, Machala, Ecuador",
+    "phone": "+59372968659"
+  },
+  {
+    "name": "Restaurant El Rincón Criollo",
+    "address": "Pichincha &, Machala, Ecuador",
+    "phone": "+593989567140"
+  },
+  {
+    "name": "MARISQUERIA \"EL SUBMARINO\"",
+    "address": "Av. Arizaga, Machala, Ecuador",
+    "phone": "+593999718150"
+  },
+  {
+    "name": "Villa Colón",
+    "address": "Av. Arizaga &, Machala, Ecuador",
+    "phone": "+593979088059"
+  },
+  {
+    "name": "BUCHIS FOOD & DRINK",
+    "address": "Guayas, y, Machala, Ecuador",
+    "phone": "+59372930645"
+  },
+  {
+    "name": "Parrilladas Restaurants",
+    "address": "Olmedo 212, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Restaurant \"LOS ANGELES\"",
+    "address": "Av. 25 de Junio, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Waikiki's Restaurant & Bar",
+    "address": "El Oro, Machala Juan Montalvo, Bolivar, Machala 070206, Ecuador",
+    "phone": "+593990569315"
+  },
+  {
+    "name": "Happy Coffe - Restaurante en Machala",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "ojo de bife",
+    "address": "Machala, Ecuador",
+    "phone": "+59372637084"
+  },
+  {
+    "name": "Recuerdos Parrillada",
+    "address": "E583, Machala, Ecuador",
+    "phone": "+593986732094"
+  },
+  {
+    "name": "Resto Bar",
+    "address": "Avenida Central 25 de Junio, Machala, Ecuador",
+    "phone": "+59372961468"
+  },
+  {
+    "name": "Marisqueria Al Callao",
+    "address": "Av. Arizaga, Machala, Ecuador",
+    "phone": "+593983447716"
+  },
+  {
+    "name": "Restaurant El Sabor Criollo",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Chifa Central",
+    "address": "Machala, Ecuador",
+    "phone": "+593982598231"
+  },
+  {
+    "name": "Red Bean",
+    "address": "25, Machala, Ecuador",
+    "phone": "+593983054549"
+  },
+  {
+    "name": "Picantería Chichita",
+    "address": "Callejón Banaoro, e/ Sucre y Nº 401, Machala 070206, Ecuador",
+    "phone": "401070206"
+  },
+  {
+    "name": "Restaurante entre la cuchara y el chef",
+    "address": "Av. 25 de Junio 1222 y, Machala 070102, Ecuador",
+    "phone": "251222070102"
+  },
+  {
+    "name": "Restaurante Vegetariano Maranatha",
+    "address": "Colón 2105 Y, Machala 070150, Ecuador",
+    "phone": "2105070150"
+  },
+  {
+    "name": "Cangrejada El Buen Sabor",
+    "address": "25 de junio entre Napoleón Mera y callejón Banaoro, Machala 070206, Ecuador",
+    "phone": "25070206"
+  },
+  {
+    "name": "Rotis Wings & Grills",
+    "address": "Av. Alejandro Castro Benites, Machala, Ecuador",
+    "phone": "+593962874989"
+  },
+  {
+    "name": "Cevicheria Y Restaurant DANIELITO",
+    "address": "Parroquia, Providencia, Ecuador",
+    "phone": "+59372988200"
+  },
+  {
+    "name": "Goza Espresso Bar",
+    "address": "y, Av. 9 de Mayo & Manuel Serrano, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Restaurante Camilo's",
+    "address": "Marcel Laniado, Machala, Ecuador",
+    "phone": "+593959402256"
+  },
+  {
+    "name": "Mediterranium Parrillada Restaurant",
+    "address": "Sector C Tercera Avenida Una Cuadra Antes Del UPC O De La Escuela Enriqueta, Machala, Ecuador",
+    "phone": "+593985435476"
+  },
+  {
+    "name": "LAS CASA DE LA CORVINA",
+    "address": "Sector C Tercera Avenida Una Cuadra Antes Del UPC O De La Escuela Enriqueta, Machala, Ecuador",
+    "phone": "+593985435476"
+  },
+  {
+    "name": "El Poquito de Rouse",
+    "address": "Parroquia, Providencia, Ecuador",
+    "phone": "+59372988200"
+  },
+  {
+    "name": "Parrillada el Gato",
+    "address": "Pichincha &, Machala, Ecuador",
+    "phone": "+59372964809"
+  },
+  {
+    "name": "Papa John’s Machala",
+    "address": "Av. Alejandro Castro Benites, Machala, Ecuador",
+    "phone": "+593962874989"
+  },
+  {
+    "name": "Machalifornia",
+    "address": "Pichincha &, Machala, Ecuador",
+    "phone": "+59372964809"
+  },
+  {
+    "name": "Churrin Churron Machala",
+    "address": "Av. 9 de Mayo 2025, Machala, Ecuador",
+    "phone": "+593993022843"
+  },
+  {
+    "name": "Machala Citadel Mall",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Machala Paseo Shopping Mall",
+    "address": "25, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Plaza Shopping Mall of the Americas",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "BRAME SHOPPING CENTER",
+    "address": "Av. 25 de Junio S/N via Machala-Pasaje, Machala 070190, Ecuador",
+    "phone": "25070190"
+  },
+  {
+    "name": "La Piazza Machala",
+    "address": "Av. Dr. Pedro Maridueña Villena, Machala, Ecuador",
+    "phone": "+593967178372"
+  },
+  {
+    "name": "Shopping",
+    "address": "Avenida Paquisha, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Machala",
+    "address": "Av. 25 de Junio, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Centro Comercial Oro Plaza",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Galerías del Sol",
+    "address": "Guayas, Machala, Ecuador",
+    "phone": "+593988470733"
+  },
+  {
+    "name": "Comercial Ugarte",
+    "address": "Junin entre Boyca y, Guabo, Machala, Ecuador",
+    "phone": "+593997694429"
+  },
+  {
+    "name": "Centro Comercial La Unión",
+    "address": "Eloy Alfaro, Pasaje, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "F.R. VEHICULO",
+    "address": "El Guabo, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "DC GOLD CENTER",
+    "address": "Pasaje, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Centro Comercial Carolina",
+    "address": "Colón entre Arizaga y, Pichincha, Machala 070213, Ecuador",
+    "phone": "+593985395796"
+  },
+  {
+    "name": "Centro Comercial La Bahia",
+    "address": "Av. Panamerica, Vía al Guabo a 200m del semáforo. El Cambio, Machala 070222, Ecuador",
+    "phone": "200070222"
+  },
+  {
+    "name": "Mi Comisariato Machala",
+    "address": "Machala, Ecuador",
+    "phone": "+593962583097"
+  },
+  {
+    "name": "Plaza Tarcila",
+    "address": "frente del banco de, Machala, Ecuador",
+    "phone": "+593999640158"
+  },
+  {
+    "name": "Puerto Plaza",
+    "address": "Manuel Estomba, Machala 070102, Ecuador",
+    "phone": "+59372924960"
+  },
+  {
+    "name": "APC Tecnología Machala",
+    "address": "Carrera 12ava Este, Machala, Ecuador",
+    "phone": "+593996091792"
+  },
+  {
+    "name": "Expoceanica",
+    "address": "Rocafuerte e./ Juan Montalvo y, Junin, Machala 070206, Ecuador",
+    "phone": "+593994333030"
+  },
+  {
+    "name": "CHRONOS ACUARIO",
+    "address": "Machala, Ecuador",
+    "phone": "+593993934350"
+  },
+  {
+    "name": "Importaciones RENE PINEDA",
+    "address": "Av. Enrique Ponce Luque, Entrada a a lado de terminal terrestre de Babahoyo), Babahoyo, Ecuador",
+    "phone": "+59352789107"
+  },
+  {
+    "name": "ZONA CELULAR",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Novedades Lady",
+    "address": "El Guabo, Ecuador",
+    "phone": "+593997203677"
+  },
+  {
+    "name": "IMPORTADORA UNIYAMA S.A.",
+    "address": "Machala, Ecuador",
+    "phone": "+59372927013"
+  },
+  {
+    "name": "shopping center world school",
+    "address": "Plaza Commercial Expoceanica, Av 25 de Junio Km. 2.5, Pasaje, Machala 070101, Ecuador",
+    "phone": "2525070101"
+  },
+  {
+    "name": "Calzado Pretty",
+    "address": "Machala, Ecuador",
+    "phone": "+593982476563"
+  },
+  {
+    "name": "Madero Shopping Center",
+    "address": "Av 25 de Junio S/N, Via Machala-Pasaje CC Oro Plaza, Local 209, Machala 070223, Ecuador",
+    "phone": "25209070223"
+  },
+  {
+    "name": "Radiofonica Orense Ltda",
+    "address": "en el Centro Comercial Oro Plaza, Av. 25 de Junio, Machala, Ecuador",
+    "phone": "+593981297892"
+  },
+  {
+    "name": "VICMAY Shopping Center",
+    "address": "E583, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "BABY CENTER",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Comecsa Mega Store",
+    "address": "Av. 25 de Junio, entre Juan Montalvo y, Páez, Machala, Ecuador",
+    "phone": "+593958953817"
+  },
+  {
+    "name": "Anonymous by albar",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Unioro Shopping Center, Av. Circunvalación Norte",
+    "address": "Rocafuerte 6-13 y Colón, Machala 070102, Ecuador",
+    "phone": "613070102"
+  },
+  {
+    "name": "Collision Center",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Edfab Center",
+    "address": "Av. Arizaga, Machala, Ecuador",
+    "phone": "+593985971177"
+  },
+  {
+    "name": "La Esquina",
+    "address": "junin y, Rocafuerte, Machala 070150, Ecuador",
+    "phone": "+593992815281"
+  },
+  {
+    "name": "DA Center",
+    "address": "E583, Machala, Ecuador",
+    "phone": "+5931700150150"
+  },
+  {
+    "name": "Game shop",
+    "address": "Avenida 10ma. A Sur, 23va. Oeste, Machala, Ecuador",
+    "phone": "+593989521426"
+  },
+  {
+    "name": "Supermaxi Machala",
+    "address": "Vía Machala - Pasaje / Av.Paquisha Mz. U20 solar 1-D C.C. La Piazza Machala, Machala 070212, Ecuador",
+    "phone": "201070212"
+  },
+  {
+    "name": "Plaza Comercial San Antonio",
+    "address": "Babahoyo, y, Machala 070206, Ecuador",
+    "phone": "+593987751142"
+  },
+  {
+    "name": "Repair Center",
+    "address": "Av. Circunvalación Nte., Machala, Ecuador",
+    "phone": "+593962211263"
+  },
+  {
+    "name": "Fruits Business Center",
+    "address": "comisariato de, Pasaje, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "CENTRO COMERCIAL UNIORO",
+    "address": "Unnamed Road, Machala, Ecuador",
+    "phone": "+593990580344"
+  },
+  {
+    "name": "ETAFASHION EXPOCEÁNICA",
+    "address": "Tarqui, y Centro, Machala, Ecuador",
+    "phone": "+593985820300"
+  },
+  {
+    "name": "Charlotte Boutique",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Segarra Home Center",
+    "address": "25, Machala, Ecuador",
+    "phone": "+59323422222"
+  },
+  {
+    "name": "KAO SPORT- Piazza Machala",
+    "address": "Centro Comercial Paseo Shopping Dentro del Centro Comercial Paseo Shopping, Local 83-84, Machala, Ecuador",
+    "phone": "+59372984356"
+  },
+  {
+    "name": "World Tech Center",
+    "address": "Guayas y, Rocafuerte, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Pycca",
+    "address": "Av. 10ma A Nte. Y Y, Machala 070102, Ecuador",
+    "phone": "10070102"
+  },
+  {
+    "name": "DA CENTER by Diseños y Acabados",
+    "address": "Av. Alejandro Castro Benites &, Machala, Ecuador",
+    "phone": "+593995140085"
+  },
+  {
+    "name": "CTIP - Godos Plaza Center - Recicladora",
+    "address": "Colon, y, Machala, Ecuador",
+    "phone": "+593978711041"
+  },
+  {
+    "name": "Mercado minorista - MACHALA",
+    "address": "Machala 070102, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "DESPENSA VIVIANA",
+    "address": "Machala, Ecuador",
+    "phone": "+593985581913"
+  },
+  {
+    "name": "Shadow Dragon Gaming Center",
+    "address": "La Piazza, Machala, Ecuador",
+    "phone": "+593998220000"
+  },
+  {
+    "name": "Copiadora Divino Niño",
+    "address": "Manuel Estomba, Machala, Ecuador",
+    "phone": "+59372923132"
+  },
+  {
+    "name": "COMPUTRON",
+    "address": "Unnamed Road, Machala, Ecuador",
+    "phone": "+593989871319"
+  },
+  {
+    "name": "Sika Center El Oro",
+    "address": "Av. Alejandro Castro Benites, Machala, Ecuador",
+    "phone": "+59372152737"
+  },
+  {
+    "name": "Toxic Complements",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "TAPI-CENTER EMANUEL",
+    "address": "Carrera 9na Oeste 403, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Machala Central Park",
+    "address": "Av. Paquisha, Machala, Ecuador",
+    "phone": "+593999162315"
+  },
+  {
+    "name": "Colineal",
+    "address": "Av. Circunvalación Nte., Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Pyca",
+    "address": "Bolivar, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "ETAFASHION",
+    "address": "Avenida 25 de Junio y, Buenavista Esquina, Machala, Ecuador",
+    "phone": "+59376001415"
+  },
+  {
+    "name": "Macas",
+    "address": "entre y, Junin & Gral Páez, Machala, Ecuador",
+    "phone": "+593985362427"
+  },
+  {
+    "name": "Lospaisas Grupo JG Machala",
+    "address": "Av. 25 de junio km. 2.5, Pasaje, Machala 070101, Ecuador",
+    "phone": "2525070101"
+  },
+  {
+    "name": "ESTRADA OPTICAL CENTER",
+    "address": "10 De Agosto y 14 Norte, Machala 070206, Ecuador",
+    "phone": "1014070206"
+  },
+  {
+    "name": "Terminal De Pasaje",
+    "address": "Pasaje, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Trionica",
+    "address": "Av. 9 de Mayo, Machala, Ecuador",
+    "phone": "+593967251410"
+  },
+  {
+    "name": "SuperPaco",
+    "address": "Edf. Multiplaza, La Piazza, Av. 25 de Junio, Machala 070219, Ecuador",
+    "phone": "25070219"
+  },
+  {
+    "name": "MINIMARKET CAROLINA",
+    "address": "0034, Machala, Ecuador",
+    "phone": "+593979237056"
+  },
+  {
+    "name": "Kywi Machala",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Ivonne Beauty shop",
+    "address": "Sucre entre 9 de Mayo y guayas, Machala, Ecuador",
+    "phone": "+593959906185"
+  },
+  {
+    "name": "Parque Diego Minuche",
+    "address": "Av. Alejandro Castro Benites, Machala, Ecuador",
+    "phone": "+59372152737"
+  },
+  {
+    "name": "Feria libre",
+    "address": "Av. Bolívar Madero Vargas, Machala 070210, Ecuador",
+    "phone": "+59372980440"
+  },
+  {
+    "name": "CO-021 Cuidad del Sol",
+    "address": "e/ paseo shopping y, Avenida 25 de Junio, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Chato Bike Center",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Marcimex",
+    "address": "Juan Montalvo 17-09 Sucre y, Olmedo, Machala 070211, Ecuador",
+    "phone": "1709070211"
+  },
+  {
+    "name": "Almacenes Boyacá",
+    "address": "Km 14 1/2, Via Balosa Machala, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Fajas Caro Zuñiga Machala",
+    "address": "Pichincha &, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Books and Bits",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "El Bosque",
+    "address": "Jorge Murillo Ugarte, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "CODEMET S.A.",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Free Day's",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Ceramica novatravez",
+    "address": "Boyacá, Machala, Ecuador",
+    "phone": "+593989236622"
+  },
+  {
+    "name": "Le crepes waffles",
+    "address": "6ta Avenida, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Pasteleria Panaderia\"Croissant\"S\"",
+    "address": "Av. 9 de Mayo, Machala, Ecuador",
+    "phone": "+59372921553"
+  },
+  {
+    "name": "C.C. Paseo Shopping Babahoyo",
+    "address": "Juan Montalvo 2221, Machala, Ecuador",
+    "phone": "+59372965061"
+  },
+  {
+    "name": "ClimaCenter",
+    "address": "Machala, Ecuador",
+    "phone": "+593982007048"
+  },
+  {
+    "name": "GRAN HOGAR S.A. - MACHALA 1",
+    "address": "070206 Centro comercial Oro Plaza local # 231.... Av. 25 de Junio, via Machala, Machala, Ecuador",
+    "phone": "07020623125"
+  },
+  {
+    "name": "MegaHierro Machala",
+    "address": "entre Olmedo y Bolívar, Gonzalo Cordova, Machala, Ecuador",
+    "phone": "+593981338898"
+  },
+  {
+    "name": "Farmacias Mia",
+    "address": "Av. 25 de junio km. 2.5, Pasaje, Machala 070101, Ecuador",
+    "phone": "2525070101"
+  },
+  {
+    "name": "Aki El Chamo",
+    "address": "Alejandro Castro Benítez y, Avenida Pajonal, Machala, Ecuador",
+    "phone": "+593983521495"
+  },
+  {
+    "name": "Almacen Super Credito",
+    "address": "Machala, Ecuador",
+    "phone": "+593982238334"
+  },
+  {
+    "name": "BEERMAN LIQUOR STORE",
+    "address": "Machala, Ecuador",
+    "phone": "+593959774829"
+  },
+  {
+    "name": "Machala Cathedral",
+    "address": "y, Machala, Ecuador",
+    "phone": "+593984520407"
+  },
+  {
+    "name": "Machala",
+    "address": "Ayacucho 1619, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Iglesia Católica Nuestra Señora de Chilla | Machala",
+    "address": "Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Mina el Sexmo",
+    "address": "Machala, Ecuador",
+    "phone": "+593999853053"
+  },
+  {
+    "name": "Parque Nacional Cajas",
+    "address": "Azuay, Ecuador",
+    "phone": "+59372370127"
+  },
+  {
+    "name": "Você Club",
+    "address": "Rocafuerte / Buenavista y Napoleón Mera, Rocafuerte, Machala 070206, Ecuador",
+    "phone": "2+23070206"
+  },
+  {
+    "name": "El Paraíso Park",
+    "address": "Zaruma, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "El Nuevo Eden",
+    "address": "Kleber Franco Cruz 1620 entre Vela y, Santa Rosa, Machala 070102, Ecuador",
+    "phone": "1620070102"
+  },
+  {
+    "name": "Museo de las Madres Conceptas",
+    "address": "García Moreno, Quito 170401, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hotel \"Veuxor\"",
+    "address": "Presidente Cordova, entre, Padre Aguirre, y, Ecuador",
+    "phone": "+593963292825"
+  },
+  {
+    "name": "MIPA (Museo Interactivo de Pirotecnia Artesanal)",
+    "address": "colon y sucre, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hotel Perla Del Pacifico",
+    "address": "General Torres, Cuenca, Ecuador",
+    "phone": "+59372845562"
+  },
+  {
+    "name": "REEC Machala by Oro Verde Hotels",
+    "address": "Loja, Ecuador",
+    "phone": "+59372570468"
+  },
+  {
+    "name": "Catedral Católica Metropolitana de Guayaquil",
+    "address": "Manuel Vega, Cuenca, Ecuador",
+    "phone": "+59372822899"
+  },
+  {
+    "name": "Canton Deli Dim Sum",
+    "address": "KM 7.7, Cuenca, Ecuador",
+    "phone": "+593994150643"
+  },
+  {
+    "name": "Restaurant Fast Grill",
+    "address": "Calle Larga 215, Cuenca 010107, Ecuador",
+    "phone": "215010107"
+  },
+  {
+    "name": "Giron Waterfalls",
+    "address": "Simón Bolívar 657, Cuenca, Ecuador",
+    "phone": "+59372821150"
+  },
+  {
+    "name": "Cuenca Canopy",
+    "address": "Calle Larga 494y, Cuenca 010107, Ecuador",
+    "phone": "494010107"
+  },
+  {
+    "name": "Parque Centenario",
+    "address": "Av. Doce de Octubre, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Ciudadela Las Brisas",
+    "address": "Cuenca, Ecuador",
+    "phone": "+593983335238"
+  },
+  {
+    "name": "Hotel Emichal",
+    "address": "Alto, C. París, Loja, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Central Park",
+    "address": "Avenida de Las Palmeras, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Museo Del Sombrero De Paja Toquilla",
+    "address": "C. Luis Cordero, Cuenca, Ecuador",
+    "phone": "+59372834636"
+  },
+  {
+    "name": "MPNOTICIAS",
+    "address": "y, Mariano Cueva & Pío Bravo, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Hotel Mosquera",
+    "address": "Pasaje, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Parque Nacional Cerros de Amotape",
+    "address": "Victor Manuel Rendón, Guayaquil 090313, Ecuador",
+    "phone": "+59342305509"
+  },
+  {
+    "name": "Mercado 9 de Octubre",
+    "address": "Calle Larga 10-41 y, Cuenca, Ecuador",
+    "phone": "+593982362998"
+  },
+  {
+    "name": "Basílica Menor Católica Nuestra Señora de La Merced | Guayaquil",
+    "address": "Calle Larga 1147, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Zoocriadero de Cocodrilos",
+    "address": "Simón Bolívar, Loja, Ecuador",
+    "phone": "+593981411685"
+  },
+  {
+    "name": "ShibaSushi",
+    "address": "Urbanización Yasuni Km 13, Machala, Ecuador",
+    "phone": "+593991349237"
+  },
+  {
+    "name": "Tarqui Guzho Park",
+    "address": "Av 25 de Junio entre 23 de Abril y, Napoleon Mera, Machala 070102, Ecuador",
+    "phone": "2523070102"
+  },
+  {
+    "name": "Catedral de la Inmaculada Concepción",
+    "address": "Loja, Ecuador",
+    "phone": "+59372615701"
+  },
+  {
+    "name": "Museo de Arqueología y Lojanidad",
+    "address": "Via a Bibin, Cuenca, Ecuador",
+    "phone": "+593983228450"
+  },
+  {
+    "name": "CENTRO ECUESTRE BELLAVISTA",
+    "address": "Pedro Moncayo &, Guayaquil 090312, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Iglesia de San Blas",
+    "address": "Av. Gil Ramírez Dávalos, Cuenca, Ecuador",
+    "phone": "+59372809000"
+  },
+  {
+    "name": "Iglesia Católica Santísimo Rosario | Cuenca",
+    "address": "Machala, Ecuador",
+    "phone": "+59372637286"
+  },
+  {
+    "name": "El Museo de Esqueletologia",
+    "address": "Pedro Carbo, Guayaquil 090313, Ecuador",
+    "phone": "+59342324182"
+  },
+  {
+    "name": "Escuela Bolivia Benitez",
+    "address": "e/ Ago y Ballén, Chimborazo &, Guayaquil, Ecuador",
+    "phone": "+59342512865"
+  },
+  {
+    "name": "Santuario Nacional Manglares de Tumbes",
+    "address": "Avenue Remigio Crespo Toral, Gualaceo, Ecuador",
+    "phone": "+593984818252"
+  },
+  {
+    "name": "San Francisco Church",
+    "address": "Av. Sucre 826 y, Machala 070150, Ecuador",
+    "phone": "826070150"
+  },
+  {
+    "name": "Hot Springs Hervideros",
+    "address": "C. Bolivia, Machala, Ecuador",
+    "phone": "+59372786430"
+  },
+  {
+    "name": "Plaza San Francisco Cuenca Ecuador",
+    "address": "7-95, Rafael María Arizaga, Cuenca, Ecuador",
+    "phone": "+593992351934"
+  },
+  {
+    "name": "Museo de Sitio Cabeza de Vaca \"Gran Chilimasa\"",
+    "address": "Calle Larga 1159, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "St. Nicholas of Tolentino Cathedral",
+    "address": "Hermano Miguel 6-33, Cuenca, Ecuador",
+    "phone": "+59372830625"
+  },
+  {
+    "name": "Turi",
+    "address": "Paseo de las Colonias Extranjeras 100 y Avenida 9 de Octubre, Provincia Libre de, Guayaquil 090103, Ecuador",
+    "phone": "1009090103"
+  },
+  {
+    "name": "Churute",
+    "address": "Calle Pastaza, y, Baños de Agua Santa, Ecuador",
+    "phone": "+593983858733"
+  },
+  {
+    "name": "Church of the Tabernacle",
+    "address": "Junin entre Sucre y Olmedo, Machala 070150, Ecuador",
+    "phone": "+59372960010"
+  },
+  {
+    "name": "Cajas",
+    "address": "Velasco Ibarra 1982, Loja, Ecuador",
+    "phone": "+593982497853"
+  },
+  {
+    "name": "Baños",
+    "address": "Taqui, Av. 25 de Junio, Machala, Ecuador",
+    "phone": "+59372966400"
+  },
+  {
+    "name": "Cuenca",
+    "address": "Vargas Machuca 1127, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Puerto Pizarro",
+    "address": "Calle Larga 5-24, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Puyango",
+    "address": "Cuenca 010107, Ecuador",
+    "phone": "323+35010107"
+  },
+  {
+    "name": "2",
+    "address": "Imbabura 195, Loja 110103, Ecuador",
+    "phone": "195110103"
+  },
+  {
+    "name": "Gualaceo",
+    "address": "SUCRE 1002 Y JUAN MONTALVO ESQUINA, Av. Sucre 1002, Machala, Ecuador",
+    "phone": "10021002"
+  },
+  {
+    "name": "Chordeleg",
+    "address": "Mariscal Sucre, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Sigsig",
+    "address": "Av. Cv Sur, Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Ingapirca",
+    "address": "Puento Roto, Cuenca 010107, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Bellavista",
+    "address": "Calle Larga, Cuenca 010107, Ecuador",
+    "phone": "323+77010107"
+  },
+  {
+    "name": "Alausi",
+    "address": "Mariscal Sucre, Cuenca, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Colinas Lojanas",
+    "address": "Federico Malo, Cuenca 010107, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Las Peñas",
+    "address": "Machala, Ecuador",
+    "phone": null
+  },
+  {
+    "name": "Vilcabamba",
+    "address": "General Thelmo Sandoval y Circunvalación Norte, Machala, Ecuador, Machala 070216, Ecuador",
+    "phone": "+59372980074"
   }
 ]
