@@ -1,0 +1,6092 @@
+[
+  {
+    "name": "Andromeda Suites & Apartments",
+    "address": "10 Webster Street, Wemster 10, Athina 117 42, Greece",
+    "phone": "101011742"
+  },
+  {
+    "name": "Athens Mansion Luxury Suites",
+    "address": "4, Michail Voda Str, Athina 104 39, Greece",
+    "phone": "+302108200700"
+  },
+  {
+    "name": "Wyndham Grand Athens",
+    "address": "Rovertou Galli 4, Athina 117 42, Greece",
+    "phone": "+302144025700"
+  },
+  {
+    "name": "Arion Athens Hotel",
+    "address": "Pireos 2, Athina 104 31, Greece",
+    "phone": "+302105200300"
+  },
+  {
+    "name": "Grand Hyatt Athens",
+    "address": "Ag. Dimitriou 18, Athina 105 54, Greece",
+    "phone": "+302103240415"
+  },
+  {
+    "name": "Acropolis View Hotel",
+    "address": "Meg. Alexandrou 2, Athina 104 37, Greece",
+    "phone": "+302168009900"
+  },
+  {
+    "name": "Novotel Athenes",
+    "address": "Navarchou Nikodimou 18-20, Athina 105 57, Greece",
+    "phone": "182010557"
+  },
+  {
+    "name": "Electra Athens",
+    "address": "Leof. Andrea Siggrou 115, Athina 117 45, Greece",
+    "phone": "11511745"
+  },
+  {
+    "name": "King George, a Luxury Collection Hotel, Athens",
+    "address": "Ερμού 5 str, Athina 105 63, Greece",
+    "phone": "+302103378000"
+  },
+  {
+    "name": "Athens Tiare Hotel",
+    "address": "3 Vasileos Georgiou A, Pl. Sintagmatos Str, Athina 105 64, Greece",
+    "phone": "+302103222210"
+  },
+  {
+    "name": "Herodion Hotel",
+    "address": "Lekka 31, Athina 105 62, Greece",
+    "phone": "+302103224910"
+  },
+  {
+    "name": "Electra Palace Athens",
+    "address": "Valaoritou 6, Athina 106 71, Greece",
+    "phone": "+302103388889"
+  },
+  {
+    "name": "Coco-Mat Athens BC",
+    "address": "Petraki 11, Athina 105 63, Greece",
+    "phone": "+302122132944"
+  },
+  {
+    "name": "Royal Olympic Hotel",
+    "address": "Geraniou 49, Athina 104 31, Greece",
+    "phone": "+302105223657"
+  },
+  {
+    "name": "Perianth Hotel",
+    "address": "Adrianoy 77, Athina 105 56, Greece",
+    "phone": "+302103250309"
+  },
+  {
+    "name": "L'Avventura Athens",
+    "address": "Evripidou 40, Athina 105 52, Greece",
+    "phone": "+302103250989"
+  },
+  {
+    "name": "Still Athens",
+    "address": "Apollonos 21, Athina 105 57, Greece",
+    "phone": "+302103234350"
+  },
+  {
+    "name": "Athens Tower Hotel by Palladian Hotels",
+    "address": "Athinas 11, Athina 105 54, Greece",
+    "phone": "+302103215208"
+  },
+  {
+    "name": "Plaka Hotel",
+    "address": "Eschilou 13, Athina 105 54, Greece",
+    "phone": "+306936879550"
+  },
+  {
+    "name": "Niche Hotel Athens",
+    "address": "Pittaki 8, Athina 105 54, Greece",
+    "phone": "+306944967012"
+  },
+  {
+    "name": "Divani Palace Acropolis",
+    "address": "Aristidou 3, Athina 105 59, Greece",
+    "phone": "+306943116633"
+  },
+  {
+    "name": "Athens Capital Center Hotel - MGallery Collection",
+    "address": "Mantzarou 10, Athina 106 72, Greece",
+    "phone": "+302103637800"
+  },
+  {
+    "name": "Athens Key Hotel",
+    "address": "Leof. Kifisias 43, Athina 115 23, Greece",
+    "phone": "+302106989000"
+  },
+  {
+    "name": "Plaka Hotel",
+    "address": "Ag. Theklas 10, Athina 105 54, Greece",
+    "phone": "+302103225010"
+  },
+  {
+    "name": "Athens Tower Hotel by Palladian Hotels",
+    "address": "Αθηνάς 6, Agias Irinis 43, Athina 105 51, Greece",
+    "phone": "64310551"
+  },
+  {
+    "name": "The Stanley Hotel",
+    "address": "Falirou 9, Athina 117 42, Greece",
+    "phone": "+302109236682"
+  },
+  {
+    "name": "Emporikon Athens Hotel",
+    "address": "Leof. Vasilisis Amalias 10, Athina 105 57, Greece",
+    "phone": "+302103237300"
+  },
+  {
+    "name": "The Marblous Athens",
+    "address": "Mikalis 48, Athina 104 35, Greece",
+    "phone": "+302102207686"
+  },
+  {
+    "name": "Palladian Home",
+    "address": "Fokionos 3, Athina 105 63, Greece",
+    "phone": "+302103220579"
+  },
+  {
+    "name": "Elia Ermou Athens Hotel",
+    "address": "27, Nikis Street, Athina 105 57, Greece",
+    "phone": "+302103220914"
+  },
+  {
+    "name": "Acron Athens",
+    "address": "Athanasiou Diakou 4, Athina 117 42, Greece",
+    "phone": "+302110129765"
+  },
+  {
+    "name": "Niche Hotel Athens",
+    "address": "Voukourestiou 30, Athina 106 71, Greece",
+    "phone": "+302103002080"
+  },
+  {
+    "name": "Athens Flair",
+    "address": "Sarri 40, Athina 105 53, Greece",
+    "phone": "+306908688004"
+  },
+  {
+    "name": "St George Lycabettus Lifestyle Hotel",
+    "address": "Leof. Andrea Siggrou 7, Athina 117 43, Greece",
+    "phone": "+302109212100"
+  },
+  {
+    "name": "Supreme Luxury Suites by Athens Stay",
+    "address": "Sina 48, Athina 106 72, Greece",
+    "phone": "+302103637625"
+  },
+  {
+    "name": "Athens Lodge Boutique Hotel",
+    "address": "Christokopidou 19, Athina 105 54, Greece",
+    "phone": "+302114118422"
+  },
+  {
+    "name": "360 Degrees Hotel",
+    "address": "4 Ogigou str Region:, Athina 105 54, Greece",
+    "phone": "+302103210234"
+  },
+  {
+    "name": "The Vault Athens Hotel",
+    "address": "Ermou 46, Athina 105 63, Greece",
+    "phone": "+302103216616"
+  },
+  {
+    "name": "Novotel Athenes",
+    "address": "Agias Irinis 7, Athina 105 51, Greece",
+    "phone": "+302103240504"
+  },
+  {
+    "name": "Perianth Hotel",
+    "address": "Athinas 35, Athina 105 54, Greece",
+    "phone": "+302103210401"
+  },
+  {
+    "name": "Philippos Hotel",
+    "address": "Miaouli 25, Athina 105 54, Greece",
+    "phone": "+306987040740"
+  },
+  {
+    "name": "Athens Capital Center Hotel - MGallery Collection",
+    "address": "Timoleontos Vassou 8, Athina 115 21, Greece",
+    "phone": "+302106430464"
+  },
+  {
+    "name": "Supreme Luxury Suites by Athens Stay",
+    "address": "Leof. Andrea Siggrou 142, Kallithea 176 71, Greece",
+    "phone": "14217671"
+  },
+  {
+    "name": "Athens Lodge Boutique Hotel",
+    "address": "Ermou 69, Athina 105 55, Greece",
+    "phone": "+306983719682"
+  },
+  {
+    "name": "360 Degrees Hotel",
+    "address": "Psaron 31, Athina 104 38, Greece",
+    "phone": "+302103600058"
+  },
+  {
+    "name": "The Marble Suites, PLAKA",
+    "address": "Karaiskaki 33, Athina 105 54, Greece",
+    "phone": "+302103232244"
+  },
+  {
+    "name": "Neoma Hotel",
+    "address": "Theatrou 8, Athina 105 52, Greece",
+    "phone": "+302160010891"
+  },
+  {
+    "name": "The Dolli",
+    "address": "Kakourgodikiou 4, Athina 105 54, Greece",
+    "phone": "+302103245804"
+  },
+  {
+    "name": "The Residence Aiolou Hotel & SPA",
+    "address": "Diomeias 5, Athina 105 63, Greece",
+    "phone": "+302103238034"
+  },
+  {
+    "name": "The Vault Athens Hotel",
+    "address": "4, Polykleitou Str, Athina 105 51, Greece",
+    "phone": "+302103224524"
+  },
+  {
+    "name": "Home and Poetry Hotel",
+    "address": "Athinas 29, Athina 105 54, Greece",
+    "phone": "+302103212801"
+  },
+  {
+    "name": "Novotel Athenes",
+    "address": "Frinichou 2, Athina 105 58, Greece",
+    "phone": "+302103316595"
+  },
+  {
+    "name": "Perianth Hotel",
+    "address": "Pittaki 5, Athina 105 54, Greece",
+    "phone": "+302103219573"
+  },
+  {
+    "name": "Philippos Hotel",
+    "address": "Veranzerou 10, Athina 104 32, Greece",
+    "phone": "+302105243156"
+  },
+  {
+    "name": "Athens Capital Center Hotel - MGallery Collection",
+    "address": "Theatrou 5, Athina 105 52, Greece",
+    "phone": "+306987111090"
+  },
+  {
+    "name": "ALKIMA Athens",
+    "address": "Dionysiou Areopagitou 5, Athina 117 42, Greece",
+    "phone": "+302109249954"
+  },
+  {
+    "name": "Fresh Hotel",
+    "address": "Filellinon 16, Athina 105 57, Greece",
+    "phone": "+302103273000"
+  },
+  {
+    "name": "Novus City Hotel",
+    "address": "Kolokotroni 15, Athina 105 62, Greece",
+    "phone": "+306970070700"
+  },
+  {
+    "name": "Philosofia Athens suites",
+    "address": "Saint Eirini square, Athinaidos 10, Athina 105 63, Greece",
+    "phone": "+302103240603"
+  },
+  {
+    "name": "Still Athens",
+    "address": "Agathonos 11, Athina 105 51, Greece",
+    "phone": "+302103242713"
+  },
+  {
+    "name": "Athens 1890 Boutique Hotel & Spa",
+    "address": "Pesmazoglou 8, Athina 105 59, Greece",
+    "phone": "+302107001350"
+  },
+  {
+    "name": "Polis Grand Hotel",
+    "address": "Karolou 23, Athina 104 37, Greece",
+    "phone": "+302111053000"
+  },
+  {
+    "name": "AthensWas Design Hotel",
+    "address": "Sofokleous 26, Athina 105 52, Greece",
+    "phone": "+302105248511"
+  },
+  {
+    "name": "SOUL Athens Hotel",
+    "address": "Mitseon 3, Athina 117 42, Greece",
+    "phone": "+302109223611"
+  },
+  {
+    "name": "NEW Hotel",
+    "address": "4 Eleftheriou Venizelou Avenue and 2 Kriezotou, Syntagma Square street, Athina 105 64, Greece",
+    "phone": "+302144442000"
+  },
+  {
+    "name": "ACROPOLIS CITY LIFE BOUTIQUE HOTEL",
+    "address": "2, Limpona Street, Athina 105 60, Greece",
+    "phone": "+302103216660"
+  },
+  {
+    "name": "Boutique Luxury Studios in Athens Downtown",
+    "address": "4, Michail Voda Str, Athina 104 39, Greece",
+    "phone": "+302108200700"
+  },
+  {
+    "name": "Athens Cypria Hotel",
+    "address": "Lisikratous 10, Athina 105 58, Greece",
+    "phone": "+302103223204"
+  },
+  {
+    "name": "ATHENS4",
+    "address": "Praxitelous 27, Athina 105 60, Greece",
+    "phone": "+302117507274"
+  },
+  {
+    "name": "Attalos Hotel",
+    "address": "Mitropoleos 49, Athina 105 56, Greece",
+    "phone": "+302160047000"
+  },
+  {
+    "name": "Plaka Arch Suites",
+    "address": "Karori 14, Athina 105 51, Greece",
+    "phone": "+302169003569"
+  },
+  {
+    "name": "Andronis Athens",
+    "address": "Tompazi 10, Athina 105 53, Greece",
+    "phone": "+302103210888"
+  },
+  {
+    "name": "Mona Athens",
+    "address": "Mouson 13, Athina 117 41, Greece",
+    "phone": "+302130883945"
+  },
+  {
+    "name": "Ciel Athens Suites",
+    "address": "Agiou Andreou 2, Athina 105 56, Greece",
+    "phone": "+302103238438"
+  },
+  {
+    "name": "Selina Theatrou Athens & Cowork",
+    "address": "Pl. Monastirakiou, Athina 105 52, Greece",
+    "phone": "+302103240034"
+  },
+  {
+    "name": "Newel Metaxourgeio",
+    "address": "Karaiskaki 19, Athina 105 54, Greece",
+    "phone": "+302152154720"
+  },
+  {
+    "name": "Athenaeum Grand Hotel",
+    "address": "Aristotelous 18, Kallithea 176 71, Greece",
+    "phone": "+302109220486"
+  },
+  {
+    "name": "MELO Athens",
+    "address": "4 Eleftheriou Venizelou Avenue and 2 Kriezotou, Syntagma Square street, Athina 105 64, Greece",
+    "phone": "+302144442000"
+  },
+  {
+    "name": "Airotel Alexandros",
+    "address": "Mitseon 3, Athina 117 42, Greece",
+    "phone": "+302109223611"
+  },
+  {
+    "name": "NLH MONASTIRAKI | Neighborhood Lifestyle Hotels",
+    "address": "Praxitelous 27, Athina 105 60, Greece",
+    "phone": "+302117507274"
+  },
+  {
+    "name": "Athenian Residences",
+    "address": "2, Limpona Street, Athina 105 60, Greece",
+    "phone": "+302103216660"
+  },
+  {
+    "name": "Athens Utopia Ermou",
+    "address": "4, Michail Voda Str, Athina 104 39, Greece",
+    "phone": "+302108200700"
+  },
+  {
+    "name": "The Residence – Christokopidou Hotel & Spa",
+    "address": "Pl. Monastirakiou, Athina 105 52, Greece",
+    "phone": "+302103240034"
+  },
+  {
+    "name": "Acropolian Spirit Boutique Hotel",
+    "address": "Karaiskaki 19, Athina 105 54, Greece",
+    "phone": "+302152154720"
+  },
+  {
+    "name": "Monsieur Didot",
+    "address": "Aristotelous 18, Kallithea 176 71, Greece",
+    "phone": "+302109220486"
+  },
+  {
+    "name": "The Foundry Suites Athens",
+    "address": "Kleomenous 2, Athina 106 75, Greece",
+    "phone": "+302107416000"
+  },
+  {
+    "name": "Hellenic Vibes Smart Hotel",
+    "address": "Delfon 2Β, Athina 106 80, Greece",
+    "phone": "+302103616891"
+  },
+  {
+    "name": "AD Athens Luxury Rooms and Suites",
+    "address": "Prytaneiou 11, Athina 105 56, Greece",
+    "phone": "+306978731978"
+  },
+  {
+    "name": "Niki Athens Hotel",
+    "address": "21 Syngrou Avenue & 2, Vourvachi Street, Athina 117 43, Greece",
+    "phone": "21211743"
+  },
+  {
+    "name": "The Social Athens Hotel, a member of Radisson Individuals",
+    "address": "Farmaki 2, Athina 105 58, Greece",
+    "phone": "+302103008044"
+  },
+  {
+    "name": "KERAMOS Athens - Life Tasting Residence",
+    "address": "Ermou 15-17, Athina 105 63, Greece",
+    "phone": "151710563"
+  },
+  {
+    "name": "AboV Athens",
+    "address": "24 Voulis And, Mitropoleos Street, Athina 105 63, Greece",
+    "phone": "+302103232443"
+  },
+  {
+    "name": "Amalia Hotel Athens",
+    "address": "Aiolou 27, Athina 105 51, Greece",
+    "phone": "+302103255118"
+  },
+  {
+    "name": "Royalty Hotel Athens",
+    "address": "Chalkokondili 12, Athina 106 77, Greece",
+    "phone": "+302144086600"
+  },
+  {
+    "name": "Safestay Athens Monastiraki",
+    "address": "Odisseos 1, Athina 104 37, Greece",
+    "phone": "+302119900900"
+  },
+  {
+    "name": "Hera Hotel",
+    "address": "Αθηνάς 2 &, Ermou 78, Athina 105 51, Greece",
+    "phone": "27810551"
+  },
+  {
+    "name": "President Hotel Athens",
+    "address": "Kapnikareas 7, Athina 105 56, Greece",
+    "phone": "+302103222706"
+  },
+  {
+    "name": "Shila",
+    "address": "4 Eleftheriou Venizelou Avenue and 2 Kriezotou, Syntagma Square street, Athina 105 64, Greece",
+    "phone": "+302144442000"
+  },
+  {
+    "name": "The Gem Society Boutique Hotel & Spa",
+    "address": "Kapnikareas 7, Athina 105 56, Greece",
+    "phone": "+302103222706"
+  },
+  {
+    "name": "St. Bjur Hotel & Suites",
+    "address": "21 Syngrou Avenue & 2, Vourvachi Street, Athina 117 43, Greece",
+    "phone": "21211743"
+  },
+  {
+    "name": "Parea Athens",
+    "address": "Parthenonos 19, Athina 117 42, Greece",
+    "phone": "+302109280100"
+  },
+  {
+    "name": "A-13 Luxury Rooms at Monastiraki Railway Station",
+    "address": "Agathonos 11, Athina 105 51, Greece",
+    "phone": "+302103242713"
+  },
+  {
+    "name": "Karamanlidika",
+    "address": "Evripidou 52, Athina 105 52, Greece",
+    "phone": "+302103254184"
+  },
+  {
+    "name": "Lithos Tavern",
+    "address": "Pirronos 5, Athina 116 36, Greece",
+    "phone": "+302107564021"
+  },
+  {
+    "name": "Geros Tou Moria Restaurant",
+    "address": "Leof. Andrea Siggrou 107-109, Athina 117 45, Greece",
+    "phone": "10710911745"
+  },
+  {
+    "name": "Gastone Athens",
+    "address": "Esopou 17, Athina 105 54, Greece",
+    "phone": "+302103247797"
+  },
+  {
+    "name": "MIRONI Greek Restaurant",
+    "address": "Praxitelous 43, Athina 105 60, Greece",
+    "phone": "+302103211455"
+  },
+  {
+    "name": "Hytra Restaurant & Bar",
+    "address": "Mnisikleous 27, Athina 105 56, Greece",
+    "phone": "+302103221753"
+  },
+  {
+    "name": "Feyrouz",
+    "address": "Καρόρη 23 και, Agathonos 1, Athina 105 51, Greece",
+    "phone": "23110551"
+  },
+  {
+    "name": "Spondi Restaurant",
+    "address": "Meg. Alexandrou 7, Athina 104 37, Greece",
+    "phone": "+302105202339"
+  },
+  {
+    "name": "Anadolu",
+    "address": "Αδριανού, Adrianoy 47, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "Maiandros restaurant",
+    "address": "Mpousgou 2, Athina 114 73, Greece",
+    "phone": "+302106431990"
+  },
+  {
+    "name": "Granada",
+    "address": "Mitropoleos 26, Athina 105 63, Greece",
+    "phone": "+302130403574"
+  },
+  {
+    "name": "Strofi Athenian Restaurant",
+    "address": "Loukianou 21b, Athina 106 75, Greece",
+    "phone": "+302107248889"
+  },
+  {
+    "name": "Aleria Restaurant",
+    "address": "Greece, Ivikou 7, Athina 116 35, Greece",
+    "phone": "+302114088045"
+  },
+  {
+    "name": "OROSCOPO restaurant",
+    "address": "Roumpesi 64, Athina 172 30, Greece",
+    "phone": "+302111150602"
+  },
+  {
+    "name": "V1935 Roof Garden",
+    "address": "Empedokleous 25 - 27, Athina 116 35, Greece",
+    "phone": "252711635"
+  },
+  {
+    "name": "Efcharis restaurant",
+    "address": "Rovertou Galli 17, Athina 117 42, Greece",
+    "phone": "+302109237260"
+  },
+  {
+    "name": "A Little Taste of Home Restaurant",
+    "address": "Leof. Vasileos Alexandrou 2, Athina 161 21, Greece",
+    "phone": "+302107207000"
+  },
+  {
+    "name": "ETNICO street food - Σύνταγμα",
+    "address": "Kidathineon 16, Athina 105 58, Greece",
+    "phone": "+302103232334"
+  },
+  {
+    "name": "SNACK-BAR NON-STOP",
+    "address": "Λεωφόρος Συγγρού 21, Vourvachi 2, Athina 117 43, Greece",
+    "phone": "21211743"
+  },
+  {
+    "name": "Cafe Boheme Μπαρμπαγιάννης",
+    "address": "Ploutarchou 66, Athina 106 76, Greece",
+    "phone": "+302107227065"
+  },
+  {
+    "name": "A Little Taste of Home Restaurant",
+    "address": "Aristippou 1, Athina 106 76, Greece",
+    "phone": "+302107210701"
+  },
+  {
+    "name": "ETNICO street food - Σύνταγμα",
+    "address": "Sarri 36, Athina 105 53, Greece",
+    "phone": "+302103222641"
+  },
+  {
+    "name": "Cafe Boheme Μπαρμπαγιάννης",
+    "address": "Palaión Patrón Germanoú 7, Athina 105 61, Greece",
+    "phone": "+302103238689"
+  },
+  {
+    "name": "Nolan",
+    "address": "Acharnon61, Feron 40, Athina 104 40, Greece",
+    "phone": "614010440"
+  },
+  {
+    "name": "Enjoy Just Falafel",
+    "address": "Arcade Spyromiliou, Athina, Greece",
+    "phone": "+302103220714"
+  },
+  {
+    "name": "Opos Palia",
+    "address": "Lempesi 12, Athina 117 42, Greece",
+    "phone": "+302109233999"
+  },
+  {
+    "name": "Krasopoulio tou Kokkora",
+    "address": "Acropolis Museum, Dionysiou Areopagitou 15, Athina 117 42, Greece",
+    "phone": "+302109000915"
+  },
+  {
+    "name": "Mirch",
+    "address": "17 &, Ρόμβης και Κλειτίου, Athina, Greece",
+    "phone": "+302103240100"
+  },
+  {
+    "name": "FISH MARKET",
+    "address": "Christou Lada 9, Athina 105 61, Greece",
+    "phone": "+302103234760"
+  },
+  {
+    "name": "Falafelinas",
+    "address": "Skoufou 2-4, Athina 105 57, Greece",
+    "phone": "+302103316177"
+  },
+  {
+    "name": "Eat at Milton's",
+    "address": "Rovertou Galli 43, Athina 117 42, Greece",
+    "phone": "+302109233182"
+  },
+  {
+    "name": "Psaras Tavern",
+    "address": "ΜΝΗΣΙΚΛΕΟΥΣ, Mitropoleos 2, Athina 105 56, Greece",
+    "phone": "+302103314727"
+  },
+  {
+    "name": "SENSE Rooftop Restaurant",
+    "address": "Aiolou 29, Athina 105 51, Greece",
+    "phone": "+302103220203"
+  },
+  {
+    "name": "Folk.",
+    "address": "Theodore Diligiannis 2, Athina 104 37, Greece",
+    "phone": "+302111825074"
+  },
+  {
+    "name": "GH Attikos Restaurant",
+    "address": "Chatzigianni Mexi 2a, Athina 115 28, Greece",
+    "phone": "+302107235005"
+  },
+  {
+    "name": "NEW Taste Restaurant",
+    "address": "Lelas Karagianni 11, Athina 112 52, Greece",
+    "phone": "+302108668462"
+  },
+  {
+    "name": "Bite Box",
+    "address": "Δημητρακοπούλου και, Drakou 15, Athina 117 42, Greece",
+    "phone": "+302110171862"
+  },
+  {
+    "name": "Electra Roof Garden",
+    "address": "Leof. Andrea Siggrou 121, Athina 117 45, Greece",
+    "phone": "12111745"
+  },
+  {
+    "name": "traditional food \"Diodos\"",
+    "address": "Apollonos, Athina 105 57, Greece",
+    "phone": "+302103220551"
+  },
+  {
+    "name": "Milos Restaurant",
+    "address": "Pl. Filikis Eterias 19-20, Athina 106 73, Greece",
+    "phone": "192010673"
+  },
+  {
+    "name": "Gargaretta | All Day Street Bistrot",
+    "address": "Akominatou 12, Athina 104 37, Greece",
+    "phone": "+306947288992"
+  },
+  {
+    "name": "Mamacita - Taquería y Coctelería",
+    "address": "Negri Fokionos 19, Athina 112 57, Greece",
+    "phone": "+302111177714"
+  },
+  {
+    "name": "Tivoli",
+    "address": "Adrianoy 25, Athina 105 55, Greece",
+    "phone": "+302103213232"
+  },
+  {
+    "name": "Fine Mess Smokehouse",
+    "address": "Praxitelous 37, Athina 105 60, Greece",
+    "phone": "+302103311372"
+  },
+  {
+    "name": "To Neoklassiko",
+    "address": "Sapfous 5, Athina 105 53, Greece",
+    "phone": "+306940902032"
+  },
+  {
+    "name": "Metropolis Roof Garden",
+    "address": "Leof. Andrea Siggrou 133, Athina 117 45, Greece",
+    "phone": "13311745"
+  },
+  {
+    "name": "Cherchez La Femme Σερσέ λα Φαμ",
+    "address": "Leof. Andrea Siggrou 89-93, Athina 117 45, Greece",
+    "phone": "899311745"
+  },
+  {
+    "name": "Bandiera",
+    "address": "Troon 48, Athina 118 52, Greece",
+    "phone": "+302103416668"
+  },
+  {
+    "name": "Balkan Restaurant",
+    "address": "Ktena 1, Athina 105 63, Greece",
+    "phone": "+302103210551"
+  },
+  {
+    "name": "Delicious Souvlaki",
+    "address": "Mitropoleos 5, Athina 105 57, Greece",
+    "phone": "+302103252282"
+  },
+  {
+    "name": "Babaji Indian Food",
+    "address": "Pl. Filomousou Eterias 3, Athina 105 58, Greece",
+    "phone": "+302103241193"
+  },
+  {
+    "name": "Annie - Fine Cooking",
+    "address": "Pireos 2, Athina 104 31, Greece",
+    "phone": "+302105200300"
+  },
+  {
+    "name": "Dinner in the Sky Athens",
+    "address": "38 Mitropoleos Street Syntagma Athens, Greece, 105 63, Greece",
+    "phone": "+302103314397"
+  },
+  {
+    "name": "Φάρμα Μπράλου - Steak Bar",
+    "address": "Patriarchou Ioakim 38, Athina 106 75, Greece",
+    "phone": "+302107238334"
+  },
+  {
+    "name": "Vegan Beat Athens",
+    "address": "Falirou 40, Athina 117 42, Greece",
+    "phone": "+302109218875"
+  },
+  {
+    "name": "Psarochōri",
+    "address": "Roof top, Leof. Alexandras 10, Athina 106 82, Greece",
+    "phone": "+302108894500"
+  },
+  {
+    "name": "Muse Bistro",
+    "address": "Aristidou 3, Athina 105 59, Greece",
+    "phone": "+302102207778"
+  },
+  {
+    "name": "ALEX the fresh pasta bar",
+    "address": "Massalias 16, Athina 106 80, Greece",
+    "phone": "+302103644142"
+  },
+  {
+    "name": "Φανκυ Γκουρμέ Εστιατόριο ΕΠΕ",
+    "address": "Tsocha 21, Athina 115 21, Greece",
+    "phone": "+302106438691"
+  },
+  {
+    "name": "ST'ASTRA Restaurant",
+    "address": "Παραμυθιάς 13 και, Salaminos, Athina 104 35, Greece",
+    "phone": "+302105242727"
+  },
+  {
+    "name": "Peas Vegan & Raw Food",
+    "address": "Perikleous 56, Athina 105 60, Greece",
+    "phone": "+302103213009"
+  },
+  {
+    "name": "Artensis Restaurant",
+    "address": "Technopolis, Athina 118 54, Greece",
+    "phone": "+306982247704"
+  },
+  {
+    "name": "Zurbaran Athens",
+    "address": "Milioni 9, Athina 106 73, Greece",
+    "phone": "+302103645050"
+  },
+  {
+    "name": "Cardinale Athens",
+    "address": "Menechmou 4, Athina 117 43, Greece",
+    "phone": "+302109213690"
+  },
+  {
+    "name": "Samano Radio Restaurant",
+    "address": "Νίκης, Pl. Sintagmatos 11, Athina 105 57, Greece",
+    "phone": "+302103254841"
+  },
+  {
+    "name": "Premiere Restaurant",
+    "address": "P. Tsaldari 4, Athina 104 31, Greece",
+    "phone": "+302121005664"
+  },
+  {
+    "name": "The Greco's Project",
+    "address": "Mitropoleos 46, Athina 105 63, Greece",
+    "phone": "+302103222020"
+  },
+  {
+    "name": "Aster",
+    "address": "Taki 19, Athina 105 54, Greece",
+    "phone": "+302103252255"
+  },
+  {
+    "name": "Westwood All Day L.A.",
+    "address": "Akominatou 13, Athina 104 37, Greece",
+    "phone": "+302105230717"
+  },
+  {
+    "name": "Grill House",
+    "address": "Karagiorgi Servias 20, Athina 105 63, Greece",
+    "phone": "+302103318810"
+  },
+  {
+    "name": "Antica Restaurant & Cafe",
+    "address": "Mitropoleos 15, Athina 105 57, Greece",
+    "phone": "+302141006290"
+  },
+  {
+    "name": "Abdullah Restaurant",
+    "address": "Delfon 5, Athina 106 80, Greece",
+    "phone": "+302111155725"
+  },
+  {
+    "name": "Feedέλ Urban Gastronomy",
+    "address": "Apollonos 9Β, Athina 105 57, Greece",
+    "phone": "+302103210240"
+  },
+  {
+    "name": "Γεύσεις της Δαμασκού - Tastes of Damascus",
+    "address": "Emmanouil Benaki 34, Athina 106 78, Greece",
+    "phone": "+302103830919"
+  },
+  {
+    "name": "The Makers Athens",
+    "address": "1, Rovertou Galli St, Athina 117 42, Greece",
+    "phone": "+302109228713"
+  },
+  {
+    "name": "Aspro Alogo",
+    "address": "3-5, Kolokotroni Street, Athina 105 62, Greece",
+    "phone": "+302166003320"
+  },
+  {
+    "name": "Mayor, Bar Restaurant, Kolonaki, Athens",
+    "address": "Navarchou Nikodimou 18-20, Athina 105 57, Greece",
+    "phone": "182010557"
+  },
+  {
+    "name": "Kalamaki bar",
+    "address": "Adrianoy 19, Athina 105 55, Greece",
+    "phone": "+302103212256"
+  },
+  {
+    "name": "Yankadi African Restaurant Athens",
+    "address": "Vissis 2, Athina 105 51, Greece",
+    "phone": "+302103221219"
+  },
+  {
+    "name": "Jaipur Palace",
+    "address": "105 57, Filellinon 16, Athina 105 57, Greece",
+    "phone": "105571610557"
+  },
+  {
+    "name": "Cookoovaya",
+    "address": "Veikou 84, Athina 117 41, Greece",
+    "phone": "+302109237817"
+  },
+  {
+    "name": "EATERY Bairaktaris Aiolou 29",
+    "address": "Garivaldi 7, Athina 117 42, Greece",
+    "phone": "+302109215256"
+  },
+  {
+    "name": "Ciel Athens",
+    "address": "Erotokritou 16, Athina 105 56, Greece",
+    "phone": "+302103218734"
+  },
+  {
+    "name": "Dionysos Zonar's",
+    "address": "Dionysiou Areopagitou 5, Athina 117 42, Greece",
+    "phone": "+302109200240"
+  },
+  {
+    "name": "Grill house central",
+    "address": "Adrianoy 91, Athina 105 56, Greece",
+    "phone": "+302103249129"
+  },
+  {
+    "name": "Black Duck Multiplarte",
+    "address": "Ermou 109, Athina 105 55, Greece",
+    "phone": "10910555"
+  },
+  {
+    "name": "Pink Flamingo Dim Sum",
+    "address": "Dorileou 7, Athina 115 21, Greece",
+    "phone": "+302106926991"
+  },
+  {
+    "name": "Los Gatos",
+    "address": "Paggeou 2, Athina 118 55, Greece",
+    "phone": "+302103479948"
+  },
+  {
+    "name": "Acropolis Museum Cafe and Restaurant",
+    "address": "Voulis 31 - 33, Athina 105 57, Greece",
+    "phone": "313310557"
+  },
+  {
+    "name": "Namaste Indian Restaurant",
+    "address": "Emmanouil Benaki 94, Athina 106 81, Greece",
+    "phone": "+302103608018"
+  },
+  {
+    "name": "Pasaji",
+    "address": "Kolokotroni 22, Athina 105 62, Greece",
+    "phone": "+302114113880"
+  },
+  {
+    "name": "Ginger Grill",
+    "address": "Veikou 2, Athina 117 42, Greece",
+    "phone": "+302109239718"
+  },
+  {
+    "name": "juicygrill_Athens (downtown)",
+    "address": "Greece, Aristotelous 98, Athina 104 34, Greece",
+    "phone": "+302155259599"
+  },
+  {
+    "name": "Dao Vietnamese Cuisine",
+    "address": "Esopou 4, Athina 105 54, Greece",
+    "phone": "+302103211565"
+  },
+  {
+    "name": "Orizontes Lycabettus",
+    "address": "Sonierou 23, Athina 104 38, Greece",
+    "phone": "+302105241610"
+  },
+  {
+    "name": "Taverna Plaka",
+    "address": "Astiggos 8, Athina 105 55, Greece",
+    "phone": "+302110011511"
+  },
+  {
+    "name": "stork rooftop bar restaurant",
+    "address": "Emmanouil Benaki 94, Athina 106 81, Greece",
+    "phone": "+302103608018"
+  },
+  {
+    "name": "JuJu Bar Restaurant",
+    "address": "Kolokotroni 22, Athina 105 62, Greece",
+    "phone": "+302114113880"
+  },
+  {
+    "name": "Acropolis Restaurant Cafe",
+    "address": "Astiggos 8, Athina 105 55, Greece",
+    "phone": "+302110011511"
+  },
+  {
+    "name": "Cafe Lycabettus",
+    "address": "Voulis 29, Athina 105 57, Greece",
+    "phone": "+302111821935"
+  },
+  {
+    "name": "The Mall Athens",
+    "address": "Marni 57, Athina 104 37, Greece",
+    "phone": "+306944978726"
+  },
+  {
+    "name": "Athens Millennium Mall",
+    "address": "Leof. Kifisias 125-127, Athina 115 24, Greece",
+    "phone": "12512711524"
+  },
+  {
+    "name": "Shopping Street",
+    "address": "Imittou 108-110, Athina 116 34, Greece",
+    "phone": "10811011634"
+  },
+  {
+    "name": "Atrium Shopping Centre",
+    "address": "Ermou 4, Athina 105 63, Greece",
+    "phone": null
+  },
+  {
+    "name": "The Mall Athens",
+    "address": "Taurus Hamosterna junction, Pireos 180, Tavros 177 78, Greece",
+    "phone": "18017778"
+  },
+  {
+    "name": "Athens Metro Mall",
+    "address": "Par. Leof. Vouliagmenis 276, Ag. Dimitrios 173 43, Greece",
+    "phone": "27617343"
+  },
+  {
+    "name": "Rasel Sopping Moll",
+    "address": "Char. Trikoupi 6-10, Athina 106 79, Greece",
+    "phone": "61010679"
+  },
+  {
+    "name": "Athens Heart Mall",
+    "address": "Andrea Papandreou 35, Marousi 151 22, Greece",
+    "phone": "+302106300000"
+  },
+  {
+    "name": "Golden Hall",
+    "address": "Andrea Papandreou 35, Marousi 151 22, Greece",
+    "phone": "+302106300000"
+  },
+  {
+    "name": "Cosmos Business Center",
+    "address": "Leof. Kifisias 37A, Marousi 151 23, Greece",
+    "phone": "+302106803450"
+  },
+  {
+    "name": "Agora Athens",
+    "address": "Μικράς Ασίας 5 και, Pontou, Ag. Ioannis Rentis 182 33, Greece",
+    "phone": "+302104835804"
+  },
+  {
+    "name": "Liton Store 2",
+    "address": "37Α, Leof. Kifisias, Marousi 151 23, Greece",
+    "phone": "+302106839278"
+  },
+  {
+    "name": "artica parking",
+    "address": "Charokopou 115, Kallithea 176 75, Greece",
+    "phone": "11517675"
+  },
+  {
+    "name": "Souvenir",
+    "address": "Leof. Kifisou 92, Peristeri 121 32, Greece",
+    "phone": "+302105735000"
+  },
+  {
+    "name": "ChinaTown 希腊",
+    "address": "Tzon Kennenty 25, Peristeri 121 31, Greece",
+    "phone": "+302105911683"
+  },
+  {
+    "name": "Sumon shopping center",
+    "address": "Ilioupoleos 118, Dafni 172 37, Greece",
+    "phone": "11817237"
+  },
+  {
+    "name": "fashon 4you",
+    "address": "Ε.Poulaki, Spata 190 04, Greece",
+    "phone": "+302106635982"
+  },
+  {
+    "name": "Greek Mythology",
+    "address": "Stadiou 25 &, Παπαρρηγοπούλου, Athina 105 61, Greece",
+    "phone": "+302103257721"
+  },
+  {
+    "name": "ΑΤΤΙΚΑ ΠΟΛΥΚΑΤΑΣΤΗΜΑΤΑ Α.Ε.",
+    "address": "Patriarchou Ioakim 8, Athina 106 75, Greece",
+    "phone": "+302107234652"
+  },
+  {
+    "name": "Laiki Friday",
+    "address": "Leof. Irakliou 514-518, Iraklio 141 22, Greece",
+    "phone": "51451814122"
+  },
+  {
+    "name": "ΑNAMESA CONCEPT STORE",
+    "address": "Gimnasiou 6, Nea Ionia 142 33, Greece",
+    "phone": "+302102712026"
+  },
+  {
+    "name": "Dia Tauta Greek Design Gift Shop",
+    "address": "Kolokotroni 1-3, Kifisia 145 62, Greece",
+    "phone": "+302108012994"
+  },
+  {
+    "name": "YOURBRANDS",
+    "address": "Mavromichali 11, Athina 106 79, Greece",
+    "phone": "+302103623427"
+  },
+  {
+    "name": "Antique Market",
+    "address": "28is Oktovriou 14, Athina 106 77, Greece",
+    "phone": "281410677"
+  },
+  {
+    "name": "Gedi Farah mall",
+    "address": "Tirfis 21, Ilioupoli 163 45, Greece",
+    "phone": null
+  },
+  {
+    "name": "thebestprice.gr",
+    "address": "Ολυμπιονικών 322 &, Agiou Georgiou, Neo Psichiko 154 51, Greece",
+    "phone": "32215451"
+  },
+  {
+    "name": "Eleven",
+    "address": "Papadiamantopoulou 22, Athina 115 28, Greece",
+    "phone": "+302107249961"
+  },
+  {
+    "name": "eBajar",
+    "address": "Leof. Kifisou 102, Peristeri 121 32, Greece",
+    "phone": "10212132"
+  },
+  {
+    "name": "Εμπορικό Κέντρο Ψυχικού",
+    "address": "Leof. Athinon 64, Athina 121 36, Greece",
+    "phone": "+302112117700"
+  },
+  {
+    "name": "Indian Fashion",
+    "address": "Par. Leof. Vouliagmenis 276, Ag. Dimitrios 173 43, Greece",
+    "phone": "27617343"
+  },
+  {
+    "name": "Service Ideal Standard",
+    "address": "Charitos 13, Athina 106 75, Greece",
+    "phone": "+302107258735"
+  },
+  {
+    "name": "pen-script.com",
+    "address": "Leof. Athinon 44, Athina 104 41, Greece",
+    "phone": "+302105235531"
+  },
+  {
+    "name": "XDNN CYCLE2PARTS",
+    "address": "Theomitoros 41, Alimos 174 56, Greece",
+    "phone": "+302109853450"
+  },
+  {
+    "name": "Mall Vouliagmenis Ave. Restaurants S.A.",
+    "address": "Laodikis 38, Glifada 166 74, Greece",
+    "phone": "+302108983449"
+  },
+  {
+    "name": "Shopify Ltd",
+    "address": "Thivon 181, Peristeri 121 34, Greece",
+    "phone": "18112134"
+  },
+  {
+    "name": "RΙVER WEST",
+    "address": "Leof. Konstantinoupoleos 4, Peristeri 121 33, Greece",
+    "phone": "+302105773487"
+  },
+  {
+    "name": "Stoa X. Mpolani",
+    "address": "Athens Metro Mall, ΛΕΩΦΟΡΟΣ ΒΟΥΛΙΑΓΜΕΝΗΣ 276, ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ, Athina 173 43, Greece",
+    "phone": "27617343"
+  },
+  {
+    "name": "Atomy Sofias",
+    "address": "Agias Paraskevis 13-15, Chalandri 152 32, Greece",
+    "phone": "131515232"
+  },
+  {
+    "name": "Spiti & Xroma",
+    "address": "Leof. Dimarchou Aggelou Metaxa 39, Glifada 166 74, Greece",
+    "phone": null
+  },
+  {
+    "name": "The Rug Store",
+    "address": "Antheon 29, Athina 111 43, Greece",
+    "phone": "+302102515840"
+  },
+  {
+    "name": "Αφοι ΜΑΣΙΑΛΑ - MASIALAS Bros",
+    "address": "Kolokotroni 9, Chalandri 152 33, Greece",
+    "phone": null
+  },
+  {
+    "name": "Altershops Outlet Store",
+    "address": "Par. Leof. Vouliagmenis, Ilioupoli 163 46, Greece",
+    "phone": "+302109701560"
+  },
+  {
+    "name": "Polytaridis, J., Sons & Co. E.E.",
+    "address": "Troon 26, Peristeri 121 33, Greece",
+    "phone": "+302111822107"
+  },
+  {
+    "name": "2eyescare",
+    "address": "Ir. Politechniou 19, Chalandri 152 31, Greece",
+    "phone": null
+  },
+  {
+    "name": "Rong Wei Trading",
+    "address": "Neas Elvetias 54, Vironas 162 33, Greece",
+    "phone": "+302107653466"
+  },
+  {
+    "name": "Designer Outlet Athens",
+    "address": "Leof. Ionias 75, Alimos 174 56, Greece",
+    "phone": "+302109921466"
+  },
+  {
+    "name": "AVENUE Mall",
+    "address": "Geraniou 17, Athina 105 52, Greece",
+    "phone": "+302105200091"
+  },
+  {
+    "name": "ανατομικά ΣΑΚΕΛΛΑΡΗ The Mall Athens",
+    "address": "Solonos 45, Athina 106 73, Greece",
+    "phone": "+302130298143"
+  },
+  {
+    "name": "Trade Estates Piraeus Retail Park",
+    "address": "Leof. Dimokratias 67, Agii Anargiri 131 22, Greece",
+    "phone": "+302102384615"
+  },
+  {
+    "name": "MORPHḖ LONDON",
+    "address": "Leof. Veikou 6, Galatsi 111 47, Greece",
+    "phone": "+302114024391"
+  },
+  {
+    "name": "ΕΡΜΕΙΟΝ III Εμπορικό Κέντρο Χαλάνδρι",
+    "address": "Agias Sofias 120, Vironas 162 32, Greece",
+    "phone": "12016232"
+  },
+  {
+    "name": "Aithrio Shopping Center",
+    "address": "ΚΕΛΕΤΣΕΚΗ 8, Τ.Κ 111 45, Athina, Greece",
+    "phone": "+302108543260"
+  },
+  {
+    "name": "Factory Outlet",
+    "address": "THE MALL, Aten, ΑΘΗΝΑ, Andrea Papandreou 35, Marousi 151 24, Greece",
+    "phone": "+302146877250"
+  },
+  {
+    "name": "NUMISTA / ΣΥΛΛΕΚΤΙΚΑ ΝΟΜΙΣΜΑΤΑ",
+    "address": "3is Septemvriou 112, 3rd, Athina 104 34, Greece",
+    "phone": "3112310434"
+  },
+  {
+    "name": "Pyramides Market",
+    "address": "Leof. Kifisias 238-240, Kifisia 145 62, Greece",
+    "phone": "23824014562"
+  },
+  {
+    "name": "Clochard",
+    "address": "Εμπορικό Πάρκο Αεροδρομίου, Peania 190 02, Greece",
+    "phone": "+302103541800"
+  },
+  {
+    "name": "earthstears",
+    "address": "Βασιλέως Αλεξάνδρου 38 και Αιόλου , Περιστέρι, Athina 121 32, Greece",
+    "phone": "+302105733002"
+  },
+  {
+    "name": "bettersport",
+    "address": "Agiou Konstantinou 40, Marousi 151 24, Greece",
+    "phone": "+302106196914"
+  },
+  {
+    "name": "ΔΙΑΦΑΝΟ Καταστημα THE MALL ATHENS",
+    "address": "28is Oktovriou 24, Athina 106 77, Greece",
+    "phone": "282410677"
+  },
+  {
+    "name": "Mela Shopping Center",
+    "address": "Leof. El. Venizelou 156, Kallithea 176 75, Greece",
+    "phone": "15617675"
+  },
+  {
+    "name": "Factory Outlet - Airport",
+    "address": "Stadiou 39, Athina 105 59, Greece",
+    "phone": "+302103232092"
+  },
+  {
+    "name": "Click-N-Shop.gr",
+    "address": "Leventi 7, Athina 106 73, Greece",
+    "phone": null
+  },
+  {
+    "name": "Emily's H. Classics",
+    "address": "Agiou Konstantinou 40, Marousi 151 24, Greece",
+    "phone": "+302106196914"
+  },
+  {
+    "name": "Vassilias S.A.",
+    "address": "Pl. Dourou, Chalandri 152 34, Greece",
+    "phone": null
+  },
+  {
+    "name": "Fashion Bazaar",
+    "address": "Pireos 86, Pireas 185 47, Greece",
+    "phone": "+302162022213"
+  },
+  {
+    "name": "ΠΛΑΤΩΝ ΑΕ - AROMA-ESHOP - ΕΜΠΟΡΙΟ ΧΗΜΙΚΩΝ - ΑΘΗΝΑ",
+    "address": "Peiraios 76, Pireas 185 47, Greece",
+    "phone": "+302104833926"
+  },
+  {
+    "name": "Osmin perfume bar",
+    "address": "The Mall Athens, Athina 151 22, Greece",
+    "phone": "+302114181665"
+  },
+  {
+    "name": "MACAO fashion",
+    "address": "Thermopilon 65, Athina 104 35, Greece",
+    "phone": "+302121023661"
+  },
+  {
+    "name": "Renault",
+    "address": "Agias Sofias, Vironas 162 32, Greece",
+    "phone": "+302110134005"
+  },
+  {
+    "name": "ΕΜΠΟΡΙΚΟ ΚΕΝΤΡΟ",
+    "address": "Prompona 13, Athina 111 43, Greece",
+    "phone": "+302102520100"
+  },
+  {
+    "name": "Καργαδούρη επιδιορθώσεις",
+    "address": "Οικοδομικό Τετράγωνο, Ε71, Θέση Γυαλού,Σπάτα, Athens 190 04, Greece",
+    "phone": "+302106638108"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "address": "Miltiadou 7, Athina 105 60, Greece",
+    "phone": "+302103245810"
+  },
+  {
+    "name": "Domica center",
+    "address": "Λεωφόρος Κηφισίας 41-47 47, Marousi 151 23, Greece",
+    "phone": "41474715123"
+  },
+  {
+    "name": "naturesbeautylab.gr",
+    "address": "Ελ. Βενιζέλου 28,Περιστέρι 121 32, Athina 121 32, Greece",
+    "phone": "281213212132"
+  },
+  {
+    "name": "Εμπορικό Κέντρο Τιτάνιο",
+    "address": "28is Oktovriou 67, Athina 104 34, Greece",
+    "phone": "286710434"
+  },
+  {
+    "name": "Plaza Shopping Center",
+    "address": "Andrea Papandreou 35, Marousi 151 22, Greece",
+    "phone": "+302108181333"
+  },
+  {
+    "name": "thomopoulosstore.com",
+    "address": "Oikodomiko Tetragono, Gialou E71, Spata 190 04, Greece",
+    "phone": "+302106630840"
+  },
+  {
+    "name": "BIG shopping",
+    "address": "Imittou 7, Cholargos 155 61, Greece",
+    "phone": "+306972692200"
+  },
+  {
+    "name": "Plastona S.A.",
+    "address": "Cristomanou, Athina 104 43, Greece",
+    "phone": null
+  },
+  {
+    "name": "Φορτωμας τελαρα ζωγταφικης",
+    "address": "Voulis 7, Athina 105 62, Greece",
+    "phone": null
+  },
+  {
+    "name": "ΔΙΑΦΑΝΟ Καταστημα METRO MALL",
+    "address": "Pindarou 3, Athina 106 71, Greece",
+    "phone": "+302103619667"
+  },
+  {
+    "name": "shopping house",
+    "address": "Par. Leoforou Kifisou 98, Egaleo 122 41, Greece",
+    "phone": "+308012225050"
+  },
+  {
+    "name": "Glyfada Center",
+    "address": "Par. Leof. Vouliagmenis 276, Ag. Dimitrios 173 43, Greece",
+    "phone": "27617343"
+  },
+  {
+    "name": "MARKOUTSAS D NIKOLAOS O.E.",
+    "address": "Ioulianou 69, Athina 104 33, Greece",
+    "phone": "+306951287070"
+  },
+  {
+    "name": "Hellas-Tech.gr Online Shopping Mall",
+    "address": "Ilia Iliou 20-24, Athina 117 43, Greece",
+    "phone": "202411743"
+  },
+  {
+    "name": "KRYOLAN HELLAS Ε.Π.Ε.",
+    "address": "Gioldasi 3, Athina 117 44, Greece",
+    "phone": "+302109010917"
+  },
+  {
+    "name": "Cinnabon (Athens Metro Mall)",
+    "address": "292, Φιλοθέη, Ψυχικό, Olimpionikon, Neo Psichiko 154 51, Greece",
+    "phone": "29215451"
+  },
+  {
+    "name": "JACK IN THE BOX - toy shop",
+    "address": "Ἀcharnon 41, Athina 104 39, Greece",
+    "phone": "+989389719017"
+  },
+  {
+    "name": "Electronics Store \"Media Markt\" Peristeri",
+    "address": "Kolokotroni 66, Athina 162 32, Greece",
+    "phone": "+306986434967"
+  },
+  {
+    "name": "Kosta Boda shop",
+    "address": "Zinonos 30, Athina 104 37, Greece",
+    "phone": "+302111985681"
+  },
+  {
+    "name": "Shoppingland",
+    "address": "Sifnou 36, Athina 112 54, Greece",
+    "phone": "+252615416146"
+  },
+  {
+    "name": "Grow Academy",
+    "address": "3is Septemvriou 144, Athina 112 51, Greece",
+    "phone": "314411251"
+  },
+  {
+    "name": "metro mall",
+    "address": "Pl. Avissinias 10, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "EBM GREECE GENERAL TRADING",
+    "address": "Ypereidou 1 &, Nikis, Athina 105 58, Greece",
+    "phone": "+302103212349"
+  },
+  {
+    "name": "Al Hayat Mini Market",
+    "address": "Oumplianis 10, Athina 161 21, Greece",
+    "phone": null
+  },
+  {
+    "name": "Sugar Baby Love",
+    "address": "Nikis 24, Syntagma, Athens 105 57, Greece",
+    "phone": "+302103254930"
+  },
+  {
+    "name": "HOMELINE",
+    "address": "Evripidou 90, Athina 105 53, Greece",
+    "phone": "+306973571389"
+  },
+  {
+    "name": "Karcher Store Kritsonis",
+    "address": "Adrianoy, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "\"Vips Center\"",
+    "address": "Ἀcharnon 292, Athina 112 54, Greece",
+    "phone": "29211254"
+  },
+  {
+    "name": "Sugarfree Athens (Stadiou)",
+    "address": "Panos 13, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "Active Athens Holidays",
+    "address": "Adrianoy 24, Athina 105 55, Greece",
+    "phone": "+302103210185"
+  },
+  {
+    "name": "#tag ATHENS Tours & Activities",
+    "address": "Ναός Ηφαίστου, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "Temple of Olympian Zeus",
+    "address": "Dionysiou Areopagitou 15, Athina 117 42, Greece",
+    "phone": "+302109000900"
+  },
+  {
+    "name": "Acropolis of Athens",
+    "address": "28is Oktovriou 44, Athina 106 82, Greece",
+    "phone": "284410682"
+  },
+  {
+    "name": "Temple of Hephaestus",
+    "address": "Acropolis, Dionysiou Areopagitou, Athina 105 58, Greece",
+    "phone": "+302103214172"
+  },
+  {
+    "name": "Temple of Athena Nike",
+    "address": "Leof. Vasilisis Amalias 1, Athina 105 57, Greece",
+    "phone": "+302107215019"
+  },
+  {
+    "name": "Philopappos Monument",
+    "address": "Leof. Vasilissis Olgas 1, Athina 105 57, Greece",
+    "phone": "+302103233973"
+  },
+  {
+    "name": "Stoa of Attalos",
+    "address": "9, Aischinou &, Frinichou street, Athina 105 58, Greece",
+    "phone": "+302130448682"
+  },
+  {
+    "name": "Roman Forum of Athens (Roman Agora)",
+    "address": "Patriarchou Ioakim 19, Athina 106 75, Greece",
+    "phone": "+302107235226"
+  },
+  {
+    "name": "Odeon of Herodes Atticus",
+    "address": "Roma 5, Athina 106 73, Greece",
+    "phone": "+302130358344"
+  },
+  {
+    "name": "Panathenaic Stadium",
+    "address": "Leof. Andrea Siggrou 364, Kallithea 176 74, Greece",
+    "phone": "36417674"
+  },
+  {
+    "name": "Archaeological Site of Kerameikos",
+    "address": "Adrianoy 96, Athina 105 56, Greece",
+    "phone": "+302103248861"
+  },
+  {
+    "name": "Monument to the Unknown Soldier",
+    "address": "Kriezotou 3, Athina 106 71, Greece",
+    "phone": "+302103615702"
+  },
+  {
+    "name": "Holy Metropolitan Church of the Annunciation to the Virgin Mary",
+    "address": "Karaiskaki 17, Athina 105 54, Greece",
+    "phone": "+302103214144"
+  },
+  {
+    "name": "Statue of Athena",
+    "address": "Kastorias 34-36, Athina 104 47, Greece",
+    "phone": "343610447"
+  },
+  {
+    "name": "Theatre of Dionysus",
+    "address": "Leonidou 9, Athina 104 37, Greece",
+    "phone": "+302105233049"
+  },
+  {
+    "name": "Areopagus Hill",
+    "address": "North Mount hymettus, near athens, greece greece, Greece",
+    "phone": "+302107236619"
+  },
+  {
+    "name": "Hadrian's Library",
+    "address": "Ptolemeon 1, Athina 116 35, Greece",
+    "phone": "+302107290046"
+  },
+  {
+    "name": "Hadrian's Arch",
+    "address": "Iera Odos 403, Chaidari 124 61, Greece",
+    "phone": "40312461"
+  },
+  {
+    "name": "Hellenic Motor Museum",
+    "address": "Apostolou Pavlou 37, Athina 118 51, Greece",
+    "phone": "+302112150497"
+  },
+  {
+    "name": "Monastiraki Square",
+    "address": "EO91, Lavreotiki 195 00, Greece",
+    "phone": "+302292039363"
+  },
+  {
+    "name": "Technopolis City of Athens",
+    "address": "Pl. Monastirakiou, Athina 105 55, Greece",
+    "phone": "+302103213038"
+  },
+  {
+    "name": "Museum of Ancient Greek Technology Kotsanas",
+    "address": "Prytaneiou 1, Athina 105 58, Greece",
+    "phone": "+302103228193"
+  },
+  {
+    "name": "Museum of Illusions Athens",
+    "address": "Rigillis 11, Athina 106 75, Greece",
+    "phone": null
+  },
+  {
+    "name": "Basil & Elise Goulandris Foundation",
+    "address": "Panos, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "The Jewish Museum of Greece",
+    "address": "Πάρκο Φλοίσβου Λεωφόρος Ποσειδονος παλαιο φαληρο, Athina 175 61, Greece",
+    "phone": "+302109885140"
+  },
+  {
+    "name": "Numismatic Museum of Athens",
+    "address": "Athanasiou Diakou 16, Athina 117 42, Greece",
+    "phone": "+306936905004"
+  },
+  {
+    "name": "Central Athens \"Varvakios\" Markets",
+    "address": "Lenorman 218, Athina 104 43, Greece",
+    "phone": "21810443"
+  },
+  {
+    "name": "Archaeological Museum of Kerameikos",
+    "address": "Leof. Andrea Siggrou 364, Kallithea 176 74, Greece",
+    "phone": "36417674"
+  },
+  {
+    "name": "Athens University History Museum",
+    "address": "Giatrakou 9, Athina 104 36, Greece",
+    "phone": null
+  },
+  {
+    "name": "Museum of Cycladic Art",
+    "address": "Tositsa 1, Athina 106 82, Greece",
+    "phone": "+302108232950"
+  },
+  {
+    "name": "Botanical Museum of the National Gardens",
+    "address": "Korai 4, Athina 105 64, Greece",
+    "phone": "+302103243581"
+  },
+  {
+    "name": "Old Acropolis Museum",
+    "address": "Mitropoleos 17, Athina 105 57, Greece",
+    "phone": null
+  },
+  {
+    "name": "National Museum of Contemporary Art Αthens (EMST)",
+    "address": "Pittaki 6, Athina 105 54, Greece",
+    "phone": "+306981373351"
+  },
+  {
+    "name": "The Prison of Socrates",
+    "address": "Agias Filotheis 17, Athina 105 56, Greece",
+    "phone": "+302103250341"
+  },
+  {
+    "name": "Horologion of Andronikos Cyrrhestes",
+    "address": "Leof. Vasilissis Olgas, Athina 105 57, Greece",
+    "phone": "+302103223509"
+  },
+  {
+    "name": "Museum of Greek Folk Musical Instruments \"Fivos Anoyanakis\" - Centre for Ethnomusicology",
+    "address": "Kriezotou 6, Athina 106 71, Greece",
+    "phone": "+302103634454"
+  },
+  {
+    "name": "Lycabettus Hill",
+    "address": "Skaramagka 7, Athina 104 33, Greece",
+    "phone": "+302107482222"
+  },
+  {
+    "name": "The Porch of the Caryatids",
+    "address": "Αγ. Ασωμάτων 22 &, Dipilou 12, Athina 105 53, Greece",
+    "phone": "221210553"
+  },
+  {
+    "name": "Herakleidon Museum",
+    "address": "Kallisperi 12, Athina 117 42, Greece",
+    "phone": "+302109221044"
+  },
+  {
+    "name": "Byzantine Cistern",
+    "address": "Monis Asteriou 3 & 7, Athina 105 58, Greece",
+    "phone": "+302103234678"
+  },
+  {
+    "name": "Athens Happy Train",
+    "address": "Panepistimiou 24, Athina 106 72, Greece",
+    "phone": "+302103623603"
+  },
+  {
+    "name": "Monastiraki Flea Market",
+    "address": "Stournari 5, Athina 106 83, Greece",
+    "phone": null
+  },
+  {
+    "name": "First Cemetery of Athens",
+    "address": "Εθνική Βιβλιοθήκη, Panepistimiou 32, Athina 106 79, Greece",
+    "phone": "+302103382541"
+  },
+  {
+    "name": "Industrial Gas Museum",
+    "address": "Plateia Dexamenis, Athina 106 73, Greece",
+    "phone": null
+  },
+  {
+    "name": "Temple of Artemis Agrotera",
+    "address": "Adrianoy 70, Athina 105 56, Greece",
+    "phone": "+302103314437"
+  },
+  {
+    "name": "Νέο Ψηφιακό Πλανητάριο Ιδρύματος Ευγενίδου - Eugenides Foundation New Digital Planetarium",
+    "address": "387 Syggrou Ave. (entrance 11, Pentelis st, Athina 175 64, Greece",
+    "phone": "3871117564"
+  },
+  {
+    "name": "Hadrian's Reservoir",
+    "address": "Pireos 100, Athina 118 54, Greece",
+    "phone": "10011854"
+  },
+  {
+    "name": "Pandora Art Gallery",
+    "address": "Ardittou 24, Athina 116 36, Greece",
+    "phone": null
+  },
+  {
+    "name": "Hellenic Children's Museum",
+    "address": "Ifestou 2, Athina 105 55, Greece",
+    "phone": "+306946086114"
+  },
+  {
+    "name": "Vallianeio Megaron",
+    "address": "Logginou 3, Athina 116 36, Greece",
+    "phone": "+302109221621"
+  },
+  {
+    "name": "Frissiras Museum",
+    "address": "Vasileos Georgiou B 19, Athina 106 75, Greece",
+    "phone": "+302103312995"
+  },
+  {
+    "name": "Holy Catholic Cathedral of Saint Denis the Areopagite",
+    "address": "Iraklidon 16, Athina 118 51, Greece",
+    "phone": "+302103461981"
+  },
+  {
+    "name": "Museum of Greek Children’s Art",
+    "address": "Ermou 1, Athina 105 63, Greece",
+    "phone": "+306989919091"
+  },
+  {
+    "name": "Holy Church of Saint Demetrios Loumbardiaris",
+    "address": "Plateía Mitropóleos 8, Athina 105 56, Greece",
+    "phone": "+302103221308"
+  },
+  {
+    "name": "Holy Church of Saint George of Lycabettus",
+    "address": "Likavittou, Athina 114 71, Greece",
+    "phone": null
+  },
+  {
+    "name": "Victoria Square",
+    "address": "Acropolis, Dionysiou Areopagitou, Athina 105 58, Greece",
+    "phone": "+302103214172"
+  },
+  {
+    "name": "Benaki Museum of Islamic Art",
+    "address": "Diogenous 1, Athina 105 56, Greece",
+    "phone": "+302103250198"
+  },
+  {
+    "name": "Ilias Lalaounis Jewelry Museum",
+    "address": "Aiolou, Athina 105 55, Greece",
+    "phone": "+302103219776"
+  },
+  {
+    "name": "Holy Church of Hagia Dynamis (Sacred Power)",
+    "address": "43, Rovertou Galli 39, Athina 117 41, Greece",
+    "phone": "433911741"
+  },
+  {
+    "name": "Limba",
+    "address": "Zeus' Triangle, Anafiotika 11, Athina 105 58, Greece",
+    "phone": null
+  },
+  {
+    "name": "Zappeion Hall",
+    "address": "Λεωφ. Καλλιρρόης και Αμβρ. Φραντζή (πρώην εργοστάσιο, Athina 117 43, Greece",
+    "phone": "+302111019000"
+  },
+  {
+    "name": "School Life and Education Museum",
+    "address": "Kodrou 9, Athina 105 58, Greece",
+    "phone": "+302103312621"
+  },
+  {
+    "name": "Korai 4 | Memorial Site 1941-1944",
+    "address": "Neofitou Douka 4, Athina 106 74, Greece",
+    "phone": "+302107228321"
+  },
+  {
+    "name": "Zoumboulakis Galleries",
+    "address": "Tholou 5, Athina 105 56, Greece",
+    "phone": "+302103689510"
+  },
+  {
+    "name": "Avdi square",
+    "address": "Ermou, Athina 105 53, Greece",
+    "phone": "+302103463552"
+  },
+  {
+    "name": "Epigraphic Museum",
+    "address": "Parthenonos 45, Athina 117 42, Greece",
+    "phone": null
+  },
+  {
+    "name": "Public Tobacco Factory",
+    "address": "Stadiou 13, Athina 105 61, Greece",
+    "phone": "+302103222266"
+  },
+  {
+    "name": "Stavros Niarchos Park",
+    "address": "Nikis 39, Athina 105 57, Greece",
+    "phone": "+302103225582"
+  },
+  {
+    "name": "Athens Walks",
+    "address": "El. Venizelou 12, Athina 106 71, Greece",
+    "phone": "+302103632057"
+  },
+  {
+    "name": "Fethiye Mosque Museum",
+    "address": "Νο68 Βαρβακειος Αγορα, Athina, Greece",
+    "phone": null
+  },
+  {
+    "name": "Flisvos Park",
+    "address": "Ermou 119 Entrance from, Astiggos 12, Athina 105 55, Greece",
+    "phone": "1191210555"
+  },
+  {
+    "name": "Holy Church of Saint Nicholas Rangavas",
+    "address": "Pireos 100, Athina 118 54, Greece",
+    "phone": "10011854"
+  },
+  {
+    "name": "Athens",
+    "address": "Apollonos 21, Athina 105 57, Greece",
+    "phone": null
+  },
+  {
+    "name": "Archaeological Site of the Lyceum of Aristotle",
+    "address": "Leof. Vasilisis Amalias 50, Athina 105 58, Greece",
+    "phone": null
+  },
+  {
+    "name": "Holy Church of the Virgin Mary Pantanassa",
+    "address": "Ioulianou 33, Athina 104 33, Greece",
+    "phone": "+302108816187"
+  },
+  {
+    "name": "Πλατεία Μεσολογγίου",
+    "address": "Eratosthenous 13, Athina 116 35, Greece",
+    "phone": "+302107252895"
+  },
+  {
+    "name": "Archaeological Site of Sounion",
+    "address": "Pindarou 6, Athina 106 71, Greece",
+    "phone": "+302114110044"
+  },
+  {
+    "name": "Historical Archive of Greek Scouting",
+    "address": "Κ, Areos 3, Τ, Athina 105 55, Greece",
+    "phone": "+302103249350"
+  },
+  {
+    "name": "Rebecca Camhi Gallery",
+    "address": "Mitseon 25, Athina 117 42, Greece",
+    "phone": "+302103224625"
+  },
+  {
+    "name": "Sacred Monastery of Kaisariani",
+    "address": "Theorias 21, Athina 105 55, Greece",
+    "phone": null
+  },
+  {
+    "name": "ATHINAIS Multipurpose Venue",
+    "address": "Φυλής 215, Athina 117 41, Greece",
+    "phone": "21511741"
+  },
+  {
+    "name": "Benaki Museum - The Ghika Gallery",
+    "address": "Leof. Vasilissis Sofias, Athina 105 57, Greece",
+    "phone": null
+  },
+  {
+    "name": "Diomidous Botanical Garden",
+    "address": "Leof. Alexandras 30, Athina 106 83, Greece",
+    "phone": null
+  },
+  {
+    "name": "The Benizelos Mansion (House of Saint Philothei)",
+    "address": "Leof. Vasilisis Amalias 133, Athina 105 57, Greece",
+    "phone": "13310557"
+  },
+  {
+    "name": "Herakleidon Museum (2nd building)",
+    "address": "Mitropoleos, Athina 105 56, Greece",
+    "phone": "+302103352380"
+  },
+  {
+    "name": "Little Kook",
+    "address": "Leof. Vasilissis Sofias 22, Athina 106 75, Greece",
+    "phone": "+302132139517"
+  },
+  {
+    "name": "ROMA GALLERY",
+    "address": "Leof. Vasileos Konstantinou, Athina 116 35, Greece",
+    "phone": "+302107522984"
+  },
+  {
+    "name": "Blue Bottle Boutique Hotel",
+    "address": "Kalapothaki 5, Thessaloniki 546 24, Greece",
+    "phone": "+302310223334"
+  },
+  {
+    "name": "Park Hotel",
+    "address": "Siggrou 22, Thessaloniki 546 30, Greece",
+    "phone": "+302310525540"
+  },
+  {
+    "name": "Electra Palace Thessaloniki",
+    "address": "Adigonidon 15, Thessaloniki 546 30, Greece",
+    "phone": "+302310523573"
+  },
+  {
+    "name": "Grand Hotel Palace",
+    "address": "Egnatia 19, Thessaloniki 546 30, Greece",
+    "phone": "+302310516666"
+  },
+  {
+    "name": "Antigon Urban Chic Hotel",
+    "address": "Adigonidon 15, Thessaloniki 546 30, Greece",
+    "phone": "+302310523573"
+  },
+  {
+    "name": "S Hotel Boutique Thessaloniki",
+    "address": "Aristotélous 9, Thessaloniki 546 24, Greece",
+    "phone": "+302310294040"
+  },
+  {
+    "name": "Imperial Palace | Classical Hotel Thessaloniki",
+    "address": "3, Salaminos str, Thessaloniki 546 26, Greece",
+    "phone": "+302311240400"
+  },
+  {
+    "name": "Aegeon Hotel",
+    "address": "Monastiriou 305, Thessaloniki 546 28, Greece",
+    "phone": "30554628"
+  },
+  {
+    "name": "Mediterranean Palace Hotel",
+    "address": "Monastiriou 8, Thessaloniki 546 29, Greece",
+    "phone": "+302310563100"
+  },
+  {
+    "name": "Holiday Inn Thessaloniki, an IHG Hotel",
+    "address": "Adigonidon 13, Thessaloniki 546 30, Greece",
+    "phone": "+302310508300"
+  },
+  {
+    "name": "Vanoro Hotel",
+    "address": "El. Venizelou 59, Thessaloniki 546 31, Greece",
+    "phone": "+302316015267"
+  },
+  {
+    "name": "Andromeda Hotel",
+    "address": "Geor. Andreou 32, Thessaloniki 546 27, Greece",
+    "phone": "+302310515445"
+  },
+  {
+    "name": "Capsis Hotel Thessaloniki",
+    "address": "Oλυμπιαδοσ 37, Thessaloniki 546 33, Greece",
+    "phone": "+306947300814"
+  },
+  {
+    "name": "Makedonia Palace Hotel",
+    "address": "Kristalli 4, Thessaloniki 546 30, Greece",
+    "phone": "+306983711634"
+  },
+  {
+    "name": "Daios Luxury Living Hotel",
+    "address": "Ermou 1, Thessaloniki 546 25, Greece",
+    "phone": "+306987777115"
+  },
+  {
+    "name": "Diamond Suites Thessaloniki",
+    "address": "N.K. Akritidi 9, Thessaloniki 546 35, Greece",
+    "phone": "+302316021643"
+  },
+  {
+    "name": "MonAsty, Thessaloniki, Autograph Collection",
+    "address": "Aristomenous 9, Thessaloniki 546 34, Greece",
+    "phone": "+306974505002"
+  },
+  {
+    "name": "Le Palace Hotel",
+    "address": "Sachtouri 28, Thessaloniki 546 32, Greece",
+    "phone": "+306944466897"
+  },
+  {
+    "name": "The Met Hotel",
+    "address": "Nik. Mantzarou 15, Thessaloniki 546 27, Greece",
+    "phone": "+302310240592"
+  },
+  {
+    "name": "City Hotel Thessaloniki",
+    "address": "Σβορώνου 1, Thessaloniki 546 30, Greece",
+    "phone": "+302310519770"
+  },
+  {
+    "name": "ON Residence",
+    "address": "Siggrou 12, Thessaloniki 546 23, Greece",
+    "phone": "+302310566440"
+  },
+  {
+    "name": "ABC Hotel",
+    "address": "Katouni 27 &, Edessis 10, Thessaloniki 546 25, Greece",
+    "phone": "271054625"
+  },
+  {
+    "name": "ABC Hotel",
+    "address": "Ηλία Μηνιάτη 5, Thessaloniki 546 29, Greece",
+    "phone": null
+  },
+  {
+    "name": "Noa Hotel",
+    "address": "Katouni 31, Thessaloniki 546 25, Greece",
+    "phone": "+302310555088"
+  },
+  {
+    "name": "Modern Luxury Hotel",
+    "address": "Paggeou 5, Thessaloniki 546 25, Greece",
+    "phone": "+302310520120"
+  },
+  {
+    "name": "ON Residence",
+    "address": "Ακrίtα 8, Thessaloniki 546 33, Greece",
+    "phone": "+306986218673"
+  },
+  {
+    "name": "City Hotel Thessaloniki",
+    "address": "Ag. Dimitriou 72, Thessaloniki 546 31, Greece",
+    "phone": "+302310234040"
+  },
+  {
+    "name": "COLORS Ladadika Central",
+    "address": "Str. Sfetsou 7, Thessaloniki 546 26, Greece",
+    "phone": "+302310222231"
+  },
+  {
+    "name": "Ladadika Luxury Studios & Jacuzzi Suite",
+    "address": "Ionos Dragoumi 28, Thessaloniki 546 25, Greece",
+    "phone": "+302310280995"
+  },
+  {
+    "name": "Park Hotel",
+    "address": "Tsimiski 97, Thessaloniki 546 22, Greece",
+    "phone": "+302310232305"
+  },
+  {
+    "name": "The Modernist Thessaloniki",
+    "address": "Ermou 33, Thessaloniki 546 24, Greece",
+    "phone": "+302310268321"
+  },
+  {
+    "name": "Teight Hotel",
+    "address": "Tsimiski 116, Thessaloniki 546 21, Greece",
+    "phone": "11654621"
+  },
+  {
+    "name": "Magnifique Luxury Suites",
+    "address": "25, Ag. Dimitriou St, Thessaloniki 546 32, Greece",
+    "phone": "+302310515002"
+  },
+  {
+    "name": "Plaza",
+    "address": "Gimnasiarchou Mpountona E 3, Thessaloniki 546 32, Greece",
+    "phone": "+302310520058"
+  },
+  {
+    "name": "Pillow urban stay",
+    "address": "Ionos Dragoumi 63, Thessaloniki 546 30, Greece",
+    "phone": "+302310524221"
+  },
+  {
+    "name": "COLORS Urban Hotel",
+    "address": "Episkopou Amvrosiou 5, Thessaloniki 546 30, Greece",
+    "phone": "+306946464555"
+  },
+  {
+    "name": "Zeus is Loose Hostel",
+    "address": "Ag. Dimitriou 16, Thessaloniki 546 30, Greece",
+    "phone": "+302310527825"
+  },
+  {
+    "name": "No 15 Ermou Hotel",
+    "address": "Karaoli ke Dimitriou Ton Kiprion 13, Thessaloniki 546 30, Greece",
+    "phone": "+302311297000"
+  },
+  {
+    "name": "Astoria Hotel Thessaloniki",
+    "address": "Episkopou Amvrosiou 16, Thessaloniki 546 30, Greece",
+    "phone": null
+  },
+  {
+    "name": "Domotel Olympia",
+    "address": "Εθνικής Αμύνης 9 με Τσιμισκή 131 Γωνία, Thessaloniki 546 21, Greece",
+    "phone": "913154621"
+  },
+  {
+    "name": "Imperial Plus | Urban Smart Hotel Thessaloniki",
+    "address": "Rempelou 1, Thessaloniki 546 31, Greece",
+    "phone": "+302313062780"
+  },
+  {
+    "name": "Luxembourg Hotel Thessaloniki",
+    "address": "2, Adigonidon str, Thessaloniki 546 30, Greece",
+    "phone": "+302310526321"
+  },
+  {
+    "name": "Segundo Molo",
+    "address": "Navmachias Ellis 6, Thessaloniki 546 25, Greece",
+    "phone": "+302310227770"
+  },
+  {
+    "name": "Egnatia Palace | Aegeon Hotels Group",
+    "address": "Kavakion 5, Thessaloniki 546 27, Greece",
+    "phone": "+306948482857"
+  },
+  {
+    "name": "Porto Palace Hotel Thessaloniki",
+    "address": "26is Oktovriou 20, Thessaloniki 546 27, Greece",
+    "phone": "262054627"
+  },
+  {
+    "name": "Urban Donkey Hotel",
+    "address": "Elenis Svoronou 4, Thessaloniki 546 30, Greece",
+    "phone": "+302310502208"
+  },
+  {
+    "name": "Olvios luxury suites",
+    "address": "Monastiriou 39, Thessaloniki 546 27, Greece",
+    "phone": "+302310517051"
+  },
+  {
+    "name": "White Luxury",
+    "address": "Giannitson 184, Menemeni 546 28, Greece",
+    "phone": "18454628"
+  },
+  {
+    "name": "RentRooms Thessaloniki",
+    "address": "Egnatia 24, Thessaloniki 546 25, Greece",
+    "phone": "+302310518618"
+  },
+  {
+    "name": "Metropolitan Hotel Thessaloniki",
+    "address": "Agnostou Stratiotou 14, Thessaloniki 546 31, Greece",
+    "phone": "+302310276517"
+  },
+  {
+    "name": "Egnatia Hotel",
+    "address": "Filippou 9, Thessaloniki 546 31, Greece",
+    "phone": "+302310520090"
+  },
+  {
+    "name": "Ladadika Design",
+    "address": "Ipirou 25, Thessaloniki 546 39, Greece",
+    "phone": "+306985838081"
+  },
+  {
+    "name": "Hotel Rotonda",
+    "address": "Siggrou 22, Thessaloniki 546 30, Greece",
+    "phone": "+302310525540"
+  },
+  {
+    "name": "Atlantis Hotel",
+    "address": "Ionos Dragoumi 61, Thessaloniki 546 30, Greece",
+    "phone": "+302311244600"
+  },
+  {
+    "name": "The Mavili Urban Stay",
+    "address": "Κωστή Παλαμά 7 K.Palama 7- pc, Thessaloniki 546 30, Greece",
+    "phone": "+306974729185"
+  },
+  {
+    "name": "Lazart Hotel",
+    "address": "Oplopiou 2, Thessaloniki 546 25, Greece",
+    "phone": "+302310506500"
+  },
+  {
+    "name": "El Greco Hotel Thessaloniki",
+    "address": "Leof. Vasilissis Olgas 44, Thessaloniki 546 41, Greece",
+    "phone": "+302310824621"
+  },
+  {
+    "name": "Hotel Kastoria",
+    "address": "Monastiriou 19, Thessaloniki 546 27, Greece",
+    "phone": "+302310516021"
+  },
+  {
+    "name": "Grand Port Suites",
+    "address": "Leontos Sofou 17, Thessaloniki 546 26, Greece",
+    "phone": "+302310536280"
+  },
+  {
+    "name": "Vergina Hotel Thessaloniki",
+    "address": "Promitheos 41, Thessaloniki 546 29, Greece",
+    "phone": "+302310501650"
+  },
+  {
+    "name": "Bristol Hotel",
+    "address": "23, Egnatia Str, Thessaloniki 546 30, Greece",
+    "phone": "+302310520620"
+  },
+  {
+    "name": "G&M LUXURY STUDIOS",
+    "address": "Kolokotroni 16, Stavroupoli 564 30, Greece",
+    "phone": "+302316015000"
+  },
+  {
+    "name": "STAY Hybrid Youth Hostel",
+    "address": "Kosti Palama 1, Thessaloniki 546 30, Greece",
+    "phone": "+302310530063"
+  },
+  {
+    "name": "Nea Metropolis Hotel",
+    "address": "Egnatia 14, Thessaloniki 546 26, Greece",
+    "phone": "+302310540131"
+  },
+  {
+    "name": "Queen Olga",
+    "address": "7 Doxis Street, Thessaloniki 546 25, Greece",
+    "phone": "+302310592100"
+  },
+  {
+    "name": "ICON Urban Living",
+    "address": "Monastiriou 97, Thessaloniki 546 27, Greece",
+    "phone": "+302310517121"
+  },
+  {
+    "name": "The Maroon Bottle Suites",
+    "address": "Kon/nou Melenikou 9, Thessaloniki 546 35, Greece",
+    "phone": "+302310204080"
+  },
+  {
+    "name": "Orestias Kastorias",
+    "address": "Adigonidon 16, Thessaloniki 546 30, Greece",
+    "phone": "+302310530675"
+  },
+  {
+    "name": "Hotel Ilissia",
+    "address": "Leof. Vasilissis Olgas 65, Thessaloniki 546 42, Greece",
+    "phone": "+302310824221"
+  },
+  {
+    "name": "White Trilogy",
+    "address": "Αναγεννήσεως 1 και Παλαιού, Stathmou 4, Thessaloniki 546 27, Greece",
+    "phone": "+302310515101"
+  },
+  {
+    "name": "Augustos",
+    "address": "El. Venizelou 4, Thessaloniki 546 24, Greece",
+    "phone": "+302310227770"
+  },
+  {
+    "name": "Hotel Rex",
+    "address": "26is Oktovriou 65, Thessaloniki 546 28, Greece",
+    "phone": "266554628"
+  },
+  {
+    "name": "Anessis Hotel Thessaloniki",
+    "address": "Egnatia 61, Thessaloniki 546 31, Greece",
+    "phone": "+302310222900"
+  },
+  {
+    "name": "Urban Elephant Suites",
+    "address": "Arkadioupoleos 11, Thessaloniki 546 32, Greece",
+    "phone": "+306908243334"
+  },
+  {
+    "name": "Olvios Lofts",
+    "address": "Komninon 6, Thessaloniki 546 24, Greece",
+    "phone": "+302310252600"
+  },
+  {
+    "name": "Septa Studios by Skg Apartments",
+    "address": "Egnatia 8, Thessaloniki 546 26, Greece",
+    "phone": "+302310508300"
+  },
+  {
+    "name": "The Caravan B&B Thessaloniki",
+    "address": "Olympou 65, Thessaloniki 546 31, Greece",
+    "phone": "+302310366466"
+  },
+  {
+    "name": "Mandrino Hotel",
+    "address": "Ermou 15, Thessaloniki 546 24, Greece",
+    "phone": "+302310220015"
+  },
+  {
+    "name": "Polis Apartments",
+    "address": "Mitropoleos 19, Thessaloniki 546 24, Greece",
+    "phone": "+306981040054"
+  },
+  {
+    "name": "Telioni Hotel",
+    "address": "Salaminos 9, Thessaloniki 546 26, Greece",
+    "phone": "+302310505500"
+  },
+  {
+    "name": "Pella Hotel",
+    "address": "Romanou 9, Thessaloniki 546 21, Greece",
+    "phone": "+302310231123"
+  },
+  {
+    "name": "City Plaza Apartments & Rooms",
+    "address": "Tsimiski 13, Thessaloniki 546 24, Greece",
+    "phone": "+302310272829"
+  },
+  {
+    "name": "Blue Bottle Boutique Hotel",
+    "address": "Klisouras 13, Thessaloniki 546 31, Greece",
+    "phone": "+302311118713"
+  },
+  {
+    "name": "The Tobacco Hotel",
+    "address": "Kalapothaki 20, Thessaloniki 546 24, Greece",
+    "phone": "+302310250028"
+  },
+  {
+    "name": "ANGEL DELUXE APARTMENTS & SUITES",
+    "address": "Mitropolitou Iosif 8, Thessaloniki 546 22, Greece",
+    "phone": "+302312315900"
+  },
+  {
+    "name": "Superior One Luxury Apartments",
+    "address": "Ιωνος Δραγούμη Κυπρίων, Agoniston 81, Thessaloniki 546 30, Greece",
+    "phone": "+302310524121"
+  },
+  {
+    "name": "Hotel Amalia S.A.",
+    "address": "5 Pageou Str, Paggeou 5, Thessaloniki 546 25, Greece",
+    "phone": "+302310520120"
+  },
+  {
+    "name": "Alexandros Hotels S.A.",
+    "address": "Diamanti Olimpiou 7, Thessaloniki 546 26, Greece",
+    "phone": "+306979032189"
+  },
+  {
+    "name": "Seven Pocket House",
+    "address": "Ermou 32, Thessaloniki 546 23, Greece",
+    "phone": "+302316009990"
+  },
+  {
+    "name": "DeniZen Boutique Apartments, Nilie Hospitality MGMT",
+    "address": "Οπλοποιού 1 / 1, Oplopiou Street, Thessaloniki 546 25, Greece",
+    "phone": "+302316007676"
+  },
+  {
+    "name": "The Trilogy House",
+    "address": "Komninon 11, Thessaloniki 546 24, Greece",
+    "phone": "+302310269421"
+  },
+  {
+    "name": "The Mood Luxury Rooms",
+    "address": "Leof. Nikis 5, Thessaloniki 546 24, Greece",
+    "phone": "+302314404000"
+  },
+  {
+    "name": "72 AD Suites",
+    "address": "Egnatia 41, Thessaloniki 546 30, Greece",
+    "phone": "+302310524023"
+  },
+  {
+    "name": "EPaN Luxury Apartments",
+    "address": "Αγγελάκη 41, Thessaloniki 546 21, Greece",
+    "phone": "+302310265421"
+  },
+  {
+    "name": "Superior One Boutique Hotel",
+    "address": "Αγγελάκη 41, Thessaloniki 546 21, Greece",
+    "phone": "+302310265421"
+  },
+  {
+    "name": "Hotel Minerva Premier",
+    "address": "Leof. Nikis 5, Thessaloniki 546 24, Greece",
+    "phone": "+302314404000"
+  },
+  {
+    "name": "Bahar Boutique Hotel",
+    "address": "Komninon 11, Thessaloniki 546 24, Greece",
+    "phone": "+302310269421"
+  },
+  {
+    "name": "Argo Hotel",
+    "address": "Tsimiski 12, Thessaloniki 546 24, Greece",
+    "phone": "+302310257400"
+  },
+  {
+    "name": "Manina superior apartment",
+    "address": "Navarchou Kountouriotou 7, Thessaloniki 546 25, Greece",
+    "phone": "+302314436810"
+  },
+  {
+    "name": "Hermes Suites, Nilie Hospitality MGMT",
+    "address": "26is Oktovriou 48, Thessaloniki 546 27, Greece",
+    "phone": "264854627"
+  },
+  {
+    "name": "Kono suites",
+    "address": "45, Vasileos Irakleiou Street, Thessaloniki 546 23, Greece",
+    "phone": "+302310274545"
+  },
+  {
+    "name": "Casa Primavera",
+    "address": "Doxis 8, Thessaloniki 546 25, Greece",
+    "phone": "+302310385846"
+  },
+  {
+    "name": "Opsopoion Maganeiai",
+    "address": "Leof. Nikis 3, Thessaloniki 546 24, Greece",
+    "phone": "+302310243209"
+  },
+  {
+    "name": "Mamalouka",
+    "address": "Karipi 28, Thessaloniki 546 24, Greece",
+    "phone": "+306970355669"
+  },
+  {
+    "name": "The Rouga",
+    "address": "Kalapothaki 14, Thessaloniki 546 24, Greece",
+    "phone": "+302310271074"
+  },
+  {
+    "name": "Grada nuevo",
+    "address": "Leof. Nikis 55, Thessaloniki 546 22, Greece",
+    "phone": "+302310257781"
+  },
+  {
+    "name": "Kanoula",
+    "address": "Margariti Lori 13, Thessaloniki 546 22, Greece",
+    "phone": "+302310257696"
+  },
+  {
+    "name": "MAREA sea spirit",
+    "address": "Komotinis 6, Thessaloniki 546 55, Greece",
+    "phone": "+302310889699"
+  },
+  {
+    "name": "The Greek",
+    "address": "Ionos Dragoumi 3, Thessaloniki 546 25, Greece",
+    "phone": "+302310555223"
+  },
+  {
+    "name": "PLORI mediterraneo",
+    "address": "Taskou Papageorgiou 4, Thessaloniki 546 31, Greece",
+    "phone": "+302310222185"
+  },
+  {
+    "name": "Pepper & Backroom",
+    "address": "Str. Kallari 9, Thessaloniki 546 22, Greece",
+    "phone": "+302310250210"
+  },
+  {
+    "name": "Ouzerie Lola",
+    "address": "Themistokli Sofouli 15, Thessaloniki 546 55, Greece",
+    "phone": "+302310421699"
+  },
+  {
+    "name": "Frutti Di Mare",
+    "address": "Dim. Gounari 7, Thessaloniki 546 22, Greece",
+    "phone": "+302310228520"
+  },
+  {
+    "name": "Το Πρυτανείο",
+    "address": "Str. Kallari 4, Thessaloniki 546 22, Greece",
+    "phone": "+302310251010"
+  },
+  {
+    "name": "B. restaurant",
+    "address": "Olympou 127, Thessaloniki 546 35, Greece",
+    "phone": "12754635"
+  },
+  {
+    "name": "Π.22",
+    "address": "Salaminos 10, Thessaloniki 546 25, Greece",
+    "phone": "+306979722150"
+  },
+  {
+    "name": "Mourga",
+    "address": "El. Venizelou 55, Thessaloniki 546 31, Greece",
+    "phone": "+302310228895"
+  },
+  {
+    "name": "Omikron",
+    "address": "2ος όροφος (Sofouli Center, Themistokli Sofouli 57, Kalamaria 551 31, Greece",
+    "phone": "25755131"
+  },
+  {
+    "name": "Σταφύλι",
+    "address": "στον πεζόδρομο της, Βαλαωρίτου, Kapodistriou 38, Thessaloniki 546 25, Greece",
+    "phone": "+302310515881"
+  },
+  {
+    "name": "MIA FETA feta bar",
+    "address": "Pl. Morichovou 6, Thessaloniki 546 25, Greece",
+    "phone": "+302310550888"
+  },
+  {
+    "name": "Τα Τρία Γουρουνάκια, Three Little Pigs",
+    "address": "Kristalli 3, Thessaloniki 546 30, Greece",
+    "phone": "+306998144435"
+  },
+  {
+    "name": "Full tou Meze",
+    "address": "Καπετάν Πατρίκη 18, Thessaloniki 546 22, Greece",
+    "phone": "+302310228502"
+  },
+  {
+    "name": "Full tou Meze",
+    "address": "Geor. Theotoka 1, Thessaloniki 546 21, Greece",
+    "phone": "+302310221114"
+  },
+  {
+    "name": "Kitchen Bar",
+    "address": "Klisouras 8, Thessaloniki 546 31, Greece",
+    "phone": null
+  },
+  {
+    "name": "Kazaviti Thessaloniki",
+    "address": "Kidoniatou 12, Thessaloniki 546 24, Greece",
+    "phone": "+302310225925"
+  },
+  {
+    "name": "Loupino Restaurant",
+    "address": "Agapinou 10, Thessaloniki 546 21, Greece",
+    "phone": "+302310276201"
+  },
+  {
+    "name": "Bombídia",
+    "address": "Ernestou Emprar 5, Thessaloniki 546 25, Greece",
+    "phone": "+302310530020"
+  },
+  {
+    "name": "Tripia Potiria",
+    "address": "Pittakou 4, Thessaloniki 546 45, Greece",
+    "phone": "+302310844443"
+  },
+  {
+    "name": "Ballaro",
+    "address": "Vlali 23, Thessaloniki 546 24, Greece",
+    "phone": "+302310266665"
+  },
+  {
+    "name": "Mangiare Gastro Pizza Pasta Bar",
+    "address": "Katouni 12-14, Thessaloniki 546 25, Greece",
+    "phone": "121454625"
+  },
+  {
+    "name": "Giannoula",
+    "address": "Tsimiski 2, Thessaloniki 546 25, Greece",
+    "phone": null
+  },
+  {
+    "name": "BLACKHAUS",
+    "address": "Δραγουμη και, Dimitsa 18, Thessaloniki 546 23, Greece",
+    "phone": "+302310267063"
+  },
+  {
+    "name": "7 Thalasses",
+    "address": "Mpalanou 4, Thessaloniki 546 23, Greece",
+    "phone": "+302310268063"
+  },
+  {
+    "name": "Athivoli",
+    "address": "Vasileos Irakleiou 35, Thessaloniki 546 24, Greece",
+    "phone": "+302310279006"
+  },
+  {
+    "name": "Balconaki",
+    "address": "Apellou 6, Thessaloniki 546 22, Greece",
+    "phone": "+302310221755"
+  },
+  {
+    "name": "Falafel House",
+    "address": "Grigoriou Lampraki 85, Thessaloniki 543 51, Greece",
+    "phone": "+302310952582"
+  },
+  {
+    "name": "Garçon Brasserie",
+    "address": "Ag. Mina 8, Thessaloniki 546 25, Greece",
+    "phone": "+302313045543"
+  },
+  {
+    "name": "Igglis",
+    "address": "Armenopoulou 27, Thessaloniki 546 35, Greece",
+    "phone": "+302310206830"
+  },
+  {
+    "name": "Diavasi",
+    "address": "Vilara 2, Thessaloniki 546 25, Greece",
+    "phone": "+302314019687"
+  },
+  {
+    "name": "Massalia",
+    "address": "Ολύμπου 131 & Μ. Κυριακού, Thessaloniki 546 35, Greece",
+    "phone": "13154635"
+  },
+  {
+    "name": "Evora Eatery",
+    "address": "Episkopou Amvrosiou 8, Thessaloniki 546 30, Greece",
+    "phone": "+302310529791"
+  },
+  {
+    "name": "TGI Fridays Αριστοτέλους",
+    "address": "Leof. Meg. Alexandrou 12, Thessaloniki 546 40, Greece",
+    "phone": "+302310869950"
+  },
+  {
+    "name": "Falafel Taste Middle East",
+    "address": "Stergiou Polidorou 1, Thessaloniki 546 34, Greece",
+    "phone": "+302310245351"
+  },
+  {
+    "name": "Zithos",
+    "address": "Square Aristotle 9, Thessaloniki 546 24, Greece",
+    "phone": "+302310294036"
+  },
+  {
+    "name": "Το Μικράκι",
+    "address": "Leof. Nikis 49, Thessaloniki 546 22, Greece",
+    "phone": "+302310252272"
+  },
+  {
+    "name": "Tarti",
+    "address": "Alexandras Papadopoulou 70, Thessaloniki 546 33, Greece",
+    "phone": "+302313067400"
+  },
+  {
+    "name": "DORÉ ZYTHOS",
+    "address": "λεωφοροσ θεσσαλονικη 546 24, Leof. Nikis 9Α, Thessaloniki 546 24, Greece",
+    "phone": "54624954624"
+  },
+  {
+    "name": "HAYAT little ISTANBUL",
+    "address": "Β.Όλγας 178, & Γ. Βαφοπούλου 30, Thessaloniki 546 46, Greece",
+    "phone": "1783054646"
+  },
+  {
+    "name": "Daisi Restaurant",
+    "address": "Φράγκων 3 &, Str. Sfetsou, Thessaloniki 546 26, Greece",
+    "phone": "+302314007586"
+  },
+  {
+    "name": "The House Of Grandma",
+    "address": "Pl. Navarinou 10, Thessaloniki 546 22, Greece",
+    "phone": "+302310266432"
+  },
+  {
+    "name": "The Heavy Melon - To vari peponi",
+    "address": "Katouni 3, Thessaloniki 526 22, Greece",
+    "phone": "+302310510284"
+  },
+  {
+    "name": "Anopolis",
+    "address": "Apellou 3, Thessaloniki 546 22, Greece",
+    "phone": "+302310256778"
+  },
+  {
+    "name": "Stou Mitsou",
+    "address": "Κομνηνών 10, Mitropoleos 23, Thessaloniki 546 24, Greece",
+    "phone": "102354624"
+  },
+  {
+    "name": "Sebriko",
+    "address": "Andokidou 1, Thessaloniki 546 34, Greece",
+    "phone": "+302313069889"
+  },
+  {
+    "name": "Ntangara",
+    "address": "Fasianou 1-2, Thessaloniki 546 25, Greece",
+    "phone": "+302310512600"
+  },
+  {
+    "name": "Sofi's House Restaurant",
+    "address": "P. Mela 42, Thessaloniki 546 22, Greece",
+    "phone": "+302310288008"
+  },
+  {
+    "name": "Thermaikos Garden",
+    "address": "Ermou 17, Thessaloniki 546 24, Greece",
+    "phone": "+302310555952"
+  },
+  {
+    "name": "Marathos",
+    "address": "Ag. Mina 1, Thessaloniki 546 25, Greece",
+    "phone": "+302310512079"
+  },
+  {
+    "name": "Sibēría",
+    "address": "Ioustinianou 12, Thessaloniki 546 31, Greece",
+    "phone": "+302313006216"
+  },
+  {
+    "name": "Mpakaliarakia sto limani",
+    "address": "Mitropoleos 6, Thessaloniki 546 25, Greece",
+    "phone": "+302310500058"
+  },
+  {
+    "name": "Η στάση (συνεργατικόν καφενείον)",
+    "address": "Nikiforou Foka 2, Thessaloniki 546 21, Greece",
+    "phone": "+302310224073"
+  },
+  {
+    "name": "Molyvos",
+    "address": "Vlali 11, Thessaloniki 546 24, Greece",
+    "phone": "+302315515504"
+  },
+  {
+    "name": "Takadum",
+    "address": "Fragkon 2, Thessaloniki 546 26, Greece",
+    "phone": "+302310557513"
+  },
+  {
+    "name": "ERGON Agora",
+    "address": "Akropoleos 128, Thessaloniki 546 34, Greece",
+    "phone": "12854634"
+  },
+  {
+    "name": "Ladokolla Astrofeggia",
+    "address": "Adigonidon 4, Thessaloniki 546 30, Greece",
+    "phone": "+302310554265"
+  },
+  {
+    "name": "Clochard",
+    "address": "Armenopoulou 26, Thessaloniki 546 35, Greece",
+    "phone": "+302310204452"
+  },
+  {
+    "name": "Maitr & Margarita",
+    "address": "Apellou 4, Thessaloniki 546 22, Greece",
+    "phone": "+302310243332"
+  },
+  {
+    "name": "Τηγανιές και Σχάρες",
+    "address": "Emiliou Riadi 7, Thessaloniki 546 40, Greece",
+    "phone": "+306944666727"
+  },
+  {
+    "name": "New Galerius",
+    "address": "Olympou 75, Thessaloniki 546 31, Greece",
+    "phone": "+302310271593"
+  },
+  {
+    "name": "Rediviva Cucina Povera",
+    "address": "Str. Tsirogianni 9, Thessaloniki 546 21, Greece",
+    "phone": "+302310279010"
+  },
+  {
+    "name": "Kronos",
+    "address": "Proxenou Koromila 2, Thessaloniki 546 23, Greece",
+    "phone": "+302310270517"
+  },
+  {
+    "name": "High School Pizza Bar",
+    "address": "Katouni 5, Thessaloniki 546 25, Greece",
+    "phone": "+302310540284"
+  },
+  {
+    "name": "Orizontes Roof Garden",
+    "address": "Paleon Patron Germanou 23, Thessaloniki 546 22, Greece",
+    "phone": "+302310230807"
+  },
+  {
+    "name": "Omilos The Beach Club | Bar & Restaurant",
+    "address": "Ioannou Delliou 9, Thessaloniki 546 21, Greece",
+    "phone": "+306998433334"
+  },
+  {
+    "name": "Phagaki",
+    "address": "Mitropoleos 106 &, Romanou, Thessaloniki 546 21, Greece",
+    "phone": "10654621"
+  },
+  {
+    "name": "Wall by Wall",
+    "address": "Square Aristotle 3, Thessaloniki 546 24, Greece",
+    "phone": "+302310242914"
+  },
+  {
+    "name": "Basilico",
+    "address": "Diogenous 13, Thessaloniki 544 53, Greece",
+    "phone": "+302310930800"
+  },
+  {
+    "name": "Extravaganza",
+    "address": "Manousagiannaki 6, Thessaloniki 546 21, Greece",
+    "phone": "+302314003714"
+  },
+  {
+    "name": "Pízza Poselli",
+    "address": "P. Mela 13, Thessaloniki 546 22, Greece",
+    "phone": "+302310220596"
+  },
+  {
+    "name": "NOSTOS Taverneio Tavern",
+    "address": "Proxenou Koromila 15, Thessaloniki 546 23, Greece",
+    "phone": "+302310260653"
+  },
+  {
+    "name": "Rosticceria di Salonicco",
+    "address": "Agias Sofias 2, Thessaloniki 546 22, Greece",
+    "phone": "+302310253033"
+  },
+  {
+    "name": "Argophageío",
+    "address": "Irodotou 32, Thessaloniki 546 34, Greece",
+    "phone": "+306938191439"
+  },
+  {
+    "name": "Bazagiazi",
+    "address": "Al. Svolou 54, Thessaloniki 546 21, Greece",
+    "phone": "+302310238091"
+  },
+  {
+    "name": "Phanós",
+    "address": "Katouni 15, Thessaloniki 546 25, Greece",
+    "phone": "+302310508509"
+  },
+  {
+    "name": "villaggio",
+    "address": "Leof. Nikis 57, Thessaloniki 546 22, Greece",
+    "phone": "+302310263730"
+  },
+  {
+    "name": "rOOTS Vegetarian & Vegan Place",
+    "address": "Kalapothaki 10, Thessaloniki 546 24, Greece",
+    "phone": "+302310233173"
+  },
+  {
+    "name": "Mpoukia Mpoukia Gyradiko Chophouse restaurant",
+    "address": "Grigoriou Lampraki 83, Thessaloniki 543 51, Greece",
+    "phone": "+302310922500"
+  },
+  {
+    "name": "Το Δίχτυ",
+    "address": "Kassandrou 50, Thessaloniki 546 33, Greece",
+    "phone": "+302310263928"
+  },
+  {
+    "name": "Sōstēs",
+    "address": "Mitropoleos 20, Thessaloniki 546 24, Greece",
+    "phone": "+302310223739"
+  },
+  {
+    "name": "CAFE - BISTRO DOMENICO P.C. ESTIASIS & PSYCHAGOGIAS",
+    "address": "P. Mela 37, Thessaloniki 546 22, Greece",
+    "phone": "+302310269610"
+  },
+  {
+    "name": "Tarantino Sandwiches & Fries",
+    "address": "Προσφυγικής Αγοράς 18, Μπιτ Παζάρ Είσοδος από, Olympou 68, Thessaloniki 546 31, Greece",
+    "phone": "186854631"
+  },
+  {
+    "name": "Kurdish Food",
+    "address": "Vasileos Irakleiou 35, 37, Thessaloniki 546 24, Greece",
+    "phone": "353754624"
+  },
+  {
+    "name": "Modigliani Traditional Coffeehouse & Meze",
+    "address": "Katouni 4, Thessaloniki 546 25, Greece",
+    "phone": "+302310535707"
+  },
+  {
+    "name": "Makaronino Pasteria",
+    "address": "Katouni 3, Thessaloniki 546 25, Greece",
+    "phone": "+302310524700"
+  },
+  {
+    "name": "Tessera Restaurant",
+    "address": "Kapodistriou 7, Thessaloniki 546 25, Greece",
+    "phone": "+302310249050"
+  },
+  {
+    "name": "Nargis",
+    "address": "Katouni 9, Thessaloniki 546 25, Greece",
+    "phone": "+302310553141"
+  },
+  {
+    "name": "Χουάνγκ - Huang's Restaurant",
+    "address": "Αποθήκη Β2 Α' Προβλήτα Λιμένα, Thessaloniki 541 10, Greece",
+    "phone": "+302310502241"
+  },
+  {
+    "name": "Middle East restaurant (halal)",
+    "address": "Katouni 3, Thessaloniki 546 25, Greece",
+    "phone": "+302310524700"
+  },
+  {
+    "name": "Ef Pan - Ευ Παν",
+    "address": "P. Mela 14, Thessaloniki 546 22, Greece",
+    "phone": "+302310221120"
+  },
+  {
+    "name": "Mpakal by Elia Lemoni",
+    "address": "Ορβήλου 1 και, Vaiou, Thessaloniki 546 25, Greece",
+    "phone": "+302310226076"
+  },
+  {
+    "name": "Tarantoúla",
+    "address": "Christopoulou 12, Thessaloniki 546 35, Greece",
+    "phone": "+302310268826"
+  },
+  {
+    "name": "Deka Trapezia",
+    "address": "Paleon Patron Germanou 22, Thessaloniki 546 22, Greece",
+    "phone": "+302310244520"
+  },
+  {
+    "name": "Airotel Patras Smart",
+    "address": "58 Iroon Polytechniou Ave. &, Kiprou St, Patra 264 41, Greece",
+    "phone": "+302614409400"
+  },
+  {
+    "name": "Marie Palace",
+    "address": "Paleon Patron Germanou 10, Patra 262 25, Greece",
+    "phone": "+302610220012"
+  },
+  {
+    "name": "Airotel Achaia Beach",
+    "address": "Dim. Gounari 6, Patra 262 22, Greece",
+    "phone": "+302610331302"
+  },
+  {
+    "name": "The Bold Type Hotel",
+    "address": "Pantanassis 46, Patra 262 21, Greece",
+    "phone": "+306977715173"
+  },
+  {
+    "name": "Airotel Patras Smart",
+    "address": "Othonos kai Amalias 15, Patra 262 23, Greece",
+    "phone": "+302610623131"
+  },
+  {
+    "name": "Mediterranee",
+    "address": "Agiou Nikolaou 18, Patra 262 21, Greece",
+    "phone": "+302610279602"
+  },
+  {
+    "name": "Moxy Patra Marina",
+    "address": "Riga Fereou 106, Patra 262 21, Greece",
+    "phone": "10626221"
+  },
+  {
+    "name": "Patras Casale",
+    "address": "Akti Dimeon 9, Patra 262 22, Greece",
+    "phone": "+302611100900"
+  },
+  {
+    "name": "MY WAY HOTEL & EVENTS",
+    "address": "Milou 44, Patra 264 42, Greece",
+    "phone": "+302610991801"
+  },
+  {
+    "name": "Hotel Byzantino",
+    "address": "Akti Dimeon 9, Patra 262 22, Greece",
+    "phone": "+302611100900"
+  },
+  {
+    "name": "Palaiologos Luxury City Hotel",
+    "address": "Petmeza 13, Tsoukaleika 250 02, Greece",
+    "phone": "+306932301643"
+  },
+  {
+    "name": "Marie Palace",
+    "address": "Olimpias 74, Olympia 271 00, Greece",
+    "phone": "+302621025150"
+  },
+  {
+    "name": "TZAKI hotel and restaurant,Patras",
+    "address": "Βορείου Ηπείρου, Kato Kastritsi 265 04, Greece",
+    "phone": null
+  },
+  {
+    "name": "ATLANTA HOTEL - ΞΕΝΟΔΟΧΕΙΟ - ΠΑΤΡΑ",
+    "address": "Ipsilantou 6, Paralia 265 00, Greece",
+    "phone": "+302351064444"
+  },
+  {
+    "name": "DAYS City Suites",
+    "address": "28is Oktovriou, Rogitika 250 02, Greece",
+    "phone": "+306944314704"
+  },
+  {
+    "name": "CITY LOFT - ΞΕΝΟΔΟΧΕΙΟ - ΠΑΤΡΑ",
+    "address": "Paleros Paraliakos dromos, Palerou, Mitikas 263 31, Greece",
+    "phone": "+306986857358"
+  },
+  {
+    "name": "Pietra Mare Suites",
+    "address": "Kastelorizou 3, Akteo 265 04, Greece",
+    "phone": "+306970214853"
+  },
+  {
+    "name": "Adonis City Hotel",
+    "address": "Kimiseos Theotokou 1, Patra 265 04, Greece",
+    "phone": "+306944430290"
+  },
+  {
+    "name": "Olympic Star",
+    "address": "TOFALOU ST. 2, Patra 262 25, Greece",
+    "phone": "+302610452152"
+  },
+  {
+    "name": "Maison Grecque",
+    "address": "37, Agrafon str, Patra 263 31, Greece",
+    "phone": "+306936888454"
+  },
+  {
+    "name": "GREECE APARTMENTS NOW",
+    "address": "Karyas 21, Neo Souli 265 00, Greece",
+    "phone": "+48508635636"
+  },
+  {
+    "name": "Delfini Hotel",
+    "address": "Agiou Andreou 32, Patra 262 21, Greece",
+    "phone": "+302610279809"
+  },
+  {
+    "name": "Kallirroe Hotel",
+    "address": "Π. Νιρβάνα 25, Patra 264 43, Greece",
+    "phone": "+306936812354"
+  },
+  {
+    "name": "Adonis City Hotel",
+    "address": "Pantanassis 13, Kranídion 262 21, Greece",
+    "phone": "+306989860852"
+  },
+  {
+    "name": "Castello City Hotel",
+    "address": "Riga Fereou 98, Patra 262 21, Greece",
+    "phone": "+306942716721"
+  },
+  {
+    "name": "MANDŌ PATRASSO - Classical BnB apartment in the center of Patras",
+    "address": "Agiou Nikolaou 9, Patra 262 21, Greece",
+    "phone": "+302610275981"
+  },
+  {
+    "name": "GREECE APARTMENTS NOW",
+    "address": "Porto Rio Hotel, Patra 265 00, Greece",
+    "phone": "+302610992102"
+  },
+  {
+    "name": "ALEXIAS APARTMENTS",
+    "address": "Agiou Andreou 145, Patra 262 21, Greece",
+    "phone": "14526221"
+  },
+  {
+    "name": "Ilias Rooms",
+    "address": "Agiou Andreou 16, Patra 262 21, Greece",
+    "phone": "+302610277502"
+  },
+  {
+    "name": "Best House Nirvana Patra",
+    "address": "Somerset, Rio 265 00, Greece",
+    "phone": "+302610990426"
+  },
+  {
+    "name": "Ermionida",
+    "address": "Vasiladiou 7, Patra 263 32, Greece",
+    "phone": "+306978052761"
+  },
+  {
+    "name": "Hotel Apollon",
+    "address": "Ειρηνης 8 (τερμα, Akteo 265 04, Greece",
+    "phone": "+306977130357"
+  },
+  {
+    "name": "Galaxy City Center Hotel",
+    "address": "Al. Ipsilantou 45, Patra 262 25, Greece",
+    "phone": "+306983399321"
+  },
+  {
+    "name": "PORTO RIO HOTEL",
+    "address": "Agiou Andreou 118, Patra 262 21, Greece",
+    "phone": "11826221"
+  },
+  {
+    "name": "Astir Hotel Patra",
+    "address": "Par. Patron-Klaous 1, Patra 265 00, Greece",
+    "phone": "+306987566232"
+  },
+  {
+    "name": "El Greco Hotel Patra",
+    "address": "Athinon 67, Rio 265 04, Greece",
+    "phone": "+302610993372"
+  },
+  {
+    "name": "Happy Place",
+    "address": "Par. Patron-Klaous 1, Patra 265 00, Greece",
+    "phone": "+306987566232"
+  },
+  {
+    "name": "Hotel Acropole",
+    "address": "Ir. Politechniou 102, Patra 264 42, Greece",
+    "phone": "10226442"
+  },
+  {
+    "name": "Villa LUCIA",
+    "address": "25is Martiou 116, Patra 262 25, Greece",
+    "phone": "2511626225"
+  },
+  {
+    "name": "Patras -Thomais apartment",
+    "address": "Agiou Nikolaou 46, Patra 262 21, Greece",
+    "phone": "+302610224103"
+  },
+  {
+    "name": "Thalassa hotel",
+    "address": "Kapsali 9, Patra 262 23, Greece",
+    "phone": "+302610224213"
+  },
+  {
+    "name": "SeaSide Apartment RIO",
+    "address": "Kapsali 9, Patra 262 23, Greece",
+    "phone": "+302610224213"
+  },
+  {
+    "name": "ΕΝΟΙΚΙΑΖΟΜΕΝΑ ΔΩΜΑΤΙΑ-ROOMS FOR RENT",
+    "address": "Korinthou 226, Patra 262 21, Greece",
+    "phone": "22626221"
+  },
+  {
+    "name": "DH-Epavlis",
+    "address": "Valtetsiou 6, Patra 262 23, Greece",
+    "phone": "+302610223552"
+  },
+  {
+    "name": "San Antonio Hotel",
+    "address": "Zaimi 10, Patra 262 21, Greece",
+    "phone": "+302610278627"
+  },
+  {
+    "name": "Vila Ladas for Rent-Villa Ladas",
+    "address": "Dim. Gounari 6, Patra 262 22, Greece",
+    "phone": "+302610331302"
+  },
+  {
+    "name": "Villa Markos",
+    "address": "Akrita Digeni 13, Patra 264 42, Greece",
+    "phone": "+302610453960"
+  },
+  {
+    "name": "Hotel Let Rina",
+    "address": "Agiou Andreou 140, Patra 262 22, Greece",
+    "phone": "14026222"
+  },
+  {
+    "name": "Villa Anastasia",
+    "address": "Gerokostopoulou 20, Patra 262 21, Greece",
+    "phone": "+302610222625"
+  },
+  {
+    "name": "Salumeria",
+    "address": "Maizonos 25, Patra 262 23, Greece",
+    "phone": "+302610240500"
+  },
+  {
+    "name": "Argo",
+    "address": "Karaiskaki 68-70, Patra 262 21, Greece",
+    "phone": "687026221"
+  },
+  {
+    "name": "Talks",
+    "address": "Patreos 83, Patra 262 25, Greece",
+    "phone": "+302610623717"
+  },
+  {
+    "name": "Mýthos",
+    "address": "Κανάρη και Ρήγα Φεραίου, Patra 262 21, Greece",
+    "phone": "+302610313000"
+  },
+  {
+    "name": "Fork",
+    "address": "Paleon Patron Germanou 18, Patra 262 25, Greece",
+    "phone": "+302610333876"
+  },
+  {
+    "name": "Troufa",
+    "address": "Pantanassis 27, Patra 262 21, Greece",
+    "phone": "+302610225930"
+  },
+  {
+    "name": "O Mylos-petrino (Patras)",
+    "address": "Pl. Ipsilon Alonion 25, Patra 262 24, Greece",
+    "phone": "+302610311322"
+  },
+  {
+    "name": "Terra",
+    "address": "και, Trion Navarchon, Patra 262 22, Greece",
+    "phone": "+302610329984"
+  },
+  {
+    "name": "Prego",
+    "address": "Trion Navarchon 51, Patra 262 22, Greece",
+    "phone": "+302613019223"
+  },
+  {
+    "name": "Sinialo",
+    "address": "Agias Triados 45, Patra 262 24, Greece",
+    "phone": "+302610310000"
+  },
+  {
+    "name": "Fagioum",
+    "address": "Ir. Politechniou 78, Patra 264 42, Greece",
+    "phone": "+302610990970"
+  },
+  {
+    "name": "Gastronómos",
+    "address": "ΤΕΡΜΑ ΑΡΙΣΤΟΤΕΛΟΥΣ, ΠΕΡΙΟΧΗ ΕΡΓΟΣΤΑΣΙΟΥ, Glafkou, Patra 263 31, Greece",
+    "phone": "+302610640600"
+  },
+  {
+    "name": "Bodegas",
+    "address": "Al. Ipsilantou 175, Patra 262 25, Greece",
+    "phone": "17526225"
+  },
+  {
+    "name": "Carousello",
+    "address": "Ifestou 26, Patra 262 25, Greece",
+    "phone": "+302610270972"
+  },
+  {
+    "name": "Labyrinthos",
+    "address": "Aoou 8, Patra 264 42, Greece",
+    "phone": "+302610420084"
+  },
+  {
+    "name": "Μαραβέλας Εστιατόριο",
+    "address": "Zakinthou 6, Patra 264 41, Greece",
+    "phone": "+302610427276"
+  },
+  {
+    "name": "Sailing Club Of Patras",
+    "address": "Papanastasiou, Patra 263 32, Greece",
+    "phone": "+302610317077"
+  },
+  {
+    "name": "Pepper Kitchen-Bar",
+    "address": "26442, Aoou 28, Patra 264 42, Greece",
+    "phone": "264422826442"
+  },
+  {
+    "name": "Santa Rosa",
+    "address": "Trion Navarchon 66, Patra 262 22, Greece",
+    "phone": "+302610333003"
+  },
+  {
+    "name": "Mr Burger",
+    "address": "Riga Fereou 154, Patra 262 22, Greece",
+    "phone": "15426222"
+  },
+  {
+    "name": "Cuccuvaia",
+    "address": "Korinthou 289, Patra 262 21, Greece",
+    "phone": "28926221"
+  },
+  {
+    "name": "stars",
+    "address": "Ellinos Stratiotou 108, Patra 264 41, Greece",
+    "phone": "10826441"
+  },
+  {
+    "name": "Ντεζενέ",
+    "address": "Agiou Andreou 23, Patra 262 21, Greece",
+    "phone": "+302612612628"
+  },
+  {
+    "name": "Adonis",
+    "address": "Patreos 83, Patra 262 25, Greece",
+    "phone": "+302613013603"
+  },
+  {
+    "name": "Tomo's Open Kitchen Bar",
+    "address": "Dim. Gounari 211, Patra 262 26, Greece",
+    "phone": "21126226"
+  },
+  {
+    "name": "Bianco",
+    "address": "Korinthou 104, Patra 262 23, Greece",
+    "phone": "10426223"
+  },
+  {
+    "name": "Axilleion",
+    "address": "Patreos 13-15, Patra 262 21, Greece",
+    "phone": "131526221"
+  },
+  {
+    "name": "Ο Μπαρμπαγιάννης",
+    "address": "Ipsilon Alonion 19, A, Patra 262 24, Greece",
+    "phone": "+302610336917"
+  },
+  {
+    "name": "Steakhouse Plastiras",
+    "address": "Gerokostopoulou 39, Patra 262 25, Greece",
+    "phone": "+302611104226"
+  },
+  {
+    "name": "Opatha",
+    "address": "Agiou Andreou 127, Patra 262 21, Greece",
+    "phone": "12726221"
+  },
+  {
+    "name": "Le Coq",
+    "address": "Πλ. Γεωρ. Α 50, Patra 262 21, Greece",
+    "phone": "+302610225000"
+  },
+  {
+    "name": "Voukamvilia",
+    "address": "Riga Fereou 3, Patra 262 23, Greece",
+    "phone": "+302610270399"
+  },
+  {
+    "name": "Ροκφορ",
+    "address": "Dim. Gounari 223, Patra 262 26, Greece",
+    "phone": "22326226"
+  },
+  {
+    "name": "Sousouro mezedopoleio",
+    "address": "Korinthou 295, Patra 262 21, Greece",
+    "phone": "29526221"
+  },
+  {
+    "name": "Rockeat",
+    "address": "Pl. Geor. A 1, Patra 262 21, Greece",
+    "phone": "+302610270095"
+  },
+  {
+    "name": "Kebaba",
+    "address": "Ir. Politechniou 76, Patra 264 42, Greece",
+    "phone": "+302610433693"
+  },
+  {
+    "name": "Due Piani",
+    "address": "Gerokostopoulou 33, Patra 262 21, Greece",
+    "phone": "+302610274033"
+  },
+  {
+    "name": "Θάνος Παραδοσιακό Ψητοπωλείο",
+    "address": "Smirnis 101, Patra 262 24, Greece",
+    "phone": "10126224"
+  },
+  {
+    "name": "Festival by Salumeria",
+    "address": "Radinou 6, Patra 262 21, Greece",
+    "phone": "+302610620179"
+  },
+  {
+    "name": "café ΣΤΑΘΜΟΣ",
+    "address": "Ellinos Stratiotou 51, Patra 264 41, Greece",
+    "phone": "+302611811123"
+  },
+  {
+    "name": "El Greco Pizza",
+    "address": "Aretha 176-183, Patra 264 43, Greece",
+    "phone": "17618326443"
+  },
+  {
+    "name": "Eataly",
+    "address": "Ifestou 21, Patra 262 24, Greece",
+    "phone": "+302610277148"
+  },
+  {
+    "name": "Patras oto gar",
+    "address": "Συνοικία Διάκου, Erithrou Stavrou 67, Patra 263 31, Greece",
+    "phone": "+302610277929"
+  },
+  {
+    "name": "Κατσαρόλα της Τούλας",
+    "address": "Kiprou 2, B, Patra 264 41, Greece",
+    "phone": "+302611104385"
+  },
+  {
+    "name": "Τα Τσίπιανα Χασαποκαταστάσεις",
+    "address": "N.E.O. Patron - Athinon 12, Patra 264 41, Greece",
+    "phone": "+302610423000"
+  },
+  {
+    "name": "Rodon",
+    "address": "Riga Fereou 51-55, Patra 262 21, Greece",
+    "phone": "515526221"
+  },
+  {
+    "name": "Θυμάρι",
+    "address": "Partheniou 33, Patra 262 25, Greece",
+    "phone": null
+  },
+  {
+    "name": "Scharabaíos",
+    "address": "Sotiriadou 27, Patra 262 25, Greece",
+    "phone": "+302610621004"
+  },
+  {
+    "name": "Byssoino",
+    "address": "26Α,, Ipsilon Alonion, Patra 262 24, Greece",
+    "phone": "+302610330710"
+  },
+  {
+    "name": "Μεζεδοπωλειο Οι Μουριές",
+    "address": "Κωνσταντινουπόλεως 28, Egnatias 14, Patra 262 23, Greece",
+    "phone": "281426223"
+  },
+  {
+    "name": "Kalamarakia o Petros",
+    "address": "Ir. Politechniou 42, Patra 262 23, Greece",
+    "phone": "+302610434309"
+  },
+  {
+    "name": "Mangiare",
+    "address": "Geor. Tertseti 7, Patra 264 42, Greece",
+    "phone": "+302610450703"
+  },
+  {
+    "name": "Big Ben",
+    "address": "Pantanassis 3, Patra 262 21, Greece",
+    "phone": "+306978802491"
+  },
+  {
+    "name": "Páprika",
+    "address": "Koridalleos 71, Patra 264 43, Greece",
+    "phone": "+302610428579"
+  },
+  {
+    "name": "Daniele Ristorante Italiano Patras",
+    "address": "Πλ. Γεωρ. Α 50, Patra 262 21, Greece",
+    "phone": "+302610226374"
+  },
+  {
+    "name": "Rooster",
+    "address": "Korinthou 61, Patra 262 23, Greece",
+    "phone": "+302610452102"
+  },
+  {
+    "name": "Roque",
+    "address": "Riga Fereou 181, Patra 262 22, Greece",
+    "phone": "18126222"
+  },
+  {
+    "name": "Koralli",
+    "address": "Trion Navarchon 39, Patra 262 22, Greece",
+    "phone": "+302610330996"
+  },
+  {
+    "name": "Grill town",
+    "address": "Trion Navarchon 17, Patra 262 22, Greece",
+    "phone": "+302610316200"
+  },
+  {
+    "name": "La Bodegueta",
+    "address": "Giannitson 30, Patra 262 23, Greece",
+    "phone": "+302614003744"
+  },
+  {
+    "name": "Grillo souvlaki",
+    "address": "Pl. Ipsilon Alonion 28, Patra 262 24, Greece",
+    "phone": "+302610333177"
+  },
+  {
+    "name": "Bacchus Restaurant",
+    "address": "28,, Agiou Nikolaou 16, Patra 262 21, Greece",
+    "phone": "281626221"
+  },
+  {
+    "name": "Deck",
+    "address": "Lontou 2-24, Patra 262 25, Greece",
+    "phone": "22426225"
+  },
+  {
+    "name": "Απέναντι από το Ωδείο",
+    "address": "Aoou 50, Patra 264 42, Greece",
+    "phone": "+302610425102"
+  },
+  {
+    "name": "Το Κουτούκι",
+    "address": "Amerikis 1, Patra 264 42, Greece",
+    "phone": "+302610453492"
+  },
+  {
+    "name": "Panahaïkon",
+    "address": "Gerokostopoulou 53, Patra 262 25, Greece",
+    "phone": "+302610621584"
+  },
+  {
+    "name": "Delicious Taste",
+    "address": "N.E.O. Patron - Athinon 4, Patra 264 41, Greece",
+    "phone": "+302610450050"
+  },
+  {
+    "name": "Remeze",
+    "address": "Othonos kai Amalias 18, Patra 262 23, Greece",
+    "phone": null
+  },
+  {
+    "name": "Container",
+    "address": "Ir. Politechniou 17, Patra 264 42, Greece",
+    "phone": "+302610431571"
+  },
+  {
+    "name": "Le Coq",
+    "address": "Ellinos Stratiotou 50, Patra 264 41, Greece",
+    "phone": "+302610451397"
+  },
+  {
+    "name": "Kapotas Basil",
+    "address": "Patron Klaous 42, Patra 263 34, Greece",
+    "phone": "+302610318744"
+  },
+  {
+    "name": "Δίδυμοι εστιατόριο",
+    "address": "Riga Fereou 49, Patra 262 21, Greece",
+    "phone": "+302610271555"
+  },
+  {
+    "name": "Σπίτι...Πλάκα Κάνεις",
+    "address": "Ermou 30, Patra 262 21, Greece",
+    "phone": "+302610242640"
+  },
+  {
+    "name": "Romvia Restaurant",
+    "address": "Othonos kai Amalias 27, Patra 262 21, Greece",
+    "phone": "+302610622550"
+  },
+  {
+    "name": "Λιτό & Απέριττο",
+    "address": "Panepistimiou 378, Patra 264 43, Greece",
+    "phone": "37826443"
+  },
+  {
+    "name": "Ipervasi",
+    "address": "Karaiskaki 202 &, Trion Navarchon, Patra 262 22, Greece",
+    "phone": "20226222"
+  },
+  {
+    "name": "Square 16 - Burger Restaurant",
+    "address": "Trion Navarchon 52, Patra 262 22, Greece",
+    "phone": "+302610333333"
+  },
+  {
+    "name": "Kalamaki",
+    "address": "Pantanassis 77, Patra 262 21, Greece",
+    "phone": "+302610220024"
+  },
+  {
+    "name": "TOAST IT PATRA",
+    "address": "Agiou Nikolaou 47, Patra 262 21, Greece",
+    "phone": "+302610279222"
+  },
+  {
+    "name": "Tip Top",
+    "address": "Partheniou 1, Patra 262 25, Greece",
+    "phone": "+302610221411"
+  },
+  {
+    "name": "Yami Yami",
+    "address": "Trion Navarchon 60, Patra 262 22, Greece",
+    "phone": "+302610009606"
+  },
+  {
+    "name": "FUEGO",
+    "address": "Trion Navarchon 45, Patra 262 22, Greece",
+    "phone": "+306972107571"
+  },
+  {
+    "name": "Farfalle",
+    "address": "Ifestou 22, Patra 262 25, Greece",
+    "phone": "+306986601022"
+  },
+  {
+    "name": "Σκατζοheros",
+    "address": "Maizonos 67, Patra 262 21, Greece",
+    "phone": "+302610271377"
+  },
+  {
+    "name": "Καντίνα",
+    "address": "Ir. Politechniou 82, Patra 264 42, Greece",
+    "phone": "+302610436100"
+  },
+  {
+    "name": "Ψησταριά Τσολιάς",
+    "address": "Patron Klaous 64, Patra 263 34, Greece",
+    "phone": "+302610332424"
+  },
+  {
+    "name": "Bros CH Panteli O.E.",
+    "address": "Pantanassis 54, Patra 262 21, Greece",
+    "phone": "+302610271522"
+  },
+  {
+    "name": "Tag",
+    "address": "Sachtouri 77, Patra 262 21, Greece",
+    "phone": "+302610311141"
+  },
+  {
+    "name": "Goody's Burger House",
+    "address": "Kanakari 182, Patra 262 21, Greece",
+    "phone": "18226221"
+  },
+  {
+    "name": "Sirokos Fish & Grill",
+    "address": "Pl. Ipsilon Alonion 12, Patra 262 24, Greece",
+    "phone": "+302610333567"
+  },
+  {
+    "name": "Asia Club-Chinese Restaurant",
+    "address": "Mentoros 1, Patra 264 42, Greece",
+    "phone": "+302610434349"
+  },
+  {
+    "name": "Snoopy",
+    "address": "Riga Fereou 148-150, Patra 262 22, Greece",
+    "phone": "14815026222"
+  },
+  {
+    "name": "SMOKERS",
+    "address": "Agiou Dionisiou 23-25, Patra 262 23, Greece",
+    "phone": "232526223"
+  },
+  {
+    "name": "Makina",
+    "address": "Riga Fereou 140, Patra 262 21, Greece",
+    "phone": "14026221"
+  },
+  {
+    "name": "ΜΑΓΕΙΡΕΜΑΤΑ",
+    "address": "Pantanassis 3, Patra 262 21, Greece",
+    "phone": "+302610625221"
+  },
+  {
+    "name": "Psitotechnies",
+    "address": "Poukevil 5, Patra 262 23, Greece",
+    "phone": "+302610272987"
+  },
+  {
+    "name": "Ψαροταβέρνα Πάτρα - «Ο Νίκος»",
+    "address": "Ir. Politechniou 17, Patra 264 42, Greece",
+    "phone": "+302610435905"
+  },
+  {
+    "name": "Mπαχάρι",
+    "address": "Poukevil 44, Patra 262 23, Greece",
+    "phone": "+302610226436"
+  },
+  {
+    "name": "Food Company by Bara",
+    "address": "Patreos 22, Patra 262 21, Greece",
+    "phone": "+302614007536"
+  },
+  {
+    "name": "Patra Mall",
+    "address": "Maizonos 121, Patra 262 21, Greece",
+    "phone": "12126221"
+  },
+  {
+    "name": "Veso Mare",
+    "address": "Thourias, Patra 263 32, Greece",
+    "phone": "+302610318399"
+  },
+  {
+    "name": "Pantazis, C. N., S.A.",
+    "address": "Glafkou 9, Patra 263 35, Greece",
+    "phone": "+302610630200"
+  },
+  {
+    "name": "ΒΑΣΙΛΟΠΟΥΛΟΣ ΑΝΔΡΕΑΣ",
+    "address": "Karaiskaki 98, Patra 262 21, Greece",
+    "phone": "+306936045330"
+  },
+  {
+    "name": "Γενικό Εμπόριο Σταυρόπουλος",
+    "address": "Korinthou 227, Patra 262 21, Greece",
+    "phone": "22726221"
+  },
+  {
+    "name": "ACHAIAMOTO ΘΑΝΟΠΟΥΛΟΣ",
+    "address": "Akrotiriou 77, Patra 263 34, Greece",
+    "phone": "+302610340111"
+  },
+  {
+    "name": "Hondos Center",
+    "address": "N.E.O. Patron - Athinon 111, Patra 264 42, Greece",
+    "phone": "11126442"
+  },
+  {
+    "name": "Sports Center Patras",
+    "address": "Ermou 45, Patra 262 21, Greece",
+    "phone": "+302610624048"
+  },
+  {
+    "name": "ΑΣΗΜΑΚΟΠΟΥΛΟΥ ΒΑΣΙΛΙΚΗ - Pet Shop",
+    "address": "Akti Dimeon 17, Patra 262 22, Greece",
+    "phone": "+302108092690"
+  },
+  {
+    "name": "ΑΠΟΘΗΚΗ CLEAN HOME",
+    "address": "Πατρών Κλάους, Meg. Alexandrou &, Patra 263 34, Greece",
+    "phone": "+302610310339"
+  },
+  {
+    "name": "Public Πάτρας",
+    "address": "Kolokotroni 8, Patra 262 21, Greece",
+    "phone": "+302610339564"
+  },
+  {
+    "name": "CENTER OF ORDERS AND RECEIPTS IKEA - Patras",
+    "address": "Maizonos 90, Patra 262 21, Greece",
+    "phone": "+302610273400"
+  },
+  {
+    "name": "Michailidis John",
+    "address": "Mikinon 1, Patra 263 32, Greece",
+    "phone": "+302610362940"
+  },
+  {
+    "name": "Jumbo Πάτρα 2",
+    "address": "Trion Navarchon 17, Patra 262 22, Greece",
+    "phone": "+306944797800"
+  },
+  {
+    "name": "Cosmos Sport",
+    "address": "Κανάρη και Ρήγα Φεραίου, Patra 262 21, Greece",
+    "phone": "+302610313000"
+  },
+  {
+    "name": "Stathopoulou Eleni",
+    "address": "Gerokostopoulou 12, Patra 262 21, Greece",
+    "phone": "+306972247172"
+  },
+  {
+    "name": "Pet Center Patras",
+    "address": "Maizonos 124, Patra 262 22, Greece",
+    "phone": "12426222"
+  },
+  {
+    "name": "Bike center patras",
+    "address": "Πλ. Βασιλέως Γεωργίου Α 7, Patra 262 21, Greece",
+    "phone": "+302610225095"
+  },
+  {
+    "name": "SHOP SHOP PATRAS",
+    "address": "Agias Sofias &, Doiranis 11, Patra 264 41, Greece",
+    "phone": "+302614004238"
+  },
+  {
+    "name": "Beauty Center",
+    "address": "Korinthou 507, Patra 262 22, Greece",
+    "phone": "50726222"
+  },
+  {
+    "name": "Beauty Angel",
+    "address": "Korinthou 328, Patra 262 22, Greece",
+    "phone": "32826222"
+  },
+  {
+    "name": "Agora Argiri",
+    "address": "Al. Roma 85, Zakinthos 291 00, Greece",
+    "phone": "+302695042848"
+  },
+  {
+    "name": "KOKOI ELENI",
+    "address": "Navarinou 25-27, Patra 262 22, Greece",
+    "phone": "252726222"
+  },
+  {
+    "name": "Copy Center 35",
+    "address": "Maizonos 65, Patra 262 21, Greece",
+    "phone": "+302610624512"
+  },
+  {
+    "name": "Tommy Hilfiger Patra",
+    "address": "Αγίου Ανδρέου 141 &, Filopimenos, Patra 262 21, Greece",
+    "phone": "14126221"
+  },
+  {
+    "name": "Pet Smart Center ΥΨΗΛΑ ΑΛΩΝΙΑ",
+    "address": "Korinthou 228, Patra 262 21, Greece",
+    "phone": "22826221"
+  },
+  {
+    "name": "ZARA",
+    "address": "Konstantinoupoleos 51, Patra 262 23, Greece",
+    "phone": "+302610425530"
+  },
+  {
+    "name": "Welcome Stores (ΠΑΝΑΓΙΩΤΑΚΟΠΟΥΛΟΣ Πάτρα)",
+    "address": "Akrotiriou 257, Patra 263 34, Greece",
+    "phone": "25726334"
+  },
+  {
+    "name": "Home Center - Garden Furniture & Rugs",
+    "address": "Patreos 92, Patra 262 25, Greece",
+    "phone": "+302616007671"
+  },
+  {
+    "name": "Huawei Customer Service Center",
+    "address": "Patreos 83, Patra 262 25, Greece",
+    "phone": "+302613013603"
+  },
+  {
+    "name": "Nike Store",
+    "address": "Zaimi 2, Patra 262 21, Greece",
+    "phone": "+302610625811"
+  },
+  {
+    "name": "Jumbo Πάτρα 1",
+    "address": "Korinthou 288, Patra 262 22, Greece",
+    "phone": "28826222"
+  },
+  {
+    "name": "Storebrandoutlet",
+    "address": "Akrotiriou 122, Patra 263 32, Greece",
+    "phone": "12226332"
+  },
+  {
+    "name": "Admiral",
+    "address": "Ermou 14, Patra 262 21, Greece",
+    "phone": "+302610242947"
+  },
+  {
+    "name": "Orchestra PATRA",
+    "address": "Meg. Alexandrou 229, Patra 263 34, Greece",
+    "phone": "22926334"
+  },
+  {
+    "name": "Ανδρικόπουλος Super Market",
+    "address": "Riga Fereou 79, Patra 262 21, Greece",
+    "phone": "+302616007262"
+  },
+  {
+    "name": "Face",
+    "address": "Agiou Nikolaou 9, Patra 262 21, Greece",
+    "phone": "+302610275981"
+  },
+  {
+    "name": "Roumeliotis dog's center",
+    "address": "Ionias &, Gorgopotamou 8, Patra 263 32, Greece",
+    "phone": "+308001113333"
+  },
+  {
+    "name": "THE BODY SHOP",
+    "address": "Agiou Konstantinou 49, Patra 264 42, Greece",
+    "phone": "+302610421084"
+  },
+  {
+    "name": "My market",
+    "address": "Papanastasiou 111, Patra 263 32, Greece",
+    "phone": "11126332"
+  },
+  {
+    "name": "Πλαίσιο Πάτρας",
+    "address": "Kolokotroni 39, Patra 262 21, Greece",
+    "phone": "+302611123926"
+  },
+  {
+    "name": "Κωτσόβολος - Αγίου Ανδρέου - Πάτρα",
+    "address": "Ermou 59, Patra 262 21, Greece",
+    "phone": "+302610221055"
+  },
+  {
+    "name": "Classico Shoes",
+    "address": "Papaflessa 13, Patra 262 22, Greece",
+    "phone": "+302614016279"
+  },
+  {
+    "name": "MaxMara",
+    "address": "Dim. Gounari 75α, Patra 262 25, Greece",
+    "phone": "+302613009375"
+  },
+  {
+    "name": "Upholstery Center,Kanellopoulos",
+    "address": "Dim. Votsi, Patra 262 21, Greece",
+    "phone": "+302610271611"
+  },
+  {
+    "name": "Polýedro",
+    "address": "Evias 270, Patra 263 32, Greece",
+    "phone": "27026332"
+  },
+  {
+    "name": "CBDOIL SHOP Πάτρα",
+    "address": "Riga Fereou 120, Patra 262 21, Greece",
+    "phone": "12026221"
+  },
+  {
+    "name": "JYSK Patra",
+    "address": "Κανακάρη 143 &, Gerokostopoulou, Patra 262 21, Greece",
+    "phone": "14326221"
+  },
+  {
+    "name": "Camper Patras",
+    "address": "Riga Fereou 142, Patra 262 21, Greece",
+    "phone": "14226221"
+  },
+  {
+    "name": "King George Ι Square (Patras)",
+    "address": "Gerasimou Sklavou 4, Patra 264 42, Greece",
+    "phone": "+302610275820"
+  },
+  {
+    "name": "Orange Shop",
+    "address": "Trikalon 32, Patra 263 33, Greece",
+    "phone": "+302610338188"
+  },
+  {
+    "name": "MARINA Stores - Πάτρα",
+    "address": "Korinthou 264, Patra 262 21, Greece",
+    "phone": "26426221"
+  },
+  {
+    "name": "NEXT CHILDREN",
+    "address": "Agiou Nikolaou 61, Patra 262 21, Greece",
+    "phone": "+302610622004"
+  },
+  {
+    "name": "Lidl",
+    "address": "Νέα Εθνική Οδός Πατρών-Αθηνών 38-40 New National Road Patras-Athens 38-40, Patra 264 42, Greece",
+    "phone": "3840384026442"
+  },
+  {
+    "name": "Galaxias",
+    "address": "Korinthou 248, Patra 262 21, Greece",
+    "phone": "24826221"
+  },
+  {
+    "name": "The Flower Shop",
+    "address": "ΓΛΑΥΚΟΥ 9 ΠΕΡΙΒΟΛΑ (εμπορική στοά carrefour, Patra 263 35, Greece",
+    "phone": "+302610643080"
+  },
+  {
+    "name": "Prego Junior Patras",
+    "address": "Panachaikou 76, Patra 262 24, Greece",
+    "phone": "+302610320533"
+  },
+  {
+    "name": "Κωτσόβολος - Περιβόλα - Πάτρα",
+    "address": "Riga Fereou 50, Patra 262 21, Greece",
+    "phone": "+306946770774"
+  },
+  {
+    "name": "Plateia Olgas Square",
+    "address": "Γλαύκου 9 - Περιβόλα Πατρών, Patra 263 32, Greece",
+    "phone": "+302102899999"
+  },
+  {
+    "name": "Cook Shop",
+    "address": "P.E.O, Menestheos, Patron Pirgou, Patra 263 33, Greece",
+    "phone": "+308001113333"
+  },
+  {
+    "name": "Laxmi",
+    "address": "Ir. Politechniou 50, Patra 264 41, Greece",
+    "phone": "+302610462065"
+  },
+  {
+    "name": "Promitheas Park",
+    "address": "Kolokotroni 64, Patra 262 21, Greece",
+    "phone": "+302610270277"
+  },
+  {
+    "name": "Φαρμακείο Ειρήνη Κομπορόζου",
+    "address": "Πλ. Γεωρ. Α, Patra 262 21, Greece",
+    "phone": null
+  },
+  {
+    "name": "ΑΝΝΑ ΚΟΡΔΑ HAIR & BEAUTY SHOPS - PAPAYA.GR",
+    "address": "Riga Fereou 59, Patra 262 21, Greece",
+    "phone": "+302610223331"
+  },
+  {
+    "name": "Macao",
+    "address": "Agiou Nikolaou 54, Patra 262 21, Greece",
+    "phone": "+302610241028"
+  },
+  {
+    "name": "Eὖ SKIN PETSINI-VOUTSINA ΚΕΝΤΡΟ ΚΟΣΜΗΤΙΚΗΣ ΑΙΣΘΗΤΙΚΗΣ-LASER ΠΑΤΡΑ",
+    "address": "N.E.O. Patron - Athinon 28, Patra 264 41, Greece",
+    "phone": "+302111985096"
+  },
+  {
+    "name": "Swank Greece",
+    "address": "Papaflessa 21, Patra 262 22, Greece",
+    "phone": "+302610311608"
+  },
+  {
+    "name": "Κων. Τρουπιώτης - Αθ. Μανταίος",
+    "address": "Korinthou 200, Patra 262 21, Greece",
+    "phone": "20026221"
+  },
+  {
+    "name": "Mexx",
+    "address": "Maizonos 87, Patra 262 21, Greece",
+    "phone": "+302610277652"
+  },
+  {
+    "name": "Palaiobibliopōleio",
+    "address": "Agiou Andreou 120, Patra 262 21, Greece",
+    "phone": "12026221"
+  },
+  {
+    "name": "NAUTILUS DIVING CENTER OF PATRAS",
+    "address": "Kanakari 147, Patra 262 21, Greece",
+    "phone": "14726221"
+  },
+  {
+    "name": "Aromabrand.gr",
+    "address": "Agiou Andreou 53, Patra 262 21, Greece",
+    "phone": "+302102899999"
+  },
+  {
+    "name": "Samovar natural cosmetics",
+    "address": "Maizonos 80, Patra 262 21, Greece",
+    "phone": "+302610625755"
+  },
+  {
+    "name": "Men's Lobby AGYIA PATRA",
+    "address": "Akti Dimeon 12-14, Patra 263 33, Greece",
+    "phone": "121426333"
+  },
+  {
+    "name": "Galaxy City Center Hotel",
+    "address": "Riga Fereou 75, Patra 262 21, Greece",
+    "phone": "+302610240088"
+  },
+  {
+    "name": "Lidl",
+    "address": "Riga Fereou 27, Patra 262 23, Greece",
+    "phone": "+302613021107"
+  },
+  {
+    "name": "Beau Rivage Public House",
+    "address": "Maizonos 205, Patra 262 22, Greece",
+    "phone": "20526222"
+  },
+  {
+    "name": "HALL CAFE",
+    "address": "Riga Fereou 92, Patra 262 21, Greece",
+    "phone": "+302610226959"
+  },
+  {
+    "name": "BRANDBAGS Travel & Business",
+    "address": "Korinthou 186, Patra 262 21, Greece",
+    "phone": "18626221"
+  },
+  {
+    "name": "ΑΝΝΑ ΚΟΡΔΑ HAIR & BEAUTY SHOPS - PAPAYA.GR",
+    "address": "Ermou 9-11, Patra 262 21, Greece",
+    "phone": "91126221"
+  },
+  {
+    "name": "Passenger",
+    "address": "Ν.Ε.Ο. Αθηνών-Πατρών &, Amerikis 74, Patra 264 41, Greece",
+    "phone": "+302610436245"
+  },
+  {
+    "name": "Αυτοκινητα Σκονδρας Auto Center",
+    "address": "Agiou Andreou 124, Patra 262 21, Greece",
+    "phone": "12426221"
+  },
+  {
+    "name": "Roumeliṓtēs",
+    "address": "Maizonos 62, Patra 262 21, Greece",
+    "phone": "+302103003864"
+  },
+  {
+    "name": "Rubik's",
+    "address": "Akrotiriou 58, Patra 263 32, Greece",
+    "phone": "+302610324320"
+  },
+  {
+    "name": "The Farrow System",
+    "address": "Agiou Nikolaou 24, Patra 262 21, Greece",
+    "phone": "+302611180124"
+  },
+  {
+    "name": "Hush Puppies Πάτρας - Yellox Shoes",
+    "address": "Athanasiou Diakou 32, Patra 262 22, Greece",
+    "phone": "+302610344483"
+  },
+  {
+    "name": "11 Modern Muses",
+    "address": "Zaimi 35, Patra 262 23, Greece",
+    "phone": "+302610226326"
+  },
+  {
+    "name": "Karagiannis Christos \"Smoke\"",
+    "address": "Riga Fereou 78, Patra 262 21, Greece",
+    "phone": "+302610622273"
+  },
+  {
+    "name": "everest",
+    "address": "Filopimenos 49, Patra 262 21, Greece",
+    "phone": "+302610276791"
+  },
+  {
+    "name": "Vlahioti",
+    "address": "Mall, Γλαύκου 9 Εμπ. κέντρο, Patra 263 35, Greece",
+    "phone": "+302610644356"
+  },
+  {
+    "name": "Happy Dog Pet Shop",
+    "address": "Dim. Votsi 15, Patra 262 21, Greece",
+    "phone": "+302610621590"
+  },
+  {
+    "name": "THE ROYAL PETS PATRAS",
+    "address": "Agiou Andreou 12, Patra 262 21, Greece",
+    "phone": "+302610461740"
+  },
+  {
+    "name": "Social Cooperative IP Lighthouse",
+    "address": "Pantanassis 35-37, Patra 262 21, Greece",
+    "phone": "353726221"
+  },
+  {
+    "name": "Entelvais",
+    "address": "Konstantinoupoleos 53, Patra 262 23, Greece",
+    "phone": "+302613027682"
+  },
+  {
+    "name": "Auto Parking Patras",
+    "address": "Evias 168, Patra 263 32, Greece",
+    "phone": "16826332"
+  },
+  {
+    "name": "Coffeebrands",
+    "address": "Agiou Nikolaou 31, Patra 262 21, Greece",
+    "phone": "+302811808808"
+  },
+  {
+    "name": "Lotsaris Bros O.E.",
+    "address": "Riga Fereou 94, Patra 262 21, Greece",
+    "phone": "+302610221229"
+  },
+  {
+    "name": "Patras Castle",
+    "address": "Πλ. Γεωρ. Α, Patra 262 21, Greece",
+    "phone": null
+  },
+  {
+    "name": "Archaeological Museum of Patras",
+    "address": "Νέα Εθνική Οδός Πατρών-Αθηνών 38-40 New National Road Patras-Athens 38-40, Patra 264 42, Greece",
+    "phone": "3840384026442"
+  },
+  {
+    "name": "Achaia Clauss",
+    "address": "Gefira Charilaos Trikoupis, 300 20, Greece",
+    "phone": "+302634039010"
+  },
+  {
+    "name": "Museum of Science and Technology",
+    "address": "Trion Navarchon 96, Patra 262 22, Greece",
+    "phone": "+302610322223"
+  },
+  {
+    "name": "Rion-Antirion Bridge",
+    "address": "Frouriou 56, Patra 262 25, Greece",
+    "phone": "+302610623390"
+  },
+  {
+    "name": "Mycenaean Cemetery of Voudeni.",
+    "address": "Akti Dimeon 28, Patra 262 22, Greece",
+    "phone": null
+  },
+  {
+    "name": "Calma Waterpark",
+    "address": "Epar.Od. Likourias-Feneou, Feneos 200 14, Greece",
+    "phone": "+306943157320"
+  },
+  {
+    "name": "Patras",
+    "address": "Archaia Olympia, 1,, Koskinas 270 65, Greece",
+    "phone": "+302624023021"
+  },
+  {
+    "name": "Agia Lavra Monastery",
+    "address": "Unnamed Rd, Egialia 251 00, Greece",
+    "phone": "+302106147210"
+  },
+  {
+    "name": "Archaeological Museum of Aigion",
+    "address": "Ιερά Μονη, Nafpaktos 303 00, Greece",
+    "phone": "+302634022324"
+  },
+  {
+    "name": "Patra",
+    "address": "Vasilissis Olgas 2, Argos 212 00, Greece",
+    "phone": "+302751068819"
+  },
+  {
+    "name": "Agia Lavra Monastery",
+    "address": "Β. Παπαγεωργίου 14, Vrachneika 250 02, Greece",
+    "phone": "+302610318418"
+  },
+  {
+    "name": "Pampeloponnisiako Stadium",
+    "address": "Πραξιτέλη Κονδύλη 55, Archea Olimpia 270 65, Greece",
+    "phone": "+306978361894"
+  },
+  {
+    "name": "Patras Travel",
+    "address": "Ηρ. Πολυτεχνείου και, Aigiptou 1, Patra 264 41, Greece",
+    "phone": "+306934605584"
+  },
+  {
+    "name": "Αρχαιολογικό Μουσείο Πύργου - Παλαιά Δημοτική Αγορά",
+    "address": "Μηλιά, Milia Tripoleos 221 00, Greece",
+    "phone": "+302710411434"
+  },
+  {
+    "name": "New Port of Patras",
+    "address": "7χμ. .οδ.Καρπενησίου -Προυσού -Καλλιθέας, Karpenisi 361 00, Greece",
+    "phone": "+302237024614"
+  },
+  {
+    "name": "Kapsia Cave",
+    "address": "Κάστρο Λάρισας, Argos 212 00, Greece",
+    "phone": "+302751047233"
+  },
+  {
+    "name": "UNDER VR",
+    "address": "M8G5+FM, Korakochori 271 00, Greece",
+    "phone": "+302621041601"
+  },
+  {
+    "name": "Petmezaion tower",
+    "address": "Ir. Politechniou, Patra 264 41, Greece",
+    "phone": "+306998076514"
+  },
+  {
+    "name": "Acropolis of Athens",
+    "address": "Πραξιτέλη Κονδύλη 4, Archea Olimpia 270 65, Greece",
+    "phone": "+302624029119"
+  },
+  {
+    "name": "Arena Sports Center",
+    "address": "Παλαιών Πατρών Γερμανού, Sotiriadou και, Patra 262 25, Greece",
+    "phone": "+302610223587"
+  },
+  {
+    "name": "Patra Mall",
+    "address": "E65, Itea 332 00, Greece",
+    "phone": "+306937292448"
+  },
+  {
+    "name": "Memorial of Leonidas and 300 Spartans",
+    "address": "Επίδαυρος, 210 52, Greece",
+    "phone": null
+  },
+  {
+    "name": "Petite Boutique",
+    "address": "Konstantinoupoleos 51, Patra 262 23, Greece",
+    "phone": "+302610425530"
+  },
+  {
+    "name": "Patras",
+    "address": "51 km National Road Lamia-Amfissa, Amfissa 331 00, Greece",
+    "phone": "+302265078819"
+  },
+  {
+    "name": "Castalia Spring",
+    "address": "Paleon Patron Germanou 56, Patra 262 25, Greece",
+    "phone": "+302611810354"
+  },
+  {
+    "name": "Skondras Υαλοπίνακες / Τζάμια",
+    "address": "Agiou Nikolaou 7, Patra 262 21, Greece",
+    "phone": null
+  },
+  {
+    "name": "Odeon",
+    "address": "Mousiou, Delfi 330 52, Greece",
+    "phone": "+302265041795"
+  },
+  {
+    "name": "Archaeological Museum of Olympia",
+    "address": "Zaimi 2, Patra 262 21, Greece",
+    "phone": "+302610623886"
+  },
+  {
+    "name": "Tholos of Athena Pronaia",
+    "address": "Afstralias 111, Patra 264 42, Greece",
+    "phone": "11126442"
+  },
+  {
+    "name": "ΤΟ ΒΑΛΣΑΜΟ (ΥΠΕΡΙΚΟΝ)",
+    "address": "QP5W+5P, Pigadi 360 76, Greece",
+    "phone": null
+  },
+  {
+    "name": "Garden of Heroes",
+    "address": "8ο ΧΛΜ ΕΠΑΡΧΙΑΚΗΣ ΟΔΟΥ, Epar.Od. Pountas - Kalavriton, Ano Diakopto 250 03, Greece",
+    "phone": "+302691097500"
+  },
+  {
+    "name": "Corycian Cave",
+    "address": "Μίχου 19, Missolonghi 302 00, Greece",
+    "phone": "+302631022490"
+  },
+  {
+    "name": "Church of Agia Fotini Mantineias",
+    "address": "Καλαβρύτων, Meg. Alexandrou και, Patra 265 00, Greece",
+    "phone": "+302610324000"
+  },
+  {
+    "name": "SUPERMARKET \"3A ARAPIS\"",
+    "address": "Patreos 43, Patra 262 21, Greece",
+    "phone": "+302610221354"
+  },
+  {
+    "name": "ΚΤΕΛ Νομού Αχαΐας ΑΕ",
+    "address": "Akti Dimeon 17, Patra 262 22, Greece",
+    "phone": "+302106786653"
+  },
+  {
+    "name": "Panta Vrechei Gorge",
+    "address": "Agiou Andreou 58, Patra 262 21, Greece",
+    "phone": "+302610310810"
+  },
+  {
+    "name": "Vagonetto",
+    "address": "EO Livadias Amfissas, Delfi 330 54, Greece",
+    "phone": null
+  },
+  {
+    "name": "Μουσείο Περιβάλλοντος Στυμφαλίας",
+    "address": "Ανδρέα Συγγρού 1-5, Kalavrita 250 01, Greece",
+    "phone": "+302692023646"
+  },
+  {
+    "name": "Edem Spa Χαμάμ & Μασάζ",
+    "address": "Ιερά Μονή Μακελλαριάς, Kalavrita 250 01, Greece",
+    "phone": "+302692024219"
+  },
+  {
+    "name": "Delphi Archaeological Museum",
+    "address": "Akti Dimeon 18, Patra 262 22, Greece",
+    "phone": "+302610344449"
+  },
+  {
+    "name": "11 Modern Muses",
+    "address": "Glafkou 9, Patra 263 35, Greece",
+    "phone": "+302610630200"
+  },
+  {
+    "name": "Roman Odeon",
+    "address": "Pelopos 26, Patra 263 35, Greece",
+    "phone": "+302610640582"
+  },
+  {
+    "name": "Museum of the History of the Olympic Games of antiquity",
+    "address": "Municipality of, Epar.Od. Sarantapichou - Idaton Stigos, Klitoria 250 07, Greece",
+    "phone": "+302692031001"
+  },
+  {
+    "name": "Charama",
+    "address": "Epar.Od. Pirgou-Katakolon, Katakolo 270 67, Greece",
+    "phone": "+306931831530"
+  },
+  {
+    "name": "Mercouri Estate",
+    "address": "Othonos kai Amalias 85, Patra 262 21, Greece",
+    "phone": "+302610622201"
+  },
+  {
+    "name": "Museum of Delphic Festivals",
+    "address": "Karaiskaki 10, Pirgos 271 00, Greece",
+    "phone": "+302621020475"
+  },
+  {
+    "name": "Larissa Castle Argos",
+    "address": "Athenian Treasury, Delfi 330 54, Greece",
+    "phone": null
+  },
+  {
+    "name": "Petrochori",
+    "address": "Akti Dimeon 25, Patra 263 33, Greece",
+    "phone": "+302610365135"
+  },
+  {
+    "name": "Moni Agiou Ioannou",
+    "address": "28is Oktovriou 70, Patra 262 23, Greece",
+    "phone": "287026223"
+  },
+  {
+    "name": "Kalavrita Central Square",
+    "address": "Πατρών Κλάους 93 &, I. Ritsou, Patra 263 35, Greece",
+    "phone": "+302610644172"
+  },
+  {
+    "name": "Kastria",
+    "address": "Αγία Λαύρα, Kalavrita 250 01, Greece",
+    "phone": "+302692023832"
+  },
+  {
+    "name": "Adelfotis Metamorfoseos Sotiros Nafpaktou, Holy Metamorphosis Monastery",
+    "address": "Αγία Λαύρα, Kalavrita 250 01, Greece",
+    "phone": "+302692023832"
+  },
+  {
+    "name": "Infinity City Boutique Hotel",
+    "address": "Katechaki 17, Iraklio 712 01, Greece",
+    "phone": "+302810242960"
+  },
+  {
+    "name": "El Greco Hotel",
+    "address": "Χρονακη 9, Heraklion, Crete 712 02, Greece",
+    "phone": "+302810246000"
+  },
+  {
+    "name": "Aquila Atlantis Hotel",
+    "address": "Igeias 2, Iraklio 712 02, Greece",
+    "phone": "+302818100100"
+  },
+  {
+    "name": "Lato Boutique Hotel",
+    "address": "Epimenidou 46, Iraklio 712 02, Greece",
+    "phone": "+302810300018"
+  },
+  {
+    "name": "Dom Boutique Hotel",
+    "address": "Epimenidou 15, Iraklio 712 02, Greece",
+    "phone": "+302810228103"
+  },
+  {
+    "name": "ibis Styles Heraklion Central",
+    "address": "Stadiou 57, Nea Alikarnassos 716 01, Greece",
+    "phone": "+302810240002"
+  },
+  {
+    "name": "Dimargio Luxury Hotel & Spa 5*",
+    "address": "Leof. 62 Martiron 1, Iraklio 713 04, Greece",
+    "phone": "62171304"
+  },
+  {
+    "name": "Marin Hotel",
+    "address": "Pl. Kornarou 43, Iraklio 712 01, Greece",
+    "phone": "+302810288861"
+  },
+  {
+    "name": "Atrion Hotel",
+    "address": "26 Koroneou &, Agiou Titou Street, Iraklio 712 02, Greece",
+    "phone": "+302810282020"
+  },
+  {
+    "name": "Castello City Hotel",
+    "address": "Almirou 14, Iraklio 712 02, Greece",
+    "phone": "+302816001000"
+  },
+  {
+    "name": "Capsis Astoria Heraklion",
+    "address": "Drakontopoulou, Iraklio 713 06, Greece",
+    "phone": "+306974737186"
+  },
+  {
+    "name": "Metropole Urban Hotel",
+    "address": "Almyroy 1, Gazi 714 14, Greece",
+    "phone": "+302810822111"
+  },
+  {
+    "name": "Olive Green Hotel",
+    "address": "Leof. Minoos 79-81, Iraklio 713 04, Greece",
+    "phone": "798171304"
+  },
+  {
+    "name": "Veneziano Boutique Hotel",
+    "address": "Leof. M. Merkouri 3, Skafidaras 714 14, Greece",
+    "phone": "+302810821713"
+  },
+  {
+    "name": "Galaxy Hotel Iraklio",
+    "address": "Palea EO Irakliou Agiou Nikolaou, Vathianos Kampos 715 00, Greece",
+    "phone": "+306981448406"
+  },
+  {
+    "name": "Iraklion Hotel",
+    "address": "Greece, Ioanninon 3, Iraklio 712 01, Greece",
+    "phone": null
+  },
+  {
+    "name": "Asterion Hotel",
+    "address": "Petropoulaki 6, Iraklio 712 01, Greece",
+    "phone": "+306936555300"
+  },
+  {
+    "name": "El Greco Hotel",
+    "address": "Leof. Andrea Papandreou 173, Ag. Dimitrios 714 14, Greece",
+    "phone": "17371414"
+  },
+  {
+    "name": "City Lion Apartments & Lofts Heraklion",
+    "address": "Έρωτος 2, Gazi 714 14, Greece",
+    "phone": "+302810260909"
+  },
+  {
+    "name": "Lato Annex Boutique Rooms",
+    "address": "Artemidos 2, Skafidaras 714 14, Greece",
+    "phone": "+302810821060"
+  },
+  {
+    "name": "Hotel Olympic Heraklion",
+    "address": "Epimenidou 42, 1st floor, Iraklio 712 02, Greece",
+    "phone": "42171202"
+  },
+  {
+    "name": "Marvel Deluxe Rooms",
+    "address": "Leof. M. Merkouri, Skafidaras 714 14, Greece",
+    "phone": "+302810821124"
+  },
+  {
+    "name": "Hotel Sofia",
+    "address": "Ὁδός 1821 2, Iraklio 712 01, Greece",
+    "phone": "1821271201"
+  },
+  {
+    "name": "Life Boutique Hotel",
+    "address": "Amnisos, Iraklio 715 00, Greece",
+    "phone": "+302810380404"
+  },
+  {
+    "name": "El Greco Hotel",
+    "address": "Leof. Andrea Papandreou, Malevizi 714 14, Greece",
+    "phone": "+302810261103"
+  },
+  {
+    "name": "Kastro Hotel",
+    "address": "Kalimeraki 1, Iraklio 712 02, Greece",
+    "phone": "+302810223638"
+  },
+  {
+    "name": "Hotel Olympic Heraklion",
+    "address": "Poseidonos 34 &, Naxou 1, Iraklio 713 07, Greece",
+    "phone": "34171307"
+  },
+  {
+    "name": "Raise The Heraklion Project",
+    "address": "ΙΚΑΡΟΥ 38 & Τ. ΓΕΩΡΓΙΑΔΗ, Iraklio 713 06, Greece",
+    "phone": "+306944062670"
+  },
+  {
+    "name": "Intra Muros Boutique Hostel",
+    "address": "Arsinois 28, Iraklio 713 03, Greece",
+    "phone": "+306986718545"
+  },
+  {
+    "name": "Athinaikon Hotel",
+    "address": "Ariadnis 43, Iraklio 712 02, Greece",
+    "phone": "+306947614377"
+  },
+  {
+    "name": "Lena Hotel",
+    "address": "76, Ανδρέα Παπανδρέου Street, 714 14, Greece",
+    "phone": "+302810250502"
+  },
+  {
+    "name": "Pagopoieîon, hotel",
+    "address": "Vagias 3, Gazi 714 14, Greece",
+    "phone": "+302814409200"
+  },
+  {
+    "name": "Megaron Hotel",
+    "address": "Andreas Papandreou Street Amoudara, Skafidaras 715 00, Greece",
+    "phone": "+302814266000"
+  },
+  {
+    "name": "Centro Apartments",
+    "address": "Leof. Andrea Papandreou 110, Gazi 714 14, Greece",
+    "phone": "11071414"
+  },
+  {
+    "name": "Pagopoieîon",
+    "address": "Agiou Fanouriou 14, Nea Alikarnassos 716 01, Greece",
+    "phone": "+302810223928"
+  },
+  {
+    "name": "CROPS SUITES",
+    "address": "Aviou Rafail 1, Gazi 714 14, Greece",
+    "phone": "+302810822738"
+  },
+  {
+    "name": "Kipos Suites",
+    "address": "Evropis 28, Iraklio 712 02, Greece",
+    "phone": "+306958612891"
+  },
+  {
+    "name": "Midway Point Apts",
+    "address": "Idomeneos Str, Iraklio 712 02, Greece",
+    "phone": "+302810229703"
+  },
+  {
+    "name": "Candia Studios & Rooms",
+    "address": "Πάτμου 5, Gazi 714 14, Greece",
+    "phone": "+302810821146"
+  },
+  {
+    "name": "Porta Suites",
+    "address": "A. Papandreou 120 & Naxou 8, Iraklio 714 14, Greece",
+    "phone": "120871414"
+  },
+  {
+    "name": "Heraklion Youth Hostel",
+    "address": "Theotokopoulou 20, Iraklio 712 02, Greece",
+    "phone": "+302810285052"
+  },
+  {
+    "name": "Civitel Creta Beach",
+    "address": "Evangelismou 133, Prassas 715 00, Greece",
+    "phone": "13371500"
+  },
+  {
+    "name": "So Young Hostel",
+    "address": "Posidonos 54, Iraklio 713 07, Greece",
+    "phone": "+302810222545"
+  },
+  {
+    "name": "Malena Hotel & Suites",
+    "address": "Πάτμου 6, Gazi 714 14, Greece",
+    "phone": "+302811217245"
+  },
+  {
+    "name": "Oleas Suites",
+    "address": "19 EVROU STREET 16, Evrou STREET, Iraklio 713 03, Greece",
+    "phone": "191671303"
+  },
+  {
+    "name": "3Pines Design Living",
+    "address": "Monis Agkarathou 2 &, Leof. Sofokli Venizelou, Iraklio 712 02, Greece",
+    "phone": "+302810287395"
+  },
+  {
+    "name": "7Rizes Luxury Living",
+    "address": "Ionias 27, Rethymno 741 00, Greece",
+    "phone": "+302831055154"
+  },
+  {
+    "name": "Marble Luxury Suites",
+    "address": "Agiou Alexandrou, Karteros 715 00, Greece",
+    "phone": "+306974369422"
+  },
+  {
+    "name": "Asterion Studios",
+    "address": "Euaggelistrias 135, Karteros 715 00, Greece",
+    "phone": "13571500"
+  },
+  {
+    "name": "Alsus Crete Escape - Adults Only (OASIS)",
+    "address": "Faidtoi 3, Iraklio 714 09, Greece",
+    "phone": "+302810821010"
+  },
+  {
+    "name": "Candia Strada",
+    "address": "Back Building, Menexedon 3, Iraklio 714 09, Greece",
+    "phone": "+306977459144"
+  },
+  {
+    "name": "GD Gallery Suites",
+    "address": "Menexedon 3, Iraklio 714 09, Greece",
+    "phone": "+306977459144"
+  },
+  {
+    "name": "Petousis Hotel & Suites",
+    "address": "Leof. Andrea Papandreou 267, Iraklio 714 14, Greece",
+    "phone": "26771414"
+  },
+  {
+    "name": "Private Rooms with a Beautiful Veranda",
+    "address": "Ethnikis Antistaseos 31 &, Kritis, Iraklio 714 14, Greece",
+    "phone": "+306997462622"
+  },
+  {
+    "name": "Georgia's Garden Hotel",
+    "address": "Leof. Andrea Papandreou 7, Gazi 714 14, Greece",
+    "phone": "+302810261403"
+  },
+  {
+    "name": "Yianna Caravel",
+    "address": "Μήλου 12, Iraklio 714 14, Greece",
+    "phone": "+302810823729"
+  },
+  {
+    "name": "Ermis Luxury Suites & Apartments",
+    "address": "Dios 20, Skafidaras 715 00, Greece",
+    "phone": "+302810824724"
+  },
+  {
+    "name": "Vitoraki's Apartments",
+    "address": "Dios Street, Skafidaras 714 14, Greece",
+    "phone": "+306989606409"
+  },
+  {
+    "name": "Vanisko Hotel",
+    "address": "10 Vagias Str. Amoudara Linoperamata, Heraklion Gazi Crete 714 14, Greece",
+    "phone": "+302810251006"
+  },
+  {
+    "name": "Eleni Palace",
+    "address": "Satha 6, Iraklio 712 01, Greece",
+    "phone": "+306936980613"
+  },
+  {
+    "name": "Roxani Hotel",
+    "address": "Leof. Knosou 181, Iraklio 714 09, Greece",
+    "phone": "18171409"
+  },
+  {
+    "name": "Persephone's Project",
+    "address": "Leof. Andrea Papandreou 140, Gazi 714 14, Greece",
+    "phone": "14071414"
+  },
+  {
+    "name": "Mom's Cozy Corner",
+    "address": "Petropoulaki, Iraklio 712 01, Greece",
+    "phone": "+306981798258"
+  },
+  {
+    "name": "Arhodiko Hotel",
+    "address": "Irodotou 177, Nea Alikarnassos 716 01, Greece",
+    "phone": "17771601"
+  },
+  {
+    "name": "Traditional Studio Near Airport",
+    "address": "Leof. Andrea Papandreou 50, Gazi 714 14, Greece",
+    "phone": "+302810372700"
+  },
+  {
+    "name": "Saint George Hostel",
+    "address": "Palea EO Irakliou Agiou Nikolaou, Iraklio 712 01, Greece",
+    "phone": "+306977224120"
+  },
+  {
+    "name": "Omiros Boutique Hotel (Adults Only) 4 Stars",
+    "address": "Νικ. Κατεχάκη 7, Ritiou γωνια, Iraklio 713 07, Greece",
+    "phone": "+306985909169"
+  },
+  {
+    "name": "The Santo George Beach Resort",
+    "address": "Kon/nou Palama 17, Iraklio 713 06, Greece",
+    "phone": "+302810320921"
+  },
+  {
+    "name": "Poseidon Hotel",
+    "address": "Λεωφορος Πανεπιστημίου, Giofirakia 715 00, Greece",
+    "phone": "+306982211614"
+  },
+  {
+    "name": "Kronos Hotel",
+    "address": "Leof. Andrea Papandreou 28, Iraklio 714 14, Greece",
+    "phone": "+302810312921"
+  },
+  {
+    "name": "MARK HOTEL",
+    "address": "Leof. Andrea Papandreou 74, Ag. Dimitrios 714 14, Greece",
+    "phone": "+302810252302"
+  },
+  {
+    "name": "Alex's Studios",
+    "address": "Ainikolioti 8, Iraklio 712 01, Greece",
+    "phone": "+306947020856"
+  },
+  {
+    "name": "Mirabello Hotel",
+    "address": "Almirou 22, Iraklio 712 02, Greece",
+    "phone": "+302810336070"
+  },
+  {
+    "name": "Marirena Hotel",
+    "address": "712 02, Lordou Vironos 5, Iraklio 712 02, Greece",
+    "phone": "71202571202"
+  },
+  {
+    "name": "Anna Studio",
+    "address": "Niovis 1, Iraklio 713 05, Greece",
+    "phone": "+306981798258"
+  },
+  {
+    "name": "Irini",
+    "address": "Agiou Fanouriou 4, Nea Alikarnassos 716 01, Greece",
+    "phone": "+306943150842"
+  },
+  {
+    "name": "Amnisiades Appartments",
+    "address": "Pl. Kornarou 46, Iraklio 712 01, Greece",
+    "phone": "+302114181919"
+  },
+  {
+    "name": "Porta Medina Boutique Hotel",
+    "address": "Giampoudi 12, Iraklio 712 01, Greece",
+    "phone": "+302810285774"
+  },
+  {
+    "name": "Evans Hotel",
+    "address": "Thiseos 3, Iraklio 712 01, Greece",
+    "phone": "+306974320857"
+  },
+  {
+    "name": "Rodi Blue Apartments",
+    "address": "Pl. Agiou Titou 1, Iraklio 712 02, Greece",
+    "phone": "+302810221294"
+  },
+  {
+    "name": "Paralos Lifestyle Beach",
+    "address": "Tsakiri 11, Iraklio 712 01, Greece",
+    "phone": "+306958949506"
+  },
+  {
+    "name": "Apollonia Beach Resort & Spa - Ammoudara, Heraklion, Crete",
+    "address": "Doukos Mpofor 9, Iraklio 712 02, Greece",
+    "phone": "+302810305300"
+  },
+  {
+    "name": "Neptuno Beach Resort",
+    "address": "Papagiamali 1, Iraklio 712 02, Greece",
+    "phone": null
+  },
+  {
+    "name": "Pavo Art Hotel",
+    "address": "Lachana 10, Iraklio 712 02, Greece",
+    "phone": "+302810223280"
+  },
+  {
+    "name": "Domus Ariadne",
+    "address": "Leof. Eth. Antistaseos 89, Iraklio 713 06, Greece",
+    "phone": "+302810228526"
+  },
+  {
+    "name": "LAVRIS City Suites",
+    "address": "Agiou Mina 18, Iraklio 712 01, Greece",
+    "phone": "+302114181919"
+  },
+  {
+    "name": "Hotel REA",
+    "address": "Monis Kardiotissis 30, Iraklio 712 01, Greece",
+    "phone": "+306975852889"
+  },
+  {
+    "name": "Pasiphae Hotel",
+    "address": "Pl. Kornarou 43, Iraklio 712 01, Greece",
+    "phone": "+302810288861"
+  },
+  {
+    "name": "Agapi Beach Resort",
+    "address": "Theotokopoulou 22, Iraklio 712 02, Greece",
+    "phone": "+302810284185"
+  },
+  {
+    "name": "Sentido Unique Blue",
+    "address": "Leof. Ikarou 50, Iraklio 713 07, Greece",
+    "phone": "+302810243090"
+  },
+  {
+    "name": "Hotel heraklion",
+    "address": "Ὁδός 1821 4, Iraklio 712 01, Greece",
+    "phone": "1821471201"
+  },
+  {
+    "name": "Dolphin Bay",
+    "address": "Stadiou 57, Nea Alikarnassos 716 01, Greece",
+    "phone": "+302810240002"
+  },
+  {
+    "name": "Amounda Bay",
+    "address": "Ariadnis 9, Iraklio 712 02, Greece",
+    "phone": "+302810245525"
+  },
+  {
+    "name": "KARATARAKIS Hotels & Restaurants",
+    "address": "Agiou Fanouriou 15, Nea Alikarnassos 716 01, Greece",
+    "phone": "+302810331161"
+  },
+  {
+    "name": "Santa Marina",
+    "address": "Epimenidou 34, Iraklio 712 02, Greece",
+    "phone": "+302810228103"
+  },
+  {
+    "name": "Aptera Beach Hotel",
+    "address": "Pl. Kornarou 43, Iraklio 712 01, Greece",
+    "phone": "+302810288861"
+  },
+  {
+    "name": "Marilena Hotel",
+    "address": "Ὁδός 1821 4, Iraklio 712 01, Greece",
+    "phone": "1821471201"
+  },
+  {
+    "name": "Akti Corali Hotel",
+    "address": "Psaromiligkon 13, Iraklio 712 02, Greece",
+    "phone": "+306978339094"
+  },
+  {
+    "name": "Arkadi Hotel",
+    "address": "Λεωφόρος Ικάρου 50 και Ηροδότου, 713 06, Greece",
+    "phone": "+302810241455"
+  },
+  {
+    "name": "Anassa Suites 1",
+    "address": "Leof. Kalokerinou 128, Iraklio 712 02, Greece",
+    "phone": "12871202"
+  },
+  {
+    "name": "Καστέλλα",
+    "address": "Leof. Sofokli Venizelou 9, Iraklio 712 02, Greece",
+    "phone": "+302810300779"
+  },
+  {
+    "name": "Kouzeineri",
+    "address": "Θεσσαλονικης, Pl. Rhga Feraioi 5, Iraklio 712 01, Greece",
+    "phone": "+302810335224"
+  },
+  {
+    "name": "Athali Cretan Cuisine",
+    "address": "Kidonias 15, Iraklio 712 01, Greece",
+    "phone": "+302815200012"
+  },
+  {
+    "name": "Xalali",
+    "address": "Leof. Sofokli Venizelou 5, Iraklio 712 02, Greece",
+    "phone": "+302810282475"
+  },
+  {
+    "name": "Paralia",
+    "address": "Zotou, Iraklio 712 02, Greece",
+    "phone": "+302810256391"
+  },
+  {
+    "name": "Ntoré Gastronomy",
+    "address": "Πλατεία Ελευθερίας, Eleftherias Square 29, Iraklio 712 01, Greece",
+    "phone": "+302816007996"
+  },
+  {
+    "name": "Παραστιές Εστιατόριο Ηράκλειο Κρήτης",
+    "address": "Arkoleon 3, Iraklio 712 02, Greece",
+    "phone": "+302816007600"
+  },
+  {
+    "name": "Peskesi",
+    "address": "Αγίου τίτου, Evropis &, Iraklio 712 01, Greece",
+    "phone": "+302810346452"
+  },
+  {
+    "name": "Amalia's Kitchen",
+    "address": "Χανδακος, Leof. Sofokli Venizelou 81, Iraklio 712 02, Greece",
+    "phone": "+302810225009"
+  },
+  {
+    "name": "Ladokolla",
+    "address": "Kapetan Charalampi 6-8, Iraklio 712 02, Greece",
+    "phone": "+302810288887"
+  },
+  {
+    "name": "Vourvourladikon",
+    "address": "I. Merineli 21, Iraklio 712 02, Greece",
+    "phone": "+302810284706"
+  },
+  {
+    "name": "Erganos",
+    "address": "Pl. El. Venizelou 15, Iraklio 712 02, Greece",
+    "phone": "+306985864700"
+  },
+  {
+    "name": "Cooking with love",
+    "address": "Milatou 22, Iraklio 712 02, Greece",
+    "phone": "+302810280005"
+  },
+  {
+    "name": "Kiriakos",
+    "address": "202, Giamalaki 50, Iraklio 71, Greece",
+    "phone": "+302810331415"
+  },
+  {
+    "name": "Veneto",
+    "address": "Rousou Chourdou 8, Iraklio 712 01, Greece",
+    "phone": "+302810342618"
+  },
+  {
+    "name": "Merastri",
+    "address": "Thiseos 15, Iraklio 712 01, Greece",
+    "phone": "+302810334206"
+  },
+  {
+    "name": "The chickpea",
+    "address": "Meramvellou 4, Iraklio 712 02, Greece",
+    "phone": "+302810222312"
+  },
+  {
+    "name": "Via Pastarella",
+    "address": "Leof. Sofokli Venizelou 3, Iraklio 712 02, Greece",
+    "phone": "+302810280240"
+  },
+  {
+    "name": "Alla ki Alla \"est 1980\"",
+    "address": "Arkoleon 3-11, August street 90, 25th, Iraklio 712 02, Greece",
+    "phone": "311902571202"
+  },
+  {
+    "name": "La Brasa Heraklion",
+    "address": "Εφέσου 1, Iraklio 713 06, Greece",
+    "phone": "+306948135185"
+  },
+  {
+    "name": "Hovoli",
+    "address": "712 02, Ellis 25, Iraklio 134 51, Greece",
+    "phone": "712022513451"
+  },
+  {
+    "name": "Brillant Gourmet Restaurant",
+    "address": "Monis Kardiotissis 3, Iraklio 712 01, Greece",
+    "phone": "+302815002782"
+  },
+  {
+    "name": "Apiri greek_eatery",
+    "address": "kavpevtan Mavnoli Mpantouva 65, Iraklio 713 07, Greece",
+    "phone": "+302810223524"
+  },
+  {
+    "name": "Antipodas",
+    "address": "Chandakos 51, Iraklio 712 02, Greece",
+    "phone": "+302810341321"
+  },
+  {
+    "name": "Tazediko Tavern",
+    "address": "Karterou 9, Iraklio 712 01, Greece",
+    "phone": "+302810284017"
+  },
+  {
+    "name": "Baltas",
+    "address": "Λοχαγου, I. Merineli 21, Iraklio 712 02, Greece",
+    "phone": "+302811811087"
+  },
+  {
+    "name": "ουζερί του Τερζάκη από το 1978 / ouzeri tou Terzaki est. 1978",
+    "address": "Ariadnis 5, Iraklio 712 01, Greece",
+    "phone": "+302810240117"
+  },
+  {
+    "name": "Koukouvaya Heraklion",
+    "address": "Monis Agkarathou 11, Iraklio 712 02, Greece",
+    "phone": "+302810221027"
+  },
+  {
+    "name": "O,ti Thes",
+    "address": "Leof. Sofokli Venizelou 53, Iraklio 712 02, Greece",
+    "phone": "+306945367035"
+  },
+  {
+    "name": "Umami Homemade Organic & Vegan Restaurant",
+    "address": "Ideou Antrou 11, Iraklio 712 02, Greece",
+    "phone": "+306943054697"
+  },
+  {
+    "name": "Paradosiakon",
+    "address": "Leof. Ionias 183, Iraklio 713 06, Greece",
+    "phone": "18371306"
+  },
+  {
+    "name": "Giakoumēs",
+    "address": "Agiou Titou 4, Iraklio 712 02, Greece",
+    "phone": "+302810331666"
+  },
+  {
+    "name": "The Fifty",
+    "address": "Kidonias 20, Iraklio 712 02, Greece",
+    "phone": "+302810280380"
+  },
+  {
+    "name": "Veranda",
+    "address": "Par. Minotavrou, Iraklio 712 02, Greece",
+    "phone": "+302810344161"
+  },
+  {
+    "name": "ΤΑΒΕΡΝΑΚΙ Ο ΜΑΓΟΣ",
+    "address": "Leof. Dimokratias 75, Iraklio 713 06, Greece",
+    "phone": "+302810215199"
+  },
+  {
+    "name": "Siga Siga",
+    "address": "Idomeneos &, Agiou Titou str, Iraklio 712 02, Greece",
+    "phone": "+302810288116"
+  },
+  {
+    "name": "Uncle Thymios",
+    "address": "Αγίου Τίτου 22, Ηράκλειο, Agiou Titou 22, Heraklio 712 02, Greece",
+    "phone": "222271202"
+  },
+  {
+    "name": "Tartufo",
+    "address": "Plateia Eleftherias 29a, 5th Floor, Iraklio 712 01, Greece",
+    "phone": "29571201"
+  },
+  {
+    "name": "The Home",
+    "address": "Agiou Titou 20, Iraklio 712 02, Greece",
+    "phone": "+306945682680"
+  },
+  {
+    "name": "Olive Trees Restaurant",
+    "address": "Leof. Ionias 208, Iraklio 713 05, Greece",
+    "phone": "20871305"
+  },
+  {
+    "name": "DISH BAR PARTY RESTAURANT",
+    "address": "Milatou 7, Iraklio 712 02, Greece",
+    "phone": "+302810222242"
+  },
+  {
+    "name": "En Plo",
+    "address": "Leof. Dimokratias 75, Iraklio 713 06, Greece",
+    "phone": "+302810215162"
+  },
+  {
+    "name": "Avli Bar Restaurant",
+    "address": "25th Avgoustou 10-12, Iraklio 712 02, Greece",
+    "phone": "25101271202"
+  },
+  {
+    "name": "Lola",
+    "address": "1866 77-1, Iraklio 712 01, Greece",
+    "phone": "186677171201"
+  },
+  {
+    "name": "Erasitexnes Psarades",
+    "address": "Korai 16, Iraklio 712 02, Greece",
+    "phone": "+302811810390"
+  },
+  {
+    "name": "Kanatelias Lunch",
+    "address": "Iraklitou και, Ν.Αλικαρνασος 716 01, Greece",
+    "phone": "+302810342945"
+  },
+  {
+    "name": "Vranas",
+    "address": "Charkoutsi 13, Iraklio 712 02, Greece",
+    "phone": "+302814005445"
+  },
+  {
+    "name": "5th Restaurant",
+    "address": "Leof. Ikarou 35, Nea Alikarnassos 716 01, Greece",
+    "phone": "+302810244242"
+  },
+  {
+    "name": "Pagopoieîon",
+    "address": "Idis 7, Iraklio 712 01, Greece",
+    "phone": "+302810333440"
+  },
+  {
+    "name": "I treis Mouries",
+    "address": "Idis 6, Iraklio 712 01, Greece",
+    "phone": "+302810390222"
+  },
+  {
+    "name": "Central Park",
+    "address": "Agiou Titou 10, Iraklio 712 02, Greece",
+    "phone": "+302810286000"
+  },
+  {
+    "name": "Tempelis",
+    "address": "Monofatsiou 12, Iraklio 712 01, Greece",
+    "phone": "+302810226286"
+  },
+  {
+    "name": "Thraka Restaurant (Θράκα)",
+    "address": "Gerasimou Pardali 5, Iraklio 712 01, Greece",
+    "phone": "+306983776715"
+  },
+  {
+    "name": "Tavern Cafe Dimitris - Heraklion",
+    "address": "Odós 1878 21, Iraklio 712 02, Greece",
+    "phone": "18782171202"
+  },
+  {
+    "name": "Vardis Taverna",
+    "address": "Sapoutie 10, Iraklio 712 02, Greece",
+    "phone": "+302810226472"
+  },
+  {
+    "name": "Politia",
+    "address": "Apostolou Pavlou, Iraklio 712 02, Greece",
+    "phone": "+302810322322"
+  },
+  {
+    "name": "Arismari & Varsamo",
+    "address": "Plateia Eleftherias 43, Iraklio 712 01, Greece",
+    "phone": "+302810302922"
+  },
+  {
+    "name": "Ellinikon",
+    "address": "Leof. Sofokli Venizelou, Iraklio 712 02, Greece",
+    "phone": "+302810341066"
+  },
+  {
+    "name": "Papi Osteria Cafeteria",
+    "address": "Leof. Sofokli Venizelou, Iraklio 712 02, Greece",
+    "phone": "+306945367035"
+  },
+  {
+    "name": "Kalamaki Meat Bar",
+    "address": "Λυσιμάχου Καλοκαιρινού 10, Plateia Istorikoy Mousseiou, Iraklion, Crete 712 02, Greece",
+    "phone": "+302810300670"
+  },
+  {
+    "name": "Amethistos",
+    "address": "Pl. Kallergon 98, Iraklio 712 02, Greece",
+    "phone": "+302810222402"
+  },
+  {
+    "name": "Τρίαινα",
+    "address": "Grèce 3, Kianis Aktis, Iraklio 713 07, Greece",
+    "phone": "+306974642311"
+  },
+  {
+    "name": "The cafe of Kagiampi",
+    "address": "Milatou, &, Meramvellou 2, Iraklio 712 02, Greece",
+    "phone": "+302810229009"
+  },
+  {
+    "name": "Mailo’s Heraklion",
+    "address": "Pl. Daskalogianni 1, Iraklio 712 02, Greece",
+    "phone": "+302810224488"
+  },
+  {
+    "name": "Doukas Art",
+    "address": "Leof. Ikarou 84, Iraklio 716 01, Greece",
+    "phone": "+302810243003"
+  },
+  {
+    "name": "Chop Chop.",
+    "address": "Arkoleon 19, Iraklio 712 02, Greece",
+    "phone": "+302810346500"
+  },
+  {
+    "name": "Delly's Casual Restaurant Heraklion",
+    "address": "Pl. Agiou Titou 1, Iraklio 712 02, Greece",
+    "phone": "+302810221294"
+  },
+  {
+    "name": "παλιά λαχαναγορά",
+    "address": "D. Beaufort 9, Iraklio 712 02, Greece",
+    "phone": "+302810305200"
+  },
+  {
+    "name": "Monastiraki Kebab",
+    "address": "Tsikritzi 15, Iraklio 712 01, Greece",
+    "phone": "+302810285770"
+  },
+  {
+    "name": "7 Thalases",
+    "address": "Kidonias 21, Iraklio 712 02, Greece",
+    "phone": "+302810224827"
+  },
+  {
+    "name": "Hērákleion",
+    "address": "Karterou 13, Iraklio 712 01, Greece",
+    "phone": "+302810288554"
+  },
+  {
+    "name": "Τρατα",
+    "address": "Leof. Nearchou 10, Iraklio 713 06, Greece",
+    "phone": "+302810240946"
+  },
+  {
+    "name": "Wasabi Sushi & Noodles Bar",
+    "address": "Egeou, Iraklio 713 07, Greece",
+    "phone": "+302810333338"
+  },
+  {
+    "name": "La Notte Heraklion",
+    "address": "Kantanoleontos 1, Iraklio 712 02, Greece",
+    "phone": "+302810346156"
+  },
+  {
+    "name": "Per Se Lounge Bar & Restaurant",
+    "address": "Παπαγιαμαλή, Pl. Agiou Titou 03, Iraklio 712 02, Greece",
+    "phone": "+302810227118"
+  },
+  {
+    "name": "Don Vito",
+    "address": "Leof. Nearchou 10, Iraklio 713 06, Greece",
+    "phone": "+302810223812"
+  },
+  {
+    "name": "Ara..zw \"Restaurant\" \"Εστιατόριο\" Αρα..ζω",
+    "address": "Perdikari 1, Iraklio 712 02, Greece",
+    "phone": "+302816008172"
+  },
+  {
+    "name": "Orgy Hungarian Restaurant",
+    "address": "Geor. Papandreou 92, Iraklio 713 05, Greece",
+    "phone": "+302810222103"
+  },
+  {
+    "name": "Lokal",
+    "address": "Minotavrou 2, Iraklio 712 02, Greece",
+    "phone": "+302810283794"
+  },
+  {
+    "name": "Toucan heraklion",
+    "address": "Milatou 6, Iraklio 222 02, Greece",
+    "phone": "+302810227850"
+  },
+  {
+    "name": "Vetri Restaurant",
+    "address": "Vourvachon 9, Iraklio 712 02, Greece",
+    "phone": "+302810342927"
+  },
+  {
+    "name": "Petoúsēs",
+    "address": "Ίδης &, Pl. El. Venizelou 6, Iraklio 712 01, Greece",
+    "phone": "+302810336102"
+  },
+  {
+    "name": "beer o'clock",
+    "address": "Αργυράκη, Kagiampi 2, Iraklio 712 01, Greece",
+    "phone": "+302810286220"
+  },
+  {
+    "name": "Wok Spot",
+    "address": "25th Avgoustou 96, Iraklio 712 02, Greece",
+    "phone": "259671202"
+  },
+  {
+    "name": "Ο Στράτος",
+    "address": "Plastira 85, Iraklio 712 01, Greece",
+    "phone": "+302810226870"
+  },
+  {
+    "name": "Curry Park",
+    "address": "φωτιου θεοδωσακη 8, 712 01, Greece",
+    "phone": "+302810284039"
+  },
+  {
+    "name": "Φούλ Του Μεζέ",
+    "address": "I. Merineli 17, Iraklio 712 02, Greece",
+    "phone": "+302810221444"
+  },
+  {
+    "name": "Tavern Dimitris - Heraklion",
+    "address": "Meramvellou 3, Iraklio 712 02, Greece",
+    "phone": "+306944842085"
+  },
+  {
+    "name": "Plani restaurant - Πλάνη Ἑστιατόριον",
+    "address": "Milatou 13, Iraklio 712 02, Greece",
+    "phone": "+302810283307"
+  },
+  {
+    "name": "Μπιτιρίνης Bitirinis Fish Street Food",
+    "address": "El. Venizelou 12 (4 Lions square), Iraklio 712 02, Greece",
+    "phone": "12471202"
+  },
+  {
+    "name": "O gyros tou Giannari",
+    "address": "Ground, Floor, Epimenidou 15, Iraklio 712 02, Greece",
+    "phone": "+302810334959"
+  },
+  {
+    "name": "Utopia",
+    "address": "I. Merineli 11, Iraklio 712 02, Greece",
+    "phone": "+302810287863"
+  },
+  {
+    "name": "Μαγειρείον Μελομπερδέματα (κ. Ελένη)",
+    "address": "Kagiampi 16, Iraklio 712 01, Greece",
+    "phone": "+302810240004"
+  },
+  {
+    "name": "Ontas Tavern",
+    "address": "Chrisostomou 17, Iraklio 713 06, Greece",
+    "phone": "+302810221910"
+  },
+  {
+    "name": "Katsínas",
+    "address": "Meramvellou 9, Iraklio 712 02, Greece",
+    "phone": "+302814004423"
+  },
+  {
+    "name": "Grandpa's Pie",
+    "address": "Korai 13, Iraklio 712 02, Greece",
+    "phone": "+302810343236"
+  },
+  {
+    "name": "The New China",
+    "address": "Αγίων Δέκα 5 &, Kagiampi, Iraklio 712 01, Greece",
+    "phone": "+302810342228"
+  },
+  {
+    "name": "Kantina Kritikos",
+    "address": "Kantanoleontos 2, Iraklio 712 02, Greece",
+    "phone": "+302810280505"
+  },
+  {
+    "name": "Fast Vegan Food",
+    "address": "Milatou 7-9, Iraklio 712 02, Greece",
+    "phone": "+302810334365"
+  },
+  {
+    "name": "Παπουτσωμένος Ντάκος Ἡράκλειον - Papoutsomenos Dakos Heraklion",
+    "address": "Pl. Daskalogianni, Iraklio 712 02, Greece",
+    "phone": "+302810220320"
+  },
+  {
+    "name": "Talos Plaza",
+    "address": "Anopoleos 4, Iraklio 712 01, Greece",
+    "phone": "+302810342771"
+  },
+  {
+    "name": "Block62",
+    "address": "Leof. 62 Martiron 146, Iraklio 713 03, Greece",
+    "phone": "6214671303"
+  },
+  {
+    "name": "Hondos Center",
+    "address": "Sofikli Venizelou, Minoos & Pelasgon Σοφοκλή Bενιζέλου, Μίνωος &, Pelasgon, Iraklio 713 03, Greece",
+    "phone": "+302810255555"
+  },
+  {
+    "name": "J&S ΠΟΛΗΚΑΤΑΣΤΗΜΑ",
+    "address": "Koroneou 10, 71202, Iraklio 712 02, Greece",
+    "phone": "107120271202"
+  },
+  {
+    "name": "J&S ΠΟΛΗΚΑΤΑΣΤΗΜΑ",
+    "address": "Leof. Knosou 125, Iraklio 714 09, Greece",
+    "phone": "12571409"
+  },
+  {
+    "name": "Prenatal",
+    "address": "Dedalou 20, Iraklio 712 02, Greece",
+    "phone": "+302810287241"
+  },
+  {
+    "name": "Esthis",
+    "address": "Sapoutie 2, Iraklio 712 02, Greece",
+    "phone": "+302813014081"
+  },
+  {
+    "name": "Piazza Italia",
+    "address": "Averof 1, Iraklio 712 01, Greece",
+    "phone": "+302810283531"
+  },
+  {
+    "name": "Mayaba Store",
+    "address": "Leof. Steliou Kazantzidi 2, Nea Alikarnassos 714 09, Greece",
+    "phone": "+302810336878"
+  },
+  {
+    "name": "Irida Family Workshop",
+    "address": "25ης Αυγούστου, Pl. Agiou Titou &, Iraklio 712 02, Greece",
+    "phone": "+302810337900"
+  },
+  {
+    "name": "Talos Shoes",
+    "address": "Leof. Kalokerinou 15-17, Iraklio 712 01, Greece",
+    "phone": "151771201"
+  },
+  {
+    "name": "Tommy Hilfiger Heraklion",
+    "address": "Εμπορικό Κέντρο Talos Plaza Σοφοκλή Βενιζέλου, Μίνωος &, Iraklio 713 03, Greece",
+    "phone": "+302810255990"
+  },
+  {
+    "name": "Divani Palace Larissa",
+    "address": "Ammochostou 19, Larisa 413 35, Greece",
+    "phone": "+302410660220"
+  },
+  {
+    "name": "Grecotel Larissa Imperial",
+    "address": "23is Oktovriou 30, Larisa 412 23, Greece",
+    "phone": "233041223"
+  },
+  {
+    "name": "Grecotel Larissa Imperial",
+    "address": "Kentavron 10, Larisa 412 22, Greece",
+    "phone": "+302410537401"
+  },
+  {
+    "name": "Divani Palace Larissa",
+    "address": "Papakiriazi 16, Larisa 412 22, Greece",
+    "phone": "+302410257711"
+  },
+  {
+    "name": "Olympus Terra Boutique Hotel",
+    "address": "Οδός Υγείας Μεζούρλο, Larisa 411 10, Greece",
+    "phone": "+302410614040"
+  },
+  {
+    "name": "Dionisos Hotel",
+    "address": "Al. Papagou 36, Giannouli 415 00, Greece",
+    "phone": "+302410593939"
+  },
+  {
+    "name": "Grand Hotel",
+    "address": "Farsalon 182, Larisa 413 35, Greece",
+    "phone": "18241335"
+  },
+  {
+    "name": "Comfort Suites & Rooms",
+    "address": "Papanastasiou 19, Larisa 412 22, Greece",
+    "phone": "+302410252791"
+  },
+  {
+    "name": "Achillion Hotel Larisa",
+    "address": "Papanastasiou 19, Larisa 412 22, Greece",
+    "phone": "+302410252791"
+  },
+  {
+    "name": "Φοινικας",
+    "address": "Farsalon 182, Larisa 413 35, Greece",
+    "phone": "18241335"
+  },
+  {
+    "name": "Louis, G. R., S.A.",
+    "address": "Πλατεία ΟΣΕ 4, 412 22, Greece",
+    "phone": "+302410234810"
+  },
+  {
+    "name": "Hotel Metropol Larissa",
+    "address": "Skarlatou Soutsou 1, Larisa 412 22, Greece",
+    "phone": null
+  },
+  {
+    "name": "Park Hotel",
+    "address": "Papakiriazi 61, Larisa 412 22, Greece",
+    "phone": null
+  },
+  {
+    "name": "hotel Acropol",
+    "address": "Venizelou 142 Α, Larisa 412 22, Greece",
+    "phone": "14241222"
+  },
+  {
+    "name": "Helena Hotel",
+    "address": "Rousvelt 14, Larisa 412 22, Greece",
+    "phone": "+302410537161"
+  },
+  {
+    "name": "hotel International",
+    "address": "Πλ. OΣΕ, Larisa 412 23, Greece",
+    "phone": "+302410234210"
+  },
+  {
+    "name": "PANTHEON HOTEL",
+    "address": "28is Oktovriou 13, Larisa 412 23, Greece",
+    "phone": "281341223"
+  },
+  {
+    "name": "Ambassadeur",
+    "address": "31is Avgoustou 1 - Ogl, Larisa 412 21, Greece",
+    "phone": "31141221"
+  },
+  {
+    "name": "Mpakalógatos",
+    "address": "Panos 11, Larisa 412 22, Greece",
+    "phone": "+302410536729"
+  },
+  {
+    "name": "Jasmin",
+    "address": "413 35, Antiparou 11, Larisa 413 35, Greece",
+    "phone": "413351141335"
+  },
+  {
+    "name": "BARRICOU",
+    "address": "Asklipiou 21, Larisa 412 22, Greece",
+    "phone": "+302410415415"
+  },
+  {
+    "name": "Nonna Rossa",
+    "address": "Kallitheas 1, Larisa 412 22, Greece",
+    "phone": "+302410530108"
+  },
+  {
+    "name": "iL Fiore",
+    "address": "Karaiskaki 4, Larisa 412 22, Greece",
+    "phone": "+302410535042"
+  },
+  {
+    "name": "Bukowski Eatery&Drink",
+    "address": "Papaflessa 24, Larisa 412 21, Greece",
+    "phone": "+302410257898"
+  },
+  {
+    "name": "CHATZIGIANNIS LARISSA",
+    "address": "Patroklou 9, Larisa 412 22, Greece",
+    "phone": "+302410531550"
+  },
+  {
+    "name": "Ladókola",
+    "address": "Xanthou 6, Larisa 412 21, Greece",
+    "phone": "+302410258132"
+  },
+  {
+    "name": "Νικόδημος",
+    "address": "Skilosofou 9, Larisa 412 21, Greece",
+    "phone": "+302410412352"
+  },
+  {
+    "name": "Ladophánaro",
+    "address": "48, Filellinon 36, Larisa 412 21, Greece",
+    "phone": "483641221"
+  },
+  {
+    "name": "Loúkoullos",
+    "address": "Nikitara 49, Larisa 412 21, Greece",
+    "phone": null
+  },
+  {
+    "name": "Ten Doors gastrobar",
+    "address": "18, Garivaldi 16, Larisa 412 21, Greece",
+    "phone": "181641221"
+  },
+  {
+    "name": "To Paradosiako",
+    "address": "Ioanninon 19, Larisa 412 22, Greece",
+    "phone": "+302410613403"
+  },
+  {
+    "name": "En Larísi (In Larisa)",
+    "address": "Filellinon 78, Larisa 412 21, Greece",
+    "phone": "+306947813209"
+  },
+  {
+    "name": "Fortress",
+    "address": "Ir. Politechniou 185, Larisa 412 23, Greece",
+    "phone": "18541223"
+  },
+  {
+    "name": "Mproúsko",
+    "address": "Argirakouli 16, Larisa 413 34, Greece",
+    "phone": "+302410624195"
+  },
+  {
+    "name": "Kymmatolḗgē",
+    "address": "Mandilara 28, Larisa 412 22, Greece",
+    "phone": "+302411811478"
+  },
+  {
+    "name": "CITY LINE Coffeebar & Restaurant",
+    "address": "4km, Κων/νου Καραμανλή Avenue, Larisa 413 35, Greece",
+    "phone": "+302410671376"
+  },
+  {
+    "name": "Fluxus",
+    "address": "Sokratous 48, Larisa 413 36, Greece",
+    "phone": "+302410286644"
+  },
+  {
+    "name": "Ακαμάτρα - Akamatra",
+    "address": "Georgiadou 30, Larisa 412 21, Greece",
+    "phone": "+302410251312"
+  },
+  {
+    "name": "Fluxus",
+    "address": "Filellinon 60, Larisa 412 21, Greece",
+    "phone": "+302414006699"
+  },
+  {
+    "name": "WOK n' ROLL",
+    "address": "Ηπείρου και Ταγματάρχου Βελισσαρίου, Larisa 412 22, Greece",
+    "phone": "+302410234110"
+  },
+  {
+    "name": "Matylli Ouzeri",
+    "address": "Asklipiou 33, Larisa 412 22, Greece",
+    "phone": "+306971583127"
+  },
+  {
+    "name": "Na me thimase",
+    "address": "28is Oktovriou 106, Larisa 412 23, Greece",
+    "phone": "2810641223"
+  },
+  {
+    "name": "Makis from 1974(Larissa's fortress)",
+    "address": "Defkalionos 9Α, Larisa 412 22, Greece",
+    "phone": "+306971946686"
+  },
+  {
+    "name": "Kapēleió",
+    "address": "Kouma 4, Larisa 412 22, Greece",
+    "phone": "+302410254430"
+  },
+  {
+    "name": "Παραδοσιακή Ταβέρνα το Παραμύθι",
+    "address": "Mandilara 21, Larisa 412 22, Greece",
+    "phone": "+302410251151"
+  },
+  {
+    "name": "Mproúsko",
+    "address": "Λεωφ Konstantinou Karamanli 37, Larisa 413 35, Greece",
+    "phone": "+302416007481"
+  },
+  {
+    "name": "Καφενείο \"Λάσκα\"",
+    "address": "Dim. Karaoli 6, Larisa 413 34, Greece",
+    "phone": "+302410610061"
+  },
+  {
+    "name": "to eat",
+    "address": "Tripoleos 6, Larisa 413 36, Greece",
+    "phone": "+302410234240"
+  },
+  {
+    "name": "BD Rice Noodle & Sushi",
+    "address": "Anthimou Gazi 26, Larisa 412 22, Greece",
+    "phone": "+302410259703"
+  },
+  {
+    "name": "BRELLAS GRILL",
+    "address": "Ossis 2-6, Larisa 412 21, Greece",
+    "phone": "+302413016520"
+  },
+  {
+    "name": "Βόσπορος | Restaurant • Bar",
+    "address": "Davaki 40, Larisa 413 34, Greece",
+    "phone": "+302410614879"
+  },
+  {
+    "name": "Klaras Konstantinos",
+    "address": "Panagouli 56, Larisa 412 22, Greece",
+    "phone": "+302414012928"
+  },
+  {
+    "name": "Las Ramblas Coffeebar",
+    "address": "Ir. Politechniou 17, Larisa 412 22, Greece",
+    "phone": "+302410616333"
+  },
+  {
+    "name": "B&B Burgers & Burritos Bar",
+    "address": "Venizelou 137, Larisa 412 22, Greece",
+    "phone": "13741222"
+  },
+  {
+    "name": "Βασιλικός The Food Bar Project",
+    "address": "εκκλησια Αγια Σοφια, Rodopis 50, Larisa 413 35, Greece",
+    "phone": "+306974790783"
+  },
+  {
+    "name": "Margo Kitchen Bar",
+    "address": "18α &, Καραγάτση, Valaoritou και, Larisa 412 21, Greece",
+    "phone": "+302410284204"
+  },
+  {
+    "name": "Steakhouse Pindos",
+    "address": "Κύπρου 93 31, ΑΥΓΟΥΣΤΟΥ 19, Larisa 412 22, Greece",
+    "phone": "93311941222"
+  },
+  {
+    "name": "Η Φωλιά Της Γεύσης",
+    "address": "Asklipiou 40, Larisa 412 22, Greece",
+    "phone": "+302410626508"
+  },
+  {
+    "name": "Soul Kitchen eatery wine",
+    "address": "και, 25ης Μαρτίου και Στρ. Φράγκου, Larisa 412 21, Greece",
+    "phone": "+302410284036"
+  },
+  {
+    "name": "Adamos",
+    "address": "Korai 4, Larisa 412 23, Greece",
+    "phone": "+302416002450"
+  },
+  {
+    "name": "Filarakia-Larisa",
+    "address": "Larissas - Kozanis Rd (2nd km), Larissa, 41001, Greece",
+    "phone": "+302410253245"
+  },
+  {
+    "name": "Kokus Cafe",
+    "address": "15, Kallitheas 13, Larisa 412 22, Greece",
+    "phone": "151341222"
+  },
+  {
+    "name": "to eat",
+    "address": "Mavrogenous 23, Larisa 413 34, Greece",
+    "phone": "+302410611762"
+  },
+  {
+    "name": "Pizza Milano",
+    "address": "Filellinon 57, Larisa 412 21, Greece",
+    "phone": "+302410283007"
+  },
+  {
+    "name": "Pizza Italiko",
+    "address": "Filellinon 28-30, Larisa 412 22, Greece",
+    "phone": "283041222"
+  },
+  {
+    "name": "Le Papillon Creperie",
+    "address": "Apollonos 9, Larisa 412 22, Greece",
+    "phone": "+302416007670"
+  },
+  {
+    "name": "Pame plateia",
+    "address": "Papaflessa 13-17, Larisa 412 21, Greece",
+    "phone": "131741221"
+  },
+  {
+    "name": "Phagadḗmos",
+    "address": "Maximou Margouniou 6, Larisa 414 47, Greece",
+    "phone": "+302410258749"
+  },
+  {
+    "name": "Queen's Bar-Restaurant",
+    "address": "Defkalionos 12, Larisa 412 22, Greece",
+    "phone": null
+  },
+  {
+    "name": "Klimax",
+    "address": "Mitropoulou 11, Larisa 412 21, Greece",
+    "phone": "+302410230845"
+  },
+  {
+    "name": "Passerella Cafe Bar Restaurant",
+    "address": "Rousvelt 35, Larisa 412 22, Greece",
+    "phone": "+302410553664"
+  },
+  {
+    "name": "Fatto sto cheri",
+    "address": "Manolaki 9, Larisa 412 22, Greece",
+    "phone": "+302410253531"
+  },
+  {
+    "name": "Estrella Λάρισα",
+    "address": "V Soma Stratou 12, Larisa 413 34, Greece",
+    "phone": "+302410616606"
+  },
+  {
+    "name": "THE ALLEY",
+    "address": "34, Papaflessa 24, Larisa 412 21, Greece",
+    "phone": "342441221"
+  },
+  {
+    "name": "Casa della Pizza Νικηταρά",
+    "address": "Frixou 3, Larisa 412 22, Greece",
+    "phone": "+302413019199"
+  },
+  {
+    "name": "nous - meal in package",
+    "address": "Nikitara 73, Larisa 412 21, Greece",
+    "phone": "+302410237060"
+  },
+  {
+    "name": "Ladókolla",
+    "address": "Patroklou 5, Larisa 412 22, Greece",
+    "phone": "+302410250029"
+  },
+  {
+    "name": "Kordalis",
+    "address": "Venizelou 115, Larisa 412 22, Greece",
+    "phone": "11541222"
+  },
+  {
+    "name": "Σουβλάκι Κουτίνας",
+    "address": "Ifaistou & Eleftheriou Venizelou, Larisa 412 21, Greece",
+    "phone": "+302410251108"
+  },
+  {
+    "name": "Ta Deonta",
+    "address": "Frixou 4, Larisa 412 22, Greece",
+    "phone": "+302410533995"
+  },
+  {
+    "name": "Blume - Good times",
+    "address": "Athanasiou Diakou 7, Larisa 412 22, Greece",
+    "phone": "+302410535325"
+  },
+  {
+    "name": "Sarantáporo",
+    "address": "Νικηταρά 2 &, 23is Oktovriou, Larisa 412 21, Greece",
+    "phone": "22341221"
+  },
+  {
+    "name": "to eat",
+    "address": "-80, Ir. Politechniou 78, Larisa 412 23, Greece",
+    "phone": "807841223"
+  },
+  {
+    "name": "Πράσσειν Άλογα",
+    "address": "Rousvelt 32, Larisa 412 22, Greece",
+    "phone": "+302410252678"
+  },
+  {
+    "name": "Papaioannou John",
+    "address": "Georgiadou 2, Larisa 414 47, Greece",
+    "phone": "+302410286005"
+  },
+  {
+    "name": "ORIGINAL BURGER",
+    "address": "1is Merarchias 15, Larisa 413 34, Greece",
+    "phone": "11541334"
+  },
+  {
+    "name": "Παραδοσιακό (Φρούριο)",
+    "address": "Sokratous 78, Larisa 412 21, Greece",
+    "phone": "+302410552722"
+  },
+  {
+    "name": "Τα πλατάνια",
+    "address": "Periferiakos Larisas, Larisa 413 35, Greece",
+    "phone": null
+  },
+  {
+    "name": "Το Λιμανάκι",
+    "address": "31is Avgoustou, Larisa 412 21, Greece",
+    "phone": "+302410555635"
+  },
+  {
+    "name": "450°C Pizza",
+    "address": "Panos 9, Larisa 412 22, Greece",
+    "phone": "+302410530566"
+  },
+  {
+    "name": "Θέμα Γεύσης",
+    "address": "28is Oktovriou 34, Larisa 412 23, Greece",
+    "phone": "283441223"
+  },
+  {
+    "name": "Ταβέρνα ΠΥΘΑΡΙ",
+    "address": "soul Kitchen eatery & wine, Farsalon 101, Larisa 413 35, Greece",
+    "phone": "10141335"
+  },
+  {
+    "name": "Tsipourartikon",
+    "address": "Dim. Karaoli 12, Larisa 413 34, Greece",
+    "phone": "+302410613150"
+  },
+  {
+    "name": "12 ώρες",
+    "address": "Γεωργιάδου και Φιλελλήνων, Larisa 412 21, Greece",
+    "phone": "+302410530847"
+  },
+  {
+    "name": "Kotopolis",
+    "address": "Defkalionos 12, Larisa 412 22, Greece",
+    "phone": "+306937167589"
+  },
+  {
+    "name": "Varkiza Pizza House",
+    "address": "Apollonos 8, Larisa 412 22, Greece",
+    "phone": "+302411110390"
+  },
+  {
+    "name": "to eat",
+    "address": "Grigoriou Lampraki 29, Larisa 414 47, Greece",
+    "phone": "+302410253771"
+  },
+  {
+    "name": "ouzo Mostra",
+    "address": "V Soma Stratou 22, Larisa 413 34, Greece",
+    "phone": "+302410672840"
+  },
+  {
+    "name": "Cocotte",
+    "address": "Apollonos 1, Larisa 412 22, Greece",
+    "phone": "+302410613407"
+  },
+  {
+    "name": "Ο Μάκης",
+    "address": "Manolaki 13, Larisa 412 22, Greece",
+    "phone": "+302410418580"
+  },
+  {
+    "name": "Το Παγώνι",
+    "address": "Asklipiou 27, Larisa 412 22, Greece",
+    "phone": "+302410531774"
+  },
+  {
+    "name": "Bier Center Larisa",
+    "address": "Papakiriazi 36, Larisa 412 22, Greece",
+    "phone": "+302410254577"
+  },
+  {
+    "name": "McDonald's",
+    "address": "Lamprou Katsoni 8, Larisa 412 23, Greece",
+    "phone": "+302410283621"
+  },
+  {
+    "name": "Elixḗrio",
+    "address": "Garefi 7, Larisa 412 22, Greece",
+    "phone": "+302410532200"
+  },
+  {
+    "name": "Goody's Burger House",
+    "address": "Androutsou 4, Larisa 412 22, Greece",
+    "phone": "+302413017398"
+  },
+  {
+    "name": "Pit n' Roll Streat Food",
+    "address": "Athanasiou Diakou 5, Larisa 412 22, Greece",
+    "phone": "+302414002577"
+  },
+  {
+    "name": "33 Grada",
+    "address": "Filellinon 38, Larisa 413 35, Greece",
+    "phone": "+302410259873"
+  },
+  {
+    "name": "Το Σταθμαρχείο",
+    "address": "1ο χλμ Λάρισας, Αθηνών, Larisa 413 35, Greece",
+    "phone": "+306974795618"
+  },
+  {
+    "name": "Maison du Brunch",
+    "address": "Patroklou 4, Larisa 412 22, Greece",
+    "phone": "+302416007555"
+  },
+  {
+    "name": "Familia Pizza",
+    "address": "Vironos 5, Larisa 412 21, Greece",
+    "phone": "+302414003803"
+  },
+  {
+    "name": "Nitsakos, th.,& SIA O.E.",
+    "address": "Skarlatou Soutsou 11, Larisa 412 22, Greece",
+    "phone": "+306984414079"
+  },
+  {
+    "name": "Μεζέ Μεζέ",
+    "address": "Panos 8, Larisa 412 22, Greece",
+    "phone": "+302411103342"
+  },
+  {
+    "name": "Pizza Napolitana",
+    "address": "Androutsou 4, Larisa 412 22, Greece",
+    "phone": "+302413017398"
+  },
+  {
+    "name": "Ouzeri-Tavern Rapsani",
+    "address": "Apollonos, Larisa 412 22, Greece",
+    "phone": "+306978687427"
+  },
+  {
+    "name": "Αποκέντρωση",
+    "address": "Λόφος Φρουρίου, Larisa 414 47, Greece",
+    "phone": "+302410251707"
+  },
+  {
+    "name": "Πούλ Πούλ",
+    "address": "Dimitras Galani 3, Larisa 413 35, Greece",
+    "phone": "+302410660912"
+  }
+]
