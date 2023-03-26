@@ -9,9 +9,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Greece';
+exports.country = 'Hungary';
 const country = this.country;
-const cities = ['Patras', 'Heraklion', 'Larissa'];
+const cities = ['Budapest', 'Debrecen', 'Miskolc', 'Szeged', 'Pécs'];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
 const options = {
