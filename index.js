@@ -9,9 +9,15 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Italy';
+exports.country = 'Kuwait';
 const country = this.country;
-const cities = ['Rome', 'Milan', 'Naples', 'Turin', 'Palermo'];
+const cities = [
+  'Kuwait City',
+  'Hawalli',
+  'Salmiya',
+  'Al Farwaniyah',
+  'Al Jahra',
+];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
 const options = {

@@ -1,0 +1,1164 @@
+[
+  {
+    "name": "Hotel Sara",
+    "address": "rr. Shkupi, Veternik, Prishtina 10000",
+    "phone": "+38138600222"
+  },
+  {
+    "name": "Swiss Diamond Hotel Prishtina",
+    "address": "Kosta Novakoviq, 14A, Prishtin 10000",
+    "phone": null
+  },
+  {
+    "name": "Emerald Hotel",
+    "address": "Str. Ahmet Krasniqi nn, Dragodan, Prishtina 10000",
+    "phone": "+38344916559"
+  },
+  {
+    "name": "Hotel Garden",
+    "address": "XK, 5 Fehmi Agani, Prishtina 10000",
+    "phone": "+38344603604"
+  },
+  {
+    "name": "Hotel lacorte",
+    "address": "Liqeni i Batllaves, Orllan, Besianë 11000",
+    "phone": "+38348102102"
+  },
+  {
+    "name": "HOTEL 4 LLULLAT",
+    "address": "Parku i qytetit, Nijazi Elshani 24, Prishtina 10000",
+    "phone": null
+  },
+  {
+    "name": "Stay Ok Prishtina Boutique Hotel",
+    "address": "str, no. 56 Ukë Sadiku, Prishtina 10000",
+    "phone": "+38344311022"
+  },
+  {
+    "name": "HOTEL BAVARIA",
+    "address": "Nr.78 St.Demir Vitija or St, Edmond Hoxha, Prishtina 10000",
+    "phone": "+38348140077"
+  },
+  {
+    "name": "Hotel Konstantin",
+    "address": "202 UCK, Prishtinë, Prishtina 10000",
+    "phone": "20210000"
+  },
+  {
+    "name": "Hotel United Prishtina",
+    "address": "XK, Rrustem Statovci, Prishtina 10000",
+    "phone": "+38345912668"
+  },
+  {
+    "name": "Bus Station Hostel",
+    "address": "St.Anton Çetta,Aktash A-3, 22, Prishtina 10000",
+    "phone": "32210000"
+  },
+  {
+    "name": "Guest House Prishtine",
+    "address": "24 maj, nr 137 Arben Xheladini, Prishtina 10000",
+    "phone": "2413710000"
+  },
+  {
+    "name": "Moon Hostel",
+    "address": "Kosta Novakoviq, 14A, Prishtin 10000",
+    "phone": null
+  },
+  {
+    "name": "Hotel Villa ERA",
+    "address": "Str XK, 10000 Pjetër Bogdani, Prishtina 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "MoonLight Hostel",
+    "address": "Rrugë, 341 Nënë Tereza, Fushë Kosovë 12000",
+    "phone": "34112000"
+  },
+  {
+    "name": "Apartment Royal",
+    "address": "Hotel Río, M2, Prishtina",
+    "phone": "+38344215182"
+  },
+  {
+    "name": "Alias Hostel",
+    "address": "Mujo Ulqinaku, No 59, Prishtina 10000",
+    "phone": "+38349166777"
+  },
+  {
+    "name": "Flower House",
+    "address": "Rr.Tirana, Nr.189 Rr.Bekim Fehmiu, Prishtina 10000",
+    "phone": "18910000"
+  },
+  {
+    "name": "Ura e Gurit",
+    "address": "Str. Ahmet Krasniqi nn, Dragodan, Prishtina 10000",
+    "phone": "+38344916559"
+  },
+  {
+    "name": "Grand Hotel Prishtina",
+    "address": "Rr. Prishtinë – Gjilan, nr. 34 Veternik, Prishtina 10000",
+    "phone": "+38649777766"
+  },
+  {
+    "name": "Andoena",
+    "address": "Ahmet Krasniqi , No.110, Prishtina 10000",
+    "phone": "11010000"
+  },
+  {
+    "name": "Hotel Town",
+    "address": "Str. Ahmet Krasniqi nn, Dragodan, Prishtina 10000",
+    "phone": "+38344916559"
+  },
+  {
+    "name": "Hotel & Restaurant BRILANT",
+    "address": "Boulevard Nena Tereze, 14/6, Prishtina 10000",
+    "phone": "14610000"
+  },
+  {
+    "name": "Dardania",
+    "address": "24 Maji Nr.115 -, Arben Xheladini nr. 35, Prishtina 10000",
+    "phone": "241153510000"
+  },
+  {
+    "name": "Hotel Donarti",
+    "address": "Str XK, 10000 Ferid Curri, Prishtina 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "Casa Rita Restaurant",
+    "address": "XK XK, 4/A Fazli Grajqevci, Prishtina 10000",
+    "phone": "+38346748818"
+  },
+  {
+    "name": "Soma Book Station",
+    "address": "XK, 5 Fazli Grajqevci, Prishtina 10000",
+    "phone": "+38344160665"
+  },
+  {
+    "name": "Home Restaurant & Lounge Bar",
+    "address": "Rruga, 10 Xhemajl Mustafa, Prishtina 10000",
+    "phone": "+38345777441"
+  },
+  {
+    "name": "Baba Ganoush Meze",
+    "address": "XK, 11 Eqrem Çabej, Prishtina 10000",
+    "phone": "+38348227788"
+  },
+  {
+    "name": "Thai Restaurant Pristina",
+    "address": "XK, Djure Dajkovića, Prishtina 10000",
+    "phone": "+38348161616"
+  },
+  {
+    "name": "deRada Brasserie",
+    "address": "Rruga Ali Pashë Tepelena, Rruga Karl Gega, Prishtina",
+    "phone": "+37744101090"
+  },
+  {
+    "name": "Collection",
+    "address": "Arberi, Bashkim Fehmiu Prishtina XK, 10000",
+    "phone": "+38346383383"
+  },
+  {
+    "name": "Te Muja",
+    "address": "XK, 2 Fehmi Agani, Prishtina 10000",
+    "phone": "+38344141292"
+  },
+  {
+    "name": "A&A Restaurant",
+    "address": "Hyrja 1, Arbëria 3, Veranda C2.7, Prishtina 10000",
+    "phone": "132710000"
+  },
+  {
+    "name": "Central Room",
+    "address": "Fazli Grajqevci, no: 104, Prishtine 10000",
+    "phone": "10410000"
+  },
+  {
+    "name": "Infinit Food & Drinks",
+    "address": "Rruga Muharrem Fejza 179, 10000 Prishtinë, Kosovë Prishtine XK, 10000",
+    "phone": "1791000010000"
+  },
+  {
+    "name": "Serai",
+    "address": "Rr.Universiteti 36/1, Prishtina XK, 10000",
+    "phone": "36110000"
+  },
+  {
+    "name": "Sunny Hill Restaurant",
+    "address": "Eqrem Çabej, Nr:9, Prishtina 10000",
+    "phone": "+37744833866"
+  },
+  {
+    "name": "Monaco Lounge",
+    "address": "XK, Rexhep Luci, Prishtina 10000",
+    "phone": "+38349780010"
+  },
+  {
+    "name": "Jana Napoletana Pizza",
+    "address": "XK, Faton Shabani, Prishtina 10000",
+    "phone": "+38348533555"
+  },
+  {
+    "name": "Turkish Grill",
+    "address": "N#, 3 Bulevardi Nënë Tereza, Prishtina",
+    "phone": "+38949131572"
+  },
+  {
+    "name": "Cavallero",
+    "address": "Sunny Hill/Bregu i Diellit, Hyzri Talla, Prishtina 10000",
+    "phone": "+38345599767"
+  },
+  {
+    "name": "Adel's Restaurant",
+    "address": "XK, 52 Fehmi Agani, Prishtina 10000",
+    "phone": null
+  },
+  {
+    "name": "Ramazzotti",
+    "address": "42, Rruga, 6 Fehmi Agani, Prishtina",
+    "phone": "+38349687716"
+  },
+  {
+    "name": "CHE BAR Bistro",
+    "address": "42, Rruga 6 XK, Fehmi Agani, Prishtina 10000",
+    "phone": "42610000"
+  },
+  {
+    "name": "Amaro",
+    "address": "Thai Restaurant UKC Streets, QAFA Building, No 59 1st Floor, Prishtina 10000",
+    "phone": "59110000"
+  },
+  {
+    "name": "Restaurant Lord",
+    "address": "2 Korriku no.12, Mother Theresa Boulevard Prishtina Kosovo, 10000",
+    "phone": "21210000"
+  },
+  {
+    "name": "Në Zbritje",
+    "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "TE AFRIMI",
+    "address": "XK, Hajredin Bajrami, Lipjan 14000",
+    "phone": "+38344435984"
+  },
+  {
+    "name": "Prishtina Mall",
+    "address": "Rr. Zona e Re Industriale, Albi Mall shoping center, Prishtine",
+    "phone": "+38338724288"
+  },
+  {
+    "name": "Herta Kids",
+    "address": "XK, Adem Jashari, Prishtina 10010",
+    "phone": "578+56610010"
+  },
+  {
+    "name": "Shopping Family Center",
+    "address": "Elez Berisha, nr. 56, përballë Kolegjit AAB në Prishtinë Prishtina, 10000",
+    "phone": "+38649168800"
+  },
+  {
+    "name": "MiniMarket \"Llapi\"",
+    "address": "Musa Tolaj, Prishtinë, Pristina 10000 Prishtine XK, 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "Emona Center",
+    "address": "Zona Industriale Prishtinë-Fushë Kosovë 10000 Prishtinë, Republic of Kosova, Prishtina",
+    "phone": "+38139431991"
+  },
+  {
+    "name": "Ethnographic Museum",
+    "address": "XK, 111 Luan Haradinaj, Prishtina 10000",
+    "phone": "11110000"
+  },
+  {
+    "name": "Jashar Pasha's Mosque",
+    "address": "Nr.78 St.Demir Vitija or St, Edmond Hoxha, Prishtina 10000",
+    "phone": "+38348140077"
+  },
+  {
+    "name": "Pristina",
+    "address": "Alekse Santica, Shushicë, Prishtina 10000",
+    "phone": "+38344228909"
+  },
+  {
+    "name": "White Drin Waterfall",
+    "address": "Egnatia, 6 19, Prishtina 10000",
+    "phone": "61910000"
+  },
+  {
+    "name": "Christ the Saviour Orthodox Cathedral",
+    "address": "St.Anton Çetta,Aktash A-3, 22, Prishtina 10000",
+    "phone": "32210000"
+  },
+  {
+    "name": "Royal MALL",
+    "address": "Blvd. Partizanski Odredi 17, Skopje 1000, North Macedonia",
+    "phone": "+38923227450"
+  },
+  {
+    "name": "Museum of Mitrovica",
+    "address": "31, Ribariće, Serbia",
+    "phone": "+38120453400"
+  },
+  {
+    "name": "Explore Kosovo",
+    "address": "Ganimete Tërbeshi, 26A, Aktash, Prishtina 10000",
+    "phone": "+38349962656"
+  },
+  {
+    "name": "Monastery Visoki Decani",
+    "address": "P.O. Box 482, Samoilova, Skopje 1000, North Macedonia",
+    "phone": "+38923117734"
+  },
+  {
+    "name": "Memorial House of Mother Teresa",
+    "address": "XK XK, 4/A Fazli Grajqevci, Prishtina 10000",
+    "phone": "+38346748818"
+  },
+  {
+    "name": "Stone Bridge",
+    "address": "MK MK, Boulevard Ilinden 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Ordo Draconis",
+    "address": "Iljo Vojvoda Br. 2, Skopje 1000, North Macedonia",
+    "phone": "+38923122697"
+  },
+  {
+    "name": "Catholic Cathedral of Our Lady of Perpetual Succour",
+    "address": "Stevana Nemanje 20, Novi Pazar, Serbia",
+    "phone": "+38120331681"
+  },
+  {
+    "name": "Albi Mall",
+    "address": "11th of October 33, Kumanovo 1300, North Macedonia",
+    "phone": "11331300"
+  },
+  {
+    "name": "Zebrnjak",
+    "address": "Samoilova, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "St. Panteleimon",
+    "address": "Кеј Димитар Влахов 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Museum of the City of Skopje",
+    "address": "Atanas Babata, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Balkan Destination",
+    "address": "Kjurchiska 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Millennium Cross",
+    "address": "Str. Qendresa, No 107, Prishtina 10000",
+    "phone": "10710000"
+  },
+  {
+    "name": "Valbona Valley National Park",
+    "address": "Daut Pasin Hamam, Boulevard Goce Delchev, Skopje 1000, North Macedonia",
+    "phone": "+38923133102"
+  },
+  {
+    "name": "Dit' e Nat'",
+    "address": "VStreet 1;Village Matka, Village Matka 1000, North Macedonia",
+    "phone": "+38970271900"
+  },
+  {
+    "name": "Archaeological Museum of the Republic of Macedonia",
+    "address": "Ss Cyril & Methodius 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Beer Garden Pub",
+    "address": "11-ти Март 11 March, Skopje 1000, North Macedonia",
+    "phone": "11111000"
+  },
+  {
+    "name": "Valbona valley",
+    "address": "Ilaz Agushi 4 Ilaz Agushi, 4 Iliaz Agushi, Prishtina",
+    "phone": "+38349873378"
+  },
+  {
+    "name": "Feudal Tower",
+    "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+    "phone": "+38923297204"
+  },
+  {
+    "name": "Stone Castle Vineyards and Winery",
+    "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Bill Klinton Bulvarı",
+    "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "Liburnia",
+    "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "El Greco Restaurant",
+    "address": "MK, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Centrum Prizren",
+    "address": "Str Tirana, Tirana, Prizren 20000",
+    "phone": "+38643504504"
+  },
+  {
+    "name": "Premium Park Hotel",
+    "address": "XK, Marin Barleti, Prizren 20000",
+    "phone": "+38344201106"
+  },
+  {
+    "name": "Hotel Prizreni",
+    "address": "XK, Ismail Kryeziu, Prizren 20000",
+    "phone": "+38348820810"
+  },
+  {
+    "name": "Hotel Cleon",
+    "address": "Prizren, R115, Reçan 20000",
+    "phone": "11520000"
+  },
+  {
+    "name": "Hostel Bushati",
+    "address": "Autostrada Dr. Ibrahim Rugova,Veri Prizren 20000, Prizren 20000",
+    "phone": "2000020000"
+  },
+  {
+    "name": "Meka Hotel",
+    "address": "355, Nuri Sherifi, Prizren 20000",
+    "phone": "35520000"
+  },
+  {
+    "name": "Monarch Boutique Hotel",
+    "address": "Rruga Prizren - Gjakove, R107, Prizren 20000",
+    "phone": "6+4610720000"
+  },
+  {
+    "name": "Hotel Denis",
+    "address": "Edit Durham nr 113, Edit Durham, Prizren 20000",
+    "phone": "11320000"
+  },
+  {
+    "name": "Hotel Butro",
+    "address": "Sheshi i Dëshmorëve, PN R114, Dragash 22000",
+    "phone": "11422000"
+  },
+  {
+    "name": "Otro Café & Restaurant",
+    "address": "Innovation and Training Park (ITP, Ukë Bytyqi, Prizren 20000",
+    "phone": "+38345216105"
+  },
+  {
+    "name": "Grill House DEA",
+    "address": "XK, Enver Haradinaj, Prizren 20010",
+    "phone": "+38344670389"
+  },
+  {
+    "name": "Konak",
+    "address": "Zahir Pajaziti, Hasan Prishtina, Prizren 20000",
+    "phone": null
+  },
+  {
+    "name": "Cream Cafe - Prizren",
+    "address": "Skender Latifi, XK, Prizren 20000",
+    "phone": "+38349664744"
+  },
+  {
+    "name": "Fry&Fly - Potato Hotpoint.",
+    "address": "Te Shtrumpfat, Zara, Prizren",
+    "phone": null
+  },
+  {
+    "name": "Quick Bar Shisha",
+    "address": "Bon Pizza & More, XK, Prizren 20000",
+    "phone": "+38349830003"
+  },
+  {
+    "name": "Bus station",
+    "address": "Abi Carshia, Rr. Tirana, Prizren 20000",
+    "phone": null
+  },
+  {
+    "name": "GADA Restaurant",
+    "address": "Rr. Tirana P.n Prizren Republik Of, Tirana, Prizren",
+    "phone": "+38343970900"
+  },
+  {
+    "name": "Aurora",
+    "address": "Rruga \"Tirana\", Premium Park, Prizren 20000",
+    "phone": "+38380021212"
+  },
+  {
+    "name": "Cafe TE YMERI",
+    "address": "Rruga Pushkëtarëve, nr. 5 Prizren XK, 20000",
+    "phone": "+38345413291"
+  },
+  {
+    "name": "Yes'Please food&drink",
+    "address": "R115 , 20000 Prizren-Reqan Km1, Prizren 20000",
+    "phone": "11520000120000"
+  },
+  {
+    "name": "Hayir Plastik",
+    "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "Shopping Center \"Nertili\"",
+    "address": "Ilindenska 86/5, Tetovo 1220 Tetovo MK, 2000, North Macedonia",
+    "phone": "86512202000"
+  },
+  {
+    "name": "Kastrati Center",
+    "address": "Rruga e UÇK-së, Gjakovë 50000, 50000 Gjakova, Gjakova 50000",
+    "phone": "500005000050000"
+  },
+  {
+    "name": "Interex Prizren",
+    "address": "Lagja e Terzinjëve, Rruga Nr. 122, Lekë Matranga, Prizren 20000",
+    "phone": "12220000"
+  },
+  {
+    "name": "KFC Gjakova",
+    "address": "XK, Abi Carshia, Prizren 20000",
+    "phone": "+38349712733"
+  },
+  {
+    "name": "Vrrini Center",
+    "address": "M25, Prizren, Prizren 20000",
+    "phone": "+37744116316"
+  },
+  {
+    "name": "Amper Bau-Center",
+    "address": "Galleria Shopping, Rruga Tirana, Prizren",
+    "phone": "+38338748443"
+  },
+  {
+    "name": "PONTE Coffee & More",
+    "address": "A&N Center, Korishe, Prizren 20000",
+    "phone": "+38348100989"
+  },
+  {
+    "name": "MoniBau",
+    "address": "Korishë, M25, Korishë 25050",
+    "phone": "+37745502011"
+  },
+  {
+    "name": "Gërmia Park",
+    "address": "Ilaz Agushi 4 Ilaz Agushi, 4 Iliaz Agushi, Prishtina",
+    "phone": "+38349873378"
+  },
+  {
+    "name": "Gadima Cave",
+    "address": "11th of October 33, Kumanovo 1300, North Macedonia",
+    "phone": "11331300"
+  },
+  {
+    "name": "Gërmia Park",
+    "address": "Valbona, Pass, Albania",
+    "phone": "+35542225063"
+  },
+  {
+    "name": "Sheshi \"Skënderbeu\", Prishtinë",
+    "address": "Kamnik bb Skopje MK, 1000, North Macedonia",
+    "phone": "+38922521789"
+  },
+  {
+    "name": "Ethnographic Museum",
+    "address": "31, Ribariće, Serbia",
+    "phone": "+38120453400"
+  },
+  {
+    "name": "Art Theatre",
+    "address": "Gerberova 2, Bečej, Serbia",
+    "phone": "+381216912918"
+  },
+  {
+    "name": "Kurila Camisi",
+    "address": "☦️, Berane, Montenegro",
+    "phone": "+38268745270"
+  },
+  {
+    "name": "Xhamia e Larme",
+    "address": "Vusanje-kufiri Shqiptar, Vusanje, Montenegro",
+    "phone": null
+  },
+  {
+    "name": "Tregu i Gjelber",
+    "address": "MK MK, Boulevard Ilinden 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Restaurant Beska",
+    "address": "Kjurchiska 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Memorial House of Mother Teresa",
+    "address": "Samoilova, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Banjska Monastery",
+    "address": "Ss Cyril & Methodius 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Fellas Coffee & Kitchen",
+    "address": "Rruga Nikgjonaj, Qender Theth, Albania",
+    "phone": "+355696015771"
+  },
+  {
+    "name": "Museum of the City of Skopje",
+    "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+    "phone": "+38923297204"
+  },
+  {
+    "name": "Parku i qytetit",
+    "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Bishtazhin",
+    "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Skopje Zoo",
+    "address": "XK, William Volker, Prizren 20000",
+    "phone": "+38349400507"
+  },
+  {
+    "name": "Resort Mavrovo",
+    "address": "MK, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Palace Hotel & SPA",
+    "address": "Vllezrit Ademi, fshati Rashan XK, Mitrovicë 40000",
+    "phone": "+38348147459"
+  },
+  {
+    "name": "Restoran \"GREY\"",
+    "address": "XK, Sheshi i, Mitrovicë 40000",
+    "phone": "+38344157039"
+  },
+  {
+    "name": "Ujvara",
+    "address": "Rr. Ibri, Liqeni akumulues, Mitrovicë",
+    "phone": "+38349651025"
+  },
+  {
+    "name": "St.Tropez",
+    "address": "XK, Rr. Kumanova, Mitrovicë 40000",
+    "phone": null
+  },
+  {
+    "name": "Picerija Mrvica",
+    "address": "134, Kralja Petra Prvog, Mitrovicë e Sremit 38220",
+    "phone": "13438220"
+  },
+  {
+    "name": "Trepça",
+    "address": "XK, Rr Mbretresha Teutë, Mitrovicë 40000",
+    "phone": "+38349644222"
+  },
+  {
+    "name": "Rinia te Naimi",
+    "address": "Ive Lole Ribara, Mitrovica 40000 Rajoni i Mitrovicës, 38220",
+    "phone": "4000038220"
+  },
+  {
+    "name": "BB",
+    "address": "Mehë Uka, Rruga Agim Hajrizi, Mitrovicë 40000, Mitrovicë 40000",
+    "phone": "4000040000"
+  },
+  {
+    "name": "PELASGIANS",
+    "address": "Avni, Nr. 21 Rexhep Mitrovica, Mitrovicë 40000",
+    "phone": "+38344192571"
+  },
+  {
+    "name": "Emona City",
+    "address": "Luxmall, Bislim Bajgora, Mitrovicë 40000",
+    "phone": null
+  },
+  {
+    "name": "STOP SHOP",
+    "address": "Shemsi Ahmeti, Mitrovicë, 40000",
+    "phone": null
+  },
+  {
+    "name": "ETC - Elkos Trading Center, Vushtrri",
+    "address": "Mall of Mitrovica, Sheshi Isa Boletini, Mitrovicë 40000",
+    "phone": "+38349604635"
+  },
+  {
+    "name": "Extra Time Game Center",
+    "address": "ETC\" shopping center, XK, Mitrovicë 40000",
+    "phone": "+38349939011"
+  },
+  {
+    "name": "Walkmaxx",
+    "address": "XK, Sheshi Skënderbej, Mitrovicë 40000",
+    "phone": null
+  },
+  {
+    "name": "Mirja center",
+    "address": "Bulevar Konstantina Velikog 74, Sremska Mitrovica 22000, Serbia",
+    "phone": "+381692007429"
+  },
+  {
+    "name": "Gadima Cave",
+    "address": "Daut Pasin Hamam, Boulevard Goce Delchev, Skopje 1000, North Macedonia",
+    "phone": "+38923133102"
+  },
+  {
+    "name": "Sirmium Imperial Palace",
+    "address": "Nikole Pašića, Niš 700140, Serbia",
+    "phone": "+38118511531"
+  },
+  {
+    "name": "Monastery Gračanica",
+    "address": "Jugovića, Novi Pazar, Serbia",
+    "phone": null
+  },
+  {
+    "name": "National Park Prokletije",
+    "address": "Rruga Nikgjonaj, Qender Theth, Albania",
+    "phone": "+355696015771"
+  },
+  {
+    "name": "Teatri Kombëtar",
+    "address": "Generala Milojka Lešjanina 8, Niš, Serbia",
+    "phone": null
+  },
+  {
+    "name": "Monastery Visoki Decani",
+    "address": "Unnamed Road, Vrnjačka Banja, Serbia",
+    "phone": "+38136611106"
+  },
+  {
+    "name": "Prizren Fortress",
+    "address": "Slobodište, Kruševac, Serbia",
+    "phone": null
+  },
+  {
+    "name": "Hadum Mosque",
+    "address": "☦️, Berane, Montenegro",
+    "phone": "+38268745270"
+  },
+  {
+    "name": "Xhamia e Madhe",
+    "address": "Bez ulice, Đake 18430, Serbia",
+    "phone": "+38127381344"
+  },
+  {
+    "name": "Xhamia e Madhe",
+    "address": "313, 22328, Serbia",
+    "phone": "31322328"
+  },
+  {
+    "name": "Sinan Pasha Mosque",
+    "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Studenica Monastery",
+    "address": "446, Brzeće, Serbia",
+    "phone": null
+  },
+  {
+    "name": "Đurđevi stupovi",
+    "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+    "phone": "+38923297204"
+  },
+  {
+    "name": "Vivianit Village",
+    "address": "village Kokino, 1303, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Museum Ras",
+    "address": "Vusanje-kufiri Shqiptar, Vusanje, Montenegro",
+    "phone": null
+  },
+  {
+    "name": "Maglič Castle",
+    "address": "Bulevar 12. februara, Niš, Serbia",
+    "phone": "+38118588889"
+  },
+  {
+    "name": "Niš Fortress",
+    "address": "Shqipëri, AL, Mes 4012, Albania",
+    "phone": null
+  },
+  {
+    "name": "Belgrade Fortress",
+    "address": "Sat, Tvrđava BB Petrovaradinska tvrđava, Petrovaradin 21131, Serbia",
+    "phone": null
+  },
+  {
+    "name": "Crna Reka Monastery",
+    "address": "Kopitareva, Niš 700184, Serbia",
+    "phone": null
+  },
+  {
+    "name": "Zip Line Zlatibor Ljubiš",
+    "address": "Bulevar Svetog cara Konstantina Rd, Niš, Serbia",
+    "phone": "+38118550433"
+  },
+  {
+    "name": "Stopić Cave",
+    "address": "31, Ribariće, Serbia",
+    "phone": "+38120453400"
+  },
+  {
+    "name": "Stevan Sremac and Kalča Monument",
+    "address": "230, Zlatibor, Serbia",
+    "phone": "+38131841646"
+  },
+  {
+    "name": "Ordo Draconis",
+    "address": "Pariske Komune 11, Niš, Serbia",
+    "phone": null
+  },
+  {
+    "name": "Special Nature Reserve ''Zasavica''",
+    "address": "Ljubiš bb Ljubiš RS, 31209, Serbia",
+    "phone": "+381616772596"
+  },
+  {
+    "name": "Stone Bridge",
+    "address": "Нишка, Bobiste, Serbia",
+    "phone": "+381628924854"
+  },
+  {
+    "name": "Nazi Concentration Camp \"Crveni Krst\" (Red Cross)",
+    "address": "Stevana Nemanje 20, Novi Pazar, Serbia",
+    "phone": "+38120331681"
+  },
+  {
+    "name": "Cerjanska Cave",
+    "address": "Đuke Dinić, Niš, Serbia",
+    "phone": "+381631735871"
+  },
+  {
+    "name": "Mustafa Paša",
+    "address": "Ђурђеви ступови, Novi Pazar, Serbia",
+    "phone": "+38120353502"
+  },
+  {
+    "name": "The National Gallery of Kosovo",
+    "address": "210, Kopaonik, Serbia",
+    "phone": null
+  },
+  {
+    "name": "MISSINI Kitchen & Sweets",
+    "address": "Unnamed Road, Grčak Milentija, Brus 37227, Serbia",
+    "phone": "+381643716333"
+  },
+  {
+    "name": "Đurđevi stupovi",
+    "address": "Unnamed Road, Brezova 36343, Serbia",
+    "phone": "+381365436050"
+  },
+  {
+    "name": "King Milan Square",
+    "address": "Pivarska 2, Sremska Mitrovica 320510, Serbia",
+    "phone": "+38122618817"
+  },
+  {
+    "name": "Hotel Çarshia e Jupave",
+    "address": "Ganimete Terbeshi, 38, Gjakovë 50000",
+    "phone": "+38344464576"
+  },
+  {
+    "name": "Jakova",
+    "address": "Ismail Qemajli, 9 Str, Gjakovë 50000",
+    "phone": "+38344129159"
+  },
+  {
+    "name": "Hotel and Restaurant \"Dukagjini\"",
+    "address": "42.472686,20.432154, Gjakovë 50000",
+    "phone": "424726862043215450000"
+  },
+  {
+    "name": "Grand Antika 2",
+    "address": "Rruga, Mazllom Mejzini St, Gjakovë",
+    "phone": "+38649404730"
+  },
+  {
+    "name": "Frida Restaurant",
+    "address": "Tirana, 7, Gjakovë 50000",
+    "phone": "+38345198338"
+  },
+  {
+    "name": "Grill Saranda 1965",
+    "address": "Nëna Terezë, Gjakovë, Gjakovë, Gjakove 50000",
+    "phone": "+38344935792"
+  },
+  {
+    "name": "Qebaptore Driloni",
+    "address": "Domenik Pergega 19, Brekoc, Gjakove 50000",
+    "phone": "+37744186280"
+  },
+  {
+    "name": "Milano (Food & Caffe)",
+    "address": "Ismail Qemajli, 9 Str, Gjakovë 50000",
+    "phone": "+38344129159"
+  },
+  {
+    "name": "Pizza Albi",
+    "address": "XK, Pashko Vasa, Gjakovë 50000",
+    "phone": "+38344385289"
+  },
+  {
+    "name": "Banana Split",
+    "address": "XK, Rr Nënë Tereza, Gjakovë 50000",
+    "phone": "+38349777199"
+  },
+  {
+    "name": "El Punto - Gjakova",
+    "address": "Kulla e Xheladin Begut, number, 69 Abedin Terbeshi, Gjakovë 50000",
+    "phone": "+38344122460"
+  },
+  {
+    "name": "Allorja",
+    "address": "XK, Bardhyl Qaushi, Gjakovë 50000",
+    "phone": "+38344122982"
+  },
+  {
+    "name": "Jaffa cake and food",
+    "address": "Rr. Martirët e Kombit, Brekoc, Gjakovë XK, Gjakovë 50000",
+    "phone": "+38343818142"
+  },
+  {
+    "name": "Pishat",
+    "address": "XK XK, Skënderbeu, Gjakovë 50000",
+    "phone": "+38344236077"
+  },
+  {
+    "name": "Lilo's Burger",
+    "address": "Dedë Gjon Luli Pran kurrizit , Afer Qendres, Gjakovë 50000",
+    "phone": "+37744800435"
+  },
+  {
+    "name": "Shitorja Nr.1 \"KONSONI\"",
+    "address": "Rr. Permet Vula XK, 10 000, Gjakovë 50000",
+    "phone": "1000050000"
+  },
+  {
+    "name": "Pizza CIMI & More",
+    "address": "Qendra e qytetit,praneKurrizit,Dede Gjon luli, Gjakovë 50000",
+    "phone": "+38649807637"
+  },
+  {
+    "name": "Herta",
+    "address": "Rruga e UÇK-së, Gjakovë 50000, 50000 Gjakova, Gjakova 50000",
+    "phone": "500005000050000"
+  },
+  {
+    "name": "ARRBI Center",
+    "address": "Rruga Beselidhja e Malesise, Bajram Curri, Albania",
+    "phone": null
+  },
+  {
+    "name": "Xhamia e Emin Pashës",
+    "address": "XK, 111 Luan Haradinaj, Prishtina 10000",
+    "phone": "11110000"
+  },
+  {
+    "name": "Hotel Lybeten",
+    "address": "Brezovice, 4, Vërbeshticë",
+    "phone": "+38348488901"
+  },
+  {
+    "name": "Mountain House Brezovicë",
+    "address": "M2, Talinoc i Jerlive, Ferizaj 70000",
+    "phone": "+37744428394"
+  },
+  {
+    "name": "Andoena",
+    "address": "XK, Ismail Qemaili, Ferizaj 70000",
+    "phone": "+38345539839"
+  },
+  {
+    "name": "Motel Eleon",
+    "address": "Jezerc XK, Rrafshi i pllugut, Ferizaj 70000",
+    "phone": "+38344215479"
+  },
+  {
+    "name": "Villa Alpina Brezovicë",
+    "address": "Cen Dugolli, 42, Ferizaj 70000",
+    "phone": "+38344126276"
+  },
+  {
+    "name": "Restaurant Apollonia 1991 Ferizaj",
+    "address": "Gezim Sahiti 1, Astrit Bytyqi, Ferizaj 70000",
+    "phone": "+38344949495"
+  },
+  {
+    "name": "Grand House Restaurnt",
+    "address": "Rruga XK, R206, Ferizaj 70000",
+    "phone": "20670000"
+  },
+  {
+    "name": "Restaurant Toscana",
+    "address": "XK, Rruga Dëshmorët e Kombit, Ferizaj 70000",
+    "phone": null
+  },
+  {
+    "name": "Pizzeria SYRI",
+    "address": "perball sheshit Kemajl Hetemi, te kryqzimi i rruges per ne Ambolanten rajonale, Remzi Hoxha, Ferizaj 70000",
+    "phone": "+37744693755"
+  },
+  {
+    "name": "Mono Bistro",
+    "address": "VPA University, Ahmet Kaçiku, Ferizaj",
+    "phone": null
+  },
+  {
+    "name": "Caffe & Pizzeria Peppino",
+    "address": "Rruga, 70000 Ahmet Kaçiku, Ferizaj",
+    "phone": "+38338711711"
+  },
+  {
+    "name": "Restaurant GATA",
+    "address": "Rr ,Rexhep Beslimi, Rr e Gjilanit, Ferizaj 70000",
+    "phone": "+38349375355"
+  },
+  {
+    "name": "Manuka Restaurant",
+    "address": "Rr 70000, R206, Ferizaj",
+    "phone": "70000206"
+  },
+  {
+    "name": "Pizza Center",
+    "address": "122, Gursel & Bajram Sylejmani, Ferizaj 70000",
+    "phone": "12270000"
+  },
+  {
+    "name": "The British Pub",
+    "address": "XK, Driton Islami, Ferizaj 70000",
+    "phone": "+38345640907"
+  },
+  {
+    "name": "PlusBurger",
+    "address": "G.B. Sylejmani , Ferizaj 193, Ferizaj 70000",
+    "phone": "19370000"
+  },
+  {
+    "name": "Domino's Pizza Kosovo",
+    "address": "XK, William Walker, Ferizaj 70000",
+    "phone": "+38344121096"
+  },
+  {
+    "name": "Restaurant KULLA",
+    "address": "Dimitri Tuqeviq, Ferizaj 70000, Dimitri Tuqeviq, Ferizaj, Ferizaj 70000",
+    "phone": "7000070000"
+  },
+  {
+    "name": "Urban Burger 2",
+    "address": "Rizah Matoshi, 34, Ferizaj 70000",
+    "phone": "+38349470137"
+  },
+  {
+    "name": "Prishtina Mall",
+    "address": "Rr. Marie Shllaku nr. 8, 60000, Gjilan",
+    "phone": "+38338726940"
+  },
+  {
+    "name": "DONA CENTER",
+    "address": "XK, Adem Jashari, Prishtina 10010",
+    "phone": "578+56610010"
+  },
+  {
+    "name": "Tre-kom shoes",
+    "address": "XK, 25.3, Ferizaj 70000",
+    "phone": "25370000"
+  },
+  {
+    "name": "Fokus Ferizaj",
+    "address": "Musa Tolaj, Prishtinë, Pristina 10000 Prishtine XK, 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "Intercoop Trade Center",
+    "address": "Rruga: Ahmet Kaqiku, No: 1, Ferizaj 70000",
+    "phone": "+38338777035"
+  },
+  {
+    "name": "Plisi Center",
+    "address": "XK, 72 Rruga Marie Shllaku, Gjilan 60000",
+    "phone": "+38343777747"
+  },
+  {
+    "name": "Jupa Center",
+    "address": "Elez Berisha, nr. 56, përballë Kolegjit AAB në Prishtinë Prishtina, 10000",
+    "phone": "+38649168800"
+  },
+  {
+    "name": "Genti Shoes Store",
+    "address": "XK, Rr Ismail Raka, Kaçanik 71000",
+    "phone": "+37744225007"
+  },
+  {
+    "name": "Në Zbritje",
+    "address": "The Village, 1 Ahmet Kaçiku, Ferizaj 70000",
+    "phone": "+38349522662"
+  },
+  {
+    "name": "Herta Kids",
+    "address": "Joseph R. “Beau” Biden, III, Bibaj, Ferizaj 70000",
+    "phone": "+38349121191"
+  },
+  {
+    "name": "Ballkani Qeramike",
+    "address": "95F5+269 Ferizaj Zenun Beqa, Objekti Fitorja I Ferizaj XK, 70000",
+    "phone": "955+26970000"
+  },
+  {
+    "name": "Besi",
+    "address": "Zona Industriale Prishtinë-Fushë Kosovë 10000 Prishtinë, Republic of Kosova, Prishtina",
+    "phone": "+38139431991"
+  },
+  { "name": "Minimax", "address": "Rr, 25-3, Kllokot", "phone": null },
+  {
+    "name": "BIBAJ CENTER TEPIHA PERDE",
+    "address": "Zona e Re Industriale, Veternik 10000 Prishtine Prishtina XK, 10000",
+    "phone": "1000010000"
+  },
+  {
+    "name": "Pizza Center",
+    "address": "Ring Mall, Magjistrale Ferizaj, Talinoc i Muhaxherëve, Ferizaj 70000",
+    "phone": "+38349614476"
+  },
+  {
+    "name": "Melodia Px",
+    "address": "XK, Hajredin Bajrami, Lipjan 14000",
+    "phone": "+38344435984"
+  },
+  { "name": "NEWBORN", "address": "203, Sebečevo, Serbia", "phone": null },
+  {
+    "name": "Arabati Baba Tekke",
+    "address": "XK, 111 Luan Haradinaj, Prishtina 10000",
+    "phone": "11110000"
+  }
+]
