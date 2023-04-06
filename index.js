@@ -9,15 +9,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Kuwait';
+exports.country = 'Latvia';
 const country = this.country;
-const cities = [
-  'Kuwait City',
-  'Hawalli',
-  'Salmiya',
-  'Al Farwaniyah',
-  'Al Jahra',
-];
+const cities = ['Riga', 'Daugavpils', 'Liepāja', 'Jūrmala', 'Ventspils'];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
 const options = {
