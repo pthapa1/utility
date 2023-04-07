@@ -1,0 +1,5652 @@
+[
+  {
+    "name": "Conti Hotel",
+    "address": "Maironio g. 13, 01124 Vilnius, Lithuania",
+    "phone": "+37065502845"
+  },
+  {
+    "name": "Vilnius City Hotel",
+    "address": "Totorių g. 23, 01120 Vilnius, Lithuania",
+    "phone": "+37052660366"
+  },
+  {
+    "name": "Courtyard by Marriott Vilnius City Center",
+    "address": "Bazilijonų g. 10, 01304 Vilnius, Lithuania",
+    "phone": "+37066955646"
+  },
+  {
+    "name": "Grand Hotel Kempinski Vilnius",
+    "address": "Gedimino pr. 16, 01103 Vilnius, Lithuania",
+    "phone": "+37052666200"
+  },
+  {
+    "name": "Hilton Garden Inn Vilnius City Centre",
+    "address": "Gedimino pr. 44B, 01110 Vilnius, Lithuania",
+    "phone": "+37052299400"
+  },
+  {
+    "name": "Hotel Vilnia",
+    "address": "Maironio g. 1, 01124 Vilnius, Lithuania",
+    "phone": "+37052034455"
+  },
+  {
+    "name": "Radisson Blu Hotel Lietuva",
+    "address": "Universiteto g. 14, 01122 Vilnius, Lithuania",
+    "phone": "+37052201100"
+  },
+  {
+    "name": "Artis",
+    "address": "Konstitucijos pr. 20, 09308 Vilnius, Lithuania",
+    "phone": "+37052726272"
+  },
+  {
+    "name": "Novotel Vilnius Centre",
+    "address": "Rinktinės g. 3, 09234 Vilnius, Lithuania",
+    "phone": "+37052070707"
+  },
+  {
+    "name": "The Narutis Hotel",
+    "address": "Pilies g. 24, 01123 Vilnius, Lithuania",
+    "phone": "+37061443849"
+  },
+  {
+    "name": "Artagonist hotel",
+    "address": "Jeruzalės g. 21, 08420 Vilnius, Lithuania",
+    "phone": "+37066422722"
+  },
+  {
+    "name": "Hotel PACAI",
+    "address": "Ukmergės g. 246, 07160 Vilnius, Lithuania",
+    "phone": "24607160"
+  },
+  {
+    "name": "Stikliai Hotel",
+    "address": "Bukčių g. 52, 04127 Vilnius, Lithuania",
+    "phone": "+37061808044"
+  },
+  {
+    "name": "Holiday Inn Vilnius, an IHG Hotel",
+    "address": "Dariaus ir Girėno g. 2, 02158 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Neringa Hotel",
+    "address": "Kalvarijų g. 247, 08311 Vilnius, Lithuania",
+    "phone": "24708311"
+  },
+  {
+    "name": "Shakespeare Boutique Hotel Vilnius",
+    "address": "Didžioji g. 35-2, 01128 Vilnius, Lithuania",
+    "phone": "35201128"
+  },
+  {
+    "name": "Imperial Hotel & Restaurant",
+    "address": "Kareivių g. 9, 09108 Vilnius, Lithuania",
+    "phone": "+37060097472"
+  },
+  {
+    "name": "Panorama Hotel",
+    "address": "Kalvarijų g. 143, 08221 Vilnius, Lithuania",
+    "phone": "14308221"
+  },
+  {
+    "name": "Amberton Cathedral Square Hotel Vilnius",
+    "address": "L. Giros g. 15, 06324 Vilnius, Lithuania",
+    "phone": "+37065566113"
+  },
+  {
+    "name": "AirInn Vilnius Hotel",
+    "address": "Topolių g. 1, 13279 Kuprioniškės, Lithuania",
+    "phone": "+37052472166"
+  },
+  {
+    "name": "ibis Vilnius Centre",
+    "address": "V. Šopeno g. 3, 01314 Vilnius, Lithuania",
+    "phone": "+37064914854"
+  },
+  {
+    "name": "Mabre Residence",
+    "address": "Padekaniškių g. 8, 06229 Vilnius, Lithuania",
+    "phone": "+37052040100"
+  },
+  {
+    "name": "Amberton Cathedral Square Hotel Vilnius",
+    "address": "62 Antakalnio gatvė Antakalnio g.62, Vilnius Vilnius Vilniaus, 10300, Lithuania",
+    "phone": "626210300"
+  },
+  {
+    "name": "St Palace hotel",
+    "address": "Vaidilutės str. 6A, Vilnius, 10100 Vilnius, Lithuania",
+    "phone": "+37052113356"
+  },
+  {
+    "name": "AirInn Vilnius Hotel",
+    "address": "Pelesos g. 61, 02103 Vilnius, Lithuania",
+    "phone": "+37065622291"
+  },
+  {
+    "name": "The Joseph",
+    "address": "Saulės g. 15, 10310 Vilnius, Lithuania",
+    "phone": "+37061006005"
+  },
+  {
+    "name": "Hotel Moon Garden",
+    "address": "Aušros Vartų g. 17, 01304 Vilnius, Lithuania",
+    "phone": "+37060958560"
+  },
+  {
+    "name": "Old Town Trio hotel",
+    "address": "Rinktinės g. 26, 09315 Vilnius, Lithuania",
+    "phone": "+37068535205"
+  },
+  {
+    "name": "Urbihop Hotel",
+    "address": "Giedraičių g. 18, 09301 Vilnius, Lithuania",
+    "phone": "+37068575797"
+  },
+  {
+    "name": "Crowne Plaza Vilnius, an IHG Hotel",
+    "address": "Kaminkelio g. 3, 02182 Vilnius, Lithuania",
+    "phone": "+37065066999"
+  },
+  {
+    "name": "Best Western Vilnius",
+    "address": "Jono Basanavičiaus g. 3, 01118 Vilnius, Lithuania",
+    "phone": "+37061880199"
+  },
+  {
+    "name": "Congress Avenue",
+    "address": "Aguonų g. 18, 03213 Vilnius, Lithuania",
+    "phone": "+37061515188"
+  },
+  {
+    "name": "Apia hotel",
+    "address": "Barboros Radvilaitės g. 3, 01124 Vilnius, Lithuania",
+    "phone": "+37068467060"
+  },
+  {
+    "name": "Calvary Hotel & Restaurant Vilnius",
+    "address": "Žirnių g. 58, 02182 Vilnius, Lithuania",
+    "phone": "+37061880020"
+  },
+  {
+    "name": "15th Avenue Hotel",
+    "address": "Šv. Stepono g. 15, 01139 Vilnius, Lithuania",
+    "phone": "+37068018557"
+  },
+  {
+    "name": "Grotthuss Hotel",
+    "address": "Šv. Mykolo g. 6, 01124 Vilnius, Lithuania",
+    "phone": "+37061530095"
+  },
+  {
+    "name": "Conti Hotel",
+    "address": "Dvaro g. 11A, 13281 Daržininkai, Lithuania",
+    "phone": "+37069838273"
+  },
+  {
+    "name": "Vvinn Hotel",
+    "address": "Aukų g. 3, 01113 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Park Inn by Radisson Vilnius Airport Hotel & Business Centre",
+    "address": "Paupio g. 31A, 11341 Vilnius, Lithuania",
+    "phone": "+37068684523"
+  },
+  {
+    "name": "Loop Hotel Vilnius",
+    "address": "Didžioji g. 32A, 01128 Vilnius, Lithuania",
+    "phone": "+37066505073"
+  },
+  {
+    "name": "Vilnius City Hotel",
+    "address": "Vingrių g. 14, 01309 Vilnius, Lithuania",
+    "phone": "+37063459883"
+  },
+  {
+    "name": "Comfort Hotel LT - Rock 'n' Roll Vilnius",
+    "address": "Dominikonų g. 6, 01131 Vilnius, Lithuania",
+    "phone": "+37069877364"
+  },
+  {
+    "name": "ibis Vilnius Centre",
+    "address": "Literatų g., 01125 Vilnius, Lithuania",
+    "phone": "+37061267858"
+  },
+  {
+    "name": "Rinno hotel",
+    "address": "Filaretų g. 17, 01207 Vilnius, Lithuania",
+    "phone": "+37068655589"
+  },
+  {
+    "name": "Hostel Jamaika",
+    "address": "Šv. Stepono g. 8, 01138 Vilnius, Lithuania",
+    "phone": "+37060604149"
+  },
+  {
+    "name": "Congress",
+    "address": "Savičiaus g. 12, 01127 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "ALEXA OLD TOWN",
+    "address": "Didžioji g. 39, 01127 Vilnius, Lithuania",
+    "phone": "+37065265000"
+  },
+  {
+    "name": "Art City Inn",
+    "address": "Šv. Mikalojaus g. 3, 01133 Vilnius, Lithuania",
+    "phone": "+37069342058"
+  },
+  {
+    "name": "City Gate Hotel",
+    "address": "A. Vivulskio g. 12B, 03221 Vilnius, Lithuania",
+    "phone": "+37063000162"
+  },
+  {
+    "name": "Amberton Hotel Group",
+    "address": "Pilies 36 15a 01123, 01123 Vilnius, Lithuania",
+    "phone": "36150112301123"
+  },
+  {
+    "name": "Park Hotel Vilnius",
+    "address": "Pylimo g. 6, 01117 Vilnius, Lithuania",
+    "phone": "+37064700154"
+  },
+  {
+    "name": "Ivolita Vilnius",
+    "address": "Geležinkelio g. 6, 02100 Vilnius, Lithuania",
+    "phone": "+37068030505"
+  },
+  {
+    "name": "Green Vilnius Hotel",
+    "address": "Algirdo g. 24, 03218 Vilnius, Lithuania",
+    "phone": "+37052326650"
+  },
+  {
+    "name": "Old town guest house",
+    "address": "Algirdo g. 42, 03210 Vilnius, Lithuania",
+    "phone": "+37061539696"
+  },
+  {
+    "name": "Žemaitė's Hotel",
+    "address": "Rūdninkų g. 15/46, 01308 Vilnius, Lithuania",
+    "phone": "154601308"
+  },
+  {
+    "name": "ibis Styles Vilnius",
+    "address": "Pylimo g. 19 - 5, 01411 Vilnius, Lithuania",
+    "phone": "19501411"
+  },
+  {
+    "name": "Grata by Centrum Hotels",
+    "address": "Kaminkelio g. 15, 02182 Vilnius, Lithuania",
+    "phone": "+37052375880"
+  },
+  {
+    "name": "The house",
+    "address": "Bernardinų g. 5, 01124 Vilnius, Lithuania",
+    "phone": "+37052615134"
+  },
+  {
+    "name": "Real House Jasinskio",
+    "address": "Latako g. 3, 01125 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Amicus Hotel",
+    "address": "J. Jasinskio g. 14A, 01112 Vilnius, Lithuania",
+    "phone": "+37067324388"
+  },
+  {
+    "name": "City Hotel's Rudininkai",
+    "address": "Minsko pl. 14, 02121 Vilnius, Lithuania",
+    "phone": "+37052032282"
+  },
+  {
+    "name": "Bernardinu B & B House",
+    "address": "Vytenio g. 9, 03113 Vilnius, Lithuania",
+    "phone": "+37052683300"
+  },
+  {
+    "name": "Vilnius Private Stay apartments",
+    "address": "Trakų g. 7A, 01132 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Natalex",
+    "address": "Žemaitės g. 15, 03118 Vilnius, Lithuania",
+    "phone": "+37052133193"
+  },
+  {
+    "name": "Old Town apartment",
+    "address": "Pilaitės pr. 20, 04352 Vilnius, Lithuania",
+    "phone": "+37052500695"
+  },
+  {
+    "name": "Silvija",
+    "address": "Gėlių g. 5, 01137 Vilnius, Lithuania",
+    "phone": "+37052648833"
+  },
+  {
+    "name": "City Hotels Algirdas",
+    "address": "Jono Basanavičiaus g. 9, 01118 Vilnius, Lithuania",
+    "phone": "+37065454784"
+  },
+  {
+    "name": "Railway Apartments and Hotel",
+    "address": "L. Stuokos-Gucevičiaus g. 1, 01122 Vilnius, Lithuania",
+    "phone": "+37052107461"
+  },
+  {
+    "name": "Mikalo House",
+    "address": "Bazilijonų g. 3, 01303 Vilnius, Lithuania",
+    "phone": "+37052107306"
+  },
+  {
+    "name": "Vilnius Apartments & Suites",
+    "address": "Pylimo g. 53, 01137 Vilnius, Lithuania",
+    "phone": "+37052191780"
+  },
+  {
+    "name": "Jimmy Jumps House",
+    "address": "Visų Šventųjų g. 9, 01311 Vilnius, Lithuania",
+    "phone": "+37068876766"
+  },
+  {
+    "name": "Vivulski's Apartments",
+    "address": "Vingrių g. 25, 01141 Vilnius, Lithuania",
+    "phone": "+37061214101"
+  },
+  {
+    "name": "Filaretai",
+    "address": "J. Jasinskio g. 14, 01112 Vilnius, Lithuania",
+    "phone": "+37052514477"
+  },
+  {
+    "name": "Guoda Apartments",
+    "address": "Rinktinės g. 18, 09322 Vilnius, Lithuania",
+    "phone": "+37052658100"
+  },
+  {
+    "name": "Writers Apartment",
+    "address": "Vilniaus g. 2, 01102 Vilnius, Lithuania",
+    "phone": "+37052691919"
+  },
+  {
+    "name": "SAINT CASIMIR GUESTHOUSE",
+    "address": "1, Švitrigailos g. 11D, 03228 Vilnius, Lithuania",
+    "phone": "11103228"
+  },
+  {
+    "name": "Bookinn B&B",
+    "address": "Kauno g. 14, 03212 Vilnius, Lithuania",
+    "phone": "+37052505111"
+  },
+  {
+    "name": "Stay Express Hotel",
+    "address": "T. Vrublevskio g., 01143 Vilnius, Lithuania",
+    "phone": "+37062093999"
+  },
+  {
+    "name": "Downtown Forest Hostel & Camping",
+    "address": "Dariaus ir Girėno g. 21, 02189 Vilnius, Lithuania",
+    "phone": "+37066177721"
+  },
+  {
+    "name": "Restoranas GABI",
+    "address": "Raugyklos g. 7, 01140 Vilnius, Lithuania",
+    "phone": "+37052060681"
+  },
+  {
+    "name": "Come to Vilnius apartments",
+    "address": "Oreivių g. 32, 02188 Vilnius, Lithuania",
+    "phone": "+37052400055"
+  },
+  {
+    "name": "Pogo Hostel",
+    "address": "Gedimino pr. 15, 01103 Vilnius, Lithuania",
+    "phone": "+37064061515"
+  },
+  {
+    "name": "Guest room in Old Town",
+    "address": "Konstitucijos pr. 14, 09308 Vilnius, Lithuania",
+    "phone": "+37052739595"
+  },
+  {
+    "name": "Centro Hostel",
+    "address": "Kalvarijų g. 59, 09317 Vilnius, Lithuania",
+    "phone": "+37069559959"
+  },
+  {
+    "name": "In astra, B&B sveciu namai",
+    "address": "Šv. Ignoto g. 12, 01144 Vilnius, Lithuania",
+    "phone": "+37065593285"
+  },
+  {
+    "name": "AEROHOTEL",
+    "address": "M. K. Čiurlionio g. 84, 03100 Vilnius, Lithuania",
+    "phone": "+37052743400"
+  },
+  {
+    "name": "Stebuklas",
+    "address": "Ąžuolyno g. 7, 07196 Vilnius, Lithuania",
+    "phone": "+37052526262"
+  },
+  {
+    "name": "Irena Family House And B&B",
+    "address": "Raugyklos g. 15A, 01140 Vilnius, Lithuania",
+    "phone": "+37052161696"
+  },
+  {
+    "name": "Place No. 2",
+    "address": "Bazilijonų g. 10, 01304 Vilnius, Lithuania",
+    "phone": "+37066955646"
+  },
+  {
+    "name": "House of Sun B&B",
+    "address": "Ligoninės g. 5, 01134 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "25 Hours Hostel",
+    "address": "Žygimantų g. 11, 01102 Vilnius, Lithuania",
+    "phone": "+37061077500"
+  },
+  {
+    "name": "Fortuna Hostel",
+    "address": "Aušros Vartų g. 6, 01304 Vilnius, Lithuania",
+    "phone": "+37052053255"
+  },
+  {
+    "name": "Hostel Oras",
+    "address": "Maironio g. 13, 01124 Vilnius, Lithuania",
+    "phone": "+37065502845"
+  },
+  {
+    "name": "Nėris Inn Terraces",
+    "address": "L. Stuokos-Gucevičiaus g. 1, 01122 Vilnius, Lithuania",
+    "phone": "+37068200040"
+  },
+  {
+    "name": "Park Villa, viešbutis, ARIAND",
+    "address": "Rodūnios kl. 8, 02187 Vilnius, Lithuania",
+    "phone": "+37069813909"
+  },
+  {
+    "name": "Villa Alicante",
+    "address": "Rinktinės g. 18, 09322 Vilnius, Lithuania",
+    "phone": "+37052658100"
+  },
+  {
+    "name": "Lingės",
+    "address": "Rodūnios kl. 8, 02187 Vilnius, Lithuania",
+    "phone": "+37069813909"
+  },
+  {
+    "name": "Dariaus ir Girėno 6 Apartments",
+    "address": "L. Stuokos-Gucevičiaus g. 1, 01122 Vilnius, Lithuania",
+    "phone": "+37068200040"
+  },
+  {
+    "name": "Radisson Collection Astorija Hotel, Vilnius",
+    "address": "Sodu str. 14, 01313 Vilnius, Lithuania",
+    "phone": "+37052338822"
+  },
+  {
+    "name": "MS Resort",
+    "address": "Gaono g. 7, 01131 Vilnius, Lithuania",
+    "phone": "+37052649595"
+  },
+  {
+    "name": "Natalex Microlofts",
+    "address": "Didžioji g. 7, 01128 Vilnius, Lithuania",
+    "phone": "+37052770000"
+  },
+  {
+    "name": "Baltazaras",
+    "address": "Bernardinu str 8, 01124 Vilnius, Lithuania",
+    "phone": "+37052665885"
+  },
+  {
+    "name": "Fiorentino",
+    "address": "Universiteto g. 4, 01122 Vilnius, Lithuania",
+    "phone": "+37052120925"
+  },
+  {
+    "name": "Bistro 18",
+    "address": "Naugarduko g. 36, 03228 Vilnius, Lithuania",
+    "phone": "+37060999002"
+  },
+  {
+    "name": "Selfish Bistro Vilnius",
+    "address": "Pylimo g. 23-3, 01141 Vilnius, Lithuania",
+    "phone": "23301141"
+  },
+  {
+    "name": "Lokys",
+    "address": "Universiteto g. 14, 01122 Vilnius, Lithuania",
+    "phone": "+37052201600"
+  },
+  {
+    "name": "Grey",
+    "address": "Vilniaus g. 29, 01402 Vilnius, Lithuania",
+    "phone": "+37065611330"
+  },
+  {
+    "name": "Telegrafas",
+    "address": "Šv. Mykolo g. 4, 01124 Vilnius, Lithuania",
+    "phone": "+37068822210"
+  },
+  {
+    "name": "Gaspars",
+    "address": "01104, Gedimino pr. 26, 01104 Vilnius, Lithuania",
+    "phone": "011042601104"
+  },
+  {
+    "name": "Senoji trobelė",
+    "address": "Pilies g. 2, 01124 Vilnius, Lithuania",
+    "phone": "+37063322677"
+  },
+  {
+    "name": "The Town Steakhouse",
+    "address": "Stiklių g. 8, 01131 Vilnius, Lithuania",
+    "phone": "+37052629046"
+  },
+  {
+    "name": "Mykolo 4",
+    "address": "Stiklių g. 18, 01131 Vilnius, Lithuania",
+    "phone": "+37067772091"
+  },
+  {
+    "name": "Ertlio Namas",
+    "address": "T. Ševčenkos g. 19, 03212 Vilnius, Lithuania",
+    "phone": "+37067659939"
+  },
+  {
+    "name": "Amandus",
+    "address": "Naugarduko g. 30a, 03227 Vilnius, Lithuania",
+    "phone": "+37062336426"
+  },
+  {
+    "name": "Etno Dvaras",
+    "address": "Visų Šventųjų g. 5, 01306 Vilnius, Lithuania",
+    "phone": "+37052030461"
+  },
+  {
+    "name": "Da Antonio",
+    "address": "Sodų g. 15, 01313 Vilnius, Lithuania",
+    "phone": "+37052310222"
+  },
+  {
+    "name": "Bon Chop",
+    "address": "Kauno g. 13, 03218 Vilnius, Lithuania",
+    "phone": "+37060223969"
+  },
+  {
+    "name": "La Provence",
+    "address": "Stiklių g. 4, 01131 Vilnius, Lithuania",
+    "phone": "+37052609087"
+  },
+  {
+    "name": "Nineteen18",
+    "address": "Vilniaus g. 4, 01102 Vilnius, Lithuania",
+    "phone": "+37069444155"
+  },
+  {
+    "name": "D'ECO",
+    "address": "Sodų g. 3, 01313 Vilnius, Lithuania",
+    "phone": "+37060775964"
+  },
+  {
+    "name": "Pachamama Dinner Club",
+    "address": "J. Jasinskio g. 14A-101, 01112 Vilnius, Lithuania",
+    "phone": "1410101112"
+  },
+  {
+    "name": "Saint Germain",
+    "address": "Barboros Radvilaitės g. 7, 01124 Vilnius, Lithuania",
+    "phone": "+37069488163"
+  },
+  {
+    "name": "Pachamama Dinner Club",
+    "address": "Pilies g. 4, 01124 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Saint Germain",
+    "address": "Bokšto g. 11, 01126 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Cozy",
+    "address": "Pylimo g. 61, 01137 Vilnius, Lithuania",
+    "phone": "+37063619575"
+  },
+  {
+    "name": "Bernelių Užeiga",
+    "address": "Aukštaičių g. 7, 11341 Vilnius, Lithuania",
+    "phone": "+37060624053"
+  },
+  {
+    "name": "TerraVino",
+    "address": "Maironio g. 13, 01124 Vilnius, Lithuania",
+    "phone": "+37068548983"
+  },
+  {
+    "name": "Jurgis ir Drakonas",
+    "address": "Šermukšnių g. 4A, 01106 Vilnius, Lithuania",
+    "phone": "+37065277247"
+  },
+  {
+    "name": "Lauro lapas",
+    "address": "Totorių g. 23, 01120 Vilnius, Lithuania",
+    "phone": "+37052660362"
+  },
+  {
+    "name": "PACAI Restaurant & Bar",
+    "address": "Vilniaus g. 28, 01144 Vilnius, Lithuania",
+    "phone": "+37063111153"
+  },
+  {
+    "name": "Pirmas Blynas",
+    "address": "Pylimo g. 23, 01141 Vilnius, Lithuania",
+    "phone": "+37065573056"
+  },
+  {
+    "name": "Stikliai Restaurant",
+    "address": "Vokiečių g. 24, 01130 Vilnius, Lithuania",
+    "phone": "+37065665695"
+  },
+  {
+    "name": "Trattoria da Flavio",
+    "address": "Vingrių g. 25a, 01309 Vilnius, Lithuania",
+    "phone": "+37067730092"
+  },
+  {
+    "name": "Le Travi",
+    "address": "Geležinkelio g. 3, 02100 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Meat Lovers Vilnius",
+    "address": "Vilniaus g. 19, 01116 Vilnius, Lithuania",
+    "phone": "+37065591919"
+  },
+  {
+    "name": "14Horses",
+    "address": "Gedimino pr. 31, 01104 Vilnius, Lithuania",
+    "phone": "+37067273798"
+  },
+  {
+    "name": "Trinity Restaurant and Cocktail House",
+    "address": "Aušros Vartų g. 11, 01129 Vilnius, Lithuania",
+    "phone": "+37067883211"
+  },
+  {
+    "name": "Old Green Grill House",
+    "address": "Stiklių g. 12, 01131 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Ti'ana",
+    "address": "Švitrigailos g. 11A, 03228 Vilnius, Lithuania",
+    "phone": "+37062260451"
+  },
+  {
+    "name": "Casa La Familia",
+    "address": "Šventaragio g. 2, 01122 Vilnius, Lithuania",
+    "phone": "+37063816940"
+  },
+  {
+    "name": "Botanist",
+    "address": "Pylimo g. 22D, 01118 Vilnius, Lithuania",
+    "phone": "+37069693657"
+  },
+  {
+    "name": "Kinza",
+    "address": "Vokiečių g. 11, 01130 Vilnius, Lithuania",
+    "phone": "+37068619995"
+  },
+  {
+    "name": "Smokehouse",
+    "address": "Aušros Vartų g. 8, 01304 Vilnius, Lithuania",
+    "phone": "+37064300999"
+  },
+  {
+    "name": "Stebuklai",
+    "address": "Vilniaus g. 20, 01402 Vilnius, Lithuania",
+    "phone": "+37052120126"
+  },
+  {
+    "name": "Radharanė",
+    "address": "Gedimino pr. 35, 01108 Vilnius, Lithuania",
+    "phone": "+37067223272"
+  },
+  {
+    "name": "Georgian House",
+    "address": "Ligoninės g. 5, 01134 Vilnius, Lithuania",
+    "phone": "+37061428381"
+  },
+  {
+    "name": "La Storia",
+    "address": "Gedimino pr. 44B, 01110 Vilnius, Lithuania",
+    "phone": "+37052299420"
+  },
+  {
+    "name": "St. Valentino",
+    "address": "Jono Basanavičiaus g. 1, 01118 Vilnius, Lithuania",
+    "phone": "+37052034393"
+  },
+  {
+    "name": "Maurizio's Italian Food",
+    "address": "Vilniaus g. 18, 01402 Vilnius, Lithuania",
+    "phone": "+37067266544"
+  },
+  {
+    "name": "Vegafè",
+    "address": "Etmonų g. 2, 01305 Vilnius, Lithuania",
+    "phone": "+37063177725"
+  },
+  {
+    "name": "El Mercado",
+    "address": "Aušros Vartų g. 11, 01304 Vilnius, Lithuania",
+    "phone": "+37068618317"
+  },
+  {
+    "name": "Nin and Ben",
+    "address": "M. K. Čiurlionio g. 3, 03100 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "River Town",
+    "address": "Totorių g. 16, 01121 Vilnius, Lithuania",
+    "phone": "+37062627196"
+  },
+  {
+    "name": "Kalimera LT",
+    "address": "Šv. Ignoto g. 12-1, 01144 Vilnius, Lithuania",
+    "phone": "12101144"
+  },
+  {
+    "name": "OIŠY Izakaya",
+    "address": "Visų Šventųjų g. 5, 01306 Vilnius, Lithuania",
+    "phone": "+37061373810"
+  },
+  {
+    "name": "NARUTIS restaurant",
+    "address": "Savičiaus g. 3, 01128 Vilnius, Lithuania",
+    "phone": "+37065699009"
+  },
+  {
+    "name": "12 Istorijų",
+    "address": "Didžioji g. 18, 01128 Vilnius, Lithuania",
+    "phone": "+37060683503"
+  },
+  {
+    "name": "One for All",
+    "address": "Pilies g. 10, 01124 Vilnius, Lithuania",
+    "phone": "+37062045980"
+  },
+  {
+    "name": "The Urban Garden",
+    "address": "Jono Basanavičiaus g. 3, 01118 Vilnius, Lithuania",
+    "phone": "+37061460292"
+  },
+  {
+    "name": "Bernelių Užeiga Restaurant",
+    "address": "Aušros Vartų g. 9, 01304 Vilnius, Lithuania",
+    "phone": "+37067054728"
+  },
+  {
+    "name": "Briusly",
+    "address": "Islandijos g. 4, 01117 Vilnius, Lithuania",
+    "phone": "+37069141205"
+  },
+  {
+    "name": "Viet.inės",
+    "address": "Pilies g. 24, 01123 Vilnius, Lithuania",
+    "phone": "+37052122894"
+  },
+  {
+    "name": "Mason Restoranas",
+    "address": "Užupio g. 10, 01200 Vilnius, Lithuania",
+    "phone": "+37062449295"
+  },
+  {
+    "name": "Vieta",
+    "address": "Olimpiečių g. 1, 09200 Vilnius, Lithuania",
+    "phone": "+37064576757"
+  },
+  {
+    "name": "Queensberry",
+    "address": "L. Stuokos-Gucevičiaus g. 7, 01122 Vilnius, Lithuania",
+    "phone": "+37069765693"
+  },
+  {
+    "name": "Galo do Porto",
+    "address": "Trakų g. 2, 01132 Vilnius, Lithuania",
+    "phone": "+37061948860"
+  },
+  {
+    "name": "Jane & Jon",
+    "address": "G9, Food Hall, Gedimino pr. 9, 01103 Vilnius, Lithuania",
+    "phone": "+37060549864"
+  },
+  {
+    "name": "Blue Lotus Indian & Thai",
+    "address": "Savičiaus g. 6, 01127 Vilnius, Lithuania",
+    "phone": "+37061117826"
+  },
+  {
+    "name": "City Chef Barbecue",
+    "address": "Didžioji g. 19a, 01128 Vilnius, Lithuania",
+    "phone": "+37064598242"
+  },
+  {
+    "name": "Dine",
+    "address": "Didžioji g. 3, 01128 Vilnius, Lithuania",
+    "phone": "+37064955522"
+  },
+  {
+    "name": "Meating Room",
+    "address": "Totorių g. 3, 01121 Vilnius, Lithuania",
+    "phone": "+37065977411"
+  },
+  {
+    "name": "Gloria",
+    "address": "Vilniaus g. 47, 01119 Vilnius, Lithuania",
+    "phone": "+37052314198"
+  },
+  {
+    "name": "Beef Room",
+    "address": "Vilniaus g. 10, 01402 Vilnius, Lithuania",
+    "phone": "+37069467131"
+  },
+  {
+    "name": "Medininkai Restaurant",
+    "address": "Mėsinių g. 4-3, 01135 Vilnius, Lithuania",
+    "phone": "+37069989326"
+  },
+  {
+    "name": "Sugamour",
+    "address": "Pylimo g. 58, 01136 Vilnius, Lithuania",
+    "phone": "+37052030460"
+  },
+  {
+    "name": "Mano Guru",
+    "address": "Gedimino pr. 32, 01104 Vilnius, Lithuania",
+    "phone": "+37061423332"
+  },
+  {
+    "name": "RoseHip Vegan Bistro",
+    "address": "L. Stuokos-Gucevičiaus g. 1, 01109 Vilnius, Lithuania",
+    "phone": "+37069498978"
+  },
+  {
+    "name": "Mimeze",
+    "address": "Didžioji g. 24, 01128 Vilnius, Lithuania",
+    "phone": "+37063392298"
+  },
+  {
+    "name": "HELEN RESTORANAS",
+    "address": "Rūdninkų g. 18, 01135 Vilnius, Lithuania",
+    "phone": "+37067595939"
+  },
+  {
+    "name": "Bunte Gans",
+    "address": "L. Stuokos-Gucevičiaus g. 5, 01122 Vilnius, Lithuania",
+    "phone": "+37061699559"
+  },
+  {
+    "name": "Bonocosì",
+    "address": "Vilniaus g. 30, 01119 Vilnius, Lithuania",
+    "phone": "+37066674777"
+  },
+  {
+    "name": "Grill Terrace",
+    "address": "Dominikonų g. 11, 01131 Vilnius, Lithuania",
+    "phone": "+37061250845"
+  },
+  {
+    "name": "Wok to Walk",
+    "address": "Didžioji g. 3, 01128 Vilnius, Lithuania",
+    "phone": "+37064328888"
+  },
+  {
+    "name": "Gypsy Lounge & Grill",
+    "address": "Užupio g. 19, 01202 Vilnius, Lithuania",
+    "phone": "+37060753944"
+  },
+  {
+    "name": "Pamella",
+    "address": "Naugarduko g. 14, 03225 Vilnius, Lithuania",
+    "phone": "+37061144414"
+  },
+  {
+    "name": "Mažoji Himalaja",
+    "address": "Totorių g. 22, 01121 Vilnius, Lithuania",
+    "phone": "+37068831869"
+  },
+  {
+    "name": "Talutti",
+    "address": "Liejyklos g. 8, 01121 Vilnius, Lithuania",
+    "phone": "+37065251233"
+  },
+  {
+    "name": "Džiaugsmas",
+    "address": "Gaono g. 7, 01131 Vilnius, Lithuania",
+    "phone": "+37052649580"
+  },
+  {
+    "name": "Adelia",
+    "address": "Pamėnkalnio g. 24, 01114 Vilnius, Lithuania",
+    "phone": "+37061001215"
+  },
+  {
+    "name": "Pirosmani Restaurant",
+    "address": "Didžioji g. 7, 01128 Vilnius, Lithuania",
+    "phone": "+37063380287"
+  },
+  {
+    "name": "Yakitori Grill Boutique",
+    "address": "Užupio g. 30, 01203 Vilnius, Lithuania",
+    "phone": "+37069655055"
+  },
+  {
+    "name": "Sigmutė",
+    "address": "Pylimo g. 22 D, 01118 Vilnius, Lithuania",
+    "phone": "+37060077977"
+  },
+  {
+    "name": "Asia Viet (Pylimo g.)",
+    "address": "Savičiaus g. 15, 01127 Vilnius, Lithuania",
+    "phone": "+37064562593"
+  },
+  {
+    "name": "Smukle / Tavern",
+    "address": "Literatų g. 9, 01125 Vilnius, Lithuania",
+    "phone": "+37052621210"
+  },
+  {
+    "name": "Steakhouse hazienda, restoranas, RCD Room Concept Design",
+    "address": "J. Lelevelio g. 6, Gedimino pr. 19, 01103 Vilnius, Lithuania",
+    "phone": "61901103"
+  },
+  {
+    "name": "Pilies kepykla",
+    "address": "Literatų g. 9, 01125 Vilnius, Lithuania",
+    "phone": "+37052621210"
+  },
+  {
+    "name": "RoseHip Vegan Kebabs",
+    "address": "Gedimino pr. 9, 01105 Vilnius, Lithuania",
+    "phone": "+37063477776"
+  },
+  {
+    "name": "DRAUGAI",
+    "address": "Dominikonų g. 10, 01131 Vilnius, Lithuania",
+    "phone": "+37052611137"
+  },
+  {
+    "name": "Alkani",
+    "address": "Gedimino pr. 9, 01105 Vilnius, Lithuania",
+    "phone": "+37063477776"
+  },
+  {
+    "name": "Dou Asia",
+    "address": "Vokiečių g. 22, 01130 Vilnius, Lithuania",
+    "phone": "+37068604708"
+  },
+  {
+    "name": "Daily Poison",
+    "address": "Dominikonų g. 11, 01131 Vilnius, Lithuania",
+    "phone": "+37060808950"
+  },
+  {
+    "name": "Awokado Noodle Bar",
+    "address": "Dominikonų g. 15, 01131 Vilnius, Lithuania",
+    "phone": "+37065054458"
+  },
+  {
+    "name": "Akropolis Vilnius",
+    "address": "Justiniškių g. 91, 05257, 05257 Vilnius, Lithuania",
+    "phone": "910525705257"
+  },
+  {
+    "name": "Ozas",
+    "address": "Upės g. 9, 09308 Vilnius, Lithuania",
+    "phone": "+37065038853"
+  },
+  {
+    "name": "CUP",
+    "address": "Gedimino pr. 16, 01402 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "G9",
+    "address": "Ozo g. 18, 08243 Vilnius, Lithuania",
+    "phone": "+37064015055"
+  },
+  {
+    "name": "Centro pasažas",
+    "address": "Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Outlet Park",
+    "address": "Verkių g. 29, 09108 Vilnius, Lithuania",
+    "phone": "+37080029292"
+  },
+  {
+    "name": "Europa",
+    "address": "Vikingų g. 3, 02188 Vilnius, Lithuania",
+    "phone": "+37065965360"
+  },
+  {
+    "name": "Ogmios miestas",
+    "address": "Ozo g. 25, 08217 Vilnius, Lithuania",
+    "phone": "+37065923632"
+  },
+  {
+    "name": "Shopping Center Justinishkes",
+    "address": "Gedimino pr. 9, 01103 Vilnius, Lithuania",
+    "phone": "+37065592550"
+  },
+  {
+    "name": "NØRDIKA prekybos slėnis",
+    "address": "Verkių g. 31C, 09108 Vilnius, Lithuania",
+    "phone": "+37080029292"
+  },
+  {
+    "name": "Panorama",
+    "address": "S. Nėries g. 2838, 06318 Vilnius, Lithuania",
+    "phone": "283806318"
+  },
+  {
+    "name": "Srava",
+    "address": "Priegliaus g. 1, 06269 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "The Big Sale",
+    "address": "Pavilnionių g. 55, 06142 Vilnius, Lithuania",
+    "phone": "+37069811898"
+  },
+  {
+    "name": "UAB \"\"Orfis\"",
+    "address": "Verkių g. 44, 09109 Vilnius, Lithuania",
+    "phone": "+37067213143"
+  },
+  {
+    "name": "Mandarinas",
+    "address": "Laisvės pr. 125a, 06119 Vilnius, Lithuania",
+    "phone": "12506119"
+  },
+  {
+    "name": "BANGINIS Vilnius",
+    "address": "Ukmergės g. 369, 12107 Vilnius, Lithuania",
+    "phone": "36912107"
+  },
+  {
+    "name": "Samani",
+    "address": "Viršuliškių g. 40, 05112 Vilnius, Lithuania",
+    "phone": "+37052416583"
+  },
+  {
+    "name": "Mada",
+    "address": "Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",
+    "phone": "+37069000255"
+  },
+  {
+    "name": "BIG Vilnius",
+    "address": "Metalo g. 2C, 02190 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Passage Pas Juozapa",
+    "address": "Ateities g. 91, 06325 Vilnius, Lithuania",
+    "phone": "+37052794177"
+  },
+  {
+    "name": "Vilnius Outlet",
+    "address": "P. Lukšio g. 34, 08235 Vilnius, Lithuania",
+    "phone": "+37037239010"
+  },
+  {
+    "name": "PC Pašilaičiai",
+    "address": "Švitrigailos g. 40b, 03209 Vilnius, Lithuania",
+    "phone": "+37064476747"
+  },
+  {
+    "name": "Decor decorative materials center",
+    "address": "Saltoniškių g. 9, 08105 Vilnius, Lithuania",
+    "phone": "+37068639060"
+  },
+  {
+    "name": "Gediminas Castle Tower",
+    "address": "Šventaragio g., 01143 Vilnius, Lithuania",
+    "phone": "+37052611127"
+  },
+  {
+    "name": "Museum of Occupations and Freedom Fights",
+    "address": "Paupio g. 3A, 01201 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Vilnius Cathedral",
+    "address": "Aušros Vartų g. 14, 01303 Vilnius, Lithuania",
+    "phone": "+37052123513"
+  },
+  {
+    "name": "Palace of the Grand Dukes of Lithuania",
+    "address": "Kalnų parkas, 01100 Vilnius, Lithuania",
+    "phone": "+37052122662"
+  },
+  {
+    "name": "Vilnius Museum of Illusions",
+    "address": "Vokiečių g. 8, 01130 Vilnius, Lithuania",
+    "phone": "+37067225414"
+  },
+  {
+    "name": "Cathedral Square",
+    "address": "Verkių regioninis parkas, 08311 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Gates of Dawn",
+    "address": "Aukų g. 2A, 01400 Vilnius, Lithuania",
+    "phone": "+37052498156"
+  },
+  {
+    "name": "Three Crosses Monument",
+    "address": "Arsenalo g. 5, 01143 Vilnius, Lithuania",
+    "phone": "+37052617453"
+  },
+  {
+    "name": "Constitution of the Republic of Užupis",
+    "address": "Katedros a. 4, 01143 Vilnius, Lithuania",
+    "phone": "+37052620007"
+  },
+  {
+    "name": "Užupis Cat",
+    "address": "Šv. Mykolo g. 8, 01124 Vilnius, Lithuania",
+    "phone": "+37052623092"
+  },
+  {
+    "name": "St. Anne's Church",
+    "address": "Vytenio g. 50, 03202 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "The New Arsenal of National Museum of Lithuania",
+    "address": "Totorių g. 21a, 01121 Vilnius, Lithuania",
+    "phone": "+37065690762"
+  },
+  {
+    "name": "Bell Tower of Vilnius Cathedral",
+    "address": "Kauno g. 16-39, 03212 Vilnius, Lithuania",
+    "phone": "163903212"
+  },
+  {
+    "name": "Church of Sts. Peter and Paul",
+    "address": "Ozo g. 18, 08243 Vilnius, Lithuania",
+    "phone": "+37060158545"
+  },
+  {
+    "name": "Kazys Varnelis House-Museum",
+    "address": "Belmonto g. 17, 01206 Vilnius, Lithuania",
+    "phone": "+37061000009"
+  },
+  {
+    "name": "Bastion of the Vilnius Defensive Wall",
+    "address": "Cathedral square, Gediminas monument, 01143 Vilnius, Lithuania",
+    "phone": "+37069227491"
+  },
+  {
+    "name": "Monument to Grand Duke Gediminas",
+    "address": "Pilies g. 2, 01124 Vilnius, Lithuania",
+    "phone": "+37052629660"
+  },
+  {
+    "name": "Vilnius Picture Gallery",
+    "address": "Europos parko g. 302, 15166 Joneikiškės, Lithuania",
+    "phone": "30215166"
+  },
+  {
+    "name": "Signatories House (The House of Signatories)",
+    "address": "Ežeraičio g. 2, 14200 Vilnius, Lithuania",
+    "phone": "+37065556665"
+  },
+  {
+    "name": "Town Hall Square",
+    "address": "Didžioji g. 31, 01128 Vilnius, Lithuania",
+    "phone": "+37052618007"
+  },
+  {
+    "name": "Church Heritage Museum",
+    "address": "V. Sirokomlės g. 5, 13176 Bareikiškės, Lithuania",
+    "phone": "+37052436402"
+  },
+  {
+    "name": "Vilna Gaon Jewish State Museum",
+    "address": "Konstitucijos pr. 22, 08105 Vilnius, Lithuania",
+    "phone": "+37052195960"
+  },
+  {
+    "name": "The Green House",
+    "address": "Šv. Kazimiero g. 2, 13192 Medininkai, Lithuania",
+    "phone": "+37052505595"
+  },
+  {
+    "name": "Pūčkorių atodanga",
+    "address": "Rinktinės g. 2, 09312 Vilnius, Lithuania",
+    "phone": "+37052754312"
+  },
+  {
+    "name": "Verkiai Palace",
+    "address": "Vilniaus g. 41, 01119 Vilnius, Lithuania",
+    "phone": "+37052622406"
+  },
+  {
+    "name": "Contemporary Art Centre",
+    "address": "Žolyno g. 35, 10210 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Toy Museum",
+    "address": "Dominikonų g. 8, 01131 Vilnius, Lithuania",
+    "phone": "+37052629595"
+  },
+  {
+    "name": "Monument to Adam Mickiewicz",
+    "address": "Aušros Vartų g. 9, 01129 Vilnius, Lithuania",
+    "phone": "+37052121988"
+  },
+  {
+    "name": "Vingis Park",
+    "address": "Žalioji a. 2A, 02232 Vilnius, Lithuania",
+    "phone": "+37068392998"
+  },
+  {
+    "name": "Orthodox Church of the Holy Spirit, Vilnius",
+    "address": "Ozo g. 14C, 08200 Vilnius, Lithuania",
+    "phone": "+37052111115"
+  },
+  {
+    "name": "Bekešo kalnas",
+    "address": "Belmonto g. 17, 01206 Vilnius, Lithuania",
+    "phone": "+37052729834"
+  },
+  {
+    "name": "Monument to Zemach Shabad",
+    "address": "Kalvarijų g. 61, 09317 Vilnius, Lithuania",
+    "phone": "+37069635718"
+  },
+  {
+    "name": "Church of St. Casimir",
+    "address": "Aušros Vartų g. 14, 01303 Vilnius, Lithuania",
+    "phone": "+37052123513"
+  },
+  {
+    "name": "Office of the President of the Republic of Lithuania",
+    "address": "Rūdninkų g. 20, 01135 Vilnius, Lithuania",
+    "phone": "+37067001405"
+  },
+  {
+    "name": "Bastion Hill",
+    "address": "Užupio g. 40, 01203 Vilnius, Lithuania",
+    "phone": "+37052477724"
+  },
+  {
+    "name": "Church of St. Francis of Assisi",
+    "address": "Pylimo g. 43, 01308 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Lukiškių kalėjimas 2.0",
+    "address": "Šventaragio g. 1, 01103 Vilnius, Lithuania",
+    "phone": "+37065566839"
+  },
+  {
+    "name": "Vilnius gondola",
+    "address": "Church of St Johns, Šv. Jono g. 12, 01123 Vilnius, Lithuania",
+    "phone": "+37052611795"
+  },
+  {
+    "name": "Lithuanian Railway Museum",
+    "address": "Dominikonų g. 12, 01131 Vilnius, Lithuania",
+    "phone": "+37052433313"
+  },
+  {
+    "name": "Pavilnys Regional Park",
+    "address": "K. Kalinausko g., 03107 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Money Museum of the Bank of Lithuania",
+    "address": "Vasario 16-osios g. 11, 01107 Vilnius, Lithuania",
+    "phone": "161101107"
+  },
+  {
+    "name": "Centre for Civil Education",
+    "address": "Jono Basanavičiaus g. 27, 03109 Vilnius, Lithuania",
+    "phone": "+37065064599"
+  },
+  {
+    "name": "Vilnius TV Tower",
+    "address": "Žaliųjų Ežerų g., 08425 Vilnius, Lithuania",
+    "phone": "+37052729834"
+  },
+  {
+    "name": "MO Museum",
+    "address": "Pylimo g. 17, 01141 Vilnius, Lithuania",
+    "phone": "+37060983764"
+  },
+  {
+    "name": "Frank Zappa",
+    "address": "Totorių g. 28, 01121 Vilnius, Lithuania",
+    "phone": "+37068250754"
+  },
+  {
+    "name": "Church of Apostles St. Philip and St. Jacob",
+    "address": "Geležinkelio g. 16, 02100 Vilnius, Lithuania",
+    "phone": "+37062633345"
+  },
+  {
+    "name": "Verkiai Regional Park",
+    "address": "Totorių g. 2/8, 01121 Vilnius, Lithuania",
+    "phone": "+37065922966"
+  },
+  {
+    "name": "City tour bus-stop",
+    "address": "Sausio 13-osios g. 10, 04347 Vilnius, Lithuania",
+    "phone": "131004347"
+  },
+  {
+    "name": "Church of St. Constantine and Michael",
+    "address": "Žvejų g. 14A, 09310 Vilnius, Lithuania",
+    "phone": "+37067019455"
+  },
+  {
+    "name": "Church of St. Johns",
+    "address": "Belmonto g., 01206 Vilnius, Lithuania",
+    "phone": "+37052729834"
+  },
+  {
+    "name": "Margutis",
+    "address": "Maironio g. 10, 01124 Vilnius, Lithuania",
+    "phone": "+37061601159"
+  },
+  {
+    "name": "Lietuvos meno pažinimo centras TARTLE",
+    "address": "Subačiaus g. 18, 01301 Vilnius, Lithuania",
+    "phone": "+37052629660"
+  },
+  {
+    "name": "The Shrine of Divine Mercy",
+    "address": "Lukiškių skg. 6, 01108 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Church of St. Theresa",
+    "address": "Dysnos g., 01135 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Vilnius",
+    "address": "Krivių g., 01209 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Church of All Saints",
+    "address": "Didžioji g. 34, 01128 Vilnius, Lithuania",
+    "phone": "+37052121715"
+  },
+  {
+    "name": "Kalvariju Market",
+    "address": "S. Daukanto a. 3, 01122 Vilnius, Lithuania",
+    "phone": "+37052062090"
+  },
+  {
+    "name": "Pūčkorių Educational Trail",
+    "address": "Vilniaus g. 30, 01119 Vilnius, Lithuania",
+    "phone": "+37063333719"
+  },
+  {
+    "name": "Trakų Vokė Manor",
+    "address": "Aušros Vartų g. 10, 01302 Vilnius, Lithuania",
+    "phone": "+37052127765"
+  },
+  {
+    "name": "Gintaro skulpturu ir inkliuzu muziejus, Amber",
+    "address": "Maironio g., 01124 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Vichy Water Park",
+    "address": "Arsenalo g. 3, 01143 Vilnius, Lithuania",
+    "phone": "+37052122452"
+  },
+  {
+    "name": "Vilnius Old Town",
+    "address": "Žaliųjų Ežerų g. 49, 08406 Vilnius, Lithuania",
+    "phone": "+37052729257"
+  },
+  {
+    "name": "Dominican Church of the Holy Spirit",
+    "address": "Vokiečių g. 2, 01130 Vilnius, Lithuania",
+    "phone": "+37052121945"
+  },
+  {
+    "name": "Energetikos ir technikos muziejus",
+    "address": "M. K. Čiurlionio g. 100, 03100 Vilnius, Lithuania",
+    "phone": "10003100"
+  },
+  {
+    "name": "Lithuanian Theatre, Music and Cinema Museum",
+    "address": "Krivių g., 01209 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Sapieginė Trail",
+    "address": "Pamėnkalnio g. 12, 01114 Vilnius, Lithuania",
+    "phone": "+37052620730"
+  },
+  {
+    "name": "Liubavas Manor Watermill",
+    "address": "Šiltadaržio g. 2, 01124 Vilnius, Lithuania",
+    "phone": "+37060400449"
+  },
+  {
+    "name": "Nacionalinė dailės galerija",
+    "address": "Naugarduko g. 10/2, 01309 Vilnius, Lithuania",
+    "phone": "10201309"
+  },
+  {
+    "name": "Vilnius Town Hall",
+    "address": "Šv. Mykolo g. 9, 01124 Vilnius, Lithuania",
+    "phone": "+37052697803"
+  },
+  {
+    "name": "Museum of Vladislovas Sirokomle",
+    "address": "A. Goštauto g. 1, 01104 Vilnius, Lithuania",
+    "phone": "+37052616764"
+  },
+  {
+    "name": "Open-air Museum of the Centre of Europe",
+    "address": "Didžioji g. 4, 01128 Vilnius, Lithuania",
+    "phone": "+37052124258"
+  },
+  {
+    "name": "Medininkai Castle",
+    "address": "Pilies g. 26, 01123 Vilnius, Lithuania",
+    "phone": "+37052314437"
+  },
+  {
+    "name": "Žvėrynas",
+    "address": "Katedros aikštė, 01143 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Wake Inn Vilnius",
+    "address": "Katedros aikštė, 01143 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Vilnius Tourist Information Centre",
+    "address": "Rotušės a., 08107 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Trakai Island Castle",
+    "address": "Didžioji g. 26, 01128 Vilnius, Lithuania",
+    "phone": "+37052791644"
+  },
+  {
+    "name": "Vilnius Free Walking Tours",
+    "address": "Bokšto g. 20, 01126 Vilnius, Lithuania",
+    "phone": "+37052612149"
+  },
+  {
+    "name": "Belmonto Nuotykių Parkas",
+    "address": "Antakalnio g. 1, 10312 Vilnius, Lithuania",
+    "phone": "+37052340229"
+  },
+  {
+    "name": "Adventica",
+    "address": "Polocko g. 4, 01204 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Vilnius County",
+    "address": "Pavilnių regioninis parkas, 11300 Vilnius, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Vilnius City Tour",
+    "address": "Maironio g. 8, 01124 Vilnius, Lithuania",
+    "phone": "+37067674463"
+  },
+  {
+    "name": "Insight Out - Escape Room",
+    "address": "Arsenalo g. 1, 01143 Vilnius, Lithuania",
+    "phone": "+37052629426"
+  },
+  {
+    "name": "Amber Museum - Gallery",
+    "address": "Katedros varpinė, a. 2, 01143 Vilnius, Lithuania",
+    "phone": "+37060012080"
+  },
+  {
+    "name": "open gallery",
+    "address": "Kairėnų g. 43, 10239 Vilnius, Lithuania",
+    "phone": "+37052193139"
+  },
+  {
+    "name": "Nature Museum",
+    "address": "Barboros Radvilaitės g. 8A, 01143 Vilnius, Lithuania",
+    "phone": "+37052611037"
+  },
+  {
+    "name": "Algiro Hotel",
+    "address": "Muitinės g. 9, 44280 Kaunas, Lithuania",
+    "phone": "+37066821771"
+  },
+  {
+    "name": "Hotel \"Kaunas City\"",
+    "address": "J. Gruodzio St 21, 44293 Kaunas, Lithuania",
+    "phone": "+37037302702"
+  },
+  {
+    "name": "Radisson Hotel Kaunas",
+    "address": "Vytauto Av 28, 44328 Kaunas, Lithuania",
+    "phone": "+37037265600"
+  },
+  {
+    "name": "Kaunas",
+    "address": "Laisvės al. 90, 44251 Kaunas, Lithuania",
+    "phone": "+37037220220"
+  },
+  {
+    "name": "Moxy Kaunas Center",
+    "address": "K. Donelaicio 27, 44240 Kaunas, Lithuania",
+    "phone": "+37037306100"
+  },
+  {
+    "name": "Victoria",
+    "address": "Miško g. 11, 44321 Kaunas, Lithuania",
+    "phone": "+37037407500"
+  },
+  {
+    "name": "BōHEME HOUSE",
+    "address": "A. Strazdo g. 62, 48469 Kaunas, Lithuania",
+    "phone": "+37037262020"
+  },
+  {
+    "name": "Hotel \"Kaunas City\"",
+    "address": "Maironio g. 19, 44250 Kaunas, Lithuania",
+    "phone": "+37037212020"
+  },
+  {
+    "name": "Daugirdas, viešbutis-restoranas, Perkūno namai",
+    "address": "Laisvės al. 79, 44297 Kaunas, Lithuania",
+    "phone": "+37037750850"
+  },
+  {
+    "name": "Best Western Santakos Hotel",
+    "address": "T. Daugirdo g. 4, 44279 Kaunas, Lithuania",
+    "phone": "+37068612311"
+  },
+  {
+    "name": "Magnus Hotel",
+    "address": "Vytauto pr. 22, 44355 Kaunas, Lithuania",
+    "phone": "+37060471546"
+  },
+  {
+    "name": "Kaunas Garden",
+    "address": "Jonavos g. 51a, 44131 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Amberton Cozy Hotel Kaunas",
+    "address": "Pavasario g. 8 Kaunas Kauno, 46301, Lithuania",
+    "phone": "+37069807525"
+  },
+  {
+    "name": "HOF Hotel",
+    "address": "Savanorių pr. 122, 44148 Kaunas, Lithuania",
+    "phone": "12244148"
+  },
+  {
+    "name": "Very Bad Hotel",
+    "address": "Pašilės g. 122A, 51302 Kaunas, Lithuania",
+    "phone": "12251302"
+  },
+  {
+    "name": "Piano Apartments in Kaunas Old Town",
+    "address": "Juodkrantės g. 11, 48431 Kaunas, Lithuania",
+    "phone": "+37064036381"
+  },
+  {
+    "name": "Best Baltic Kaunas",
+    "address": "Jonavos g. 43b, 44131 Kaunas, Lithuania",
+    "phone": "+37061156985"
+  },
+  {
+    "name": "ibis Kaunas Centre",
+    "address": "Byliškių g. 4A, 59285 Byliškės, Lithuania",
+    "phone": "+37064542222"
+  },
+  {
+    "name": "Babilonas Hotel",
+    "address": "Saulainių g. 1-2, 52181 Kaunas, Lithuania",
+    "phone": "+37064626826"
+  },
+  {
+    "name": "Metropolis",
+    "address": "Onupio 30, 54104, Biliūnai, Lithuania",
+    "phone": "+37068840356"
+  },
+  {
+    "name": "Brother House Kaunas",
+    "address": "Raudondvario plentas 99E Kaunas Kauno, 47184, Lithuania",
+    "phone": "+37062696669"
+  },
+  {
+    "name": "Kaunas Archdiocese GUEST HOUSE",
+    "address": "Vytauto pr. 83, 44321 Kaunas, Lithuania",
+    "phone": "+37069045329"
+  },
+  {
+    "name": "Berman House",
+    "address": "Žemaičių g. 31, 44175 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Brother House Kaunas",
+    "address": "Jonavos g. 1d, 44269 Kaunas, Lithuania",
+    "phone": "+37068731355"
+  },
+  {
+    "name": "Kaunas Inn",
+    "address": "Kęstučio g. 91, 44299 Kaunas, Lithuania",
+    "phone": "+37060768585"
+  },
+  {
+    "name": "Family Hotel",
+    "address": "Kauko al. 10, 44168 Kaunas, Lithuania",
+    "phone": "+37061571835"
+  },
+  {
+    "name": "The Monks's Bunk Kaunas",
+    "address": "P. Višinskio g. 83, 44150 Kaunas, Lithuania",
+    "phone": "+37061485186"
+  },
+  {
+    "name": "Moja Guest House",
+    "address": "Laisvės al. 61C, 44304 Kaunas, Lithuania",
+    "phone": "+37068307700"
+  },
+  {
+    "name": "Kaunas Apartments",
+    "address": "P. Kalpoko g. 91a, 44191 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Kaunasinn",
+    "address": "Savanorių pr. 18a, 44255 Kaunas, Lithuania",
+    "phone": "+37061545454"
+  },
+  {
+    "name": "Centre Apartaments",
+    "address": "Laisvės al. 100, 44252 Kaunas, Lithuania",
+    "phone": "10044252"
+  },
+  {
+    "name": "Maironis Apartment",
+    "address": "Gedimino str. 28-7, 44319 Kaunas, Lithuania",
+    "phone": "28744319"
+  },
+  {
+    "name": "Hostel Lux",
+    "address": "M. Daukšos g. 48, 44269 Kaunas, Lithuania",
+    "phone": "+37068642840"
+  },
+  {
+    "name": "Daugirdas Old City Hotel",
+    "address": "A. Mickevičiaus g. 56, 44244 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "R + Easy Kaunas Green Apartments Easy Kaunas",
+    "address": "Vilniaus gatvė 26, 44287 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Laisves Avenue hostel Easy Kaunas",
+    "address": "Pilies g. 4, 44275 Kaunas, Lithuania",
+    "phone": "+37062316800"
+  },
+  {
+    "name": "Apple Economy Hotel",
+    "address": "M. Daukšos g. 28,44283, 44283 Kaunas, Lithuania",
+    "phone": "284428344283"
+  },
+  {
+    "name": "Olympus Hotel",
+    "address": "Laisvės al. 97, 44291 Kaunas, Lithuania",
+    "phone": "+37060891997"
+  },
+  {
+    "name": "Extra Hostel",
+    "address": "19 M. Valančiaus gatvė 3 Kaunas Kauno, 44275, Lithuania",
+    "phone": "19344275"
+  },
+  {
+    "name": "Happy Inn",
+    "address": "Maironio g. 12, 56335 Rumšiškės, Lithuania",
+    "phone": "+37068654490"
+  },
+  {
+    "name": "King Mindaugas Apartments",
+    "address": "70 K. Donelaičio gatvė Kaunas Kauno, 44248 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Sports Hostel",
+    "address": "Merkinės g. 30, 44193 Kaunas, Lithuania",
+    "phone": "+37068747180"
+  },
+  {
+    "name": "Monte Pacis",
+    "address": "J. Biliuno g. 1, 53447 Kačerginė, Lithuania",
+    "phone": "+37069040650"
+  },
+  {
+    "name": "HappyInn Rooms",
+    "address": "Savanorių pr. 66, 44208 Kaunas, Lithuania",
+    "phone": "+37037244007"
+  },
+  {
+    "name": "Savan, svečių namai",
+    "address": "Martinavos g 1, 54475 Neveronys, Lithuania",
+    "phone": "+37067244168"
+  },
+  {
+    "name": "Home B&B",
+    "address": "Papilio g. 9, 44275 Kaunas, Lithuania",
+    "phone": "+37068247794"
+  },
+  {
+    "name": "Vila Grabytė",
+    "address": "Tulpių g. 9, 54459 Karmėlava, Lithuania",
+    "phone": "+37069949150"
+  },
+  {
+    "name": "Pažaislis Park Hotel",
+    "address": "L. Giros g. 3, 53487 Kulautuva, Lithuania",
+    "phone": "+37064052217"
+  },
+  {
+    "name": "Mr Jo’s hostel",
+    "address": "Vasario 16-osios g. 42, 53229 Garliava, Lithuania",
+    "phone": "164253229"
+  },
+  {
+    "name": "Хостел",
+    "address": "Milikonių g. 40 - 3, 48224 Kaunas, Lithuania",
+    "phone": "40348224"
+  },
+  {
+    "name": "Miesto oazė",
+    "address": "Alantos g. 33, 50175 Kaunas, Lithuania",
+    "phone": "+37068453246"
+  },
+  {
+    "name": "COMFY Patogūs namai",
+    "address": "Joninių g. 10, 54355 Domeikava, Lithuania",
+    "phone": "+37068218055"
+  },
+  {
+    "name": "A&L private rooms in Kaunas",
+    "address": "Pagirių kaimas, Žolyno g. 2, 53284 Stanaičiai, Lithuania",
+    "phone": "+37068560534"
+  },
+  {
+    "name": "Vila 9 Vėjai",
+    "address": "Paukščių g. 18, Lašinių k.,, 56343 Kaišiadorių r., Lithuania",
+    "phone": "+37068502376"
+  },
+  {
+    "name": "Baltosios bures, motelis",
+    "address": "Beržų g. 2V, 53335 Ringaudai, Lithuania",
+    "phone": "+37068671402"
+  },
+  {
+    "name": "Via Baltica",
+    "address": "Vilniaus g. 52A, 54449 Karmėlava, Lithuania",
+    "phone": "+37069949150"
+  },
+  {
+    "name": "RailWay Bed HOSTEL",
+    "address": "Oro uosto g. 2, 54460 Karmėlava, Lithuania",
+    "phone": "+37069170775"
+  },
+  {
+    "name": "Nemunas Tour Residence",
+    "address": "Žalgirio g. 38, 53331 Ringaudai, Lithuania",
+    "phone": "+37061597885"
+  },
+  {
+    "name": "UAB \"AirHotel\"",
+    "address": "M. K. Čiurlionio gatvė 18-2 Kaunas Kauno, 44362, Lithuania",
+    "phone": "18244362"
+  },
+  {
+    "name": "Timejas",
+    "address": "Verslo g. 17, 54311 Kaunas, Lithuania",
+    "phone": "+37069985870"
+  },
+  {
+    "name": "Sherolle Vila",
+    "address": "Knygnešio P.Varkalos g. 44, Girininkų kaim., Rokų sen., Kauno, Kaunas, Lithuania",
+    "phone": "+37068632171"
+  },
+  {
+    "name": "Armenia, cafe-motel, TIR parking",
+    "address": "M. Gimbutienės g. 35, 52337 Kaunas, Lithuania",
+    "phone": "+37037370422"
+  },
+  {
+    "name": "Air Kaunas",
+    "address": "Voveraičių g. 32, 50139 Kaunas, Lithuania",
+    "phone": "+37066529500"
+  },
+  {
+    "name": "Domeikavos Vila",
+    "address": "Servitutų g. 47, 45134 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Alanta",
+    "address": "Vytauto pr. 83, 44321 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Kotedžai Milikonių g.",
+    "address": "Šilagėlių g. 6, 52321 Kaunas, Lithuania",
+    "phone": "+37067993817"
+  },
+  {
+    "name": "Parko",
+    "address": "14 Vytauto prospektas Kaunas Kauno, 44355, Lithuania",
+    "phone": "+37066956466"
+  },
+  {
+    "name": "Jūratės B&B Namai",
+    "address": "Trakų g. 25, 44326 Kaunas, Lithuania",
+    "phone": "+37065762277"
+  },
+  {
+    "name": "Motelis Jonučiai",
+    "address": "Gailutės g. 19, 45325 Kaunas, Lithuania",
+    "phone": "+37065211074"
+  },
+  {
+    "name": "Apartamentai „Kankorėžis“",
+    "address": "Gaižiūnų g. 80, 50111 Kaunas, Lithuania",
+    "phone": "+37037337444"
+  },
+  {
+    "name": "TIRwash sunkvežimių ir automobilių plovykla | SAURIDA Neveronys",
+    "address": "Savanorių pr. 226, 50198 Kaunas, Lithuania",
+    "phone": "22650198"
+  },
+  {
+    "name": "Domus Pacis namai piligrimams",
+    "address": "T. Masiulio g. 18e, 52460 Kaunas, Lithuania",
+    "phone": "+37061463664"
+  },
+  {
+    "name": "Center Hotel",
+    "address": "Vytauto pr. 21, 44352 Kaunas, Lithuania",
+    "phone": "+37065762277"
+  },
+  {
+    "name": "Don70 - Boutique Apartment Hotel Kaunas City Centre",
+    "address": "Tito Masiulio gatvė 31, T. Masiulio g. 31, 52436 Kaunas, Lithuania",
+    "phone": "313152436"
+  },
+  {
+    "name": "Jole",
+    "address": "Vytauto pr. 21, 44352 Kaunas, Lithuania",
+    "phone": "+37065762277"
+  },
+  {
+    "name": "Saurida",
+    "address": "Karaliaus Mindaugo pr. 64, 44351 Kaunas, Lithuania",
+    "phone": "+37069019844"
+  },
+  {
+    "name": "Green Hill Apartments",
+    "address": "A. Strazdo g. 62, 48469 Kaunas, Lithuania",
+    "phone": "+37037262020"
+  },
+  {
+    "name": "Hostel Liberty",
+    "address": "K. Donelaičio g. 61, 44245 Kaunas, Lithuania",
+    "phone": "+37069045329"
+  },
+  {
+    "name": "Old town cozy place",
+    "address": "M. Valančiaus g. 19, 44275 Kaunas, Lithuania",
+    "phone": "+37069803091"
+  },
+  {
+    "name": "Art & Comfort Rooms",
+    "address": "Laisvės al. 10, 44215 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Hotel Radharanė",
+    "address": "Gedimino g. 33, 44311 Kaunas, Lithuania",
+    "phone": "+37061590881"
+  },
+  {
+    "name": "Downtown/Oldtown",
+    "address": "Vytauto pr. 83, 44321 Kaunas, Lithuania",
+    "phone": "+37069045329"
+  },
+  {
+    "name": "Litinterp Kaunas, sveciu namai, Kamava",
+    "address": "T. Daugirdo g. 4,44279, 44279 Kaunas, Lithuania",
+    "phone": "44427944279"
+  },
+  {
+    "name": "Jolando Apartment",
+    "address": "Laisvės al. 46, 44246 Kaunas, Lithuania",
+    "phone": "+37069602030"
+  },
+  {
+    "name": "Chocolate hostel",
+    "address": "Maironio g. 26, 44249 Kaunas, Lithuania",
+    "phone": "+37064829915"
+  },
+  {
+    "name": "Freedom apartment",
+    "address": "Maironio g. 20A, 44304 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Obsevation deck aparts",
+    "address": "Kapsų g. 53, 44145 Kaunas, Lithuania",
+    "phone": "+37064133434"
+  },
+  {
+    "name": "Villa ACACIA",
+    "address": "Benediktinių g. 22, 44261 Kaunas, Lithuania",
+    "phone": "+37068790247"
+  },
+  {
+    "name": "Rivjera Apartments",
+    "address": "A. Mickevičiaus g. 56, 44244 Kaunas, Lithuania",
+    "phone": "+37064133434"
+  },
+  {
+    "name": "Jauku Erdvu Šilta",
+    "address": "Gedimino g. 28, 44319 Kaunas, Lithuania",
+    "phone": "+37069914690"
+  },
+  {
+    "name": "Agnė's Guest House",
+    "address": "Laisvės al. 50, 44246 Kaunas, Lithuania",
+    "phone": "+37068701233"
+  },
+  {
+    "name": "City Hostel",
+    "address": "Laisvės al. 48-2, 44246 Kaunas, Lithuania",
+    "phone": "48244246"
+  },
+  {
+    "name": "Hotel Zaliakalnio",
+    "address": "I. Kanto g. 11, 44296 Kaunas, Lithuania",
+    "phone": "+37063038055"
+  },
+  {
+    "name": "HOSTEL KAUNAS",
+    "address": "I. Kanto g. 11, 44296 Kaunas, Lithuania",
+    "phone": "+37063038055"
+  },
+  {
+    "name": "Žemyn upe",
+    "address": "Karaliaus Mindaugo pr. 17, 44295 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Perfect Apartments",
+    "address": "S. Daukanto g. 21, 44249 Kaunas, Lithuania",
+    "phone": "+37037205992"
+  },
+  {
+    "name": "Sveciu namai -motelis \"Pasile\"",
+    "address": "Rotušės a. 21, 44279 Kaunas, Lithuania",
+    "phone": "+37061639517"
+  },
+  {
+    "name": "Musu Dvaras",
+    "address": "Žalioji g. 38A, 44199 Kaunas, Lithuania",
+    "phone": "+37061262601"
+  },
+  {
+    "name": "Botanical Garden Guesthouse",
+    "address": "Vytauto Av 28, 44328 Kaunas, Lithuania",
+    "phone": "+37037265600"
+  },
+  {
+    "name": "Regina Guest House",
+    "address": "Karaliaus Mindaugo pr. 18A, 44295 Kaunas, Lithuania",
+    "phone": "+37069019844"
+  },
+  {
+    "name": "Guest House LT",
+    "address": "A. Mickevičiaus g. 28, 44311 Kaunas, Lithuania",
+    "phone": "+37037321505"
+  },
+  {
+    "name": "Agave",
+    "address": "Rotušės a. 10, 44279 Kaunas, Lithuania",
+    "phone": "+37068754032"
+  },
+  {
+    "name": "Nüman",
+    "address": "Rotušės a. 3, 44280 Kaunas, Lithuania",
+    "phone": "+37061698496"
+  },
+  {
+    "name": "Meet&Taste Restaurant",
+    "address": "Nemuno g. 43, 44288 Kaunas, Lithuania",
+    "phone": "+37061154439"
+  },
+  {
+    "name": "DIA",
+    "address": "Maironio g. 9, 44298 Kaunas, Lithuania",
+    "phone": "+37065580308"
+  },
+  {
+    "name": "\"Bernelių užeiga\" senamiestyje",
+    "address": "Kurpių g. 26, 44287 Kaunas, Lithuania",
+    "phone": "+37067200320"
+  },
+  {
+    "name": "Casa Della Pasta",
+    "address": "S. Daukanto g. 23, 44249 Kaunas, Lithuania",
+    "phone": "+37069363777"
+  },
+  {
+    "name": "Hunters' Inn",
+    "address": "Laisvės al. 90, 44251 Kaunas, Lithuania",
+    "phone": "+37037210290"
+  },
+  {
+    "name": "Jurgis ir Drakonas",
+    "address": "K. Donelaičio g. 11, 44239 Kaunas, Lithuania",
+    "phone": "+37061448888"
+  },
+  {
+    "name": "Višta puode",
+    "address": "M. Valančiaus g. 9, 44275 Kaunas, Lithuania",
+    "phone": "+37061405236"
+  },
+  {
+    "name": "Bernelių užeiga Smuklė",
+    "address": "Laisvės al. 27, 44311 Kaunas, Lithuania",
+    "phone": "+37063344255"
+  },
+  {
+    "name": "Uoksas",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37067191414"
+  },
+  {
+    "name": "Al Cantuccio",
+    "address": "Kaunakiemio g. 5, 44289 Kaunas, Lithuania",
+    "phone": "+37064400060"
+  },
+  {
+    "name": "Moksha",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37063010444"
+  },
+  {
+    "name": "Mangal",
+    "address": "Savanorių pr. 129, 44146 Kaunas, Lithuania",
+    "phone": "12944146"
+  },
+  {
+    "name": "Bistro LaFa",
+    "address": "Laisvės al. 48, 44246 Kaunas, Lithuania",
+    "phone": "+37067303129"
+  },
+  {
+    "name": "Piccola Italia - neapolitan pizzeria",
+    "address": "Vasario 16-osios g. 9, 44251 Kaunas, Lithuania",
+    "phone": "16944251"
+  },
+  {
+    "name": "Pas Stanley",
+    "address": "A. Mickevičiaus g. 8, 51308 Kaunas, Lithuania",
+    "phone": "+37061252170"
+  },
+  {
+    "name": "Juoda Druska",
+    "address": "Vytauto pr. 24, 44355 Kaunas, Lithuania",
+    "phone": "+37052310222"
+  },
+  {
+    "name": "Momo grill Kaunas",
+    "address": "Lietuvių g. 1, 44169 Kaunas, Lithuania",
+    "phone": "+37068791034"
+  },
+  {
+    "name": "Talutti - Tex-Mex",
+    "address": "Rotušės a. 4, 44280 Kaunas, Lithuania",
+    "phone": "+37066242453"
+  },
+  {
+    "name": "Selfish Kaunas",
+    "address": "Šv. Gertrūdos g. 10, 44260 Kaunas, Lithuania",
+    "phone": "+37064694664"
+  },
+  {
+    "name": "Portofino",
+    "address": "Vilniaus gatvė 43, 44290 Kaunas, Lithuania",
+    "phone": "+37067293845"
+  },
+  {
+    "name": "Avilys",
+    "address": "Nemuno g. 45, 44288 Kaunas, Lithuania",
+    "phone": "+37067036338"
+  },
+  {
+    "name": "Radharanė",
+    "address": "Kumelių g. 7, 44281 Kaunas, Lithuania",
+    "phone": "+37061705005"
+  },
+  {
+    "name": "Two Senses",
+    "address": "Rotušės a. 4, 44280 Kaunas, Lithuania",
+    "phone": "+37065786978"
+  },
+  {
+    "name": "Buon Giorno Trattoria",
+    "address": "Muitinės g. 11-3, 44280 Kaunas, Lithuania",
+    "phone": "11344280"
+  },
+  {
+    "name": "HOP DOC Gastropub",
+    "address": "Šv. Gertrūdos g. 68, 44269 Kaunas, Lithuania",
+    "phone": "+37067071110"
+  },
+  {
+    "name": "55°",
+    "address": "Rotušės a. 26, 44279 Kaunas, Lithuania",
+    "phone": "+37068642700"
+  },
+  {
+    "name": "Senis ir Jūra",
+    "address": "Gedimino g. 30, 44319 Kaunas, Lithuania",
+    "phone": "+37037208492"
+  },
+  {
+    "name": "Chačapuri",
+    "address": "Vilniaus gatvė 45, 44291 Kaunas, Lithuania",
+    "phone": "+37066746863"
+  },
+  {
+    "name": "Daugirdas, viešbutis-restoranas, Perkūno namai",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Masalaciti - Indian and Grill",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Pelėdinė",
+    "address": "Akropolis, Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37063095559"
+  },
+  {
+    "name": "Luztanti banga",
+    "address": "Vilniaus gatvė 16, 44280 Kaunas, Lithuania",
+    "phone": "+37063071933"
+  },
+  {
+    "name": "Donelaičio",
+    "address": "Laisvės al. 93, 44252 Kaunas, Lithuania",
+    "phone": "+37067986939"
+  },
+  {
+    "name": "Piano Piano Soboras",
+    "address": "Vilniaus gatvė 35, 44290 Kaunas, Lithuania",
+    "phone": "+37064400060"
+  },
+  {
+    "name": "Mtevani",
+    "address": "Laisvės al. 84B, 44250 Kaunas, Lithuania",
+    "phone": "+37061215367"
+  },
+  {
+    "name": "Paslėpti receptai",
+    "address": "M. Valančiaus g. 27, 44275 Kaunas, Lithuania",
+    "phone": "+37067311939"
+  },
+  {
+    "name": "CITY GARDEN, UAB restaurant",
+    "address": "Karaliaus Mindaugo pr. 50, 44307 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Soul",
+    "address": "Vytauto pr. 37, 44352 Kaunas, Lithuania",
+    "phone": "+37068097977"
+  },
+  {
+    "name": "Charlie Pizza",
+    "address": "Vasario 16-osios g., 44251 Kaunas, Lithuania",
+    "phone": "+37065566622"
+  },
+  {
+    "name": "Michelle",
+    "address": "Muitinės g. 9, 44280 Kaunas, Lithuania",
+    "phone": "+37061204222"
+  },
+  {
+    "name": "KUHNE",
+    "address": "Savanorių pr. 149, 44145 Kaunas, Lithuania",
+    "phone": "14944145"
+  },
+  {
+    "name": "Chačapuri",
+    "address": "Kęstučio g. 41, 44307 Kaunas, Lithuania",
+    "phone": "+37067394673"
+  },
+  {
+    "name": "La Bodega Del Toro, Restoranas, Tapika",
+    "address": "Kaunakiemio g. 30, 44353 Kaunas, Lithuania",
+    "phone": "+37037207546"
+  },
+  {
+    "name": "Žalia pupa",
+    "address": "A. Jakšto g. 6, 44275 Kaunas, Lithuania",
+    "phone": "+37067552883"
+  },
+  {
+    "name": "Wood Fired Kitchen (400 laipsnių)",
+    "address": "V. Putvinskio g. 48, 44211 Kaunas, Lithuania",
+    "phone": "+37064854448"
+  },
+  {
+    "name": "Bajorkiemis City",
+    "address": "Vytauto pr. 28, 44328 Kaunas, Lithuania",
+    "phone": "+37037265620"
+  },
+  {
+    "name": "Kavinė 49",
+    "address": "Kęstučio g. 16, 44311 Kaunas, Lithuania",
+    "phone": "+37060996805"
+  },
+  {
+    "name": "BaoBar",
+    "address": "Laisvės al. 72, 44249 Kaunas, Lithuania",
+    "phone": "+37061844888"
+  },
+  {
+    "name": "Baking Mad Hidden Lab",
+    "address": "Palangos g. 9, 44287 Kaunas, Lithuania",
+    "phone": "+37069060008"
+  },
+  {
+    "name": "Nuogas",
+    "address": "Kumelių g. 16, 44282 Kaunas, Lithuania",
+    "phone": "+37037209999"
+  },
+  {
+    "name": "Sushi Masters",
+    "address": "Laisvės al. 100-1, 44252 Kaunas, Lithuania",
+    "phone": "100144252"
+  },
+  {
+    "name": "Doda",
+    "address": "Vasario 16-osios g. 2, 44251 Kaunas, Lithuania",
+    "phone": "16244251"
+  },
+  {
+    "name": "Casa Della Pasta",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37060578911"
+  },
+  {
+    "name": "Kauno bokstas, restaurant",
+    "address": "Rotušės a. 29, 44279 Kaunas, Lithuania",
+    "phone": "+37063655553"
+  },
+  {
+    "name": "Pompėja, restoranas",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37060658252"
+  },
+  {
+    "name": "Le Garden",
+    "address": "Santakos g. 11, 44279 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Guacamole",
+    "address": "Kęstučio g. 86, 44297 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Saigon",
+    "address": "V. Putvinskio g. 38, 44211 Kaunas, Lithuania",
+    "phone": "+37068723728"
+  },
+  {
+    "name": "Pratęsimas",
+    "address": "Savanorių pr. 137, 44146 Kaunas, Lithuania",
+    "phone": "13744146"
+  },
+  {
+    "name": "Vilties vaistinės arbatinė",
+    "address": "Vilniaus gatvė 17, 44260 Kaunas, Lithuania",
+    "phone": "+37061791702"
+  },
+  {
+    "name": "EAST ASIA",
+    "address": "Šv. Gertrūdos g. 39a, 44282 Kaunas, Lithuania",
+    "phone": "+37063509000"
+  },
+  {
+    "name": "Talutti - Bakes'n'Shakes City",
+    "address": "Laisvės al. 21, 44311 Kaunas, Lithuania",
+    "phone": "+37069852963"
+  },
+  {
+    "name": "Cosa Nostra Kaunas",
+    "address": "M. Daukšos g. 35, 44283 Kaunas, Lithuania",
+    "phone": "+37069044754"
+  },
+  {
+    "name": "The Oopen Pasta & Grill",
+    "address": "Laisvės al. 49a, 44309 Kaunas, Lithuania",
+    "phone": "+37068287999"
+  },
+  {
+    "name": "Bistro \"Gardžios istorijos\"",
+    "address": "A. Mickevičiaus g. 30, 44311 Kaunas, Lithuania",
+    "phone": "+37069390002"
+  },
+  {
+    "name": "Putvinskio 48",
+    "address": "Laisvės al. 78, 44249 Kaunas, Lithuania",
+    "phone": "+37060355550"
+  },
+  {
+    "name": "LA FIN, UAB LF PROJECTS",
+    "address": "Kęstučio g. 86, 44297 Kaunas, Lithuania",
+    "phone": "+37061401111"
+  },
+  {
+    "name": "BAZOOKA Sushi Burrito",
+    "address": "Laisvės al. 86, 44250 Kaunas, Lithuania",
+    "phone": "+37063444040"
+  },
+  {
+    "name": "Žaliukė",
+    "address": "Vilniaus gatvė 16, 44280 Kaunas, Lithuania",
+    "phone": "+37066319012"
+  },
+  {
+    "name": "BO bar",
+    "address": "Žemaičių g. 29, 44174 Kaunas, Lithuania",
+    "phone": "+37063320000"
+  },
+  {
+    "name": "Crispy Chick",
+    "address": "Vilniaus gatvė 22, 44280 Kaunas, Lithuania",
+    "phone": "+37062096464"
+  },
+  {
+    "name": "Bocmanas Kebab & Grill",
+    "address": "Rotušės a. 2, 44280 Kaunas, Lithuania",
+    "phone": "+37063004666"
+  },
+  {
+    "name": "Rocknrolla bar&kitchen",
+    "address": "Laisvės al. 93, 44297 Kaunas, Lithuania",
+    "phone": "+37037424424"
+  },
+  {
+    "name": "Food Balance",
+    "address": "Laisvės al. 57, 44305 Kaunas, Lithuania",
+    "phone": "+37065444844"
+  },
+  {
+    "name": "Pakrantė",
+    "address": "Laisvės al. 30, 44240 Kaunas, Lithuania",
+    "phone": "+37068721751"
+  },
+  {
+    "name": "Vegan Restaurant Café",
+    "address": "Laisvės al. 56, 44246 Kaunas, Lithuania",
+    "phone": "+37068188484"
+  },
+  {
+    "name": "Mamma Pizza - Vytauto pr. 37",
+    "address": "Rotušės a. 3, 44280 Kaunas, Lithuania",
+    "phone": "+37061023331"
+  },
+  {
+    "name": "Brooklyn Brothers",
+    "address": "Laisvės al. 68, 44249 Kaunas, Lithuania",
+    "phone": "+37069361955"
+  },
+  {
+    "name": "Restoranas \"Miglos\"",
+    "address": "Laisvės al. 27, 44311 Kaunas, Lithuania",
+    "phone": "+37037320751"
+  },
+  {
+    "name": "Džiugo namai 8",
+    "address": "Šv. Gertrūdos g. 22, 44260 Kaunas, Lithuania",
+    "phone": "+37067794267"
+  },
+  {
+    "name": "Talutti",
+    "address": "K. Donelaičio g. 66, 44248 Kaunas, Lithuania",
+    "phone": "+37069006611"
+  },
+  {
+    "name": "Holas",
+    "address": "T. Daugirdo g. 4, 44279 Kaunas, Lithuania",
+    "phone": "+37068612311"
+  },
+  {
+    "name": "Restoranas 12",
+    "address": "Vilniaus gatvė 30, 44287 Kaunas, Lithuania",
+    "phone": "+37063658058"
+  },
+  {
+    "name": "INDI restoranas - indiški patiekalai Kaune",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37069984491"
+  },
+  {
+    "name": "Žaliasis traukinys",
+    "address": "Laisvės al. 79, 44297 Kaunas, Lithuania",
+    "phone": "+37037750861"
+  },
+  {
+    "name": "Salonas",
+    "address": "Pilies g. 1, 44275 Kaunas, Lithuania",
+    "phone": "+37062112503"
+  },
+  {
+    "name": "Skliautas",
+    "address": "M. Daukšos g. 23, 44269 Kaunas, Lithuania",
+    "phone": "+37037227656"
+  },
+  {
+    "name": "Pizza Lovers",
+    "address": "S. Daukanto g. 14, 44309 Kaunas, Lithuania",
+    "phone": "+37061063777"
+  },
+  {
+    "name": "Hesburger",
+    "address": "K. Donelaičio g. 27, 44240 Kaunas, Lithuania",
+    "phone": "+37037306226"
+  },
+  {
+    "name": "IPU sushi",
+    "address": "Vilniaus gatvė 34, 44287 Kaunas, Lithuania",
+    "phone": "+37069966239"
+  },
+  {
+    "name": "Sushi date?",
+    "address": "Laisvės al. 40, 44240 Kaunas, Lithuania",
+    "phone": "+37037362941"
+  },
+  {
+    "name": "Brunch Bar",
+    "address": "Laisvės al. 74, 44249 Kaunas, Lithuania",
+    "phone": "+37069988840"
+  },
+  {
+    "name": "Šventas Dūmas",
+    "address": "Karaliaus Mindaugo pr. 18a, 44295 Kaunas, Lithuania",
+    "phone": "+37037297488"
+  },
+  {
+    "name": "Piano Piano",
+    "address": "Vilniaus gatvė 10, 44280 Kaunas, Lithuania",
+    "phone": "+37062030205"
+  },
+  {
+    "name": "Paslėpti receptai",
+    "address": "Savanorių pr. 46, 44209 Kaunas, Lithuania",
+    "phone": "+37061884060"
+  },
+  {
+    "name": "SAVA Užkandinė",
+    "address": "Rotušės a. 6, 44280 Kaunas, Lithuania",
+    "phone": "+37065611332"
+  },
+  {
+    "name": "Kavinė 33,",
+    "address": "Vilniaus gatvė 24, Laisvės alėja 90, 44280 Kaunas, Lithuania",
+    "phone": "249044280"
+  },
+  {
+    "name": "Kaukita eatery",
+    "address": "Maironio g. 22, 44298 Kaunas, Lithuania",
+    "phone": "+37068561212"
+  },
+  {
+    "name": "Akropolis",
+    "address": "Šarkuvos g. 13A, 48155 Kaunas, Lithuania",
+    "phone": "+37069613188"
+  },
+  {
+    "name": "MEGA",
+    "address": "Pramonės pr. 8E, 51223 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "River Mall",
+    "address": "Kovo 11-osios g. 60, 51294 Kaunas, Lithuania",
+    "phone": "116051294"
+  },
+  {
+    "name": "Shopping Center Urmas",
+    "address": "Savanorių pr. 206, 50193 Kaunas, Lithuania",
+    "phone": "20650193"
+  },
+  {
+    "name": "Cube, shopping center",
+    "address": "Pašilės g. 108, 51313 Kaunas, Lithuania",
+    "phone": "10851313"
+  },
+  {
+    "name": "HOME IDEAS CENTER NIC Kaunas",
+    "address": "Pramonės pr. 16, 51186 Kaunas, Lithuania",
+    "phone": "+37037350662"
+  },
+  {
+    "name": "BalticMall.lt",
+    "address": "Savanorių pr. 346, 49450 Kaunas, Lithuania",
+    "phone": "34649450"
+  },
+  {
+    "name": "Cube, shopping center",
+    "address": "Islandijos pl. 32, 47446 Kaunas, Lithuania",
+    "phone": "+37037239000"
+  },
+  {
+    "name": "SAVAS",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37065938262"
+  },
+  {
+    "name": "ŠILAS",
+    "address": "Jonavos g. 60, 44192 Kaunas, Lithuania",
+    "phone": "+37069501789"
+  },
+  {
+    "name": "ŠILAS",
+    "address": "Mega Center, Islandijos pl. 32, 47015 Kaunas, Lithuania",
+    "phone": "+37037239129"
+  },
+  {
+    "name": "Nemuno Baldų Centras Kaune",
+    "address": "Pramonės pr. 16, 51186 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Molas",
+    "address": "Kovo 11-osios g. 22, 51299 Kaunas, Lithuania",
+    "phone": "112251299"
+  },
+  {
+    "name": "Bags & More",
+    "address": "Baltijos g. 20A, 48254 Kaunas, Lithuania",
+    "phone": "+37068642507"
+  },
+  {
+    "name": "Pet Store",
+    "address": "Islandijos pl. 32, 47446 Kaunas, Lithuania",
+    "phone": "+37037232777"
+  },
+  {
+    "name": "Kubas, shopping center",
+    "address": "Savanorių pr. 72, 44175 Kaunas, Lithuania",
+    "phone": "+37060606736"
+  },
+  {
+    "name": "Express Market",
+    "address": "K. Baršausko g. 66A, 51436 Kaunas, Lithuania",
+    "phone": "+37061146688"
+  },
+  {
+    "name": "M JEANS",
+    "address": "A. Šapokos g. 38, 47250 Kaunas, Lithuania",
+    "phone": "+37069042702"
+  },
+  {
+    "name": "NEW YORKER",
+    "address": "Taikos pr. 125B, 50469 Kaunas, Lithuania",
+    "phone": "12550469"
+  },
+  {
+    "name": "Girstupio Market",
+    "address": "Taikos pr. 117A, 50470 Kaunas, Lithuania",
+    "phone": "11750470"
+  },
+  {
+    "name": "Kaunas Castle",
+    "address": "Nepriklausomybės a. 18, 44320 Kaunas, Lithuania",
+    "phone": "+37037226676"
+  },
+  {
+    "name": "9th Fort of the Kaunas Fortress",
+    "address": "K. Būgos g. 7, 44328 Kaunas, Lithuania",
+    "phone": "+37068694388"
+  },
+  {
+    "name": "Cathedral-Basilica of St. Peter and St. Paul",
+    "address": "T. Masiulio g. 31, 52430 Kaunas, Lithuania",
+    "phone": "+37037458868"
+  },
+  {
+    "name": "Pažaislis Monastery and Church",
+    "address": "Aleksoto g. 6, 44280 Kaunas, Lithuania",
+    "phone": "+37064144614"
+  },
+  {
+    "name": "Historical Presidential Palace, Kaunas",
+    "address": "Vilniaus gatvė 1, 44281 Kaunas, Lithuania",
+    "phone": "+37037324093"
+  },
+  {
+    "name": "Nemunas and Neris Confluence Park",
+    "address": "Vilniaus gatvė 33, 44290 Kaunas, Lithuania",
+    "phone": "+37037201778"
+  },
+  {
+    "name": "M.K. Čiurlionis Museum of Art",
+    "address": "Žemaičių pl. 75, 47435 Kaunas, Lithuania",
+    "phone": "+37068626243"
+  },
+  {
+    "name": "\"Stumbras\" Museum",
+    "address": "V. Putvinskio g. 55, 44248 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Kaunas Museum for the Blind",
+    "address": "Pilies g. 17, 44275 Kaunas, Lithuania",
+    "phone": "+37037222414"
+  },
+  {
+    "name": "House of Perkūnas",
+    "address": "Pilies g. 17, 44275 Kaunas, Lithuania",
+    "phone": "+37068755263"
+  },
+  {
+    "name": "Vytautas the Great War Museum",
+    "address": "Nepriklausomybės a. 14A, 44320 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Panemunė pinewood",
+    "address": "Rotušės a. 15, 44279 Kaunas, Lithuania",
+    "phone": "+37061082503"
+  },
+  {
+    "name": "The Wise Old Man",
+    "address": "Kaunas, 46257 Kaunas City Municipality, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Church of Vytautas the Great",
+    "address": "Islandijos pl. 32, 47483 Kaunas, Lithuania",
+    "phone": "+37068833202"
+  },
+  {
+    "name": "Vytautas the Great Bridge",
+    "address": "Radvilėnų pl. 21, 50299 Kaunas, Lithuania",
+    "phone": "+37037332540"
+  },
+  {
+    "name": "Aleksotas Funicular Railway",
+    "address": "L. Lekavičiaus g. 2, 56337 Rumšiškės, Lithuania",
+    "phone": "+37068707137"
+  },
+  {
+    "name": "Kaunas Tadas Ivanauskas Museum of Zoology",
+    "address": "Karaliaus Mindaugo pr. 50, 44334 Kaunas, Lithuania",
+    "phone": "+37061598636"
+  },
+  {
+    "name": "Museum of the History of Lithuanian Medicine and Pharmacy",
+    "address": "Karaliaus Mindaugo pr. 49, 44333 Kaunas, Lithuania",
+    "phone": "+37065938262"
+  },
+  {
+    "name": "St. Michael the Archangel's Church",
+    "address": "E. Ožeškienės g. 25, 44254 Kaunas, Lithuania",
+    "phone": "+37064597695"
+  },
+  {
+    "name": "Upper Station of Žaliakalnis Funicular Railway",
+    "address": "V. Putvinskio g. 64, 44211 Kaunas, Lithuania",
+    "phone": "+37037221587"
+  },
+  {
+    "name": "Aleksotas Observation Deck",
+    "address": "Rotušės a. 18, 44279 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Christ's Resurrection Church",
+    "address": "Vaižganto g. 30, 44229 Kaunas, Lithuania",
+    "phone": "+37037332881"
+  },
+  {
+    "name": "Lithuanian Museum of Aviation",
+    "address": "Pilies g. 17, 44275 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "KGB Atomic Bunker Museum",
+    "address": "A. Mickevičiaus g. 37, 44244 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Church of St. Gertrude",
+    "address": "Raudondvario pl. 164A, 47173 Kaunas, Lithuania",
+    "phone": "16447173"
+  },
+  {
+    "name": "Contemporary Ladies",
+    "address": "Laisvės al. 101B, 44291 Kaunas, Lithuania",
+    "phone": "10144291"
+  },
+  {
+    "name": "George Maciunas Square",
+    "address": "Veiverių g. 132, 46338 Kaunas, Lithuania",
+    "phone": "13246338"
+  },
+  {
+    "name": "Kaunas Old Town",
+    "address": "Žemaičių g. 31A, 44175 Kaunas, Lithuania",
+    "phone": "+37037229222"
+  },
+  {
+    "name": "Kaunas",
+    "address": "Rotušės a. 15, 44279 Kaunas, Lithuania",
+    "phone": "+37037203572"
+  },
+  {
+    "name": "Devils' Museum",
+    "address": "Aušros g. 6, 44174 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Kiemo Galerija",
+    "address": "Laisvės al. 106, 44253 Kaunas, Lithuania",
+    "phone": "10644253"
+  },
+  {
+    "name": "Akropolis",
+    "address": "Rotušės 28, 01100 Kaunas, Lithuania",
+    "phone": "+37037201569"
+  },
+  {
+    "name": "Aleksotas Hill",
+    "address": "Amerikos Lietuvių g. 6, 46251 Kaunas, Lithuania",
+    "phone": "+37037391086"
+  },
+  {
+    "name": "Žalgirio arena",
+    "address": "Aleksoto g. 3, 44280 Kaunas, Lithuania",
+    "phone": "+37037203854"
+  },
+  {
+    "name": "LLB Museum",
+    "address": "Nepriklausomybės a. 14, 44320 Kaunas, Lithuania",
+    "phone": "+37037226676"
+  },
+  {
+    "name": "CurioCity",
+    "address": "Vytauto Didžiojo tiltas, 44287 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Lithuanian Zoo",
+    "address": "Gailutės g. 4, 45324 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Kaunas City Museum",
+    "address": "Jonavos g. 3, 44269 Kaunas, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Kaunas Free Walking Tour",
+    "address": "K. Donelaičio g. 64, 44248 Kaunas, Lithuania",
+    "phone": "+37037320765"
+  },
+  {
+    "name": "Dangė Hotel",
+    "address": "Žvejų g. 21, 91247 Klaipėda, Lithuania",
+    "phone": "+37046211111"
+  },
+  {
+    "name": "Navalis Hotel",
+    "address": "Bangų g. 4, 91251 Klaipėda, Lithuania",
+    "phone": "+37046474900"
+  },
+  {
+    "name": "Amberton Hotel Klaipėda",
+    "address": "Jūros g. 23, 92125 Klaipėda, Lithuania",
+    "phone": "+37046385577"
+  },
+  {
+    "name": "MICHAELSON boutique HOTEL",
+    "address": "Žvejų g. 18A, 91241 Klaipėda, Lithuania",
+    "phone": "+37064063378"
+  },
+  {
+    "name": "National Hotel",
+    "address": "Darzu Str. 9, Aukštoji g. 15, 91246 Klaipėda, Lithuania",
+    "phone": "91591246"
+  },
+  {
+    "name": "Old Mill Hotel",
+    "address": "Žvejų g. 22, 91241 Klaipėda, Lithuania",
+    "phone": "+37046219215"
+  },
+  {
+    "name": "Dunetton",
+    "address": "Naujojo Sodo g. 1A, 92118 Klaipėda, Lithuania",
+    "phone": "+37046404372"
+  },
+  {
+    "name": "VICTORIA Hotel Klaipėda",
+    "address": "Galinio Pylimo g. 16, 91232 Klaipėda, Lithuania",
+    "phone": "+37046411884"
+  },
+  {
+    "name": "Hotel Euterpe",
+    "address": "Galinio Pylimo g. 16, 91232 Klaipėda, Lithuania",
+    "phone": "+37046411884"
+  },
+  {
+    "name": "Bohema",
+    "address": "S. Šimkaus g. 2, 92128 Klaipėda, Lithuania",
+    "phone": "+37062066774"
+  },
+  {
+    "name": "Memel Hotel",
+    "address": "Neringos g. 22, 00370 Palanga, Lithuania",
+    "phone": "+37068248558"
+  },
+  {
+    "name": "Smiltynės Jachtklubas",
+    "address": "Kretingos g. 52, 00128 Palanga, Lithuania",
+    "phone": "+37065659649"
+  },
+  {
+    "name": "Mercure Klaipeda City",
+    "address": "Vanagupės g. 14, 00169 Palanga, Lithuania",
+    "phone": "+37069886861"
+  },
+  {
+    "name": "Ararat All Suites Hotel & Restaurant",
+    "address": "Klaipėdos g. 9, 96341 Priekulė, Lithuania",
+    "phone": "+37068576885"
+  },
+  {
+    "name": "Green Park Hotel Klaipeda",
+    "address": "Birutės al. 48, 00135 Palanga, Lithuania",
+    "phone": "+37069834390"
+  },
+  {
+    "name": "Jacuzzi apartamentai Relaks",
+    "address": "Puodžių g. 15A, 92125 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Auror Hotel Klaipeda",
+    "address": "Mėtų skg. 1, 00137 Palanga, Lithuania",
+    "phone": "+37068497056"
+  },
+  {
+    "name": "Dangė Hotel",
+    "address": "Ramybės g. 25, 00129 Palanga, Lithuania",
+    "phone": "+37068903189"
+  },
+  {
+    "name": "Navalis Hotel",
+    "address": "J. Basanavičiaus g. 43, 00135 Palanga, Lithuania",
+    "phone": "+37064733383"
+  },
+  {
+    "name": "Hotel Aribe",
+    "address": "Virbališkės tak. 2, 00127 Palanga, Lithuania",
+    "phone": "+37067877793"
+  },
+  {
+    "name": "Heritage House",
+    "address": "Švyturio g. 22, 92271 Klaipėda, Lithuania",
+    "phone": "+37060327222"
+  },
+  {
+    "name": "Pirklių namai",
+    "address": "S. Daukanto g. 11, 00134 Palanga, Lithuania",
+    "phone": "+37069988808"
+  },
+  {
+    "name": "Pirklių namai",
+    "address": "Gintaro g. 41, 00133 Palanga, Lithuania",
+    "phone": "+37046030201"
+  },
+  {
+    "name": "Simon-Dach-Haus",
+    "address": "Dvaro g.1, Gobergiškė (Highway Kaunas - Klaipeda, 299km, 92498 Klaipėda, Lithuania",
+    "phone": "129992498"
+  },
+  {
+    "name": "Merchant Signature Suites",
+    "address": "Vytauto g. 40, 00129 Palanga, Lithuania",
+    "phone": "+37069995973"
+  },
+  {
+    "name": "Smiltynės Yachtclub Conference Center",
+    "address": "Gintaro 1a 311 Palanga, Palanga, Lithuania",
+    "phone": "+37067416555"
+  },
+  {
+    "name": "Klaipeda Hostel",
+    "address": "Smilčių g. 33, 00136 Palanga, Lithuania",
+    "phone": "+37064041120"
+  },
+  {
+    "name": "Pakrantė",
+    "address": "Darželio g. 5, 93195 Klaipėda, Lithuania",
+    "phone": "+37068742031"
+  },
+  {
+    "name": "Danės apartamentai",
+    "address": "J. Basanavičiaus g. 29, 00216 Palanga, Lithuania",
+    "phone": "+37061887123"
+  },
+  {
+    "name": "Old Mill Conference",
+    "address": "S. Dariaus ir S. Girėno g. 3, 00131 Palanga, Lithuania",
+    "phone": "+37061012000"
+  },
+  {
+    "name": "KUBU apartment",
+    "address": "Kęstučio g. 32, 00135 Palanga, Lithuania",
+    "phone": "+37061497788"
+  },
+  {
+    "name": "Pilies papedeje",
+    "address": "Meilės al. 11, 00135 Palanga, Lithuania",
+    "phone": "+37065540083"
+  },
+  {
+    "name": "Old town apartament",
+    "address": "S. Daukanto g. 35, 00135 Palanga, Lithuania",
+    "phone": "+37046053032"
+  },
+  {
+    "name": "Guest House in Klaipeda",
+    "address": "Vytauto g. 79, 00134 Palanga, Lithuania",
+    "phone": "+37060110130"
+  },
+  {
+    "name": "Promenada, viesbutis-restoranas, Promenade",
+    "address": "Baltijos a. 12, 00132 Palanga, Lithuania",
+    "phone": "+37065633888"
+  },
+  {
+    "name": "Da Home",
+    "address": "S. Daukanto g. 10A, 00135 Palanga, Lithuania",
+    "phone": "+37069829020"
+  },
+  {
+    "name": "Express Guest House",
+    "address": "Birute avenue 60, 00135 Palanga, Lithuania",
+    "phone": "+37046041411"
+  },
+  {
+    "name": "Red Brick Apartaments",
+    "address": "Pamario g. 14, 96240 Dreverna, Lithuania",
+    "phone": "+37060480108"
+  },
+  {
+    "name": "Bright Rooms Klaipėda",
+    "address": "Plaušės g. 4, 00155 Palanga, Lithuania",
+    "phone": "+37069835448"
+  },
+  {
+    "name": "Morena",
+    "address": "J. Basanavičiaus g. 11, 00216 Palanga, Lithuania",
+    "phone": "+37063054777"
+  },
+  {
+    "name": "Trumpalaike nuoma Klaipeda",
+    "address": "Ievos kalno g. 22, 93103 Juodkrantė, Lithuania",
+    "phone": "+37061101861"
+  },
+  {
+    "name": "Deluxe Jacuzzi apartamentas by Liuksai.lt",
+    "address": "S. Nėries g. 16, 00134 Palanga, Lithuania",
+    "phone": "+37069810979"
+  },
+  {
+    "name": "BAZZE Hostel",
+    "address": "Lenktoji g. 29, 95387 Toleikiai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Light House Coliving",
+    "address": "Tiltų g. 26A, 91246 Klaipėda, Lithuania",
+    "phone": "+37046411076"
+  },
+  {
+    "name": "Pajurio Vieskelis",
+    "address": "Danės g. 6 Ėgliškiai, 97161 Kretinga, Lithuania",
+    "phone": "+37065793772"
+  },
+  {
+    "name": "Tako Baras",
+    "address": "S. Nėries g. 35A, 00136 Palanga, Lithuania",
+    "phone": "+37069919394"
+  },
+  {
+    "name": "8 smilgos",
+    "address": "Nemirseta, Klaipėdos pl. 33i, 00101 Palanga, Lithuania",
+    "phone": "+37060088811"
+  },
+  {
+    "name": "Žaliasis Slėnis",
+    "address": "Vanagupės g. 31, 00169 Palanga, Lithuania",
+    "phone": "+37046041199"
+  },
+  {
+    "name": "Palanga Spa Luxury",
+    "address": "Klaipėdos r, Bažnyčios gatvė 42, 92399, Lithuania",
+    "phone": "+37062047979"
+  },
+  {
+    "name": "Giruliai Apartments",
+    "address": "Vilties g. 2, 92231 Klaipėda, Lithuania",
+    "phone": "+37065052311"
+  },
+  {
+    "name": "Vila Giruliai",
+    "address": "Kontininkų g. 9, 00169 Palanga, Lithuania",
+    "phone": "+37046056450"
+  },
+  {
+    "name": "„Aismarės“",
+    "address": "Kvietinių g. 14, 96136 Gargždai, Lithuania",
+    "phone": "+37046470430"
+  },
+  {
+    "name": "KUBU Loft",
+    "address": "Meilės al. 5, 00135 Palanga, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Friedrich Guesthouse",
+    "address": "Raguviškių g 11, 97210 Jokūbavas, Lithuania",
+    "phone": "+37069828899"
+  },
+  {
+    "name": "Palva",
+    "address": "Vytauto g. 76, 00129 Palanga, Lithuania",
+    "phone": "+37060102944"
+  },
+  {
+    "name": "Karklės Villa",
+    "address": "Placio 39 Karklės km. Klaipėdos raj, 92383, Lithuania",
+    "phone": "+37069984927"
+  },
+  {
+    "name": "Apartamentai Klaipėda",
+    "address": "Šaltkalvių g. 3, 91246 Klaipėda, Lithuania",
+    "phone": "+37062073337"
+  },
+  {
+    "name": "PAMIŠKĖ BOUTIQUE SPA - Lithuanian sauna - Garinė lietuviška Pirtis - Kubilas - Svečių Namelis dviems",
+    "address": "Bangų g. 19, 91250 Klaipėda, Lithuania",
+    "phone": "+37065691574"
+  },
+  {
+    "name": "Kerpė Hotel & SPA",
+    "address": "Smiltynės g. 19, 93100 Klaipėda, Lithuania",
+    "phone": "+37061275134"
+  },
+  {
+    "name": "Grand Baltic Dunes",
+    "address": "H. Manto g. 37A, 92236 Klaipėda, Lithuania",
+    "phone": "+37065052311"
+  },
+  {
+    "name": "LIJO",
+    "address": "Birutės al. 26, 00135 Palanga, Lithuania",
+    "phone": "+37061522255"
+  },
+  {
+    "name": "Vila Komoda",
+    "address": "Tilžės g. 9, 91251 Klaipėda, Lithuania",
+    "phone": "+37061777399"
+  },
+  {
+    "name": "Hotel Meduza",
+    "address": "Vasarotojų g. 2, 92281 Klaipėda, Lithuania",
+    "phone": "+37060577792"
+  },
+  {
+    "name": "Vanagupe Hotel",
+    "address": "Druskininkų g. 3, 92281 Klaipėda, Lithuania",
+    "phone": "+37061130225"
+  },
+  {
+    "name": "Palangos kempingas Compensa",
+    "address": "Birutės al. 60, 00135 Palanga, Lithuania",
+    "phone": "+37046041414"
+  },
+  {
+    "name": "\"Gaspada\" kaimo sodyba",
+    "address": "Jungtinė g. 2, 92359 Aukštkiemiai, Lithuania",
+    "phone": "+37046313898"
+  },
+  {
+    "name": "KUBU Guest House",
+    "address": "Smilgų g. 8, 92277 Klaipėda, Lithuania",
+    "phone": "+37069993933"
+  },
+  {
+    "name": "Arčiau Jūros",
+    "address": "Šlakių g. 4, 92277 Klaipėda, Lithuania",
+    "phone": "+37069500900"
+  },
+  {
+    "name": "Idorelax",
+    "address": "Pasvalio g. 10, 92307 Klaipėda, Lithuania",
+    "phone": "+37060933504"
+  },
+  {
+    "name": "Irmos Apartamentai salia Klaipedos",
+    "address": "Šilutės pl. 21, 91107 Klaipėda, Lithuania",
+    "phone": "+37067747775"
+  },
+  {
+    "name": "Villa Elena",
+    "address": "Liepojos g. 7A, 92289 Klaipėda, Lithuania",
+    "phone": "+37068078036"
+  },
+  {
+    "name": "Friedricho pasažas",
+    "address": "Liepų g. 83, 92195 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Juodasis kalnas, viesbutis, Lotas",
+    "address": "Kretingos g. 7a, 00132 Palanga, Lithuania",
+    "phone": "+37068777479"
+  },
+  {
+    "name": "11B Svečių namai Palanga",
+    "address": "Vytauto g. 102, 00132 Palanga, Lithuania",
+    "phone": "10200132"
+  },
+  {
+    "name": "Dino Hotel",
+    "address": "Baltijos pr. 16-115, 94109 Klaipėda, Lithuania",
+    "phone": "1611594109"
+  },
+  {
+    "name": "Sky Villa",
+    "address": "Šaulių g. 27, 92231 Klaipėda, Lithuania",
+    "phone": "+37061154444"
+  },
+  {
+    "name": "Drevernos kempingas",
+    "address": "Bijūnų g. 2, 91199 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Palanga SPA Design",
+    "address": "Audros g. 8, 92278 Klaipėda, Lithuania",
+    "phone": "+37046351314"
+  },
+  {
+    "name": "Vila Florena",
+    "address": "Priestočio g. 14, 92227 Klaipėda, Lithuania",
+    "phone": "+37065594407"
+  },
+  {
+    "name": "Baltic Inn hotel",
+    "address": "Naujojo Sodo g. 14, 92127 Klaipėda, Lithuania",
+    "phone": "+37065052311"
+  },
+  {
+    "name": "Amsterdam Plaza",
+    "address": "Šaulių g. 41, 92224 Klaipėda, Lithuania",
+    "phone": "+37046403020"
+  },
+  {
+    "name": "\"Žuvėdra Hotel\"",
+    "address": "Tomo g. 9, 91247 Klaipėda, Lithuania",
+    "phone": "+37067400380"
+  },
+  {
+    "name": "Žilvinas Hotel Palanga",
+    "address": "Butkų Juzės g. 3, 92228 Klaipėda, Lithuania",
+    "phone": "+37065520649"
+  },
+  {
+    "name": "Sun Coast",
+    "address": "Sukilėlių g. 16, 91244 Klaipėda, Lithuania",
+    "phone": "+37067109876"
+  },
+  {
+    "name": "Palangos vėtra",
+    "address": "Butkų Juzės g. 14 - 8, 92228 Klaipėda, Lithuania",
+    "phone": "14892228"
+  },
+  {
+    "name": "Vila Domino",
+    "address": "Puodžių g. 17, 92125 Klaipėda, Lithuania",
+    "phone": "+37067244166"
+  },
+  {
+    "name": "Senoji Hansa",
+    "address": "Danės g. 31, 92108 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Klaipėda Inn",
+    "address": "Žvejų g. 20, 91241 Klaipėda, Lithuania",
+    "phone": "+37046474764"
+  },
+  {
+    "name": "Hotel Gabija",
+    "address": "Smiltynės g. 15, 93100 Klaipėda, Lithuania",
+    "phone": "+37065200118"
+  },
+  {
+    "name": "Vila Diemedis",
+    "address": "Butkų Juzės g. 7, 92228 Klaipėda, Lithuania",
+    "phone": "+37065594407"
+  },
+  {
+    "name": "Vlantana",
+    "address": "Sukilėlių g. 18 - 2, 91244 Klaipėda, Lithuania",
+    "phone": "18291244"
+  },
+  {
+    "name": "Labas Rytas Vila",
+    "address": "Naujojo Sodo g. 12, 92127 Klaipėda, Lithuania",
+    "phone": "+37046313179"
+  },
+  {
+    "name": "Poilsis Palangoje",
+    "address": "Smiltynės g. 25, 93100 Klaipėda, Lithuania",
+    "phone": "+37061113949"
+  },
+  {
+    "name": "Active Hotel Klaipėda",
+    "address": "Naujojo Sodo g. 12, 92127 Klaipėda, Lithuania",
+    "phone": "+37046313179"
+  },
+  {
+    "name": "Guest House Rasa",
+    "address": "H. Manto g. 23, 92234 Klaipėda, Lithuania",
+    "phone": "+37046404200"
+  },
+  {
+    "name": "Muza Hotel",
+    "address": "Turgaus g. 37A-10, 91249 Klaipėda, Lithuania",
+    "phone": "371091249"
+  },
+  {
+    "name": "Melt In Palanga",
+    "address": "Jūros g. 7, 92127 Klaipėda, Lithuania",
+    "phone": "+37046311481"
+  },
+  {
+    "name": "Vila Romantika",
+    "address": "Liepų g. 38, 92107 Klaipėda, Lithuania",
+    "phone": "+37068633666"
+  },
+  {
+    "name": "Guest House BELLAVILA \"",
+    "address": "Bangų str 17a, 91250 Klaipėda, Lithuania",
+    "phone": "+37046490940"
+  },
+  {
+    "name": "Guest House Minge",
+    "address": "Nemuno g. 51, 91190 Klaipėda, Lithuania",
+    "phone": "+37046297000"
+  },
+  {
+    "name": "Svečių namai Pas Loretą",
+    "address": "Minijos g. 119, 93231 Klaipėda, Lithuania",
+    "phone": "11993231"
+  },
+  {
+    "name": "Katpėdėlė",
+    "address": "Varnėnų g. 7, 91189 Klaipėda, Lithuania",
+    "phone": "+37060913320"
+  },
+  {
+    "name": "Pepper Grey",
+    "address": "I. Kanto g. 44, 92238 Klaipėda, Lithuania",
+    "phone": "+37069839960"
+  },
+  {
+    "name": "Momo Grill",
+    "address": "Puodžių g. 3, 92127 Klaipėda, Lithuania",
+    "phone": "+37046216402"
+  },
+  {
+    "name": "Pas Francesco",
+    "address": "Liepų g. 20, 92113 Klaipėda, Lithuania",
+    "phone": "+37069312355"
+  },
+  {
+    "name": "A Casa Mia",
+    "address": "Liepų g. 4, 92114 Klaipėda, Lithuania",
+    "phone": "+37062663362"
+  },
+  {
+    "name": "monai",
+    "address": "Turgaus g. 10, 91247 Klaipėda, Lithuania",
+    "phone": "+37063444169"
+  },
+  {
+    "name": "Skandalas",
+    "address": "Turgaus g. 20, 91249 Klaipėda, Lithuania",
+    "phone": "+37069053030"
+  },
+  {
+    "name": "Viskas lietuviška",
+    "address": "Baltijos 24B/Taikos 64, 93226 Klaipėda, Lithuania",
+    "phone": "246493226"
+  },
+  {
+    "name": "Ridikai",
+    "address": "Žvejų g. 12, 91248 Klaipėda, Lithuania",
+    "phone": "+37061828343"
+  },
+  {
+    "name": "Katpėdėlė",
+    "address": "Vingio g. 21, 95203 Klaipėda, Lithuania",
+    "phone": "+37065427770"
+  },
+  {
+    "name": "ETNO DVARAS",
+    "address": "Baltijos pr. 103, 93222 Klaipėda, Lithuania",
+    "phone": "10393222"
+  },
+  {
+    "name": "Piccolini šeimos restoranas",
+    "address": "Vingio g. 6, 95119 Klaipėda, Lithuania",
+    "phone": "+37060233316"
+  },
+  {
+    "name": "IQ Baras",
+    "address": "Laukininkų g. 17, 95177 Klaipėda, Lithuania",
+    "phone": "+37064657144"
+  },
+  {
+    "name": "Kavinė Klaipėdos Senamiestis",
+    "address": "Naujoji Uosto g. 10, 92122 Klaipėda, Lithuania",
+    "phone": "+37060606236"
+  },
+  {
+    "name": "Casa Della Pasta",
+    "address": "S. Šimkaus g. 2, 92127, 92127 Klaipėda, Lithuania",
+    "phone": "29212792127"
+  },
+  {
+    "name": "Senoji Hansa",
+    "address": "Priestočio g. 1, 92228 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Felsner Restoranas / Dinner Club",
+    "address": "M. Mažvydo al. 6, 92131 Klaipėda, Lithuania",
+    "phone": "+37066866733"
+  },
+  {
+    "name": "Baltas Ruonis",
+    "address": "Taikos pr. 52c, 91184 Klaipėda, Lithuania",
+    "phone": "+37060832221"
+  },
+  {
+    "name": "Lietuviški patiekalai",
+    "address": "Kūlių Vartų g. 1, 91286 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "MANAMI",
+    "address": "Laukininkų g. 17, 95177 Klaipėda, Lithuania",
+    "phone": "+37061220099"
+  },
+  {
+    "name": "Stora antis",
+    "address": "Mažojo Kaimelio g. 1, 92328 Klaipėda, Lithuania",
+    "phone": "+37060789189"
+  },
+  {
+    "name": "MUDU",
+    "address": "Taikos pr. 35-21, 91148 Klaipėda, Lithuania",
+    "phone": "352191148"
+  },
+  {
+    "name": "BBQ Barbaras",
+    "address": "Taikos pr. 117A, 94231 Klaipėda, Lithuania",
+    "phone": "11794231"
+  },
+  {
+    "name": "NAIRI",
+    "address": "Taikos pr. 64, 93225 Klaipėda, Lithuania",
+    "phone": "+37063511555"
+  },
+  {
+    "name": "Meat Lovers Klaipėda",
+    "address": "Taikos pr. 119, 94231 Klaipėda, Lithuania",
+    "phone": "11994231"
+  },
+  {
+    "name": "ToLi nuo klasikos",
+    "address": "Minijos g. 90, 93234 Klaipėda, Lithuania",
+    "phone": "+37069839246"
+  },
+  {
+    "name": "XII",
+    "address": "Šilutės pl. 56, 94181 Klaipėda, Lithuania",
+    "phone": "+37067067059"
+  },
+  {
+    "name": "Meridian",
+    "address": "Liepų g. 2, 92114 Klaipėda, Lithuania",
+    "phone": "+37068650640"
+  },
+  {
+    "name": "VIVALAVITA restoranas",
+    "address": "H. Manto g. 43, 92253 Klaipėda, Lithuania",
+    "phone": "+37046412117"
+  },
+  {
+    "name": "Gaisrinė | Restobaras",
+    "address": "Taikos pr. 56, 91184 Klaipėda, Lithuania",
+    "phone": "+37065811113"
+  },
+  {
+    "name": "Charlie Pizza",
+    "address": "Danės g., 93100 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Friedricho pasažas",
+    "address": "Naujojo Sodo g. 1, 92118 Klaipėda, Lithuania",
+    "phone": "+37063045444"
+  },
+  {
+    "name": "Restoranas Navalis",
+    "address": "Kūlių Vartų g. 7, 91251 Klaipėda, Lithuania",
+    "phone": "+37064843555"
+  },
+  {
+    "name": "Loca'les Klaipeda",
+    "address": "Priešpilio g. 2, 91240 Klaipėda, Lithuania",
+    "phone": "+37061112224"
+  },
+  {
+    "name": "Mažoji Turkija",
+    "address": "Audros g. 8, 92278 Klaipėda, Lithuania",
+    "phone": "+37062390876"
+  },
+  {
+    "name": "Dining \"At Jolanta\"",
+    "address": "Taikos pr. 5, 91133 Klaipėda, Lithuania",
+    "phone": "+37065985868"
+  },
+  {
+    "name": "Saldusis Biskvitas",
+    "address": "Taikos pr. 101-11, 94198 Klaipėda, Lithuania",
+    "phone": "1011194198"
+  },
+  {
+    "name": "Charlie Pizza",
+    "address": "Ežero g. 47, 92337 Klaipėda, Lithuania",
+    "phone": "+37061367797"
+  },
+  {
+    "name": "Kompotas",
+    "address": "Minijos g. 90, 93239 Klaipėda, Lithuania",
+    "phone": "+37065983230"
+  },
+  {
+    "name": "Tonas",
+    "address": "Danės g. 8, 92109 Klaipėda, Lithuania",
+    "phone": "+37067067059"
+  },
+  {
+    "name": "HURRYCURRY Indian restaurant",
+    "address": "Šilutės pl. 16B, 91175 Klaipėda, Lithuania",
+    "phone": "+37067069090"
+  },
+  {
+    "name": "Lunch Club Klaipėda",
+    "address": "g 92231, Šaulių g. 36, 92231 Klaipėda, Lithuania",
+    "phone": "922313692231"
+  },
+  {
+    "name": "Storas katinas",
+    "address": "Liepų g. 81, 92195 Klaipėda, Lithuania",
+    "phone": "+37069960304"
+  },
+  {
+    "name": "GRASSO",
+    "address": "Audros g. 8, 92278 Klaipėda, Lithuania",
+    "phone": "+37065868401"
+  },
+  {
+    "name": "Amigos",
+    "address": "Taikos pr. 8a, 91229 Klaipėda, Lithuania",
+    "phone": "+37067727779"
+  },
+  {
+    "name": "Delano",
+    "address": "Taikos pr. 139, 94251 Klaipėda, Lithuania",
+    "phone": "13994251"
+  },
+  {
+    "name": "Kaštonas/ChestNut",
+    "address": "Danės g., 92120 Klaipėda, Lithuania",
+    "phone": "+37067381896"
+  },
+  {
+    "name": "Trapiche steakhouse",
+    "address": "Taikos pr. 23, 91144 Klaipėda, Lithuania",
+    "phone": "+37064383515"
+  },
+  {
+    "name": "Samurai. Ramen restoranas",
+    "address": "Žvejų g. 16, 91241 Klaipėda, Lithuania",
+    "phone": "+37064522888"
+  },
+  {
+    "name": "Restoranas XIX amžius",
+    "address": "H. Manto g. 38, 92233 Klaipėda, Lithuania",
+    "phone": "+37063511555"
+  },
+  {
+    "name": "GUNDĖ, kavinė",
+    "address": "Žardininkų g. 115, 94233 Klaipėda, Lithuania",
+    "phone": "11594233"
+  },
+  {
+    "name": "Gurmanai",
+    "address": "H. Manto g. 90, 92295 Klaipėda, Lithuania",
+    "phone": "+37061641556"
+  },
+  {
+    "name": "Penn station",
+    "address": "H. Manto g., 92295 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Natural Market Klaipėda",
+    "address": "H. Manto g. 44-26, 92233 Klaipėda, Lithuania",
+    "phone": "442692233"
+  },
+  {
+    "name": "MICHAELSON boutique RESTOBAR",
+    "address": "Turgaus g. 1, 91247 Klaipėda, Lithuania",
+    "phone": "+37069178693"
+  },
+  {
+    "name": "Nerija",
+    "address": "Turgaus g. 23, 91247 Klaipėda, Lithuania",
+    "phone": "+37063072606"
+  },
+  {
+    "name": "Stasio Kampas",
+    "address": "H. Manto g. 36, 92233 Klaipėda, Lithuania",
+    "phone": "+37067675898"
+  },
+  {
+    "name": "Jing Binlou",
+    "address": "Žvejų g. 18A, 91241 Klaipėda, Lithuania",
+    "phone": "+37064063378"
+  },
+  {
+    "name": "Barbeque and Grill",
+    "address": "Danės g. 28, 91241 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Easy Lounge",
+    "address": "M. Mažvydo al. 5-25, 92131 Klaipėda, Lithuania",
+    "phone": "52592131"
+  },
+  {
+    "name": "SUSHI ROOM",
+    "address": "S. Šimkaus g. 14, 92129 Klaipėda, Lithuania",
+    "phone": "+37067141516"
+  },
+  {
+    "name": "Charlie Pizza",
+    "address": "Sinagogų g. 7, 91233 Klaipėda, Lithuania",
+    "phone": "+37060148555"
+  },
+  {
+    "name": "Amam pica",
+    "address": "H. Manto g. 1, 92127 Klaipėda, Lithuania",
+    "phone": "+37063073822"
+  },
+  {
+    "name": "Skonių alėja",
+    "address": "S. Nėries g. 16A, 92228 Klaipėda, Lithuania",
+    "phone": "+37060434248"
+  },
+  {
+    "name": "Salsa duo-bistro, restoranas, Purpura",
+    "address": "Šaltkalvių g. 26a, 91246 Klaipėda, Lithuania",
+    "phone": "+37064570911"
+  },
+  {
+    "name": "Dodo Pizza",
+    "address": "Smiltynės g. 15, 93100 Klaipėda, Lithuania",
+    "phone": "+37060778573"
+  },
+  {
+    "name": "Portugal Beach House",
+    "address": "Taikos pr. 61, 91182 Klaipėda, Lithuania",
+    "phone": "+37046469136"
+  },
+  {
+    "name": "Pizza Saturno",
+    "address": "J. Janonio g. 1, 92236 Klaipėda, Lithuania",
+    "phone": "+37060867101"
+  },
+  {
+    "name": "Čili Pizza",
+    "address": "Danės g. 6, 92109 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Čili Pizza",
+    "address": "Danės g. 15, 92117 Klaipėda, Lithuania",
+    "phone": "+37064153371"
+  },
+  {
+    "name": "Open Deck Klaipeda",
+    "address": "Žvejų g. 21, 91247 Klaipėda, Lithuania",
+    "phone": "+37046416173"
+  },
+  {
+    "name": "Tabu Restobar",
+    "address": "Tilžės g. 6, 91132 Klaipėda, Lithuania",
+    "phone": "+37068123375"
+  },
+  {
+    "name": "Pietūs Romdera",
+    "address": "S. Šimkaus g. 6, 92128 Klaipėda, Lithuania",
+    "phone": "+37064691161"
+  },
+  {
+    "name": "Foxy Pizza",
+    "address": "Jūros g. 23, 92125 Klaipėda, Lithuania",
+    "phone": "+37046385577"
+  },
+  {
+    "name": "Rūksta dūmai Kebab & Pizza",
+    "address": "Šilutės pl. 33, 91107 Klaipėda, Lithuania",
+    "phone": "+37060006168"
+  },
+  {
+    "name": "Domo's pizza bar",
+    "address": "Tiltų g. 13, 91249 Klaipėda, Lithuania",
+    "phone": "+37068316343"
+  },
+  {
+    "name": "INTERNO Baras Restoranas",
+    "address": "M. Mažvydo al. 9, 92136 Klaipėda, Lithuania",
+    "phone": "+37065173211"
+  },
+  {
+    "name": "Kinu drakonas, restoranas, Vitungas",
+    "address": "Taikos pr. 61, 91182 Klaipėda, Lithuania",
+    "phone": "+37061253815"
+  },
+  {
+    "name": "La marina",
+    "address": "Liepojos g. 26, 92329 Klaipėda, Lithuania",
+    "phone": "+37065039561"
+  },
+  {
+    "name": "Fish & Chips",
+    "address": "Žardininkų g., 94231 Klaipėda, Lithuania",
+    "phone": "+37068457068"
+  },
+  {
+    "name": "Švyturys Bhouse",
+    "address": "Tiltų g. 26A, 91246 Klaipėda, Lithuania",
+    "phone": "+37046411076"
+  },
+  {
+    "name": "Sushi Express",
+    "address": "H. Manto g. 23, 92234 Klaipėda, Lithuania",
+    "phone": "+37046404200"
+  },
+  {
+    "name": "KFC",
+    "address": "Taikos pr. 141, 94284 Klaipėda, Lithuania",
+    "phone": "14194284"
+  },
+  {
+    "name": "Crisperia",
+    "address": "Žvejų g. 4, 91248 Klaipėda, Lithuania",
+    "phone": "+37062655222"
+  },
+  {
+    "name": "Pietūs Romdera",
+    "address": "Naujojo Sodo g. 1A, 92118 Klaipėda, Lithuania",
+    "phone": "+37068654701"
+  },
+  {
+    "name": "Hesburger",
+    "address": "Naujojo Sodo g. 1, 92118 Klaipėda, Lithuania",
+    "phone": "+37046404375"
+  },
+  {
+    "name": "Čili Pizza",
+    "address": "Audros g. 2a, 92278 Klaipėda, Lithuania",
+    "phone": "+37064882007"
+  },
+  {
+    "name": "Kinų bambukas",
+    "address": "Danės g. 1, 92120 Klaipėda, Lithuania",
+    "phone": "+37065221998"
+  },
+  {
+    "name": "Hot pizza",
+    "address": "Kairioji Danės krantinė, Kurpių g., 91249 Klaipėda, Lithuania",
+    "phone": "+37060131866"
+  },
+  {
+    "name": "Dodo Pizza - Arena",
+    "address": "Minijos g. 169K, 94287 Klaipėda, Lithuania",
+    "phone": "16994287"
+  },
+  {
+    "name": "ASAMA Sushi Klaipėda",
+    "address": "Laukininkų g. 17a, 95146 Klaipėda, Lithuania",
+    "phone": "+37061000917"
+  },
+  {
+    "name": "STREET'AS fast food restaurant",
+    "address": "Tiltų g. 6, 91248 Klaipėda, Lithuania",
+    "phone": "+37068625020"
+  },
+  {
+    "name": "Black Pepper",
+    "address": "Jono g. 6, 91249 Klaipėda, Lithuania",
+    "phone": "+37060235354"
+  },
+  {
+    "name": "Maisto Dirbtuvė",
+    "address": "Taikos pr. 61, 91182 Klaipėda, Lithuania",
+    "phone": "+37061128315"
+  },
+  {
+    "name": "jolanta",
+    "address": "Taikos pr. 36, 91220 Klaipėda, Lithuania",
+    "phone": "+37046380383"
+  },
+  {
+    "name": "Chickeninė",
+    "address": "Jūros g. 23, 91247 Klaipėda, Lithuania",
+    "phone": "+37065820121"
+  },
+  {
+    "name": "Šviežios bandelės",
+    "address": "Šaulių g. 28, 92231 Klaipėda, Lithuania",
+    "phone": "+37046490800"
+  },
+  {
+    "name": "Kinų siena",
+    "address": "Kurpių g., 91248 Klaipėda, Lithuania",
+    "phone": "+37061810098"
+  },
+  {
+    "name": "Pas Beta",
+    "address": "Vėtros g. 8, 92276 Klaipėda, Lithuania",
+    "phone": "+37067323306"
+  },
+  {
+    "name": "Akropolis Klaipėda",
+    "address": "Malūnininkų g. 5, 92249 Klaipėda, Lithuania",
+    "phone": "+37068484556"
+  },
+  {
+    "name": "Godelija",
+    "address": "Liepojos g. 27, 92334 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "HOME IDEAS CENTER NIC Klaipeda",
+    "address": "Taikos pr. 66A, 93219 Klaipėda, Lithuania",
+    "phone": "+37046300164"
+  },
+  {
+    "name": "BIG",
+    "address": "Taikos pr. 6, 91133 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Studlendas",
+    "address": "Šilutės pl. 35, 94105 Klaipėda, Lithuania",
+    "phone": "+37046416416"
+  },
+  {
+    "name": "Banginis",
+    "address": "Taikos pr. 139, 94284 Klaipėda, Lithuania",
+    "phone": "13994284"
+  },
+  {
+    "name": "Grandus",
+    "address": "Taikos pr. 141, 94284 Klaipėda, Lithuania",
+    "phone": "14194284"
+  },
+  {
+    "name": "Saturnas",
+    "address": "H. Manto g. 90-1, 92295 Klaipėda, Lithuania",
+    "phone": "90192295"
+  },
+  {
+    "name": "MOLAS",
+    "address": "Minijos g. 42, 91197 Klaipėda, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Baltic selection",
+    "address": "Taikos pr. 61, 91182 Klaipėda, Lithuania",
+    "phone": "+37065994510"
+  },
+  {
+    "name": "Pedestrian Shopping Street",
+    "address": "Šilutės pl. 40A, 94137 Klaipėda, Lithuania",
+    "phone": "+37080020050"
+  },
+  {
+    "name": "Mango",
+    "address": "Taikos pr. 61, 91182 Klaipėda, Lithuania",
+    "phone": "+37061216099"
+  },
+  {
+    "name": "Hobby Center - Born to rest, but forced to work!",
+    "address": "Sportininkų g. 18, 92262 Klaipėda, Lithuania",
+    "phone": "+37080020050"
+  },
+  {
+    "name": "Klaipėdos turizmo ir kultūros informacijos centras",
+    "address": "Turgaus g. 7, 91247 Klaipėda, Lithuania",
+    "phone": "+37046412186"
+  },
+  {
+    "name": "Maxima",
+    "address": "Dubysos g. 25A, 91181 Klaipėda, Lithuania",
+    "phone": "+37046340955"
+  },
+  {
+    "name": "Maxima",
+    "address": "J. Basanavičiaus g. 16, 00216 Palanga, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Park hotel siauliai Viešbutis",
+    "address": "Poilsio g. 16, 79228 Šiauliai, Lithuania",
+    "phone": "+37065385555"
+  },
+  {
+    "name": "Park hotel siauliai Viešbutis",
+    "address": "Poilsio g. 16, 79207 Šiauliai, Lithuania",
+    "phone": "+37064155558"
+  },
+  {
+    "name": "ŠIAULIŲ KRAŠTO MEDŽIOTOJŲ UŽEIGA viešbutis",
+    "address": "Stoties g. 14, 77157 Šiauliai, Lithuania",
+    "phone": "+37069827162"
+  },
+  {
+    "name": "Turnė",
+    "address": "Dubijos g. 20, 77207 Šiauliai, Lithuania",
+    "phone": "+37041524526"
+  },
+  {
+    "name": "Litrada Apartments",
+    "address": "S. Lukauskio g. 5A, 76236 Šiauliai, Lithuania",
+    "phone": "+37060013112"
+  },
+  {
+    "name": "SI Apartments",
+    "address": "Rūdės g. 9, 77155 Šiauliai, Lithuania",
+    "phone": "+37069879513"
+  },
+  {
+    "name": "hotel Žvejų Užeiga",
+    "address": "Aušros g. 1, 81493 Šiauliai, Lithuania",
+    "phone": "+37068619191"
+  },
+  {
+    "name": "Viešbutis - Baras \"Grafaitė\"",
+    "address": "S. Lukauskio g. 5A, 76236 Šiauliai, Lithuania",
+    "phone": "+37060013112"
+  },
+  {
+    "name": "Sweet Apartments",
+    "address": "Dvaro g. 120, 76206 Šiauliai, Lithuania",
+    "phone": "12076206"
+  },
+  {
+    "name": "Simona House",
+    "address": "Vėžežerio kaimas 3, Šaukėnų seniūnija, Kelmės rajonas, 86424 Gaugariai, Lithuania",
+    "phone": "+37068720984"
+  },
+  {
+    "name": "Saulys Hotel",
+    "address": "Targauskiai 4, 86432 Targauskiai, Lithuania",
+    "phone": "+37068265959"
+  },
+  {
+    "name": "Nightingale guest house",
+    "address": "Naisių km., Kelmės raj., Mančiai, LT-86433, 86433, Lithuania",
+    "phone": "8643386433"
+  },
+  {
+    "name": "KEMPINGAS, RĖKYVA",
+    "address": "Vyturių g. 20, 76394 Šiauliai, Lithuania",
+    "phone": "+37060996077"
+  },
+  {
+    "name": "Motelis Saurida",
+    "address": "k., Šiaulių r, Gėlės g. 6, Naisių k, 81474 Naisiai, Lithuania",
+    "phone": "+37062066813"
+  },
+  {
+    "name": "Geltona, Kavinė-Motelis",
+    "address": "Gytarių g. 25, 78398 Šiauliai, Lithuania",
+    "phone": "+37041510502"
+  },
+  {
+    "name": "Hotel \"Šiauliai\"",
+    "address": "Lieporių g. 25, 78302 Šiauliai, Lithuania",
+    "phone": "+37063626860"
+  },
+  {
+    "name": "Girele",
+    "address": "Veterinarijos g. 25, 76310 Šiauliai, Lithuania",
+    "phone": "+37068364467"
+  },
+  {
+    "name": "motel PANORAMA",
+    "address": "Serbentų g. 117, 77116 Šiauliai, Lithuania",
+    "phone": "11777116"
+  },
+  {
+    "name": "Smakų Smakas",
+    "address": "J. Basanavičiaus g. 43a, 76194 Šiauliai, Lithuania",
+    "phone": "+37061069616"
+  },
+  {
+    "name": "Saulininkas",
+    "address": "Vaidoto g. 33, 76145 Šiauliai, Lithuania",
+    "phone": "+37065023914"
+  },
+  {
+    "name": "Pirčių slėnis",
+    "address": "V. Bielskio g. 13, 76176 Šiauliai, Lithuania",
+    "phone": "+37065024029"
+  },
+  {
+    "name": "„Meškių Dvarkiemis“",
+    "address": "Rokiškio g. 8A, 77171 Šiauliai, Lithuania",
+    "phone": "+37041522205"
+  },
+  {
+    "name": "Central Hotel Radviliškis",
+    "address": "Dvaro g. 64, 76347 Šiauliai, Lithuania",
+    "phone": "+37068511215"
+  },
+  {
+    "name": "Juro Guest House",
+    "address": "Spindulio g. 3, 76163 Šiauliai, Lithuania",
+    "phone": "+37067717276"
+  },
+  {
+    "name": "TOMAS",
+    "address": "Grafo Zubovo g. 10, 76177 Šiauliai, Lithuania",
+    "phone": "+37068731903"
+  },
+  {
+    "name": "Siauliu apartamentai",
+    "address": "Alkos g. 7, Aleksandrijos k., Šiaulių r., Šiauliai, Lithuania",
+    "phone": "+37064012612"
+  },
+  {
+    "name": "Andriaus Apartamentai",
+    "address": "Vytauto g. 16, 76356 Šiauliai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Pigi nakvyne",
+    "address": "Alytaus g. 7A, 76164 Šiauliai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Alkos Namai",
+    "address": "Aušros al. 9, 76298 Šiauliai, Lithuania",
+    "phone": "+37061129550"
+  },
+  {
+    "name": "Minimalist.Apartment&Studio",
+    "address": "Stoties g. 14, 77157 Šiauliai, Lithuania",
+    "phone": "+37069827162"
+  },
+  {
+    "name": "Villa Karolina",
+    "address": "Tilžės g. 63A, 78166 Šiauliai, Lithuania",
+    "phone": "+37041415150"
+  },
+  {
+    "name": "Tournai, guest house",
+    "address": "Gėlės g. 6, 81474 Naisiai, Lithuania",
+    "phone": "+37061237896"
+  },
+  {
+    "name": "Restoranas „Baltas gandras“",
+    "address": "S. Nėries g. 7, 76341 Šiauliai, Lithuania",
+    "phone": "+37061874886"
+  },
+  {
+    "name": "Villa Midesta",
+    "address": "Meškių km., Bubių sen, Šiaulių r, Bubiai, Lithuania",
+    "phone": "+37060357005"
+  },
+  {
+    "name": "Dvaro condo",
+    "address": "Radvilų g. 9, 82177 Radviliškis, Lithuania",
+    "phone": "+37061218333"
+  },
+  {
+    "name": "Restas Šiauliai",
+    "address": "S. Lukauskio g. 5A, 76236 Šiauliai, Lithuania",
+    "phone": "+37068681187"
+  },
+  {
+    "name": "Amber Hostel",
+    "address": "Plento g. 3, Šniūraičiai, Lithuania",
+    "phone": "+37061446630"
+  },
+  {
+    "name": "Mobusta, viesbutis",
+    "address": "k, Ilgoji gatvė 2, 80196 Aukštelkė, Lithuania",
+    "phone": "+37041500050"
+  },
+  {
+    "name": "Vila 1936",
+    "address": "Domantų kaim. 1A, Meskuiciu sen., Šiauliai, LT-81439, 81439, Lithuania",
+    "phone": "18143981439"
+  },
+  {
+    "name": "Skifija / Скифия",
+    "address": "Vilniaus g. 373A, 76326 Šiauliai, Lithuania",
+    "phone": "37376326"
+  },
+  {
+    "name": "Nakvynė pigiau",
+    "address": "Bačiūnų g. 58F, 79213 Šiauliai, Lithuania",
+    "phone": "+37067933146"
+  },
+  {
+    "name": "GP Hostel",
+    "address": "Dubysos g. 1, 80201 Bubiai, Lithuania",
+    "phone": "+37041430404"
+  },
+  {
+    "name": "Vaivorykste",
+    "address": "Plento g. 13, Toliočiai, Šiaulių r., 76319 Toliočiai, Lithuania",
+    "phone": "+37060111115"
+  },
+  {
+    "name": "Pusele, kavine, Sardegas",
+    "address": "Girulių g. 22B, 78140 Šiauliai, Lithuania",
+    "phone": "+37064577130"
+  },
+  {
+    "name": "Pilaitė prie Gudelių ežero",
+    "address": "Siauliu Raj Berzynes Km 80182 Siauliai, 80182, Lithuania",
+    "phone": "8018280182"
+  },
+  {
+    "name": "Svečių namai „Baltas gandras“",
+    "address": "Draugystės pr. 25, 76289 Šiauliai, Lithuania",
+    "phone": "+37041437333"
+  },
+  {
+    "name": "Birdwatch-Lithuania",
+    "address": "Vasario 16-osios g. 40, 76351 Šiauliai, Lithuania",
+    "phone": "164076351"
+  },
+  {
+    "name": "Azuolu slenis, kaimo turizmo sodyba",
+    "address": "Eglyno g. 72, 76216 Šiauliai, Lithuania",
+    "phone": "+37068750163"
+  },
+  {
+    "name": "Vezezeris",
+    "address": "Gumbinės g. 34, 77167 Šiauliai, Lithuania",
+    "phone": "+37061446630"
+  },
+  {
+    "name": "TRYS, restaurant",
+    "address": "Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "Black Bar",
+    "address": "Vilniaus g. 128, 76291 Šiauliai, Lithuania",
+    "phone": "12876291"
+  },
+  {
+    "name": "Kapitonas Morganas",
+    "address": "Tilžės g. 63A, 78166 Šiauliai, Lithuania",
+    "phone": "+37069815673"
+  },
+  {
+    "name": "Senasis sodzius",
+    "address": "Vilniaus g. 138, 76296 Šiauliai, Lithuania",
+    "phone": "13876296"
+  },
+  {
+    "name": "Žemaitis Restoranas",
+    "address": "Vasario 16-osios g. 48, 76291 Šiauliai, Lithuania",
+    "phone": "164876291"
+  },
+  {
+    "name": "Leja",
+    "address": "Stoties g. 3, 77156 Šiauliai, Lithuania",
+    "phone": "+37041431867"
+  },
+  {
+    "name": "Houdini Šiauliai",
+    "address": "Vilniaus g. 183, 76351 Šiauliai, Lithuania",
+    "phone": "18376351"
+  },
+  {
+    "name": "Saigon Kava",
+    "address": "P. Višinskio g. 32, 76352 Šiauliai, Lithuania",
+    "phone": "+37064663161"
+  },
+  {
+    "name": "Ararat",
+    "address": "Vilniaus g. 134, 76296 Šiauliai, Lithuania",
+    "phone": "13476296"
+  },
+  {
+    "name": "BOHO",
+    "address": "Draugystės pr. 25, 76289 Šiauliai, Lithuania",
+    "phone": "+37061520310"
+  },
+  {
+    "name": "Upsidedown",
+    "address": "Aušros al. 64a, 76235 Šiauliai, Lithuania",
+    "phone": "+37041383083"
+  },
+  {
+    "name": "Charlie Pizza",
+    "address": "Tilžės g. 134, 76350 Šiauliai, Lithuania",
+    "phone": "13476350"
+  },
+  {
+    "name": "Crisperia",
+    "address": "Vilniaus g. 8, 76266 Šiauliai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "2 meniu",
+    "address": "Serbentų g. 222, 77117 Šiauliai, Lithuania",
+    "phone": "22277117"
+  },
+  {
+    "name": "Juone pastuoge, muzikinis klubas - Smukle, Jonyne",
+    "address": "Tilžės g. 63A, 78166 Šiauliai, Lithuania",
+    "phone": "+37041415150"
+  },
+  {
+    "name": "Turgaus kavinė",
+    "address": "Vasario 16-osios g. 40, 76351 Šiauliai, Lithuania",
+    "phone": "164076351"
+  },
+  {
+    "name": "Manami",
+    "address": "Trakų g. 45, 76291 Šiauliai, Lithuania",
+    "phone": "+37041502305"
+  },
+  {
+    "name": "Katpėdėlė",
+    "address": "Tilžės g. 157, 76297 Šiauliai, Lithuania",
+    "phone": "15776297"
+  },
+  {
+    "name": "Sparnas",
+    "address": "Aleksandrijos g. 3, 76264 Šiauliai, Lithuania",
+    "phone": "+37063008630"
+  },
+  {
+    "name": "\"iLunch\" restoranas",
+    "address": "K. Korsako g. 12, 78359 Šiauliai, Lithuania",
+    "phone": "+37064175757"
+  },
+  {
+    "name": "Grill London",
+    "address": "Birutės g. 33A, 76230 Šiauliai, Lithuania",
+    "phone": "+37060025525"
+  },
+  {
+    "name": "Arkos",
+    "address": "Stoties g. 2, 77157 Šiauliai, Lithuania",
+    "phone": "+37041433733"
+  },
+  {
+    "name": "Takas",
+    "address": "Pramonės g. 10, 78150 Šiauliai, Lithuania",
+    "phone": "+37067067263"
+  },
+  {
+    "name": "Gedimino pica, Gedimino Alijosiaus imone",
+    "address": "Vasario 16-osios g. 51, 76296 Šiauliai, Lithuania",
+    "phone": "165176296"
+  },
+  {
+    "name": "Gedimino Pica",
+    "address": "Vilniaus g. 15 a, 76276 Šiauliai, Lithuania",
+    "phone": "+37068631990"
+  },
+  {
+    "name": "McDonald's",
+    "address": "Draugystės pr. 14, 77149 Šiauliai, Lithuania",
+    "phone": "+37067395987"
+  },
+  {
+    "name": "Havana",
+    "address": "Serbentų g. 222, 77117 Šiauliai, Lithuania",
+    "phone": "22277117"
+  },
+  {
+    "name": "CASK 215",
+    "address": "Žemaitės g. 59, 76338 Šiauliai, Lithuania",
+    "phone": "+37066611447"
+  },
+  {
+    "name": "Houdini Šiauliai Akropolis",
+    "address": "Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": "+37068687841"
+  },
+  {
+    "name": "Salingas, restoranas, Resitoma",
+    "address": "Serbentų g., 77118 Šiauliai, Lithuania",
+    "phone": "+37067742690"
+  },
+  {
+    "name": "Akmena, baras-pirtis, Rominda",
+    "address": "Tilžės g. 83B, 78113 Šiauliai, Lithuania",
+    "phone": "+37041452222"
+  },
+  {
+    "name": "Sušiukas",
+    "address": "Serbentų g. 222, 77117 Šiauliai, Lithuania",
+    "phone": "22277117"
+  },
+  {
+    "name": "Salomėja",
+    "address": "Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": "+37068681924"
+  },
+  {
+    "name": "SOYA",
+    "address": "Aido g. 12, 78258 Šiauliai, Lithuania",
+    "phone": "+37066203777"
+  },
+  {
+    "name": "REMÁRKA restobar",
+    "address": "Vilniaus g. 128, 76291 Šiauliai, Lithuania",
+    "phone": "12876291"
+  },
+  {
+    "name": "ANGROMIS, UAB",
+    "address": "Žemaitės g. 64A, 76235 Šiauliai, Lithuania",
+    "phone": "+37062140511"
+  },
+  {
+    "name": "Z. Knyvienės įmonė",
+    "address": "Prekybos centras Bruklinas, Pramonės g. 6, 78148 Šiauliai, Lithuania",
+    "phone": "+37067302312"
+  },
+  {
+    "name": "Kolegos",
+    "address": "Tilžės g. 82, 78123 Šiauliai, Lithuania",
+    "phone": "+37064022228"
+  },
+  {
+    "name": "Greivima, UAB",
+    "address": "Tilžės g. 114, 77157 Šiauliai, Lithuania",
+    "phone": "11477157"
+  },
+  {
+    "name": "Pizza Express",
+    "address": "Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "Green Room",
+    "address": "Vilniaus g. 44, 76266 Šiauliai, Lithuania",
+    "phone": "+37067149331"
+  },
+  {
+    "name": "Gustuko Picerija",
+    "address": "Draugystės pr. 21a, 76353 Šiauliai, Lithuania",
+    "phone": "+37065632999"
+  },
+  {
+    "name": "Brodvėjaus Pica",
+    "address": "Rūdės g. 27, 76353 Šiauliai, Lithuania",
+    "phone": "+37063167288"
+  },
+  {
+    "name": "Jammi",
+    "address": "Lyros g. 13, 78268 Šiauliai, Lithuania",
+    "phone": "+37064838880"
+  },
+  {
+    "name": "Tandir",
+    "address": "Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": "+37064007277"
+  },
+  {
+    "name": "Varpo virtuvė",
+    "address": "Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "Čili Pica",
+    "address": "Lyros g. 5A-3rd floor, 78286 Šiauliai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Hop Hop Pica",
+    "address": "Tilžės g. 72, 78140 Šiauliai, Lithuania",
+    "phone": "+37067293847"
+  },
+  {
+    "name": "UAB Roksva",
+    "address": "Vytauto g. 76A, 76353 Šiauliai, Lithuania",
+    "phone": "+37060606256"
+  },
+  {
+    "name": "La Crepe - Charlie Pizza",
+    "address": "Tilžės g. 109, 77159 Šiauliai, Lithuania",
+    "phone": "10977159"
+  },
+  {
+    "name": "Sushi Express",
+    "address": "Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "365 Chicken N' Fries",
+    "address": "Prekybos centras Tilžė, Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "Talsa, kavine, Miltainis",
+    "address": "Aido g. 45, 78241 Šiauliai, Lithuania",
+    "phone": "+37063030880"
+  },
+  {
+    "name": "Adiada",
+    "address": "Tilžės g. 223, 76200 Šiauliai, Lithuania",
+    "phone": "22376200"
+  },
+  {
+    "name": "Hesburger",
+    "address": "J. Basanavičiaus g. 7, 76301 Šiauliai, Lithuania",
+    "phone": "+37060844102"
+  },
+  {
+    "name": "Super Pica, Uraganas",
+    "address": "Gumbinės g. 4, 77166 Šiauliai, Lithuania",
+    "phone": "+37065908430"
+  },
+  {
+    "name": "ExpressPizza Tilžės g.223 Šiauliai",
+    "address": "Vilniaus g. 134, 76256 Šiauliai, Lithuania",
+    "phone": "13476256"
+  },
+  {
+    "name": "Rojaus Pica",
+    "address": "Tilžės g. 109, 77159 Šiauliai, Lithuania",
+    "phone": "10977159"
+  },
+  {
+    "name": "Presto Šiauliai Cafe",
+    "address": "Gardino g. 2, 78230 Šiauliai, Lithuania",
+    "phone": "+37064675760"
+  },
+  {
+    "name": "Užkandžių Aparatas",
+    "address": "Tilžės g. 156, 76351 Šiauliai, Lithuania",
+    "phone": "15676351"
+  },
+  {
+    "name": "Hesburger",
+    "address": "Vasario 16-osios g. 44A, 76351 Šiauliai, Lithuania",
+    "phone": "164476351"
+  },
+  {
+    "name": "KFC",
+    "address": "Tilžės g. 154, 76350 Šiauliai, Lithuania",
+    "phone": "15476350"
+  },
+  {
+    "name": "TOKYO - CHINA",
+    "address": "Aido g. 12, 78258 Šiauliai, Lithuania",
+    "phone": "+37061080002"
+  },
+  {
+    "name": "UN PO - La Parma",
+    "address": "Varpo g. 29, 76240 Šiauliai, Lithuania",
+    "phone": "+37041658423"
+  },
+  {
+    "name": "Can Can Pizza",
+    "address": "Tilžės g. 109, 77159 Šiauliai, Lithuania",
+    "phone": "10977159"
+  },
+  {
+    "name": "Andijan Šiauliai",
+    "address": "Vilniaus g. 219, 76344 Šiauliai, Lithuania",
+    "phone": "21976344"
+  },
+  {
+    "name": "Hesburger",
+    "address": "Aido g. 12, 78272 Šiauliai, Lithuania",
+    "phone": "+37060511555"
+  },
+  {
+    "name": "BALTIC CHINA, UAB",
+    "address": "Varpo g. 25a, 76297 Šiauliai, Lithuania",
+    "phone": "+37067143265"
+  },
+  {
+    "name": "Pizza Express",
+    "address": "Tilžės g. 157, 76297 Šiauliai, Lithuania",
+    "phone": "15776297"
+  },
+  {
+    "name": "Sushi Express",
+    "address": "Pramonės g. 6, 78148 Šiauliai, Lithuania",
+    "phone": "+37041390866"
+  },
+  {
+    "name": "Mar'Vill",
+    "address": "Gardino g. 2, 78230 Šiauliai, Lithuania",
+    "phone": "+37067004077"
+  },
+  {
+    "name": "Lavašas",
+    "address": "Gumbinės g. 3, 77166 Šiauliai, Lithuania",
+    "phone": "+37065637175"
+  },
+  {
+    "name": "Kebabai Šiauliai- Yes Doner",
+    "address": "Tilžės g. 82, 78123 Šiauliai, Lithuania",
+    "phone": "+37068414422"
+  },
+  {
+    "name": "Tomilo Kebabai",
+    "address": "Ežero g. 17, 77142 Šiauliai, Lithuania",
+    "phone": "+37041523394"
+  },
+  {
+    "name": "Hesburger",
+    "address": "Vilniaus g. 124, 76291 Šiauliai, Lithuania",
+    "phone": "12476291"
+  },
+  {
+    "name": "CRISPERIA",
+    "address": "Tilžės g. 22, 78243 Šiauliai, Lithuania",
+    "phone": "+37065687117"
+  },
+  {
+    "name": "Mist Hookah Bar",
+    "address": "Vytauto g. 101, 77156 Šiauliai, Lithuania",
+    "phone": "10177156"
+  },
+  {
+    "name": "Restoranas Onorė",
+    "address": "Tilžės g. 151, 76297 Šiauliai, Lithuania",
+    "phone": "15176297"
+  },
+  {
+    "name": "La Crepe blyninė",
+    "address": "S. Nėries g. 12, 76341 Šiauliai, Lithuania",
+    "phone": "+37041432613"
+  },
+  {
+    "name": "Pietinio kebabai",
+    "address": "Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "Greito maisto užkandžiai",
+    "address": "Tilžės g. 109, 77165 Šiauliai, Lithuania",
+    "phone": "10977165"
+  },
+  {
+    "name": "ASNARA, UAB picerija-kebabinė SNACK CITY",
+    "address": "Tilžės g. 168, 76296 Šiauliai, Lithuania",
+    "phone": "16876296"
+  },
+  {
+    "name": "ROCK 'N' ROLL PUB Šiauliai",
+    "address": "Tilžės g. 19, 78229 Šiauliai, Lithuania",
+    "phone": "+37064043177"
+  },
+  {
+    "name": "Noriu SUSHI",
+    "address": "Rūdės g. 27d, 77155 Šiauliai, Lithuania",
+    "phone": "+37062049553"
+  },
+  {
+    "name": "Pikante grill",
+    "address": "Vilniaus g. 215, 76348 Šiauliai, Lithuania",
+    "phone": "21576348"
+  },
+  {
+    "name": "Cili Pica, picerija, Roksva",
+    "address": "Pabalių g. 88, 77118 Šiauliai, Lithuania",
+    "phone": "+37041423583"
+  },
+  {
+    "name": "King Döner kebabine",
+    "address": "Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": "+37061849766"
+  },
+  {
+    "name": "Kebabai pas ALI",
+    "address": "Lyros g. 24, 78273 Šiauliai, Lithuania",
+    "phone": "+37041454419"
+  },
+  {
+    "name": "Bottoms up baras",
+    "address": "Aido g. 12, 78258 Šiauliai, Lithuania",
+    "phone": "+37061800200"
+  },
+  {
+    "name": "Rimanto Buračo IĮ - Kavinė Valgykla",
+    "address": "Vilniaus g. 167, 76352 Šiauliai, Lithuania",
+    "phone": "16776352"
+  },
+  {
+    "name": "Dubysa",
+    "address": "Tilžės g. 156, 76351 Šiauliai, Lithuania",
+    "phone": "15676351"
+  },
+  {
+    "name": "Kebabai pas Ali",
+    "address": "Tilžės g. 109, 77160 Šiauliai, Lithuania",
+    "phone": "10977160"
+  },
+  {
+    "name": "Monika, kavine, Ambro-art",
+    "address": "Vilniaus g. 213, 76348 Šiauliai, Lithuania",
+    "phone": "21376348"
+  },
+  {
+    "name": "IN ŠIAULIAI",
+    "address": "Akropolis, Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Saulys Hotel",
+    "address": "Vilniaus g. 212, 76301 Šiauliai, Lithuania",
+    "phone": "21276301"
+  },
+  {
+    "name": "Picerija pas Karoliną",
+    "address": "Saulės Miestas, 3 aukštas, Tilžės g. 109, 77159 Šiauliai, Lithuania",
+    "phone": "310977159"
+  },
+  {
+    "name": "S Baras RESTORANAS",
+    "address": "Tilžės g. 68, 78157 Šiauliai, Lithuania",
+    "phone": "+37061969000"
+  },
+  {
+    "name": "Akropolis Šiauliai",
+    "address": "Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": "+37065946062"
+  },
+  {
+    "name": "Shopping Center Tilžė",
+    "address": "Pramonės g. 17B, 78136 Šiauliai, Lithuania",
+    "phone": "+37065692362"
+  },
+  {
+    "name": "Bruklinas",
+    "address": "Pramonės g. 23D, 78136 Šiauliai, Lithuania",
+    "phone": "+37041594750"
+  },
+  {
+    "name": "HOME IDEAS CENTER NIC Siauliai",
+    "address": "Aido g. 8, 78322 Šiauliai, Lithuania",
+    "phone": "+37066000200"
+  },
+  {
+    "name": "Saulės Miestas",
+    "address": "Vilniaus g. 212, 76302 Šiauliai, Lithuania",
+    "phone": "21276302"
+  },
+  {
+    "name": "Dvaras, Marketplace, Imondesima",
+    "address": "Tilžės g. 225, 76200 Šiauliai, Lithuania",
+    "phone": "22576200"
+  },
+  {
+    "name": "„LYROS TURGAVIETĖ“",
+    "address": "Pramonės g. 6, 78148 Šiauliai, Lithuania",
+    "phone": "+37041598127"
+  },
+  {
+    "name": "Topo centras",
+    "address": "Tilžės g. 109, 77159 Šiauliai, Lithuania",
+    "phone": "10977159"
+  },
+  {
+    "name": "Topo centras (Euronics Group)",
+    "address": "Tilžės g. 109, 77159 Šiauliai, Lithuania",
+    "phone": "10977159"
+  },
+  {
+    "name": "Viskas namams",
+    "address": "Lyros g. 5A, 78286 Šiauliai, Lithuania",
+    "phone": "+37067045241"
+  },
+  {
+    "name": "Sundial Square",
+    "address": "Kražių g. 17, 77154 Šiauliai, Lithuania",
+    "phone": "+37041526220"
+  },
+  {
+    "name": "Botanical Garden",
+    "address": "Žuvininkų g. 18, 76249 Šiauliai, Lithuania",
+    "phone": "+37068369844"
+  },
+  {
+    "name": "“Rūtos” šokolado muziejus",
+    "address": "Dubijos g. 26, 77208 Šiauliai, Lithuania",
+    "phone": "+37068756293"
+  },
+  {
+    "name": "Railway Museum",
+    "address": "Vilniaus g. 74, 76283 Šiauliai, Lithuania",
+    "phone": "+37041524389"
+  },
+  {
+    "name": "Bicycle Museum of Šiauliai",
+    "address": "Paitaičių g. 4, 76149 Šiauliai, Lithuania",
+    "phone": "+37065993748"
+  },
+  {
+    "name": "Chaim Frenkel villa",
+    "address": "Vilniaus g. 139, 76289 Šiauliai, Lithuania",
+    "phone": "13976289"
+  },
+  {
+    "name": "Siauliu Sv. Jurgio baznycia",
+    "address": "Tilžės g. 133, 76349 Šiauliai, Lithuania",
+    "phone": "13376349"
+  },
+  {
+    "name": "Hill of Crosses",
+    "address": "Ežero g. 64, 76244 Šiauliai, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Alpakų auginimas",
+    "address": "Livonijos g. 3, 84139 Joniškis, Lithuania",
+    "phone": "+37061289986"
+  },
+  {
+    "name": "Žemaitijos nacionalinis parkas",
+    "address": "Išradėjų g. 14, 78148 Šiauliai, Lithuania",
+    "phone": "+37067457920"
+  },
+  {
+    "name": "Dino parkas Radailiai",
+    "address": "L. Lekavičiaus g. 2, 56337 Rumšiškės, Lithuania",
+    "phone": "+37068707137"
+  },
+  {
+    "name": "Joniškis Basketball Museum",
+    "address": "Dargaičių k., Gruzdžių sen.,, 81414 Dargaičiai, Lithuania",
+    "phone": "+37060096968"
+  },
+  {
+    "name": "Šiauliai County",
+    "address": "Pušyno g 9, 92404 Radailiai, Lithuania",
+    "phone": "+37068511764"
+  },
+  {
+    "name": "LLB Museum",
+    "address": "Vilniaus g. 213, 76348 Šiauliai, Lithuania",
+    "phone": "21376348"
+  },
+  {
+    "name": "Naisiai",
+    "address": "Didžioji gatvė 10, 90420 Plateliai, Lithuania",
+    "phone": "+37044849337"
+  },
+  {
+    "name": "ROMANTIC Via Unica, UAB",
+    "address": "Savanorių a. 12, 35201 Panevėžys, Lithuania",
+    "phone": "+37062258334"
+  },
+  {
+    "name": "Sands, Hotel, UAB NEW PILĖNAI",
+    "address": "Smiltynes vs, Nr.7, 38365 Panevėžys, Lithuania",
+    "phone": "+37045553455"
+  },
+  {
+    "name": "Conviva hotel",
+    "address": "Klaipėdos g. 99-2, 37102 Panevėžys, Lithuania",
+    "phone": "99237102"
+  },
+  {
+    "name": "Viešbutis „Verslo klasė“",
+    "address": "Laisvės a. 16, 35200 Panevėžys, Lithuania",
+    "phone": "+37064035300"
+  },
+  {
+    "name": "\"KAMARA\" Svečių namai",
+    "address": "Marijonų g. 9, 35132 Panevėžys, Lithuania",
+    "phone": "+37060986001"
+  },
+  {
+    "name": "PERVAŽA, viešbutis, UAB INTERSELAS",
+    "address": "1st & 3rd floors, Klaipėdos g. 67, 37106 Panevėžys, Lithuania",
+    "phone": "136737106"
+  },
+  {
+    "name": "Artihost",
+    "address": "Kranto g. 24, 35173 Panevėžys, Lithuania",
+    "phone": "+37061616170"
+  },
+  {
+    "name": "Marijonu Apartments",
+    "address": "Smėlynės g. 104, 35113 Panevėžys, Lithuania",
+    "phone": "10435113"
+  },
+  {
+    "name": "Smiltynes Sodyba",
+    "address": "Smėlynės g. 3, 35144 Panevėžys, Lithuania",
+    "phone": "+37045507790"
+  },
+  {
+    "name": "Apartments Panevezys",
+    "address": "Smėlynės g. 112, 35113 Panevėžys, Lithuania",
+    "phone": "11235113"
+  },
+  {
+    "name": "Hotel Pas Katina",
+    "address": "Margiai 5, Pumpėnų sen., Pasvalio r. sav., 38426 Pasvalys, Lithuania",
+    "phone": "+37065745680"
+  },
+  {
+    "name": "Bistrampolis Manor Hotel",
+    "address": "Kučių kaimas, 38240 Kučiai, Lithuania",
+    "phone": "+37045454036"
+  },
+  {
+    "name": "Holiday House With Sauna",
+    "address": "Pilies g. 16, 38416 Piniava, Lithuania",
+    "phone": "+37069847173"
+  },
+  {
+    "name": "B&B Panevezys",
+    "address": "Stanionių kaimas, 38436 Stanioniai, Lithuania",
+    "phone": "+37045554332"
+  },
+  {
+    "name": "Luxury OldNew apartments",
+    "address": "Pilies g. 16, 38416 Piniava, Lithuania",
+    "phone": "+37069847173"
+  },
+  {
+    "name": "Apartamentai Luna",
+    "address": "Šilagalio kaimas, 36220 Panevėžio, Lithuania",
+    "phone": "+37045401010"
+  },
+  {
+    "name": "Daukniūnų Kaimo Turizmo Sodyba",
+    "address": "Margių k., Pumpėnų sen., Pasvalio raj., Margiai, Lithuania",
+    "phone": "+37063097040"
+  },
+  {
+    "name": "Bistrampolio dvaras, viešbutis-restoranas-baras, Tourex",
+    "address": "Bistrampolio dvaras, Bistrampolio g. 1, Kučių k., LT-38240 Panevėžio r., 38240 Kučių k., Lithuania",
+    "phone": "13824038240"
+  },
+  {
+    "name": "Bistrampolio dvaras, viešbutis-restoranas-baras, Tourex",
+    "address": "Bistrampolio dvaras, Bistrampolio g. 1, Kučių k., LT-38240 Panevėžio r., 38240 Kučių k., Lithuania",
+    "phone": "13824038240"
+  },
+  {
+    "name": "Daukniūnų Kaimo Turizmo Sodyba",
+    "address": "Staniūnų g. 15, 36108 Panevėžys, Lithuania",
+    "phone": "+37069847173"
+  },
+  {
+    "name": "Motel Istros Aviaparkas",
+    "address": "Kranto g. 15A, 35173 Panevėžys, Lithuania",
+    "phone": "+37069909912"
+  },
+  {
+    "name": "Hostel Piniava",
+    "address": "Sanžilės g 2G, 35303 Bernatoniai, Lithuania",
+    "phone": "+37061888632"
+  },
+  {
+    "name": "Bistrampolis",
+    "address": "Įstro g. 1, 37541 Panevėžys, Lithuania",
+    "phone": "+37067606705"
+  },
+  {
+    "name": "ROOMS FOR RENT",
+    "address": "Piniavos kaimas, 38416 Panevėžys, Lithuania",
+    "phone": "+37061010066"
+  },
+  {
+    "name": "Sodyba poilsiui GIrena ir To",
+    "address": "Panevezio R., Kuciu Kaimas, 38240 Ramygala, Lithuania",
+    "phone": "+37068566151"
+  },
+  {
+    "name": "Nendrė vėjyje",
+    "address": "Centrinis turgus, Ukmergės g. 26, 35181 Panevėžys, Lithuania",
+    "phone": "+37065272830"
+  },
+  {
+    "name": "Špunka Old Barrel Pub",
+    "address": "Laisvės a. 6, 35183 Panevėžys, Lithuania",
+    "phone": "+37067301239"
+  },
+  {
+    "name": "Restoranėlis „Bisas“",
+    "address": "Kranto g. 24, 35173 Panevėžys, Lithuania",
+    "phone": "+37061616178"
+  },
+  {
+    "name": "ETNO DVARAS",
+    "address": "Laisvės a. 26, 35200 Panevėžys, Lithuania",
+    "phone": "+37065829116"
+  },
+  {
+    "name": "Restoranas \"Akordai\"",
+    "address": "Laisvės a. 7, 35183 Panevėžys, Lithuania",
+    "phone": "+37045438701"
+  },
+  {
+    "name": "Riverside Restaurant",
+    "address": "Respublikos g. 6, 35199 Panevėžys, Lithuania",
+    "phone": "+37065657422"
+  },
+  {
+    "name": "Déjà vu",
+    "address": "Kranto g. 36-101, 35172 Panevėžys, Lithuania",
+    "phone": "3610135172"
+  },
+  {
+    "name": "Galerija XX",
+    "address": "Ramygalos g. 43, 36211 Panevėžys, Lithuania",
+    "phone": "+37061011477"
+  },
+  {
+    "name": "ČIČINSKAS, alaus restoranas",
+    "address": "Klaipėdos g. 143 A, 37385 Panevėžys, Lithuania",
+    "phone": "14337385"
+  },
+  {
+    "name": "Bezmėnas",
+    "address": "Savanorių a. 4a, 35201 Panevėžys, Lithuania",
+    "phone": "+37064898380"
+  },
+  {
+    "name": "Etno Dvaras",
+    "address": "Respublikos g. 38, 35173 Panevėžys, Lithuania",
+    "phone": "+37069097787"
+  },
+  {
+    "name": "Charlie Pizza",
+    "address": "Klaipėdos g. 26, 35199 Panevėžys, Lithuania",
+    "phone": "+37062666166"
+  },
+  {
+    "name": "Restaurant Vasaris",
+    "address": "Respublikos g. 1, 35199 Panevėžys, Lithuania",
+    "phone": "+37068030707"
+  },
+  {
+    "name": "Pizza di Napoli",
+    "address": "Laisvės a. 26, 35200 Panevėžys, Lithuania",
+    "phone": "+37045435115"
+  },
+  {
+    "name": "Sushi DO",
+    "address": "Laisvės a. 26, 35200 Panevėžys, Lithuania",
+    "phone": "+37045584575"
+  },
+  {
+    "name": "pio pio pizza&grill",
+    "address": "Savanorių a. 6, 35201 Panevėžys, Lithuania",
+    "phone": "+37063688986"
+  },
+  {
+    "name": "Valgykla",
+    "address": "Marijonų g. 13, 35133 Panevėžys, Lithuania",
+    "phone": "+37066999913"
+  },
+  {
+    "name": "Lazy Monkey Bar",
+    "address": "Paliūniškio g. 13, 35114 Panevėžys, Lithuania",
+    "phone": "+37064884849"
+  },
+  {
+    "name": "Wok IN",
+    "address": "J. Basanavičiaus g. 1, 35176 Panevėžys, Lithuania",
+    "phone": "+37069517173"
+  },
+  {
+    "name": "Tik Pizza",
+    "address": "Ukmergės g. 34, 35180 Panevėžys, Lithuania",
+    "phone": "+37061511050"
+  },
+  {
+    "name": "Vipernos Kavine",
+    "address": "Laisvės a. 6, 35183 Panevėžys, Lithuania",
+    "phone": "+37068631704"
+  },
+  {
+    "name": "Houdini Panevėžys",
+    "address": "Kosmonautų g. 10, 37355 Panevėžys, Lithuania",
+    "phone": "+37067940014"
+  },
+  {
+    "name": "Oksvida",
+    "address": "M. Tiškevičiaus g., 35143 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Cake2take kepyklėlė",
+    "address": "Smėlynės g. 67, 35110 Panevėžys, Lithuania",
+    "phone": "+37069288822"
+  },
+  {
+    "name": "Mai Sushi",
+    "address": "Senamiesčio g. 102, 35116 Panevėžys, Lithuania",
+    "phone": "10235116"
+  },
+  {
+    "name": "La Parma Pica",
+    "address": "Kniaudiškių g. 41B, 37117 Panevėžys, Lithuania",
+    "phone": "+37061877477"
+  },
+  {
+    "name": "Jack House",
+    "address": "Laisvės a., 35175 Panevėžys, Lithuania",
+    "phone": "+37065855378"
+  },
+  {
+    "name": "Miks",
+    "address": "Parko g. 33a, 37302 Panevėžys, Lithuania",
+    "phone": "+37060322204"
+  },
+  {
+    "name": "Artaura",
+    "address": "Durpyno g. 28, 36237 Panevėžys, Lithuania",
+    "phone": "+37069968143"
+  },
+  {
+    "name": "Burger King Ryo Panevėžys",
+    "address": "Laisvės a. 26, 35200 Panevėžys, Lithuania",
+    "phone": "+37065984903"
+  },
+  {
+    "name": "Čili Pizza Restaurant",
+    "address": "Smėlynės g. 80, 35113 Panevėžys, Lithuania",
+    "phone": "+37061423007"
+  },
+  {
+    "name": "Songokas",
+    "address": "Molainių g. 11, 37162 Panevėžys, Lithuania",
+    "phone": "+37069070000"
+  },
+  {
+    "name": "Banqueting house \"Vasaris\"",
+    "address": "Kranto g. 12, 35173 Panevėžys, Lithuania",
+    "phone": "+37065093341"
+  },
+  {
+    "name": "La Crepe",
+    "address": "Klaipėdos g. 143a, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "Sushi Express",
+    "address": "Vakarinė g. 61, 37370 Panevėžys, Lithuania",
+    "phone": "+37063000047"
+  },
+  {
+    "name": "Trolių pica",
+    "address": "Smėlynės g. 49, 35119 Panevėžys, Lithuania",
+    "phone": "+37045460869"
+  },
+  {
+    "name": "Nr1 Pica",
+    "address": "Dariaus ir Girėno g. 33, 37333 Panevėžys, Lithuania",
+    "phone": "+37061624477"
+  },
+  {
+    "name": "Juros gerybes",
+    "address": "Smėlynės g. 85, 35110 Panevėžys, Lithuania",
+    "phone": "+37045460103"
+  },
+  {
+    "name": "The Drunken Horse Pub",
+    "address": "J. Zikaro g., 35222 Panevėžys, Lithuania",
+    "phone": "+37061646666"
+  },
+  {
+    "name": "Go Sushi",
+    "address": "Klaipėdos g. 102, 37380 Panevėžys, Lithuania",
+    "phone": "10237380"
+  },
+  {
+    "name": "Kebabai, dešrainiai, picos",
+    "address": "Nemuno g. 70, 35190 Panevėžys, Lithuania",
+    "phone": "+37065744224"
+  },
+  {
+    "name": "Senasis arsenalas",
+    "address": "Ramygalos g. 94, 36227 Panevėžys, Lithuania",
+    "phone": "+37045435747"
+  },
+  {
+    "name": "KFC",
+    "address": "Žemaičių g. 14, 36128 Panevėžys, Lithuania",
+    "phone": "+37069962425"
+  },
+  {
+    "name": "PLUKIAI, UAB",
+    "address": "Pilėnų g. 24, 36239 Panevėžys, Lithuania",
+    "phone": "+37062778277"
+  },
+  {
+    "name": "Monaida",
+    "address": "S. Daukanto g. 27, 35224 Panevėžys, Lithuania",
+    "phone": "+37065235299"
+  },
+  {
+    "name": "Shanghai Chinese Take-Away",
+    "address": "Vilniaus g. 36, 36106 Panevėžys, Lithuania",
+    "phone": "+37068666608"
+  },
+  {
+    "name": "R. Pilvinio IĮ, kavinė",
+    "address": "Smėlynės g. 33, 35119 Panevėžys, Lithuania",
+    "phone": "+37064334337"
+  },
+  {
+    "name": "Hesburger",
+    "address": "Klaipėdos g. 143a, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "\"Lisitėja\" šviežių makaronų namai",
+    "address": "Nemuno g. 42A, 35219 Panevėžys, Lithuania",
+    "phone": "+37064322288"
+  },
+  {
+    "name": "Ant Dietos",
+    "address": "Danutės g. 12, 36235 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Alevota",
+    "address": "Klaipėdos g. 143A, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "ŽARA",
+    "address": "Beržų g. 6A, 36236 Panevėžys, Lithuania",
+    "phone": "+37060839339"
+  },
+  {
+    "name": "Nevezio vingis",
+    "address": "Pramonės g. 8, 35100 Panevėžys, Lithuania",
+    "phone": "+37060470445"
+  },
+  {
+    "name": "Grill Garvežys",
+    "address": "A. Smetonos g. 22, 35185 Panevėžys, Lithuania",
+    "phone": "+37064347780"
+  },
+  {
+    "name": "La Fa Arena Café Bar",
+    "address": "Respublikos g. 44, 35173 Panevėžys, Lithuania",
+    "phone": "+37066066887"
+  },
+  {
+    "name": "Brikas",
+    "address": "Beržų g. 44, 36144 Panevėžys, Lithuania",
+    "phone": "+37068730068"
+  },
+  {
+    "name": "Kepyklėlės Pica",
+    "address": "Parko g. 33, 37302 Panevėžys, Lithuania",
+    "phone": "+37045440568"
+  },
+  {
+    "name": "V.I.I.P Užkandinė",
+    "address": "Klaipėdos g. 79C, 37106 Panevėžys, Lithuania",
+    "phone": "+37065283333"
+  },
+  {
+    "name": "Tėtušio Kebabai & Pica",
+    "address": "Dariaus ir Girėno g. 4, 37379 Panevėžys, Lithuania",
+    "phone": "+37069958865"
+  },
+  {
+    "name": "Laimės sentimentas",
+    "address": "Staniūnų g. 66, 36142 Panevėžys, Lithuania",
+    "phone": "+37045432224"
+  },
+  {
+    "name": "5-osios gimnazijos valgykla",
+    "address": "Nemuno g. 33, 37164 Panevėžys, Lithuania",
+    "phone": "+37061131948"
+  },
+  {
+    "name": "Sushi Express",
+    "address": "J. Janonio g. 2B, 35101 Panevėžys, Lithuania",
+    "phone": "+37060730176"
+  },
+  {
+    "name": "Trolių pica",
+    "address": "A Prekybos centras Babilonas, Klaipėdos g. 143, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "Kebabų baras",
+    "address": "Respublikos g. 33, 35170 Panevėžys, Lithuania",
+    "phone": "+37061449013"
+  },
+  {
+    "name": "BIG burger&kebab",
+    "address": "Klaipėdos g. 26, 35199 Panevėžys, Lithuania",
+    "phone": "+37066700600"
+  },
+  {
+    "name": "K. Kareniausko imone",
+    "address": "Klaipėdos g. 28, 35199 Panevėžys, Lithuania",
+    "phone": "+37067455105"
+  },
+  {
+    "name": "Kavinė „Daukantinė“",
+    "address": "Dariaus ir Girėno g. 33, 37333 Panevėžys, Lithuania",
+    "phone": "+37045435862"
+  },
+  {
+    "name": "UAB LAUREGA MEKSIKIETIŠKI BURITO",
+    "address": "Kranto g. 36, 35172 Panevėžys, Lithuania",
+    "phone": "+37069848994"
+  },
+  {
+    "name": "Zaliasis aitvaras",
+    "address": "Vakarinė g. 80, 37394 Panevėžys, Lithuania",
+    "phone": "+37065982249"
+  },
+  {
+    "name": "XXL PICA",
+    "address": "Vasario 16-Osios g. 28, 35186 Panevėžys, Lithuania",
+    "phone": "162835186"
+  },
+  {
+    "name": "Top Pizza Burgers & Kebabs",
+    "address": "Ragaudžių g. 2, 37102 Panevėžys, Lithuania",
+    "phone": "+37063969990"
+  },
+  {
+    "name": "Z. Tolvaisienes imone",
+    "address": "Ukmergės g. 26, 35181 Panevėžys, Lithuania",
+    "phone": "+37045433118"
+  },
+  {
+    "name": "Kaunuva",
+    "address": "Smėlynės g. 112, 35113 Panevėžys, Lithuania",
+    "phone": "11235113"
+  },
+  {
+    "name": "Greito maisto užkandinė",
+    "address": "Laisvės a. 26, 35200 Panevėžys, Lithuania",
+    "phone": "+37066699940"
+  },
+  {
+    "name": "Kinų virtuvės restoranas Baiji",
+    "address": "Respublikos g. 28, 35174 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Grill London",
+    "address": "J. Basanavičiaus g. 54, 36205 Panevėžys, Lithuania",
+    "phone": "+37064322288"
+  },
+  {
+    "name": "Restaurant Kranto 12",
+    "address": "Aukštaičių g. 88, 36115 Panevėžys, Lithuania",
+    "phone": "+37068469369"
+  },
+  {
+    "name": "Jammi",
+    "address": "Respublikos g. 28, 35174 Panevėžys, Lithuania",
+    "phone": "+37068168881"
+  },
+  {
+    "name": "Hesburger",
+    "address": "Vakarinė g. 61, 37189 Panevėžys, Lithuania",
+    "phone": "+37061644351"
+  },
+  {
+    "name": "Can Can Pizza",
+    "address": "Projektuotojų g. 7, 37102 Panevėžys, Lithuania",
+    "phone": "+37045403515"
+  },
+  {
+    "name": "L. Aglinskienės IĮ",
+    "address": "Vakarinė g. 61, 37189 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "\"Garsiakalbis\" bar&kitchen",
+    "address": "Laisvės a. 5, 35183 Panevėžys, Lithuania",
+    "phone": "+37061403036"
+  },
+  {
+    "name": "Parko užeiga | Parko pica",
+    "address": "Ukmergės g. 26, 35181 Panevėžys, Lithuania",
+    "phone": "+37065965568"
+  },
+  {
+    "name": "Skanus kebabai",
+    "address": "Nemuno g. 79, 37355 Panevėžys, Lithuania",
+    "phone": "+37045444445"
+  },
+  {
+    "name": "Kavine prie didziuju vartu",
+    "address": "Kranto g. 4, 35174 Panevėžys, Lithuania",
+    "phone": "+37064506251"
+  },
+  {
+    "name": "Pavlada",
+    "address": "Klaipėdos g. 79A, 37106 Panevėžys, Lithuania",
+    "phone": "+37067774665"
+  },
+  {
+    "name": "Тrolių pica",
+    "address": "Klaipėdos g. 143a, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "Pizza&Kebab-Factory",
+    "address": "Vasario 16-Osios g. 11, 35184 Panevėžys, Lithuania",
+    "phone": "161135184"
+  },
+  {
+    "name": "L. Rimkevicienes imone",
+    "address": "Projektuotojų g. 5, 37102 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "TUKANA, UAB",
+    "address": "Savanorių a. 13, 35201 Panevėžys, Lithuania",
+    "phone": "+37060519092"
+  },
+  {
+    "name": "\"Kava\"",
+    "address": "Respublikos g. 70, 35171 Panevėžys, Lithuania",
+    "phone": "+37065772299"
+  },
+  {
+    "name": "LIBRA SON, UAB",
+    "address": "Klaipėdos g. 26, 35199 Panevėžys, Lithuania",
+    "phone": "+37066700600"
+  },
+  {
+    "name": "Kepiniu gausa",
+    "address": "Smėlynės g. 112, 35113 Panevėžys, Lithuania",
+    "phone": "11235113"
+  },
+  {
+    "name": "Kebabine",
+    "address": "Respublikos g. 15, 35184 Panevėžys, Lithuania",
+    "phone": "+37063604896"
+  },
+  {
+    "name": "Panevėžio Valgių Sala",
+    "address": "Ragaudžių g. 1, 37166 Panevėžys, Lithuania",
+    "phone": "+37066835355"
+  },
+  {
+    "name": "13 Kampas",
+    "address": "Vasario 16-Osios g. 6, 35174 Panevėžys, Lithuania",
+    "phone": "16635174"
+  },
+  {
+    "name": "Shopping and entertainment center \"Rožynas\"",
+    "address": "Shopping Center Ryo - Saviti kio st. 61, 37189 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Babilonas",
+    "address": "Sporto g. 15, 35143 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Norfa XXL",
+    "address": "Vakarinė g. 61, 37189 Panevėžys, Lithuania",
+    "phone": "+37045401603"
+  },
+  {
+    "name": "RYO",
+    "address": "Parko g. 33a, 37302 Panevėžys, Lithuania",
+    "phone": "+37041540181"
+  },
+  {
+    "name": "VASARIS",
+    "address": "Kniaudiškių g. 42, 37119 Panevėžys, Lithuania",
+    "phone": "+37065292857"
+  },
+  {
+    "name": "Norfa XL",
+    "address": "Aukštaičių g. 88, 35116 Panevėžys, Lithuania",
+    "phone": "+37067131474"
+  },
+  {
+    "name": "Shopping Mall Cube",
+    "address": "Klaipėdos g. 143a, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "Užversti Tuneliai",
+    "address": "Smėlynės g. 85, 35110 Panevėžys, Lithuania",
+    "phone": "+37065652413"
+  },
+  {
+    "name": "Trade Center KUBAS",
+    "address": "Klaipėdos g. 143a, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "OVS Outlet",
+    "address": "Piniavos skg. 10, 37451 Panevėžys, Lithuania",
+    "phone": "+37045577774"
+  },
+  {
+    "name": "Furniture center",
+    "address": "J. Tilvyčio g. 1A, 35232 Panevėžys, Lithuania",
+    "phone": "+37045463349"
+  },
+  {
+    "name": "Skaistakalnis Park",
+    "address": "Birutės g. 5, 35185 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Panevėžys Cathedral",
+    "address": "A. Jakšto g. 18, 35144 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Panevezys St. Peter and Paul Church",
+    "address": "Katedros a. 1, 35231 Panevėžys, Lithuania",
+    "phone": "+37045502281"
+  },
+  {
+    "name": "Panevėžio kraštotyros muziejus",
+    "address": "Respublikos g., 35184 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Key tree",
+    "address": "Respublikos g. 3, 35199 Panevėžys, Lithuania",
+    "phone": "+37045584802"
+  },
+  {
+    "name": "Senvagė",
+    "address": "Vasario 16-Osios g. 23, 35185 Panevėžys, Lithuania",
+    "phone": "162335185"
+  },
+  {
+    "name": "Panevezys Civic Art Gallery",
+    "address": "Smėlynės g. 10, 35143 Panevėžys, Lithuania",
+    "phone": "+37045463960"
+  },
+  {
+    "name": "Don Kichotas",
+    "address": "Parko g., 35190 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Panevėžys Windmill",
+    "address": "J. Biliūno g. 3, 36102 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Laisvės aikštė",
+    "address": "Kranto g. 12, 35173 Panevėžys, Lithuania",
+    "phone": "+37065093341"
+  },
+  {
+    "name": "Culture Palace community center of Panevezys",
+    "address": "Kranto g. 24, 35173 Panevėžys, Lithuania",
+    "phone": "+37061616178"
+  },
+  {
+    "name": "Escape Room Panevėžys",
+    "address": "Laisvės a. 6, 35183 Panevėžys, Lithuania",
+    "phone": "+37067301239"
+  },
+  {
+    "name": "Marijonų sodas",
+    "address": "Respublikos g. 28, 35174 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Panevėžio lėlių vežimo teatras",
+    "address": "J, Radvilos g. 3, 41175 Biržai, Lithuania",
+    "phone": "+37045033390"
+  },
+  {
+    "name": "Panevėžio Ledo Arena",
+    "address": "Dvaronių k. 5, 29168 Anykščiai, Lithuania",
+    "phone": "+37068453736"
+  },
+  {
+    "name": "Panevėžio fotografijos galerija",
+    "address": "Respublikos g. 34, 35173 Panevėžys, Lithuania",
+    "phone": "+37065390878"
+  },
+  {
+    "name": "Shopping and entertainment center \"Rožynas\"",
+    "address": "Muziejaus g. 4, 29175 Niūronys, Lithuania",
+    "phone": "+37062370629"
+  },
+  {
+    "name": "Babilonas",
+    "address": "Ramygalos g. 43, 36211 Panevėžys, Lithuania",
+    "phone": "+37061011477"
+  },
+  {
+    "name": "Garsas",
+    "address": "Respublikos g. 28, 35174 Panevėžys, Lithuania",
+    "phone": "+37068114370"
+  },
+  {
+    "name": "Panevėžys",
+    "address": "Respublikos g. 70, 35171 Panevėžys, Lithuania",
+    "phone": "+37065772299"
+  },
+  {
+    "name": "Flax museum - Mill | Linų muziejus",
+    "address": "Senamiesčio g. 29, 35118 Panevėžys, Lithuania",
+    "phone": "+37064056462"
+  },
+  {
+    "name": "Krekenava Regional Park Observation Tower",
+    "address": "Savanorių a. 4a, 35201 Panevėžys, Lithuania",
+    "phone": "+37064898380"
+  },
+  {
+    "name": "VšĮ Panevėžio plėtros agentūra (Panevėžys NOW)",
+    "address": "Pramonės g. 10B, 35291 Panevėžys, Lithuania",
+    "phone": "+37061297937"
+  },
+  {
+    "name": "Kapučino Kavos Ir Šimtalapių Namai",
+    "address": "Birutės g. 8, 35185 Panevėžys, Lithuania",
+    "phone": "+37045461548"
+  },
+  {
+    "name": "RYO",
+    "address": "Laisvės a. 7, 35183 Panevėžys, Lithuania",
+    "phone": "+37045438701"
+  },
+  {
+    "name": "Seklyčia prie uosio",
+    "address": "Vakarinė g. 61, 37189 Panevėžys, Lithuania",
+    "phone": "+37045401603"
+  },
+  {
+    "name": "Panevezys Car Market",
+    "address": "Respublikos g. 14, 35184 Panevėžys, Lithuania",
+    "phone": "+37045501650"
+  },
+  {
+    "name": "Biržai Regional Park",
+    "address": "Laisvės a. 11, 35200 Panevėžys, Lithuania",
+    "phone": "+37061540973"
+  },
+  {
+    "name": "Špunka Old Barrel Pub",
+    "address": "Parko g. 24 B, 37188 Panevėžys, Lithuania",
+    "phone": "+37063193383"
+  },
+  {
+    "name": "Cocktail Bar Shots",
+    "address": "Laisvės a. 5, 35183 Panevėžys, Lithuania",
+    "phone": "+37045584614"
+  },
+  {
+    "name": "ČIČINSKAS, alaus restoranas",
+    "address": "Klaipėdos g. 146, 37375 Panevėžys, Lithuania",
+    "phone": "14637375"
+  },
+  {
+    "name": "Tik Pizza",
+    "address": "Klaipėdos g. 143a, 37189 Panevėžys, Lithuania",
+    "phone": "14337189"
+  },
+  {
+    "name": "Taurus Loft",
+    "address": "3007 20, 38306 Krekenava, Lithuania",
+    "phone": "30072038306"
+  },
+  {
+    "name": "Horse Museum",
+    "address": "Piniavos skg. 10, 37451 Panevėžys, Lithuania",
+    "phone": "+37045577774"
+  },
+  {
+    "name": "Treetop walking path",
+    "address": "Vasario 16-Osios g. 11, 35200 Panevėžys, Lithuania",
+    "phone": "161135200"
+  },
+  {
+    "name": "The Drunken Horse Pub",
+    "address": "Respublikos g. 30, 35174 Panevėžys, Lithuania",
+    "phone": "+37045460533"
+  },
+  {
+    "name": "Restoranėlis „Bisas“",
+    "address": "A. Jakšto g., 35138 Panevėžys, Lithuania",
+    "phone": null
+  },
+  {
+    "name": "Biržai Castle",
+    "address": "Parko g. 12, 37310 Panevėžys, Lithuania",
+    "phone": "+37045440252"
+  },
+  {
+    "name": "Déjà vu",
+    "address": "Marijonų g. 16, 35138 Panevėžys, Lithuania",
+    "phone": "+37061564832"
+  },
+  {
+    "name": "Restaurant Kranto 12",
+    "address": "Velžio kl. 15, 36111 Panevėžys, Lithuania",
+    "phone": "+37063778115"
+  },
+  {
+    "name": "Mėsmalė Grill Pub",
+    "address": "Kranto g. 28, 35172 Panevėžys, Lithuania",
+    "phone": "+37045460635"
+  }
+]

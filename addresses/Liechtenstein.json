@@ -1,0 +1,3287 @@
+[
+  {
+    "name": "Park Hotel Sonnenhof",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Hotel Vaduzerhof",
+    "address": "Duxgass 55, 9494 Schaan, Liechtenstein",
+    "phone": "+4235555555"
+  },
+  {
+    "name": "Residence Hotel Vaduz",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4233991212"
+  },
+  {
+    "name": "Hotel Landhaus am Giessen",
+    "address": "Bergstrasse 25, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232650101"
+  },
+  {
+    "name": "Hotel Oberland",
+    "address": "Eichholzweg 6, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922488"
+  },
+  {
+    "name": "Hotel Schlosswald",
+    "address": "Städtle 3, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374646"
+  },
+  {
+    "name": "Jugendherberge Schaan-Vaduz",
+    "address": "Under Rüttigass 6, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325022"
+  },
+  {
+    "name": "Hotel Schatzmann, Liechtenstein",
+    "address": "Mareestrasse 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232390202"
+  },
+  {
+    "name": "Hotel Kulm",
+    "address": "Städtle 23, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232392020"
+  },
+  {
+    "name": "Kloster by bsmart",
+    "address": "Zollstrasse 16, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350035"
+  },
+  {
+    "name": "Hotel Restaurant Kulm",
+    "address": "Hofi 590, 9497 Triesenberg, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Hotel-Gasthof Löwen",
+    "address": "Haldenweg 13, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "bsmart motel Schaan",
+    "address": "Landstrasse 266, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923818"
+  },
+  {
+    "name": "Landgasthof Au",
+    "address": "Sückastrasse 41, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232632579"
+  },
+  {
+    "name": "Hotel Dux",
+    "address": "Undera Forst 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232220981"
+  },
+  {
+    "name": "Berggasthaus Sücka",
+    "address": "Duxweg 31, 9494 Schaan, Liechtenstein",
+    "phone": "+41754042727"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Herrengasse 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381144"
+  },
+  {
+    "name": "Penthouse Apartment Vaduz",
+    "address": "Buchenweg 6, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232355024"
+  },
+  {
+    "name": "Suite 13",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Restaurant Schäfle",
+    "address": "Austrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321117"
+  },
+  {
+    "name": "Apartment Hofi 590",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Altenbach Restaurant & Bar",
+    "address": "Städtle 5, 9490 Vaduz, Liechtenstein",
+    "phone": "+41787353900"
+  },
+  {
+    "name": "Brasserie Burg",
+    "address": "Hintergass 9, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232324410"
+  },
+  {
+    "name": "Marée",
+    "address": "Städtle 13, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233765460"
+  },
+  {
+    "name": "Restaurant Amarone",
+    "address": "Schwefelstrasse 14, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232332020"
+  },
+  {
+    "name": "New Castle",
+    "address": "Mareestrasse 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232390202"
+  },
+  {
+    "name": "Cafe Restaurant Engel Asian & Local",
+    "address": "Städtle 15, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232322383"
+  },
+  {
+    "name": "Luce",
+    "address": "Austrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321117"
+  },
+  {
+    "name": "Landgasthof Au",
+    "address": "Städtle 3, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232328484"
+  },
+  {
+    "name": "Torkel",
+    "address": "Städtle 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232322288"
+  },
+  {
+    "name": "CENTRUM RESTAURANT & BAR, Vaduz",
+    "address": "Aeulestrasse 22, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232334422"
+  },
+  {
+    "name": "made-in-italy.li",
+    "address": "Städtle 44, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232331661"
+  },
+  {
+    "name": "Cesare",
+    "address": "Gewerbeweg, 9490 Vaduz, Liechtenstein",
+    "phone": "+41789307419"
+  },
+  {
+    "name": "Adler",
+    "address": "Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233739999"
+  },
+  {
+    "name": "Bistro Residence Vaduz",
+    "address": "Kanalstrasse 8, 9490 Vaduz, Switzerland",
+    "phone": "+4237947996"
+  },
+  {
+    "name": "CAFE im kunstmuseum",
+    "address": "Aeulestrasse 56, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232323411"
+  },
+  {
+    "name": "Artis Bistro",
+    "address": "Städtle 23, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232392020"
+  },
+  {
+    "name": "Schlössle Mahal",
+    "address": "Städtle 23, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232392020"
+  },
+  {
+    "name": "Café Bar Vanini",
+    "address": "Landstrasse 117, 9490 Vaduz / Coop ist jeweils ab 7.00Uhr geöffnet, Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "11794907001179490"
+  },
+  {
+    "name": "Hotel-Gasthof Löwen",
+    "address": "Landstrasse 152, 9494 Schaan, Liechtenstein",
+    "phone": "+4237978988"
+  },
+  {
+    "name": "Restaurant Sportslounge Vaduz",
+    "address": "Gafleistrasse 70, 9497 Gaflei, Liechtenstein",
+    "phone": "+4232388598"
+  },
+  {
+    "name": "Coa Asia Take Away",
+    "address": "Industriestrasse 32, 9495 Triesen, Liechtenstein",
+    "phone": "+4233921035"
+  },
+  {
+    "name": "Elisas taste of Italianfood and Drinks",
+    "address": "Städtle 28, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233404828"
+  },
+  {
+    "name": "Mühleholz Grill",
+    "address": "Herrengasse 6, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Subway Vaduz",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4237917009"
+  },
+  {
+    "name": "Redmango",
+    "address": "Zollstrasse 27, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237830504"
+  },
+  {
+    "name": "Esquire Bar.Bistro",
+    "address": "Feldstrasse 4, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321018"
+  },
+  {
+    "name": "Gastronomie - GG Vaduz VP Bank",
+    "address": "Bergstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621904"
+  },
+  {
+    "name": "McDonald's Restaurant",
+    "address": "Landstrasse 10, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232683933"
+  },
+  {
+    "name": "Gastronomie - GG Hoval AG",
+    "address": "Mareestrasse 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232390202"
+  },
+  {
+    "name": "Jeloni Asia Take Away",
+    "address": "Maseschastrasse 48, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232622337"
+  },
+  {
+    "name": "Cuba Club Vaduz",
+    "address": "Städtle 36, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237927888"
+  },
+  {
+    "name": "McDonald’s",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "BarDuz",
+    "address": "Landstrasse 91, 9495 Triesen, Liechtenstein",
+    "phone": "+4233925588"
+  },
+  {
+    "name": "Zwei Bar",
+    "address": "Städtle 17, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232333373"
+  },
+  {
+    "name": "Balu Bäckerei Konditorei",
+    "address": "Gapetschstrasse 87, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325710"
+  },
+  {
+    "name": "Restaurant Forum",
+    "address": "Städtle 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321888"
+  },
+  {
+    "name": "Hotel Restaurant Kulm",
+    "address": "Städtle 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233404740"
+  },
+  {
+    "name": "Red Mango Thai Takeaway",
+    "address": "Aeulestrasse 45, 9490 Vaduz, Liechtenstein",
+    "phone": "+41796253600"
+  },
+  {
+    "name": "Park Hotel Sonnenhof",
+    "address": "Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Dolce Vita Ice Cream Parlor",
+    "address": "Austrasse 70, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Kainer",
+    "address": "Landstrasse 110, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233993311"
+  },
+  {
+    "name": "vegAluna.li",
+    "address": "Aeulestrasse 6, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Berggasthaus Masescha",
+    "address": "Schmedgass 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233925588"
+  },
+  {
+    "name": "Cellars of the Prince of Liechtenstein",
+    "address": "Aeulestrasse 51, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232329595"
+  },
+  {
+    "name": "Edelweiss",
+    "address": "Landstrasse 125, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321422"
+  },
+  {
+    "name": "Café Etagere",
+    "address": "Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233739999"
+  },
+  {
+    "name": "Vivid Triesen",
+    "address": "Schaanerstrasse 42, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237821737"
+  },
+  {
+    "name": "Centro Português de Liechtenstein",
+    "address": "Städtle 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237916445"
+  },
+  {
+    "name": "American Bagel&Coffee Co.",
+    "address": "Herrengasse 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381144"
+  },
+  {
+    "name": "VEYEZ ASIAN FOOD",
+    "address": "Landstrasse 110, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233993311"
+  },
+  {
+    "name": "Residence Hotel Vaduz",
+    "address": "Aeulestrasse 6, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237912399"
+  },
+  {
+    "name": "Gaflei Stuba",
+    "address": "Herrengasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232322132"
+  },
+  {
+    "name": "Mühleholzmarkt",
+    "address": "Kanalstrasse 30, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232326215"
+  },
+  {
+    "name": "La table Vaduz",
+    "address": "Städtle 15, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232328534"
+  },
+  {
+    "name": "Cafe Amann",
+    "address": "Herrengasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232322131"
+  },
+  {
+    "name": "Lömagarta",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232326300"
+  },
+  {
+    "name": "s'PopUp Vaduz",
+    "address": "Fürst-Franz-Josef-Strasse 68, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237937200"
+  },
+  {
+    "name": "Ospelt Catering",
+    "address": "Städtle 23, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232392020"
+  },
+  {
+    "name": "joesomat",
+    "address": "herrengasse 9, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232302345"
+  },
+  {
+    "name": "Mühleholzmarkt",
+    "address": "Landstrasse 117, 9490 Vaduz / Coop ist jeweils ab 7.00Uhr geöffnet, Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "11794907001179490"
+  },
+  {
+    "name": "Lova Center",
+    "address": "Landstrasse 1, 9495 Triesen, Liechtenstein",
+    "phone": "+4233924034"
+  },
+  {
+    "name": "Vaduz Castle",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396820"
+  },
+  {
+    "name": "Kunstmuseum Liechtenstein",
+    "address": "Feldstrasse 4, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321018"
+  },
+  {
+    "name": "Kathedrale St. Florin",
+    "address": "Neugutweg 30, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233922393"
+  },
+  {
+    "name": "Schatzkammer Liechtenstein",
+    "address": "Rheinstrasse, 9475 Sevelen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Liechtensteinisches LandesMuseum",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396846"
+  },
+  {
+    "name": "Old Rhine Bridge",
+    "address": "Rathausgasse 1, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Vaduz Citytrain AG",
+    "address": "Städtle 43, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396830"
+  },
+  {
+    "name": "Postmuseum Vaduz",
+    "address": "Bergstrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381200"
+  },
+  {
+    "name": "Cellars of the Prince of Liechtenstein",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Ridamm-City ErlebnisWelt - Neuguthof",
+    "address": "Dompfarramt, St. Florinsgasse 17, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232323616"
+  },
+  {
+    "name": "Burg Gutenberg",
+    "address": "Städtle 22, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Tre Cavalli",
+    "address": "Kirchstrasse, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232377878"
+  },
+  {
+    "name": "Red House, Vaduz",
+    "address": "Peter-Kaiser-Platz 1, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232366111"
+  },
+  {
+    "name": "Uhrenmuseum Kurt Beck",
+    "address": "Industriestrasse 28, 9486 Schaanwald, Liechtenstein",
+    "phone": "+4233731040"
+  },
+  {
+    "name": "Walser Museum",
+    "address": "Kirchstrasse, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Hilti Art Fundation",
+    "address": "Sägastrasse 33, 9495 Triesen, Liechtenstein",
+    "phone": "+4232360111"
+  },
+  {
+    "name": "Lawena Museum",
+    "address": "Schlossweg, 9470 Werdenberg, Switzerland",
+    "phone": "+41817400540"
+  },
+  {
+    "name": "DoMus - Museum und Galerie der Gemeinde Schaan",
+    "address": "Städtle 37-15, 9490 Vaduz, Liechtenstein",
+    "phone": "37159490"
+  },
+  {
+    "name": "Werdenberg Castle",
+    "address": "Städtle 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396363"
+  },
+  {
+    "name": "Citytrain",
+    "address": "Schlossstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621926"
+  },
+  {
+    "name": "Vaduz",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Vaduz",
+    "address": "Fürst-Franz-Josef-Strasse 102, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Grande Cavallo",
+    "address": "Burgweg 5, 9496 Balzers, Liechtenstein",
+    "phone": "+4233880505"
+  },
+  {
+    "name": "Two Light Prisms",
+    "address": "Lettstrasse 74, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374747"
+  },
+  {
+    "name": "Regierungsgebäude des Fürstentums Liechtenstein",
+    "address": "Lettstrasse 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+41794323266"
+  },
+  {
+    "name": "MuseumMura",
+    "address": "Städtle 13-9, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Jugendherberge Schaan-Vaduz",
+    "address": "Duxgass 55, 9494 Schaan, Liechtenstein",
+    "phone": "+4235555555"
+  },
+  {
+    "name": "Kloster by bsmart",
+    "address": "Undera Forst 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232220981"
+  },
+  {
+    "name": "bsmart motel Schaan",
+    "address": "Duxweg 31, 9494 Schaan, Liechtenstein",
+    "phone": "+41754042727"
+  },
+  {
+    "name": "Hotel Schatzmann, Liechtenstein",
+    "address": "Under Rüttigass 6, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325022"
+  },
+  {
+    "name": "Hotel Dux",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4233991212"
+  },
+  {
+    "name": "Scanaua Restaurant & Bar",
+    "address": "Landstrasse 152, 9494 Schaan, Liechtenstein",
+    "phone": "+4237978988"
+  },
+  {
+    "name": "Restaurant Lio",
+    "address": "Landstrasse 30, 9494 Schaan, Liechtenstein",
+    "phone": "+4237819909"
+  },
+  {
+    "name": "PUR - Restaurant & Bar",
+    "address": "Poststrasse 27, 9494 Schaan, Liechtenstein",
+    "phone": "+4232300494"
+  },
+  {
+    "name": "Restaurant Rössle",
+    "address": "Zollstrasse 17, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325326"
+  },
+  {
+    "name": "Restaurant Forum",
+    "address": "Im alten Riet 22, 9494 Schaan, Liechtenstein",
+    "phone": "+4232600000"
+  },
+  {
+    "name": "da Noi",
+    "address": "Zollstrasse 3, 9494 Schaan, Liechtenstein",
+    "phone": "+41786426116"
+  },
+  {
+    "name": "Dolce Gusto",
+    "address": "Gapetschstrasse 87, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325710"
+  },
+  {
+    "name": "VEYEZ ASIAN FOOD",
+    "address": "Landstrasse 48, 9494 Schaan, Liechtenstein",
+    "phone": "+4232321707"
+  },
+  {
+    "name": "Coconat Thai Kitchen",
+    "address": "Landstrasse 15, 9494 Schaan, Liechtenstein",
+    "phone": "+4232399700"
+  },
+  {
+    "name": "Ha Long Restaurant",
+    "address": "Poststrasse 2, 9494 Schaan, Liechtenstein",
+    "phone": "+4232321001"
+  },
+  {
+    "name": "Restaurant Kuro",
+    "address": "Duxgass 55, 9494 Schaan, Liechtenstein",
+    "phone": "+41798964543"
+  },
+  {
+    "name": "Liechtensteiner Braustube",
+    "address": "Im alten Riet 22, 9494 Schaan, Liechtenstein",
+    "phone": "+4232334333"
+  },
+  {
+    "name": "Pizzeria Toscana",
+    "address": "Duxgass 99, 9494 Schaan, Liechtenstein",
+    "phone": "+41786954406"
+  },
+  {
+    "name": "la casa",
+    "address": "Bahnhofstrasse 6, 9494 Schaan, Liechtenstein",
+    "phone": "+4232321737"
+  },
+  {
+    "name": "La Piazza Bar & Bistro",
+    "address": "Landstrasse 92, 9494 Schaan, Liechtenstein",
+    "phone": "+4232328940"
+  },
+  {
+    "name": "UNIKUM My Local Pub",
+    "address": "Im alten Riet 34, 9494 Schaan, Liechtenstein",
+    "phone": "+41782624040"
+  },
+  {
+    "name": "Restaurant Vibes",
+    "address": "Im alten Riet 34, 9494 Schaan, Liechtenstein",
+    "phone": "+41782624040"
+  },
+  {
+    "name": "Specki",
+    "address": "Bahnhofstrasse 4, 9494 Schaan, Liechtenstein",
+    "phone": "+4237844040"
+  },
+  {
+    "name": "Suppenküche Central Schaan - Ehemals Alte Metzg",
+    "address": "Birkenweg 2, 9494 Schaan, Liechtenstein",
+    "phone": "+4232350160"
+  },
+  {
+    "name": "Schaan",
+    "address": "Bahnhofstrasse 1, 9494 Schaan, Liechtenstein",
+    "phone": "+4232321404"
+  },
+  {
+    "name": "Restaurant KLUBHAUS",
+    "address": "Feldkircher Strasse 55, 9494 Schaan, Liechtenstein",
+    "phone": "+41794660956"
+  },
+  {
+    "name": "Pizzeria Pronto",
+    "address": "Zollstrasse 82, 9494 Schaan, Liechtenstein",
+    "phone": "+4233739509"
+  },
+  {
+    "name": "RUUF",
+    "address": "Im Rösle 2, 9494 Schaan, Liechtenstein",
+    "phone": "+4232322323"
+  },
+  {
+    "name": "Central Garage",
+    "address": "Im alten Riet 156, 9494 Schaan, Liechtenstein",
+    "phone": "+4233778870"
+  },
+  {
+    "name": "Andy's Bunker",
+    "address": "Landstrasse 5, 9494 Schaan, Liechtenstein",
+    "phone": "+4232321122"
+  },
+  {
+    "name": "b.eat",
+    "address": "Im Bretscha 7, 9494 Schaan, Liechtenstein",
+    "phone": "+4232329099"
+  },
+  {
+    "name": "Lova Center",
+    "address": "Im Bretscha 34, 9494 Schaan, Liechtenstein",
+    "phone": "+4232333003"
+  },
+  {
+    "name": "Shopping City",
+    "address": "Landstrasse 33, 9491 Ruggell, Liechtenstein",
+    "phone": "+4233774949"
+  },
+  {
+    "name": "Haag Center",
+    "address": "Landstrasse 117, 9490 Vaduz / Coop ist jeweils ab 7.00Uhr geöffnet, Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "11794907001179490"
+  },
+  {
+    "name": "Erlebniscenter REC Ruggell",
+    "address": "Wolfrietstrasse 4, 8887 Mels, Switzerland",
+    "phone": "+41817200057"
+  },
+  {
+    "name": "Rietcenter",
+    "address": "Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Pizolcenter",
+    "address": "Landstrasse 1, 9495 Triesen, Liechtenstein",
+    "phone": "+4233924034"
+  },
+  {
+    "name": "Vinomna Center",
+    "address": "Bahnhofstraße 11-13, 6830 Rankweil, Austria",
+    "phone": "11136830"
+  },
+  {
+    "name": "pizolpark",
+    "address": "Im Rüti, Warostrasse, 9469 Sennwald, Switzerland",
+    "phone": "+41817503470"
+  },
+  {
+    "name": "FROMMELT Copycenter Est.",
+    "address": "Grossfeldstrasse 56, 8887 Mels, Switzerland",
+    "phone": "+41587129000"
+  },
+  {
+    "name": "Gemüse und Gartencenter",
+    "address": "Alte Zollstrasse 11, 9494 Schaan, Liechtenstein",
+    "phone": "+4233841320"
+  },
+  {
+    "name": "Wein und Dessous",
+    "address": "Im Pardiel 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232324545"
+  },
+  {
+    "name": "Migros Supermarket",
+    "address": "Feldkircher Strasse 74, 9494 Schaan, Liechtenstein",
+    "phone": "+4237912686"
+  },
+  {
+    "name": "Valeis Center AG",
+    "address": "Winkelgass, 9494 Schaan, Liechtenstein",
+    "phone": "+4232323252"
+  },
+  {
+    "name": "Illpark",
+    "address": "Wolfrietstrasse 8, 7323 Vilters-Wangs, Switzerland",
+    "phone": "+41817236888"
+  },
+  {
+    "name": "Passage 22",
+    "address": "Zollstrasse 70, 9494 Schaan, Liechtenstein",
+    "phone": "+4232323252"
+  },
+  {
+    "name": "Hilti Store Schaan",
+    "address": "Bahnhofstrasse 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232374141"
+  },
+  {
+    "name": "KÄRCHER Center - Schaan Liechtenstein",
+    "address": "Bundesstraße 22, 6830 Rankweil, Austria",
+    "phone": null
+  },
+  {
+    "name": "Furniture Center Thöny",
+    "address": "Leonhardspl. 4, 6800 Feldkirch, Austria",
+    "phone": "+43552274346"
+  },
+  {
+    "name": "KÄRCHER Center",
+    "address": "Hilti Store Schaan, Im alten Riet 102, 9494 Schaan, Liechtenstein",
+    "phone": "+41844848485"
+  },
+  {
+    "name": "BEAUTY VILLA LIECHTENSTEIN",
+    "address": "Im Rösle 2, 9494 Schaan, Liechtenstein",
+    "phone": "+41587129180"
+  },
+  {
+    "name": "Parts Center AG, Logistik-Center",
+    "address": "Grenzweg 10, 6800 Feldkirch, Austria",
+    "phone": "+436642418576"
+  },
+  {
+    "name": "wenaweser zweiradcenter",
+    "address": "Steckergass 2, 9494 Schaan, Liechtenstein",
+    "phone": "+4232333631"
+  },
+  {
+    "name": "DoMus - Museum und Galerie der Gemeinde Schaan",
+    "address": "Landstrasse 71-75, 9494 Schaan, Liechtenstein",
+    "phone": "71759494"
+  },
+  {
+    "name": "Vaduz Castle",
+    "address": "Rheinstrasse, 9475 Sevelen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Kunstmuseum Liechtenstein",
+    "address": "Bergstrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381200"
+  },
+  {
+    "name": "Burg Gutenberg",
+    "address": "Rathausgasse 1, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Schatzkammer Liechtenstein",
+    "address": "Städtle 43, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396830"
+  },
+  {
+    "name": "sLandweibels-Huus",
+    "address": "Dompfarramt, St. Florinsgasse 17, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232323616"
+  },
+  {
+    "name": "Old Rhine Bridge",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396820"
+  },
+  {
+    "name": "Kathedrale St. Florin",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Vaduz Citytrain AG",
+    "address": "Burgweg 5, 9496 Balzers, Liechtenstein",
+    "phone": "+4233880505"
+  },
+  {
+    "name": "Obere Burg",
+    "address": "Industriestrasse 28, 9486 Schaanwald, Liechtenstein",
+    "phone": "+4233731040"
+  },
+  {
+    "name": "Lawena Museum",
+    "address": "Hafenpl., 88131 Lindau (Bodensee), Germany",
+    "phone": null
+  },
+  {
+    "name": "Walser Museum",
+    "address": "Madrisastrasse 7, 7252 Klosters-Serneus, Switzerland",
+    "phone": "+41814102170"
+  },
+  {
+    "name": "Küefer-Martis-Huus",
+    "address": "Under Rüttigass 6, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325022"
+  },
+  {
+    "name": "Cellars of the Prince of Liechtenstein",
+    "address": "Kirchstrasse, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Werdenberg Castle",
+    "address": "462, 9107 Urnäsch, Switzerland",
+    "phone": "+41718983300"
+  },
+  {
+    "name": "Greifvogelpark Buchs",
+    "address": "Klosterhof 6D, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273416"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Alplochschlucht, Ebensand, Rathauspl. 1a, 6850 Dornbirn, Austria",
+    "phone": "+43557222188"
+  },
+  {
+    "name": "Postmuseum Vaduz",
+    "address": "Ziegeleistrasse 14, 9050 Appenzell, Switzerland",
+    "phone": "+41717881860"
+  },
+  {
+    "name": "Ruggeller Riet Nature Reserve",
+    "address": "Kirchlistrasse 92, 9010 St. Gallen, Switzerland",
+    "phone": "+41712445113"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Verduonig 2b, 7307 Jenins, Switzerland",
+    "phone": "+41813307272"
+  },
+  {
+    "name": "Ruggeller Riet Nature Reserve",
+    "address": "Dompl. 2, 6800 Feldkirch, Austria",
+    "phone": "+435522722320"
+  },
+  {
+    "name": "Schattenburg",
+    "address": "Lettstrasse 74, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374747"
+  },
+  {
+    "name": "Wildkirchli",
+    "address": "Rästelweg, Egg 72, 9103 Schwellbrunn, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Hohensax Castle",
+    "address": "Jahngasse 9, 6850 Dornbirn, Austria",
+    "phone": "+435572232350"
+  },
+  {
+    "name": "Sargans Castle",
+    "address": "Klosterhof 6B, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273340"
+  },
+  {
+    "name": "Schwarzbüel",
+    "address": "Unterrainstrasse 5, 9050 Appenzell, Switzerland",
+    "phone": "+41717881800"
+  },
+  {
+    "name": "Katzenturm",
+    "address": "Dorf, 9063 Stein, Switzerland",
+    "phone": "+41713685056"
+  },
+  {
+    "name": "Museum Bickel",
+    "address": "u. Betliserstrasse 4, 8872 Weesen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Fürstin-Gina-Weg",
+    "address": "Städtle 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396363"
+  },
+  {
+    "name": "Schaan-Vaduz",
+    "address": "Lettstrasse 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+41794323266"
+  },
+  {
+    "name": "Fort Heldsberg",
+    "address": "St. Leonhardstrasse 1B, 7310 Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Wildpark Feldkirch",
+    "address": "Hauptgasse 4, 9050 Appenzell, Switzerland",
+    "phone": "+41717889631"
+  },
+  {
+    "name": "Schaan",
+    "address": "Schloß-Gayenhof-Platz 2, 6700 Bludenz, Austria",
+    "phone": null
+  },
+  {
+    "name": "Seerenbach Falls",
+    "address": "Platz 1221, 9102 Herisau, Switzerland",
+    "phone": "12219102"
+  },
+  {
+    "name": "Militärmuseum Saint Luzisteig",
+    "address": "Sonnenhalbstrasse 22, 9656 Alt St. Johann, Switzerland",
+    "phone": "+41719985000"
+  },
+  {
+    "name": "Schaan",
+    "address": "Städtle 13-9, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Pizolbahnen AG",
+    "address": "Vild 18, 7320 Sargans, Switzerland",
+    "phone": "+41817231217"
+  },
+  {
+    "name": "Üble Schlucht",
+    "address": "Industriestrasse 21, 9400 Rorschach, Switzerland",
+    "phone": "+41718455500"
+  },
+  {
+    "name": "Staufensee",
+    "address": "Staufensee, 6850 Dornbirn, Austria",
+    "phone": null
+  },
+  {
+    "name": "Fägnäscht Indoor-Spielplatz",
+    "address": "Rosenweg 1, 7304 Maienfeld, Switzerland",
+    "phone": "+41813004020"
+  },
+  {
+    "name": "Klangwelt Toggenburg",
+    "address": "Loisstrasse 50, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813004830"
+  },
+  {
+    "name": "Uhrenmuseum Kurt Beck",
+    "address": "Obere, Heldsbergstrasse 5, 9430 St. Margrethen, Switzerland",
+    "phone": "+41717334031"
+  },
+  {
+    "name": "Chapel St. Leonhard",
+    "address": "Ardetzenweg 20, 6800 Feldkirch, Austria",
+    "phone": "+43552274105"
+  },
+  {
+    "name": "Museum Herisau",
+    "address": "Zettlereistrasse 9, 8880 Walenstadt, Switzerland",
+    "phone": "+41817102777"
+  },
+  {
+    "name": "Liechtenstein Center",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Burgruine Strahlegg",
+    "address": "Sareis, 9497 Malbun, Liechtenstein",
+    "phone": "+4232654000"
+  },
+  {
+    "name": "Rheinpark Stadium",
+    "address": "Wasserfall, 8873 Amden, Switzerland",
+    "phone": "+41582282830"
+  },
+  {
+    "name": "Appenzeller Volkskunde-Museum Stein",
+    "address": "Pardiel, Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Abbey of Saint Gall",
+    "address": "Hirschgraben, 6800 Feldkirch, Austria",
+    "phone": null
+  },
+  {
+    "name": "Rätselweg",
+    "address": "Schloss, Städtchenstrasse 51, 7320 Sargans, Switzerland",
+    "phone": "+41817236569"
+  },
+  {
+    "name": "Kunstmuseum in Appenzell",
+    "address": "Äscher 9057, 9057 Schwende, Switzerland",
+    "phone": "90579057"
+  },
+  {
+    "name": "Burgruine Alt-Ems",
+    "address": "Burggasse 1, 6800 Feldkirch, Austria",
+    "phone": "+4355223043510"
+  },
+  {
+    "name": "inatura natural spectacle Gmbh",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Greisinger Museum",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Kunsthalle Ziegelhütte",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396846"
+  },
+  {
+    "name": "Wildlife Park Peter and Paul",
+    "address": "Schützenhausweg 8, 9470 Buchs, Switzerland",
+    "phone": "+41817405201"
+  },
+  {
+    "name": "Abbey Library of Saint Gall",
+    "address": "Schlossweg, 9470 Werdenberg, Switzerland",
+    "phone": "+41817400540"
+  },
+  {
+    "name": "Jugendherberge Schaan-Vaduz",
+    "address": "Feldstrasse 4, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321018"
+  },
+  {
+    "name": "MuseumMura",
+    "address": "Schlossstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621926"
+  },
+  {
+    "name": "Madrisa Land",
+    "address": "Sägastrasse 33, 9495 Triesen, Liechtenstein",
+    "phone": "+4232360111"
+  },
+  {
+    "name": "Alplochschlucht",
+    "address": "Giessenstrasse 14, 9491 Ruggell, Liechtenstein",
+    "phone": "+4233711266"
+  },
+  {
+    "name": "New Lindauer Lighthouse",
+    "address": "Schlossweg 20, 9488 Schellenberg, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Hotel Schatzmann, Liechtenstein",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4233991212"
+  },
+  {
+    "name": "Hotel Schlosswald",
+    "address": "Bergstrasse 25, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232650101"
+  },
+  {
+    "name": "Hotel Oberland",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Hotel Kulm",
+    "address": "Eichholzweg 6, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922488"
+  },
+  {
+    "name": "Hotel Restaurant Kulm",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Hotel Landhaus am Giessen",
+    "address": "Zollstrasse 16, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350035"
+  },
+  {
+    "name": "Hotel Vaduzerhof",
+    "address": "Mareestrasse 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232390202"
+  },
+  {
+    "name": "Park Hotel Sonnenhof",
+    "address": "Städtle 3, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374646"
+  },
+  {
+    "name": "Residence Hotel Vaduz",
+    "address": "Städtle 23, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232392020"
+  },
+  {
+    "name": "Hotel Hofbalzers",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233800013"
+  },
+  {
+    "name": "Jugendherberge Schaan-Vaduz",
+    "address": "Haldenweg 13, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Camping Mittagspitze AG",
+    "address": "Hofi 590, 9497 Triesenberg, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Kloster by bsmart",
+    "address": "Stubistrasse 4, 9497 Malbun, Liechtenstein",
+    "phone": "+4232644323"
+  },
+  {
+    "name": "bsmart motel Schaan",
+    "address": "Im Malbun 11, 9497 Malbun, Liechtenstein",
+    "phone": "+4232631181"
+  },
+  {
+    "name": "Restaurant Schäfle",
+    "address": "Buchenweg 6, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232355024"
+  },
+  {
+    "name": "Hotel-Gasthof Löwen",
+    "address": "Duxweg 31, 9494 Schaan, Liechtenstein",
+    "phone": "+41754042727"
+  },
+  {
+    "name": "Berggasthaus Sücka",
+    "address": "Turnastrasse 120, 9497 Malbun, Liechtenstein",
+    "phone": "+4232634686"
+  },
+  {
+    "name": "Landgasthof Au",
+    "address": "Stubistrasse 8, 9497 Malbun, Liechtenstein",
+    "phone": "+4232659000"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Im Malbun 55, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232655040"
+  },
+  {
+    "name": "Vögeli Alpenhotel Malbun",
+    "address": "Malbunstrasse 60, 9497 Malbun, Liechtenstein",
+    "phone": "+4233992000"
+  },
+  {
+    "name": "JUFA Hotel Malbun",
+    "address": "Im Malbun 11, 9497 Malbun, Liechtenstein",
+    "phone": "+4232631181"
+  },
+  {
+    "name": "Gorfion Familotel Liechtenstein",
+    "address": "Austrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321117"
+  },
+  {
+    "name": "Penthouse Apartment Vaduz",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Hotel Turna Malbun",
+    "address": "Sückastrasse 41, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232632579"
+  },
+  {
+    "name": "Vögeli Alpenhotel Malbun",
+    "address": "Undera Forst 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232220981"
+  },
+  {
+    "name": "Hotel Dux",
+    "address": "Duxgass 55, 9494 Schaan, Liechtenstein",
+    "phone": "+4235555555"
+  },
+  {
+    "name": "Apartment Hofi 590",
+    "address": "Herrengasse 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381144"
+  },
+  {
+    "name": "Sareis",
+    "address": "Under Rüttigass 6, 9494 Schaan, Liechtenstein",
+    "phone": "+4232325022"
+  },
+  {
+    "name": "Suite 13",
+    "address": "Landstrasse 266, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923818"
+  },
+  {
+    "name": "Walserhof",
+    "address": "Sägastrasse 29, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922688"
+  },
+  {
+    "name": "Restaurant Schäfle",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4237917009"
+  },
+  {
+    "name": "Osteria Adler",
+    "address": "Industriestrasse 32, 9495 Triesen, Liechtenstein",
+    "phone": "+4233921035"
+  },
+  {
+    "name": "Vivid Triesen",
+    "address": "Landstrasse 266, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923818"
+  },
+  {
+    "name": "Restaurant Pedroni",
+    "address": "Landstrasse 289, 9495 Triesen, Liechtenstein",
+    "phone": "+4233926600"
+  },
+  {
+    "name": "Zur Alten Eiche",
+    "address": "Landstrasse 261, 9495 Triesen, Liechtenstein",
+    "phone": "+4233701188"
+  },
+  {
+    "name": "Gasthaus Linde",
+    "address": "Lindenpl. 1, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923565"
+  },
+  {
+    "name": "Hornligrill",
+    "address": "Austrasse 11, 9495 Triesen, Liechtenstein",
+    "phone": "+4237946062"
+  },
+  {
+    "name": "Red Mango Thai Takeaway",
+    "address": "Landstrasse 91, 9495 Triesen, Liechtenstein",
+    "phone": "+4233925588"
+  },
+  {
+    "name": "Centro Português de Liechtenstein",
+    "address": "Sägastrasse 29, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922686"
+  },
+  {
+    "name": "Pizzeria il Salento",
+    "address": "Landstrasse 93, 9495 Triesen, Liechtenstein",
+    "phone": "+41796891090"
+  },
+  {
+    "name": "Edelweiss",
+    "address": "Landstrasse 91, 9495 Triesen, Liechtenstein",
+    "phone": "+4233925574"
+  },
+  {
+    "name": "Pizzeria Pikante / Tennisclub Triesen",
+    "address": "Austrasse 70, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Santana",
+    "address": "Gafleistrasse 70, 9497 Gaflei, Liechtenstein",
+    "phone": "+4232388598"
+  },
+  {
+    "name": "LoBistro",
+    "address": "Heitastrasse 3, 9497 Malbun, Liechtenstein",
+    "phone": "+41786300033"
+  },
+  {
+    "name": "Kainer",
+    "address": "Mareestrasse 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232390202"
+  },
+  {
+    "name": "Alp Valüna",
+    "address": "Gässle 5, 9495 Triesen, Liechtenstein",
+    "phone": "+4233921333"
+  },
+  {
+    "name": "Hornlihöttea-Alpenhennes",
+    "address": "Austrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321117"
+  },
+  {
+    "name": "Hotel Restaurant Kulm",
+    "address": "Im Malbun 3, 9497 Malbun, Liechtenstein",
+    "phone": "+4232635102"
+  },
+  {
+    "name": "Restaurant Heusträffli",
+    "address": "Gaflei, Matu, 9497, Masescha, Liechtenstein",
+    "phone": "+4232623820"
+  },
+  {
+    "name": "Pizzakurier Paradiso GmbH",
+    "address": "Aeulestrasse 22, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232334422"
+  },
+  {
+    "name": "Bäckerei Guflina",
+    "address": "Landstrasse 292, 9495 Triesen, Liechtenstein",
+    "phone": "+41774662997"
+  },
+  {
+    "name": "McDonald’s",
+    "address": "Schlossstrasse, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Triesenberg Malbun Steg Tourismus",
+    "address": "Kanalstrasse 30, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232326215"
+  },
+  {
+    "name": "Restaurant Seeblick",
+    "address": "Landstrasse 251, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922007"
+  },
+  {
+    "name": "Bergstübli",
+    "address": "Landstrasse 110, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233993311"
+  },
+  {
+    "name": "Artis Bistro",
+    "address": "Rotenbodenstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621917"
+  },
+  {
+    "name": "LUDWIGS",
+    "address": "Maseschastrasse 48, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232622337"
+  },
+  {
+    "name": "Viva",
+    "address": "Valünastrasse 42, 9497 Steg, Liechtenstein",
+    "phone": "+41792361138"
+  },
+  {
+    "name": "Restaurant Schneeflucht",
+    "address": "Grosssteg 47, 9497 Steg, Liechtenstein",
+    "phone": "+4232631016"
+  },
+  {
+    "name": "Eredi Fiorini",
+    "address": "Landstrasse 121, 9495 Triesen, Switzerland",
+    "phone": "+4233900090"
+  },
+  {
+    "name": "Landgasthof Au",
+    "address": "Landstrasse 92, 9495 Triesen, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Schlucher-Treff",
+    "address": "Landstrasse 102, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232620303"
+  },
+  {
+    "name": "Gitzihöll",
+    "address": "Landstrasse 10, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232683933"
+  },
+  {
+    "name": "New Castle",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Gastronomie - GG Hoval AG",
+    "address": "Landstrasse 110, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923355"
+  },
+  {
+    "name": "Berggasthaus Matu",
+    "address": "Bergstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621904"
+  },
+  {
+    "name": "Marée",
+    "address": "Landstrasse 1, 9495 Triesen, Liechtenstein",
+    "phone": "+41786961370"
+  },
+  {
+    "name": "Mango",
+    "address": "Langgasse 51, 9495 Triesen, Liechtenstein",
+    "phone": "+41798731134"
+  },
+  {
+    "name": "Mühleholzmarkt",
+    "address": "Landstrasse 1, 9495 Triesen, Liechtenstein",
+    "phone": "+4233924034"
+  },
+  {
+    "name": "Shopping City",
+    "address": "Landstrasse 117, 9490 Vaduz / Coop ist jeweils ab 7.00Uhr geöffnet, Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "11794907001179490"
+  },
+  {
+    "name": "Pizolcenter",
+    "address": "Wolfrietstrasse 4, 8887 Mels, Switzerland",
+    "phone": "+41817200057"
+  },
+  {
+    "name": "Rietcenter",
+    "address": "Grossfeldstrasse 56, 8887 Mels, Switzerland",
+    "phone": "+41587129000"
+  },
+  {
+    "name": "pizolpark",
+    "address": "Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Lawena Museum",
+    "address": "Schlossstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621926"
+  },
+  {
+    "name": "Walser Museum",
+    "address": "Burgweg 5, 9496 Balzers, Liechtenstein",
+    "phone": "+4233880505"
+  },
+  {
+    "name": "Rope Park in the Forest",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396820"
+  },
+  {
+    "name": "Vaduz Castle",
+    "address": "Langgasse 51,9495, Liechtenstein",
+    "phone": "+4237910015"
+  },
+  {
+    "name": "Burg Gutenberg",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Kunstmuseum Liechtenstein",
+    "address": "Dompfarramt, St. Florinsgasse 17, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232323616"
+  },
+  {
+    "name": "Old Rhine Bridge",
+    "address": "Sägastrasse 33, 9495 Triesen, Liechtenstein",
+    "phone": "+4232360111"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Bergstrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381200"
+  },
+  {
+    "name": "Schatzkammer Liechtenstein",
+    "address": "Rheinstrasse, 9475 Sevelen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Kathedrale St. Florin",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Liechtensteinisches LandesMuseum",
+    "address": "Sernftalstrasse 109, 8765 Engi, Switzerland",
+    "phone": "+41556425555"
+  },
+  {
+    "name": "Cellars of the Prince of Liechtenstein",
+    "address": "Marktpl. 11, 6850 Dornbirn, Austria",
+    "phone": "+4355723064911"
+  },
+  {
+    "name": "DoMus - Museum und Galerie der Gemeinde Schaan",
+    "address": "6900, Bregenz, Austria",
+    "phone": null
+  },
+  {
+    "name": "Casino Admiral Triesen",
+    "address": "Unterrainstrasse 5, 9050 Appenzell, Switzerland",
+    "phone": "+41717881800"
+  },
+  {
+    "name": "Obere Burg",
+    "address": "Gemeindeamt, Dorfstraße 8, 6782, Austria",
+    "phone": "+43555674723"
+  },
+  {
+    "name": "Küefer-Martis-Huus",
+    "address": "Mülenen-Schluchtweg, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273737"
+  },
+  {
+    "name": "Postmuseum Vaduz",
+    "address": "Grabenstrasse 30, 7000 Chur, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Fürstin-Gina-Weg",
+    "address": "Hans Albrecht-Strasse 5, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813033939"
+  },
+  {
+    "name": "Ridamm-City ErlebnisWelt - Neuguthof",
+    "address": "Bahnhofstrasse 35, 7000 Chur, Switzerland",
+    "phone": "+41812572870"
+  },
+  {
+    "name": "Ruggeller Riet Nature Reserve",
+    "address": "Hagenwilerstrasse, 8588 Zihlschlacht-Sitterdorf, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Tre Cavalli",
+    "address": "Masanserstrasse 31, 7000 Chur, Switzerland",
+    "phone": "+41812572841"
+  },
+  {
+    "name": "Greifvogelpark Buchs",
+    "address": "Ziegeleistrasse 14, 9050 Appenzell, Switzerland",
+    "phone": "+41717881860"
+  },
+  {
+    "name": "Hohensax Castle",
+    "address": "Museumstrasse 32, 9000 St. Gallen, Switzerland",
+    "phone": "+41712420671"
+  },
+  {
+    "name": "Camping Mittagspitze AG",
+    "address": "Oberer Schrannenpl., 88131 Lindau (Bodensee), Germany",
+    "phone": null
+  },
+  {
+    "name": "Werdenberg Castle",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Sargans Castle",
+    "address": "Fabrikstrasse 9, 8755 Ennenda, Switzerland",
+    "phone": "+41556501354"
+  },
+  {
+    "name": "Schattenburg",
+    "address": "Im Malbun 55, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232655040"
+  },
+  {
+    "name": "Paxmal",
+    "address": "Girabodawäg 16, 7075 Churwalden, Switzerland",
+    "phone": "+41813562180"
+  },
+  {
+    "name": "Wildkirchli",
+    "address": "Karl-Tizian-Platz, 6900 Bregenz, Austria",
+    "phone": "+43557448594433"
+  },
+  {
+    "name": "Schwarzbüel",
+    "address": "Platz 501, 6952 Hittisau, Austria",
+    "phone": "+43551320537"
+  },
+  {
+    "name": "Pizolbahnen AG",
+    "address": "Im Dorf 19, 8752 Näfels, Switzerland",
+    "phone": "+41556121378"
+  },
+  {
+    "name": "Katzenturm",
+    "address": "Hauptgasse 4, 9050 Appenzell, Switzerland",
+    "phone": "+41717889631"
+  },
+  {
+    "name": "Staufensee",
+    "address": "Gütle 10, 6850 Dornbirn, Austria",
+    "phone": "+43557252652"
+  },
+  {
+    "name": "Burgruine Alt-Ems",
+    "address": "Klosterhof, 9000 St. Gallen, Switzerland",
+    "phone": "+41712240550"
+  },
+  {
+    "name": "Triesen",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4233991212"
+  },
+  {
+    "name": "Abbey of Saint Gall",
+    "address": "Reutestraße 19, 6845 Hohenems, Austria",
+    "phone": "+43557674555"
+  },
+  {
+    "name": "Hotel Schlosswald",
+    "address": "Eisengasse 44, 6850 Dornbirn, Austria",
+    "phone": "+435572408840"
+  },
+  {
+    "name": "Museum Nutli Hüschi",
+    "address": "Dorf, 9063 Stein, Switzerland",
+    "phone": "+41713685056"
+  },
+  {
+    "name": "Uhrenmuseum Kurt Beck",
+    "address": "Rorschacher Str. 263, 9016 St. Gallen, Switzerland",
+    "phone": "+41712434040"
+  },
+  {
+    "name": "Üble Schlucht",
+    "address": "Verduonig 2b, 7307 Jenins, Switzerland",
+    "phone": "+41813307272"
+  },
+  {
+    "name": "Edelweiss",
+    "address": "7104, Versam, Switzerland",
+    "phone": "+41816306016"
+  },
+  {
+    "name": "inatura natural spectacle Gmbh",
+    "address": "u. Betliserstrasse 4, 8872 Weesen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Citytrain",
+    "address": "Bergstrasse 25, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232650101"
+  },
+  {
+    "name": "Triesenberg",
+    "address": "Dompl. 2, 6800 Feldkirch, Austria",
+    "phone": "+435522722320"
+  },
+  {
+    "name": "Chapel St. Leonhard",
+    "address": "Schloß-Gayenhof-Platz 2, 6700 Bludenz, Austria",
+    "phone": null
+  },
+  {
+    "name": "Naafkopf",
+    "address": "Churerstrasse 10, 9400 Rorschach, Switzerland",
+    "phone": "+41712251070"
+  },
+  {
+    "name": "Gonzenbergwerk",
+    "address": "Städtle 37-15, 9490 Vaduz, Liechtenstein",
+    "phone": "37159490"
+  },
+  {
+    "name": "Gänglesee",
+    "address": "Wasserfall, 8873 Amden, Switzerland",
+    "phone": "+41582282830"
+  },
+  {
+    "name": "Berggasthaus Masescha",
+    "address": "Parc La Mutta, 7153, Falera, Switzerland",
+    "phone": "+41819213030"
+  },
+  {
+    "name": "Liechtenstein Center",
+    "address": "Klosterhof 6D, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273416"
+  },
+  {
+    "name": "Bayerischer Löwe Lindau",
+    "address": "Städtle 22, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Museum Bickel",
+    "address": "Zettlereistrasse 9, 8880 Walenstadt, Switzerland",
+    "phone": "+41817102777"
+  },
+  {
+    "name": "Rheinpark Stadium",
+    "address": "Städtle 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396363"
+  },
+  {
+    "name": "Malbun",
+    "address": "Römerschanze, 88131 Lindau (Bodensee), Germany",
+    "phone": null
+  },
+  {
+    "name": "Seerenbach Falls",
+    "address": "Lettstrasse 74, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374747"
+  },
+  {
+    "name": "Parc la Mutta",
+    "address": "Vild 18, 7320 Sargans, Switzerland",
+    "phone": "+41817231217"
+  },
+  {
+    "name": "African King",
+    "address": "Maseschastrasse 48, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232622337"
+  },
+  {
+    "name": "Gayenhofen Castle",
+    "address": "Kirchstrasse, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Rectory St Nicholas",
+    "address": "St. Leonhardstrasse 1B, 7310 Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Burgruine Strahlegg",
+    "address": "Jahngasse 9, 6850 Dornbirn, Austria",
+    "phone": "+435572232350"
+  },
+  {
+    "name": "Greisinger Museum",
+    "address": "Bergstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621904"
+  },
+  {
+    "name": "Alp Valüna",
+    "address": "Lettstrasse 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+41794323266"
+  },
+  {
+    "name": "Appenzeller Volkskunde-Museum Stein",
+    "address": "Monbielerstrasse 11, 7250 Klosters-Serneus, Switzerland",
+    "phone": "+41794406948"
+  },
+  {
+    "name": "Natural History Museum St. Gallen",
+    "address": "Eichholzweg 6, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922488"
+  },
+  {
+    "name": "Spielfabrik",
+    "address": "Klosterhof 6B, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273340"
+  },
+  {
+    "name": "Hotel Schatzmann, Liechtenstein",
+    "address": "Ardetzenweg 20, 6800 Feldkirch, Austria",
+    "phone": "+43552274105"
+  },
+  {
+    "name": "Rolls-Royce Museum",
+    "address": "Staufensee, 6850 Dornbirn, Austria",
+    "phone": null
+  },
+  {
+    "name": "Museum des Landes Glarus im Freulerpalast",
+    "address": "Loisstrasse 50, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813004830"
+  },
+  {
+    "name": "Hittisau Women's Museum",
+    "address": "Äscher 9057, 9057 Schwende, Switzerland",
+    "phone": "90579057"
+  },
+  {
+    "name": "St. Gallen Cathedral",
+    "address": "Hirschgraben, 6800 Feldkirch, Austria",
+    "phone": null
+  },
+  {
+    "name": "Toboggan adventure mountain Pradaschier",
+    "address": "Pardiel, Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Anna Göldi Museum Glarus",
+    "address": "Schloss, Städtchenstrasse 51, 7320 Sargans, Switzerland",
+    "phone": "+41817236569"
+  },
+  {
+    "name": "Hotel Turna Malbun",
+    "address": "Burggasse 1, 6800 Feldkirch, Austria",
+    "phone": "+4355223043510"
+  },
+  {
+    "name": "Hotel Kulm",
+    "address": "Schlossweg, 9470 Werdenberg, Switzerland",
+    "phone": "+41817400540"
+  },
+  {
+    "name": "Kunsthaus Bregenz",
+    "address": "Sägastrasse 29, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922688"
+  },
+  {
+    "name": "Peterskirche",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Laax",
+    "address": "Grundweg, 8881 Walenstadt, Switzerland",
+    "phone": "+41817102777"
+  },
+  {
+    "name": "Bündner Naturmuseum",
+    "address": "Schützenhausweg 8, 9470 Buchs, Switzerland",
+    "phone": "+41817405201"
+  },
+  {
+    "name": "Kunsthalle Ziegelhütte",
+    "address": "Neugutweg 30, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233922393"
+  },
+  {
+    "name": "Kunstmuseum in Appenzell",
+    "address": "Städtle 13-9, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Casino Bad Ragaz",
+    "address": "Giessenstrasse 14, 9491 Ruggell, Liechtenstein",
+    "phone": "+4233711266"
+  },
+  {
+    "name": "Bündner Kunstmuseum",
+    "address": "Sareis, 9497 Malbun, Liechtenstein",
+    "phone": "+4232654000"
+  },
+  {
+    "name": "Fontana Park",
+    "address": "Schlossweg 20, 9488 Schellenberg, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "City Museum",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396846"
+  },
+  {
+    "name": "Hotel Hofbalzers",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4233991212"
+  },
+  {
+    "name": "Hotel Oberland",
+    "address": "Mareestrasse 29, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232390202"
+  },
+  {
+    "name": "Hotel Kulm",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Hotel Schatzmann, Liechtenstein",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233800013"
+  },
+  {
+    "name": "Hotel Vaduzerhof",
+    "address": "Zollstrasse 16, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350035"
+  },
+  {
+    "name": "Hotel Schlosswald",
+    "address": "Bergstrasse 25, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232650101"
+  },
+  {
+    "name": "Hotel Restaurant Kulm",
+    "address": "Sägastrasse 29, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922688"
+  },
+  {
+    "name": "Hotel Landhaus am Giessen",
+    "address": "Eichholzweg 6, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922488"
+  },
+  {
+    "name": "Park Hotel Sonnenhof",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Camping Mittagspitze AG",
+    "address": "Städtle 3, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374646"
+  },
+  {
+    "name": "Residence Hotel Vaduz",
+    "address": "Hofi 590, 9497 Triesenberg, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Berggasthaus Sücka",
+    "address": "Haldenweg 13, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Vögeli Alpenhotel Malbun",
+    "address": "Turnastrasse 120, 9497 Malbun, Liechtenstein",
+    "phone": "+4232634686"
+  },
+  {
+    "name": "Hotel-Gasthof Löwen",
+    "address": "Buchenweg 6, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232355024"
+  },
+  {
+    "name": "Landgasthof Au",
+    "address": "Im Malbun 11, 9497 Malbun, Liechtenstein",
+    "phone": "+4232631181"
+  },
+  {
+    "name": "Walserhof",
+    "address": "Stubistrasse 8, 9497 Malbun, Liechtenstein",
+    "phone": "+4232659000"
+  },
+  {
+    "name": "Hotel & Falknerei Galina",
+    "address": "Landstrasse 266, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923818"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Im Malbun 20, 9497 Malbun, Liechtenstein",
+    "phone": "+4237843424"
+  },
+  {
+    "name": "Restaurant Schäfle",
+    "address": "Im Malbun 55, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232655040"
+  },
+  {
+    "name": "Hotel Turna Malbun",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Gorfion Familotel Liechtenstein",
+    "address": "Herrengasse 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381144"
+  },
+  {
+    "name": "Vögeli Alpenhotel Malbun",
+    "address": "Im Malbun 11, 9497 Malbun, Liechtenstein",
+    "phone": "+4232631181"
+  },
+  {
+    "name": "Sareis",
+    "address": "Sückastrasse 41, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232632579"
+  },
+  {
+    "name": "Penthouse Apartment Vaduz",
+    "address": "Austrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321117"
+  },
+  {
+    "name": "Apartment Hofi 590",
+    "address": "Stubistrasse 4, 9497 Malbun, Liechtenstein",
+    "phone": "+4232644323"
+  },
+  {
+    "name": "Suite 13",
+    "address": "Städtle 23, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232392020"
+  },
+  {
+    "name": "Restaurant Falknis",
+    "address": "Rietstrasse 5, 9496 Balzers, Liechtenstein",
+    "phone": "+41782237073"
+  },
+  {
+    "name": "Zentrum Balzers",
+    "address": "Egerta 54, 9496 Balzers, Liechtenstein",
+    "phone": "+4233993413"
+  },
+  {
+    "name": "La Kantina",
+    "address": "Egerta 54, 9496 Balzers, Liechtenstein",
+    "phone": "+4233993411"
+  },
+  {
+    "name": "Rock-Inn Cafe",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233845050"
+  },
+  {
+    "name": "Restaurant dasriet",
+    "address": "Gnetsch, 9496 Balzers, Liechtenstein",
+    "phone": "+4233845700"
+  },
+  {
+    "name": "Augusta.li - Balzers",
+    "address": "Rietstrasse 22, 9496 Balzers, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Restaurant Höfle",
+    "address": "Egerta 11, 9496 Balzers, Liechtenstein",
+    "phone": "+4237922308"
+  },
+  {
+    "name": "King Kebap",
+    "address": "Prär 1, 9496 Balzers, Liechtenstein",
+    "phone": "+4233841702"
+  },
+  {
+    "name": "Coco-Loco",
+    "address": "Gewerbestrasse 4, 9496 Balzers, Liechtenstein",
+    "phone": "+4233921243"
+  },
+  {
+    "name": "Zur Alten Eiche",
+    "address": "Landstrasse 92, 9495 Triesen, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Griffin's Pub",
+    "address": "Bahnhofstrasse 2, 9475 Sevelen, Switzerland",
+    "phone": "+41786066105"
+  },
+  {
+    "name": "PrinzenBräu AG",
+    "address": "Maseschastrasse 48, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232622337"
+  },
+  {
+    "name": "Cafe Roxy",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233841200"
+  },
+  {
+    "name": "Hotel Hofbalzers",
+    "address": "Neugrüt 9, 9496 Balzers, Liechtenstein",
+    "phone": "+41787606634"
+  },
+  {
+    "name": "Restaurant Schäfle",
+    "address": "Rietstrasse 5, 9496 Balzers, Liechtenstein",
+    "phone": "+4233844480"
+  },
+  {
+    "name": "Osteria Adler",
+    "address": "Landstrasse 91, 9495 Triesen, Liechtenstein",
+    "phone": "+4233925588"
+  },
+  {
+    "name": "Restaurant Krone",
+    "address": "Landstrasse 1, 9495 Triesen, Liechtenstein",
+    "phone": "+41786961370"
+  },
+  {
+    "name": "Kainer",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233800013"
+  },
+  {
+    "name": "Vivid Triesen",
+    "address": "Valünastrasse 42, 9497 Steg, Liechtenstein",
+    "phone": "+41792361138"
+  },
+  {
+    "name": "Hotel Restaurant Kulm",
+    "address": "Landstrasse 102, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232620303"
+  },
+  {
+    "name": "Cafe Roxy",
+    "address": "Alte Landstrasse 4, 9496 Balzers, Liechtenstein",
+    "phone": "+4233841282"
+  },
+  {
+    "name": "LoBistro",
+    "address": "Schlossstrasse 3, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232377979"
+  },
+  {
+    "name": "Restaurant Heusträffli",
+    "address": "Landstrasse 80, 9495 Triesen, Liechtenstein",
+    "phone": "+4237917009"
+  },
+  {
+    "name": "Restaurant Seeblick",
+    "address": "Landstrasse 289, 9495 Triesen, Liechtenstein",
+    "phone": "+4233926600"
+  },
+  {
+    "name": "Berggasthaus Masescha",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233800013"
+  },
+  {
+    "name": "Hornlihöttea-Alpenhennes",
+    "address": "Alte Landstrasse 4, 9496 Balzers, Liechtenstein",
+    "phone": "+4233841282"
+  },
+  {
+    "name": "Hotel Hofbalzers",
+    "address": "Landstrasse 266, 9495 Triesen, Liechtenstein",
+    "phone": "+4233923818"
+  },
+  {
+    "name": "Berggasthaus Voralp",
+    "address": "Egerta 45, 9496 Balzers, Liechtenstein",
+    "phone": "+4233842849"
+  },
+  {
+    "name": "Red Mango Thai Takeaway",
+    "address": "Landstrasse 10, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232683933"
+  },
+  {
+    "name": "Riet",
+    "address": "Unterm Schloss 90, 9496 Balzers, Liechtenstein",
+    "phone": "+4237944608"
+  },
+  {
+    "name": "Pizzeria Ristorante La Perla",
+    "address": "Sägastrasse 29, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922686"
+  },
+  {
+    "name": "La Ciabatta",
+    "address": "Hauptstrasse 65, 9477 Trübbach, Switzerland",
+    "phone": "+41817831333"
+  },
+  {
+    "name": "Mühleholzmarkt",
+    "address": "Wolfrietstrasse 4, 8887 Mels, Switzerland",
+    "phone": "+41817200057"
+  },
+  {
+    "name": "Pizolcenter",
+    "address": "Tardisstrasse 109, 7302 Landquart, Switzerland",
+    "phone": "+41793801055"
+  },
+  {
+    "name": "Rietcenter",
+    "address": "Wolfrietstrasse 8, 7323 Vilters-Wangs, Switzerland",
+    "phone": "+41817236888"
+  },
+  {
+    "name": "pizolpark",
+    "address": "Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Valeis Center AG",
+    "address": "Tardisstrasse 20a, 7302 Landquart, Switzerland",
+    "phone": "+41813221372"
+  },
+  {
+    "name": "Shopping City",
+    "address": "Landstrasse 117, 9490 Vaduz / Coop ist jeweils ab 7.00Uhr geöffnet, Landstrasse 117, 9490 Vaduz, Liechtenstein",
+    "phone": "11794907001179490"
+  },
+  {
+    "name": "Sunglass Hut",
+    "address": "Landstrasse 20, 9496 Balzers, Liechtenstein",
+    "phone": "+4233800260"
+  },
+  {
+    "name": "Migros Partner",
+    "address": "Landstrasse 1, 9495 Triesen, Liechtenstein",
+    "phone": "+4233924034"
+  },
+  {
+    "name": "Norrøna Outlet Store Landquart",
+    "address": "Grossfeldstrasse 56, 8887 Mels, Switzerland",
+    "phone": "+41587129000"
+  },
+  {
+    "name": "Sichtbar Optik AG",
+    "address": "Wolfrietstrasse 8, 7323 Vilters-Wangs, Switzerland",
+    "phone": "+41819296010"
+  },
+  {
+    "name": "claro Weltladen",
+    "address": "Pizolstrasse 6, 8887 Mels, Switzerland",
+    "phone": "+41817255555"
+  },
+  {
+    "name": "Frickauto AG",
+    "address": "Kirchstrasse 28, 8887 Mels, Switzerland",
+    "phone": "+41796812056"
+  },
+  {
+    "name": "LANDI Graubünden AG Standort Landquart",
+    "address": "Hans Albrecht-Strasse, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813032740"
+  },
+  {
+    "name": "parts-center ag",
+    "address": "Poststrasse 48A, 9494 Schaan, Liechtenstein",
+    "phone": "+4232300050"
+  },
+  {
+    "name": "Called 4 CrossFit - Ronny Büchel Est. - Fitness On Demand",
+    "address": "Kalvebod Brygge 59, 1560 København, Denmark",
+    "phone": "+4533366400"
+  },
+  {
+    "name": "Sunrise Shop",
+    "address": "Sarganserstrasse 1, 8887 Mels, Switzerland",
+    "phone": "+41817200520"
+  },
+  {
+    "name": "Pneucenter Grob GmbH",
+    "address": "Talstation Sesselbahn, Vordere Schwendistrasse 16, 9658 Wildhaus, Switzerland",
+    "phone": "+41719992244"
+  },
+  {
+    "name": "Mode Weber Pizol-Center",
+    "address": "Churerstrasse 10, 9470 Buchs, Switzerland",
+    "phone": "+41587127800"
+  },
+  {
+    "name": "Landi Wartau",
+    "address": "Bahnhofstrasse 25, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813026060"
+  },
+  {
+    "name": "Roxy",
+    "address": "Pizolstrasse 4, 8887 Mels, Switzerland",
+    "phone": "+41817233601"
+  },
+  {
+    "name": "MxM Outlet Landquart (MaxMara)",
+    "address": "Bomuldsgade 4, 2500 København, Denmark",
+    "phone": null
+  },
+  {
+    "name": "Sunrise Shop",
+    "address": "Pizolpark (Mels CH, Grossfeldstrasse 56, 8879, Switzerland",
+    "phone": "+41587129130"
+  },
+  {
+    "name": "Coop Pronto Shop mit Tankstelle Haag Center",
+    "address": "Tardisstrasse 83 Designer Outlet Landquart Shop 61, 7302 Landquart, Switzerland",
+    "phone": "83617302"
+  },
+  {
+    "name": "KÄRCHER Center",
+    "address": "Marausstrasse 5, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813301730"
+  },
+  {
+    "name": "HALLHUBER",
+    "address": "Lower Kilmacud Rd, Stillorgan, Dublin, Ireland",
+    "phone": "+35312886004"
+  },
+  {
+    "name": "Coop Parking Mühleholz, Vaduz",
+    "address": "Industriestrasse 9B, 7204 Untervaz, Switzerland",
+    "phone": "+41813000860"
+  },
+  {
+    "name": "CHRIST Watches & Jewelery",
+    "address": "125 Abbey Street Upper, North City, Dublin, D01 W3X5, Ireland",
+    "phone": "+35318781323"
+  },
+  {
+    "name": "Watch & See",
+    "address": "Zollstrasse 27, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232323032"
+  },
+  {
+    "name": "Hoi Liechtenstein - Souvenir Boutique",
+    "address": "Industriestrasse 16, 9487 Bendern, Liechtenstein",
+    "phone": "+4233701300"
+  },
+  {
+    "name": "Street One Shop",
+    "address": "Rheinstrasse 2, 9469 Sennwald, Switzerland",
+    "phone": "+41813022492"
+  },
+  {
+    "name": "KÄRCHER Center - Schaan Liechtenstein",
+    "address": "Seelistrasse 6, 9469 Sennwald, Switzerland",
+    "phone": "+41817503700"
+  },
+  {
+    "name": "Beldona",
+    "address": "Gonzenstrasse 7, 9475 Sevelen, Switzerland",
+    "phone": "+41817853656"
+  },
+  {
+    "name": "HW Baby Center AG",
+    "address": "Pizolpark (Mels CH, Grossfeldstrasse 56, 8879, Switzerland",
+    "phone": "+41587129110"
+  },
+  {
+    "name": "Furniture Center Thöny",
+    "address": "Lochrietstrasse 22, 8890 Flums, Switzerland",
+    "phone": "+41584006060"
+  },
+  {
+    "name": "Outlet Migros",
+    "address": "Tardisstrasse 30, 7302 Landquart, Switzerland",
+    "phone": "+41813227341"
+  },
+  {
+    "name": "Coop Supermarkt Mels Pizolcenter",
+    "address": "Bahnhofstrasse 4, 7320 Sargans, Switzerland",
+    "phone": "+41817204670"
+  },
+  {
+    "name": "Y.Yendi",
+    "address": "3401 Dufferin St, Toronto, ON M6A 2T9, Canada",
+    "phone": "+14167893261"
+  },
+  {
+    "name": "Parts Center AG, Logistik-Center",
+    "address": "Tardisstrasse 37, 7205 Landquart, Switzerland",
+    "phone": "+41813226723"
+  },
+  {
+    "name": "Autocenter Mels AG",
+    "address": "Zollstrasse 3, 9494 Schaan, Liechtenstein",
+    "phone": "+4232320410"
+  },
+  {
+    "name": "Hallhuber Outlet",
+    "address": "Falkoner Alle 21, 2000 Frederiksberg, Denmark",
+    "phone": "+4538160340"
+  },
+  {
+    "name": "Levi's® Factory Outlet Alpenrhein Village",
+    "address": "Tardisstrasse 89, 7302 Landquart, Switzerland",
+    "phone": "+41813226466"
+  },
+  {
+    "name": "Rattan Center GmbH",
+    "address": "Laurits Olsensvej 1, 2650 Hvidovre, Denmark",
+    "phone": null
+  },
+  {
+    "name": "Free Shop Perfumes & Cosmetics",
+    "address": "Wiesenstrasse 1a, 7307 Jenins, Switzerland",
+    "phone": "+41792524095"
+  },
+  {
+    "name": "Balzers",
+    "address": "Grossfeldstrasse 61, 8887 Mels, Switzerland",
+    "phone": "+41817259300"
+  },
+  {
+    "name": "Galerie der Schönheit",
+    "address": "St Stephen's Green, Dublin, D02 HX65, Ireland",
+    "phone": "+35314780888"
+  },
+  {
+    "name": "MANOR Sargans",
+    "address": "Eingang um die Ecke, Neugutstrasse 4a, 7208 Malans, Switzerland",
+    "phone": "+41813223932"
+  },
+  {
+    "name": "Selection Bardoscia",
+    "address": "Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41817230274"
+  },
+  {
+    "name": "DIESEL OUTLET LANDQUART",
+    "address": "Giuf, 9475 Sevelen, Switzerland",
+    "phone": "+41813023958"
+  },
+  {
+    "name": "Elsensohn Gärtnerei",
+    "address": "Pizolpark (Mels CH, Grossfeldstrasse 56, 8879, Switzerland",
+    "phone": "+41587129000"
+  },
+  {
+    "name": "VALLE DULCIS AG",
+    "address": "Im Pardiel 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232324545"
+  },
+  {
+    "name": "Coop Supermarkt Haag",
+    "address": "EKZ, Rheinstrasse 2, 9469 Haag (Rheintal), Switzerland",
+    "phone": "+41817717410"
+  },
+  {
+    "name": "Maya Maya | Landquart",
+    "address": "Oakley Landquart Fashion Outlet Shop 7, Tardisstrasse 38, 7302 Landquart, Switzerland",
+    "phone": "+41815445895"
+  },
+  {
+    "name": "Chicorée Damenmode",
+    "address": "Aeulistrasse 23, 7324 Vilters-Wangs, Switzerland",
+    "phone": "+41817106750"
+  },
+  {
+    "name": "Tuning Center 24 GmbH",
+    "address": "Pizolstrasse 2, 8887 Mels, Switzerland",
+    "phone": "+41817233020"
+  },
+  {
+    "name": "Skiservice-Center",
+    "address": "Mühleäulistrasse 1, 9470 Buchs, Switzerland",
+    "phone": "+41584006500"
+  },
+  {
+    "name": "LANDI Buchs AG",
+    "address": "Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41800665590"
+  },
+  {
+    "name": "Good Maschinencenter AG",
+    "address": "Hauptstrasse 15, 9658 Wildhaus, Switzerland",
+    "phone": "+41719991589"
+  },
+  {
+    "name": "Center Garage GmbH",
+    "address": "Maya Maya Landquart Fashion Outlet Shop 42, Tardisstrasse 118, 7302 Landquart, Switzerland",
+    "phone": "421187302"
+  },
+  {
+    "name": "Oakley Landquart Outlet",
+    "address": "Härtistrasse 68, 7324 Vilters-Wangs, Switzerland",
+    "phone": "+41813531313"
+  },
+  {
+    "name": "wenaweser zweiradcenter",
+    "address": "Rüti 1, 9469 Sennwald, Switzerland",
+    "phone": "+41817503470"
+  },
+  {
+    "name": "H&M",
+    "address": "Pizol-Center, Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41817106162"
+  },
+  {
+    "name": "Migros Supermarkt",
+    "address": "Pizolstrasse 16, 7310 Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "IMMA Wellness Shop",
+    "address": "Tardisstrasse 20a, 7302 Landquart, Switzerland",
+    "phone": "+41813228770"
+  },
+  {
+    "name": "Ochsner Sport",
+    "address": "Neugutweg 9, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233923163"
+  },
+  {
+    "name": "Pfister Mels",
+    "address": "Grossfeldstrasse 79, 7320 Sargans, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Air Active Gleitschirm Flugschule Graubünden Shop und Gleitschirm Service Center",
+    "address": "Grossfeldstrasse, 7320 Sargans, Switzerland",
+    "phone": "+41817254699"
+  },
+  {
+    "name": "Puma Fashion Outlet Landquart",
+    "address": "Grünaustrasse 9, 9470 Buchs, Switzerland",
+    "phone": "+41817401414"
+  },
+  {
+    "name": "Frederiksberg Centret",
+    "address": "Landquart Fashion Outlet Shop 87, Tardisstrasse 31, 7302 Landquart, Switzerland",
+    "phone": "87317302"
+  },
+  {
+    "name": "Feschtland Brocki Landquart",
+    "address": "Tardisstrasse 69, 7302 Landquart, Switzerland",
+    "phone": "+41813225252"
+  },
+  {
+    "name": "Stephen's Green Shopping Centre",
+    "address": "Hallhuber Landquart Fashion Outlet Shop 17, Tardisstrasse 58, 7302 Landquart, Switzerland",
+    "phone": "17587302"
+  },
+  {
+    "name": "Lara Beauty",
+    "address": "Alte Zollstrasse 11, 9494 Schaan, Liechtenstein",
+    "phone": "+4233841320"
+  },
+  {
+    "name": "Nike Factory Store",
+    "address": "Pizol-center, Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41817106400"
+  },
+  {
+    "name": "Coop Supermarkt Sargans",
+    "address": "Bahnhofstrasse 16, 9494 Schaan, Liechtenstein",
+    "phone": "+4232374141"
+  },
+  {
+    "name": "JACK & JONES",
+    "address": "Heldaustrasse 66, 9470 Buchs, Switzerland",
+    "phone": "+41587120160"
+  },
+  {
+    "name": "Do it + Garden",
+    "address": "Zeughausstrasse 18, 8887 Mels, Switzerland",
+    "phone": "+41817200420"
+  },
+  {
+    "name": "Hvidovre C",
+    "address": "Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41817204510"
+  },
+  {
+    "name": "Yorkdale Shopping Centre",
+    "address": "Zollstrasse 70, 9494 Schaan, Liechtenstein",
+    "phone": "+4232323252"
+  },
+  {
+    "name": "TCS Service Center Sevelen",
+    "address": "Pizol-Center, Einkaufszentrum, 8887 Mels, Switzerland",
+    "phone": "+41817105415"
+  },
+  {
+    "name": "LANDI Sarganserland AG",
+    "address": "Städtle 35, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232303939"
+  },
+  {
+    "name": "JUMBO Haag",
+    "address": "Pizol Center, Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41817234713"
+  },
+  {
+    "name": "Sirona Schlaf Shop GmbH",
+    "address": "Heuteilstrasse 20, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813301930"
+  },
+  {
+    "name": "Lorez PowerCenter strengthens me",
+    "address": "Unnamed Road, 9490 Vaduz, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Querbeet, Bio & Mehr",
+    "address": "Outlet-Store Tardisstraße 58 Unit 17, 7302 Landquart, Switzerland",
+    "phone": "58177302"
+  },
+  {
+    "name": "Grischa Grow GmbH",
+    "address": "Winkelgass, 9494 Schaan, Liechtenstein",
+    "phone": "+4232323252"
+  },
+  {
+    "name": "Blumen Iten u. Co.",
+    "address": "Rüti 1, 9469 Sennwald, Switzerland",
+    "phone": "+41817715429"
+  },
+  {
+    "name": "Jervis Shopping Centre",
+    "address": "Tardisstrasse 95, 7302 Landquart, Switzerland",
+    "phone": "+41813231243"
+  },
+  {
+    "name": "WMF Outlet Landquart",
+    "address": "36, Roxy Landquart Fashion Outlet Shop 6, Tardistrasse, 7302 Landquart, Switzerland",
+    "phone": "+41813229242"
+  },
+  {
+    "name": "Stillorgan Village",
+    "address": "Max Mara Landquart Fashion Outlet Shop 13, Tardisstrasse 50, 7302 Landquart, Switzerland",
+    "phone": "13507302"
+  },
+  {
+    "name": "Micasa",
+    "address": "Rüti 1, 9469 Haag (Rheintal), Switzerland",
+    "phone": "+41817717406"
+  },
+  {
+    "name": "estomed clinics",
+    "address": "Bahnhofstrasse 18, 9471 Buchs, Switzerland",
+    "phone": "+41800707505"
+  },
+  {
+    "name": "Spinderiet",
+    "address": "Fährhüttenstrasse 9, 9477 Trübbach, Switzerland",
+    "phone": "+41817502825"
+  },
+  {
+    "name": "OTTO'S",
+    "address": "Einkaufszentrum Pizol-Center, Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41817204030"
+  },
+  {
+    "name": "Niwa Gardening",
+    "address": "Pizol-Zentrum, Grossfeldstrasse 63, 8887 Mels, Switzerland",
+    "phone": "+41800707505"
+  },
+  {
+    "name": "Fisketorvet Copenhagen Mall",
+    "address": "Fährhüttenstrasse 13, 9477 Wartau, Switzerland",
+    "phone": "+41817832945"
+  },
+  {
+    "name": "Skinminded Laser Clinics",
+    "address": "Föhrenweg 5, 9496 Balzers, Liechtenstein",
+    "phone": "+41798188282"
+  },
+  {
+    "name": "Tamina Therme",
+    "address": "Alte Landstrasse 4, 9496 Balzers, Liechtenstein",
+    "phone": "+4233841282"
+  },
+  {
+    "name": "LiebDings: dein AtelierLaden",
+    "address": "Heiligwies 16, 9496 Balzers, Liechtenstein",
+    "phone": "+4233841320"
+  },
+  {
+    "name": "Burg Gutenberg",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Vaduz Castle",
+    "address": "Sägastrasse 33, 9495 Triesen, Liechtenstein",
+    "phone": "+4232360111"
+  },
+  {
+    "name": "Old Rhine Bridge",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396820"
+  },
+  {
+    "name": "Kunstmuseum Liechtenstein",
+    "address": "Schlossstrasse 5, 9497 Triesenberg, Liechtenstein",
+    "phone": "+4232621926"
+  },
+  {
+    "name": "Lawena Museum",
+    "address": "Dompfarramt, St. Florinsgasse 17, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232323616"
+  },
+  {
+    "name": "Kathedrale St. Florin",
+    "address": "Schlossweg 20, 9488 Schellenberg, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Schatzkammer Liechtenstein",
+    "address": "Rathausgasse 1, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Walser Museum",
+    "address": "Bergstrasse 2, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232381200"
+  },
+  {
+    "name": "Obere Burg",
+    "address": "Rheinstrasse, 9475 Sevelen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Vaduz Citytrain AG",
+    "address": "Burgweg 5, 9496 Balzers, Liechtenstein",
+    "phone": "+4233880505"
+  },
+  {
+    "name": "Sargans Castle",
+    "address": "Dorfstrasse, 8873 Amden, Switzerland",
+    "phone": "+41556112320"
+  },
+  {
+    "name": "Küefer-Martis-Huus",
+    "address": "Museumstrasse 50, 9000 St. Gallen, Switzerland",
+    "phone": "+41712420642"
+  },
+  {
+    "name": "Schwarzbüel",
+    "address": "Untergässli 344, 8767 Elm, Switzerland",
+    "phone": "+41556425555"
+  },
+  {
+    "name": "Ridamm-City ErlebnisWelt - Neuguthof",
+    "address": "Hof 18, 7000 Chur, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Cellars of the Prince of Liechtenstein",
+    "address": "Sägastrasse 29, 9495 Triesen, Liechtenstein",
+    "phone": "+4233922688"
+  },
+  {
+    "name": "Pizolbahnen AG",
+    "address": "Bewegungsberg Golm, 6774 Tschagguns, Austria",
+    "phone": "+43555670183167"
+  },
+  {
+    "name": "Paxmal",
+    "address": "Im Volksgarten, 8750 Glarus, Switzerland",
+    "phone": "+41556402535"
+  },
+  {
+    "name": "Paxmal",
+    "address": "Parc La Mutta, 7153, Falera, Switzerland",
+    "phone": "+41819213030"
+  },
+  {
+    "name": "Greifvogelpark Buchs",
+    "address": "Raiffeisenpl., 9000 St. Gallen, Switzerland",
+    "phone": "+41584324000"
+  },
+  {
+    "name": "Balzers",
+    "address": "Via Prau la Selva 6, 7018 Flims Waldhaus, Switzerland",
+    "phone": "+41819277170"
+  },
+  {
+    "name": "Fort Heldsberg",
+    "address": "Panoramastrasse 8, 8757 Filzbach, Switzerland",
+    "phone": "+41556141818"
+  },
+  {
+    "name": "Postmuseum Vaduz",
+    "address": "Reutestraße 19, 6845 Hohenems, Austria",
+    "phone": "+43557674555"
+  },
+  {
+    "name": "Lama- & Alpakahof Triesenberg",
+    "address": "Kirchstrasse, 9490 Vaduz, Liechtenstein",
+    "phone": "+4237773490"
+  },
+  {
+    "name": "Balzers",
+    "address": "Klosterhof, 9000 St. Gallen, Switzerland",
+    "phone": "+41712240550"
+  },
+  {
+    "name": "Hilti Art Fundation",
+    "address": "Aspermontstrasse 1, 7004 Chur, Switzerland",
+    "phone": "+41815580558"
+  },
+  {
+    "name": "Wildkirchli",
+    "address": "Dompl. 2, 6800 Feldkirch, Austria",
+    "phone": "+435522722320"
+  },
+  {
+    "name": "Hohensax Castle",
+    "address": "462, 9107 Urnäsch, Switzerland",
+    "phone": "+41718983300"
+  },
+  {
+    "name": "Schattenburg",
+    "address": "Sonnenhalbstrasse 22, 9656 Alt St. Johann, Switzerland",
+    "phone": "+41719985000"
+  },
+  {
+    "name": "Gonzenbergwerk",
+    "address": "Ziegeleistrasse 14, 9050 Appenzell, Switzerland",
+    "phone": "+41717881860"
+  },
+  {
+    "name": "Festungsmuseum Sperre Trin",
+    "address": "Maranerstrasse 66, 7050 Arosa, Switzerland",
+    "phone": "+41617654121"
+  },
+  {
+    "name": "Museum Bickel",
+    "address": "Museumstrasse 32, 9000 St. Gallen, Switzerland",
+    "phone": "+41712420671"
+  },
+  {
+    "name": "Chapel St. Leonhard",
+    "address": "Rästelweg, Egg 72, 9103 Schwellbrunn, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Greisinger Museum",
+    "address": "Eisengasse 44, 6850 Dornbirn, Austria",
+    "phone": "+435572408840"
+  },
+  {
+    "name": "Seerenbach Falls",
+    "address": "Rorschacher Str. 263, 9016 St. Gallen, Switzerland",
+    "phone": "+41712434040"
+  },
+  {
+    "name": "Il spir",
+    "address": "Gütle 10, 6850 Dornbirn, Austria",
+    "phone": "+43557252652"
+  },
+  {
+    "name": "Rheinschlucht",
+    "address": "Sernftalstrasse 109, 8765 Engi, Switzerland",
+    "phone": "+41556425555"
+  },
+  {
+    "name": "Hotel Hofbalzers",
+    "address": "Lettstrasse 74, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232374747"
+  },
+  {
+    "name": "Uhrenmuseum Kurt Beck",
+    "address": "Masanserstrasse, 7000 Chur, Switzerland",
+    "phone": "+41812544299"
+  },
+  {
+    "name": "Staufensee",
+    "address": "Hans Albrecht-Strasse 5, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813033939"
+  },
+  {
+    "name": "Museum des Landes Glarus im Freulerpalast",
+    "address": "Jahngasse 9, 6850 Dornbirn, Austria",
+    "phone": "+435572232350"
+  },
+  {
+    "name": "Katzenturm",
+    "address": "Klosterhof 6D, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273416"
+  },
+  {
+    "name": "Üble Schlucht",
+    "address": "Kasernenstrasse 15, 7007 Chur, Switzerland",
+    "phone": "+41812505590"
+  },
+  {
+    "name": "Pinut",
+    "address": "Muletg, 7017 Flims, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Gayenhofen Castle",
+    "address": "Kirchlistrasse 92, 9010 St. Gallen, Switzerland",
+    "phone": "+41712445113"
+  },
+  {
+    "name": "Appenzeller Volkskunde-Museum Stein",
+    "address": "Churerstrasse 10, 9400 Rorschach, Switzerland",
+    "phone": "+41712251070"
+  },
+  {
+    "name": "PrinzenBräu AG",
+    "address": "Bahnhofstrasse 35, 7000 Chur, Switzerland",
+    "phone": "+41812572870"
+  },
+  {
+    "name": "Museum Appenzell",
+    "address": "Atzmännigstrasse 1, 8638 Goldingen, Switzerland",
+    "phone": "+41552846434"
+  },
+  {
+    "name": "Burgruine Strahlegg",
+    "address": "Via Nova 60, 7017 Flims, Switzerland",
+    "phone": "+41819367414"
+  },
+  {
+    "name": "Abbey of Saint Gall",
+    "address": "Hofstrasse 1, 7000 Chur, Switzerland",
+    "phone": "+41812574840"
+  },
+  {
+    "name": "Wildpark Feldkirch",
+    "address": "Platz 1221, 9102 Herisau, Switzerland",
+    "phone": "12219102"
+  },
+  {
+    "name": "Anna Göldi Museum Glarus",
+    "address": "Unterrainstrasse 5, 9050 Appenzell, Switzerland",
+    "phone": "+41717881800"
+  },
+  {
+    "name": "Bündner Naturmuseum",
+    "address": "Fabrikstrasse 9, 8755 Ennenda, Switzerland",
+    "phone": "+41556501354"
+  },
+  {
+    "name": "Museum Herisau",
+    "address": "Masanserstrasse 31, 7000 Chur, Switzerland",
+    "phone": "+41812572841"
+  },
+  {
+    "name": "Kunstmuseum in Appenzell",
+    "address": "Klosterhof 6B, 9000 St. Gallen, Switzerland",
+    "phone": "+41712273340"
+  },
+  {
+    "name": "Bündner Kunstmuseum",
+    "address": "u. Betliserstrasse 4, 8872 Weesen, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Rätisches Museum",
+    "address": "Hauptgasse 4, 9050 Appenzell, Switzerland",
+    "phone": "+41717889631"
+  },
+  {
+    "name": "Atzmännig",
+    "address": "Egerta 45, 9496 Balzers, Liechtenstein",
+    "phone": "+4233842849"
+  },
+  {
+    "name": "Forum Würth Rorschach",
+    "address": "Ardetzenweg 20, 6800 Feldkirch, Austria",
+    "phone": "+43552274105"
+  },
+  {
+    "name": "Das Gelbe Haus Flims",
+    "address": "Dorf, 9063 Stein, Switzerland",
+    "phone": "+41713685056"
+  },
+  {
+    "name": "Abbey Library of Saint Gall",
+    "address": "Schloß-Gayenhof-Platz 2, 6700 Bludenz, Austria",
+    "phone": null
+  },
+  {
+    "name": "Unterer Segnesboden",
+    "address": "Hirschgraben, 6800 Feldkirch, Austria",
+    "phone": null
+  },
+  {
+    "name": "inatura natural spectacle Gmbh",
+    "address": "Staufensee, 6850 Dornbirn, Austria",
+    "phone": null
+  },
+  {
+    "name": "Wasserweg Flims",
+    "address": "Höfle 2, 9496 Balzers, Liechtenstein",
+    "phone": "+4233800013"
+  },
+  {
+    "name": "Rheinpark Stadium",
+    "address": "Lettstrasse 39, 9490 Vaduz, Liechtenstein",
+    "phone": "+41794323266"
+  },
+  {
+    "name": "Casino Bad Ragaz",
+    "address": "Grabenstrasse 30, 7000 Chur, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Quaderwiese",
+    "address": "Im Dorf 19, 8752 Näfels, Switzerland",
+    "phone": "+41556121378"
+  },
+  {
+    "name": "Landesplattenberg Engi Informationszentrum",
+    "address": "Rosenweg 1, 7304 Maienfeld, Switzerland",
+    "phone": "+41813004020"
+  },
+  {
+    "name": "Rolls-Royce Museum",
+    "address": "Sareis, 9497 Malbun, Liechtenstein",
+    "phone": "+4232654000"
+  },
+  {
+    "name": "Laax",
+    "address": "7104, Versam, Switzerland",
+    "phone": "+41816306016"
+  },
+  {
+    "name": "Spielfabrik",
+    "address": "Wasserfall, 8873 Amden, Switzerland",
+    "phone": "+41582282830"
+  },
+  {
+    "name": "Rätselweg",
+    "address": "Verduonig 2b, 7307 Jenins, Switzerland",
+    "phone": "+41813307272"
+  },
+  {
+    "name": "Burgruine Alt-Ems",
+    "address": "St. Leonhardstrasse 1B, 7310 Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Ricola Erlebnisweg",
+    "address": "Zettlereistrasse 9, 8880 Walenstadt, Switzerland",
+    "phone": "+41817102777"
+  },
+  {
+    "name": "Kunsthalle Ziegelhütte",
+    "address": "Vild 18, 7320 Sargans, Switzerland",
+    "phone": "+41817231217"
+  },
+  {
+    "name": "Klangwelt Toggenburg",
+    "address": "Hauptstrasse, 7014 Trin, Switzerland",
+    "phone": "+41816304237"
+  },
+  {
+    "name": "Citytrain",
+    "address": "Äscher 9057, 9057 Schwende, Switzerland",
+    "phone": "90579057"
+  },
+  {
+    "name": "Rectory St Nicholas",
+    "address": "Burggasse 1, 6800 Feldkirch, Austria",
+    "phone": "+4355223043510"
+  },
+  {
+    "name": "St. Gallen Cathedral",
+    "address": "Städtle 32, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232350300"
+  },
+  {
+    "name": "Schloss Glopper",
+    "address": "Chalberrütistrasse 70, 9497 Triesenberg, Liechtenstein",
+    "phone": "+41787672985"
+  },
+  {
+    "name": "Forum Würth Chur",
+    "address": "Städtle 37, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232396846"
+  },
+  {
+    "name": "DenkWeg Filzbach GL",
+    "address": "Obere, Heldsbergstrasse 5, 9430 St. Margrethen, Switzerland",
+    "phone": "+41717334031"
+  },
+  {
+    "name": "Parc la Mutta",
+    "address": "Grundweg, 8881 Walenstadt, Switzerland",
+    "phone": "+41817102777"
+  },
+  {
+    "name": "Roter Platz",
+    "address": "Schützenhausweg 8, 9470 Buchs, Switzerland",
+    "phone": "+41817405201"
+  },
+  {
+    "name": "Hinterschellenberg",
+    "address": "Grundweg, 8881 Walenstadt, Switzerland",
+    "phone": "+41817102777"
+  },
+  {
+    "name": "Triesenberg",
+    "address": "Neugutweg 30, 9490 Vaduz, Liechtenstein",
+    "phone": "+4233922393"
+  },
+  {
+    "name": "Camping Mittagspitze AG",
+    "address": "Loisstrasse 50, 7310 Bad Ragaz, Switzerland",
+    "phone": "+41813004830"
+  },
+  {
+    "name": "Saint Mary of the Assumption Cathedral",
+    "address": "Feldstrasse 4, 9490 Vaduz, Liechtenstein",
+    "phone": "+4232321018"
+  },
+  {
+    "name": "Schiefertafelfabrik Elm",
+    "address": "Pardiel, Bad Ragaz, Switzerland",
+    "phone": null
+  },
+  {
+    "name": "Hotel Restaurant Weinstube",
+    "address": "Churer Strasse 1, 9485 Nendeln, Liechtenstein",
+    "phone": "+4233733131"
+  },
+  {
+    "name": "Fernsicht Bed & Breakfast",
+    "address": "Widengasse 5, 9492 Eschen, Liechtenstein",
+    "phone": "+4233732880"
+  },
+  {
+    "name": "Landhaus",
+    "address": "Churer Strasse 10, 9485 Nendeln, Liechtenstein",
+    "phone": "+4233771777"
+  },
+  {
+    "name": "Engel",
+    "address": "Churer Strasse 4, 9485 Nendeln, Liechtenstein",
+    "phone": "+4232226999"
+  },
+  {
+    "name": "Fago by meier",
+    "address": "Stotz 15, 9488 Schellenberg, Liechtenstein",
+    "phone": "+4233732993"
+  },
+  {
+    "name": "ESSwerk",
+    "address": "St. Martins-Ring 2, 9492 Eschen, Liechtenstein",
+    "phone": "+4237922308"
+  },
+  {
+    "name": "St. Martins Pub am Platz",
+    "address": "St. Martins-Ring 73, 9492 Eschen, Liechtenstein",
+    "phone": "+4237899971"
+  },
+  {
+    "name": "Augusta.li - Eschen",
+    "address": "Wirtschaftspark 55, 9492 Eschen, Liechtenstein",
+    "phone": "+4233778850"
+  },
+  {
+    "name": "Mündle Bäckerei Konditorei AG",
+    "address": "St. Luzi-Strasse 22, 9492 Eschen, Liechtenstein",
+    "phone": "+4233711414"
+  },
+  {
+    "name": "Georg Brot & Kaffee",
+    "address": "St. Luzi-Strasse 21, 9492 Eschen, Liechtenstein",
+    "phone": "+4233994025"
+  },
+  {
+    "name": "Pizzeria L‘Inizio",
+    "address": "St. Martins-Ring 3, 9492 Eschen, Liechtenstein",
+    "phone": "+4233750212"
+  },
+  {
+    "name": "Anatolia - Kebap & Pizza",
+    "address": "Essanestrasse 73, 9492 Eschen, Liechtenstein",
+    "phone": "+4233731356"
+  },
+  {
+    "name": "Jägerstube Zum Kreuz",
+    "address": "Churer Strasse 39, 9485 Nendeln, Liechtenstein",
+    "phone": "+4233739549"
+  },
+  {
+    "name": "Pisa Pizza und Kebab",
+    "address": "Essanestrasse 20, 9492 Eschen, Liechtenstein",
+    "phone": "+4233702606"
+  },
+  {
+    "name": "Gasthaus zum Hirschen",
+    "address": "Wirtschaftspark 2, 9492 Eschen, Liechtenstein",
+    "phone": "+4237970777"
+  },
+  {
+    "name": "Mai Thai Restaurant",
+    "address": "Bendern LI, Rhigass 1, 9487 Gamprin, Liechtenstein",
+    "phone": "+4233773400"
+  },
+  {
+    "name": "Centro Español Apóstol Santiago",
+    "address": "Oberbendern 27, 9487 Gamprin, Liechtenstein",
+    "phone": "+4233731780"
+  },
+  {
+    "name": "Restaurant Alpspitz",
+    "address": "Peter-und-Paul-Strasse 6, 9493 Mauren, Liechtenstein",
+    "phone": "+4233734200"
+  },
+  {
+    "name": "Weinlaube",
+    "address": "Im Winkel 5, 9488 Schellenberg, Liechtenstein",
+    "phone": "+4233731162"
+  },
+  {
+    "name": "Café Matt AG",
+    "address": "Hinterschloss 15, 9488 Schellenberg, Liechtenstein",
+    "phone": "+4233730801"
+  },
+  {
+    "name": "Gasthaus zum Adler",
+    "address": "Selemad 10, 9487 Gamprin, Liechtenstein",
+    "phone": "+4232227731"
+  },
+  {
+    "name": "\"Rhistaurant\"",
+    "address": "Eschner Strasse 64, 9487 Gamprin, Liechtenstein",
+    "phone": null
+  },
+  {
+    "name": "Il Rifugio Pizza Take-away",
+    "address": "Peter-Kaiser-Strasse 2, 9493 Mauren, Liechtenstein",
+    "phone": "+4233731469"
+  },
+  {
+    "name": "Wirtschaft zum Löwen",
+    "address": "Peter-Kaiser-Strasse 51, 9493 Mauren, Liechtenstein",
+    "phone": "+4233736650"
+  },
+  {
+    "name": "Seven Heavens - Skylounge",
+    "address": "Torkelgasse 2, 9493 Mauren, Liechtenstein",
+    "phone": "+4233737400"
+  },
+  {
+    "name": "Closter Plaza",
+    "address": "80 NJ-23, Wayne, NJ 07470",
+    "phone": "802307470"
+  },
+  {
+    "name": "The Shops at Riverside",
+    "address": "19 Vervalen St, Closter, NJ 07624",
+    "phone": null
+  },
+  {
+    "name": "Westfield Garden State Plaza",
+    "address": "700 Paramus Park, Paramus, NJ 07652",
+    "phone": "70007652"
+  },
+  {
+    "name": "Hackensack Commons",
+    "address": "One Garden State Plaza, Paramus, NJ 07652",
+    "phone": "2018432121"
+  },
+  {
+    "name": "Bergen Town Center",
+    "address": "One Bergen Town Center, Paramus, NJ 07652",
+    "phone": "2018454050"
+  },
+  {
+    "name": "Wayne Towne Center",
+    "address": "450 Hackensack Ave, Hackensack, NJ 07601",
+    "phone": "45007601"
+  },
+  {
+    "name": "Willowbrook",
+    "address": "301 Main St #1855, Paterson, NJ 07505",
+    "phone": "301185507505"
+  },
+  {
+    "name": "Street Corner",
+    "address": "390 Hackensack Ave, Hackensack, NJ 07601",
+    "phone": "39007601"
+  },
+  {
+    "name": "Paramus Park",
+    "address": "1400 Willowbrook Blvd, Wayne, NJ 07470",
+    "phone": "140007470"
+  }
+]

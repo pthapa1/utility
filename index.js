@@ -9,9 +9,9 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Latvia';
+exports.country = 'Lithuania';
 const country = this.country;
-const cities = ['Riga', 'Daugavpils', 'Liepāja', 'Jūrmala', 'Ventspils'];
+const cities = ['Vilnius', 'Kaunas', 'Klaipėda', 'Šiauliai', 'Panevėžys'];
 const filePath = `./addresses/${country}.json`;
 // required by replace-in-file
 const options = {

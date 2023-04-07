@@ -1,0 +1,4022 @@
+[
+  {
+    "name": "SpringHill Suites by Marriott Pasadena Arcadia",
+    "address": "1200 E Huntington Dr, Duarte, CA 91010",
+    "phone": "120091010"
+  },
+  {
+    "name": "Courtyard by Marriott Los Angeles Pasadena/Monrovia",
+    "address": "211 E Huntington Dr, Arcadia, CA 91006",
+    "phone": "21191006"
+  },
+  {
+    "name": "Hilton Garden Inn Arcadia/Pasadena Area",
+    "address": "401 E Santa Clara St, Arcadia, CA 91006",
+    "phone": "40191006"
+  },
+  {
+    "name": "DoubleTree by Hilton Hotel Monrovia - Pasadena Area",
+    "address": "930 S, 930 Fifth Ave, Monrovia, CA 91016",
+    "phone": "93093091016"
+  },
+  {
+    "name": "Courtyard by Marriott Los Angeles Pasadena/Monrovia",
+    "address": "199 N 2nd Ave, Arcadia, CA 91006",
+    "phone": "199291006"
+  },
+  {
+    "name": "Oak Tree Inn",
+    "address": "311 E Huntington Dr, Arcadia, CA 91006",
+    "phone": "31191006"
+  },
+  {
+    "name": "Embassy Suites by Hilton Arcadia Pasadena Area",
+    "address": "788 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "78891016"
+  },
+  {
+    "name": "Extended Stay America - Los Angeles - Monrovia",
+    "address": "1125 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "112591016"
+  },
+  {
+    "name": "Extended Stay America - Los Angeles - Arcadia",
+    "address": "700 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "70091016"
+  },
+  {
+    "name": "Hampton Inn Los Angeles/Arcadia/Pasadena",
+    "address": "924 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "92491016"
+  },
+  {
+    "name": "Hotel Huntington",
+    "address": "24940 Pico Canyon Rd, Stevenson Ranch, CA 91381",
+    "phone": "2494091381"
+  },
+  {
+    "name": "Quality Inn Near City of Hope",
+    "address": "22434 Norwalk Blvd, Hawaiian Gardens, CA 90716",
+    "phone": "2243490716"
+  },
+  {
+    "name": "Days Inn by Wyndham Near City Of Hope",
+    "address": "685 E Arrow Hwy, Azusa, CA 91702",
+    "phone": "68591702"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Pasadena Arcadia",
+    "address": "1515 Huntington Dr, Duarte, CA 91010",
+    "phone": "151591010"
+  },
+  {
+    "name": "Oak Park Motel",
+    "address": "11530 Whittier Blvd, Whittier, CA 90601",
+    "phone": "1153090601"
+  },
+  {
+    "name": "Residence Inn by Marriott Pasadena Arcadia",
+    "address": "2748 E Garvey Ave S, West Covina, CA 91791",
+    "phone": "274891791"
+  },
+  {
+    "name": "Le Méridien Pasadena Arcadia",
+    "address": "55 W Sierra Madre Blvd, Sierra Madre, CA 91024",
+    "phone": "6263551927"
+  },
+  {
+    "name": "Motel 6 Arcadia, CA - Los Angeles - Pasadena Area",
+    "address": "9433 Garvey Ave, South El Monte, CA 91733",
+    "phone": "943391733"
+  },
+  {
+    "name": "Best Western Pasadena Inn",
+    "address": "519 N Azusa Ave, La Puente, CA 91744",
+    "phone": "51991744"
+  },
+  {
+    "name": "Astro Pasadena Hotel",
+    "address": "11805 Valley Blvd, El Monte, CA 91732",
+    "phone": "1180591732"
+  },
+  {
+    "name": "Home2 Suites by Hilton Azusa",
+    "address": "3474 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "347491107"
+  },
+  {
+    "name": "Best Western Pasadena Royale Inn & Suites",
+    "address": "485 W Arrow Hwy, San Dimas, CA 91773",
+    "phone": "48591773"
+  },
+  {
+    "name": "Pasadena Hotel & Pool",
+    "address": "137 E 1st St, Azusa, CA 91702",
+    "phone": "137191702"
+  },
+  {
+    "name": "Holiday Inn El Monte - Los Angeles, an IHG Hotel",
+    "address": "1559 Lincoln Ave, Pasadena, CA 91103",
+    "phone": "155991103"
+  },
+  {
+    "name": "Hotel Le Rêve Pasadena",
+    "address": "2462 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "246291107"
+  },
+  {
+    "name": "The Westin Pasadena",
+    "address": "2462 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "246291107"
+  },
+  {
+    "name": "Best Western Pasadena Royale Inn & Suites",
+    "address": "3211 E Garvey Ave N, West Covina, CA 91791",
+    "phone": "321191791"
+  },
+  {
+    "name": "Astro Pasadena Hotel",
+    "address": "625 E Rte 66, Glendora, CA 91740",
+    "phone": "6256691740"
+  },
+  {
+    "name": "Quality Inn Rosemead-Los Angeles",
+    "address": "606 W Rte 66, Glendora, CA 91740",
+    "phone": "6066691740"
+  },
+  {
+    "name": "Hartford Hotel, BW Signature Collection",
+    "address": "1431 W Garvey Ave N, West Covina, CA 91790",
+    "phone": "143191790"
+  },
+  {
+    "name": "Holiday Inn West Covina, an IHG Hotel",
+    "address": "2860 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "286091107"
+  },
+  {
+    "name": "Sheraton Pasadena Hotel",
+    "address": "3633 Rosemead Blvd, Rosemead, CA 91770",
+    "phone": "363391770"
+  },
+  {
+    "name": "Americas Best Value Inn",
+    "address": "1599 E Colorado Blvd, Pasadena, CA 91106",
+    "phone": "159991106"
+  },
+  {
+    "name": "Ramada by Wyndham Pasadena",
+    "address": "1443 W Garvey Ave N, West Covina, CA 91790",
+    "phone": "144391790"
+  },
+  {
+    "name": "Travelodge by Wyndham Pasadena Central",
+    "address": "2131 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "213191107"
+  },
+  {
+    "name": "Pasadena Rose & Crown Hotel",
+    "address": "1203 E Colorado Blvd, Pasadena, CA 91106",
+    "phone": "120391106"
+  },
+  {
+    "name": "Super 8 by Wyndham Azusa",
+    "address": "12040 Garvey Ave, El Monte, CA 91732",
+    "phone": "1204091732"
+  },
+  {
+    "name": "Walnut Inn & Suites",
+    "address": "117 N Azusa Ave, Azusa, CA 91702",
+    "phone": "11791702"
+  },
+  {
+    "name": "Hotel Heritage El Monte Los Angeles",
+    "address": "3800 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "380091107"
+  },
+  {
+    "name": "Howard Johnson by Wyndham Pasadena",
+    "address": "303 Cordova St, Pasadena, CA 91101",
+    "phone": "30391101"
+  },
+  {
+    "name": "Bokai Garden Hotel",
+    "address": "2863 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "286391107"
+  },
+  {
+    "name": "Travelodge Inn & Suites by Wyndham West Covina",
+    "address": "3223 E Garvey Ave N, West Covina, CA 91791",
+    "phone": "322391791"
+  },
+  {
+    "name": "Rodeway Inn & Suites Pasadena",
+    "address": "8832 Glendon Way, Rosemead, CA 91770",
+    "phone": "883291770"
+  },
+  {
+    "name": "Super 8",
+    "address": "2156 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "215691107"
+  },
+  {
+    "name": "Best Western Plus Route 66 Glendora Inn",
+    "address": "3600 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "360091107"
+  },
+  {
+    "name": "Fairfield Inn & Suites by Marriott Los Angeles West Covina",
+    "address": "2818 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "281891107"
+  },
+  {
+    "name": "Garden Inn & Suites Glendora",
+    "address": "191 N Los Robles Ave, Pasadena, CA 91101",
+    "phone": "19191101"
+  },
+  {
+    "name": "Comfort Inn Near Pasadena Civic Auditorium",
+    "address": "9488 Valley Blvd, Rosemead, CA 91770",
+    "phone": "948891770"
+  },
+  {
+    "name": "Lincoln Motel",
+    "address": "9920 Valley Blvd, El Monte, CA 91731",
+    "phone": "992091731"
+  },
+  {
+    "name": "Hyland Inn near Pasadena Civic Center",
+    "address": "3321 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "332191107"
+  },
+  {
+    "name": "Motel 6 Azusa, CA",
+    "address": "3600 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "360091107"
+  },
+  {
+    "name": "Holiday Inn Express & Suites San Dimas, an IHG Hotel",
+    "address": "229 S Azusa Ave, Azusa, CA 91702",
+    "phone": "22991702"
+  },
+  {
+    "name": "Hi-Way Host Motel",
+    "address": "2818 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "281891107"
+  },
+  {
+    "name": "Five Star Inn",
+    "address": "928 E Colorado Blvd, Pasadena, CA 91106",
+    "phone": "92891106"
+  },
+  {
+    "name": "American Inn Motel",
+    "address": "3570 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "357091107"
+  },
+  {
+    "name": "Azusa Inn Motel",
+    "address": "130 W Huntington Dr, Arcadia, CA 91007",
+    "phone": "13091007"
+  },
+  {
+    "name": "Sierra Madres's Jail House Inn",
+    "address": "225 Colorado Pl, Arcadia, CA 91007",
+    "phone": "22591007"
+  },
+  {
+    "name": "The Rancho Inn",
+    "address": "321 E Huntington Dr, Arcadia, CA 91006",
+    "phone": "32191006"
+  },
+  {
+    "name": "Monte Carlo Inn",
+    "address": "99 N 2nd Ave, Arcadia, CA 91006",
+    "phone": "99291006"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Hawaiian Gardens, an IHG Hotel",
+    "address": "1533 E Huntington Dr, Duarte, CA 91010",
+    "phone": "153391010"
+  },
+  {
+    "name": "Hotel",
+    "address": "925 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "92591016"
+  },
+  {
+    "name": "Chili's Grill & Bar",
+    "address": "441 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "44191016"
+  },
+  {
+    "name": "The Diplomat Eatery and Tavern",
+    "address": "514 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "51491016"
+  },
+  {
+    "name": "Basin 141 Social Bar & Kitchen",
+    "address": "109 E Lemon Ave, Monrovia, CA 91016",
+    "phone": "10991016"
+  },
+  {
+    "name": "Copper Still Grill",
+    "address": "402 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "40291016"
+  },
+  {
+    "name": "Sena On Myrtle",
+    "address": "422 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "42291016"
+  },
+  {
+    "name": "Bella Sera Trattoria",
+    "address": "601 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "60191016"
+  },
+  {
+    "name": "Cafe Mundial",
+    "address": "342 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "34291016"
+  },
+  {
+    "name": "Seasoning Alley",
+    "address": "630 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "63091016"
+  },
+  {
+    "name": "Mikomi Sushi Monrovia",
+    "address": "409 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "40991016"
+  },
+  {
+    "name": "Nano Cafe",
+    "address": "610 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "61091016"
+  },
+  {
+    "name": "38 Degrees Ale House & Grill",
+    "address": "733 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "73391016"
+  },
+  {
+    "name": "Macky's Noodle House",
+    "address": "801 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "80191016"
+  },
+  {
+    "name": "Jake's Roadhouse",
+    "address": "444 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "44491016"
+  },
+  {
+    "name": "Mayan Bar Grill",
+    "address": "233 E Huntington Dr, Arcadia, CA 91006",
+    "phone": "23391006"
+  },
+  {
+    "name": "Stinkin Crawfish of Monrovia",
+    "address": "849 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "84991016"
+  },
+  {
+    "name": "Elements Restaurant",
+    "address": "801 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "80191016"
+  },
+  {
+    "name": "Domenico's Monrovia Italian",
+    "address": "606 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "60691016"
+  },
+  {
+    "name": "Cafe X2O, Monrovia",
+    "address": "140 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "14091016"
+  },
+  {
+    "name": "Sunday's Old Town Bistro",
+    "address": "600 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "60091016"
+  },
+  {
+    "name": "Mimi's Cafe",
+    "address": "621 Huntington Dr, Monrovia, CA 91016",
+    "phone": "62191016"
+  },
+  {
+    "name": "Pieology Pizzeria Monrovia, CA",
+    "address": "1625 Mountain Ave, Monrovia, CA 91016",
+    "phone": "162591016"
+  },
+  {
+    "name": "The Pour House",
+    "address": "701 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "70191016"
+  },
+  {
+    "name": "Noodle St",
+    "address": "1101 Huntington Dr, Monrovia, CA 91016",
+    "phone": "110191016"
+  },
+  {
+    "name": "Red Lobster",
+    "address": "630 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "63091016"
+  },
+  {
+    "name": "Lin's Club",
+    "address": "915 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "91591016"
+  },
+  {
+    "name": "Café De Olla Restaurant",
+    "address": "1014 S Shamrock Ave, Monrovia, CA 91016",
+    "phone": "101491016"
+  },
+  {
+    "name": "Rudy's Mexican Food",
+    "address": "248 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "24891016"
+  },
+  {
+    "name": "Chicken King Express",
+    "address": "190 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "19091016"
+  },
+  {
+    "name": "La Adelita Mexican Restaurant",
+    "address": "939 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "93991016"
+  },
+  {
+    "name": "Viet Phomula",
+    "address": "664 Huntington Dr, Monrovia, CA 91016",
+    "phone": "66491016"
+  },
+  {
+    "name": "Mediterranean Garden Grill",
+    "address": "560 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "56091016"
+  },
+  {
+    "name": "Le Roy's",
+    "address": "1540 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "154091016"
+  },
+  {
+    "name": "D'Vine Mediterranean Express",
+    "address": "314 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "31491016"
+  },
+  {
+    "name": "Noodle Stars",
+    "address": "931 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "93191016"
+  },
+  {
+    "name": "B & C Teriyaki",
+    "address": "229 E Foothill Blvd, Monrovia, CA 91016",
+    "phone": "22991016"
+  },
+  {
+    "name": "Chili's Grill & Bar",
+    "address": "750 Huntington Dr, Monrovia, CA 91016",
+    "phone": "75091016"
+  },
+  {
+    "name": "Las Marias",
+    "address": "933 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "93391016"
+  },
+  {
+    "name": "Açaí Bar",
+    "address": "941 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "94191016"
+  },
+  {
+    "name": "Yi Mei",
+    "address": "933 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "93391016"
+  },
+  {
+    "name": "MoonCat",
+    "address": "1601 Mountain Ave, Monrovia, CA 91016",
+    "phone": "160191016"
+  },
+  {
+    "name": "Blaze Pizza",
+    "address": "503 W Duarte Rd ste c, Monrovia, CA 91016",
+    "phone": "50391016"
+  },
+  {
+    "name": "Yoshinoya Monrovia",
+    "address": "313 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "31391016"
+  },
+  {
+    "name": "Baja Mar Fish Taco",
+    "address": "141 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "14191016"
+  },
+  {
+    "name": "WaBa Grill",
+    "address": "121 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "12191016"
+  },
+  {
+    "name": "Mahan Indian Restaurant | Best Indian Restaurant | Best Indian Food | Best Indian Curry",
+    "address": "308 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "30891016"
+  },
+  {
+    "name": "Peach Cafe",
+    "address": "312 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "31291016"
+  },
+  {
+    "name": "Old Town Pizza",
+    "address": "100 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "10091016"
+  },
+  {
+    "name": "TK Cafe & Hawaiian BBQ",
+    "address": "116 W Foothill Blvd Suite A-7, Monrovia, CA 91016",
+    "phone": "116791016"
+  },
+  {
+    "name": "Oto-Oto Izakaya Japonaise",
+    "address": "820 E Duarte Rd #820, Monrovia, CA 91016",
+    "phone": "82082091016"
+  },
+  {
+    "name": "Baja Fresh",
+    "address": "614 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "61491016"
+  },
+  {
+    "name": "Burger Basket",
+    "address": "627 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "62791016"
+  },
+  {
+    "name": "Poké Bar",
+    "address": "446 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "44691016"
+  },
+  {
+    "name": "Knight Cap",
+    "address": "682 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "68291016"
+  },
+  {
+    "name": "Tacos and Papas",
+    "address": "108 E Lime Ave, Monrovia, CA 91016",
+    "phone": "10891016"
+  },
+  {
+    "name": "Hart House",
+    "address": "919 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "91991016"
+  },
+  {
+    "name": "Kiku Sushi",
+    "address": "899 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "89991016"
+  },
+  {
+    "name": "Taisho",
+    "address": "110 E Lemon Ave, Monrovia, CA 91016",
+    "phone": "11091016"
+  },
+  {
+    "name": "La Noria",
+    "address": "1108 Fifth Ave, Monrovia, CA 91016",
+    "phone": "110891016"
+  },
+  {
+    "name": "Saigon Avenue",
+    "address": "229 E Foothill Blvd, Monrovia, CA 91016",
+    "phone": "22991016"
+  },
+  {
+    "name": "Burgerim",
+    "address": "919 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "91991016"
+  },
+  {
+    "name": "Alitalia Pizzeria",
+    "address": "602 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "60291016"
+  },
+  {
+    "name": "Luscious Dumplings",
+    "address": "670 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "67091016"
+  },
+  {
+    "name": "Sushi NAKATA inc",
+    "address": "428 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "42891016"
+  },
+  {
+    "name": "Panda Express",
+    "address": "406 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "40691016"
+  },
+  {
+    "name": "KBOP Korean Kitchen",
+    "address": "442 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "44291016"
+  },
+  {
+    "name": "Thai Thyme",
+    "address": "501 W Duarte Rd Bldg 1/2, Monrovia, CA 91016",
+    "phone": "5011291016"
+  },
+  {
+    "name": "Tacos La Doña",
+    "address": "929 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "92991016"
+  },
+  {
+    "name": "J B Burgers",
+    "address": "943 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "94391016"
+  },
+  {
+    "name": "King's Wok",
+    "address": "158 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "15891016"
+  },
+  {
+    "name": "Girasol Cocina Mexicana",
+    "address": "338 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "33891016"
+  },
+  {
+    "name": "MOOYAH Burgers, Fries & Shakes",
+    "address": "141 E Colorado Blvd, Monrovia, CA 91016",
+    "phone": "14191016"
+  },
+  {
+    "name": "Jack in the Box",
+    "address": "106 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "10691016"
+  },
+  {
+    "name": "Chronic Tacos",
+    "address": "217 E Foothill Blvd, Monrovia, CA 91016",
+    "phone": "21791016"
+  },
+  {
+    "name": "La Sexy Michelada",
+    "address": "186 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "18691016"
+  },
+  {
+    "name": "Monrovia Pizza Co.",
+    "address": "707 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "70791016"
+  },
+  {
+    "name": "Los Chiles Locos",
+    "address": "108 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "10891016"
+  },
+  {
+    "name": "Casa Jimenez",
+    "address": "943 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "94391016"
+  },
+  {
+    "name": "Shanghai Gourmet",
+    "address": "401 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "40191016"
+  },
+  {
+    "name": "Momo Bistro",
+    "address": "110 E Lime Ave, Monrovia, CA 91016",
+    "phone": "11091016"
+  },
+  {
+    "name": "Burrito Place",
+    "address": "410 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "41091016"
+  },
+  {
+    "name": "Shanghai Bamboo House",
+    "address": "630 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "63091016"
+  },
+  {
+    "name": "Chan Kee",
+    "address": "344 Huntington Dr, Monrovia, CA 91016",
+    "phone": "34491016"
+  },
+  {
+    "name": "Wienerschnitzel",
+    "address": "144 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "14491016"
+  },
+  {
+    "name": "Baja Cali Fish & Tacos (Monrovia)",
+    "address": "901 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "90191016"
+  },
+  {
+    "name": "Black Angus Steakhouse",
+    "address": "335 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "33591016"
+  },
+  {
+    "name": "Lord Empanada",
+    "address": "134 E Colorado Blvd, Monrovia, CA 91016",
+    "phone": "13491016"
+  },
+  {
+    "name": "Rubio's Coastal Grill",
+    "address": "445 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "44591016"
+  },
+  {
+    "name": "Wendy's",
+    "address": "113 E Lemon Ave, Monrovia, CA 91016",
+    "phone": "11391016"
+  },
+  {
+    "name": "SOMETHING HEALTHY CAFE",
+    "address": "602 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "60291016"
+  },
+  {
+    "name": "Jack in the Box",
+    "address": "423 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "42391016"
+  },
+  {
+    "name": "Fatburger & Buffalo's Express",
+    "address": "523 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "52391016"
+  },
+  {
+    "name": "It's Just Wings",
+    "address": "925 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "92591016"
+  },
+  {
+    "name": "Jim's Famous Charbroiled Burgers",
+    "address": "928 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "92891016"
+  },
+  {
+    "name": "The Best Hot Dogs",
+    "address": "405 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "40591016"
+  },
+  {
+    "name": "Max's Mexican Cuisine",
+    "address": "120 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "12091016"
+  },
+  {
+    "name": "Church's Texas Chicken",
+    "address": "236 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "23691016"
+  },
+  {
+    "name": "Tacos Ensenada",
+    "address": "500 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "50091016"
+  },
+  {
+    "name": "Panera Bread",
+    "address": "915 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "91591016"
+  },
+  {
+    "name": "Taco Truck",
+    "address": "123 E Colorado Blvd, Monrovia, CA 91016",
+    "phone": "12391016"
+  },
+  {
+    "name": "Ike's Love & Sandwiches",
+    "address": "335 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "33591016"
+  },
+  {
+    "name": "Taco Bell",
+    "address": "US, 317 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "31791016"
+  },
+  {
+    "name": "Huntington Oaks Center",
+    "address": "627 W Duarte Rd, Arcadia, CA 91007",
+    "phone": "62791007"
+  },
+  {
+    "name": "Foothill Park Plaza",
+    "address": "3301 Peck Rd, Monrovia, CA 91016",
+    "phone": "330191016"
+  },
+  {
+    "name": "Mountain Vista Plaza",
+    "address": "542 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "54291016"
+  },
+  {
+    "name": "Mon-Arc Center",
+    "address": "300 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "30091016"
+  },
+  {
+    "name": "Monrovia Plaza",
+    "address": "1205 S Baldwin Ave, Arcadia, CA 91007",
+    "phone": "120591007"
+  },
+  {
+    "name": "Arcadia Hub Shopping Center LP",
+    "address": "713 W Duarte Rd, Arcadia, CA 91007",
+    "phone": "71391007"
+  },
+  {
+    "name": "Yonke Grande",
+    "address": "1014 Huntington Dr, Duarte, CA 91010",
+    "phone": "101491010"
+  },
+  {
+    "name": "Arcadia Center",
+    "address": "949 w, 915 W Duarte Rd, Monrovia, CA 91016",
+    "phone": "94991591016"
+  },
+  {
+    "name": "The Shops at Santa Anita",
+    "address": "102 W Foothill Blvd, Monrovia, CA 91016",
+    "phone": "10291016"
+  },
+  {
+    "name": "Arcadia Plaza",
+    "address": "400 S Baldwin Ave, Arcadia, CA 91007",
+    "phone": "40091007"
+  },
+  {
+    "name": "LOWER AZUSA PLAZA",
+    "address": "564 W Huntington Dr, Monrovia, CA 91016",
+    "phone": "56491016"
+  },
+  {
+    "name": "Rosemead Place Shopping Center",
+    "address": "2373 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "237391107"
+  },
+  {
+    "name": "Five Points Plaza Shopping Center",
+    "address": "8526 E Valley Blvd, Rosemead, CA 91770",
+    "phone": "852691770"
+  },
+  {
+    "name": "Highlander Center",
+    "address": "13409 Garvey Ave Unit 5, Baldwin Park, CA 91706",
+    "phone": "13409591706"
+  },
+  {
+    "name": "Prospect Plaza",
+    "address": "E Valley Blvd, Alhambra, CA 91801",
+    "phone": null
+  },
+  {
+    "name": "Sunny Plaza",
+    "address": "6264-6276 N, 6276 Rosemead Blvd, Temple City, CA 91780",
+    "phone": "62646276627691780"
+  },
+  {
+    "name": "Midway Plaza",
+    "address": "3801 E Foothill Blvd, Pasadena, CA 91107",
+    "phone": "380191107"
+  },
+  {
+    "name": "Ramona Plaza",
+    "address": "3341 E Foothill Blvd, Pasadena, CA 91107",
+    "phone": "334191107"
+  },
+  {
+    "name": "El Monte Shopping Strip",
+    "address": "119 E Foothill Blvd, Arcadia, CA 91006",
+    "phone": "11991006"
+  },
+  {
+    "name": "Sierra Center",
+    "address": "14400 Ramona Blvd, Baldwin Park, CA 91706",
+    "phone": "1440091706"
+  },
+  {
+    "name": "Pasadena Plaza",
+    "address": "319 W Bencamp St, San Gabriel, CA 91776",
+    "phone": "31991776"
+  },
+  {
+    "name": "Swiss Plaza",
+    "address": "10599-10525 Lower Azusa Rd, Temple City, CA 91780",
+    "phone": "105991052591780"
+  },
+  {
+    "name": "Victory Plaza",
+    "address": "10933 Main St #200, El Monte, CA 91731",
+    "phone": "1093320091731"
+  },
+  {
+    "name": "Ramona Plaza",
+    "address": "10138 Garvey Ave, El Monte, CA 91733",
+    "phone": "1013891733"
+  },
+  {
+    "name": "Camellia Square",
+    "address": "5770 Rosemead Blvd, Temple City, CA 91780",
+    "phone": "577091780"
+  },
+  {
+    "name": "Midway Plaza",
+    "address": "10356 Garvey Ave, South El Monte, CA 91733",
+    "phone": "1035691733"
+  },
+  {
+    "name": "El Monte Shopping Strip",
+    "address": "9661-9663 Garvey Ave, South El Monte, CA 91733",
+    "phone": "9661966391733"
+  },
+  {
+    "name": "Garvey Plaza",
+    "address": "140 W Valley Blvd, San Gabriel, CA 91776",
+    "phone": "14091776"
+  },
+  {
+    "name": "San Gabriel Square",
+    "address": "220 W Valley Blvd, San Gabriel, CA 91776",
+    "phone": "22091776"
+  },
+  {
+    "name": "Daphne online store",
+    "address": "2335-2355 E Colorado Blvd, Pasadena, CA 91107",
+    "phone": "2335235591107"
+  },
+  {
+    "name": "Hastings Village",
+    "address": "10933 Main St #200, El Monte, CA 91731",
+    "phone": "1093320091731"
+  },
+  {
+    "name": "VALU PLUS MARKET PLACE",
+    "address": "10599-10525 Lower Azusa Rd, Temple City, CA 91780",
+    "phone": "105991052591780"
+  },
+  {
+    "name": "Highlander Center",
+    "address": "3060 Baldwin Park Blvd, Baldwin Park, CA 91706",
+    "phone": "306091706"
+  },
+  {
+    "name": "Lucky Plaza",
+    "address": "3060 Baldwin Park Blvd, Baldwin Park, CA 91706",
+    "phone": "306091706"
+  },
+  {
+    "name": "Sierra Madre Plaza",
+    "address": "529 E Valley Blvd, San Gabriel, CA 91776",
+    "phone": "52991776"
+  },
+  {
+    "name": "Hastings Ranch Plaza",
+    "address": "119 E Foothill Blvd, Arcadia, CA 91006",
+    "phone": "11991006"
+  },
+  {
+    "name": "Garvey Plaza",
+    "address": "Rosemead Blvd, Rosemead, CA 91770",
+    "phone": null
+  },
+  {
+    "name": "Valley Square",
+    "address": "301 Valley Blvd, San Gabriel, CA 91776",
+    "phone": "30191776"
+  },
+  {
+    "name": "Gateway plaza",
+    "address": "11048 Lower Azusa Rd, El Monte, CA 91731",
+    "phone": "1104891731"
+  },
+  {
+    "name": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+    "address": "Lower Clamshell TKTL, Monrovia, CA 91016",
+    "phone": null
+  },
+  {
+    "name": "Monrovia Historical Museum",
+    "address": "742 E Lemon Ave, Monrovia, CA 91016",
+    "phone": "74291016"
+  },
+  {
+    "name": "Library Park",
+    "address": "380 W Huntington Dr, Arcadia, CA 91007",
+    "phone": "38091007"
+  },
+  {
+    "name": "Julian Fisher Park",
+    "address": "340 Grand Ave #330, Monrovia, CA 91016",
+    "phone": "34033091016"
+  },
+  {
+    "name": "Kiwanis Park at Grand Avenue",
+    "address": "N Canyon Blvd, Monrovia, CA 91016",
+    "phone": "6269325550"
+  },
+  {
+    "name": "Big Santa Anita Canyon",
+    "address": "Chantry Flat Rd, Arcadia, CA 91006",
+    "phone": null
+  },
+  {
+    "name": "Monrovia Hillside Preserve",
+    "address": "19038 S Vermont Ave, Gardena, CA 90248",
+    "phone": "1903890248"
+  },
+  {
+    "name": "Los Angeles County Arboretum",
+    "address": "321 S Myrtle Ave, Monrovia, CA 91016",
+    "phone": "32191016"
+  },
+  {
+    "name": "Parking lot for Monrovia Waterfalls",
+    "address": "301 N Baldwin Ave, Arcadia, CA 91007",
+    "phone": "30191007"
+  },
+  {
+    "name": "FUNBOX LA",
+    "address": "Chantry Flat Rd, Arcadia, CA 91006",
+    "phone": "6264477356"
+  },
+  {
+    "name": "Recreation Park",
+    "address": "S Myrtle Ave, Monrovia, CA 91016",
+    "phone": null
+  },
+  {
+    "name": "Lucinda Garcia Park",
+    "address": "700 S Atlantic Blvd, Monterey Park, CA 91754",
+    "phone": "70091754"
+  },
+  {
+    "name": "Kids Empire Monrovia",
+    "address": "18867 E Armstead St, Azusa, CA 91702",
+    "phone": "1886791702"
+  },
+  {
+    "name": "Peck Road Water Conservation Park",
+    "address": "800 S Almansor St, Alhambra, CA 91801",
+    "phone": "80091801"
+  },
+  {
+    "name": "Monrovia",
+    "address": "Chantry Flat Rd, Arcadia, CA 91006",
+    "phone": "6265741613"
+  },
+  {
+    "name": "Duarte Historical Museum",
+    "address": "10 Olvera St, Los Angeles, CA 90012",
+    "phone": "2134856855"
+  },
+  {
+    "name": "Santa Fe Dam Recreation Area",
+    "address": "3233 Kelburn Ave, Rosemead, CA 91770",
+    "phone": "323391770"
+  },
+  {
+    "name": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "address": "Mt Wilson Trail, Sierra Madre, CA 91024",
+    "phone": null
+  },
+  {
+    "name": "Eaton Canyon Nature Center",
+    "address": "300 E Green St, Pasadena, CA 91101",
+    "phone": "30091101"
+  },
+  {
+    "name": "Santa Fe Dam Recreation Area",
+    "address": "1485 Virginia Rd, San Marino, CA 91108",
+    "phone": "148591108"
+  },
+  {
+    "name": "El Molino Viejo",
+    "address": "946 N Adobe Ave, Montebello, CA 90640",
+    "phone": "94690640"
+  },
+  {
+    "name": "Old Pasadena",
+    "address": "1000 Mission St, S Pasadena, CA 91030",
+    "phone": "100091030"
+  },
+  {
+    "name": "Monrovia",
+    "address": "1700 W Victoria Ave, Montebello, CA 90640",
+    "phone": "170090640"
+  },
+  {
+    "name": "Mount Wilson Observatory",
+    "address": "San Gabriel River Trail, Irwindale, CA 91706",
+    "phone": "6263351771"
+  },
+  {
+    "name": "The Gamble House",
+    "address": "459 E Colorado Blvd, Pasadena, CA 91101",
+    "phone": "45991101"
+  },
+  {
+    "name": "Wrigley Mansion",
+    "address": "13766 Francisquito Ave, Baldwin Park, CA 91706",
+    "phone": "1376691706"
+  },
+  {
+    "name": "Queen Anne Cottage",
+    "address": "3026 E Orange Grove Blvd, Pasadena, CA 91107",
+    "phone": "302691107"
+  },
+  {
+    "name": "Rubel Castle",
+    "address": "270 Arlington Dr, Pasadena, CA 91105",
+    "phone": "27091105"
+  },
+  {
+    "name": "Vincent Lugo Park",
+    "address": "1301 Avenida Cesar Chavez, Monterey Park, CA 91754",
+    "phone": "130191754"
+  },
+  {
+    "name": "Wilderness Park",
+    "address": "505 N Hermosa Ave, Sierra Madre, CA 91024",
+    "phone": "50591024"
+  },
+  {
+    "name": "The Huntington Chinese Garden - Garden of Flowing Fragrance",
+    "address": "1100 S Valley Center Ave, San Dimas, CA 91773",
+    "phone": "110091773"
+  },
+  {
+    "name": "Turner & Stevens Live Oak Mortuary & Memorial Park",
+    "address": "Rosemead Blvd, South El Monte, CA 91733",
+    "phone": "6266298386"
+  },
+  {
+    "name": "Tony Arceo Memorial Park",
+    "address": "15415 Don Julian Rd, City of Industry, CA 91745",
+    "phone": "1541591745"
+  },
+  {
+    "name": "USC Pacific Asia Museum",
+    "address": "700 S Myrtle Ave #708, Monrovia, CA 91016",
+    "phone": "70070891016"
+  },
+  {
+    "name": "Royal Oaks Park",
+    "address": "504 W Colorado Blvd, Pasadena, CA 91105",
+    "phone": "50491105"
+  },
+  {
+    "name": "Rose Bowl Stadium",
+    "address": "159 S Baldwin Ave #131, Arcadia, CA 91007",
+    "phone": "15913191007"
+  },
+  {
+    "name": "Santa Anita Park",
+    "address": "4550 Oak Grove Dr, Pasadena, CA 91103",
+    "phone": "455091103"
+  },
+  {
+    "name": "Eaton Canyon Falls",
+    "address": "1620 E Aroma Dr, West Covina, CA 91791",
+    "phone": "162091791"
+  },
+  {
+    "name": "Trask Scout Reservation - GLAAC BSA",
+    "address": "162 W Pomona Ave, Monrovia, CA 91016",
+    "phone": "16291016"
+  },
+  {
+    "name": "Eisenhower Park",
+    "address": "4100 Baldwin Park Blvd, Baldwin Park, CA 91706",
+    "phone": "410091706"
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "address": "1918 Rosemead Blvd, South El Monte, CA 91733",
+    "phone": "191891733"
+  },
+  {
+    "name": "American Military Museum",
+    "address": "1100 N Canyon Blvd, Monrovia, CA 91016",
+    "phone": "110091016"
+  },
+  {
+    "name": "Old Town Monrovia",
+    "address": "2nd Avenue and, E Colorado Blvd, Arcadia, CA 91006",
+    "phone": null
+  },
+  {
+    "name": "Morgan Park",
+    "address": "1750 N Altadena Dr, Altadena, CA 91001",
+    "phone": "175091001"
+  },
+  {
+    "name": "Hop Secret Brewing Company",
+    "address": "100 Universal City Plaza, Universal City, CA 91608",
+    "phone": "10091608"
+  },
+  {
+    "name": "Galster Wilderness Park",
+    "address": "1001 Rose Bowl Dr, Pasadena, CA 91103",
+    "phone": "100191103"
+  },
+  {
+    "name": "Hahamongna Watershed Park",
+    "address": "285 W Huntington Dr, Arcadia, CA 91007",
+    "phone": "28591007"
+  },
+  {
+    "name": "Monrovia Street Fair & Market",
+    "address": "43V2+JGV, 2627 Royal Oaks Dr, Duarte, CA 91010",
+    "phone": "432+262791010"
+  },
+  {
+    "name": "Workman and Temple Family Homestead Museum",
+    "address": "470 W Walnut St, Pasadena, CA 91103",
+    "phone": "47091103"
+  },
+  {
+    "name": "Mount Wilson Trail Park",
+    "address": "46 N Los Robles Ave, Pasadena, CA 91101",
+    "phone": "6267872680"
+  },
+  {
+    "name": "Colorado Street Bridge",
+    "address": "3125 Tyler Ave, El Monte, CA 91731",
+    "phone": "312591731"
+  },
+  {
+    "name": "Santa Anita Train Depot",
+    "address": "200 E Duarte Rd, Monrovia, CA 91016",
+    "phone": "20091016"
+  },
+  {
+    "name": "Jones Peak",
+    "address": "750 S Santa Anita Ave, South El Monte, CA 91733",
+    "phone": "75091733"
+  },
+  {
+    "name": "Whittier Narrows Natural Area",
+    "address": "The Huntington, San Marino, CA 91108",
+    "phone": "6264052100"
+  },
+  {
+    "name": "World's Largest Blossoming Plant",
+    "address": "5XGJ+RRG, 2240 Highland Oaks Dr, Arcadia, CA 91006",
+    "phone": "5+224091006"
+  },
+  {
+    "name": "Vincent Price Art Museum",
+    "address": "107 S Baldwin Ave, Arcadia, CA 91007",
+    "phone": "10791007"
+  },
+  {
+    "name": "Storrier Stearns Japanese Garden",
+    "address": "844 N Live Oak Ave, Glendora, CA 91741",
+    "phone": "84491741"
+  },
+  {
+    "name": "Vina Vieja Park",
+    "address": "391 S Orange Grove Blvd, Pasadena, CA 91184",
+    "phone": "39191184"
+  },
+  {
+    "name": "Santa Fe Dam Nature Center",
+    "address": "Prospect Ave & Wells Street, Prospect Ave, San Gabriel, CA 91776",
+    "phone": "6263082800"
+  },
+  {
+    "name": "Southern California Children's Museum",
+    "address": "4 Westmoreland Pl, Pasadena, CA 91103",
+    "phone": "6267933334"
+  },
+  {
+    "name": "Acuna Park",
+    "address": "1 E Colorado Blvd, Pasadena, CA 91105",
+    "phone": "6263569725"
+  },
+  {
+    "name": "Michael Myers’ House",
+    "address": "5401 Peck Rd, Arcadia, CA 91006",
+    "phone": "540191006"
+  },
+  {
+    "name": "Orchard Camp",
+    "address": "1750 N Altadena Dr, Pasadena, CA 91107",
+    "phone": "175091107"
+  },
+  {
+    "name": "Lacy Park",
+    "address": "15501 Arrow Hwy, Irwindale, CA 91706",
+    "phone": "1550191706"
+  },
+  {
+    "name": "Pasadena Ice Skating Center",
+    "address": "1120 Old Mill Rd, San Marino, CA 91108",
+    "phone": "112091108"
+  },
+  {
+    "name": "First Water, Mt. Wilson Trail",
+    "address": "1151 Oxford Rd, San Marino, CA 91108",
+    "phone": "115191108"
+  },
+  {
+    "name": "Splash Zone",
+    "address": "1200 N Canyon Blvd, Monrovia, CA 91016",
+    "phone": "120091016"
+  },
+  {
+    "name": "Avila Adobe",
+    "address": "15501 Arrow Hwy, Irwindale, CA 91706",
+    "phone": "1550191706"
+  },
+  {
+    "name": "Desert Garden",
+    "address": "777 Encanto Pkwy, Duarte, CA 91010",
+    "phone": "77791010"
+  },
+  {
+    "name": "Almansor Park",
+    "address": "5401 Peck Rd, Arcadia, CA 91006",
+    "phone": "540191006"
+  },
+  {
+    "name": "Millard Falls",
+    "address": "423 Yucca Trail, Sierra Madre, CA 91024",
+    "phone": "42391024"
+  },
+  {
+    "name": "Cascades Park",
+    "address": "502 W Olive Ave, Monrovia, CA 91016",
+    "phone": "50291016"
+  },
+  {
+    "name": "Dalton Park",
+    "address": "620 S Shamrock Ave, Monrovia, CA 91016",
+    "phone": "62091016"
+  },
+  {
+    "name": "Monrovia Farmers Market",
+    "address": "721 E Huntington Dr, Monrovia, CA 91016",
+    "phone": "72191016"
+  },
+  {
+    "name": "Adams Pack Station",
+    "address": "400 S Baldwin Ave, Arcadia, CA 91007",
+    "phone": "40091007"
+  },
+  {
+    "name": "Chantry Flat Parking Lot and Trailhead",
+    "address": "189 E Mira Monte Ave, Sierra Madre, CA 91024",
+    "phone": "18991024"
+  },
+  {
+    "name": "The Royal Grand Hotel",
+    "address": "XGWJ+59X, Gbarnga, Liberia",
+    "phone": "+231888987474"
+  },
+  {
+    "name": "Passion Hotel 2",
+    "address": "62M7+8XH, Ganta, Liberia",
+    "phone": "+231777527330"
+  },
+  {
+    "name": "Atlantis Beach Hotel",
+    "address": "77G3+4X4, Old Rd, Monrovia 1000, Liberia",
+    "phone": "+231777300085"
+  },
+  {
+    "name": "Mamba Point Hotel",
+    "address": "6JRX+GHR, Harbel, Liberia",
+    "phone": "+231888998888"
+  },
+  {
+    "name": "Bella Casa",
+    "address": "856P+3RW, United Nations Dr, Monrovia, Liberia",
+    "phone": "+231886510757"
+  },
+  {
+    "name": "Sinkor Palace",
+    "address": "United Nations Dr, Monrovia, Liberia",
+    "phone": "+231775554444"
+  },
+  {
+    "name": "The Farmington Hotel",
+    "address": "76V5+W5M, 2nd Street Sinkor Tubman Blvd, Monrovia, Liberia",
+    "phone": "+231881764410"
+  },
+  {
+    "name": "Jackie's Guest House",
+    "address": "76MQ+FM8, Old Rd, Monrovia, Liberia",
+    "phone": null
+  },
+  {
+    "name": "BEER GARDEN HOTEL, BAR & RESTAURANT",
+    "address": "76RC+RPM, Tubman Blvd, Monrovia, Liberia",
+    "phone": "+231555777888"
+  },
+  {
+    "name": "Kailondo Hotel",
+    "address": "6XGW+69M, George Village, Liberia",
+    "phone": "+231777164447"
+  },
+  {
+    "name": "Kamaneahn Hotel Inc",
+    "address": "CHHC+66C, Abba Kangar, Liberia",
+    "phone": "+231888077359"
+  },
+  {
+    "name": "Alvino Hotel",
+    "address": "858V+H9C, Carey St, Monrovia, Liberia",
+    "phone": "+231770277777"
+  },
+  {
+    "name": "Hotel Provident",
+    "address": "76W3+CVF, Monrovia, Liberia",
+    "phone": "+231886404024"
+  },
+  {
+    "name": "Hotel Monrovia",
+    "address": "68R6+6MG, Off Roberts Feild Highway, ELWA/Menitama Junction, Elwa 1000, Liberia",
+    "phone": "+231886627093"
+  },
+  {
+    "name": "Afrilodge",
+    "address": "5th Tubman Blvd, Monrovia 1000, Liberia",
+    "phone": "+231770451700"
+  },
+  {
+    "name": "Exceeding Hotel and Restaurant",
+    "address": "68MJ+WQ3, Guesthouse Junction, Thinkers Village, Monrovia 1000, Liberia",
+    "phone": "+231776111800"
+  },
+  {
+    "name": "Diana Hotel",
+    "address": "76MQ+FM8, Old Rd, Monrovia, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Buchanan Liberia",
+    "address": "68WG+J72, Congo Town, BackRoad, Paynesville 1000, Liberia",
+    "phone": "+231886530053"
+  },
+  {
+    "name": "Jandy's Little Paradise Hotel",
+    "address": "3rd Street, Monrovia, Liberia",
+    "phone": "+231886714983"
+  },
+  {
+    "name": "Nana's Lodge",
+    "address": "68HJ+M6F, Barnes Beach Road, Thinker's Village, Elwa 1000, Liberia",
+    "phone": "+231777860311"
+  },
+  {
+    "name": "jwg beach resort",
+    "address": "77CF+2G8, Tubman Blvd, Monrovia, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Philipmena's Guest House",
+    "address": "778V+X9X, Paynesville, Liberia",
+    "phone": "+231775799009"
+  },
+  {
+    "name": "Bojelene Guest House",
+    "address": "VXG4+J4X, Buchanan, Liberia",
+    "phone": "+231886766463"
+  },
+  {
+    "name": "Exceeding Hotel and Restaurant",
+    "address": "76GX+8MP, Tubman Blvd, Monrovia, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Congo Town Guest House",
+    "address": "6C5X+FFW, Marshall Junction, Robertsfield Highway, Lower Margibi 1000, Liberia",
+    "phone": "+231888876421"
+  },
+  {
+    "name": "Imperial Lodge",
+    "address": "76GX+8MP, Tubman Blvd, Monrovia, Liberia",
+    "phone": null
+  },
+  {
+    "name": "STS Guest Room",
+    "address": "VWGX+R57, Roberts St, Buchanan, Liberia",
+    "phone": "+231778177100"
+  },
+  {
+    "name": "Banana Lodge",
+    "address": "5FRC+2W9, Gbono Town, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Maryland Guest House",
+    "address": "QJ29+5R7, Robertsport, Liberia",
+    "phone": "+2316668332"
+  },
+  {
+    "name": "Millennium Guest House & Suites",
+    "address": "858V+H9C, Carey St, Monrovia, Liberia",
+    "phone": "+231770277777"
+  },
+  {
+    "name": "Panama Lodge",
+    "address": "857X+PCV, Carey St, Monrovia, Liberia",
+    "phone": "+231775200200"
+  },
+  {
+    "name": "Kailondo Hotel",
+    "address": "76R7+GJ2, 9th St, Monrovia, Liberia",
+    "phone": "+231888990079"
+  },
+  {
+    "name": "GAP Technology, LLC",
+    "address": "62M7+RXV, Ganta, Liberia",
+    "phone": "+231777403534"
+  },
+  {
+    "name": "Hotel Monrovia",
+    "address": "VXWF+G94, Corn Farm Community, near Total Filing Station, Grand Bassa County, Buchanan 0916, Liberia",
+    "phone": "+231777909702"
+  },
+  {
+    "name": "Geeta's Bar & Restaurant",
+    "address": "97V4+4F8, Caldwell, Liberia",
+    "phone": "+231776280571"
+  },
+  {
+    "name": "Loleyah Bar & Restaurant",
+    "address": "2G2H+23Q, Gbarnga, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Motherly Smile Restaurant",
+    "address": "87WC+JV3, Dabwe Town, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Ma Miatta MicVero Guesthouse & Home Food Catering Services, Inc.",
+    "address": "2CJW+58J, Phebe, Liberia",
+    "phone": "+231886650038"
+  },
+  {
+    "name": "Sao Sensation Bar Restaurant and Guest House",
+    "address": "XGVP+PF4, Unnamed Road, Gbarnga, Liberia",
+    "phone": "+231886571327"
+  },
+  {
+    "name": "Barnvilla Junction",
+    "address": "XGVQ+W4H, Baltimore Boulevard & Braod Street, Gbarnga, Liberia",
+    "phone": "+231886131513"
+  },
+  {
+    "name": "Banana Lodge Bar And Restaurants",
+    "address": "Lelekpayea-Duala Community, Gbarnga 1000, Liberia",
+    "phone": "+231777423495"
+  },
+  {
+    "name": "Bong shopping center",
+    "address": "2G3F+GC7, Gbarnga, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Zunuwala & Son Business Center",
+    "address": "2CFV+PVQ, Suakoko, Liberia",
+    "phone": "+231886472881"
+  },
+  {
+    "name": "Aunty d business center",
+    "address": "Boulevard high way, Gbarnga 0231, Liberia",
+    "phone": "+231886255555"
+  },
+  {
+    "name": "KEM GUEST HOUSE",
+    "address": "GMQ3+63M, Kakata, Liberia",
+    "phone": "+231886550692"
+  },
+  {
+    "name": "FAS Restuarant",
+    "address": "GMJ4+389, Kakata, Liberia",
+    "phone": "+231777064535"
+  },
+  {
+    "name": "World Best Restaurant",
+    "address": "GMR5+F6Q, Kakata, Liberia",
+    "phone": null
+  },
+  {
+    "name": "TENCO Group of Companies",
+    "address": "GJPX+C7J, Kakata, Liberia",
+    "phone": "+231770229420"
+  },
+  {
+    "name": "BARMEN'S HOME",
+    "address": "GMP3+2M4, Kakata, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Barrie Kassa Business Center",
+    "address": "GJPV+3XX, Kakata, Liberia",
+    "phone": "+231777412291"
+  },
+  {
+    "name": "Yagaryo Business Center",
+    "address": "World Bank Community, Kakata, Liberia",
+    "phone": null
+  },
+  {
+    "name": "OMB BUSINESS CENTER",
+    "address": "GJJW+P84, VIP Road, Kakata, Liberia",
+    "phone": "+231770907289"
+  },
+  {
+    "name": "Total Shopping Mall",
+    "address": "96MQ+45P, Dabwe Town, Liberia",
+    "phone": "+231886947314"
+  },
+  {
+    "name": "Randall Shopping Complex",
+    "address": "Business Center, Adjusting MBB, Kakata, Liberia",
+    "phone": "+231775835991"
+  },
+  {
+    "name": "Success Brother Business Center",
+    "address": "GJJW+8P8, Monrovia-Kakata Hwy, Kakata, Liberia",
+    "phone": "+231770723131"
+  },
+  {
+    "name": "Sackie Flomo Entertainment and Shoping Center",
+    "address": "85CV+6MM, Water St &, Randall St, Monrovia, Liberia",
+    "phone": "+231777550571"
+  },
+  {
+    "name": "Kpatawee Waterfall",
+    "address": "GJMQ+8JP, Kakata, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Kakata",
+    "address": "GMQ3+63M, Kakata, Liberia",
+    "phone": "+231886550692"
+  },
+  {
+    "name": "Liberian National Museum",
+    "address": "Old Cassava Market, Kakata 1000, Liberia",
+    "phone": "+231881888294"
+  },
+  {
+    "name": "KEM GUEST HOUSE",
+    "address": "858W+M85, Monrovia, Liberia",
+    "phone": "8722257234"
+  },
+  {
+    "name": "KRTTI Demonstration School",
+    "address": "858V+W79, Broad Street, Monrovia, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Friday Edwin CRUSOR",
+    "address": "GMJ3+WM6, Unnamed Road, Kakata, Liberia",
+    "phone": "+231886352444"
+  },
+  {
+    "name": "Libassa Ecolodge",
+    "address": "GJPV+8CR, Kakata, Liberia",
+    "phone": "+231886880113"
+  },
+  {
+    "name": "New Kru Town",
+    "address": "Barreirinhas - State of Maranhão, 65590-000, Brazil",
+    "phone": "65590000"
+  },
+  {
+    "name": "Marshall",
+    "address": "GJJQ+XFP, Kakata, Liberia",
+    "phone": "+231770763250"
+  },
+  {
+    "name": "Jos Travel and Tours Inc",
+    "address": "Chandrapur, Maharashtra 442401, India",
+    "phone": "+919579160778"
+  },
+  {
+    "name": "Montserrado",
+    "address": "S Coast Rd, Flinders Chase SA 5223, Australia",
+    "phone": "+61885534444"
+  },
+  {
+    "name": "Kakata",
+    "address": "Registan St, Samarkand, Uzbekistan",
+    "phone": "+998662353826"
+  },
+  {
+    "name": "Lake Ocean View",
+    "address": "GMJ4+389, Kakata, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Kanha Tiger Reserve",
+    "address": "GJJQ+PXF, Kakata, Liberia",
+    "phone": null
+  },
+  {
+    "name": "Matadi",
+    "address": "Strada General Traian Moșoiu 24, Bran 507025, Romania",
+    "phone": "24507025"
+  },
+  {
+    "name": "Greater Monrovia",
+    "address": "Thinkers Village Hotel, Monrovia, Liberia",
+    "phone": "+231888982463"
+  },
+  {
+    "name": "Bran Castle",
+    "address": "Bassa Community, Kakata, Liberia",
+    "phone": "+231777886348"
+  },
+  {
+    "name": "Lango Town Community",
+    "address": "GJ8R+JQP, Kakata, Liberia",
+    "phone": "+231888519855"
+  },
+  {
+    "name": "Colca Canyon",
+    "address": "Bassa Community, Kakata, Liberia",
+    "phone": "+231777886348"
+  },
+  {
+    "name": "Buchanan",
+    "address": "GMG3+FM5, Kakata, Liberia",
+    "phone": "+231880475663"
+  },
+  {
+    "name": "Registon Square",
+    "address": "862J+MR7, Central New Matadi, Monrovia, Liberia",
+    "phone": "+231777119937"
+  },
+  {
+    "name": "Parque Nacional dos Lençóis Maranhenses",
+    "address": "9CVM+RMJ, Monrovia-Kakata Hwy, Uray Farm Community, Liberia",
+    "phone": "+231770130267"
+  },
+  {
+    "name": "Kimpton Harper Hotel",
+    "address": "6411 Frontage Road, Mountain Home, TX 78058",
+    "phone": "641178058"
+  },
+  {
+    "name": "Cowboys and Angels Retreat",
+    "address": "Henderson Branch Rd W, Ingram, TX 78025",
+    "phone": "8307779828"
+  },
+  {
+    "name": "Inn Of The Hills Hotel & Conference Center",
+    "address": "714 Main St, Fort Worth, TX 76102",
+    "phone": "71476102"
+  },
+  {
+    "name": "Zannabella B&B",
+    "address": "33 avery ridge rd, Fredericksburg, TX 78624",
+    "phone": "8303553733"
+  },
+  {
+    "name": "Days Inn by Wyndham Kerrville",
+    "address": "126 Plaza Dr, Kerrville, TX 78028",
+    "phone": "12678028"
+  },
+  {
+    "name": "La Quinta Inn & Suites by Wyndham Kerrville",
+    "address": "1940 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "194078028"
+  },
+  {
+    "name": "Best Little Fredericksburg Texas Bed And Breakfast",
+    "address": "2000 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "200078028"
+  },
+  {
+    "name": "Carlton Club Inn",
+    "address": "717 High St, Comfort, TX 78013",
+    "phone": "71778013"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Denver - Aurora Medical Campus, an IHG Hotel",
+    "address": "1001 Junction Hwy, Kerrville, TX 78028",
+    "phone": "100178028"
+  },
+  {
+    "name": "Hotel Giles",
+    "address": "14200 E Colfax Ave, Aurora, CO 80011",
+    "phone": "1420080011"
+  },
+  {
+    "name": "Best Bed and Breakfast in Fredericksburg Texas",
+    "address": "2700 Travis St, DeSoto, TX 75115",
+    "phone": "270075115"
+  },
+  {
+    "name": "Super 8 by Wyndham Kerrville TX",
+    "address": "175 Riverview Rd, Kerrville, TX 78028",
+    "phone": "17578028"
+  },
+  {
+    "name": "Lone Star Inn Kerrville/Fredericksburg",
+    "address": "2400 Goat Creek Rd, Kerrville, TX 78028",
+    "phone": "240078028"
+  },
+  {
+    "name": "Hampton Inn Kerrville",
+    "address": "4279 Junction Hwy, Ingram, TX 78025",
+    "phone": "427978025"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Kerrville, an IHG Hotel",
+    "address": "120 Waltonia Lodges Dr S, Ingram, TX 78025",
+    "phone": "12078025"
+  },
+  {
+    "name": "City on a Hill at Spring Creek",
+    "address": "4115 Marsha Sharp Fwy W, Lubbock, TX 79410",
+    "phone": "411579410"
+  },
+  {
+    "name": "Quality Inn & Suites",
+    "address": "1085 TX-39, Ingram, TX 78025",
+    "phone": "10853978025"
+  },
+  {
+    "name": "Peach Tree Inn & Suites",
+    "address": "906 Junction Hwy, Kerrville, TX 78028",
+    "phone": "90678028"
+  },
+  {
+    "name": "Hill Country Inn and Suites",
+    "address": "901 E Main St, Fredericksburg, TX 78624",
+    "phone": "90178624"
+  },
+  {
+    "name": "Best Western Sunday House Inn",
+    "address": "120 Francisco Lemos St, Kerrville, TX 78028",
+    "phone": "12078028"
+  },
+  {
+    "name": "Hill Country Inn and Suites",
+    "address": "1508 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "150878028"
+  },
+  {
+    "name": "Quality Inn & Suites",
+    "address": "9848 US-290, Fredericksburg, TX 78624",
+    "phone": "984829078624"
+  },
+  {
+    "name": "Motel 6 Kerrville, TX",
+    "address": "1612 Wazee St, Denver, CO 80202",
+    "phone": "161280202"
+  },
+  {
+    "name": "Best Western Sunday House Inn",
+    "address": "117 Rowland Ln, Kerrville, TX 78028",
+    "phone": "11778028"
+  },
+  {
+    "name": "Y.O. Ranch Hotel",
+    "address": "16880 US-87, Fredericksburg, TX 78624",
+    "phone": "168808778624"
+  },
+  {
+    "name": "Super 8 by Wyndham Kerrville TX",
+    "address": "314 TX-39, Ingram, TX 78025",
+    "phone": "3143978025"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Sweetwater, an IHG Hotel",
+    "address": "3301 Youngfield Service Rd, Lakewood, CO 80401",
+    "phone": "330180401"
+  },
+  {
+    "name": "Best Western Plus Lonestar Inn & Suites",
+    "address": "2189 Usener Rd, Fredericksburg, TX 78624",
+    "phone": "218978624"
+  },
+  {
+    "name": "Fredericksburg Hill Country Hotel",
+    "address": "104 Easy St, Ingram, TX 78025",
+    "phone": "10478025"
+  },
+  {
+    "name": "Lone Star Inn Kerrville/Fredericksburg",
+    "address": "458 Wolf Way, Fredericksburg, TX 78624",
+    "phone": "45878624"
+  },
+  {
+    "name": "Marifah Inn Hotels",
+    "address": "415 Clay St, Kerrville, TX 78028",
+    "phone": "41578028"
+  },
+  {
+    "name": "Yogi Bear's Jellystone Park Camp-Resort: Guadalupe River, TX",
+    "address": "201 Llano St, Fredericksburg, TX 78624",
+    "phone": "20178624"
+  },
+  {
+    "name": "Fairfield Inn & Suites by Marriott Austin Buda",
+    "address": "245 Stablewood Springs Dr W, Ingram, TX 78025",
+    "phone": "24578025"
+  },
+  {
+    "name": "Rodeway Inn by Choice Hotels",
+    "address": "3999, 10096 US-290, Fredericksburg, TX 78624",
+    "phone": "39991009629078624"
+  },
+  {
+    "name": "Comfort Inn Suites",
+    "address": "155 Airport Rd, Fredericksburg, TX 78624",
+    "phone": "15578624"
+  },
+  {
+    "name": "WorldMark Hunt Stablewood Springs",
+    "address": "820 TX-39, Ingram, TX 78025",
+    "phone": "8203978025"
+  },
+  {
+    "name": "Country Hearth Inn & Suites Sweetwater",
+    "address": "2885 Goat Creek Rd, Kerrville, TX 78028",
+    "phone": "288578028"
+  },
+  {
+    "name": "Buckhorn Lake Resort",
+    "address": "245 Stablewood Springs Dr W, Ingram, TX 78025",
+    "phone": "24578025"
+  },
+  {
+    "name": "Roddy Tree Ranch",
+    "address": "1507 US-287, Decatur, TX 76234",
+    "phone": "150728776234"
+  },
+  {
+    "name": "Hangar Hotel",
+    "address": "111 TX-36, Gatesville, TX 76528",
+    "phone": "1113676528"
+  },
+  {
+    "name": "Dry Creek",
+    "address": "1240 Cabelas Dr, Buda, TX 78610",
+    "phone": "124078610"
+  },
+  {
+    "name": "Stablewod Springs Resort",
+    "address": "2605 Junction Hwy, Kerrville, TX 78028",
+    "phone": "260578028"
+  },
+  {
+    "name": "Way of Wolf B & B",
+    "address": "510 NW Georgia Ave, Sweetwater, TX 79556",
+    "phone": "51079556"
+  },
+  {
+    "name": "The Trueheart Hotel",
+    "address": "216 SE Georgia Ave, Sweetwater, TX 79556",
+    "phone": "21679556"
+  },
+  {
+    "name": "Cottage At Twin Oaks",
+    "address": "1220 US-87, Fredericksburg, TX 78624",
+    "phone": "12208778624"
+  },
+  {
+    "name": "BumbleBee Lodge",
+    "address": "1804 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "180478028"
+  },
+  {
+    "name": "Hunter House Inn & Suites",
+    "address": "300 SE Georgia Ave, Sweetwater, TX 79556",
+    "phone": "30079556"
+  },
+  {
+    "name": "SKYE Texas Hill Country Resort",
+    "address": "2127 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "212778028"
+  },
+  {
+    "name": "Sleepy Side Of Rails",
+    "address": "2304 TX-208, Colorado City, TX 79512",
+    "phone": "230420879512"
+  },
+  {
+    "name": "Hotel",
+    "address": "2033 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "203378028"
+  },
+  {
+    "name": "River Run Lodge",
+    "address": "2001 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "200178028"
+  },
+  {
+    "name": "Catnip cabin, Cat's Meow B&B",
+    "address": "2124 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "212478028"
+  },
+  {
+    "name": "Jet Hotel",
+    "address": "1810 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "181078028"
+  },
+  {
+    "name": "River Run B&B",
+    "address": "200 I-10, Junction, TX 76849",
+    "phone": "2001076849"
+  },
+  {
+    "name": "Azure Hills Inn & Suites",
+    "address": "200 I-10, Junction, TX 76849",
+    "phone": "2001076849"
+  },
+  {
+    "name": "Flagstaff Inn",
+    "address": "2124 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "212478028"
+  },
+  {
+    "name": "Casita Blu",
+    "address": "401 S Washington St, Fredericksburg, TX 78624",
+    "phone": "40178624"
+  },
+  {
+    "name": "Hillcrest Inn",
+    "address": "2001 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "200178028"
+  },
+  {
+    "name": "Waltonia On The River",
+    "address": "2114 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "211478028"
+  },
+  {
+    "name": "Johnson Creek RV Resort & Park",
+    "address": "2127 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "212778028"
+  },
+  {
+    "name": "Hotel",
+    "address": "2918 Usener Rd, Fredericksburg, TX 78624",
+    "phone": "291878624"
+  },
+  {
+    "name": "HTR TX Hill Country Campground",
+    "address": "57 avery ridge rd, Fredericksburg, TX 78624",
+    "phone": "8303553681"
+  },
+  {
+    "name": "Kerrville KOA Journey",
+    "address": "1804 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "180478028"
+  },
+  {
+    "name": "hotel",
+    "address": "2038 Sidney Baker St, Kerrville, TX 78028",
+    "phone": "203878028"
+  },
+  {
+    "name": "Los tres potrillos",
+    "address": "23624 US-290, Harper, TX 78631",
+    "phone": "2362429078631"
+  },
+  {
+    "name": "Longhorn Cafe",
+    "address": "23401 US-290, Harper, TX 78631",
+    "phone": "2340129078631"
+  },
+  {
+    "name": "Dauna's",
+    "address": "11807 US-290, Harper, TX 78631",
+    "phone": "1180729078631"
+  },
+  {
+    "name": "El Gallo Mexican Restaurant",
+    "address": "23283 W, US hwy, Harper, TX 78631",
+    "phone": "2328378631"
+  },
+  {
+    "name": "Harper Court",
+    "address": "5971 Sky Pond Dr, Loveland, CO 80538",
+    "phone": "597180538"
+  },
+  {
+    "name": "Shops At Harper's Point",
+    "address": "14000 Lakeside Cir, Sterling Heights, MI 48313",
+    "phone": "1400048313"
+  },
+  {
+    "name": "Harper's Choice Village Center",
+    "address": "28582 Dequindre Rd, Warren, MI 48092",
+    "phone": "2858248092"
+  },
+  {
+    "name": "The Promenade Shops at Centerra",
+    "address": "9608 Village Pl Blvd, Brighton, MI 48116",
+    "phone": "960848116"
+  },
+  {
+    "name": "The Mall at Partridge Creek",
+    "address": "35000 Warren Rd, Westland, MI 48185",
+    "phone": "3500048185"
+  },
+  {
+    "name": "Harpers Station",
+    "address": "17420 Hall Rd, Clinton Twp, MI 48038",
+    "phone": "1742048038"
+  },
+  {
+    "name": "Westland Shopping Center",
+    "address": "11340 Montgomery Rd #202, Cincinnati, OH 45249",
+    "phone": "1134020245249"
+  },
+  {
+    "name": "Lakeside Mall",
+    "address": "5235 S Harper Ct, Chicago, IL 60615",
+    "phone": "523560615"
+  },
+  {
+    "name": "Green Oak Village Place",
+    "address": "5485 Harpers Farm Rd, Columbia, MD 21044",
+    "phone": "548521044"
+  },
+  {
+    "name": "Universal Shopping Center",
+    "address": "11315 Montgomery Rd, Cincinnati, OH 45249",
+    "phone": "1131545249"
+  },
+  {
+    "name": "Macomb Mall",
+    "address": "1800 Pipestone Rd, Benton Harbor, MI 49022",
+    "phone": "180049022"
+  },
+  {
+    "name": "Huron Village Shopping Center",
+    "address": "2499 Perry Crossing Way, Plainfield, IN 46168",
+    "phone": "249946168"
+  },
+  {
+    "name": "Novi Town Center",
+    "address": "S Randall Rd & County Line Rd, Algonquin, IL 60102",
+    "phone": null
+  },
+  {
+    "name": "Livonia Marketplace",
+    "address": "13901 Town Center Blvd, Noblesville, IN 46060",
+    "phone": "1390146060"
+  },
+  {
+    "name": "Algonquin Galleria",
+    "address": "32233 Gratiot Ave, Roseville, MI 48066",
+    "phone": "3223348066"
+  },
+  {
+    "name": "The Orchards Mall",
+    "address": "43259 Crescent Blvd, Novi, MI 48375",
+    "phone": "4325948375"
+  },
+  {
+    "name": "Hamilton Town Center",
+    "address": "5775 Beckley Rd, Battle Creek, MI 49015",
+    "phone": "577549015"
+  },
+  {
+    "name": "Lakeview Square Mall",
+    "address": "Washtenaw Ave, Ann Arbor, MI 48104",
+    "phone": null
+  },
+  {
+    "name": "The Shops at Perry Crossing",
+    "address": "29480 W Seven Mile Rd, Livonia, MI 48152",
+    "phone": "2948048152"
+  },
+  {
+    "name": "Harpur Shopping Centre",
+    "address": "Horne Ln, Bedford MK40 1TJ, United Kingdom",
+    "phone": "+441234357330"
+  },
+  {
+    "name": "Harper Community Park",
+    "address": "20842 US-290, Harper, TX 78631",
+    "phone": "2084229078631"
+  },
+  {
+    "name": "Stonehenge II at the Hill Country Arts Foundation",
+    "address": "311 E Austin St, Fredericksburg, TX 78624",
+    "phone": "31178624"
+  },
+  {
+    "name": "Harpers Ferry National Historical Park",
+    "address": "211 Pioneer Park St, Harper, TX 78631",
+    "phone": "21178631"
+  },
+  {
+    "name": "Wild Ride Ministries",
+    "address": "4260 N Ranch Rd 783, Harper, TX 78631",
+    "phone": "426078378631"
+  },
+  {
+    "name": "Tres Molinos Ranch & Resort",
+    "address": "37221 RM 187, Vanderpool, TX 78885",
+    "phone": "3722118778885"
+  },
+  {
+    "name": "Guadalupe River State Park",
+    "address": "10619 Old San Antonio Rd, Fredericksburg, TX 78624",
+    "phone": "1061978624"
+  },
+  {
+    "name": "Lost Maples State Natural Area",
+    "address": "120 Point Theatre Rd S, Ingram, TX 78025",
+    "phone": "12078025"
+  },
+  {
+    "name": "National Museum of the Pacific War",
+    "address": "199 Park Road 52, Stonewall, TX 78671",
+    "phone": "1995278671"
+  },
+  {
+    "name": "Old Tunnel State Park",
+    "address": "171 Shoreline Dr, Harpers Ferry, WV 25425",
+    "phone": "17125425"
+  },
+  {
+    "name": "Enchanted Rock State Natural Area",
+    "address": "10750 Pleasanton Rd, San Antonio, TX 78221",
+    "phone": "1075078221"
+  },
+  {
+    "name": "Garner State Park",
+    "address": "2886 TX-16, Bandera, TX 78003",
+    "phone": "28861678003"
+  },
+  {
+    "name": "San Antonio River Walk",
+    "address": "9606 Bandera Rd, San Antonio, TX 78250",
+    "phone": "960678250"
+  },
+  {
+    "name": "The Coming King Sculpture Prayer Gardens",
+    "address": "1125-1119 River Walk, San Antonio, TX 78205",
+    "phone": "1125111978205"
+  },
+  {
+    "name": "JDG Ranch",
+    "address": "113 E Main St, Fredericksburg, TX 78624",
+    "phone": "11378624"
+  },
+  {
+    "name": "The Museum of Western Art",
+    "address": "900 S Ellison Dr, San Antonio, TX 78245",
+    "phone": "90078245"
+  },
+  {
+    "name": "Seaworld San Antonio",
+    "address": "489-551 Harpers Ferry Rd, Knoxville, MD 21758",
+    "phone": "48955121758"
+  },
+  {
+    "name": "Six Flags Fiesta Texas",
+    "address": "304 W San Antonio St, Fredericksburg, TX 78624",
+    "phone": "30478624"
+  },
+  {
+    "name": "Lyndon B. Johnson Historical Park",
+    "address": "7400 San Pedro Ave, San Antonio, TX 78216",
+    "phone": "740078216"
+  },
+  {
+    "name": "South Llano River State Park",
+    "address": "8400 NW Military Hwy, San Antonio, TX 78231",
+    "phone": "840078231"
+  },
+  {
+    "name": "Lower Town Harper's Ferry",
+    "address": "729 State Forest Rd, Harpers Ferry, IA 52146",
+    "phone": "72952146"
+  },
+  {
+    "name": "Harper",
+    "address": "1302 N Crockett St, Fredericksburg, TX 78624",
+    "phone": "130278624"
+  },
+  {
+    "name": "Pioneer Museum",
+    "address": "874 Bakerton Rd, Harpers Ferry, WV 25425",
+    "phone": "87425425"
+  },
+  {
+    "name": "John Brown Wax Museum",
+    "address": "Applewhite Rd, San Antonio, TX 78264",
+    "phone": "2103225571"
+  },
+  {
+    "name": "Friedrich Wilderness Park",
+    "address": "15890 TX-16, San Antonio, TX 78264",
+    "phone": "158901678264"
+  },
+  {
+    "name": "Garrison Brothers Distillery",
+    "address": "Farm to Market 2690, Concan, TX 78838",
+    "phone": "269078838"
+  },
+  {
+    "name": "Maryland Heights",
+    "address": "809 River Walk St, San Antonio, TX 78205",
+    "phone": "80978205"
+  },
+  {
+    "name": "John Brown's Fort",
+    "address": "18300 W Alameda Pkwy, Morrison, CO 80465",
+    "phone": "1830080465"
+  },
+  {
+    "name": "Eckert James River Bat Cave Preserve",
+    "address": "18026 Frank Madla Rd, Helotes, TX 78023",
+    "phone": "1802678023"
+  },
+  {
+    "name": "Armory Canal",
+    "address": "2200 N Flores St, San Antonio, TX 78212",
+    "phone": "220078212"
+  },
+  {
+    "name": "La Villita Historic Village",
+    "address": "703 Buchanan Dr, Burnet, TX 78611",
+    "phone": "70378611"
+  },
+  {
+    "name": "Riverside Nature Center",
+    "address": "9996 US-290, Fredericksburg, TX 78624",
+    "phone": "999629078624"
+  },
+  {
+    "name": "Cascade Caverns",
+    "address": "520 Benson Dr, Kerrville, TX 78028",
+    "phone": "52078028"
+  },
+  {
+    "name": "Honey Creek State Natural Area",
+    "address": "2730 Harper St, Lawrence, KS 66046",
+    "phone": "273066046"
+  },
+  {
+    "name": "Pedernales Cellars",
+    "address": "376 Winn Valley Dr, Wimberley, TX 78676",
+    "phone": "37678676"
+  },
+  {
+    "name": "The Station on 290",
+    "address": "11075 I-10 #126, San Antonio, TX 78230",
+    "phone": "110751012678230"
+  },
+  {
+    "name": "Colorado Bend State Park",
+    "address": "816 Alsace Ave, Castroville, TX 78009",
+    "phone": "81678009"
+  },
+  {
+    "name": "Effigy Mounds National Monument",
+    "address": "715 Camaron St, San Antonio, TX 78204",
+    "phone": "71578204"
+  },
+  {
+    "name": "Historic Fort Martin Scott",
+    "address": "307 Alamo Plaza, San Antonio, TX 78205",
+    "phone": "30778205"
+  },
+  {
+    "name": "Sisters Grimm Ghost Tours",
+    "address": "217 Alamo Plaza, San Antonio, TX 78205",
+    "phone": "21778205"
+  },
+  {
+    "name": "Split Rock",
+    "address": "6955 Northwest Loop 410, San Antonio, TX 78238",
+    "phone": "695541078238"
+  },
+  {
+    "name": "Bit & Bridle Boarding & Training Stables",
+    "address": "807 Mission Rd, San Antonio, TX 78210",
+    "phone": "80778210"
+  },
+  {
+    "name": "Ruins of St. John's Episcopal Church",
+    "address": "24026 US-290, Harper, TX 78631",
+    "phone": "2402629078631"
+  },
+  {
+    "name": "Government Canyon State Natural Area",
+    "address": "Lady Bird Dr, Fredericksburg, TX 78624",
+    "phone": "8309974202"
+  },
+  {
+    "name": "Schoolhouse Ridge South",
+    "address": "1103 Cincinnati Ave, San Antonio, TX 78201",
+    "phone": "110378201"
+  },
+  {
+    "name": "Iron Rattler",
+    "address": "10600 Bandera Creek Rd, Bandera, TX 78003",
+    "phone": "1060078003"
+  },
+  {
+    "name": "Antietam National Battlefield",
+    "address": "849 E Commerce St Suite 910, San Antonio, TX 78205",
+    "phone": "84991078205"
+  },
+  {
+    "name": "Original Site Robert Harper's Ferry",
+    "address": "4838 Old Pearsall Rd, San Antonio, TX 78242",
+    "phone": "483878242"
+  },
+  {
+    "name": "Grape Creek Vineyards",
+    "address": "100 W Main St, Fredericksburg, TX 78624",
+    "phone": "10078624"
+  },
+  {
+    "name": "Aquatica San Antonio",
+    "address": "362 Livesay Ln, Fredericksburg, TX 78624",
+    "phone": "36278624"
+  },
+  {
+    "name": "Leon A Wurl Wildlife Sanctuary",
+    "address": "100 Legacy Dr, Fredericksburg, TX 78624",
+    "phone": "10078624"
+  },
+  {
+    "name": "Longhorn Cafe",
+    "address": "105 Plaza De Armas, San Antonio, TX 78205",
+    "phone": "10578205"
+  },
+  {
+    "name": "Marktplatz von Fredericksburg",
+    "address": "310 W Mitchell St, San Antonio, TX 78204",
+    "phone": "31078204"
+  },
+  {
+    "name": "Harper Cemetery",
+    "address": "39 Potomac St, Harpers Ferry, WV 25425",
+    "phone": "3045356029"
+  },
+  {
+    "name": "John Brown Museum",
+    "address": "6320 Bandera Rd, Leon Valley, TX 78238",
+    "phone": "632078238"
+  },
+  {
+    "name": "iFLY Indoor Skydiving - San Antonio",
+    "address": "15915 I-10, San Antonio, TX 78257",
+    "phone": "159151078257"
+  },
+  {
+    "name": "San Antonio Aquarium",
+    "address": "Shenandoah St, Harpers Ferry, WV 25425",
+    "phone": "3045356029"
+  },
+  {
+    "name": "Spanish Governor's Palace",
+    "address": "126 W Main St, Fredericksburg, TX 78624",
+    "phone": "12678624"
+  },
+  {
+    "name": "White Hall Tavern",
+    "address": "23624 US-290, Harper, TX 78631",
+    "phone": "2362429078631"
+  },
+  {
+    "name": "Wildseed Farms",
+    "address": "10500 SeaWorld Dr, San Antonio, TX 78251",
+    "phone": "1050078251"
+  },
+  {
+    "name": "Signor Vineyards",
+    "address": "Harper Lake, N McCaslin Blvd & Washington Ave, Louisville, CO 80027",
+    "phone": "3036666565"
+  },
+  {
+    "name": "Vereins Kirche Museum",
+    "address": "10587 US-290, Fredericksburg, TX 78624",
+    "phone": "1058729078624"
+  },
+  {
+    "name": "Pearsall Park",
+    "address": "17000 West Interstate 10, San Antonio, TX 78257",
+    "phone": "170001078257"
+  },
+  {
+    "name": "LEGOLAND Discovery Center San Antonio",
+    "address": "302 E Main St, Sharpsburg, MD 21782",
+    "phone": "30221782"
+  },
+  {
+    "name": "Woodlawn Lake Park",
+    "address": "2083 Millville Rd, Harpers Ferry, WV 25425",
+    "phone": "208325425"
+  },
+  {
+    "name": "Lady Bird Johnson Municipal Park",
+    "address": "12861 Galm Rd, San Antonio, TX 78254",
+    "phone": "1286178254"
+  },
+  {
+    "name": "Mission Concepción",
+    "address": "3860 N Ranch Rd 783, Harper, TX 78631",
+    "phone": "386078378631"
+  },
+  {
+    "name": "San Pedro Creek Culture Park",
+    "address": "151 IA-76, Harpers Ferry, IA 52146",
+    "phone": "1517652146"
+  },
+  {
+    "name": "Ripley's Believe It or Not!",
+    "address": "204 Alamo Plaza suite j, San Antonio, TX 78205",
+    "phone": "20478205"
+  },
+  {
+    "name": "The Amazing Mirror Maze",
+    "address": "2236 Park Hill Dr, Bend, TX 76824",
+    "phone": "223676824"
+  },
+  {
+    "name": "Wimberley Zipline Adventures",
+    "address": "1606 E Main St, Fredericksburg, TX 78624",
+    "phone": "160678624"
+  },
+  {
+    "name": "Castroville Regional Park",
+    "address": "2916 Upper Albert Rd, Stonewall, TX 78671",
+    "phone": "291678671"
+  },
+  {
+    "name": "Prairie Park Nature Center",
+    "address": "23717 US Hwy 290 W, Harper, TX 78631",
+    "phone": "2371729078631"
+  },
+  {
+    "name": "Messina Hof Hill Country Winery",
+    "address": "226 Cascade Cavern, Boerne, TX 78015",
+    "phone": "22678015"
+  },
+  {
+    "name": "The Cross at Kerrville",
+    "address": "150 Francisco Lemos St, Kerrville, TX 78028",
+    "phone": "15078028"
+  },
+  {
+    "name": "Lower Bolivar Heights Park",
+    "address": "210 W Market St, San Antonio, TX 78205",
+    "phone": "21078205"
+  },
+  {
+    "name": "San Pedro Springs Park",
+    "address": "130-198 Potomac St, Harpers Ferry, WV 25425",
+    "phone": "13019825425"
+  },
+  {
+    "name": "Helotes Ziplines",
+    "address": "James River Rd, Mason, TX 76856",
+    "phone": "3253475970"
+  },
+  {
+    "name": "Frio Bat Flight Tours",
+    "address": "168 High St, Harpers Ferry, WV 25425",
+    "phone": "16825425"
+  },
+  {
+    "name": "Red Rocks Park and Amphitheatre",
+    "address": "814 Shenandoah St, Harpers Ferry, WV 25425",
+    "phone": "81425425"
+  },
+  {
+    "name": "GO RIO San Antonio River Cruises",
+    "address": "418 Villita St, San Antonio, TX 78205",
+    "phone": "41878205"
+  },
+  {
+    "name": "Donkey Lady Bridge",
+    "address": "171 shoreline drive, Harpers Ferry, WV 25425",
+    "phone": "17125425"
+  },
+  {
+    "name": "Medina River Natural Area",
+    "address": "1827 Hye-Albert Rd, Hye, TX 78635",
+    "phone": "182778635"
+  },
+  {
+    "name": "Reserve Tours",
+    "address": "325 W Main St, Fredericksburg, TX 78624",
+    "phone": "32578624"
+  },
+  {
+    "name": "Schoolhouse Ridge North",
+    "address": "21395 Milsa Dr, San Antonio, TX 78256",
+    "phone": "2139578256"
+  },
+  {
+    "name": "Yellow River State Forest",
+    "address": "10 High St, Charles Town, WV 25414",
+    "phone": null
+  },
+  {
+    "name": "Phil Hardberger Park",
+    "address": "1927 Park Rd 73, Junction, TX 76849",
+    "phone": "19277376849"
+  },
+  {
+    "name": "World’s Largest Cowboy Boots",
+    "address": "1250 Wendel Rd, Harper, TX 78631",
+    "phone": "125078631"
+  },
+  {
+    "name": "O. P. Schnabel Park",
+    "address": "17000 W I-10, San Antonio, TX 78257",
+    "phone": "170001078257"
+  },
+  {
+    "name": "Narrow Path Main Street Tasting Room",
+    "address": "849 E Commerce St, San Antonio, TX 78205",
+    "phone": "84978205"
+  },
+  {
+    "name": "St Mary's Catholic Church",
+    "address": "325 Kreutzberg Rd, Boerne, TX 78006",
+    "phone": "32578006"
+  },
+  {
+    "name": "Maryland Heights Trailhead",
+    "address": "10500 SeaWorld Dr, San Antonio, TX 78251",
+    "phone": "1050078251"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Niles, an IHG Hotel",
+    "address": "23040 Lincolnway W Hwy, South Bend, IN 46628",
+    "phone": "2304046628"
+  },
+  {
+    "name": "Hampton Inn Niles",
+    "address": "1265 S 11th St, Niles, MI 49120",
+    "phone": "12651149120"
+  },
+  {
+    "name": "Quality Inn & Suites Niles",
+    "address": "9729 Red Arrow Hwy, Bridgman, MI 49106",
+    "phone": "972949106"
+  },
+  {
+    "name": "The Morris Estate",
+    "address": "52554 State Hwy 933, South Bend, IN 46637",
+    "phone": "5255493346637"
+  },
+  {
+    "name": "La Quinta Inn & Suites by Wyndham South Bend near Notre Dame",
+    "address": "1446 S 11th St, Niles, MI 49120",
+    "phone": "14461149120"
+  },
+  {
+    "name": "Monogram Inn & Suites",
+    "address": "1140 E Angela Blvd, South Bend, IN 46617",
+    "phone": "114046617"
+  },
+  {
+    "name": "Super 8 by Wyndham South Bend",
+    "address": "1997 Morris Dr, Niles, MI 49120",
+    "phone": "199749120"
+  },
+  {
+    "name": "La Quinta Inn & Suites by Wyndham South Bend",
+    "address": "4124 Ameritech Dr, South Bend, IN 46628",
+    "phone": "412446628"
+  },
+  {
+    "name": "DoubleTree by Hilton Hotel South Bend",
+    "address": "1000 Moore Dr, Niles, MI 49120",
+    "phone": "100049120"
+  },
+  {
+    "name": "Embassy Suites by Hilton South Bend at Notre Dame",
+    "address": "123 N Doctor M.L.K. Jr Blvd, South Bend, IN 46601",
+    "phone": "12346601"
+  },
+  {
+    "name": "The Clover Hotel",
+    "address": "32351 IN-2, New Carlisle, IN 46552",
+    "phone": "32351246552"
+  },
+  {
+    "name": "Ambrose Bed & Breakfast",
+    "address": "2483 Yankee St, Niles, MI 49120",
+    "phone": "248349120"
+  },
+  {
+    "name": "Hampton Inn & Suites South Bend",
+    "address": "3233 Lincoln Way W, South Bend, IN 46628",
+    "phone": "323346628"
+  },
+  {
+    "name": "SpringHill Suites by Marriott South Bend Notre Dame Area",
+    "address": "25419 IN-2, South Bend, IN 46619",
+    "phone": "25419246619"
+  },
+  {
+    "name": "Homewood Suites By Hilton South Bend Notre Dame Area",
+    "address": "9385 Old U.S. 31 S, Berrien Springs, MI 49103",
+    "phone": "93853149103"
+  },
+  {
+    "name": "The Inn at Saint Mary's",
+    "address": "7089 N Chicago Rd, New Carlisle, IN 46552",
+    "phone": "708946552"
+  },
+  {
+    "name": "Art and Lodging",
+    "address": "2325 Portage Rd, Niles, MI 49120",
+    "phone": "232549120"
+  },
+  {
+    "name": "OYO Hotel South Bend - Campus",
+    "address": "50520 State Hwy 933, South Bend, IN 46637",
+    "phone": "5052093346637"
+  },
+  {
+    "name": "The Avanti House",
+    "address": "3113 S 11th St, Niles, MI 49120",
+    "phone": "31131149120"
+  },
+  {
+    "name": "Country Inn & Suites by Radisson, Mishawaka, IN",
+    "address": "25725 US-20, South Bend, IN 46628",
+    "phone": "257252046628"
+  },
+  {
+    "name": "Courtyard by Marriott South Bend Downtown",
+    "address": "508 W Washington St, South Bend, IN 46601",
+    "phone": "50846601"
+  },
+  {
+    "name": "Holiday Inn Express & Suites South Bend - Notre Dame Univ., an IHG Hotel",
+    "address": "1243 S 11th St, Niles, MI 49120",
+    "phone": "12431149120"
+  },
+  {
+    "name": "Aloft South Bend",
+    "address": "103 Henley Trail, Glendora, MI 49107",
+    "phone": "10349107"
+  },
+  {
+    "name": "Varsity Clubs of America- South Bend",
+    "address": "18422 Greenleaf Dr, South Bend, IN 46637",
+    "phone": "1842246637"
+  },
+  {
+    "name": "Country Inn & Suites by Radisson, Mishawaka, IN",
+    "address": "1701 Pucker St Dr, Niles, MI 49120",
+    "phone": "170149120"
+  },
+  {
+    "name": "Fairfield Inn & Suites by Marriott South Bend at Notre Dame",
+    "address": "25200 IN-2, South Bend, IN 46619",
+    "phone": "25200246619"
+  },
+  {
+    "name": "Art and Lodging",
+    "address": "8531 N 650 E, New Carlisle, IN 46552",
+    "phone": "853165046552"
+  },
+  {
+    "name": "Courtyard by Marriott Mishawaka-University Area",
+    "address": "307 E Lasalle Ave, South Bend, IN 46617",
+    "phone": "30746617"
+  },
+  {
+    "name": "The Oliver Inn Bed & Breakfast",
+    "address": "5820 South Franklin Street, 5820 Franklin St, Michigan City, IN 46360",
+    "phone": "5820582046360"
+  },
+  {
+    "name": "Bridgman Inn",
+    "address": "1950 Plantation Row, Baroda, MI 49101",
+    "phone": "195049101"
+  },
+  {
+    "name": "Home2 Suites by Hilton Mishawaka South Bend",
+    "address": "4085 Bear Cave Rd, Buchanan, MI 49107",
+    "phone": "408549107"
+  },
+  {
+    "name": "Candlewood Suites South Bend Airport, an IHG Hotel",
+    "address": "4085 Bear Cave Rd, Buchanan, MI 49107",
+    "phone": "408549107"
+  },
+  {
+    "name": "Quality Inn & Suites South Bend Airport",
+    "address": "1622 E Clear Lake Rd, Buchanan, MI 49107",
+    "phone": "162249107"
+  },
+  {
+    "name": "The Avanti House",
+    "address": "535 W University Dr, Mishawaka, IN 46545",
+    "phone": "53546545"
+  },
+  {
+    "name": "Hampton Inn & Suites Mishawaka/South Bend at Heritage Square",
+    "address": "52860 State Hwy 933, South Bend, IN 46637",
+    "phone": "5286093346637"
+  },
+  {
+    "name": "Microtel Inn & Suites by Wyndham South Bend/At Notre Dame",
+    "address": "1220 E Douglas Rd, Mishawaka, IN 46545",
+    "phone": "122046545"
+  },
+  {
+    "name": "SpringHill Suites by Marriott Mishawaka-University Area",
+    "address": "4134 Lincoln Way W, South Bend, IN 46628",
+    "phone": "413446628"
+  },
+  {
+    "name": "Comfort Suites University Area Notre Dame-South Bend",
+    "address": "4715 N Main St, Mishawaka, IN 46545",
+    "phone": "471546545"
+  },
+  {
+    "name": "SureStay Plus Hotel By Best Western South Bend Notre Dame",
+    "address": "1325 E University Dr, Granger, IN 46530",
+    "phone": "132546530"
+  },
+  {
+    "name": "OYO Hotel South Bend - Campus",
+    "address": "120 W University Dr, Mishawaka, IN 46545",
+    "phone": "12046545"
+  },
+  {
+    "name": "Fairfield Inn & Suites by Marriott South Bend Mishawaka",
+    "address": "5640 N Main St, Mishawaka, IN 46545",
+    "phone": "564046545"
+  },
+  {
+    "name": "Holiday Inn Express & Suites Mishawaka - South Bend, an IHG Hotel",
+    "address": "236 N Dixie Way, Roseland, IN 46637",
+    "phone": "23646637"
+  },
+  {
+    "name": "Best Western Plus Mishawaka Inn",
+    "address": "215 S Dixie Way, South Bend, IN 46637",
+    "phone": "21546637"
+  },
+  {
+    "name": "Rodeway Inn",
+    "address": "5305 N Main St, Mishawaka, IN 46545",
+    "phone": "530546545"
+  },
+  {
+    "name": "Innisfree Bed & Breakfast",
+    "address": "1404 Ivy Ct, South Bend, IN 46637",
+    "phone": "140446637"
+  },
+  {
+    "name": "Suburban Studios South Bend",
+    "address": "445 W University Dr, Mishawaka, IN 46545",
+    "phone": "44546545"
+  },
+  {
+    "name": "Holiday Inn Mishawaka - Conference Center, an IHG Hotel",
+    "address": "1208 E Douglas Rd, Mishawaka, IN 46545",
+    "phone": "120846545"
+  },
+  {
+    "name": "Ivy Court Inn & Suites",
+    "address": "52624 State Hwy 933, South Bend, IN 46637",
+    "phone": "5262493346637"
+  },
+  {
+    "name": "Extended Stay America - South Bend - Mishawaka - North",
+    "address": "52825 State Hwy 933, South Bend, IN 46637",
+    "phone": "5282593346637"
+  },
+  {
+    "name": "Baymont By Wyndham South Bend Notre Dame",
+    "address": "702 W Colfax Ave, South Bend, IN 46601",
+    "phone": "70246601"
+  },
+  {
+    "name": "Comfort Inn & Suites Mishawaka-South Bend",
+    "address": "224 Florence Ave, Granger, IN 46530",
+    "phone": "22446530"
+  },
+  {
+    "name": "Motel 6 South Bend, IN - Mishawaka",
+    "address": "52624 State Hwy 933, South Bend, IN 46637",
+    "phone": "5262493346637"
+  },
+  {
+    "name": "Red Roof Inn South Bend - Mishawaka",
+    "address": "425 N Dixie Way, Roseland, IN 46637",
+    "phone": "42546637"
+  },
+  {
+    "name": "Baymont by Wyndham Mishawaka South Bend Area",
+    "address": "425 W University Dr, Mishawaka, IN 46545",
+    "phone": "42546545"
+  },
+  {
+    "name": "South Bend Suites",
+    "address": "52939 State Hwy 933, South Bend, IN 46637",
+    "phone": "5293993346637"
+  },
+  {
+    "name": "Extended Stay America - South Bend - Mishawaka - South",
+    "address": "222 S Dixie Way, Notre Dame, IN 46556",
+    "phone": "22246556"
+  },
+  {
+    "name": "Sleep Inn South Bend Airport",
+    "address": "5225 Edison Lakes Pkwy, Mishawaka, IN 46545",
+    "phone": "522546545"
+  },
+  {
+    "name": "Candlewood Suites Mishawaka, an IHG Hotel",
+    "address": "7347 Heritage Square Dr, Granger, IN 46530",
+    "phone": "734746530"
+  },
+  {
+    "name": "Quality Inn Mishawaka near Notre Dame",
+    "address": "900 Thomas St, South Bend, IN 46601",
+    "phone": "90046601"
+  },
+  {
+    "name": "Fullers Resort and Campground",
+    "address": "4124 Lincoln Way W, South Bend, IN 46628",
+    "phone": "412446628"
+  },
+  {
+    "name": "Bear Cave Camping Resort",
+    "address": "211 E Day Rd, Mishawaka, IN 46545",
+    "phone": "21146545"
+  },
+  {
+    "name": "Among the Vineyards Bed & Breakfast",
+    "address": "9999 Red Arrow Hwy, Bridgman, MI 49106",
+    "phone": "999949106"
+  },
+  {
+    "name": "Clarion Inn",
+    "address": "630 W Washington St, South Bend, IN 46601",
+    "phone": "63046601"
+  },
+  {
+    "name": "Thousand Trails Bear Cave",
+    "address": "4825 N Main St, Mishawaka, IN 46545",
+    "phone": "482546545"
+  },
+  {
+    "name": "Rainfield Farm",
+    "address": "1012 W Washington St, South Bend, IN 46601",
+    "phone": "101246601"
+  },
+  {
+    "name": "Westwood Motel",
+    "address": "1220 E Angela Blvd, South Bend, IN 46617",
+    "phone": "122046617"
+  },
+  {
+    "name": "Kasa Downtown South Bend",
+    "address": "3916 Lincoln Way W, South Bend, IN 46628",
+    "phone": "391646628"
+  },
+  {
+    "name": "Riverfront Park Campground",
+    "address": "420 W University Dr, Mishawaka, IN 46545",
+    "phone": "42046545"
+  },
+  {
+    "name": "Spaulding Bed & Breakfast",
+    "address": "121 Doctor M.L.K. Jr Blvd, South Bend, IN 46601",
+    "phone": "12146601"
+  },
+  {
+    "name": "Bridle Spur Bed And Breakfast",
+    "address": "120 N Dixie Way, South Bend, IN 46637",
+    "phone": "12046637"
+  },
+  {
+    "name": "Golden Eagle Motel",
+    "address": "420 W University Dr, Mishawaka, IN 46545",
+    "phone": "42046545"
+  },
+  {
+    "name": "Cushing Manor Bed & Breakfast",
+    "address": "3800 N Main St, Mishawaka, IN 46545",
+    "phone": "380046545"
+  },
+  {
+    "name": "Kenrose Motel",
+    "address": "1012 W Washington St, South Bend, IN 46601",
+    "phone": "101246601"
+  },
+  {
+    "name": "The Harvest Bed and Breakfast",
+    "address": "111 N Main St, South Bend, IN 46601",
+    "phone": "11146601"
+  },
+  {
+    "name": "Lakeside RV Resort",
+    "address": "900 Thomas St, South Bend, IN 46601",
+    "phone": "90046601"
+  },
+  {
+    "name": "Relax Inn Motel",
+    "address": "52624 State Hwy 933, South Bend, IN 46637",
+    "phone": "5262493346637"
+  },
+  {
+    "name": "Stephen's Motel",
+    "address": "53993 State Rd 933, South Bend, IN 46637",
+    "phone": "5399393346637"
+  },
+  {
+    "name": "Royal Inn",
+    "address": "52860 State Hwy 933, South Bend, IN 46637",
+    "phone": "5286093346637"
+  },
+  {
+    "name": "Knights Inn South Bend",
+    "address": "52890 State Hwy 933, South Bend, IN 46637",
+    "phone": "5289093346637"
+  },
+  {
+    "name": "Forler's Motel",
+    "address": "1117 W Hinchman Rd, Baroda, MI 49101",
+    "phone": "111749101"
+  },
+  {
+    "name": "Shamrock Park",
+    "address": "52709 Indiana, State Hwy 933, South Bend, IN 46637",
+    "phone": "5270993346637"
+  },
+  {
+    "name": "Mini Mountain Campground",
+    "address": "52721 State Hwy 933, South Bend, IN 46637",
+    "phone": "5272193346637"
+  },
+  {
+    "name": "Cameron's Restaurant",
+    "address": "109 Days Ave, Buchanan, MI 49107",
+    "phone": "10949107"
+  },
+  {
+    "name": "McCoy Creek Tavern",
+    "address": "714 E Front St, Buchanan, MI 49107",
+    "phone": "71449107"
+  },
+  {
+    "name": "Hilltop Cafe",
+    "address": "215 E Front St, Buchanan, MI 49107",
+    "phone": "21549107"
+  },
+  {
+    "name": "Tasty Chen's Restaurant",
+    "address": "254 E Front St, Buchanan, MI 49107",
+    "phone": "25449107"
+  },
+  {
+    "name": "Gary Z's Sub Shop",
+    "address": "817 E Front St, Buchanan, MI 49107",
+    "phone": "81749107"
+  },
+  {
+    "name": "Pizza Hut",
+    "address": "1021 W Front St, Buchanan, MI 49107",
+    "phone": "102149107"
+  },
+  {
+    "name": "Union Coffee House & Cafe",
+    "address": "708 E Front St, Buchanan, MI 49107",
+    "phone": "70849107"
+  },
+  {
+    "name": "Milano's Pizza",
+    "address": "813 E Front St, Buchanan, MI 49107",
+    "phone": "81349107"
+  },
+  {
+    "name": "Cafe Italiano at The Sweet Shop",
+    "address": "205 E Front St, Buchanan, MI 49107",
+    "phone": "20549107"
+  },
+  {
+    "name": "McDonald's",
+    "address": "115 E Front St, Buchanan, MI 49107",
+    "phone": "11549107"
+  },
+  {
+    "name": "Subway",
+    "address": "15475 Walton Rd, Buchanan, MI 49107",
+    "phone": "1547549107"
+  },
+  {
+    "name": "River Saint Joe",
+    "address": "15212 Red Bud Trail N, Buchanan, MI 49107",
+    "phone": "1521249107"
+  },
+  {
+    "name": "Lehman's Brewery & Farmhouse",
+    "address": "185 Mt Tabor Rd, Buchanan, MI 49107",
+    "phone": "18549107"
+  },
+  {
+    "name": "Fifteen 2 Twelve/ Evelyn Mae's BBQ",
+    "address": "204 Red Bud Trail N, Buchanan, MI 49107",
+    "phone": "20449107"
+  },
+  {
+    "name": "Tabor Hill Winery & Restaurant",
+    "address": "714 E Front St, Buchanan, MI 49107",
+    "phone": "71449107"
+  },
+  {
+    "name": "Erskine Village",
+    "address": "560 W Ireland Rd, South Bend, IN 46614",
+    "phone": "56046614"
+  },
+  {
+    "name": "Centennial Place of Mishawaka",
+    "address": "5948 Grape Rd, Mishawaka, IN 46545",
+    "phone": "594846545"
+  },
+  {
+    "name": "Town & Country Shopping Center",
+    "address": "238 W Cleveland Rd, Granger, IN 46530",
+    "phone": "23846530"
+  },
+  {
+    "name": "Indian Ridge Plaza of Mishawaka",
+    "address": "6502 Grape Rd, Mishawaka, IN 46545",
+    "phone": "650246545"
+  },
+  {
+    "name": "University Crossings Shopping Center of Mishawaka",
+    "address": "620 W Edison Rd, Mishawaka, IN 46545",
+    "phone": "62046545"
+  },
+  {
+    "name": "Princess City Plaza",
+    "address": "4410 Grape Rd, Mishawaka, IN 46545",
+    "phone": "441046545"
+  },
+  {
+    "name": "University Center",
+    "address": "1240 E Ireland Rd, South Bend, IN 46614",
+    "phone": "124046614"
+  },
+  {
+    "name": "St Andrews Plaza",
+    "address": "6501 Grape Rd, Mishawaka, IN 46545",
+    "phone": "650146545"
+  },
+  {
+    "name": "University Park Mall",
+    "address": "2400 Miracle Lane, Mishawaka, IN 46545",
+    "phone": "240046545"
+  },
+  {
+    "name": "Erskine Commons 560 Bldg Marque",
+    "address": "400 E University Dr, Mishawaka, IN 46545",
+    "phone": "40046545"
+  },
+  {
+    "name": "Wilshire Plaza of Mishawaka",
+    "address": "732 S 11th St, Niles, MI 49120",
+    "phone": "7321149120"
+  },
+  {
+    "name": "Edison Plaza",
+    "address": "109 N 3rd St, Niles, MI 49120",
+    "phone": "109349120"
+  },
+  {
+    "name": "Jms Plaza",
+    "address": "621 E Main St, Niles, MI 49120",
+    "phone": "62149120"
+  },
+  {
+    "name": "Eddy Street Commons",
+    "address": "20 E Main St, Niles, MI 49120",
+    "phone": "2696844400"
+  },
+  {
+    "name": "Toscana Park",
+    "address": "410 N 2nd St, Niles, MI 49120",
+    "phone": "410249120"
+  },
+  {
+    "name": "7Engines of Buchanan Cannabis Store",
+    "address": "125 Swedesford Rd, Wayne, PA 19087",
+    "phone": "12519087"
+  },
+  {
+    "name": "Zen Leaf Buchanan",
+    "address": "2610 Red Bud Trail, Niles, MI 49120",
+    "phone": "261049120"
+  },
+  {
+    "name": "Green Oak Village Place",
+    "address": "13988 Range Line Rd, Niles, MI 49120",
+    "phone": "1398849120"
+  },
+  {
+    "name": "Raw Oats.",
+    "address": "14056 Red Bud Trail N, Buchanan, MI 49107",
+    "phone": "1405649107"
+  },
+  {
+    "name": "Arborland Center",
+    "address": "2841 Niles Buchanan Rd, Buchanan, MI 49107",
+    "phone": "284149107"
+  },
+  {
+    "name": "GROMART",
+    "address": "2423 S 11th St, Niles, MI 49120",
+    "phone": "24231149120"
+  },
+  {
+    "name": "Union Coffee House & Cafe",
+    "address": "7321 Heritage Square Dr #150, Granger, IN 46530",
+    "phone": "732115046530"
+  },
+  {
+    "name": "Timeframe Mini Storage",
+    "address": "2809 S 11th St, Niles, MI 49120",
+    "phone": "28091149120"
+  },
+  {
+    "name": "Nickels Arcade",
+    "address": "44175 W 12 Mile Rd, Novi, MI 48377",
+    "phone": "441751248377"
+  },
+  {
+    "name": "Briarwood Mall",
+    "address": "7804 Abercorn Extention, Savannah, GA 31406",
+    "phone": "780431406"
+  },
+  {
+    "name": "Fairlane Town Center",
+    "address": "109 Days Ave, Buchanan, MI 49107",
+    "phone": "10949107"
+  },
+  {
+    "name": "Arbor Hills",
+    "address": "15565 Walton Rd, Buchanan, MI 49107",
+    "phone": "1556549107"
+  },
+  {
+    "name": "West Branch Outlet",
+    "address": "708 E Front St, Buchanan, MI 49107",
+    "phone": "70849107"
+  },
+  {
+    "name": "Todd's Place",
+    "address": "16689 Bakertown Rd, Buchanan, MI 49107",
+    "phone": "1668949107"
+  },
+  {
+    "name": "Novi Town Center",
+    "address": "580 Forest Ave, Plymouth, MI 48170",
+    "phone": "58048170"
+  },
+  {
+    "name": "Westland Shopping Center",
+    "address": "3100 Fairlane Dr, Allen Park, MI 48101",
+    "phone": "310048101"
+  },
+  {
+    "name": "River of Life Yoga LLC",
+    "address": "15565 Walton Rd, Buchanan, MI 49107",
+    "phone": "1556549107"
+  },
+  {
+    "name": "Redbud Hardware",
+    "address": "516 W Front St, Buchanan, MI 49107",
+    "phone": "51649107"
+  },
+  {
+    "name": "Twelve Oaks Mall",
+    "address": "37700 Six Mile Rd, Livonia, MI 48152",
+    "phone": "3770048152"
+  },
+  {
+    "name": "Walnut Hill Decor",
+    "address": "254 E Front St, Buchanan, MI 49107",
+    "phone": "25449107"
+  },
+  {
+    "name": "Reggie's Barrel of Monkeys",
+    "address": "218 N 2nd St, Niles, MI 49120",
+    "phone": "218249120"
+  },
+  {
+    "name": "Notre Dame Outlet Center",
+    "address": "1610 N Ironwood Dr, South Bend, IN 46635",
+    "phone": "161046635"
+  },
+  {
+    "name": "Kerrytown Market & Shops",
+    "address": "407 N 5th Ave, Ann Arbor, MI 48104",
+    "phone": "407548104"
+  },
+  {
+    "name": "Brighton Mall",
+    "address": "8571 Grand River Ave, Brighton, MI 48116",
+    "phone": "857148116"
+  },
+  {
+    "name": "Gary Z's Sub Shop",
+    "address": "11650 Hills Rd, Buchanan, MI 49107",
+    "phone": "1165049107"
+  },
+  {
+    "name": "Buchanan Floral Company & Greenhouses",
+    "address": "113 Main St, Buchanan, MI 49107",
+    "phone": "11349107"
+  },
+  {
+    "name": "Divine Cortex",
+    "address": "266 E Front St, Buchanan, MI 49107",
+    "phone": "26649107"
+  },
+  {
+    "name": "Laurel Park Place",
+    "address": "27500 Novi Rd, Novi, MI 48377",
+    "phone": "2750048377"
+  },
+  {
+    "name": "PADNOS",
+    "address": "35000 Warren Rd, Westland, MI 48185",
+    "phone": "3500048185"
+  },
+  {
+    "name": "Fairlane Green",
+    "address": "12240 Beyer Rd, Birch Run, MI 48415",
+    "phone": "1224048415"
+  },
+  {
+    "name": "Westchester Square Mall",
+    "address": "701 S Red Bud Trail, Buchanan, MI 49107",
+    "phone": "70149107"
+  },
+  {
+    "name": "Hilltop Cafe",
+    "address": "43259 Crescent Blvd, Novi, MI 48375",
+    "phone": "4325948375"
+  },
+  {
+    "name": "GP Manufacturing Inc",
+    "address": "2990 Cook Rd, West Branch, MI 48661",
+    "phone": "299048661"
+  },
+  {
+    "name": "No Pot DUI",
+    "address": "18900 Michigan Ave, Dearborn, MI 48126",
+    "phone": "1890048126"
+  },
+  {
+    "name": "drugg13 productions",
+    "address": "3010 Washtenaw Ave Ste 3070, Ann Arbor, MI 48104",
+    "phone": "3010307048104"
+  },
+  {
+    "name": "Milano's Pizza",
+    "address": "117 W Front St, Buchanan, MI 49107",
+    "phone": "11749107"
+  },
+  {
+    "name": "GLR Advanced Recycling - Cars",
+    "address": "100 Briarwood Cir, Ann Arbor, MI 48108",
+    "phone": "10048108"
+  },
+  {
+    "name": "Picker's Paradise Antique Mall",
+    "address": "13545 Eureka Rd, Southgate, MI 48195",
+    "phone": "1354548195"
+  },
+  {
+    "name": "Twelve Mile Crossing at Fountain Walk",
+    "address": "801 E Front St, Buchanan, MI 49107",
+    "phone": "80149107"
+  },
+  {
+    "name": "Oglethorpe Mall",
+    "address": "326 S State St, Ann Arbor, MI 48104",
+    "phone": "32648104"
+  },
+  {
+    "name": "Heritage Square of Mishawaka",
+    "address": "115 E Front St, Buchanan, MI 49107",
+    "phone": "11549107"
+  },
+  {
+    "name": "Orchard Hills Country Club",
+    "address": "5335 N Main St, Mishawaka, IN 46545",
+    "phone": "533546545"
+  },
+  {
+    "name": "Weldy Sales & Services",
+    "address": "113 E Front St, Buchanan, MI 49107",
+    "phone": "11349107"
+  },
+  {
+    "name": "Jade Willow Soy Products",
+    "address": "3600 Washtenaw Ave, Ann Arbor, MI 48104",
+    "phone": "360048104"
+  },
+  {
+    "name": "Heroland Comics",
+    "address": "S Oak St, Buchanan, MI 49107",
+    "phone": "2696953291"
+  },
+  {
+    "name": "Fernwood Botanical Garden",
+    "address": "9608 Village Pl Blvd, Brighton, MI 48116",
+    "phone": "960848116"
+  },
+  {
+    "name": "Reese Walter Creations",
+    "address": "259 E Front St, Buchanan, MI 49107",
+    "phone": "25949107"
+  },
+  {
+    "name": "The Gilded Gift Co.",
+    "address": "1101 E Front St, Buchanan, MI 49107",
+    "phone": "110149107"
+  },
+  {
+    "name": "Vite Greenhouses",
+    "address": "802 E Front St, Buchanan, MI 49107",
+    "phone": "80249107"
+  },
+  {
+    "name": "Goddess of the Moon Leatherworks",
+    "address": "205 E Front St, Buchanan, MI 49107",
+    "phone": "20549107"
+  },
+  {
+    "name": "LakeTurboPC",
+    "address": "4710 Niles Buchanan Rd, Buchanan, MI 49107",
+    "phone": "471049107"
+  },
+  {
+    "name": "Gateway Shopping Center",
+    "address": "804 E Front St, Buchanan, MI 49107",
+    "phone": "80449107"
+  },
+  {
+    "name": "Naomi.",
+    "address": "120 E Front St, Buchanan, MI 49107",
+    "phone": "12049107"
+  },
+  {
+    "name": "Milton's Cabinet Shop, Inc.",
+    "address": "3532 Village Ct, Gary, IN 46408",
+    "phone": "353246408"
+  },
+  {
+    "name": "Bob The Bug Guy",
+    "address": "Washtenaw Ave, Ann Arbor, MI 48104",
+    "phone": null
+  },
+  {
+    "name": "ModernGrowing",
+    "address": "120 E Front St, Buchanan, MI 49107",
+    "phone": "12049107"
+  },
+  {
+    "name": "Holder Life Creations",
+    "address": "1681 M-139, Benton Harbor, MI 49022",
+    "phone": "168113949022"
+  },
+  {
+    "name": "Rent-A-Center",
+    "address": "314 Toscana Blvd, Granger, IN 46530",
+    "phone": "31446530"
+  },
+  {
+    "name": "Dollar General",
+    "address": "1800 Pipestone Rd, Benton Harbor, MI 49022",
+    "phone": "180049022"
+  },
+  {
+    "name": "Atomy Korean Products",
+    "address": "1234 N Eddy St, South Bend, IN 46617",
+    "phone": "123446617"
+  },
+  {
+    "name": "Evolve",
+    "address": "2202 S Bend Ave, South Bend, IN 46635",
+    "phone": "220246635"
+  },
+  {
+    "name": "Pears Mill",
+    "address": "201 Chapin St, South Bend, IN 46601",
+    "phone": "20146601"
+  },
+  {
+    "name": "Mud Lake Bog Nature Preserve",
+    "address": "121 S Oak St, Buchanan, MI 49107",
+    "phone": "12149107"
+  },
+  {
+    "name": "Buchanan Common",
+    "address": "100 Moose Krause Cir, Notre Dame, IN 46556",
+    "phone": "10046556"
+  },
+  {
+    "name": "McCoy Creek Trail",
+    "address": "13988 Range Line Rd, Niles, MI 49120",
+    "phone": "1398849120"
+  },
+  {
+    "name": "Buchanan Swinging Bridge",
+    "address": "4085 Bear Cave Rd, Buchanan, MI 49107",
+    "phone": "408549107"
+  },
+  {
+    "name": "Fernwood Botanical Garden",
+    "address": "S Oak St, Buchanan, MI 49107",
+    "phone": "2696953291"
+  },
+  {
+    "name": "Studebaker National Museum",
+    "address": "209 Schirmer Pkwy, Buchanan, MI 49107",
+    "phone": "20949107"
+  },
+  {
+    "name": "Indiana Dunes National Park",
+    "address": "1215 N State Rd 49, Porter, IN 46304",
+    "phone": "12154946304"
+  },
+  {
+    "name": "Thousand Trails Bear Cave",
+    "address": "19908 Main St, Buchanan, VA 24066",
+    "phone": "1990824066"
+  },
+  {
+    "name": "Snite Museum of Art",
+    "address": "905 E Elm Valley Rd, Buchanan, MI 49107",
+    "phone": "90549107"
+  },
+  {
+    "name": "Buchanan",
+    "address": "9001 E Lincoln Hwy, Crown Point, IN 46307",
+    "phone": "900146307"
+  },
+  {
+    "name": "St. Patrick's County Park",
+    "address": "107 E Michigan Ave, Marshall, MI 49068",
+    "phone": "10749068"
+  },
+  {
+    "name": "Potawatomi Zoo",
+    "address": "8619 W Ml Ave, Kalamazoo, MI 49009",
+    "phone": "861949009"
+  },
+  {
+    "name": "River Saint Joe",
+    "address": "415 Lake Blvd, St Joseph, MI 49085",
+    "phone": "41549085"
+  },
+  {
+    "name": "McCoy Creek Tavern",
+    "address": "S Niles Ave, South Bend, IN 46617",
+    "phone": "5742994765"
+  },
+  {
+    "name": "Tabor Hill Winery & Restaurant",
+    "address": "631 Washington St, Michigan City, IN 46360",
+    "phone": "63146360"
+  },
+  {
+    "name": "Roti Roti Art Center of Buchanan",
+    "address": "325 E Front St Suite 118, Buchanan, MI 49107",
+    "phone": "32511849107"
+  },
+  {
+    "name": "Warren Dunes State Park",
+    "address": "813 E Front St, Buchanan, MI 49107",
+    "phone": "81349107"
+  },
+  {
+    "name": "Indiana Dunes State Park",
+    "address": "31748-32498, Frost St, Dowagiac, MI 49047",
+    "phone": "317483249849047"
+  },
+  {
+    "name": "Legend Park",
+    "address": "1201 E 1000 N, La Porte, IN 46350",
+    "phone": "1201100046350"
+  },
+  {
+    "name": "Potato Creek State Park",
+    "address": "0185 S Holmesville Rd, La Porte, IN 46350",
+    "phone": "018546350"
+  },
+  {
+    "name": "Grand Mere State Park",
+    "address": "114 E Front St, Buchanan, MI 49107",
+    "phone": "11449107"
+  },
+  {
+    "name": "Lehman's Brewery & Farmhouse",
+    "address": "450 W 100 N, Valparaiso, IN 46385",
+    "phone": "45010046385"
+  },
+  {
+    "name": "Galien River County Park",
+    "address": "1426 W Main St, Albion, IN 46701",
+    "phone": "142646701"
+  },
+  {
+    "name": "Basilica of the Sacred Heart",
+    "address": "127 W Lake Front Dr, Michigan City, IN 46360",
+    "phone": "12746360"
+  },
+  {
+    "name": "Hickory Creek Winery",
+    "address": "10220 Lauer Rd, Baroda, MI 49101",
+    "phone": "1022049101"
+  },
+  {
+    "name": "Niles Scream Park",
+    "address": "200 S Rose St, Kalamazoo, MI 49007",
+    "phone": "20049007"
+  },
+  {
+    "name": "Love Creek Nature Center",
+    "address": "100 Riverwalk Dr, Portage, IN 46368",
+    "phone": "10046368"
+  },
+  {
+    "name": "Mishawaka Riverwalk",
+    "address": "S Broadway, Chesterton, IN 46304",
+    "phone": "2193951882"
+  },
+  {
+    "name": "Notre Dame- Mary Atop the Golden Dome",
+    "address": "850 W Osterhout Ave, Portage, MI 49002",
+    "phone": "85049002"
+  },
+  {
+    "name": "Washington Park Zoo",
+    "address": "1302 E Lincoln Ave, Goshen, IN 46528",
+    "phone": "130246528"
+  },
+  {
+    "name": "High Profile of Buchanan Dispensary",
+    "address": "314 S Park St, Kalamazoo, MI 49007",
+    "phone": "31449007"
+  },
+  {
+    "name": "McCoy Creek",
+    "address": "9410 Old Lincoln Hwy, Hobart, IN 46342",
+    "phone": "941046342"
+  },
+  {
+    "name": "Pinnacle Emporium Provisioning Center",
+    "address": "266 E Front St, Buchanan, MI 49107",
+    "phone": "26649107"
+  },
+  {
+    "name": "The History Museum",
+    "address": "376 N County Line Rd, Gary, IN 46403",
+    "phone": "37646403"
+  },
+  {
+    "name": "Brookwood Golf Course",
+    "address": "716 S Kalamazoo St, Paw Paw, MI 49079",
+    "phone": "71649079"
+  },
+  {
+    "name": "7Engines of Buchanan Cannabis Store",
+    "address": "9202 E Michigan Ave, Galesburg, MI 49053",
+    "phone": "920249053"
+  },
+  {
+    "name": "Gilmore Car Museum",
+    "address": "200 E Sycamore St, Elkhart, IN 46516",
+    "phone": "20046516"
+  },
+  {
+    "name": "Buchanan Town Park",
+    "address": "23033 Co Rd 45, Goshen, IN 46528",
+    "phone": "230334546528"
+  },
+  {
+    "name": "Kellogg Bird Sanctuary",
+    "address": "721 S Main St, Elkhart, IN 46516",
+    "phone": "72146516"
+  },
+  {
+    "name": "Tin Shop Theatre",
+    "address": "333 Broad St, St Joseph, MI 49085",
+    "phone": "33349085"
+  },
+  {
+    "name": "Fort Custer Recreation Area",
+    "address": "899 E U Ave, Vicksburg, MI 49097",
+    "phone": "89949097"
+  },
+  {
+    "name": "South Bend Museum of Art",
+    "address": "295 E Mishawaka Ave, Mishawaka, IN 46545",
+    "phone": "29546545"
+  },
+  {
+    "name": "Cannavista Wellness",
+    "address": "500 E 3rd St, Buchanan, MI 49107",
+    "phone": "500349107"
+  },
+  {
+    "name": "Kalamazoo Valley Museum",
+    "address": "7000 N Westnedge Ave, Kalamazoo, MI 49009",
+    "phone": "700049009"
+  },
+  {
+    "name": "Zen Leaf Buchanan",
+    "address": "324 E Dewey St #210, Buchanan, MI 49107",
+    "phone": "32421049107"
+  },
+  {
+    "name": "Hilltop Cafe",
+    "address": "4710 Niles Buchanan Rd, Buchanan, MI 49107",
+    "phone": "471049107"
+  },
+  {
+    "name": "Union Coffee House & Cafe",
+    "address": "1600 W Market St, Nappanee, IN 46550",
+    "phone": "160046550"
+  },
+  {
+    "name": "CLERK - BUCHANAN CITY",
+    "address": "15565 Walton Rd, Buchanan, MI 49107",
+    "phone": "1556549107"
+  },
+  {
+    "name": "Buchanan",
+    "address": "23960 Ruggles Rd, South Haven Charter Twp, MI 49090",
+    "phone": "2396049090"
+  },
+  {
+    "name": "Howard Park",
+    "address": "9145 Union Pier Rd, Union Pier, MI 49129",
+    "phone": "914549129"
+  },
+  {
+    "name": "Buchanan District Library",
+    "address": "1915 Cassopolis St, Elkhart, IN 46514",
+    "phone": "191546514"
+  },
+  {
+    "name": "Wellfield Botanic Gardens",
+    "address": "333 Broad St, St Joseph, MI 49085",
+    "phone": "33349085"
+  },
+  {
+    "name": "Curious Kids' Discovery Zone",
+    "address": "108 E Front St, Buchanan, MI 49107",
+    "phone": "10849107"
+  },
+  {
+    "name": "RV Hall of Fame & Museum",
+    "address": "1011 N Main St, Elkhart, IN 46514",
+    "phone": "101146514"
+  },
+  {
+    "name": "Pure Rituals Salon",
+    "address": "128 E Front St, Buchanan, MI 49107",
+    "phone": "12849107"
+  },
+  {
+    "name": "St. Julian Winery & Distillery Tasting Room",
+    "address": "21565 Executive Pkwy, Elkhart, IN 46514",
+    "phone": "2156546514"
+  },
+  {
+    "name": "Hall of Heroes Superhero Museum",
+    "address": "302 Red Bud Trail N, Buchanan, MI 49107",
+    "phone": "30249107"
+  },
+  {
+    "name": "Van Buren State Park",
+    "address": "520-598 Lake Blvd, St Joseph, MI 49085",
+    "phone": "52059849085"
+  },
+  {
+    "name": "PADNOS",
+    "address": "219 S St Louis Blvd, South Bend, IN 46617",
+    "phone": "21946617"
+  },
+  {
+    "name": "Harding's Market",
+    "address": "115 E Front St, Buchanan, MI 49107",
+    "phone": "11549107"
+  },
+  {
+    "name": "Buchanan Area Chamber of Commerce",
+    "address": "259 E Front St, Buchanan, MI 49107",
+    "phone": "25949107"
+  },
+  {
+    "name": "Kalamazoo Nature Center",
+    "address": "708 E Front St, Buchanan, MI 49107",
+    "phone": "70849107"
+  },
+  {
+    "name": "The Barns at Nappanee",
+    "address": "120 E Front St, Buchanan, MI 49107",
+    "phone": "12049107"
+  },
+  {
+    "name": "Grotto of Our Lady of Lourdes",
+    "address": "230 N Rose St, Kalamazoo, MI 49007",
+    "phone": "23049007"
+  },
+  {
+    "name": "Central Park",
+    "address": "101 Broad St, St Joseph, MI 49085",
+    "phone": "10149085"
+  },
+  {
+    "name": "Prairie View County Park",
+    "address": "120 Doctor M.L.K. Jr Blvd, South Bend, IN 46601",
+    "phone": "12046601"
+  },
+  {
+    "name": "Redbud Fitness & Lifestyle Center",
+    "address": "485 Lowe St, Buchanan, VA 24066",
+    "phone": "48524066"
+  },
+  {
+    "name": "Silver Beach Carousel",
+    "address": "6865 W Hickory Rd, Hickory Corners, MI 49060",
+    "phone": "686549060"
+  },
+  {
+    "name": "National New York Central Railroad Museum",
+    "address": "108 East Roe St, Buchanan, MI 49107",
+    "phone": "10849107"
+  },
+  {
+    "name": "Island Park",
+    "address": "12685 E C Ave, Augusta, MI 49012",
+    "phone": "1268549012"
+  },
+  {
+    "name": "Ox Bow Park",
+    "address": "5163 Fort Custer Dr, Augusta, MI 49012",
+    "phone": "516349012"
+  },
+  {
+    "name": "Redbud Hardware",
+    "address": "1101 E Front St, Buchanan, MI 49107",
+    "phone": "110149107"
+  },
+  {
+    "name": "Access to West Beach - Indiana Dunes National Park",
+    "address": "808 W Washington St, South Bend, IN 46601",
+    "phone": "80846601"
+  },
+  {
+    "name": "St. Julian Winery & Distillery",
+    "address": "221 E Front St, Buchanan, MI 49107",
+    "phone": "22149107"
+  },
+  {
+    "name": "River Oaks County Park",
+    "address": "1339 Rynearson St, Buchanan, MI 49107",
+    "phone": "133949107"
+  },
+  {
+    "name": "Deep River County Park",
+    "address": "804 E Front St, Buchanan, MI 49107",
+    "phone": "80449107"
+  },
+  {
+    "name": "Abshire Park",
+    "address": "115 Lake Shore Dr, Michigan City, IN 46360",
+    "phone": "11546360"
+  },
+  {
+    "name": "Kalamazoo Institute of Arts",
+    "address": "N Spring St, Mishawaka, IN 46544",
+    "phone": "5742581664"
+  },
+  {
+    "name": "Indiana Dunes National Park Great Marsh Trail",
+    "address": "Main Building, Notre Dame, IN 46556",
+    "phone": "5746318065"
+  },
+  {
+    "name": "Portage Lakefront & Riverwalk",
+    "address": "9292 Huckleberry Rd #9736, Berrien Center, MI 49102",
+    "phone": "9292973649102"
+  },
+  {
+    "name": "Bronson Park",
+    "address": "750 Browntown Rd, Buchanan, MI 49107",
+    "phone": "75049107"
+  },
+  {
+    "name": "Black Pine Animal Sanctuary",
+    "address": "101 Basilica Dr, Notre Dame, IN 46556",
+    "phone": "10146556"
+  },
+  {
+    "name": "1933 Chicago World's Fair Century of Progress Homes",
+    "address": "204 Red Bud Trail N, Buchanan, MI 49107",
+    "phone": "20449107"
+  },
+  {
+    "name": "Gravity Vineyards and Winery",
+    "address": "855 Mayflower Rd, Niles, MI 49120",
+    "phone": "85549120"
+  },
+  {
+    "name": "Gabis Arboretum at Purdue Northwest",
+    "address": "17424 Red Arrow Hwy, New Buffalo, MI 49117",
+    "phone": "1742449117"
+  },
+  {
+    "name": "Alan Robandt Antique, Vintage, & Modern",
+    "address": "7337 Thornton Dr, Stevensville, MI 49127",
+    "phone": "733749127"
+  },
+  {
+    "name": "Red Mill County Park",
+    "address": "14130 McKinley Hwy, Mishawaka, IN 46545",
+    "phone": "1413046545"
+  },
+  {
+    "name": "Dowagiac Woods Nature Sanctuary",
+    "address": "25601 IN-4, North Liberty, IN 46554",
+    "phone": "25601446554"
+  },
+  {
+    "name": "McDonald's",
+    "address": "117 W Front St, Buchanan, MI 49107",
+    "phone": "11749107"
+  },
+  {
+    "name": "DPM Events",
+    "address": "1600 N 25 E, Chesterton, IN 46304",
+    "phone": "16002546304"
+  },
+  {
+    "name": "Hesston Steam Museum",
+    "address": "185 Mt Tabor Rd, Buchanan, MI 49107",
+    "phone": "18549107"
+  },
+  {
+    "name": "Barker Mansion",
+    "address": "12032 Red Arrow Hwy, Sawyer, MI 49125",
+    "phone": "1203249125"
+  },
+  {
+    "name": "Seitz Park",
+    "address": "215 E Front St, Buchanan, MI 49107",
+    "phone": "21549107"
+  },
+  {
+    "name": "American Museum of Magic",
+    "address": "15475 Walton Rd, Buchanan, MI 49107",
+    "phone": "1547549107"
+  },
+  {
+    "name": "Curious Kids' Museum is temporarily closed - please visit the Curious Kids' Discovery Zone",
+    "address": "500 S Greenlawn Ave, South Bend, IN 46615",
+    "phone": "50046615"
+  },
+  {
+    "name": "Deep River Waterpark",
+    "address": "50651 Laurel Rd, South Bend, IN 46637",
+    "phone": "5065146637"
+  }
+]
