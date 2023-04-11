@@ -1,0 +1,4719 @@
+[
+  {
+    "name": "De Vagebond Hotel Pension",
+    "address": "B1 Western Bypass, Windhoek, Namibia",
+    "phone": "+264612055911"
+  },
+  {
+    "name": "Hotel Pension Steiner",
+    "address": "Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461248300"
+  },
+  {
+    "name": "Hilton Windhoek",
+    "address": "Simpson Street, Windhoek, Namibia",
+    "phone": "+26461303699"
+  },
+  {
+    "name": "Avani Windhoek Hotel & Casino",
+    "address": "Rev Michael Scott St, Windhoek, Namibia",
+    "phone": "+264612962929"
+  },
+  {
+    "name": "Protea by Marriott Hotel Windhoek Fürstenhof",
+    "address": "13 Jan Jonker, Windhoek, Namibia",
+    "phone": "+264612090900"
+  },
+  {
+    "name": "Windhoek Country Club Resort",
+    "address": "Heinitzburg Street, Windhoek, Namibia",
+    "phone": "+26461249597"
+  },
+  {
+    "name": "The Weinberg Hotel, Gondwana Collection Namibia",
+    "address": "76 Dr. Kwame Nkrumah Street, Windhoek, Namibia",
+    "phone": "+26461258867"
+  },
+  {
+    "name": "Heinitzburg",
+    "address": "4 Dr. Frans Indongo Street, Windhoek, Namibia",
+    "phone": "+26461237380"
+  },
+  {
+    "name": "Hotel Thuringerhof",
+    "address": "Corner of Independence Avenue & Mburumba Street, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461226031"
+  },
+  {
+    "name": "Windhoek Palm Hotel",
+    "address": "Gustav Voigts Centre, 129 Independence Ave, Windhoek, Namibia",
+    "phone": "+264612800000"
+  },
+  {
+    "name": "Tenbergen Pension",
+    "address": "c/o Gous &, Fritsche Street, Windhoek, Namibia",
+    "phone": "+26461249623"
+  },
+  {
+    "name": "Marigold Hotel",
+    "address": "Centaurus Street, Windhoek, Namibia",
+    "phone": "+26461248300"
+  },
+  {
+    "name": "Arebbusch Travel Lodge",
+    "address": "13 Jan Jonker, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Thule",
+    "address": "5 Irle, Windhoek, Namibia",
+    "phone": "+26461233834"
+  },
+  {
+    "name": "Ti Melen Boutique Guesthouse",
+    "address": "Luxury Hill, 10005, 11 Chateau Street, Windhoek, Namibia",
+    "phone": "+264812117252"
+  },
+  {
+    "name": "Auas City Hotel",
+    "address": "11 Robert Mugabe Ave, Windhoek, Namibia",
+    "phone": "+26461251340"
+  },
+  {
+    "name": "Villa Vista Guesthouse",
+    "address": "Brits Street, Windhoek, Namibia",
+    "phone": "+264814481222"
+  },
+  {
+    "name": "Hotel Pension Steiner",
+    "address": "entrance in, Corner Beethoven & Brahms Street, 13388, Beethoven Street, Windhoek, Namibia",
+    "phone": "+264612072233"
+  },
+  {
+    "name": "The Windhoek Luxury Suites",
+    "address": "Von Golddammer Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "The Olive Exclusive All-Suite Hotel",
+    "address": "18 Stein St, Windhoek, Namibia",
+    "phone": "+264855271520"
+  },
+  {
+    "name": "Hotel Pension Palmquell",
+    "address": "C/o Heliodoor & Omuramba (Genl Murtala Muhammad) Street, Windhoek, Namibia",
+    "phone": "+264811248958"
+  },
+  {
+    "name": "Livega House",
+    "address": "151 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461224608"
+  },
+  {
+    "name": "Arebbusch Travel Lodge",
+    "address": "Johann Albrecht Street, Windhoek, Namibia",
+    "phone": "+264817197928"
+  },
+  {
+    "name": "Olive Grove Guesthouse",
+    "address": "45 Schlettwein Street, Windhoek, Namibia",
+    "phone": "+264817380613"
+  },
+  {
+    "name": "Hotel Pension Steiner",
+    "address": "3648 Barug, Soweto Katutura Windhoek, 10100, Namibia",
+    "phone": "364810100"
+  },
+  {
+    "name": "Safari Court Hotel",
+    "address": "The Esplanade, Walvis Bay, Namibia",
+    "phone": "+26464214000"
+  },
+  {
+    "name": "Roof of Africa Restaurant",
+    "address": "C28, Daan Viljoen Game Reserve, Windhoek, Namibia",
+    "phone": "+264833232393"
+  },
+  {
+    "name": "Belvedere Guesthouse",
+    "address": "Plot 10, Kappsfarm 65, Central Namibia, Namibia, Windhoek, Namibia",
+    "phone": "+26461222877"
+  },
+  {
+    "name": "Hotel Pension Palmquell",
+    "address": "Plot 40 Brakwater, Windhoek, Namibia",
+    "phone": "+264812721594"
+  },
+  {
+    "name": "Town Lodge Windhoek",
+    "address": "10 Friedrich Giese Street, Klein, Windhoek, Namibia",
+    "phone": "+264811271013"
+  },
+  {
+    "name": "Safari Villa Botique Hotel",
+    "address": "John Simms Street, Windhoek, Namibia",
+    "phone": "+264813436580"
+  },
+  {
+    "name": "Vondelhof Guesthouse",
+    "address": "Olof Palme Street, Windhoek, Namibia",
+    "phone": "+26461402306"
+  },
+  {
+    "name": "Uzuri Guesthouse CC",
+    "address": "Andimba Toivo-ya-Toivo Street, Windhoek, Namibia",
+    "phone": "+264812209830"
+  },
+  {
+    "name": "De Vagebond Hotel Pension",
+    "address": "20 Palm Street, Windhoek, Namibia",
+    "phone": "+264811484980"
+  },
+  {
+    "name": "Klein Windhoek Guest House",
+    "address": "64 Gous, Windhoek, Namibia",
+    "phone": "+26461223368"
+  },
+  {
+    "name": "Sonneneck Guesthouse",
+    "address": "18 Palm Street, Windhoek, Namibia",
+    "phone": "+26461227029"
+  },
+  {
+    "name": "Kate's Nest Guest House",
+    "address": "Stern building, Windhoek C/O Tal Street & Garten street Entrance on, Tal Street, Windhoek, Namibia",
+    "phone": "+264811241101"
+  },
+  {
+    "name": "Essence Lifestyle",
+    "address": "146 Olof Palme Street, Windhoek, Namibia",
+    "phone": "+264811473804"
+  },
+  {
+    "name": "Tilla's Guesthouse",
+    "address": "Spinoza Street, Windhoek, Namibia",
+    "phone": "+264811241042"
+  },
+  {
+    "name": "Hotel Uhland",
+    "address": "1268 Goudsnip Street, Windhoek, Namibia",
+    "phone": "+26461243054"
+  },
+  {
+    "name": "Puccini House",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461301934"
+  },
+  {
+    "name": "Londiningi Guest House",
+    "address": "113 John Meinert Street, Windhoek, Namibia",
+    "phone": "+264816050420"
+  },
+  {
+    "name": "Onganga Hotel Pension",
+    "address": "2994 Stephenson Street, Windhoek, Namibia",
+    "phone": "+264814499919"
+  },
+  {
+    "name": "Angelshof Guesthouse",
+    "address": "97 Fritsche Street, Windhoek, Namibia",
+    "phone": "+264812773208"
+  },
+  {
+    "name": "Chameleon Backpackers",
+    "address": "House No 17, 10005, Beethoven Street, Windhoek, Namibia",
+    "phone": "+264852254587"
+  },
+  {
+    "name": "Guesthouse Terra Africa",
+    "address": "Range Street, Windhoek, Namibia",
+    "phone": "+264814935172"
+  },
+  {
+    "name": "bed and breakfast coco palm",
+    "address": "41 Andimba Toivo-ya-Toivo Street, Windhoek, Namibia",
+    "phone": "+264811294285"
+  },
+  {
+    "name": "Hartmann Suites Self-Catering Apartments",
+    "address": "the Playground, 1906 Martha Street Khomasdal 27 Near, Windhoek, Namibia",
+    "phone": "+264812280240"
+  },
+  {
+    "name": "ParadiseGarden Backpackers",
+    "address": "Windhoek, Namibia",
+    "phone": "+264812580660"
+  },
+  {
+    "name": "Villa Moringa Guesthouse",
+    "address": "61, Papageien Street, Windhoek, Namibia",
+    "phone": "+264811293146"
+  },
+  {
+    "name": "Hillside Executive self catering Accommodation",
+    "address": "66 Barella St, Windhoek, Namibia",
+    "phone": "+264855887704"
+  },
+  {
+    "name": "The Royal Castle",
+    "address": "Kahimemua Nguvauva St, Windhoek, Namibia",
+    "phone": "+26461227993"
+  },
+  {
+    "name": "Emerald Bed and Breakfast",
+    "address": "Pioneerspak Extension1, Range street 17, Windhoek, Namibia",
+    "phone": "+26461244445"
+  },
+  {
+    "name": "A-Z Boutique Guesthouse",
+    "address": "Best Street No. 4, Windhoek, Namibia",
+    "phone": "+264812793787"
+  },
+  {
+    "name": "Hochland Pension Hotel",
+    "address": "Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461248300"
+  },
+  {
+    "name": "Naankuse @ Utopia Boutique Hotel",
+    "address": "Joseph Mukwayu Ithana St, Windhoek, Namibia",
+    "phone": "+26461224472"
+  },
+  {
+    "name": "Cavallo Accomodation",
+    "address": "5 Roentgen Street, Windhoek, Namibia",
+    "phone": "+264812809208"
+  },
+  {
+    "name": "Leone Paris",
+    "address": "Corner Dr Theo-Ben Gurirab and Ballot Street Entrance in Theo-Ben Gurirab Street, Burg Street, Windhoek, Namibia",
+    "phone": "+26461229755"
+  },
+  {
+    "name": "Ramblers Self Catering Accommodation",
+    "address": "coco palm street, 97962, Windhoek, Namibia",
+    "phone": "+264815970961"
+  },
+  {
+    "name": "Xenia Bed & Breakfast",
+    "address": "4 Ellis Street, Windhoek, Namibia",
+    "phone": "+264811288126"
+  },
+  {
+    "name": "Dalarize Guesthouse",
+    "address": "10005, 11 Schuckmann Street, Windhoek, Namibia",
+    "phone": "+264852220106"
+  },
+  {
+    "name": "Sharon Rose",
+    "address": "6 Puccini Street, Windhoek, Namibia",
+    "phone": "+264811272273"
+  },
+  {
+    "name": "TaTe Village",
+    "address": "11 Winterberg Street, Windhoek, Namibia",
+    "phone": "+26461226201"
+  },
+  {
+    "name": "Casa Amico Mio",
+    "address": "147, Dr. Kenneth David Kaunda Street (Street was renamed from, Dr. Kenneth David Kaunda St, Windhoek, Namibia",
+    "phone": "+26461389700"
+  },
+  {
+    "name": "Essence of Africa Guesthouse",
+    "address": "Kenneth McArthur St, Windhoek, Namibia",
+    "phone": "+264813318989"
+  },
+  {
+    "name": "House On Olof Palme",
+    "address": "Voight Street, Windhoek, Namibia",
+    "phone": "+264811284624"
+  },
+  {
+    "name": "Spinoza Self Catering Accommodation",
+    "address": "1957 & 1517 Jacona Street, Windhoek, Namibia",
+    "phone": "19571517"
+  },
+  {
+    "name": "The Elegant Guest House",
+    "address": "9 Corner Strauss and, Beethoven Street, Windhoek, Namibia",
+    "phone": "+264812624478"
+  },
+  {
+    "name": "Stern Self-Catering Apartments",
+    "address": "Heinitzburg Street, Windhoek, Namibia",
+    "phone": "+26461306633"
+  },
+  {
+    "name": "Tourmaline Guesthouse",
+    "address": "4 Aristotles Street, Academia, Windhoek, Namibia",
+    "phone": "+26461227170"
+  },
+  {
+    "name": "Bateleur Self Catering Units cc",
+    "address": "Eros Road, Windhoek, Namibia",
+    "phone": "+264812457744"
+  },
+  {
+    "name": "African Kwela",
+    "address": "Puccini Street, Windhoek, Namibia",
+    "phone": "+264811412067"
+  },
+  {
+    "name": "M&H Guesthouse",
+    "address": "66 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+264855887704"
+  },
+  {
+    "name": "YoIeli Guest House",
+    "address": "2 Hofmeyer Street, Windhoek, Namibia",
+    "phone": "+26461239401"
+  },
+  {
+    "name": "Esperanca Guesthouse",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461372100"
+  },
+  {
+    "name": "Immanuel Lodge - Windhoek",
+    "address": "2 Turkoois Street, Windhoek, Namibia",
+    "phone": "+264813488703"
+  },
+  {
+    "name": "Mongilo Guesthouse",
+    "address": "154 Jan Jonker St, Windhoek, Namibia",
+    "phone": "+264818039832"
+  },
+  {
+    "name": "Capbon Guesthouse & Self-Catering",
+    "address": "Corner of Hebenstreit Street and, 10012, Joseph Wood Street, Windhoek, Namibia",
+    "phone": "+264832535020"
+  },
+  {
+    "name": "Windhoek Game Camp",
+    "address": "Frankie Fredericks Street, Windhoek, Namibia",
+    "phone": "+264833563431"
+  },
+  {
+    "name": "Trans Kalahari Inn",
+    "address": "76 Dr. Kwame Nkrumah Street, Windhoek, Namibia",
+    "phone": "+26461258867"
+  },
+  {
+    "name": "Sweet Thorn Lodge",
+    "address": "Maerua Life Style Centre, Centaurus Street, Windhoek, Namibia",
+    "phone": "+26461239768"
+  },
+  {
+    "name": "Special Inn Bed & Breakfast",
+    "address": "124, 126 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+264811244930"
+  },
+  {
+    "name": "Eden Chalets",
+    "address": "60 Jan Jonker St, Windhoek, Namibia",
+    "phone": "+26461234374"
+  },
+  {
+    "name": "Daan Viljoen Lodge",
+    "address": "12 Lessing Street, Windhoek, Namibia",
+    "phone": "+264857194920"
+  },
+  {
+    "name": "Murangi Travel Lodge",
+    "address": "11 Wecke Street, Windhoek, Namibia",
+    "phone": "+26461414400"
+  },
+  {
+    "name": "Protea by Marriott Hotel Walvis Bay Pelican Bay",
+    "address": "Corner Of Auas And, Aviation Road, Windhoek, Namibia",
+    "phone": "+264612968000"
+  },
+  {
+    "name": "Place of Serenity",
+    "address": "Cnr of Golf & Auas Rd, Olympia, Windhoek, Namibia",
+    "phone": "+26461252255"
+  },
+  {
+    "name": "Beacon Lodge, No. 10",
+    "address": "Promenaden Rd, Windhoek, Namibia",
+    "phone": "+26461302640"
+  },
+  {
+    "name": "Kubata City Hotel",
+    "address": "60 Jan Jonker St, Windhoek, Namibia",
+    "phone": "+26461234374"
+  },
+  {
+    "name": "Hotel Pension New Nouveau",
+    "address": "72 Amasoniet Street, Windhoek, Namibia",
+    "phone": "+26461230416"
+  },
+  {
+    "name": "Hotel Pension Casa Piccolo",
+    "address": "7 Luther Street, Windhoek, Namibia",
+    "phone": "+264853030000"
+  },
+  {
+    "name": "NUST Hotel School",
+    "address": "Corner of Hebenstreit Street and, 10012, Joseph Wood Street, Windhoek, Namibia",
+    "phone": "+264832535020"
+  },
+  {
+    "name": "Chateau du Windhoek",
+    "address": "22 Promenaden Rd, Windhoek, Namibia",
+    "phone": "+26461383890"
+  },
+  {
+    "name": "Am Weinberg Boutique Hotel",
+    "address": "11 Wecke Street, Windhoek, Namibia",
+    "phone": "+26461414400"
+  },
+  {
+    "name": "Sand Rose Bed and Breakfast",
+    "address": "Maerua Life Style Centre, Centaurus Street, Windhoek, Namibia",
+    "phone": "+26461239768"
+  },
+  {
+    "name": "Shalongo Guest House",
+    "address": "5 Luther Street, Windhoek, Namibia",
+    "phone": "+26461222602"
+  },
+  {
+    "name": "Joe's Beerhouse",
+    "address": "10000, 416 Independence Ave, Windhoek, Namibia",
+    "phone": "10000416"
+  },
+  {
+    "name": "Chicago's Bar & Restaurant",
+    "address": "151 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461401944"
+  },
+  {
+    "name": "Leo's Garden Restaurant",
+    "address": "Liliencron Street, Windhoek, Namibia",
+    "phone": "+264813776601"
+  },
+  {
+    "name": "The Cork & Fork Restaurant",
+    "address": "Corner of Garten Street and, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461225600"
+  },
+  {
+    "name": "Goodfellas Pizza and Pub",
+    "address": "Hidas Centre, 21, 21 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+264811661126"
+  },
+  {
+    "name": "The Fisher",
+    "address": "C/O Robert Mugabe and, Liliencron Street, Windhoek, Namibia",
+    "phone": "+264813553253"
+  },
+  {
+    "name": "Isabel's Table",
+    "address": "18 Liliencron Street, Windhoek, Namibia",
+    "phone": "+264813989889"
+  },
+  {
+    "name": "Francesco",
+    "address": "18 Liliencron Street, Windhoek, Namibia",
+    "phone": "+264818766908"
+  },
+  {
+    "name": "Kubata Restaurant",
+    "address": "160 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461232457"
+  },
+  {
+    "name": "Sicilia",
+    "address": "Centaurus Street, Windhoek, Namibia",
+    "phone": "+264812827370"
+  },
+  {
+    "name": "The Olive Restaurant",
+    "address": "Windhoek, Namibia",
+    "phone": "+264813021785"
+  },
+  {
+    "name": "Fresh ’n Wild at Utopia",
+    "address": "Shop no. 3, Game Centre Windhoek Corner Hochland and Bismark Streets, Windhoek, Namibia",
+    "phone": "+264833342200"
+  },
+  {
+    "name": "Wilde Eend Bistro",
+    "address": "Mandume Ndemufayo Avenue, Windhoek, Namibia",
+    "phone": "+26461233686"
+  },
+  {
+    "name": "Krisjan's Bistro Windhoek",
+    "address": "Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+264833330318"
+  },
+  {
+    "name": "Olivia's Kitchen",
+    "address": "10005, Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+264833303660"
+  },
+  {
+    "name": "O Portuga Restaurant",
+    "address": "344 Independence Ave, Windhoek, Namibia",
+    "phone": "+264814231456"
+  },
+  {
+    "name": "The Stellenbosch Wine Bar and The Stellenbosch Tasting Room",
+    "address": "44 T.V. More Street, Windhoek, Namibia",
+    "phone": "+264816112112"
+  },
+  {
+    "name": "Riverview Bar & Restaurant (Klein Windhoek Guesthouse)",
+    "address": "Maerua Mall, Windhoek, Namibia",
+    "phone": "+264817502966"
+  },
+  {
+    "name": "Sardinia Blue Olive Restaurant",
+    "address": "320 Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+26461258746"
+  },
+  {
+    "name": "The BARN",
+    "address": "Feld Street, Windhoek, Namibia",
+    "phone": "+264814491488"
+  },
+  {
+    "name": "Cassia Thai Restaurant",
+    "address": "Cnr Stubel Str &, Independence Ave, Windhoek, Namibia",
+    "phone": "+264833338119"
+  },
+  {
+    "name": "Pepata Restaurant",
+    "address": "Wernhill Park, Shop nrs 13 A ad 13 B, Windhoek, Namibia",
+    "phone": "+26461304688"
+  },
+  {
+    "name": "Café Zoo - La Marmite Royale",
+    "address": "Shop 1 Continental Building, Windhoek, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461226535"
+  },
+  {
+    "name": "The Garden Inn13",
+    "address": "194 Bahnhof St, Windhoek, Namibia",
+    "phone": "+26461226031"
+  },
+  {
+    "name": "Garnish Indian Restaurant",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "The Catch",
+    "address": "shop 18B Gustav Voigts Centre, 9999 Independence Ave, Windhoek, Namibia",
+    "phone": "+264612800336"
+  },
+  {
+    "name": "Kamaya Restaurant",
+    "address": "23, Shop 33, Maerua Mall Shopping Centre, 39 Centaurus Street, Windhoek, Namibia",
+    "phone": "+26461242057"
+  },
+  {
+    "name": "Roof of Africa Restaurant",
+    "address": "Shop No UG99, Wernhil Park, Mandume Ndemufayo Avenue, Windhoek, Namibia",
+    "phone": "+26461223775"
+  },
+  {
+    "name": "Little Italian",
+    "address": "Shop 29F, Maerua Mall Windhoek, 10007, Namibia",
+    "phone": "+264811401312"
+  },
+  {
+    "name": "Bauern Stube Family Restaurant",
+    "address": "No. 8 Stein St, Windhoek, Namibia",
+    "phone": "+26461250863"
+  },
+  {
+    "name": "The Wine Bar",
+    "address": "48 Tal Street, Windhoek, Namibia",
+    "phone": "+264812316193"
+  },
+  {
+    "name": "NIMMS RESTAURANT",
+    "address": "Verdi Street, Windhoek, Namibia",
+    "phone": "+264813652649"
+  },
+  {
+    "name": "The Village Garden",
+    "address": "Macadam Street, Windhoek, Namibia",
+    "phone": "+264814234243"
+  },
+  {
+    "name": "The Chop House Pub & Grill",
+    "address": "Strokes Street, Windhoek, Namibia",
+    "phone": "+26461302177"
+  },
+  {
+    "name": "Bolster",
+    "address": "28 Trift Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Berrylicious Restaurant",
+    "address": "66 Barella St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "TASTE",
+    "address": "TransNamib Building, Bahnhof St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Garlic and Co",
+    "address": "Maxwell Street, Windhoek, Namibia",
+    "phone": "+264833311553"
+  },
+  {
+    "name": "Africuba RESTAURANT",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Cape Town Fish Market Windhoek",
+    "address": "Maerua Mall, Shop 59, Corner of Robert Mugabe &, Jan Jonker St, Windhoek, Namibia",
+    "phone": "+26461254154"
+  },
+  {
+    "name": "John Dory's Windhoek",
+    "address": "Shop 1 & 2, Post Street Mall Town Square, Windhoek, Namibia",
+    "phone": "+264833338120"
+  },
+  {
+    "name": "Daisho Sushi & Wine Bar",
+    "address": "Continental Passage between Independence Ave, and Lüderitz Street, Windhoek, Namibia",
+    "phone": "+264816080011"
+  },
+  {
+    "name": "Mountain Eagle Spur",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461400874"
+  },
+  {
+    "name": "The Edge Café & Bistro",
+    "address": "Centaurus Street, Windhoek, Namibia",
+    "phone": "+26461402976"
+  },
+  {
+    "name": "The Avenue Lounge",
+    "address": "Independence Ave, Windhoek, Namibia",
+    "phone": "+264612800990"
+  },
+  {
+    "name": "Yaelis Bistro",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "The Taste Academy",
+    "address": "Cnr Sam nujoma &, 10017, Mandume Ndemufayo Avenue, Windhoek, Namibia",
+    "phone": "+26461400874"
+  },
+  {
+    "name": "Grand Canyon Spur",
+    "address": "20 Liliencron Street, Windhoek, Namibia",
+    "phone": "+264817281741"
+  },
+  {
+    "name": "Moerse Lekker",
+    "address": "Jan Jonker Ave, Show Grounds, Windhoek, Namibia",
+    "phone": "+264816025045"
+  },
+  {
+    "name": "Haiku Sushi and Wine Bar",
+    "address": "Windhoek, Namibia",
+    "phone": "+264812409324"
+  },
+  {
+    "name": "Butcher Block Namibia",
+    "address": "Maerua Mall, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "The Royal Kitchen & Takeaway",
+    "address": "7 Luther Street, Windhoek, Namibia",
+    "phone": "+264853030000"
+  },
+  {
+    "name": "Kk Halaal Kitchen",
+    "address": "Hidas Centre, Windhoek, Namibia",
+    "phone": "+264816551170"
+  },
+  {
+    "name": "Captain DoRegos Windhoek",
+    "address": "Independence Ave @, Marien Ngouabi St, Windhoek, Namibia",
+    "phone": "+264811445353"
+  },
+  {
+    "name": "Cafe Capri",
+    "address": "Unnamed Road, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Odjove Take-Away/Restaurant",
+    "address": "351 Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+26461234779"
+  },
+  {
+    "name": "Gondwana Restaurant, at the Windhoek Show Grounds, Jan Jonker Street, Windhoek.",
+    "address": "7373 Elephant Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Piccolo Cafe & Lounge",
+    "address": "Maerua Mall, Centaurus Street, Windhoek, Namibia",
+    "phone": "+264816451884"
+  },
+  {
+    "name": "La Marmite",
+    "address": "Mahatma Gandhi Street, Windhoek, Namibia",
+    "phone": "+26461303137"
+  },
+  {
+    "name": "A Tasca",
+    "address": "Independence Ave, Windhoek, Namibia",
+    "phone": "+264812745440"
+  },
+  {
+    "name": "Yang Tze Chinese Restaurant",
+    "address": "Shop 1, Continental Building, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461226535"
+  },
+  {
+    "name": "Livega House",
+    "address": "344 Independence Ave, Windhoek, Namibia",
+    "phone": "+26461240942"
+  },
+  {
+    "name": "INDOLICIOUS",
+    "address": "13 Jan Jonker, Windhoek, Namibia",
+    "phone": "+264832888000"
+  },
+  {
+    "name": "Salvatore",
+    "address": "Tunschel, Windhoek, Namibia",
+    "phone": "+26461259295"
+  },
+  {
+    "name": "Ti khoen Restaurant",
+    "address": "Maerua Mall, Windhoek, Namibia",
+    "phone": "+264817485293"
+  },
+  {
+    "name": "Andy's Pub & Restaurant",
+    "address": "66 Barella St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "ti_khoen restaurant",
+    "address": "1st Floor, House of Southern Estate, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461231003"
+  },
+  {
+    "name": "The Kapital @ haiku",
+    "address": "18 Liliencron Street, Windhoek, Namibia",
+    "phone": "+26461246956"
+  },
+  {
+    "name": "Hotel Thule Restaurant mit toller Aussicht",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461236915"
+  },
+  {
+    "name": "Old Continental Café & Take-Away",
+    "address": "General Murtala Muhammed Rd, Windhoek, Namibia",
+    "phone": "+26461387164"
+  },
+  {
+    "name": "Hungry Lion Windhoek Town Sq",
+    "address": "Hebenstreit Street, Windhoek, Namibia",
+    "phone": "+264814318434"
+  },
+  {
+    "name": "Andy's Pub",
+    "address": "Shop 20 & 21, Maerua Lifestyle Centre, Centaurus Street, Windhoek, Namibia",
+    "phone": "+26461303711"
+  },
+  {
+    "name": "Stratos At Avani",
+    "address": "Thorpe Street, Windhoek, Namibia",
+    "phone": "+264818758083"
+  },
+  {
+    "name": "KAUAI Maerua Mall",
+    "address": "Trift Street, Windhoek, Namibia",
+    "phone": "+264816387232"
+  },
+  {
+    "name": "Peppercorn Grill and Steakhouse",
+    "address": "Am Weinberg Estate, 13 Jan Jonker Rd, Klein, Windhoek, Namibia",
+    "phone": "+264833318101"
+  },
+  {
+    "name": "The Railway Restaurant",
+    "address": "Shop 0001, Maerua Mall, Windhoek, Namibia",
+    "phone": "+264811402151"
+  },
+  {
+    "name": "Raith's Bistro",
+    "address": "Eros Road, Windhoek, Namibia",
+    "phone": "+264816909310"
+  },
+  {
+    "name": "Rooster & Co.",
+    "address": "39 Post St Mall, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "BlueBerry Bistro",
+    "address": "Tal Street, Windhoek, Namibia",
+    "phone": "+264814471144"
+  },
+  {
+    "name": "HotSpot Burgers",
+    "address": "18 Liliencron Street, Windhoek, Namibia",
+    "phone": "+264813664300"
+  },
+  {
+    "name": "Die Braai Bak",
+    "address": "Rev Michael Scott St, Windhoek, Namibia",
+    "phone": "+264817544473"
+  },
+  {
+    "name": "The Wolfshack",
+    "address": "Thorpe Street, Windhoek, Namibia",
+    "phone": "+26461257971"
+  },
+  {
+    "name": "Joker's Sportbar",
+    "address": "Garten Street, Windhoek, Namibia",
+    "phone": "+26461226514"
+  },
+  {
+    "name": "Grill Addicts Klein Windhoek",
+    "address": "124, 126 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+264811244930"
+  },
+  {
+    "name": "Panarottis Windhoek",
+    "address": "Kelvin Street, Windhoek, Namibia",
+    "phone": "+264812747536"
+  },
+  {
+    "name": "Pantry at Avani",
+    "address": "5726 corner Robert Mugabe and, John Meinert Street, Windhoek, Namibia",
+    "phone": "+264812900333"
+  },
+  {
+    "name": "Joe’s",
+    "address": "Robert Mugabe Ave, Windhoek, Namibia",
+    "phone": "+264813172488"
+  },
+  {
+    "name": "Wimpy",
+    "address": "1 City Plaza, Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+264851477250"
+  },
+  {
+    "name": "Mugg & Bean",
+    "address": "13 Bismarck Street, Windhoek, Namibia",
+    "phone": "+264816693348"
+  },
+  {
+    "name": "ROOSTERS- Ribs, Chicken, Pizza",
+    "address": "Werner List St, Windhoek, Namibia",
+    "phone": "+26461401147"
+  },
+  {
+    "name": "Eat@UNITED",
+    "address": "Independence Ave, Windhoek, Namibia",
+    "phone": "+26461235019"
+  },
+  {
+    "name": "Hungry Lion Windhoek",
+    "address": "Pavlov Street, Windhoek, Namibia",
+    "phone": "+264812865071"
+  },
+  {
+    "name": "Mykindafood.na",
+    "address": "Sam Nujoma Drive, Windhoek, Khomas Region, Central Namibia, Namibia, Windhoek, Namibia",
+    "phone": "+264817032730"
+  },
+  {
+    "name": "Debonairs Pizza",
+    "address": "12 Acacia Street, Windhoek, Namibia",
+    "phone": "+264814275045"
+  },
+  {
+    "name": "Nixon Cafe & Take Away",
+    "address": "Schoemanns Building, Sam Nujoma Dr, Namibia",
+    "phone": "+26461258183"
+  },
+  {
+    "name": "Stellenbosch Tasting Room",
+    "address": "Hofmeyer Street, Windhoek, Namibia",
+    "phone": "+26461242540"
+  },
+  {
+    "name": "Studio Pub & Grill",
+    "address": "Shop 25, Bougain Villas, 320 Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+26461309141"
+  },
+  {
+    "name": "Moro's Noodle Bar",
+    "address": "312 Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+26461272900"
+  },
+  {
+    "name": "Fishaways Game",
+    "address": "10 Dr. Kenneth David Kaunda St, Windhoek, Namibia",
+    "phone": "+26461272632"
+  },
+  {
+    "name": "The Grove Mall of Namibia",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Carl List Mall",
+    "address": "Fidel Castro St, Windhoek, Namibia",
+    "phone": "+26461374525"
+  },
+  {
+    "name": "Wernhil Park",
+    "address": "Werner List St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Town Square Mall",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Maerua Mall",
+    "address": "Rabbi Street, Windhoek, Namibia",
+    "phone": "+264812236393"
+  },
+  {
+    "name": "Auas Valley Shopping Mall",
+    "address": "Shopping Centre, Windhoek, Namibia",
+    "phone": "+26461423220"
+  },
+  {
+    "name": "Black chain shopping mall",
+    "address": "Chasie Street, Windhoek, Namibia",
+    "phone": "+26461243603"
+  },
+  {
+    "name": "Eros Shopping Centre",
+    "address": "Bessemer Street, Windhoek, Namibia",
+    "phone": "+264612909111"
+  },
+  {
+    "name": "MegaCentre",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Shopping Centre",
+    "address": "Wernhill Plaza Cnr Ndemufayo Avenue, 10005, & Fidel Castro St, Windhoek, Namibia",
+    "phone": "+264612969500"
+  },
+  {
+    "name": "Westlane Shopping Center and Residential Apartments",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Windhoek 269 Independence Avenue - Vukile",
+    "address": "Cnr Centaurus, and Robert Mugabe Ave, Windhoek, Namibia",
+    "phone": "+26461271820"
+  },
+  {
+    "name": "Wecke & Voigts",
+    "address": "Windhoek, Namibia",
+    "phone": "+264813167603"
+  },
+  {
+    "name": "Shopping mall",
+    "address": "Windhoek, Namibia",
+    "phone": "+264813167603"
+  },
+  {
+    "name": "Shopping Centre",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461247440"
+  },
+  {
+    "name": "Khomas Grove Mall",
+    "address": "39 Post St Mall, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Metro Hyper",
+    "address": "Post St Mall, Windhoek, Namibia",
+    "phone": "+264832838074"
+  },
+  {
+    "name": "Rocky Crest Shops",
+    "address": "40 Tal Street, Windhoek, Namibia",
+    "phone": "+26461242222"
+  },
+  {
+    "name": "Old Power Station Shopping Centre",
+    "address": "Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461402786"
+  },
+  {
+    "name": "Katutura Shoprite Centre - Vukile",
+    "address": "Willibalb Kapuenene, Windhoek, Namibia",
+    "phone": "+26461265611"
+  },
+  {
+    "name": "Wernhil Park External Parking",
+    "address": "Chasie Street, Windhoek, Namibia",
+    "phone": "+264833322003"
+  },
+  {
+    "name": "Game (Southern Industrial)",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Woermann Brock Luxury Hill Supermarket",
+    "address": "112 Black Rock Street, Windhoek, Namibia",
+    "phone": "+26461241216"
+  },
+  {
+    "name": "Woermannbrock Shopping Center",
+    "address": "Tauben Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kutuai Namcor Service Station",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461269196"
+  },
+  {
+    "name": "Mutual Platz, Post St Mall, Windhoek",
+    "address": "Independence Ave, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Namibia Craft Centre",
+    "address": "Shop 1, Maerua Lifestyle Centre, in, Centaurus Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Checkers Maerua Mall",
+    "address": "Scheppmann Street, Windhoek, Namibia",
+    "phone": "+26461300327"
+  },
+  {
+    "name": "Edgars NAM Wernhil Plaza",
+    "address": "35 Rhino Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Sanlam Center",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461254972"
+  },
+  {
+    "name": "Avis Dam Nature Reserve",
+    "address": "6 Aviation Road, Windhoek, Namibia",
+    "phone": "+264612848111"
+  },
+  {
+    "name": "Zoo Park",
+    "address": "Windhoek, Namibia",
+    "phone": "+264833232444"
+  },
+  {
+    "name": "Parliament Gardens",
+    "address": "Robert Mugabe Ave, Windhoek, Namibia",
+    "phone": "+26461231160"
+  },
+  {
+    "name": "Christuskirche",
+    "address": "Love Street, Windhoek, Namibia",
+    "phone": "+264612889111"
+  },
+  {
+    "name": "Daan Viljoen Game Reserve",
+    "address": "Rietfontein Street, Windhoek, Namibia",
+    "phone": "+264857809915"
+  },
+  {
+    "name": "National Art Gallery of Namibia",
+    "address": "Robert Mugabe Ave, Windhoek, Namibia",
+    "phone": "+26461236002"
+  },
+  {
+    "name": "Haven Zoological Park",
+    "address": "Schwerinsburg Road, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Independence Museum",
+    "address": "Independence Memorial Museum, Windhoek, Namibia",
+    "phone": "+26461276800"
+  },
+  {
+    "name": "Geological Survey Museum",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461255224"
+  },
+  {
+    "name": "Schwerinsburg",
+    "address": "Park St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Palm Tree Park",
+    "address": "511 Dante St, Windhoek, Namibia",
+    "phone": "+264818211521"
+  },
+  {
+    "name": "Alte Feste",
+    "address": "18 Daphne Hasenjager Street, Windhoek, Namibia",
+    "phone": "+26461419100"
+  },
+  {
+    "name": "Namibia Craft Centre",
+    "address": "66 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+264855887704"
+  },
+  {
+    "name": "Craft Market (Independence Ave)",
+    "address": "12 Tal Street, Windhoek, Namibia",
+    "phone": "+26461301517"
+  },
+  {
+    "name": "Botanical Garden Walking Path",
+    "address": "Bessemer Street, Windhoek, Namibia",
+    "phone": "+264612909293"
+  },
+  {
+    "name": "Turnhalle",
+    "address": "Bach Street, Windhoek, Namibia",
+    "phone": "+26461233599"
+  },
+  {
+    "name": "Windhoek",
+    "address": "Maerua Mall, Windhoek, Namibia",
+    "phone": "+26461428800"
+  },
+  {
+    "name": "IJG Trails - Farm Windhoek",
+    "address": "Shop 486, The Grove Mall of Namibia, Chasie Street, Windhoek, Namibia",
+    "phone": "+26461241113"
+  },
+  {
+    "name": "Savanna Car Hire /Autovermietung Savanna Windhoek, Namibia",
+    "address": "Cnr David Hosea Meroro & Bismark St Game Centre Windhoek, 10005, Namibia",
+    "phone": "+26461247440"
+  },
+  {
+    "name": "ELCIN Immanuel Parish",
+    "address": "Chasie street, Klein Kuppe Windhoek, Khomas Region, Namibia, Namibia",
+    "phone": "+26461256671"
+  },
+  {
+    "name": "ELCIN Immanuel Parish",
+    "address": "Voight Street, Windhoek, Namibia",
+    "phone": "+264811284624"
+  },
+  {
+    "name": "Wernhil Park",
+    "address": "C/O Robert Mugabe and, Liliencron Street, Windhoek, Namibia",
+    "phone": "+264813553253"
+  },
+  {
+    "name": "The Grove Mall of Namibia",
+    "address": "Schuster Building, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461237217"
+  },
+  {
+    "name": "Wild Wind Safaris",
+    "address": "Bach Street, Windhoek, Namibia",
+    "phone": "+264612034000"
+  },
+  {
+    "name": "Namibia",
+    "address": "C28, Daan Viljoen Game Reserve, Windhoek, Namibia",
+    "phone": "+264833232393"
+  },
+  {
+    "name": "ParadiseGarden Backpackers",
+    "address": "Rehobother Rd, Windhoek, Namibia",
+    "phone": "+26461240009"
+  },
+  {
+    "name": "UrbanCamp",
+    "address": "52 Aschenborn Street, Windhoek, Namibia",
+    "phone": "+264814184743"
+  },
+  {
+    "name": "Chameleon Safaris",
+    "address": "Gustav Voigts Centre (Street, Level Independence Ave, Windhoek, Namibia",
+    "phone": "+264812773199"
+  },
+  {
+    "name": "Windhoek Showgrounds",
+    "address": "103 Independence Ave, Windhoek, Namibia",
+    "phone": "+264814309037"
+  },
+  {
+    "name": "Don Tours and Safaris Namibia",
+    "address": "130 Independence Ave, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Deadvlei",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461249268"
+  },
+  {
+    "name": "Düsternbrook Guest Farm",
+    "address": "99999 Kornalyn Street, Windhoek, Namibia",
+    "phone": "+26461222457"
+  },
+  {
+    "name": "Warehouse Theatre",
+    "address": "32 Rhino Street, Windhoek, Namibia",
+    "phone": "+26461258760"
+  },
+  {
+    "name": "Quest Tours and Safaris",
+    "address": "Shop 1, Continental Building, Independence Ave, Windhoek, Namibia",
+    "phone": "+26461226535"
+  },
+  {
+    "name": "Tintenpalast",
+    "address": "33 Nickel Street, Windhoek, Namibia",
+    "phone": "+26461415082"
+  },
+  {
+    "name": "Marek Adventures",
+    "address": "Farm Hoffnung 66, Windhoek, Namibia",
+    "phone": "+26461257151"
+  },
+  {
+    "name": "Gondwana Collection Namibia",
+    "address": "Sean McBride, Windhoek, Namibia",
+    "phone": "+264612903089"
+  },
+  {
+    "name": "Wild Cherry Adventures",
+    "address": "Windhoek, Namibia",
+    "phone": "+26461226722"
+  },
+  {
+    "name": "Lark Journeys Namibia",
+    "address": "195 Mandume Ndemufayo Avenue, Windhoek, Namibia",
+    "phone": "+26461304713"
+  },
+  {
+    "name": "Mountain Bike Namibia",
+    "address": "7 Pasteur Street, Windhoek, Namibia",
+    "phone": "+26461250077"
+  },
+  {
+    "name": "Cape Town Fish Market Windhoek",
+    "address": "Iscor Street, Windhoek, Namibia",
+    "phone": "+264613204999"
+  },
+  {
+    "name": "Nature Travel Namibia",
+    "address": "1 Strand St, Swakopmund, Namibia",
+    "phone": "+264644101214"
+  },
+  {
+    "name": "Maerua Mall",
+    "address": "21 Industria Street, Windhoek, Namibia",
+    "phone": "+26461275800"
+  },
+  {
+    "name": "Joe's Beerhouse",
+    "address": "56 Fidel Castro St, Windhoek, Namibia",
+    "phone": "+264818087718"
+  },
+  {
+    "name": "Goethe-Institut Namibia",
+    "address": "3 Aviation Road, Windhoek, Namibia",
+    "phone": "+264612955500"
+  },
+  {
+    "name": "Independence Stadium",
+    "address": "B6 78 Sam Nujoma Drive Bougain Villas Mall, Windhoek, Namibia",
+    "phone": "+26461269152"
+  },
+  {
+    "name": "Avis Reservoir",
+    "address": "Shop 1, Maerua Lifestyle Centre, in, Centaurus Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Avani Windhoek Hotel & Casino",
+    "address": "13 Jan Jonker, Windhoek, Namibia",
+    "phone": "+264612090900"
+  },
+  {
+    "name": "Furaha Tours & Safaris",
+    "address": "Macadam Street, Windhoek, Namibia",
+    "phone": "+264814234243"
+  },
+  {
+    "name": "Heinitzburg",
+    "address": "Philip Shiimi Street, Windhoek, Namibia",
+    "phone": "+264813644936"
+  },
+  {
+    "name": "Windhoek Railway Station",
+    "address": "799 Kasikili Island Road Street, Windhoek, Namibia",
+    "phone": "+264853000002"
+  },
+  {
+    "name": "Hilton Windhoek",
+    "address": "Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Katutura",
+    "address": "Sam Nujoma and Stein Paulannic Centre, Windhoek, Namibia",
+    "phone": "+26461253842"
+  },
+  {
+    "name": "Oshetu Community Market",
+    "address": "Sam Nujoma Dr, Windhoek, Namibia",
+    "phone": "+264612906000"
+  },
+  {
+    "name": "Motema Tours and Safaris Namibia",
+    "address": "Rev Michael Scott St, Windhoek, Namibia",
+    "phone": "+264612962929"
+  },
+  {
+    "name": "Sam's Hobbies and toys",
+    "address": "00000, 136 Sesriem St, Windhoek, Namibia",
+    "phone": "00000136"
+  },
+  {
+    "name": "African Wanderer Tours + Safaris",
+    "address": "Heinitzburg Street, Windhoek, Namibia",
+    "phone": "+26461249597"
+  },
+  {
+    "name": "N/a'an ku sê Wildlife Sanctuary",
+    "address": "Erf 102 John Meinert Street, Windhoek, Namibia",
+    "phone": "+26461231736"
+  },
+  {
+    "name": "Wecke & Voigts",
+    "address": "Gustav Voigts Centre, 129 Independence Ave, Windhoek, Namibia",
+    "phone": "+264612800000"
+  },
+  {
+    "name": "The Weinberg Hotel, Gondwana Collection Namibia",
+    "address": "Werner List St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Old Power Station Shopping Centre",
+    "address": "Windhoek, Namibia",
+    "phone": "+264612706546"
+  },
+  {
+    "name": "St Mary's Catholic Cathedral Church",
+    "address": "5 Fidel Castro St, Windhoek, Namibia",
+    "phone": "+26461225700"
+  },
+  {
+    "name": "Eros Airport",
+    "address": "160 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461232457"
+  },
+  {
+    "name": "Daan Viljoen",
+    "address": "Am Weinberg Estate, 13 Jan Jonker Rd, Klein, Windhoek, Namibia",
+    "phone": "+264833318101"
+  },
+  {
+    "name": "Namibian Breweries Limited",
+    "address": "9 Erma Street, Windhoek, Namibia",
+    "phone": "+264811284900"
+  },
+  {
+    "name": "Khomas Region",
+    "address": "Corner Patterson Street, Julius Nyarere Street, Windhoek, Namibia",
+    "phone": "+264812094783"
+  },
+  {
+    "name": "Uncle Spike's Book Exchange",
+    "address": "48 Tal Street, Windhoek, Namibia",
+    "phone": "+264814708651"
+  },
+  {
+    "name": "National Marine Aquarium",
+    "address": "Maerua Mall, P o Box 97313, Windhoek, Namibia",
+    "phone": "+264812331833"
+  },
+  {
+    "name": "Explore Namibia",
+    "address": "The Trails, Olof Palme Street, Windhoek, Namibia",
+    "phone": "+264857166266"
+  },
+  {
+    "name": "Olympia Swimming Pool",
+    "address": "Love Street, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Farm & Ocean Factory Shop",
+    "address": "42 Nelson Mandela Ave, Windhoek, Namibia",
+    "phone": "+26461427200"
+  },
+  {
+    "name": "Captain DoRegos Windhoek",
+    "address": "Independence Ave, Windhoek, Namibia",
+    "phone": "+264814556359"
+  },
+  {
+    "name": "Bushwhackers Windhoek",
+    "address": "D-1499, Windhoek, Namibia",
+    "phone": "+264818643000"
+  },
+  {
+    "name": "SOS Children's Village Windhoek",
+    "address": "Sossusvlei, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Scenic Air Windhoek Office",
+    "address": "24 Penguin Street, Windhoek, Namibia",
+    "phone": "+264813694807"
+  },
+  {
+    "name": "TATEKULU Barbershop",
+    "address": "48 Tal Street, Windhoek, Namibia",
+    "phone": "+26461402253"
+  },
+  {
+    "name": "No Limit 4x4 Rentals and Tours",
+    "address": "Windhoek, Namibia",
+    "phone": "+264812194186"
+  },
+  {
+    "name": "Daan Viljoen Lodge",
+    "address": "Jan Jonker St, Windhoek, Namibia",
+    "phone": "+26461224748"
+  },
+  {
+    "name": "Cramer’s Ice Cream",
+    "address": "5 Roentgen Street, Windhoek, Namibia",
+    "phone": "+264812809208"
+  },
+  {
+    "name": "Katutura Hospital",
+    "address": "No 2 Schanzen Street, Windhoek, Namibia",
+    "phone": "+264811620761"
+  },
+  {
+    "name": "Ausspannplatz Self Service & Take Away",
+    "address": "Ferry Street, Windhoek, Namibia",
+    "phone": "+264818899452"
+  },
+  {
+    "name": "Slowtown Coffee Roasters - Windhoek CBD",
+    "address": "28 Bacon Street, Windhoek, Namibia",
+    "phone": "+26461226618"
+  },
+  {
+    "name": "Isabel's Table",
+    "address": "Chasie Street, Windhoek, Namibia",
+    "phone": "+26461243603"
+  },
+  {
+    "name": "Game Windhoek",
+    "address": "1515 Omukaru Street, Windhoek, Namibia",
+    "phone": "+26461256326"
+  },
+  {
+    "name": "Bushlore Namibia",
+    "address": "1515 Omukaru Street, Windhoek, Namibia",
+    "phone": "+26461256326"
+  },
+  {
+    "name": "Party World",
+    "address": "10001, Otjivero Road, Windhoek, Namibia",
+    "phone": "+264814113127"
+  },
+  {
+    "name": "Agra Safari Den",
+    "address": "80 Trift Street, Windhoek, Namibia",
+    "phone": "+26461229272"
+  },
+  {
+    "name": "Food Lover's Market Maerua Mall",
+    "address": "Bahnhof St, Windhoek, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Tambuti Lodge",
+    "address": "Mbwangungu Hamutenya Street Erf 1123 Tutungeni Area, Rundu, Namibia",
+    "phone": "+26466255711"
+  },
+  {
+    "name": "Urban Farm Haus, Rundu, Namibia",
+    "address": "Kaisosi Road, East, Rundu, Namibia",
+    "phone": "+264812510002"
+  },
+  {
+    "name": "Niilo's Guest House",
+    "address": "Kanzoni, Owamboland, Namibia, Zufahrt Hakusembe River Road, Rundu, Namibia",
+    "phone": "+26461427200"
+  },
+  {
+    "name": "Camp Hogo (Kavango)",
+    "address": "Tutungeni 2420, Rundu, Namibia",
+    "phone": "+264817459102"
+  },
+  {
+    "name": "Hakusembe River Lodge, Gondwana Collection Namibia",
+    "address": "Erf 1190, 19001, Rundu, Namibia",
+    "phone": "119019001"
+  },
+  {
+    "name": "Kaisosi River Lodge",
+    "address": "Tutungeni, 90000, Amushila Street, Rundu, Namibia",
+    "phone": "+264814191741"
+  },
+  {
+    "name": "Hotel Rundu",
+    "address": "1A Fish Eagle St, Rundu, Namibia",
+    "phone": "+26466255244"
+  },
+  {
+    "name": "AM Ludgerus Boutique Estate",
+    "address": "Erf 1582, Tutungeni, Rundu, Namibia",
+    "phone": "+264811405668"
+  },
+  {
+    "name": "Beaufort Guest House",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Millennium Guest House",
+    "address": "Unnamed Road, Sauyemwa, Namibia",
+    "phone": "+264814834133"
+  },
+  {
+    "name": "Hotel Ngandu Rundu",
+    "address": "Mbwangungu Hamutenya Street Erf 1123 Tutungeni Area, Rundu, Namibia",
+    "phone": "+264816738743"
+  },
+  {
+    "name": "Kaisosi Lodge",
+    "address": "Alfons Mayavero, Rundu, Namibia",
+    "phone": "+264812949069"
+  },
+  {
+    "name": "Gaga Guesthouse",
+    "address": "Kayengona, Rundu, Namibia",
+    "phone": "+264812424897"
+  },
+  {
+    "name": "Etosha guest house Rundu",
+    "address": "1155 Usivi Rd, Rundu, Namibia",
+    "phone": "+264812333915"
+  },
+  {
+    "name": "Sarusungu River Lodge",
+    "address": "Rundu, Namibia",
+    "phone": "+264811497110"
+  },
+  {
+    "name": "GABZONE Guesthouse",
+    "address": "Sarasungu Road, Rundu, Namibia",
+    "phone": "+26466256723"
+  },
+  {
+    "name": "Grill Masters",
+    "address": "Eugene Kakukuru street, Rundu, Namibia",
+    "phone": "+264812119888"
+  },
+  {
+    "name": "UNKURUNGU GUEST HOUSE",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Steers Restaurant",
+    "address": "Engen, Rundu, Namibia",
+    "phone": "+264812707476"
+  },
+  {
+    "name": "Culture Café",
+    "address": "Safari Street, Rundu, Namibia",
+    "phone": "+264812077070"
+  },
+  {
+    "name": "Rundu, Namibia",
+    "address": "Safari Street, Rundu, Namibia",
+    "phone": "+26466255405"
+  },
+  {
+    "name": "Rocky's",
+    "address": "Shop GF34, Rundu Mall Cnr Maria Mwengere & Eugene Kakuru Street, Namibia",
+    "phone": "+264833338115"
+  },
+  {
+    "name": "Trust Me Restaurant",
+    "address": "Eugene kakukuru Rundu, Rundu, Namibia",
+    "phone": "+264818181160"
+  },
+  { "name": "Nelo's", "address": "Queenspark, Rundu, Namibia", "phone": null },
+  {
+    "name": "Hungry Lion Rundu Mall",
+    "address": "Independence, Rundu, Namibia",
+    "phone": "+264812542142"
+  },
+  {
+    "name": "Tcune Restaurant",
+    "address": "Makalani, Mayana Left, Rundu, Namibia",
+    "phone": "+264812512756"
+  },
+  {
+    "name": "Debonairs Pizza",
+    "address": "Usivi Rd, Rundu, Namibia",
+    "phone": "+264816021037"
+  },
+  {
+    "name": "Gino's Bakery Takeaway Restaurant",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kalimba Catering Services CC",
+    "address": "Mbwangungu Hamutenya Street Erf 1123 Tutungeni Area, Rundu, Namibia",
+    "phone": "+26466255711"
+  },
+  {
+    "name": "Moonrise Bar And Restaurant",
+    "address": "Rundu, Namibia",
+    "phone": "+264818547026"
+  },
+  {
+    "name": "Kellvina’s Kiosk",
+    "address": "Rundu, Namibia",
+    "phone": "+264814501230"
+  },
+  {
+    "name": "Nelo's",
+    "address": "Ndama Primary School, B8, Rundu, Namibia",
+    "phone": "+264813530402"
+  },
+  {
+    "name": "Fantacia",
+    "address": "Eugene Kakukuru Street, Rundu, Namibia",
+    "phone": "+26466267824"
+  },
+  {
+    "name": "King Carlos",
+    "address": "Safari, Independence, Rundu, Namibia",
+    "phone": "+264818184966"
+  },
+  {
+    "name": "Werah Hub Space",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "KFC",
+    "address": "Kehemu Primary School, Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Dili's Takeaway",
+    "address": "E Kakakuru, Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "New World GAG Pub",
+    "address": "House Number 88, Rundu, Namibia",
+    "phone": "+264812996592"
+  },
+  {
+    "name": "Nitecall Entertainment Rundu",
+    "address": "Ndama Primary School, Trans-caprivi highway, 19001, Rundu, Namibia",
+    "phone": "+264811400868"
+  },
+  {
+    "name": "Adina Villa Bar",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Supersport Pub",
+    "address": "Markus Siwarongo St, Rundu, Namibia",
+    "phone": "+264813460046"
+  },
+  {
+    "name": "Kaisosi Lodge",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Tambuti Lodge",
+    "address": "Independence, Rundu, Namibia",
+    "phone": "+26466255707"
+  },
+  {
+    "name": "Peloz Pizza",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "New Life Ministry International",
+    "address": "Rundu, Namibia",
+    "phone": "+26466267322"
+  },
+  {
+    "name": "Micke's Steak house",
+    "address": "Rundu, Namibia",
+    "phone": "+26466266073"
+  },
+  {
+    "name": "All seasons restaurant",
+    "address": "Kavango Total Garage, Erf 2386 Markus Siwarongo St, Rundu, Namibia",
+    "phone": "+26466267110"
+  },
+  {
+    "name": "ROM Café",
+    "address": "Safari Street, Rundu, Namibia",
+    "phone": "+264812370453"
+  },
+  {
+    "name": "Rundu Shopping Mall",
+    "address": "Shop GF002, Erf 1078, Extension 3 Eugene Kakukuru Street, Rundu, Namibia",
+    "phone": "00210783"
+  },
+  {
+    "name": "The Factory Shop",
+    "address": "Mangetti Mall, Rundu, Namibia",
+    "phone": "+244066266950"
+  },
+  {
+    "name": "SPAR Kavango",
+    "address": "Markus Siwarongo St Unit 8&9, Mangetti Mall, Erf 1722, 19001, Rundu, Namibia",
+    "phone": "89172219001"
+  },
+  {
+    "name": "Rundu Cash And Carry",
+    "address": "Rundu Shopping Mall Cnr Maria Mwengere & Eugene Kakuru St, Rundu, Namibia",
+    "phone": "+26466256655"
+  },
+  {
+    "name": "Jet Rundu",
+    "address": "Rundu, Namibia",
+    "phone": "+264816914225"
+  },
+  {
+    "name": "PEP Home Rundu Shopping Centre",
+    "address": "Usivi Road, Stand 1603, Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Shoprite Rundu Mall",
+    "address": "21A Eeufees St 59A Main Street, Rundu, Namibia",
+    "phone": "+26466255662"
+  },
+  {
+    "name": "Shoprite Rundu",
+    "address": "Rundu, Namibia",
+    "phone": "+26461254973"
+  },
+  {
+    "name": "sportscene - Rundu",
+    "address": "Erf 1078 Kakukuru Street, Rundu, Namibia",
+    "phone": "+26466267100"
+  },
+  {
+    "name": "John Craig Rundu",
+    "address": "Rundu, Namibia",
+    "phone": "+26466256764"
+  },
+  {
+    "name": "Lewis Rundu",
+    "address": "Shop GF34, Rundu Mall Cnr Maria Mwengere & Eugene Kakuru Street, Namibia",
+    "phone": "+264833338115"
+  },
+  {
+    "name": "Pick n Pay",
+    "address": "Shop GF036, Rundu Shopping Mall, Rundu, Namibia",
+    "phone": "+26466267615"
+  },
+  {
+    "name": "Fashion World",
+    "address": "E Kakakuru Shop 12, Rundu Shopping Mall Rundu, 19001, Namibia",
+    "phone": "+26466267808"
+  },
+  {
+    "name": "Hungry Lion Rundu Mall",
+    "address": "E Kakakuru Shop 5, Stand Area 1, Rundu Plaza Rundu, 19001, Namibia",
+    "phone": "+26466256187"
+  },
+  {
+    "name": "Ackermans Rundu",
+    "address": "Shop No 4 & 5 New Africa Properties Building Main Road, Rundu, Namibia",
+    "phone": "+26466256842"
+  },
+  {
+    "name": "Studio 88",
+    "address": "Mangetti Mall, Rundu, Namibia",
+    "phone": "+26466255001"
+  },
+  {
+    "name": "Beares Rundu",
+    "address": "Rundu Shopping Mall, Shop GF024, Namibia, Rundu, Namibia",
+    "phone": "+26466255800"
+  },
+  { "name": "Rundu", "address": "Rundu, Namibia", "phone": null },
+  {
+    "name": "Rundu Open market",
+    "address": "Rundu, Namibia",
+    "phone": "+26466266073"
+  },
+  {
+    "name": "Rundu Trade Fair",
+    "address": "Цуфарт Хакузембе, Ривер Роуд, Namibia",
+    "phone": "+264812152496"
+  },
+  {
+    "name": "Khaudum National Park",
+    "address": "Mbwangungu Hamutenya Street Erf 1123 Tutungeni Area, Rundu, Namibia",
+    "phone": "+26466255711"
+  },
+  {
+    "name": "Mbunza Living Museum",
+    "address": "1A Fish Eagle St, Rundu, Namibia",
+    "phone": "+26466255244"
+  },
+  {
+    "name": "Popa Game Park",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kavango River Lodge",
+    "address": "DIvundu, Namibia",
+    "phone": "+27842995340"
+  },
+  {
+    "name": "Rundu, Namibia",
+    "address": "Queenspark, Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Nkwazi Lodge And Camping Site",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kaisosi",
+    "address": "Supermarket and Tavern, E Kakakuru, Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Daan Viljoen Game Reserve",
+    "address": "Kanzoni, Owamboland, Namibia, Zufahrt Hakusembe River Road, Rundu, Namibia",
+    "phone": "+26461427200"
+  },
+  {
+    "name": "Pupkewitz Toyota",
+    "address": "Rundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kaisosi River Lodge",
+    "address": "Tutungeni 2420, Rundu, Namibia",
+    "phone": "+264817459102"
+  },
+  {
+    "name": "Camp Hogo (Kavango)",
+    "address": "East, Namibia, Rundu, Namibia",
+    "phone": "+264662686000"
+  },
+  {
+    "name": "Shoprite Rundu",
+    "address": "Kanzoni, Owamboland, Namibia, Mupini, Namibia",
+    "phone": "+26466257023"
+  },
+  {
+    "name": "Niilo's Guest House",
+    "address": "Rundu, Namibia",
+    "phone": "+26466255823"
+  },
+  {
+    "name": "Hotel Rundu",
+    "address": "DIvundu, Namibia",
+    "phone": null
+  },
+  {
+    "name": "University of Namibia (UNAM), Rundu campus",
+    "address": "Rundu Shopping Mall Cnr Maria Mwengere & Eugene Kakuru St, Rundu, Namibia",
+    "phone": "+26466256655"
+  },
+  {
+    "name": "Bwabwata-National Park",
+    "address": "Kaisosi Road, East, Rundu, Namibia",
+    "phone": "+264812510002"
+  },
+  {
+    "name": "Shell Service Station (Ndama)",
+    "address": "E Kakakuru Shop 5, Stand Area 1, Rundu Plaza Rundu, 19001, Namibia",
+    "phone": "+26466256187"
+  },
+  {
+    "name": "Samsitu Campsite",
+    "address": "Windhoek, Namibia",
+    "phone": "+264833232444"
+  },
+  {
+    "name": "Engen",
+    "address": "Kayengona, Rundu, Namibia",
+    "phone": "+264812424897"
+  },
+  {
+    "name": "Hakusembe River Lodge, Gondwana Collection Namibia",
+    "address": "Rundu, Namibia",
+    "phone": "+26466255071"
+  },
+  {
+    "name": "Hotel Indongo Walvis Bay",
+    "address": "Pelican Point Peninsula, Walvis Bay, Namibia",
+    "phone": "+26464221282"
+  },
+  {
+    "name": "Namibia Skipper Services",
+    "address": "25, 11th Street, (Currently known as Moses Garoeb Street), Walvis Bay, Namibia",
+    "phone": "+26464203501"
+  },
+  {
+    "name": "Protea by Marriott Hotel Walvis Bay Pelican Bay",
+    "address": "The Esplanade, Walvis Bay, Namibia",
+    "phone": "+26464214000"
+  },
+  {
+    "name": "Bay View Resort Namibia",
+    "address": "Skeleton Coast, 42 Kovambo Nujoma Drive Meersig, Walvis Bay, Namibia",
+    "phone": "+26464207700"
+  },
+  {
+    "name": "Pelican Point Lodge",
+    "address": "Corner of Sam Nujoma Avenue &, 10th Rd, Walvis Bay, Namibia",
+    "phone": "+26464213700"
+  },
+  {
+    "name": "Flamingo Villas Boutique Hotel",
+    "address": "D1986, Walvis Bay, Namibia",
+    "phone": "+26464206807"
+  },
+  {
+    "name": "Hotel Indongo Walvis Bay",
+    "address": "18 JJ Cleverly Street, Lagoon, Walvis Bay, Namibia",
+    "phone": "+26464209230"
+  },
+  {
+    "name": "Blue Whale Boutique Hotel /Restaurant/Lounge",
+    "address": "136 Damara Tern,, Dolphin Bay, Swakopmund, Namibia",
+    "phone": "+264642734200"
+  },
+  {
+    "name": "The Langholm Hotel",
+    "address": "Corner of Sam Nujoma Avenue &, 10th Rd, Walvis Bay, Namibia",
+    "phone": "+26464213700"
+  },
+  {
+    "name": "Oyster Box Guesthouse",
+    "address": "Langstrand, Namibia",
+    "phone": "+264811477747"
+  },
+  {
+    "name": "Lagoon Suites Boutique Hotel",
+    "address": "Meersig Park, Nr. 8, 2nd street North, Walvis Bay, Namibia",
+    "phone": "+264816108764"
+  },
+  {
+    "name": "Lagoon Loge",
+    "address": "Meersig Park, 21 Integrity Street, Walvis Bay, Namibia",
+    "phone": "+264811504265"
+  },
+  {
+    "name": "Horus Guesthouse",
+    "address": "189 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+264813799749"
+  },
+  {
+    "name": "Anas Inn",
+    "address": "Langstrand, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Stay Cleverly Self Catering Apartments",
+    "address": "Namib, Walvis Bay, Namibia",
+    "phone": "+264812776200"
+  },
+  {
+    "name": "Namibia Skipper Services",
+    "address": "ERF 1538, Pluto Street, Kabeljou Area Walvis Bay, 13013, Namibia",
+    "phone": "153813013"
+  },
+  {
+    "name": "Bella Luna B&B",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+26464205587"
+  },
+  {
+    "name": "The Rez Guesthouse",
+    "address": "11 JH De Waard St, Walvis Bay, Namibia",
+    "phone": "+26464203034"
+  },
+  {
+    "name": "Amjicaja Guesthouse Tours & Rentals",
+    "address": "48 on, 9th Rd, Walvis Bay, Namibia",
+    "phone": "+264812055520"
+  },
+  {
+    "name": "Lagoon Chalets",
+    "address": "5GGV+FGC Sunset View Apartments, Kuiseb Street, Langstrand, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Namibia Skipper Services",
+    "address": "433 Kuiseb Avenue, Langstrand, Namibia",
+    "phone": "+264813033193"
+  },
+  {
+    "name": "Longbeach Hotel",
+    "address": "109 Theo-Ben Gurirab, Walvis Bay, Namibia",
+    "phone": "+264812578707"
+  },
+  {
+    "name": "Meransha Langstrand",
+    "address": "15th Rd, Walvis Bay, Namibia",
+    "phone": "+26464200199"
+  },
+  {
+    "name": "Jessma Bed and Breakfast",
+    "address": "96 Kuiseb Avenue, Langstrand, Namibia",
+    "phone": "+264813688259"
+  },
+  {
+    "name": "10de Laan B&B",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+26464213600"
+  },
+  {
+    "name": "Elilo Bed&breakfast",
+    "address": "Thomas Morris St, Walvis Bay, Namibia",
+    "phone": "+264813004497"
+  },
+  {
+    "name": "Meransha Self Catering CC Walvis Bay",
+    "address": "Meersig Park, No.2, 6th rd east, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "AuobCorner Self-Catering Accommodation",
+    "address": "The Eslpanade, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Sandpiper Dunes",
+    "address": "Neate, Walvis Bay, Namibia",
+    "phone": "+264812374105"
+  },
+  {
+    "name": "Atlantic Hotel",
+    "address": "26 Fritz Lange St, Walvis Bay, Namibia",
+    "phone": "+26464274850"
+  },
+  {
+    "name": "The Shifting Whispering Sands",
+    "address": "5th Rd, Walvis Bay, Namibia",
+    "phone": "+264812529161"
+  },
+  {
+    "name": "Dolphin beach villa",
+    "address": "22 Main Road, Meersig, Walvis Bay, Namibia",
+    "phone": "+264816549654"
+  },
+  {
+    "name": "Fair haven Guesthouse",
+    "address": "8 JJ Cleverly Street, Lagoon, Walvis Bay, Namibia",
+    "phone": "+264816088535"
+  },
+  {
+    "name": "de Baken Self-Catering Accommodation",
+    "address": "Auob St, Walvis Bay, Namibia",
+    "phone": "+264818531654"
+  },
+  {
+    "name": "Casa Mia",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Sunflower Self-Catering Accommodation",
+    "address": "Pioneer St, Walvis Bay, Namibia",
+    "phone": "+264814455996"
+  },
+  {
+    "name": "22 on Main Guesthouse Walvis Bay",
+    "address": "128 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+26464213000"
+  },
+  {
+    "name": "1932House Guesthouse",
+    "address": "Orange Rd Erf 232, Langstrand, Namibia",
+    "phone": "+26464200580"
+  },
+  {
+    "name": "Niche Guesthouse",
+    "address": "Thomas Morris St, Walvis Bay, Namibia",
+    "phone": "+26464270100"
+  },
+  {
+    "name": "The Countyard Hotel",
+    "address": "82 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+26464205348"
+  },
+  {
+    "name": "Dunes guesthouse",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+264811243102"
+  },
+  {
+    "name": "Cape Point Self-Catering",
+    "address": "Nangolo Mbumba Dr, Walvis Bay, Namibia",
+    "phone": "+264812843392"
+  },
+  {
+    "name": "Tuvawa Luxury Suites",
+    "address": "25, 11th Street, (Currently known as Moses Garoeb Street), Walvis Bay, Namibia",
+    "phone": "+26464203501"
+  },
+  {
+    "name": "La Coastal Guesthouse",
+    "address": "62 Nangolo Mbumba Dr, Walvis Bay, Namibia",
+    "phone": "+264814195886"
+  },
+  {
+    "name": "Bay Self Catering Accommodation",
+    "address": "Sam nujoma Avenue Narraville Surburb no:144, Walvis Bay, Namibia",
+    "phone": "+264812490618"
+  },
+  {
+    "name": "HLMT Self Catering Accommodation",
+    "address": "13 JJ Cleverly St, Walvis Bay, Namibia",
+    "phone": "+264817899573"
+  },
+  {
+    "name": "Sunnyside Guesthouse",
+    "address": "105 Kuiseb Avenue Langstrand, Walvis Bay, Namibia",
+    "phone": "+264813431742"
+  },
+  {
+    "name": "Deja Blue Beachfront Villa",
+    "address": "8th rd West, erf 1287 8th Rd, Walvis Bay, Namibia",
+    "phone": "+26464217900"
+  },
+  {
+    "name": "25 Sunset View, Langstrand",
+    "address": "8th rd West, erf 1287 8th Rd, Walvis Bay, Namibia",
+    "phone": "+26464217900"
+  },
+  {
+    "name": "48 on 9th Self Catering Apartments",
+    "address": "Langstrand, Namibia",
+    "phone": "+26464218820"
+  },
+  {
+    "name": "Selkie B&B",
+    "address": "Temple Crescent, 8 Meersig, Walvis Bay, Namibia",
+    "phone": "+264811246722"
+  },
+  {
+    "name": "Haus Schaaf b&b",
+    "address": "16 Riebeeck Cir, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "G-LEGACY GUESTROOM",
+    "address": "13 JJ Cleverly St, Walvis Bay, Namibia",
+    "phone": "+264817899573"
+  },
+  {
+    "name": "Dolphin Leap 7",
+    "address": "Meersig Park, Hesko Street 12, Walvis Bay, Namibia",
+    "phone": "+264811700774"
+  },
+  {
+    "name": "Liho self Catering Accomondation",
+    "address": "25, 11th Street, (Currently known as Moses Garoeb Street), Walvis Bay, Namibia",
+    "phone": "+26464203501"
+  },
+  {
+    "name": "Loubser's B&B/Backpackers",
+    "address": "11 Hesko Street, Mersig, Walvis Bay, Namibia",
+    "phone": "+264817954978"
+  },
+  {
+    "name": "Blue Lily Self Catering",
+    "address": "36 Esplanade, Walvis Bay, Namibia",
+    "phone": "+26464203203"
+  },
+  {
+    "name": "Etokelo",
+    "address": "26 Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+26464209164"
+  },
+  {
+    "name": "Vista Selfcatering",
+    "address": "Kovambo Nujoma Rd, Walvis Bay, Namibia",
+    "phone": "+26464200850"
+  },
+  {
+    "name": "DOLPHIN VIEW",
+    "address": "lagoonsuites1@gmail.com, 17 08th Road, Walvis Bay, Namibia",
+    "phone": "+264814408401"
+  },
+  {
+    "name": "Elise's Self Catering",
+    "address": "Corner 2nd Street West/ The Esplanade, Walvis Bay, Namibia",
+    "phone": "+26464202247"
+  },
+  {
+    "name": "Rojo Pub and Restaurant at The Walvis Bay Yacht Club",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+26464221739"
+  },
+  {
+    "name": "Godenfang Restaurant Walvis Bay",
+    "address": "Meersig Park, 8th Road West, Walvis Bay, Namibia",
+    "phone": "+264815638951"
+  },
+  {
+    "name": "Dockside Seafood & Grill",
+    "address": "122 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+264817375078"
+  },
+  {
+    "name": "Anchors Waterfront Restaurant",
+    "address": "Shop 111, Dunes Mall, Walvis Bay, Namibia",
+    "phone": "+26464207991"
+  },
+  {
+    "name": "CRAZY MAMAS",
+    "address": "Shop 115, Dunes Mall Corner M36 and, 18th Rd, Walvis Bay, Namibia",
+    "phone": "+26464200741"
+  },
+  {
+    "name": "The Raft Restaurant",
+    "address": "Shop 107, Dunes Mall, Walvis Bay, Namibia",
+    "phone": "+264817275386"
+  },
+  {
+    "name": "Bush Cafe & Family Restaurant",
+    "address": "Skeleton Coast, The Esplanade, The Raft Jetty, Walvis Bay, Namibia",
+    "phone": "+26464204877"
+  },
+  {
+    "name": "Mugg & Bean",
+    "address": "22 Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264817198981"
+  },
+  {
+    "name": "RocoMamas Walvis Bay",
+    "address": "Atlantic Street, Waterfront, Walvis Bay, Skeleton Coast, Namibia, Walvis Bay, Namibia",
+    "phone": "+26464205762"
+  },
+  {
+    "name": "Hickory Creek Spur",
+    "address": "15 Langer Heinrich Crescent, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Ye shanghai ( Desert Oasis Trading )",
+    "address": "Likaka Street, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "jamie-lee",
+    "address": "Kuisebmond, Walvis Bay, Namibia",
+    "phone": "+264812013107"
+  },
+  {
+    "name": "Walvis Bay",
+    "address": "6th St, Walvis Bay, Namibia",
+    "phone": "+26464209884"
+  },
+  {
+    "name": "Abby's Bistro",
+    "address": "Menesia Kamatuto Ave, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Quinton's",
+    "address": "ERF 7765, corner of Abraham Morris St. And Christian Sand St, Walvis Bay, Namibia",
+    "phone": "+264818509486"
+  },
+  {
+    "name": "Homeaway Restaurant",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+26464205454"
+  },
+  {
+    "name": "Flamingo Villas Restaurant",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+264816201399"
+  },
+  {
+    "name": "Hungry Lion Walvisbay",
+    "address": "100 Hage Geingob, Walvis Bay, Namibia",
+    "phone": "+26464200589"
+  },
+  {
+    "name": "Simons Kitchen lounge",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+264813666119"
+  },
+  {
+    "name": "O'Heilie's Steakhouse & Steve's Take Away",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Dr TK LaCoastal's Restaurant",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Bruegel's Pizzeria",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "IRIS Boutique Hotel & Restaurant",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Chicken King",
+    "address": "Dr. Putch Harris Drive, Walvis Bay, Namibia",
+    "phone": "+264816885013"
+  },
+  {
+    "name": "Quintons Sushi And Pizza",
+    "address": "162 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Shortman’s Pies",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Where's the Food? - WTF?",
+    "address": "B36 Airport road, Dunes mall, Walvis Bay, Namibia",
+    "phone": "+26464221234"
+  },
+  {
+    "name": "Dr TK LaCoastal's Tuck Shop",
+    "address": "Waterfront, 13013, Walvis Bay, Namibia",
+    "phone": "+264818964050"
+  },
+  {
+    "name": "Vlooi's Nest",
+    "address": "Boardwalk building. Top floor. Walvis Waterfrond, Walvis Bay, Namibia",
+    "phone": "+264811276062"
+  },
+  {
+    "name": "Hungry Lion Walvis Bay 2",
+    "address": "64 Sandwich St, Walvis Bay, Namibia",
+    "phone": "+264816428205"
+  },
+  {
+    "name": "Chinese Food",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+264812592371"
+  },
+  {
+    "name": "Chicken City",
+    "address": "368 2nd St, Walvis Bay, Namibia",
+    "phone": "+264812624747"
+  },
+  {
+    "name": "Blue Whale Boutique Hotel /Restaurant/Lounge",
+    "address": "5452 Mbabane Street Kuisebmund, Walvis Bay, Namibia",
+    "phone": "+264853031790"
+  },
+  {
+    "name": "Eighty Eights Street Walvis bay",
+    "address": "Erf 1301 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+26464202771"
+  },
+  {
+    "name": "Abantu Restaurant",
+    "address": "156 Sam Nujoma Ave Walvis Bay, 9000, Erongo, Namibia",
+    "phone": "+264833330311"
+  },
+  {
+    "name": "Desert Rose Take Away & Mini Market",
+    "address": "Unnamed Road, Walvis Bay, Namibia",
+    "phone": "+264818055581"
+  },
+  {
+    "name": "Styles Lounge",
+    "address": "Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+264814992468"
+  },
+  {
+    "name": "Restaurant",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kapana Walvis Bay",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Smoke House Deli",
+    "address": "Erf 3101 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+26464202771"
+  },
+  {
+    "name": "Wimpy",
+    "address": "Circumferential, Walvis Bay, Namibia",
+    "phone": "+264812687814"
+  },
+  {
+    "name": "Steers",
+    "address": "Shop 67, Dunes Mall Corner M36 and, 18th Rd, Walvis Bay, Namibia",
+    "phone": "+26464221604"
+  },
+  {
+    "name": "Chez Cui Chinese Restaurant Walvis Bay",
+    "address": "Langer Heinrich Crescent 4498, Walvis Bay, Namibia",
+    "phone": "+264856790698"
+  },
+  {
+    "name": "Way to go Tuck Shop",
+    "address": "13015, C/O 10th Road 6th St, Walvis Bay, Namibia",
+    "phone": "13015106"
+  },
+  {
+    "name": "Ocean Foods",
+    "address": "Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+26464200868"
+  },
+  {
+    "name": "Wizy Man Restaurant & Carwash",
+    "address": "D1986, Walvis Bay, Namibia",
+    "phone": "+26464206807"
+  },
+  {
+    "name": "KFC (Walvis Bay)",
+    "address": "Dunes Mall, Shop 147 & 148 Corner M36 and, 18th Rd, Walvis Bay, Namibia",
+    "phone": "1471483618"
+  },
+  {
+    "name": "niklos martin",
+    "address": "Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+264814677002"
+  },
+  {
+    "name": "Aladdin Pizza & Shawarma's",
+    "address": "Shop GF14 & 15, Metlife Plaza Cnr 7th &, 13013, 10th Street, Walvis Bay, Namibia",
+    "phone": "141571301310"
+  },
+  {
+    "name": "La Bella Vita",
+    "address": "172 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Two Oeans Events",
+    "address": "Erf no. 3439, Ekodhi St, Walvis Bay, Namibia",
+    "phone": "+264817217105"
+  },
+  {
+    "name": "The Yatch Club",
+    "address": "Sam Nujoma Avenue Walvis Bay, 90000, Namibia",
+    "phone": null
+  },
+  {
+    "name": "J&J Bites",
+    "address": "Orukungwini Street 3223D Walvis bay, 13013, Namibia",
+    "phone": "322313013"
+  },
+  {
+    "name": "Tonik Café",
+    "address": "Corner of Sam Nujoma Avenue and, 11th Rd, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Spur steak ranches",
+    "address": "Ekodhi St, Walvis Bay, Namibia",
+    "phone": "+264817217105"
+  },
+  {
+    "name": "Mr siseho",
+    "address": "Skeleton Coast, 42 Kovambo Nujoma Drive Meersig, Walvis Bay, Namibia",
+    "phone": "+26464207700"
+  },
+  {
+    "name": "Probst cafe",
+    "address": "11th Road &, Nangolo Mbumba Dr, Walvis Bay, Namibia",
+    "phone": "+264813025514"
+  },
+  {
+    "name": "Garfields Pizzeria",
+    "address": "Shop 145, The Dunes Mall Cnr M36 &, D1986, Walvis Bay, Namibia",
+    "phone": "145361986"
+  },
+  {
+    "name": "Biltong Cafe",
+    "address": "corner of Sam Nujoma avenue and, 11th Rd, Walvis Bay, Namibia",
+    "phone": "+26464221063"
+  },
+  {
+    "name": "Atlantic",
+    "address": "Kuisebmund, Walvis Bay, Namibia",
+    "phone": "+264814845283"
+  },
+  {
+    "name": "JD Car wash",
+    "address": "Walvis Bay, Namibia",
+    "phone": "+26464205631"
+  },
+  {
+    "name": "Champs Pub.",
+    "address": "6th St, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Phillip's Beer Garden Bar",
+    "address": "128 Sam Nujoma Ave, Walvis Bay, Namibia",
+    "phone": "+264814493547"
+  },
+  {
+    "name": "Dolphins Coffee Shoppe",
+    "address": "Namib Park Bowling Club, 2, Sport Street, Jan Wilken Stadium Rd, Walvis Bay, Namibia",
+    "phone": "+264816791875"
+  },
+  {
+    "name": "Young young's restaurant",
+    "address": "Kingfisher St, Walvis Bay, Namibia",
+    "phone": "+264812272564"
+  },
+  {
+    "name": "Ouma Se Kombuis",
+    "address": "14th Rd, Walvis Bay, Namibia",
+    "phone": "+26464207787"
+  },
+  {
+    "name": "Dunes Mall",
+    "address": "Erf 5433, C/O M36 & 18th Street, Dunes Mall, Walvis Bay, Namibia",
+    "phone": "54333618"
+  },
+  {
+    "name": "Spot-On Shopping Centre",
+    "address": "Nangolo Mbumba, Walvis Bay, Namibia",
+    "phone": "+26464206510"
+  },
+  {
+    "name": "Flamingo Lagoon",
+    "address": "Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Walvis Bay Museum",
+    "address": "Lagoon, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Dune 7 Adventures",
+    "address": "11 Astronaut St, Walvis Bay, Namibia",
+    "phone": "+264813699088"
+  },
+  {
+    "name": "Kuiseb Delta Adventures",
+    "address": "Dune 7, Walvis Bay, Namibia",
+    "phone": "+264816249665"
+  },
+  {
+    "name": "Dune 7",
+    "address": "39 8th Rd, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Walvis Bay Lagoon",
+    "address": "Nangolo Mbumba Dr, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Namibia Dolphin and Seal Catamaran Cruises",
+    "address": "Lagoon Promenade Rd, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "OKANGALA Tours & Safaris",
+    "address": "West at Lagoon Chalets, 8th Rd, Walvis Bay, Namibia",
+    "phone": "+264811282580"
+  },
+  {
+    "name": "Sandwich Harbour 4x4 - Booking and Check-in Office",
+    "address": "Walvis Bay Waterfront, Walvis Bay, Namibia",
+    "phone": "+264812098169"
+  },
+  {
+    "name": "Walvis Bay",
+    "address": "Walvis Bay Waterfront, Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264811473933"
+  },
+  {
+    "name": "Mola Mola Safaris",
+    "address": "Meersig Park, 3rd Street, Vaughan Webster St, Walvis Bay, Namibia",
+    "phone": "+264812244530"
+  },
+  {
+    "name": "Walvis Bay",
+    "address": "Shop 52, c/o Sam Nujoma Avenue & Bismarck Street, Ankerplatz, Swakopmund, Namibia",
+    "phone": "+264811281038"
+  },
+  {
+    "name": "Sandwich Harbour Historic",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264817886800"
+  },
+  {
+    "name": "Pelican Point Kayaking",
+    "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+26464406080"
+  },
+  {
+    "name": "Sandwich Dune Tours and Safari",
+    "address": "Strand St, Swakopmund, Namibia",
+    "phone": "+26464402046"
+  },
+  {
+    "name": "Eco Marine Kayak Tours",
+    "address": "Craft Market, Strand Street, Tennis Court Parking Area, Swakopmund, Namibia",
+    "phone": "+264814304371"
+  },
+  {
+    "name": "Red Dune Safaris Namibia",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264817886800"
+  },
+  {
+    "name": "Snake Park",
+    "address": "7th Rd, Walvis Bay, Namibia",
+    "phone": "+264811477690"
+  },
+  {
+    "name": "Sun Sail Catamarans Namibia",
+    "address": "5 Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464405100"
+  },
+  {
+    "name": "Awesome Chapters Tours cc.",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264811293144"
+  },
+  {
+    "name": "Eco Marine Kayak Tours",
+    "address": "Meersig Park, 3rd Street, Vaughan Webster St, Walvis Bay, Namibia",
+    "phone": "+264812244530"
+  },
+  {
+    "name": "Eco-Gliding Tours",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264811293144"
+  },
+  {
+    "name": "Swakopmund Museum",
+    "address": "Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264811432452"
+  },
+  {
+    "name": "Kristall Galerie",
+    "address": "Waterfront, Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+264815533192"
+  },
+  {
+    "name": "Red Dune Safaris Namibia",
+    "address": "Walvis Bay Waterfront, Atlantic Street, Walvis Bay, Namibia",
+    "phone": "+26464205511"
+  },
+  {
+    "name": "Sun Sail Catamarans Namibia",
+    "address": "JGX3+X49 Sandwich Harbour, Anichab, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Driftwood Guesthouse",
+    "address": "136 Damara Tern,, Dolphin Bay, Swakopmund, Namibia",
+    "phone": "+264642734200"
+  },
+  {
+    "name": "Pebble Stone House",
+    "address": "A.Schad Promenade, Swakopmund, Namibia",
+    "phone": "+264644114000"
+  },
+  {
+    "name": "Strand Hotel",
+    "address": "Cnr. Daniel Tjongerero &, Windhoeker St, Swakopmund, Namibia",
+    "phone": "+26464403437"
+  },
+  {
+    "name": "Hansa Hotel Swakopmund",
+    "address": "173 Anton Lubowski Street Kramersdorf Swakopmund namibia, Swakopmund, Namibia",
+    "phone": "+264816345212"
+  },
+  {
+    "name": "Swakopmund Hotel and Entertainment Centre",
+    "address": "Suedstrand St. 1, Swakopmund, Namibia",
+    "phone": "+26464417700"
+  },
+  {
+    "name": "Bay View Resort Namibia",
+    "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+26464426000"
+  },
+  {
+    "name": "Beach Hotel Swakopmund",
+    "address": "2 Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+264644105200"
+  },
+  {
+    "name": "The Delight Hotel Swakopmund, Gondwana Collection Namibia",
+    "address": "3 Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464414200"
+  },
+  {
+    "name": "Seaside Hotel and Spa",
+    "address": "Erf 298, Mile 4, Dolphin Drive, Swakopmund, Namibia",
+    "phone": "+26464415900"
+  },
+  {
+    "name": "Beach Lodge",
+    "address": "S Long Island St, Swakopmund, Namibia",
+    "phone": "+264816453125"
+  },
+  {
+    "name": "Swakopmund Luxury Suites",
+    "address": "Moses Garoeb St, Swakopmund, Namibia",
+    "phone": "+26464405587"
+  },
+  {
+    "name": "Prost Hotel",
+    "address": "4 Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464403340"
+  },
+  {
+    "name": "Hotel Schweizerhaus Swakopmund",
+    "address": "Ludwig Koch St 9, Swakopmund, Namibia",
+    "phone": "+264815622338"
+  },
+  {
+    "name": "Hotel Deutsches Haus",
+    "address": "Tsavorite, Swakopmund, Namibia",
+    "phone": "+264813666532"
+  },
+  {
+    "name": "Alte Brücke Resort",
+    "address": "17 First Ave, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "The Mole Guesthouse",
+    "address": "Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464462468"
+  },
+  {
+    "name": "Namibia Nights @ Cordes",
+    "address": "Welwitschia, Swakopmund, Namibia",
+    "phone": "+264856589044"
+  },
+  {
+    "name": "Desert Breeze",
+    "address": "D1901, Swakopmund, Namibia",
+    "phone": "+264811505185"
+  },
+  {
+    "name": "Hotel Prinzessin Rupprecht B&B Swakopmund Namibia",
+    "address": "Orange Rd Erf 232, Langstrand, Namibia",
+    "phone": "+26464200580"
+  },
+  {
+    "name": "A La Mer Hotel",
+    "address": "5371 Welwitschia, Swakopmund, Namibia",
+    "phone": "+26464400301"
+  },
+  {
+    "name": "The Mole Guesthouse",
+    "address": "Am Zoll, Swakopmund, Namibia",
+    "phone": "+26464400771"
+  },
+  {
+    "name": "Swakopmund Gästehaus",
+    "address": "6 Bismarck St, Swakopmund, Namibia",
+    "phone": "+26464402035"
+  },
+  {
+    "name": "Hotel Eberwein",
+    "address": "13001, 4 Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464417100"
+  },
+  {
+    "name": "Sandcastle B&B and Self-Catering Apartments",
+    "address": "Bismarck St, Swakopmund, Namibia",
+    "phone": "+26464405061"
+  },
+  {
+    "name": "Rossmund Lodge",
+    "address": "Turmalin Swakopmund, 9000, Region, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Burning Shore Hotel",
+    "address": "105 Kuiseb Avenue Langstrand, Walvis Bay, Namibia",
+    "phone": "+264813431742"
+  },
+  {
+    "name": "Driftwood Guesthouse",
+    "address": "3 Strand St, Swakopmund, Namibia",
+    "phone": "+26464405045"
+  },
+  {
+    "name": "Atlantic Garden Boutique Hotel & Southern Cross Adventure Lodges",
+    "address": "Tamariskia Ext 3 Swakopmund,Erongo region, Namibia",
+    "phone": "+264814183595"
+  },
+  {
+    "name": "Boathouse Sea View",
+    "address": "13001, 35 Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+264812115135"
+  },
+  {
+    "name": "Alte Brücke Resort",
+    "address": "15 Swakop St, Swakopmund, Namibia",
+    "phone": "+264818455810"
+  },
+  {
+    "name": "Hotel Prinzessin Rupprecht B&B Swakopmund Namibia",
+    "address": "84 Turmalin, Swakopmund, Namibia",
+    "phone": "+264811270728"
+  },
+  {
+    "name": "Sea View Backpackers",
+    "address": "D1991, Swakopmund, Namibia",
+    "phone": "+26464405976"
+  },
+  {
+    "name": "Kramersdorf Gästehaus/ Guesthouse",
+    "address": "Cnr. Daniel Tjongerero &, Windhoeker St, Swakopmund, Namibia",
+    "phone": "+26464403437"
+  },
+  {
+    "name": "Jetty Self Catering Accommodation",
+    "address": "4 Bernstein St, Swakopmund, Namibia",
+    "phone": "+26464462743"
+  },
+  {
+    "name": "Sea Breeze Guesthouse",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Namib Guesthouse",
+    "address": "Camelthorn St, Swakopmund, Namibia",
+    "phone": "+264816100271"
+  },
+  {
+    "name": "Meike's Gästehaus/ Guesthouse",
+    "address": "Langstrand, Namibia",
+    "phone": "+26464218820"
+  },
+  {
+    "name": "Gecko Ridge",
+    "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+26464407105"
+  },
+  {
+    "name": "Hidden Haven Guest House, Swakopmund, NAMIBIA",
+    "address": "M.Garoeb St, Swakopmund, Namibia",
+    "phone": "+264811284064"
+  },
+  {
+    "name": "Villa Maji",
+    "address": "37 Acacia Street, Ocean View Ext. 9, Swakopmund, Namibia",
+    "phone": "+264813642585"
+  },
+  {
+    "name": "Hotel Pension d'Avignon",
+    "address": "217 Tin, Swakopmund, Namibia",
+    "phone": "+26464462017"
+  },
+  {
+    "name": "The Timeless Way",
+    "address": "47c/oTobiias Hainyekostreet & 9000, Rhode Allee, Swakopmund, Namibia",
+    "phone": "+264813359959"
+  },
+  {
+    "name": "Ocean House",
+    "address": "20 Ebony, Swakopmund, Namibia",
+    "phone": "+264815806829"
+  },
+  {
+    "name": "Royal Sea Star Guesthouse",
+    "address": "Südstrand Street, Swakopmund River Mouth, Swakopmund, Namibia",
+    "phone": "+264814501797"
+  },
+  {
+    "name": "Desert Jackal Guesthouse",
+    "address": "9 Namib St, Swakopmund, Namibia",
+    "phone": "+26461252100"
+  },
+  {
+    "name": "Beach Garden",
+    "address": "100 Turmalin, Swakopmund, Namibia",
+    "phone": "+26464403042"
+  },
+  {
+    "name": "Skeleton Beach Backpackers",
+    "address": "1 Aragoniet Street, Swakopmund, Namibia",
+    "phone": "+264817329463"
+  },
+  {
+    "name": "Desert Sands Boutique B&B | Self Catering",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464402713"
+  },
+  {
+    "name": "Beach Walk House And Cottage - Self-Catering",
+    "address": "Fischreiher Street nr 78, Swakopmund, Namibia",
+    "phone": "+26464462930"
+  },
+  {
+    "name": "La Casetta Bed & Breakfast",
+    "address": "22 Richthofenstr, Swakopmund, Namibia",
+    "phone": "+26464405157"
+  },
+  {
+    "name": "Salty Jackal Backpackers & Surf Camp",
+    "address": "Rhode Allee, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Be-Still Accommodation",
+    "address": "173 Anton Lubowski Street Kramersdorf Swakopmund namibia, Swakopmund, Namibia",
+    "phone": "+264816345212"
+  },
+  {
+    "name": "@lantic Apartments",
+    "address": "1, Dunen Street, Swakopmund, Namibia",
+    "phone": "+26464462657"
+  },
+  {
+    "name": "Stay@Swakop Guesthouse",
+    "address": "90 Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+264811291789"
+  },
+  {
+    "name": "Swakopmund Beach Hotel",
+    "address": "No 9 Kraal Street, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Anandi Guesthouse Swakopmund",
+    "address": "37 Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+264814651465"
+  },
+  {
+    "name": "Guesthouse Fischreiher",
+    "address": "Robert Blank, Swakopmund, Namibia",
+    "phone": "+264812766497"
+  },
+  {
+    "name": "Alternative Space B & B",
+    "address": "5- Vineta Lumen, Swakopmund, Namibia",
+    "phone": "+264811290001"
+  },
+  {
+    "name": "Sea Wind Self Catering Cottages",
+    "address": "18 Berg, Swakopmund, Namibia",
+    "phone": "+264816909696"
+  },
+  {
+    "name": "Orange House",
+    "address": "C/o Anton Lubowski Ave, & Matadi Matheis St, Swakopmund, Namibia",
+    "phone": "+264817477155"
+  },
+  {
+    "name": "Tiger Reef Campsite",
+    "address": "Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464404770"
+  },
+  {
+    "name": "Footprints Self Catering and B&B",
+    "address": "14 Moses Garoeb str, Vineta, P.O. Box 23658 Windhoek, Swakopmund, Swakopmund, Namibia",
+    "phone": "+26464400315"
+  },
+  {
+    "name": "Sophia Dale Base Camp",
+    "address": "9 Dolphin, Swakopmund, Namibia",
+    "phone": "+264811504208"
+  },
+  {
+    "name": "Pebble Stone House",
+    "address": "56 Rhode Allee, Swakopmund, Namibia",
+    "phone": "+264811490449"
+  },
+  {
+    "name": "Bushbabies-Inn",
+    "address": "22 Richthofenstr, Swakopmund, Namibia",
+    "phone": "+26464405157"
+  },
+  {
+    "name": "Riekert's Holiday Apartment",
+    "address": "5 Harder, Swakopmund, Namibia",
+    "phone": "+264811247701"
+  },
+  {
+    "name": "Be My Guest Self-Catering Accommodation",
+    "address": "Erf 123, Plover, Swakopmund, Namibia",
+    "phone": "+264814425959"
+  },
+  {
+    "name": "Guesthouse Indongo",
+    "address": "120 Swakop River Plots, D1901, Swakopmund, Namibia",
+    "phone": "+26464406332"
+  },
+  {
+    "name": "Longbeach Hotel",
+    "address": "Windhoeker St, Swakopmund, Namibia",
+    "phone": "+26464405863"
+  },
+  {
+    "name": "The Residence Swakopmund",
+    "address": "Erf Number, 13001, 9149 Pisces Street, Swakopmund, Namibia",
+    "phone": "130019149"
+  },
+  {
+    "name": "Seboa Guesthouse",
+    "address": "36 Bismarck St, Swakopmund, Namibia",
+    "phone": "+26464404037"
+  },
+  {
+    "name": "Gecko Ridge Lodge",
+    "address": "61 Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+26464407151"
+  },
+  {
+    "name": "Gut Richthofen",
+    "address": "Corner Strand &, Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+264816761077"
+  },
+  {
+    "name": "Dunedin Star Guest House",
+    "address": "48 Turmalin, Swakopmund, Namibia",
+    "phone": "+26464463348"
+  },
+  {
+    "name": "Goanikontes Oasis Rest Camp",
+    "address": "121 Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+264816471904"
+  },
+  {
+    "name": "Amarachi Guesthouse",
+    "address": "Erf 447 Strand Street South, Swakopmund, Namibia",
+    "phone": "+26464404918"
+  },
+  {
+    "name": "The Residence",
+    "address": "20 Berg, Swakopmund, Namibia",
+    "phone": "+264853344567"
+  },
+  {
+    "name": "Swakopmund Backpackers",
+    "address": "Corner Theo-Ben Guribab &, Tobias Hainyeko, Street, Namibia",
+    "phone": "+264813441671"
+  },
+  {
+    "name": "Swakopmund Accommodation",
+    "address": "15 ANTON LUBOWSKI STR, Swakopmund, Namibia",
+    "phone": "+26464412540"
+  },
+  {
+    "name": "Joseph Self Catering & Accomodation",
+    "address": "Seal Street Erf 129, Mile 4, Swakopmund, Namibia",
+    "phone": "+26464463952"
+  },
+  {
+    "name": "Meransha Langstrand",
+    "address": "Riesle, Swakopmund, Namibia",
+    "phone": "+26464405045"
+  },
+  {
+    "name": "Double En-suite Bedroom Oryx - Big Common Space and Easy Access Beach Swakopmund",
+    "address": "89 Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+26464403210"
+  },
+  {
+    "name": "Swakopmund Sands",
+    "address": "152 4th Street Long Beach Walvis Bay, Walvis Bay, Namibia",
+    "phone": "+26464207568"
+  },
+  {
+    "name": "Hotel Europa Hof",
+    "address": "Erf 161 Rossmund Estate, Swakopmund, Namibia",
+    "phone": "+26464414600"
+  },
+  {
+    "name": "Hotel Pension Rapmund",
+    "address": "4 Woker, Swakopmund, Namibia",
+    "phone": "+26464403632"
+  },
+  {
+    "name": "Sandpiper Dunes",
+    "address": "15 ANTON LUBOWSKI STR, Swakopmund, Namibia",
+    "phone": "+26464412540"
+  },
+  {
+    "name": "Artemis Hotel Swakopmund",
+    "address": "Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464462008"
+  },
+  {
+    "name": "The Stiltz",
+    "address": "Albertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464404130"
+  },
+  {
+    "name": "MTC Dome Namibia",
+    "address": "13001, 6 Werft, Swakopmund, Namibia",
+    "phone": "+264811460999"
+  },
+  {
+    "name": "Moonlight Resort",
+    "address": "13001, 6 Werft, Swakopmund, Namibia",
+    "phone": "+264811460999"
+  },
+  {
+    "name": "MTC Dome Hotel & Conference Centre",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464406236"
+  },
+  {
+    "name": "The Waterfront Cottage F12",
+    "address": "Erf 447 Strand Street South, Swakopmund, Namibia",
+    "phone": "+26464404918"
+  },
+  {
+    "name": "Molensicht No. 8",
+    "address": "Cordes & Co building, Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+264816684744"
+  },
+  {
+    "name": "Dolphin beach villa",
+    "address": "13 Luderitz Street, Swakopmund, Namibia",
+    "phone": "+26464404896"
+  },
+  {
+    "name": "The Wreck Restaurant",
+    "address": "Hendrik Witbooi cnr, Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+26464461871"
+  },
+  {
+    "name": "Jetty 1905 Restaurant",
+    "address": "The Mole, Main Beach, Swakopmund, Namibia",
+    "phone": "+264817120409"
+  },
+  {
+    "name": "The Tug Restaurant",
+    "address": "A, 1905 On the Jetty Bridge, Swakopmund, Namibia",
+    "phone": "+264813803595"
+  },
+  {
+    "name": "Altstadt Restaurant",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464402214"
+  },
+  {
+    "name": "Old Sailor Swakopmund",
+    "address": "Strand St, Swakopmund, Namibia",
+    "phone": "+264813894400"
+  },
+  {
+    "name": "Old Steamer Restaurant",
+    "address": "c/o Tobias Hainyeko, 13001, and Mandume yaNdemufayo Street, Swakopmund, Namibia",
+    "phone": "+26464463463"
+  },
+  {
+    "name": "Fork 'n Nice",
+    "address": "A.Schad Promenade, Molen Road, Jetty Area, Swakopmund, Namibia",
+    "phone": "+26464402356"
+  },
+  {
+    "name": "Lighthouse Restaurant",
+    "address": "1 Stint, Swakopmund, Namibia",
+    "phone": "+26464414528"
+  },
+  {
+    "name": "Garnish Swakopmund",
+    "address": "Drc new location, Swakopmund, Namibia",
+    "phone": "+264818556640"
+  },
+  {
+    "name": "Ocean Basket Swakopmund",
+    "address": "Jetty Bridge, Swakopmund, Namibia",
+    "phone": "+264813969585"
+  },
+  {
+    "name": "The Fish Deli",
+    "address": "Tuli Nawa, 13001, Waterberg street, Swakopmund, Namibia",
+    "phone": "+264812881914"
+  },
+  {
+    "name": "Ocean Cellar",
+    "address": "Waterberg street, Swakopmund, Namibia",
+    "phone": "+264812597650"
+  },
+  {
+    "name": "Kücki's Pub",
+    "address": "31 Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+264813414944"
+  },
+  {
+    "name": "Anchor Point Restaurant",
+    "address": "On The Mole, Swakopmund, Namibia",
+    "phone": "+264644114000"
+  },
+  {
+    "name": "Cosmopolitan",
+    "address": "8 Philip Street, Swakopmund, Namibia",
+    "phone": "+264811691899"
+  },
+  {
+    "name": "Tiger Reef Beach Bar & Grill",
+    "address": "3 Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464414200"
+  },
+  {
+    "name": "Wurstbude",
+    "address": "5 Einstein, Swakopmund, Namibia",
+    "phone": "+264817771956"
+  },
+  {
+    "name": "Hafeni Traditional Restaurant",
+    "address": "1 Bismarck St, Swakopmund, Namibia",
+    "phone": "+26464400331"
+  },
+  {
+    "name": "Yokohama Sushi Bar",
+    "address": "Erf 2808 gemsberg street, Swakopmund, Namibia",
+    "phone": "+264818702167"
+  },
+  {
+    "name": "Desert Creek Spur",
+    "address": "Strand St, Swakopmund, Namibia",
+    "phone": "+264812810308"
+  },
+  {
+    "name": "Napolitana",
+    "address": "erf 701 Mondelani st, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Seafood boil swakopmund",
+    "address": "Swakopmund, Namibia",
+    "phone": "+264812116006"
+  },
+  {
+    "name": "Gabriele's Italian Pizzeria",
+    "address": "10th St, Swakopmund, Namibia",
+    "phone": "+264816211436"
+  },
+  {
+    "name": "Bits 'n Pizzas Swakopmund, Namibia",
+    "address": "Swakop St, Swakopmund, Namibia",
+    "phone": "+264811282633"
+  },
+  {
+    "name": "Steakout Swakopmund",
+    "address": "Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Fachwerk Biergarten",
+    "address": "Kaondeka Street, Swakopmund, Namibia",
+    "phone": "+264815868882"
+  },
+  {
+    "name": "Andy's Sushi, Oyster and Fine Seafood Restaurant",
+    "address": "John Otto Nankudhu Str, Swakopmund, Namibia",
+    "phone": "+264813334251"
+  },
+  {
+    "name": "Steers Amplatz",
+    "address": "An der Molle, Swakopmund, Namibia",
+    "phone": "+264812116006"
+  },
+  {
+    "name": "Gallo Swakopmund",
+    "address": "Swakop St, Swakopmund, Namibia",
+    "phone": "+26464404204"
+  },
+  {
+    "name": "Ankerplatz Restaurant and wine bar",
+    "address": "Uridago St, Swakopmund, Namibia",
+    "phone": "+264812191470"
+  },
+  {
+    "name": "The Courtyard",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Western Saloon Pizzeria Cc",
+    "address": "Nelson Mandela Ave, Swakopmund, Namibia",
+    "phone": "+264813179807"
+  },
+  {
+    "name": "Swakopmund Waffelhaus",
+    "address": "8 Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464405395"
+  },
+  {
+    "name": "Random Cafe",
+    "address": "Molen Weg, Swakopmund, Namibia",
+    "phone": "+264644114512"
+  },
+  {
+    "name": "Beryl's Take-Away Restaurant",
+    "address": "Shop no. 109a-110b, Platz Am Meer Shopping Centre Corner Tsavorite & Albatros Street, Vineta North, Swakopmund, Namibia",
+    "phone": "+26464400911"
+  },
+  {
+    "name": "Mondesa Kapana in the pan",
+    "address": "15 Swakop St, Swakopmund, Namibia",
+    "phone": "+264818213051"
+  },
+  {
+    "name": "Chez Wou Chinese Restaurant",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464461717"
+  },
+  {
+    "name": "Mugg & Bean",
+    "address": "erf 2583 Tulinawa, Swakopmund, Namibia",
+    "phone": "+264857404955"
+  },
+  {
+    "name": "The HeartBeat",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Showroom Eatery",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Rogario's Smash Burgers",
+    "address": "Swakopmund, Namibia",
+    "phone": "+264814159233"
+  },
+  {
+    "name": "Truth Café And Restaurant",
+    "address": "Ocean View, Agulhas St, Swakopmund, Namibia",
+    "phone": "+264814424504"
+  },
+  {
+    "name": "Welwitchia resturaunt",
+    "address": "210 OB Street Mondesa, Swakopmund, Namibia",
+    "phone": "+264812134443"
+  },
+  {
+    "name": "Fisherman’s Kitchen",
+    "address": "Strand St, Swakopmund, Namibia",
+    "phone": "+264817396704"
+  },
+  {
+    "name": "Fishaways",
+    "address": "Obadja Uuhona St, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "INspired Pizza",
+    "address": "13001, 1375 Jackson Kaujeua Street, Swakopmund, Namibia",
+    "phone": "130011375"
+  },
+  {
+    "name": "Bojos Café",
+    "address": "Tennis courts, Swakopmund, Namibia",
+    "phone": "+264857699500"
+  },
+  {
+    "name": "Wild Rocket Cafe",
+    "address": "Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+264833330308"
+  },
+  {
+    "name": "Cai Thai Tai中餐馆",
+    "address": "Shop no. 190a - 110b, Platz Am Meer Shopping Centre Corner Tsavorite & Albatros Street, Vineta North, Swakopmund, Namibia",
+    "phone": "+26464400911"
+  },
+  {
+    "name": "Louchelle's Seafood",
+    "address": "A.Schad Promenade, Swakopmund, Namibia",
+    "phone": "+264644114000"
+  },
+  {
+    "name": "Village Cafe",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Nicks pizza Place",
+    "address": "Woermann & Brock, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Grandma's Kitchen",
+    "address": "979 8th Ave W, Swakopmund, Namibia",
+    "phone": "+264813837501"
+  },
+  {
+    "name": "Hungry Lion Swakopmund",
+    "address": "Shop 10, Shoprite Centre Cnr Kaiser Wilhelm & Strasse Street, Swakopmund, Namibia",
+    "phone": "+264833338116"
+  },
+  {
+    "name": "Steers",
+    "address": "Strand St, Swakopmund, Namibia",
+    "phone": "+264817634063"
+  },
+  {
+    "name": "Chip Tavern",
+    "address": "22.678003,14.527654, Swakopmund, Namibia",
+    "phone": "2267800314527654"
+  },
+  {
+    "name": "Strand Hotel",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464400774"
+  },
+  {
+    "name": "KFC with Drive-through",
+    "address": "Brockerhoff, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Surf N Chicken",
+    "address": "Platz Am Meer, Swakopmund, Namibia",
+    "phone": "+264816688269"
+  },
+  {
+    "name": "Historical Swakopmund Township Tours",
+    "address": "Shop no. 109a-110b, Platz Am Meer Shopping Mall Corner Tsavorite & Albatros Street, Vineta North, Swakopmund, Namibia",
+    "phone": "+26464400911"
+  },
+  {
+    "name": "Tandakie's Kitchen",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464403410"
+  },
+  {
+    "name": "Nathalia's Lifestyle Family Home Kitchen",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464461046"
+  },
+  {
+    "name": "Let's Taco bout it",
+    "address": "Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+264813335115"
+  },
+  {
+    "name": "Warm Water Self Catering",
+    "address": "Swakopmund, Namibia",
+    "phone": "+264856518486"
+  },
+  {
+    "name": "Market cafe",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+264814231674"
+  },
+  {
+    "name": "Memphis Barbecue & Blues",
+    "address": "#6 Nathaniel Maxuilili Street, Swakopmund, Namibia",
+    "phone": "+264812562214"
+  },
+  {
+    "name": "Happy.Me Swakopmund",
+    "address": "Shop 137, Platz am Meer Shopping, Swakopmund, Namibia",
+    "phone": "+264818569995"
+  },
+  {
+    "name": "Leo's Kitchen",
+    "address": "Shop no. 3116-125, Platz Am Meer Shopping Centre Corner Tsavorite & Albatros Street, Vineta North, Swakopmund, Namibia",
+    "phone": "+26464463977"
+  },
+  {
+    "name": "Monkey Puzzle Cafe",
+    "address": "C/O Daniel Tjongarero Ave &, Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464403081"
+  },
+  {
+    "name": "The Spot.Cc",
+    "address": "8th Ave W, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Soundgarden Swakopmund",
+    "address": "C/O Daniel Tjongarero Ave &, Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464403081"
+  },
+  {
+    "name": "La Cuisine",
+    "address": "16 Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464403963"
+  },
+  {
+    "name": "Debonairs Pizza",
+    "address": "Platz am Meer, Swakopmund, Namibia",
+    "phone": "+26464463090"
+  },
+  {
+    "name": "Brewer & Butcher",
+    "address": "15 Swakop St, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Western Saloon Restaurant",
+    "address": "10 Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+264818671004"
+  },
+  {
+    "name": "Lekker Happie Food Caravan",
+    "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Vintage Bar & Grill Swakopmund",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464403925"
+  },
+  {
+    "name": "UNCLE JONA TAKEAWAY",
+    "address": "Vrede Rede Ave, Swakopmund, Namibia",
+    "phone": "+264816453125"
+  },
+  {
+    "name": "Desert Tavern",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+264816470438"
+  },
+  {
+    "name": "Genis Se Dis",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464400911"
+  },
+  {
+    "name": "Bourbon Braddah",
+    "address": "Monotoka St, Swakopmund, Namibia",
+    "phone": "+264818306233"
+  },
+  {
+    "name": "Bakery Restaurant",
+    "address": "9 Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+26464462911"
+  },
+  {
+    "name": "蔡太太",
+    "address": "33 Nathaniel Maxuilili, Swakopmund, Namibia",
+    "phone": "+26464402773"
+  },
+  {
+    "name": "SOFT SERVE",
+    "address": "Unnamed Road, Swakopmund, Namibia",
+    "phone": "+264644105201"
+  },
+  {
+    "name": "Queenb cookie's",
+    "address": "456 Ongulumbashe street, Swakopmund, Namibia",
+    "phone": "+264814752956"
+  },
+  {
+    "name": "Kakuna-we self catering",
+    "address": "Next To Cafe Anton, 1 Bismarck St, Swakopmund, Namibia",
+    "phone": "+264818635020"
+  },
+  {
+    "name": "Cartel.Bus",
+    "address": "Desert Explorers Adventure Center, Shop 259, 259 Woermann St, Swakopmund, Namibia",
+    "phone": "+26464462755"
+  },
+  {
+    "name": "The Pug and Prop",
+    "address": "lucas nehoya street, Swakopmund, Namibia",
+    "phone": "+26464461708"
+  },
+  {
+    "name": "Cafe Anton Confectionery | Cakes & Cookies",
+    "address": "SHOP 2, NEXT TO PARATUS, SAM NUJOMA DRIVE BONUS MARKTPLATZ, Swakopmund, Namibia",
+    "phone": "+264814894264"
+  },
+  {
+    "name": "Chicken Village Swk",
+    "address": "Vrede Rede Ave, Swakopmund, Namibia",
+    "phone": "+26464405345"
+  },
+  {
+    "name": "Weya enter business center",
+    "address": "37 Daniel Tjongarero St, Swakopmund, Namibia",
+    "phone": "+26464400133"
+  },
+  {
+    "name": "Two Beards Coffeehouse",
+    "address": "Südstrand Street Swakopmund River Mouth, Swakopmund, Namibia",
+    "phone": "+264818457377"
+  },
+  {
+    "name": "Platz Am Meer",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+264813171444"
+  },
+  {
+    "name": "Ocean View Shopping Centre.",
+    "address": "Sam Nujome Ave, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Bonus Marktplatz",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Swakop Town Centre",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464404018"
+  },
+  {
+    "name": "Shoprite Centre - Swakopmund",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464419140"
+  },
+  {
+    "name": "American Swiss",
+    "address": "19 Nathaniel Maxuilili, Swakopmund, Namibia",
+    "phone": "+264816064266"
+  },
+  {
+    "name": "Lwasa B P Artist Arcade",
+    "address": "Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+264811242023"
+  },
+  {
+    "name": "Your Woermann, Vineta",
+    "address": "33 Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464402029"
+  },
+  {
+    "name": "Atlanta Arkade",
+    "address": "c/o Tsavorite & Albatros Street, Vineta North, Swakopmund, Namibia",
+    "phone": "+26464462242"
+  },
+  {
+    "name": "Little Ethiopia",
+    "address": "shop 22,23,24 Woermann Brock Mall Sam Nujoma Drive Swakopmund, Swakopmund, Namibia",
+    "phone": "+26464407267"
+  },
+  {
+    "name": "Hrabovsky Bottle Store and Tobacconist",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Zebra Crossing Boutique",
+    "address": "Albatros St Shop 115, Platz Am Meer Waterfront Shopping Centre, Swakopmund, Namibia",
+    "phone": "+26464460074"
+  },
+  {
+    "name": "Your Woermann, Mondesa",
+    "address": "Woerman Brock Centre, Cnr Kaiser Wilhelm &, Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464402836"
+  },
+  {
+    "name": "Eastern Concepts, A. Kornblum",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Cosdef Arts & Craft Centre",
+    "address": "Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464405081"
+  },
+  {
+    "name": "Your Woermann Swakopmund Main Branch",
+    "address": "Corner of Nathaniel Maxuilili and, 13001, Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+264812605445"
+  },
+  {
+    "name": "Outdoor Centre Swakopmund",
+    "address": "71 Albatros Street, Swakopmund, Namibia",
+    "phone": "+26464400540"
+  },
+  {
+    "name": "Craft Market Swakopmund",
+    "address": "Corner of Brauhaus Arcade &, Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464402874"
+  },
+  {
+    "name": "Woolworths @ The Atrium",
+    "address": "Brauhaus Arkade, Swakopmund, Namibia",
+    "phone": "+26464461376"
+  },
+  {
+    "name": "Farm & Ocean Swakopmund",
+    "address": "19 Nathaniel Maxuilili Street Swakopmund, 00000, Namibia",
+    "phone": "+264814167119"
+  },
+  {
+    "name": "The Trading Post Swakopmund",
+    "address": "The Atrium Building, 6 Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+26464405921"
+  },
+  {
+    "name": "Bargain Corner",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464464093"
+  },
+  {
+    "name": "Make Waves - Swakopmund",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464415517"
+  },
+  {
+    "name": "dishouwdt Swakopmund",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464403812"
+  },
+  {
+    "name": "Checkers Waterfront Swakopmund",
+    "address": "A.Schad Promenade, Swakopmund, Namibia",
+    "phone": "+264813995600"
+  },
+  {
+    "name": "Ling Shop",
+    "address": "32 B, Sam Nujoma Avenue, Swakopmund, Namibia",
+    "phone": "+26464402721"
+  },
+  {
+    "name": "Die Muschel Book & Art Shop",
+    "address": "Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+264812993773"
+  },
+  {
+    "name": "The Crazy Store Swakopmund Platz am Meer Waterfront",
+    "address": "C/o B2/ & Airport Rd, Swakopmund,, Sam Nujome Ave, Swakopmund, Namibia",
+    "phone": "+26464406122"
+  },
+  {
+    "name": "Mr Price / MRP",
+    "address": "Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Snake Park",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Swakopmund Museum",
+    "address": "Strand St, Swakopmund, Namibia",
+    "phone": "+26464402046"
+  },
+  {
+    "name": "National Marine Aquarium",
+    "address": "5 Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464405100"
+  },
+  {
+    "name": "Kristall Galerie",
+    "address": "Swakopmund, Namibia",
+    "phone": "+264818865788"
+  },
+  {
+    "name": "Desert explorers adventure centre",
+    "address": "Craft Market, Strand Street, Tennis Court Parking Area, Swakopmund, Namibia",
+    "phone": "+264814304371"
+  },
+  {
+    "name": "Swakopmund Mole",
+    "address": "Cbd Swakopmund, 13001, Namibia",
+    "phone": "+264818799065"
+  },
+  {
+    "name": "Swakopmund Activities Namibia",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464404341"
+  },
+  {
+    "name": "Eco-Gliding Tours",
+    "address": "Nathaniel Maxuilili, Swakopmund, Namibia",
+    "phone": "+26464406096"
+  },
+  {
+    "name": "Altes Amtsgericht",
+    "address": "1 Strand St, Swakopmund, Namibia",
+    "phone": "+264644101214"
+  },
+  {
+    "name": "Charly's Desert Tours",
+    "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+26464406080"
+  },
+  {
+    "name": "Tommy's Living Desert Tours",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Woermannhaus",
+    "address": "Moses Garoeb St, Swakopmund, Namibia",
+    "phone": "+26464405587"
+  },
+  {
+    "name": "Swakopmund Public Beach",
+    "address": "Sossusvlei, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Hohenzollernhaus",
+    "address": "1 Bismarck St, Swakopmund, Namibia",
+    "phone": "+26464400331"
+  },
+  {
+    "name": "Karakulia Weavers",
+    "address": "Albertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464404130"
+  },
+  {
+    "name": "Swakopmund",
+    "address": "Plover St, Swakopmund, Namibia",
+    "phone": "+26464463511"
+  },
+  {
+    "name": "Die Muschel Book & Art Shop",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464403117"
+  },
+  {
+    "name": "Jetty 1905 Restaurant",
+    "address": "13, Erf 3497 Philip Street, Swakopmund, Namibia",
+    "phone": "+26464417030"
+  },
+  {
+    "name": "Peter's Antiques",
+    "address": "The Courtyard, Am Zoll, Plott 228c, Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464463298"
+  },
+  {
+    "name": "Alter-Action Sandboarding",
+    "address": "Ocean View, Dr Eugene Muller St, Swakopmund, Namibia",
+    "phone": "+26464419140"
+  },
+  {
+    "name": "Activities Namibia",
+    "address": "25 Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+264815666650"
+  },
+  {
+    "name": "Platz Am Meer",
+    "address": "waterfront, Swakopmund, Namibia",
+    "phone": "+264644114532"
+  },
+  {
+    "name": "Fine Art Gallery",
+    "address": "11 Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+26464463838"
+  },
+  {
+    "name": "Swakopmund Fat Bike Tours",
+    "address": "2 Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+264814295396"
+  },
+  {
+    "name": "Desert Tracks Bookings & Safaris",
+    "address": "CORNER OF ANTON LUBOWSKI AVENUE & NATANIEL MAXULILI STREET, Swakopmund, Namibia",
+    "phone": "+26464402339"
+  },
+  {
+    "name": "The Naturalist Collection t/a Batis Birding Safaris",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464463657"
+  },
+  {
+    "name": "Swakopmund State House",
+    "address": "Camelthorn St, Swakopmund, Namibia",
+    "phone": "+264816100271"
+  },
+  {
+    "name": "Desert, Dunes and Dust Tours",
+    "address": "1 Aragoniet Street, Swakopmund, Namibia",
+    "phone": "+264817329463"
+  },
+  {
+    "name": "Swakopmund, Beach",
+    "address": "Am Zoll, Swakopmund, Namibia",
+    "phone": "+26464400771"
+  },
+  {
+    "name": "GoSkydive4Fun - Swakopmund Skydiving Club",
+    "address": "21 Ebony, Swakopmund, Namibia",
+    "phone": "+264812610162"
+  },
+  {
+    "name": "Swakopmund Brauhaus",
+    "address": "Room 3, Central Sports Field, Swakopmund, Namibia",
+    "phone": "+264812515916"
+  },
+  {
+    "name": "Cosdef Arts & Craft Centre",
+    "address": "40 Nathaniel Maxuilili, Swakopmund, Namibia",
+    "phone": "+26464463126"
+  },
+  {
+    "name": "Center",
+    "address": "15 ANTON LUBOWSKI STR, Swakopmund, Namibia",
+    "phone": "+26464412540"
+  },
+  {
+    "name": "Alte Brücke Resort",
+    "address": "Eliaser Tuhadeleni Street, Swakopmund, Namibia",
+    "phone": "+26464403777"
+  },
+  {
+    "name": "Kaiserliches bezirksgericht",
+    "address": "lucas nehoya street, Swakopmund, Namibia",
+    "phone": "+26464461708"
+  },
+  {
+    "name": "Swakopmund Hotel and Entertainment Centre",
+    "address": "JGX3+X49 Sandwich Harbour, Anichab, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Mile 4 Caravan Park",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464402407"
+  },
+  {
+    "name": "Marine memorial",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464403575"
+  },
+  {
+    "name": "BlueGrass",
+    "address": "34 Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+264813324293"
+  },
+  {
+    "name": "Ground Rush Adventures",
+    "address": "D1991, Swakopmund, Namibia",
+    "phone": "+26464405976"
+  },
+  {
+    "name": "Lutheran Church",
+    "address": "Molen Weg, Swakopmund, Namibia",
+    "phone": "+264644114512"
+  },
+  {
+    "name": "Strand Hotel",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464402713"
+  },
+  {
+    "name": "Swakopmund Plaza Hotel",
+    "address": "B2 Road, Farm 160 PTN GolfBaa, Stand 00000160, Swakopmund, Namibia",
+    "phone": "8+25216000000160"
+  },
+  {
+    "name": "Namibia Tours & Safaris",
+    "address": "South Atlantic Ocean, Jakkalsputz, Namibia",
+    "phone": "+264818865788"
+  },
+  {
+    "name": "Mondesa",
+    "address": "3 Strand St, Swakopmund, Namibia",
+    "phone": "+26464405045"
+  },
+  {
+    "name": "The Delight Hotel Swakopmund, Gondwana Collection Namibia",
+    "address": "14 Moses Garoeb str, Vineta, P.O. Box 23658 Windhoek, Swakopmund, Swakopmund, Namibia",
+    "phone": "+26464400315"
+  },
+  {
+    "name": "The Tug Restaurant",
+    "address": "Mile 14, C34, Swakopmund, Namibia",
+    "phone": "+264837004414"
+  },
+  {
+    "name": "The Wreck Restaurant",
+    "address": "Eastern Concepts complex, 5 Einstein, Swakopmund, Namibia",
+    "phone": "+264811244177"
+  },
+  {
+    "name": "Dune 7",
+    "address": "2 Philip Street, Swakopmund, Namibia",
+    "phone": "+26464405220"
+  },
+  {
+    "name": "Desert Villa Guesthouse & Tours",
+    "address": "37 Anton Lubowski Ave, Swakopmund, Namibia",
+    "phone": "+264814651465"
+  },
+  {
+    "name": "The Trading Post Swakopmund",
+    "address": "Mandume Ya Ndemufayo, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Food Lover's Market Swakopmund",
+    "address": "Cape Cross, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Checkers Waterfront Swakopmund",
+    "address": "Südstrand Street Swakopmund River Mouth, Swakopmund, Namibia",
+    "phone": "+264818457377"
+  },
+  {
+    "name": "Namibia Nights @ Cordes",
+    "address": "13001, 6 Werft, Swakopmund, Namibia",
+    "phone": "+264811460999"
+  },
+  {
+    "name": "Salty Jackal Backpackers & Surf Camp",
+    "address": "Cordes & Co building, Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+264816684744"
+  },
+  {
+    "name": "Namib Dunes Brewery",
+    "address": "71 Albatros Street, Swakopmund, Namibia",
+    "phone": "+26464400540"
+  },
+  {
+    "name": "Old Steamer Restaurant",
+    "address": "Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464405081"
+  },
+  {
+    "name": "Cape Cross Seal Reserve",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464419140"
+  },
+  {
+    "name": "Swakopmund Railway Station",
+    "address": "57 Nathaniel Maxuilili Street, Swakopmund, Namibia",
+    "phone": "+264811438188"
+  },
+  {
+    "name": "The Mole Guesthouse",
+    "address": "39 8th Rd, Walvis Bay, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Tiger Reef Beach Bar & Grill",
+    "address": "Haigamkab, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Safari Tours Namibia",
+    "address": "A.Schad Promenade, Molen Road, Jetty Area, Swakopmund, Namibia",
+    "phone": "+26464402356"
+  },
+  {
+    "name": "Namib-Naukluft National Park",
+    "address": "1 Stint, Swakopmund, Namibia",
+    "phone": "+26464414528"
+  },
+  {
+    "name": "Windpomp 14",
+    "address": "Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+26464426000"
+  },
+  {
+    "name": "Swakopmund Sands",
+    "address": "Moses Garoeb &, Moses Garoeb Cnr, 13001, Mandume Ya Ndemufayo, Swakopmund, Namibia",
+    "phone": "+26464414400"
+  },
+  {
+    "name": "Rossmund Golf Course",
+    "address": "Libertina Amathila Ave, Swakopmund, Namibia",
+    "phone": "+26464426500"
+  },
+  {
+    "name": "Zeila Shipwreck Namibia",
+    "address": "A.Schad Promenade, Swakopmund, Namibia",
+    "phone": "+264644114000"
+  },
+  {
+    "name": "Alternative Space B & B",
+    "address": "Daniel Tjongarero Ave, Swakopmund, Namibia",
+    "phone": "+26464402635"
+  },
+  {
+    "name": "Goanikontes Oasis Rest Camp",
+    "address": "Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+26464406038"
+  },
+  {
+    "name": "Brewer & Butcher",
+    "address": "Unit A, 1 Tobias Hainyeko Street, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Kücki's Pub",
+    "address": "2 Theo-Ben Gurirab Ave, Swakopmund, Namibia",
+    "phone": "+264644105200"
+  },
+  {
+    "name": "Villa Margherita",
+    "address": "Dolphin Drive, Swakopmund, Namibia",
+    "phone": "+26464461781"
+  },
+  {
+    "name": "Hafeni Traditional Restaurant",
+    "address": "Am Zoll St, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Crossroads Car Hire",
+    "address": "Erf 447 Strand Street South, Swakopmund, Namibia",
+    "phone": "+26464404918"
+  },
+  {
+    "name": "Atlantic Desert Tours",
+    "address": "C/o B2/ & Airport Rd, Swakopmund,, Sam Nujome Ave, Swakopmund, Namibia",
+    "phone": "+26464406122"
+  },
+  {
+    "name": "Swakop Cycle Tours",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464402214"
+  },
+  {
+    "name": "The Stiltz",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Sea Wind Self Catering Cottages",
+    "address": "Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Eagle Eye Aviation",
+    "address": "Chobe Street, Swakopmund, Namibia",
+    "phone": "+264817181573"
+  },
+  {
+    "name": "Desert Sky Backpackers",
+    "address": "Box 7499, Swakopmund, Namibia",
+    "phone": "+264818670705"
+  },
+  {
+    "name": "Bar Zonder Naam",
+    "address": "Airport Road, Hanger 13 B, Swakopmund Airport, P.O.Box 8355, Swakopmund, Namibia",
+    "phone": "+264812436923"
+  },
+  {
+    "name": "Seboa Tours and Car Hire",
+    "address": "c/o Tsavorite & Albatros Street, Vineta North, Swakopmund, Namibia",
+    "phone": "+26464462242"
+  },
+  {
+    "name": "Bead World",
+    "address": "The Atrium Building, 6 Hendrik Witbooi, Swakopmund, Namibia",
+    "phone": "+264813955813"
+  },
+  {
+    "name": "Ocean Cellar",
+    "address": "34 Sam Nujoma Ave, Swakopmund, Namibia",
+    "phone": "+264812773214"
+  },
+  {
+    "name": "Swakopmund Luxury Suites",
+    "address": "Libertina Amathila Ave, Shop 3, Unit A, Swakopmund, Namibia",
+    "phone": "+264814972045"
+  },
+  {
+    "name": "The Old Town House",
+    "address": "3973 Einstein, Swakopmund, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Build it Swakopmund",
+    "address": "Moses Garoeb Street 25, At Amanpuri Travellers Lodge, Swakopmund, Namibia",
+    "phone": "+264811282737"
+  },
+  {
+    "name": "Soutgat Dead Sea Swimhole",
+    "address": "Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464405624"
+  },
+  {
+    "name": "SPAR Ocean View",
+    "address": "A, 1905 On the Jetty Bridge, Swakopmund, Namibia",
+    "phone": "+264813803595"
+  },
+  {
+    "name": "Cafe Anton Confectionery | Cakes & Cookies",
+    "address": "Corner of Brauhaus Arcade &, Tobias Hainyeko, Swakopmund, Namibia",
+    "phone": "+26464402874"
+  },
+  {
+    "name": "A La Mer Hotel",
+    "address": "Swakopmund, Namibia",
+    "phone": "+26464461415"
+  },
+  {
+    "name": "Greenhill Chalets",
+    "address": "C42 Grootfontein, 12010, Namibia",
+    "phone": "+264816238915"
+  },
+  {
+    "name": "Meteorite Rest Camp",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Bambi Lodge",
+    "address": "Galton, Grootfontein, Namibia",
+    "phone": "+264813824138"
+  },
+  {
+    "name": "Grootfontein Guesthouse",
+    "address": "Grootfontein, Namibia",
+    "phone": "+264811288820"
+  },
+  {
+    "name": "Seidarap",
+    "address": "Erf 352 Moltke, Grootfontein, Namibia",
+    "phone": "+264813172525"
+  },
+  {
+    "name": "Courtyard Guest House Restaurant",
+    "address": "Plot Felsensquelle, Grootfontein, Namibia",
+    "phone": "+264813106795"
+  },
+  {
+    "name": "The Stone House",
+    "address": "C42, Grootfontein, Namibia",
+    "phone": "+264812658044"
+  },
+  {
+    "name": "Pondoki Rest Camp",
+    "address": "Farm Venus, Grootfontein, Namibia",
+    "phone": "+264812425456"
+  },
+  {
+    "name": "Arries se Stoep",
+    "address": "D2859, Grootfontein, Namibia",
+    "phone": "+264816237314"
+  },
+  {
+    "name": "Kalkfontein",
+    "address": "On the B8 Main Road, Grootfontein, Namibia",
+    "phone": "+264816170998"
+  },
+  {
+    "name": "Peace Garden Lodge",
+    "address": "19°31'36.0\"S 18°01'13., 3rd Ave, Tsumeb, Namibia",
+    "phone": "19313601801133"
+  },
+  {
+    "name": "Wendelstein Farmstay & Horse Trails",
+    "address": "Sam Nujoma, Grootfontein, Namibia",
+    "phone": "+264812782919"
+  },
+  {
+    "name": "Bush Baby Safaris",
+    "address": "Otavi Main Road, Grootfontein, Namibia",
+    "phone": "+26467243648"
+  },
+  {
+    "name": "Paradise Rest Camp",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Arries se Stoep",
+    "address": "Grootfontein, Namibia",
+    "phone": "+264812744881"
+  },
+  {
+    "name": "Purple Fig Bistro",
+    "address": "Sam Nujoma, Grootfontein, Namibia",
+    "phone": "+264812782919"
+  },
+  {
+    "name": "Hungry Lion Grootfontein",
+    "address": "Unnamed Road, Grootfontein, Namibia",
+    "phone": "+264816477055"
+  },
+  {
+    "name": "Courtyard Guest House Restaurant",
+    "address": "Okavango Rd, Grootfontein, Namibia",
+    "phone": "+264812064880"
+  },
+  {
+    "name": "The Grand Kapana",
+    "address": "Hage Geingob Avenue, Grootfontein, Namibia",
+    "phone": "+264816295760"
+  },
+  {
+    "name": "Linekela bar and Restaurant Erf29",
+    "address": "Grootfontein, Namibia",
+    "phone": "+26467243143"
+  },
+  {
+    "name": "Comrades Bar and Restaurant",
+    "address": "Shop 26, Otjivanda Mall, Grootfontein, Namibia",
+    "phone": "+264833338102"
+  },
+  {
+    "name": "Tigerquelle",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Tom and Jerry Bar Grootfontein",
+    "address": "Dr Toivo Ya Toivo, Grootfontein, Namibia",
+    "phone": "+264813693669"
+  },
+  {
+    "name": "Greenhill Chalets",
+    "address": "Ombika, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Universal Lounge",
+    "address": "Grootfontein, Namibia",
+    "phone": "+264816237314"
+  },
+  {
+    "name": "GRACE TECH",
+    "address": "Dornhügel, Nr. 241 Dornhügel, Nr. 241, Grootfontein, Namibia",
+    "phone": "+26467240439"
+  },
+  {
+    "name": "Otjiwanda Meat Market cc",
+    "address": "Farm 263, Grootfontein, Namibia",
+    "phone": "+264811471169"
+  },
+  {
+    "name": "Motion Lounge",
+    "address": "Cnr Garsfontein Road &, Sinovich Dr, Grootfontein, Pretoria, 0059, South Africa",
+    "phone": "+27609144242"
+  },
+  {
+    "name": "Otjivanda mall",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Accommodation",
+    "address": "No street, Grootfontein, Namibia",
+    "phone": "+264813331947"
+  },
+  {
+    "name": "HH 820 Accomodation",
+    "address": "D2859, Grootfontein, Namibia",
+    "phone": "+264816237314"
+  },
+  {
+    "name": "Seidarap",
+    "address": "D3021 Farm Abenab 707, 10005, Grootfontein, Namibia",
+    "phone": "302170710005"
+  },
+  {
+    "name": "Accommodation",
+    "address": "Farm Fiume, Grootfontein, Namibia",
+    "phone": "+264817042102"
+  },
+  {
+    "name": "HH 820 Accomodation",
+    "address": "On the B8 Main Road, Grootfontein, Namibia",
+    "phone": "+264816170998"
+  },
+  {
+    "name": "Kalkfontein",
+    "address": "Grootfontein, Namibia",
+    "phone": "+26467242117"
+  },
+  {
+    "name": "grootfontein namibia",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Paradise Rest Camp",
+    "address": "soweto 766, Grootfontein, Namibia",
+    "phone": "+26467242075"
+  },
+  {
+    "name": "Hakahana Enterprises",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Shell Service Station",
+    "address": "C42, Grootfontein, Namibia",
+    "phone": "+264812658044"
+  },
+  {
+    "name": "Wendelstein Farmstay & Horse Trails",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Fiume Lodge",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Primary School Wilhelm Nortier",
+    "address": "Grootfontein, Namibia",
+    "phone": "+26467240215"
+  },
+  {
+    "name": "Chahanic Stud & Safari",
+    "address": "Grootfontein, Namibia",
+    "phone": "+26467240215"
+  },
+  {
+    "name": "Grootfontein",
+    "address": "Drive, Otjivanda Mall, Sam Nujoma, Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Mervic Investment cc (DSTV supplies & Installation, CCTV Installation, Construction)",
+    "address": "12010, 715 Okavango Rd, Grootfontein, Namibia",
+    "phone": "12010715"
+  },
+  {
+    "name": "Roy's Rest Camp",
+    "address": "Grootfontein, Namibia",
+    "phone": "+264817406666"
+  },
+  {
+    "name": "Abenab Lodge & Safaris",
+    "address": "Galton, Grootfontein, Namibia",
+    "phone": "+264813824138"
+  },
+  {
+    "name": "Fiume Bush Camp",
+    "address": "Sam Nujoma, Grootfontein, Namibia",
+    "phone": "+264818433026"
+  },
+  {
+    "name": "Gästefarm Dornhügel",
+    "address": "12010, Dr Toivo Ya Toivo, Grootfontein, Namibia",
+    "phone": "+264813353880"
+  },
+  {
+    "name": "Etosha Village Restaurant",
+    "address": "Otavi Main Road, Grootfontein, Namibia",
+    "phone": "+26467243648"
+  },
+  {
+    "name": "Captain's Island Grootfontein",
+    "address": "Sam Nujoma, Grootfontein, Namibia",
+    "phone": "+26467242302"
+  },
+  {
+    "name": "Otjivanda mall",
+    "address": "12010, Hidipo Hamutenya St, Grootfontein, Namibia",
+    "phone": "+26467242061"
+  },
+  {
+    "name": "Jet Grootfontein - Otjivanda Namibia",
+    "address": "Sam Nujoma Drive, Otjivanda Mall, Grootfontein, Namibia",
+    "phone": "+26467240360"
+  },
+  {
+    "name": "The Crazy Store Grootfontein",
+    "address": "Chasie Street, Windhoek, Namibia",
+    "phone": "+26461243603"
+  },
+  {
+    "name": "Metro Namibia, Grootfontein",
+    "address": "Drive, Otjivanda Mall, Sam Nujoma, Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Clicks Grootfontein",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Pick n Pay",
+    "address": "Sam Nujoma, Grootfontein, Namibia",
+    "phone": "+264818433026"
+  },
+  {
+    "name": "Otjiwanda Meat Market cc",
+    "address": "Grootfontein, Namibia",
+    "phone": "+264812421536"
+  },
+  {
+    "name": "TOPS at SPAR Grootfontein",
+    "address": "Shop 14 B8 Main Road Otjivanda Shopping Centre, Grootfontein, Namibia",
+    "phone": "+26467240688"
+  },
+  {
+    "name": "Club Romeo",
+    "address": "Townlands 754 Shop 17, Otjivanda Shopping Centre, Grootfontein, Namibia",
+    "phone": "+26467240613"
+  },
+  {
+    "name": "The Grove Mall of Namibia",
+    "address": "D2830 Shop 18, Otjiwanda Mall Umlunga Grootfontein, 00067, Namibia",
+    "phone": "28301800067"
+  },
+  {
+    "name": "Grootfontein Village",
+    "address": "DF Malan and, J G Strijdom Rd, Grootfontein, Sasolburg, 1911, South Africa",
+    "phone": "+27123462693"
+  },
+  {
+    "name": "Old Fort Museum",
+    "address": "soweto 766, Grootfontein, Namibia",
+    "phone": "+26467242075"
+  },
+  {
+    "name": "Altes Fort",
+    "address": "Grootfontein, Namibia",
+    "phone": "+264816237314"
+  },
+  {
+    "name": "Hoba Meteorite",
+    "address": "D2859, Grootfontein, Namibia",
+    "phone": "+264816237314"
+  },
+  {
+    "name": "Grootfontein",
+    "address": "Otavi Main Road, Grootfontein, Namibia",
+    "phone": "+26467243648"
+  },
+  {
+    "name": "Wendelstein Farmstay & Horse Trails",
+    "address": "33 Okavango Rd, Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "grootfontein namibia",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "Etosha National Park",
+    "address": "Hoba West Farm,, Grootfontein, Namibia",
+    "phone": "+264811460941"
+  },
+  {
+    "name": "Pondoki Rest Camp",
+    "address": "1304 Hage Geingob Street Le Platz Shopping Centre, Tsumeb, Namibia",
+    "phone": "+26467222034"
+  },
+  {
+    "name": "Fiume Lodge",
+    "address": "Waterberg Plateau National Park, D 2512, Waterberg Northern central of Namibia, Namibia",
+    "phone": "+26467687018"
+  },
+  {
+    "name": "Woermann",
+    "address": "Dr N Tjiriange Street, Grootfontein, Namibia",
+    "phone": "+26467243385"
+  },
+  {
+    "name": "S F Auto CC",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "HH 820 Accomodation",
+    "address": "Grootfontein, Namibia",
+    "phone": "+26467240397"
+  },
+  {
+    "name": "Guinas",
+    "address": "Grootfontein, Namibia",
+    "phone": null
+  },
+  {
+    "name": "S F Auto CC",
+    "address": "Grootfontein, Namibia",
+    "phone": "+26467240397"
+  },
+  {
+    "name": "Steve's Motor Repairs",
+    "address": "Okavango Rd, Grootfontein, Namibia",
+    "phone": "+264812064880"
+  },
+  {
+    "name": "Otjozondjupa Region",
+    "address": "Farm Fiume, Grootfontein, Namibia",
+    "phone": "+264817042102"
+  },
+  {
+    "name": "Tsumeb",
+    "address": "Plot Felsensquelle, Grootfontein, Namibia",
+    "phone": "+264813106795"
+  },
+  {
+    "name": "Otjiwarongo",
+    "address": "C42, Grootfontein, Namibia",
+    "phone": "+264812658044"
+  },
+  {
+    "name": "Waterberg Plateau Campsite",
+    "address": "B1, Tsumeb, Namibia",
+    "phone": "+264811482391"
+  },
+  {
+    "name": "Okaukuejo",
+    "address": "Ilse Schatz Rd, Tsumeb, Namibia",
+    "phone": "+26467220447"
+  },
+  {
+    "name": "Shoprite Tsumeb",
+    "address": "Sam Nujoma, Grootfontein, Namibia",
+    "phone": "+264818433026"
+  }
+]

@@ -9,11 +9,11 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Malta';
+exports.country = 'Nepal';
 const country = this.country;
-const cities = ['Valletta', 'Birkirkara', 'Qormi', 'Mosta', 'Żabbar'];
+const cities = ['Kathmandu', 'Pokhara', 'Biratnagar', 'Dharan', 'Nepalgunj'];
 const filePath = `./addresses/${country}.json`;
-// required by replace-in-file
+// required by replace in file.
 const options = {
   files: `./addresses/${country}.json`,
   from: /\]\s*\[/gm,

@@ -1,0 +1,517 @@
+[
+  {
+    "name": "Mangrove Bay Hotel",
+    "address": "PO Box 790, Weno, Chuuk 96942, Micronesia",
+    "phone": "79096942"
+  },
+  {
+    "name": "Cliff Hotel & Restaurant",
+    "address": "Ohmine St, Palikir, Pohnpei 96941, Micronesia",
+    "phone": "+6913202573"
+  },
+  {
+    "name": "Island Palms Hotel & Restaurant",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205454"
+  },
+  {
+    "name": "L5 Hotel",
+    "address": "Pohnrakied St, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202414"
+  },
+  {
+    "name": "Ocean View Plaza Hotel",
+    "address": "Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913207049"
+  },
+  {
+    "name": "Yvonne's Hotel",
+    "address": "Porakied Street, Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913203230"
+  },
+  {
+    "name": "Joy Hotel & Restaurant",
+    "address": "Deketik Causeway Kolonia Pohnpei FM 96941, Deketik Causeway, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202065"
+  },
+  {
+    "name": "Sea Breeze Hotel",
+    "address": "Ohmine St, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202447"
+  },
+  {
+    "name": "7 Stars Inn & Riverside Restaurant",
+    "address": "Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913206147"
+  },
+  {
+    "name": "South Park Hotel",
+    "address": "Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913201248"
+  },
+  {
+    "name": "Pacific Treelodge Resort Kosrae",
+    "address": "Box 637 Treelodge, Kosrae, FM 96944, Micronesia",
+    "phone": "63796944"
+  },
+  {
+    "name": "Arnold's",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205022"
+  },
+  {
+    "name": "Hideaway Bar & Grill",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6919243554"
+  },
+  {
+    "name": "Cafe Ole",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913201818"
+  },
+  {
+    "name": "Fusion Restaurant",
+    "address": "Nan Mal Rd, Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913206825"
+  },
+  {
+    "name": "Saki Restaurant - Pohnpei",
+    "address": "Pohnrakied St, Pohnrakied, Pohnpei, Micronesia",
+    "phone": "+6913201972"
+  },
+  {
+    "name": "Kaselehlia Diner",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202772"
+  },
+  {
+    "name": "Orchid Restaurant (Ocean View)",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913201484"
+  },
+  {
+    "name": "Town's Diner",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913207978"
+  },
+  {
+    "name": "Angie's Fast Food",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205078"
+  },
+  {
+    "name": "Hot Plate",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202255"
+  },
+  {
+    "name": "SeaLand Fast Food",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913201658"
+  },
+  {
+    "name": "Centro Cuidad",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205631"
+  },
+  {
+    "name": "Sei Restaurant",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202587"
+  },
+  {
+    "name": "A-One Restaurant",
+    "address": "Peidie, Pohnpei, Micronesia",
+    "phone": "+6913201414"
+  },
+  {
+    "name": "691 Kings",
+    "address": "Nan Mal Rd, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913203474"
+  },
+  {
+    "name": "XTRA MILE SUSHI",
+    "address": "Kitti Cir Island Rd, Kolonia, Pohnpei Island, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Cliff Hotel & Restaurant",
+    "address": "Pwel Weita, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Nett Ramen",
+    "address": "Nantuelek, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205676"
+  },
+  {
+    "name": "PCR / Nantehlik Restaurant / Mummy's Club",
+    "address": "Porakied Street, Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913203230"
+  },
+  {
+    "name": "Lefty’s Bar",
+    "address": "Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913207049"
+  },
+  {
+    "name": "Island Palms Hotel & Restaurant",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913203474"
+  },
+  {
+    "name": "Joy Hotel & Restaurant",
+    "address": "Kaselehlie St, Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Chinastar Hotel & Restaurant",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205956"
+  },
+  {
+    "name": "Red Snapper Restaurant",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202030"
+  },
+  {
+    "name": "Mangrove Bay Bar",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Sea Breeze Hotel",
+    "address": "Kapwerosou Street, Kolonia, Pohnpei 96941, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Cherman Hadley",
+    "address": "Pohnrakied, Pohnpei, Micronesia",
+    "phone": "+6913201970"
+  },
+  {
+    "name": "Pahp Trakies Coffee Shop",
+    "address": "Deketik Causeway Kolonia Pohnpei FM 96941, Deketik Causeway, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202065"
+  },
+  {
+    "name": "One World Plaza Cafe",
+    "address": "Elenieng, Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "corner treats and smoothies",
+    "address": "Madolenihmw, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Darcy nisha mae Armisais",
+    "address": "PAMI Building, Deketik Causeway, Kolonia, Micronesia",
+    "phone": "+6913202066"
+  },
+  {
+    "name": "waggys store and take out",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Hide-away Hotel",
+    "address": "Ohmine St, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202447"
+  },
+  {
+    "name": "Deja Brew - Coffee & Pastry",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913207763"
+  },
+  {
+    "name": "Snowii's Ice Cream & Treats",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Ocean View Plaza Hotel",
+    "address": "Ohmine St, Palikir, Pohnpei 96941, Micronesia",
+    "phone": "+6913202573"
+  },
+  {
+    "name": "Palikir",
+    "address": "Pohnpei 96941, Micronesia",
+    "phone": "+6913204967"
+  },
+  {
+    "name": "Wills and Joe’s Bar and Grill",
+    "address": "Pohnrakied St, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202414"
+  },
+  {
+    "name": "Snowii's Ice Cream & Treats",
+    "address": "Kolonia, Micronesia",
+    "phone": "+6913208081"
+  },
+  {
+    "name": "South Park Hotel",
+    "address": "Nett, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Isamu Nakasone Store (INS)",
+    "address": "Kolonia pohnpei Pohnrakied FSM, 96941, Micronesia",
+    "phone": "+6919219233"
+  },
+  {
+    "name": "Grace's Special Bakery",
+    "address": "4th Street Kepinle, 329 Kolonia Pohnpei, 96941, Micronesia",
+    "phone": "432996941"
+  },
+  {
+    "name": "Cupid's Bar and Grille",
+    "address": "Deketik Causeway, Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "The Shack",
+    "address": "Kaselehlie St, Kolonia, Pohnpei Island, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Coco Marina Club",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913203332"
+  },
+  {
+    "name": "Mcgray Arzii Arvey's Spot",
+    "address": "Unnamed Road, Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Ray N Dor's Store",
+    "address": "Nantuelek, Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913202466"
+  },
+  {
+    "name": "4 R's Mini Mart Store",
+    "address": "P.O. Box 2198, Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Bargain Center-INS",
+    "address": "Peidie, Pohnpei, Micronesia",
+    "phone": "+6913202623"
+  },
+  {
+    "name": "Ace Commercial Center",
+    "address": "Palikir, Pohnpei, Micronesia",
+    "phone": "+6913207102"
+  },
+  {
+    "name": "Nan Rakied Super Souveniers Maker",
+    "address": "Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913202518"
+  },
+  {
+    "name": "Spanish Wall Park",
+    "address": "Marahu Village, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Nan Madol",
+    "address": "Porakied Street, Kolonia, Pohnpei Island, Micronesia",
+    "phone": "+6913203230"
+  },
+  {
+    "name": "Pilen Seleur Eel Pools",
+    "address": "Soledi, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Palikir",
+    "address": "Tamworohi, Pohnpei, Micronesia",
+    "phone": "+6913208437"
+  },
+  {
+    "name": "Japanese WWII Anti-Aircraft Guns",
+    "address": "Nanwei, Pohnpei Island, Micronesia",
+    "phone": "+6913204851"
+  },
+  {
+    "name": "Paipalap",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": "+6913205078"
+  },
+  {
+    "name": "Arnold's",
+    "address": "Kolonia, Pohnpei, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "L5 Hotel",
+    "address": "Neiwe, Micronesia",
+    "phone": "+6913302727"
+  },
+  {
+    "name": "Truk Stop Hotel & Restaurant",
+    "address": "Iras Rd, Weno, Chuuk, Micronesia",
+    "phone": "+6913307048"
+  },
+  {
+    "name": "Level 5 - Hotel & Cafe",
+    "address": "PO Box 790, Weno, Chuuk 96942, Micronesia",
+    "phone": "79096942"
+  },
+  {
+    "name": "Truk Blue Lagoon Resort",
+    "address": "1993 Weno Blvd, Weno, Chuuk 96942, Micronesia",
+    "phone": "199396942"
+  },
+  {
+    "name": "Rose Garden Restaurant",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "BS Café",
+    "address": "1993 Weno Blvd, Weno, Chuuk 96942, Micronesia",
+    "phone": "199396942"
+  },
+  {
+    "name": "Oriental Restaurant",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "LeiSide Restaurant",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": "+6913305782"
+  },
+  {
+    "name": "High Tide Restaurant",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Jeff’s Kitchen",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Truk Stop Hotel & Restaurant",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": "+6913306140"
+  },
+  {
+    "name": "Zion's Food Haus",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": "+6913307315"
+  },
+  {
+    "name": "Sunrise Resto",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": "+6913306644"
+  },
+  {
+    "name": "Choice Fast Food & Snack Bar",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": "+6913303197"
+  },
+  {
+    "name": "J-Square",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Level 5 - Hotel & Cafe",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Lucky Fastfood",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": "+6919302832"
+  },
+  {
+    "name": "Sasuketo Market",
+    "address": "Unnamed Road, Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Akçaabat Köfte Salonu",
+    "address": "Unnamed Road, Neiwe, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Sucular Doner Kebap",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Deep Down Restaurant",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Leni'Eoch",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Star Cafe",
+    "address": "2nd Second Floor Susumu’s Building, Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Mangroove Bar",
+    "address": "Sucular Doner Kebap, Weno, Chuuk 96942, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Mangroove Bar",
+    "address": "Iras Rd, Weno, Chuuk, Micronesia",
+    "phone": "+6913307048"
+  },
+  {
+    "name": "Steve's Container",
+    "address": "Weno, Chuuk 96942, Micronesia",
+    "phone": "+6913306371"
+  },
+  {
+    "name": "Peniesene Waterfalls",
+    "address": "Box 1086 Weno, State, Chuuk 96942, Micronesia",
+    "phone": "108696942"
+  },
+  {
+    "name": "Japanese WWII Lighthouse",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Wiichen Men's Meetinghouse",
+    "address": "1335 Pacific, Garden, Weno, Chuuk 96942, Micronesia",
+    "phone": "133596942"
+  },
+  {
+    "name": "Weno",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Royal Flush Game Room",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "SS Thorfinn",
+    "address": "Unnamed Road, Weno, Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Truk Lagoon Dive Center at The Truk Stop Hotel",
+    "address": "Weno, Chuuk, Micronesia",
+    "phone": null
+  },
+  {
+    "name": "Sapuk",
+    "address": "1993 Weno Blvd, Weno, Chuuk 96942, Micronesia",
+    "phone": "199396942"
+  }
+]
