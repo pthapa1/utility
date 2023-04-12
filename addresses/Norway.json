@@ -1,0 +1,5812 @@
+[
+  {
+    "name": "Hotel Bristol",
+    "address": "Sonja Henies plass 3, 0185 Oslo, Norway",
+    "phone": "+4722058000"
+  },
+  {
+    "name": "Scandic Sjølyst",
+    "address": "St. Olavs Gate 26, 0166 Oslo, Norway",
+    "phone": "+4741536500"
+  },
+  {
+    "name": "K7 Hotel Oslo",
+    "address": "St. Olavs Plass 1, 0165 Oslo, Norway",
+    "phone": "+4723155600"
+  },
+  {
+    "name": "Grand Hotel Oslo",
+    "address": "Prinsens gate 6, 0152 Oslo, Norway",
+    "phone": "+4721420480"
+  },
+  {
+    "name": "Radisson Blu Plaza Hotel, Oslo",
+    "address": "Kongens gate 7, 0153 Oslo, Norway",
+    "phone": "+4723100800"
+  },
+  {
+    "name": "Citybox Oslo",
+    "address": "Sjølyst plass 5, 0212 Oslo, Norway",
+    "phone": "+4723155100"
+  },
+  {
+    "name": "Radisson Blu Scandinavia Hotel, Oslo",
+    "address": "Bøkkerveien 15, 0579 Oslo, Norway",
+    "phone": "+4721957800"
+  },
+  {
+    "name": "Hotel Continental, Oslo",
+    "address": "Stortingsgata 24/26, 0117 Oslo, Norway",
+    "phone": "24260117"
+  },
+  {
+    "name": "Smarthotel Oslo",
+    "address": "Karl Johans gt. 31, 0159 Oslo, Norway",
+    "phone": "+4723212000"
+  },
+  {
+    "name": "Scandic St. Olavs plass",
+    "address": "Holbergs gate 30, 0166 Oslo, Norway",
+    "phone": "+4723293000"
+  },
+  {
+    "name": "Hotel Verdandi Oslo",
+    "address": "Parkveien 31B, 0350 Oslo, Norway",
+    "phone": "+4794856015"
+  },
+  {
+    "name": "Clarion Hotel Oslo",
+    "address": "Kjølberggata 29, 0653 Oslo, Norway",
+    "phone": "+4724074000"
+  },
+  {
+    "name": "Amerikalinjen",
+    "address": "Arbeidergata 4, 0159 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Radisson Blu Park Hotel, Oslo",
+    "address": "Torggata 17, 9300 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Clarion Hotel The Hub",
+    "address": "Schweigaards gate 53, 0191 Oslo, Norway",
+    "phone": "+15555555"
+  },
+  {
+    "name": "THE THIEF",
+    "address": "Dronningens Gate 8B, 0152 Oslo, Norway",
+    "phone": "+4722034401"
+  },
+  {
+    "name": "Radisson Blu Hotel, Alna Oslo",
+    "address": "Sognsvannsveien 20, 0372 Oslo, Norway",
+    "phone": "+4723252400"
+  },
+  {
+    "name": "Thon Hotel Opera",
+    "address": "Schweigaards gate 15B, 0191 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Anker Hotel",
+    "address": "Snarøyveien 20, 1360 Fornebu, Norway",
+    "phone": "+4767117000"
+  },
+  {
+    "name": "Comfort Hotel Xpress Central Station",
+    "address": "Munchs gate 5, 0165 Oslo, Norway",
+    "phone": "+4723219600"
+  },
+  {
+    "name": "Thon Hotel Rosenkrantz Oslo",
+    "address": "Lysebuveien 12, 0790 Oslo, Norway",
+    "phone": "+4721511000"
+  },
+  {
+    "name": "Park Inn by Radisson Oslo",
+    "address": "Grønlandsleiret 16, 0190 Oslo, Norway",
+    "phone": "+4723507098"
+  },
+  {
+    "name": "Scandic Holmenkollen Park Hotel",
+    "address": "Kjølberggata 29A, 0653 Oslo, Norway",
+    "phone": "+4724074000"
+  },
+  {
+    "name": "Radisson Blu Hotel, Alna Oslo",
+    "address": "Enebakkveien 625, 1404 Siggerud, Norway",
+    "phone": "+4764858100"
+  },
+  {
+    "name": "Park Inn by Radisson Oslo",
+    "address": "Rådhusgata 7B, 0151 Oslo, Norway",
+    "phone": "+4723310800"
+  },
+  {
+    "name": "Scandic Victoria",
+    "address": "Tollbugata 4, 0152 Oslo, Norway",
+    "phone": "+4722471717"
+  },
+  {
+    "name": "Forenom Aparthotel Oslo",
+    "address": "Dronningens Gate 21, 0154 Oslo, Norway",
+    "phone": "+4724145550"
+  },
+  {
+    "name": "Radisson Blu Hotel Nydalen, Oslo",
+    "address": "Kjølberggata 29, 0653 Oslo, Norway",
+    "phone": "+4724074003"
+  },
+  {
+    "name": "Hotell Bondeheimen",
+    "address": "Josefines gate 30, 0351 Oslo, Norway",
+    "phone": "+4740141111"
+  },
+  {
+    "name": "Revier",
+    "address": "Stortingsgata 16, 0161 Oslo, Norway",
+    "phone": "+4721043800"
+  },
+  {
+    "name": "Comfort Hotel Karl Johan",
+    "address": "Arbins gate 3, 0253 Oslo, Norway",
+    "phone": "+4793010009"
+  },
+  {
+    "name": "Sommerro",
+    "address": "Lienga 11, 1414 Kolbotn, Norway",
+    "phone": "+4766997800"
+  },
+  {
+    "name": "Oslo Guldsmeden Hotels",
+    "address": "Louises gate 20, 0169 Oslo, Norway",
+    "phone": "+4740141111"
+  },
+  {
+    "name": "Radisson RED Oslo Økern",
+    "address": "Ankerveien 117, 0766 Oslo, Norway",
+    "phone": "+4722510800"
+  },
+  {
+    "name": "Comfort Hotel Xpress Central Station",
+    "address": "Olav Kyrres gate 10, 0273 Oslo, Norway",
+    "phone": "+4740000254"
+  },
+  {
+    "name": "Scandic Oslo City",
+    "address": "Rosenborggata 24, 0356 Oslo, Norway",
+    "phone": "+4722510250"
+  },
+  {
+    "name": "Scandic Byporten Oslo",
+    "address": "Josefines gate 30, 0351 Oslo, Norway",
+    "phone": "+4740141111"
+  },
+  {
+    "name": "Saga Hotel Oslo",
+    "address": "Bygdøy allé 53, 0265 Oslo, Norway",
+    "phone": "+4793010009"
+  },
+  {
+    "name": "Comfort Hotel Xpress Youngstorget",
+    "address": "Colbjørnsens gate 3, 0256 Oslo, Norway",
+    "phone": "+4793010009"
+  },
+  {
+    "name": "Anker Hostel",
+    "address": "Statsråd Mathiesens vei 12, 0598 Oslo, Norway",
+    "phone": "+4723170000"
+  },
+  {
+    "name": "Thon Hotel Slottsparken",
+    "address": "Sven Bruns gate 1-7, 0166 Oslo, Norway",
+    "phone": "+4722510250"
+  },
+  {
+    "name": "P-Hotel Oslo",
+    "address": "Skovveien 8, 0256 Oslo, Norway",
+    "phone": "+4793010009"
+  },
+  {
+    "name": "Comfort Hotel Grand Central",
+    "address": "Innspurten 7, 0663 Oslo, Norway",
+    "phone": "+4722922200"
+  },
+  {
+    "name": "Thon Hotel Spectrum",
+    "address": "Haraldsheimveien 4, 0587 Oslo, Norway",
+    "phone": "+4722222965"
+  },
+  {
+    "name": "Clarion Collection Hotel Bastion",
+    "address": "Arbeidergata 4, 0159 Oslo, Norway",
+    "phone": "+4723155300"
+  },
+  {
+    "name": "Clarion Collection Hotel Folketeateret",
+    "address": "Parkveien 68 Box 2458 Solli, 0202 Oslo, Norway",
+    "phone": "6824580202"
+  },
+  {
+    "name": "Hotel Filip",
+    "address": "Holbergs Plass 1, 0166 Oslo, Norway",
+    "phone": "+4723157200"
+  },
+  {
+    "name": "Thon Hotel Terminus",
+    "address": "Grensen 20, 0159 Oslo, Norway",
+    "phone": "+4723155200"
+  },
+  {
+    "name": "Scandic Vulkan",
+    "address": "Kirkegata 30, 0153 Kvadraturen, Norway",
+    "phone": "+4723507098"
+  },
+  {
+    "name": "Thon Hotel Storo",
+    "address": "Martin Linges vei 2, 1364 Fornebu, Norway",
+    "phone": "+4721057000"
+  },
+  {
+    "name": "Thon Hotel Vika Atrium",
+    "address": "Kjølberggata 29C, 0653 Oslo, Norway",
+    "phone": "+4721646130"
+  },
+  {
+    "name": "Thon Hotel Europa",
+    "address": "Skovveien 15, 0257 Oslo, Norway",
+    "phone": "+4767792164"
+  },
+  {
+    "name": "Best Western Plus City Hotel",
+    "address": "Ullveien 4, 0791 Oslo, Norway",
+    "phone": "+4722811500"
+  },
+  {
+    "name": "Scandic Sjølyst",
+    "address": "Sognsveien 77C, 0855 Oslo, Norway",
+    "phone": "+4722028000"
+  },
+  {
+    "name": "Thon Hotel Cecil",
+    "address": "Bøkkerveien 15, 0579 Oslo, Norway",
+    "phone": "+4721957800"
+  },
+  {
+    "name": "First Hotel Millennium",
+    "address": "Bogstadveien 20, 0355 Oslo, Norway",
+    "phone": "+4723332300"
+  },
+  {
+    "name": "Clarion Collection Hotel Savoy",
+    "address": "Københavngata 10, 0566 Oslo, Norway",
+    "phone": "+4722993000"
+  },
+  {
+    "name": "Quality Hotel 33",
+    "address": "Østre Aker vei 33, 0581 Oslo, Norway",
+    "phone": "+4723193333"
+  },
+  {
+    "name": "Thon Hotel Gyldenløve",
+    "address": "Parkveien 25, 0350 Oslo, Norway",
+    "phone": "+4723332400"
+  },
+  {
+    "name": "Anker Apartment",
+    "address": "Voksenkollveien 60, 0790 Oslo, Norway",
+    "phone": "+4723222400"
+  },
+  {
+    "name": "Soria Moria hotel and conference center",
+    "address": "Tollbugata 25, 0157 Oslo, Norway",
+    "phone": "+4721022800"
+  },
+  {
+    "name": "Quality Hotel Hasle Linie",
+    "address": "Universitetsgata 11, 0164 Oslo, Norway",
+    "phone": "+4723354200"
+  },
+  {
+    "name": "numa | Topp Apartments",
+    "address": "Stortingsgata 8, 0161 Oslo, Norway",
+    "phone": "+4723314800"
+  },
+  {
+    "name": "Thon Hotel Ullevaal Stadion",
+    "address": "Sjølyst plass 5, 0212 Oslo, Norway",
+    "phone": "+4723155100"
+  },
+  {
+    "name": "Cochs Pension",
+    "address": "Munkedamsveien 45, 0250 Oslo, Norway",
+    "phone": "+4722833300"
+  },
+  {
+    "name": "Voksenåsen Hotell",
+    "address": "Kirkegata 30, 0153 Oslo, Norway",
+    "phone": "+4722421150"
+  },
+  {
+    "name": "Bob W Sentralen",
+    "address": "Vitaminveien 23, 0485 Oslo, Norway",
+    "phone": "+4723400200"
+  },
+  {
+    "name": "Scandic Holberg",
+    "address": "St. Olavs Gate 31, 0166 Oslo, Norway",
+    "phone": "+4723256300"
+  },
+  {
+    "name": "Scandic Fornebu",
+    "address": "Stenersgata 10, 0184 Oslo, Norway",
+    "phone": "+4722056000"
+  },
+  {
+    "name": "Central City Apartments",
+    "address": "Skippergata 7, 0152 Oslo, Norway",
+    "phone": "+4722477700"
+  },
+  {
+    "name": "Scandic Grensen",
+    "address": "Brugata 7, 0186 Oslo, Norway",
+    "phone": "+4723362700"
+  },
+  {
+    "name": "Scandic Karl Johan",
+    "address": "Storgata 21-23, 0184 Oslo, Norway",
+    "phone": "21230184"
+  },
+  {
+    "name": "Scandic Solli",
+    "address": "Vulkan, Maridalsveien 13A, 0175 Oslo, Norway",
+    "phone": "+4721057100"
+  },
+  {
+    "name": "Oslo Youth Hostel Haraldsheim",
+    "address": "Jernbanetorget 1, 0154 Oslo, Norway",
+    "phone": "+4722982800"
+  },
+  {
+    "name": "Scandic Helsfyr",
+    "address": "Munkedamsveien 65, 0270 Oslo, Norway",
+    "phone": "+4748213000"
+  },
+  {
+    "name": "Frogner House Apartments AS",
+    "address": "Grensen 19, 0159 Oslo, Norway",
+    "phone": "+4723318000"
+  },
+  {
+    "name": "Forenom",
+    "address": "Storgata 53H, 0182 Oslo, Norway",
+    "phone": "+4722997210"
+  },
+  {
+    "name": "Thon Hotel Linne",
+    "address": "Wergelandsveien 5, 0167 Oslo, Norway",
+    "phone": "+4723256600"
+  },
+  {
+    "name": "The Apartments Company",
+    "address": "Eilert Sundts gate 39, 0259 Oslo, Norway",
+    "phone": "+4722554490"
+  },
+  {
+    "name": "Villa Internationals",
+    "address": "Jernbanetorget 6, 0154 Oslo, Norway",
+    "phone": "+4723155500"
+  },
+  {
+    "name": "Frogner House Apartments, Oslo. Bygdoy Alle 53",
+    "address": "Fred Olsens gate 11, 0152 Oslo, Norway",
+    "phone": "+4722403292"
+  },
+  {
+    "name": "Forenom",
+    "address": "Møllergata 26, 0179 Oslo, Norway",
+    "phone": "+4722031100"
+  },
+  {
+    "name": "Frogner House Apartments - Colbjørnsens gate 4",
+    "address": "Lørenfaret 3, 0585 Oslo, Norway",
+    "phone": "+4724200300"
+  },
+  {
+    "name": "The APARTMENTS company Louises gate 20",
+    "address": "Parkveien 78, 0254 Oslo, Norway",
+    "phone": "+4794013091"
+  },
+  {
+    "name": "Quality Hotel Entry",
+    "address": "Europarådets Plass 1, 0154 Oslo, Norway",
+    "phone": "+4723104200"
+  },
+  {
+    "name": "Frogner House Apartments",
+    "address": "Karl Johans gt. 12, 0154 Oslo, Norway",
+    "phone": "+4723010352"
+  },
+  {
+    "name": "Bogstad Camping",
+    "address": "Sommerrogata 1, 0255 Oslo, Norway",
+    "phone": "+4721404900"
+  },
+  {
+    "name": "Sørmarka Conference Hotel",
+    "address": "Kongens gate 5, 0153 Oslo, Norway",
+    "phone": "+4790488440"
+  },
+  {
+    "name": "Hotel Christiania Teater",
+    "address": "Kristian IVs gate 2, 0159 Oslo, Norway",
+    "phone": "+4723214100"
+  },
+  {
+    "name": "Comfort Hotel Børsparken",
+    "address": "Nydalsveien 33, 0484 Oslo, Norway",
+    "phone": "+4723263000"
+  },
+  {
+    "name": "Thon Hotel Astoria",
+    "address": "Rosenkrantz' gate 13, 0121 Oslo, Norway",
+    "phone": "+4724147000"
+  },
+  {
+    "name": "Oslo Hotel Apartments",
+    "address": "Lakkegata 3, 0187 Oslo, Norway",
+    "phone": "+4722510250"
+  },
+  {
+    "name": "Thon Hotel Panorama",
+    "address": "Øvre Slottsgate 2C, 0157 Oslo, Norway",
+    "phone": "+4722400100"
+  },
+  {
+    "name": "First Hotel & Suites Oslo West",
+    "address": "Tevlingveien 21, 1081 Oslo, Norway",
+    "phone": "+4723287700"
+  },
+  {
+    "name": "Norwegian Hotels And Apartments",
+    "address": "Kongeveien 26, 0787 Oslo, Norway",
+    "phone": "+4722922000"
+  },
+  {
+    "name": "Gamle Oslo Apartments",
+    "address": "Fred Olsens gate 11, 0152 Oslo, Norway",
+    "phone": "+4722403292"
+  },
+  {
+    "name": "Lysebu",
+    "address": "Øvre Slottsgate 2C, 0157 Oslo, Norway",
+    "phone": "+4722400100"
+  },
+  {
+    "name": "Oslo International Designers Space",
+    "address": "Storgata 55, 0182 Oslo, Norway",
+    "phone": "+4722997510"
+  },
+  {
+    "name": "Universum AS",
+    "address": "Rosenkrantz' gate 1, 0159 Oslo, Norway",
+    "phone": "+4723315500"
+  },
+  {
+    "name": "Hotel Oslo",
+    "address": "Tevlingveien 21, 1081 Oslo, Norway",
+    "phone": "+4723287700"
+  },
+  {
+    "name": "Thon Hotel Munch",
+    "address": "Dronning Eufemias gate 4, 0191 Oslo, Norway",
+    "phone": "+4724103000"
+  },
+  {
+    "name": "Best Western Kampen Hotell",
+    "address": "Landgangen 1, 0252 Oslo, Norway",
+    "phone": "+4724004000"
+  },
+  {
+    "name": "Hereford Steakhouse",
+    "address": "Sørengkaia 101, 0194 Oslo, Norway",
+    "phone": "+4722102210"
+  },
+  {
+    "name": "KöD Oslo",
+    "address": "Gabels gate 11, 0272 Oslo, Norway",
+    "phone": "+4722446874"
+  },
+  {
+    "name": "Seaport Restaurant - Sørenga/Bjørvika",
+    "address": "Kirkegata 15, 0153 Oslo, Norway",
+    "phone": "+4722423777"
+  },
+  {
+    "name": "Maaemo",
+    "address": "Søndre gate 6, 0550 Oslo, Norway",
+    "phone": "+4722357944"
+  },
+  {
+    "name": "Den Glade Gris",
+    "address": "Rosenkrantz' gate 7, 0159 Oslo, Norway",
+    "phone": "+4722333711"
+  },
+  {
+    "name": "Basso Social",
+    "address": "Schweigaards gate 54A, 0656 Oslo, Norway",
+    "phone": "+4795009200"
+  },
+  {
+    "name": "Mehfel restaurant",
+    "address": "Storgata 10b, 0155 Oslo, Norway",
+    "phone": "+4781503284"
+  },
+  {
+    "name": "Il Professore",
+    "address": "Dronning Eufemias gate 23, 0194 Oslo, Norway",
+    "phone": "+4722179969"
+  },
+  {
+    "name": "Le Benjamin bar & bistro",
+    "address": "St. Olavs Gate 33, 0166 Oslo, Norway",
+    "phone": "+4722111710"
+  },
+  {
+    "name": "Dinner Restaurant",
+    "address": "Stortingsgata 22, 0161 Oslo, Norway",
+    "phone": "+4723100466"
+  },
+  {
+    "name": "Hos Thea",
+    "address": "Bygdøy allé 53, 0265 Oslo, Norway",
+    "phone": "+4724115353"
+  },
+  {
+    "name": "BENARES Indisk Restaurant and Bar",
+    "address": "Gamle, Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "À L’aise",
+    "address": "Torggata 16, 0181 Oslo, Norway",
+    "phone": "+4792073428"
+  },
+  {
+    "name": "Code Restaurant Oslo",
+    "address": "Mandalls gate 10b, 0190 Oslo, Norway",
+    "phone": "+4794070960"
+  },
+  {
+    "name": "Statholdergaarden",
+    "address": "Hegdehaugsveien 2, 0167 Oslo, Norway",
+    "phone": "+4721396476"
+  },
+  {
+    "name": "Mama Pho - Vietnamese restaurant in Oslo",
+    "address": "Dronningens Gate 22, 0154 Oslo, Norway",
+    "phone": "+4791511841"
+  },
+  {
+    "name": "Der Peppern Gror Rådhusplassen",
+    "address": "Stranden 3, 0250 Oslo, Norway",
+    "phone": "+4721090253"
+  },
+  {
+    "name": "Dovrehallen Restaurant 2etg. Oslo",
+    "address": "Sørengkaia 165, 167, 0194 Oslo, Norway",
+    "phone": "1651670194"
+  },
+  {
+    "name": "Restaurant Kontrast",
+    "address": "Henrik Ibsens gate 90, 0255 Oslo, Norway",
+    "phone": "+4722547171"
+  },
+  {
+    "name": "Restaurant Fjord",
+    "address": "Storgata 13, 0154 Oslo, Norway",
+    "phone": "+4790866668"
+  },
+  {
+    "name": "Chez Colin",
+    "address": "Tordenskiolds gate 6, 0160 Oslo, Norway",
+    "phone": "+4797324415"
+  },
+  {
+    "name": "Dapper Bistro",
+    "address": "Youngs gate 15, 0181 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Rest",
+    "address": "Normannsgata 5B, 0655 Oslo, Norway",
+    "phone": "+4745482869"
+  },
+  {
+    "name": "TUNCO",
+    "address": "Kronprinsesse Märthas plass 1, 0160 Oslo, Norway",
+    "phone": "+4748305555"
+  },
+  {
+    "name": "Made in India by Aahar(MII)- Indisk Take Away & Hjemlevering indisk restaurant i Oslo",
+    "address": "Karl Johans gt. 37, 0162 Oslo, Norway",
+    "phone": "+4723898686"
+  },
+  {
+    "name": "IndiSpice",
+    "address": "Kolstadgata 22, 0653 Oslo, Norway",
+    "phone": "+4796001403"
+  },
+  {
+    "name": "Brasserie Paleo",
+    "address": "Sørengkaia 27, 0194 Oslo, Norway",
+    "phone": "+4746890015"
+  },
+  {
+    "name": "Restaurant Salome",
+    "address": "Dronning Eufemias gate 43, 0191 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Tuk Tuk Thai",
+    "address": "Torvbakkgata 12, 0550 Oslo, Norway",
+    "phone": "+4722372297"
+  },
+  {
+    "name": "Brasserie Rivoli",
+    "address": "Jernbanetorget 2, 0154 Oslo, Norway",
+    "phone": "+4721405916"
+  },
+  {
+    "name": "Olivia Østbanehallen",
+    "address": "Rådhusgata 19, 0158 Oslo, Norway",
+    "phone": "+4722424539"
+  },
+  {
+    "name": "Gamle rådhus",
+    "address": "Heimdalsgata 37, 0578 Oslo, Norway",
+    "phone": "+4722199122"
+  },
+  {
+    "name": "San Francisco Bread Bowl",
+    "address": "Frognerveien 35A, 0266 Oslo, Norway",
+    "phone": "+4792833275"
+  },
+  {
+    "name": "Way Down South",
+    "address": "Ruseløkkveien 3, 0251 Oslo, Norway",
+    "phone": "+4745685022"
+  },
+  {
+    "name": "Smalhans",
+    "address": "Sørengkaia 163, 0194 Oslo, Norway",
+    "phone": "+4791915491"
+  },
+  {
+    "name": "Roti shop Oslo",
+    "address": "Williamsburg, Karl Johans gt. 35, 0162 Oslo, Norway",
+    "phone": "+4794145605"
+  },
+  {
+    "name": "Kastellet Oslo",
+    "address": "Øvre Slottsgate 3, 0157 Oslo, Norway",
+    "phone": "+4722333322"
+  },
+  {
+    "name": "KöD Oslo",
+    "address": "Youngstorget 2b, 0181 Oslo, Norway",
+    "phone": "+4722424540"
+  },
+  {
+    "name": "Elias mat & sånt",
+    "address": "Bernt Ankers gate 25, 0183 Oslo, Norway",
+    "phone": "+4748502621"
+  },
+  {
+    "name": "Restaurant Schrøder",
+    "address": "Stenersgata 10, 0184 Oslo, Norway",
+    "phone": "+4722178880"
+  },
+  {
+    "name": "Katla",
+    "address": "Markveien 34, 0554 Oslo, Norway",
+    "phone": "+4790713279"
+  },
+  {
+    "name": "Shanghai2K18",
+    "address": "Pilestredet 63A, 0350 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Lofoten Fiskerestaurant",
+    "address": "Stranden 30, 0250 Oslo, Norway",
+    "phone": "+4724133800"
+  },
+  {
+    "name": "Campo de' Fiori",
+    "address": "Mandalls gate 2P, 0190 Oslo, Norway",
+    "phone": "+4791538543"
+  },
+  {
+    "name": "Nodee Sky",
+    "address": "Møllergata 38, 0179 Oslo, Norway",
+    "phone": "+4746695441"
+  },
+  {
+    "name": "Nordvegan",
+    "address": "Sommerrogata 1, 0255 Oslo, Norway",
+    "phone": "+4722564300"
+  },
+  {
+    "name": "Feniqia (Oslo)",
+    "address": "Eiriks gate 2, 0650 Oslo, Norway",
+    "phone": "+4722380088"
+  },
+  {
+    "name": "Kullt",
+    "address": "Grønlandsleiret 15, 0190 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Holzweiler Platz Restaurant (Oslo)",
+    "address": "Underhaugsveien 28 Stallbygning, 0354 Oslo, Norway",
+    "phone": "+4745841755"
+  },
+  {
+    "name": "Scarpetta Pastabar",
+    "address": "Tøyengata 29, 0578 Oslo, Norway",
+    "phone": "+4798777888"
+  },
+  {
+    "name": "Mediterranean Grill",
+    "address": "Sofies gate 16, 0170 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Geita Restaurant",
+    "address": "Grensen 10, 0159 Oslo, Norway",
+    "phone": "+4722340230"
+  },
+  {
+    "name": "Vaaghals",
+    "address": "Kristian IVs gate 2, 0164 Oslo, Norway",
+    "phone": "+4723214100"
+  },
+  {
+    "name": "The Salmon",
+    "address": "Stortingsgata 2, 0158 Oslo, Norway",
+    "phone": "+4740690680"
+  },
+  {
+    "name": "Ekebergrestauranten",
+    "address": "Mariboes gate 7B, 0183 Oslo, Norway",
+    "phone": "+4794165391"
+  },
+  {
+    "name": "Mantra by Mr India",
+    "address": "Tordenskiolds gate 6, 0160 Oslo, Norway",
+    "phone": "+4797327778"
+  },
+  {
+    "name": "The Little Pickle",
+    "address": "Biskop Gunnerus gate 3, 0155 Oslo, Norway",
+    "phone": "+4723108080"
+  },
+  {
+    "name": "Park 29",
+    "address": "Møllergata 23 - 25, 0179 Oslo, Norway",
+    "phone": "23250179"
+  },
+  {
+    "name": "Hells Kitchen Oslo",
+    "address": "Parkveien 29, 0350 Oslo, Norway",
+    "phone": "+4748170000"
+  },
+  {
+    "name": "Restaurant Ludo",
+    "address": "Vibes gate 11a, 0365 Oslo, Norway",
+    "phone": "+4721456888"
+  },
+  {
+    "name": "Norda Oslo",
+    "address": "Jens Bjelkes gate 9a, 0562 Oslo, Norway",
+    "phone": "+4741222839"
+  },
+  {
+    "name": "Arakataka",
+    "address": "Kongsveien 15, 0193 Oslo, Norway",
+    "phone": "+4723242300"
+  },
+  {
+    "name": "Restaurant Jensens Bøfhus Oslo",
+    "address": "Dronning Eufemias gate 8, 0191 Oslo, Norway",
+    "phone": "+4792070999"
+  },
+  {
+    "name": "Sunt og Nam Oslo",
+    "address": "Stenersgata 1, 0050 Oslo, Norway",
+    "phone": "+4741215687"
+  },
+  {
+    "name": "Oslo restaurant Mona lisa Huset",
+    "address": "Folketeaterpassasjen, Storgata 23 i, 0184 Oslo, Norway",
+    "phone": "+4745876667"
+  },
+  {
+    "name": "Kaffistova",
+    "address": "Geitmyrsveien 57, 0455 Oslo, Norway",
+    "phone": "+4748506866"
+  },
+  {
+    "name": "Mandi House restaurant Oslo",
+    "address": "Rådhusgata 27, 0158 Oslo, Norway",
+    "phone": "+4723687800"
+  },
+  {
+    "name": "Kolonialen",
+    "address": "Strandpromenaden 11, 0252 Oslo, Norway",
+    "phone": "+4741548080"
+  },
+  {
+    "name": "Stallen",
+    "address": "Torggata 34, 0183 Oslo, Norway",
+    "phone": "+4792500256"
+  },
+  {
+    "name": "Brutus",
+    "address": "Rostockgata 66, 0194 Oslo, Norway",
+    "phone": "+4740004074"
+  },
+  {
+    "name": "Olympen bar og restaurant",
+    "address": "Dronningens Gate 19, 0154 Oslo, Norway",
+    "phone": "+4722414200"
+  },
+  {
+    "name": "Hakuna Matata",
+    "address": "Operagata 61D, 0194 Oslo, Norway",
+    "phone": "+4792266620"
+  },
+  {
+    "name": "Focacceria",
+    "address": "Kristian IVs gate 15B, 0164 Oslo, Norway",
+    "phone": "+4796911167"
+  },
+  {
+    "name": "Ahaan",
+    "address": "Dronning Eufemias gate 28, 0191 Oslo, Norway",
+    "phone": "+4723624010"
+  },
+  {
+    "name": "J2 Restaurant",
+    "address": "Josefines gate 23, 0351 Oslo, Norway",
+    "phone": "+4792432222"
+  },
+  {
+    "name": "Fusion India",
+    "address": "Stranden 75, 0250 Oslo, Norway",
+    "phone": "+4722830808"
+  },
+  {
+    "name": "Ling Ling Oslo",
+    "address": "Universitetsgata 12, 0164 Oslo, Norway",
+    "phone": "+4722695000"
+  },
+  {
+    "name": "Azadi Restaurant",
+    "address": "Kirkegata 30, 0153 Oslo, Norway",
+    "phone": "+4722412040"
+  },
+  {
+    "name": "Sentralen restaurant",
+    "address": "Waldemar Thranes gate 8, 0171 Oslo, Norway",
+    "phone": "+4722605183"
+  },
+  {
+    "name": "La Mayor",
+    "address": "Kristian Augusts gate 14, 0164 Oslo, Norway",
+    "phone": "+4722202221"
+  },
+  {
+    "name": "Los Tacos Oslo City",
+    "address": "Tollbugata 15, 0152 Oslo, Norway",
+    "phone": "+4723966938"
+  },
+  {
+    "name": "Fiskeriet Youngstorget",
+    "address": "Hegdehaugsveien 25, 0352 Oslo, Norway",
+    "phone": "+4791240488"
+  },
+  {
+    "name": "Mirabel Sørenga",
+    "address": "Ullevålsveien 43, 0171 Oslo, Norway",
+    "phone": "+4722696000"
+  },
+  {
+    "name": "De La Casa Pasta & Wine Bar",
+    "address": "Østre Elvebakke 7, 0182 Oslo, Norway",
+    "phone": "+4790226090"
+  },
+  {
+    "name": "Omakase Oslo",
+    "address": "Nedre Slottsgate 1, 0157 Oslo, Norway",
+    "phone": "+4722420107"
+  },
+  {
+    "name": "The Golden Chimp",
+    "address": "Operagata 3, 0194 Oslo, Norway",
+    "phone": "+4721420590"
+  },
+  {
+    "name": "Williamsburg Oslo",
+    "address": "Frognerveien 9, 0257 Oslo, Norway",
+    "phone": "+4795481007"
+  },
+  {
+    "name": "Kafé Celsius",
+    "address": "Møllergata 8, 0179 Oslo, Norway",
+    "phone": "+4722234400"
+  },
+  {
+    "name": "Sørenga Social Club",
+    "address": "Jernbanetorget 1, 0154 Oslo, Norway",
+    "phone": "+4721090254"
+  },
+  {
+    "name": "Markveien Mat & Vinhus AS",
+    "address": "Rosenkrantz' gate 1, 0159 Oslo, Norway",
+    "phone": "+4723315500"
+  },
+  {
+    "name": "BonBon Oslo",
+    "address": "Henny Mürers gang 1, 0150 Oslo, Norway",
+    "phone": "+4747797381"
+  },
+  {
+    "name": "Food Family",
+    "address": "Kirkegata 1-3, 0153 Oslo, Norway",
+    "phone": "+4792250016"
+  },
+  {
+    "name": "Atlas Brasserie & Café",
+    "address": "Welhavens gate 2, 0166 Oslo, Norway",
+    "phone": "+4722209608"
+  },
+  {
+    "name": "Sabaki",
+    "address": "Bjerregaards gate 2 a, 0172 Oslo, Norway",
+    "phone": "+4740703100"
+  },
+  {
+    "name": "Madein Oslo Restaurants As",
+    "address": "Maridalsveien 21, 0178 Oslo, Norway",
+    "phone": "+4791262921"
+  },
+  {
+    "name": "Brasilia Oslo",
+    "address": "Operagata 36, 0194 Oslo, Norway",
+    "phone": "+4791909834"
+  },
+  {
+    "name": "Indi Gastrobar",
+    "address": "Kristian Augusts gate 11, 0164 Oslo, Norway",
+    "phone": "+4722982150"
+  },
+  {
+    "name": "Foodie Asian Restaurant 丽华餐厅",
+    "address": "Fredensborgveien 44, 0177 Oslo, Norway",
+    "phone": "+4723202323"
+  },
+  {
+    "name": "Coyo - Meksikansk Restaurant & Bar Sørenga",
+    "address": "Maridalsveien 15a, 0175 Oslo, Norway",
+    "phone": "+4721600101"
+  },
+  {
+    "name": "Sumo Restaurant Solli Plass",
+    "address": "Storgata 22, 0184 Oslo, Norway",
+    "phone": "+4722172101"
+  },
+  {
+    "name": "Bølgen & Moi Gimle AS",
+    "address": "Prinsens gate 10, 0153 Oslo, Norway",
+    "phone": "+4746665733"
+  },
+  {
+    "name": "Falafel me",
+    "address": "Dronning Eufemias gate 18, 0191 Oslo, Norway",
+    "phone": "+4792222700"
+  },
+  {
+    "name": "Oslo City",
+    "address": "Karl Johans gt. 37 - 43, 0162 Oslo, Norway",
+    "phone": "37430162"
+  },
+  {
+    "name": "Gunerius Shopping Center",
+    "address": "Sørkedalsveien 10, 0369 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Arkaden Shopping",
+    "address": "Karl Johans gt. 5, 0154 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Byporten Shopping",
+    "address": "Tøyengata 2, 0190 Oslo, Norway",
+    "phone": "+4722170571"
+  },
+  {
+    "name": "Paleet",
+    "address": "Vitaminveien 7, 9, 0485 Oslo, Norway",
+    "phone": "+4722890020"
+  },
+  {
+    "name": "Storo Storsenter",
+    "address": "Storgata 32, 0184 Oslo, Norway",
+    "phone": "+4722170571"
+  },
+  {
+    "name": "Grønland Basar",
+    "address": "Jernbanetorget 1, 0154 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Østbanehallen",
+    "address": "Jernbanetorget 6, 0154 Oslo, Norway",
+    "phone": "+4792614480"
+  },
+  {
+    "name": "Colosseum Center",
+    "address": "Stenersgata 1, 0050 Oslo, Norway",
+    "phone": "+4740007370"
+  },
+  {
+    "name": "Aker Brygge",
+    "address": "Støperigata 2, 0250 Oslo, Norway",
+    "phone": "+4722832680"
+  },
+  {
+    "name": "AB 1854 center",
+    "address": "Bøkkerveien 4, 0579 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "EGER",
+    "address": "Nedre Slottsgate 8, 0157 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Vikaterrassen",
+    "address": "Holmliaveien 75, 1255 Oslo, Norway",
+    "phone": "+4722988979"
+  },
+  {
+    "name": "Sandaker Center",
+    "address": "Bryggetorget 3, 0250 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Karl Johan Gate",
+    "address": "Haakon Tveters vei 8, 0682 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Linderud Center",
+    "address": "Lilleakerveien 16, 0283 Oslo, Norway",
+    "phone": "+4722736350"
+  },
+  {
+    "name": "Manglerud Senter",
+    "address": "Niels Leuchs vei 50, 1359 Eiksmarka, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kiellands Hus",
+    "address": "Otto Ruges vei 80, 1361 Østerås, Norway",
+    "phone": null
+  },
+  {
+    "name": "Lambertseter Senter",
+    "address": "Kaj Munks vei 41, 0876 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "GlasMagasinet Stortorvet",
+    "address": "Snarøyveien 55, 1364 Fornebu, Norway",
+    "phone": "+4723080812"
+  },
+  {
+    "name": "Bøler Shopping Center",
+    "address": "Nordstrandveien 44, 1163 Oslo, Norway",
+    "phone": "+4722626220"
+  },
+  {
+    "name": "St. Hanshaugen Senter",
+    "address": "Tordenskiolds gate 7, 0160 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Hasle Torg",
+    "address": "Ole Deviks v. 48, 0668 Oslo, Norway",
+    "phone": "+4722644760"
+  },
+  {
+    "name": "Senter Syd Mortensrud",
+    "address": "Nydalsveien 33, 0484 Oslo, Norway",
+    "phone": "+4780024905"
+  },
+  {
+    "name": "ALNA Center",
+    "address": "Vækerøveien 205, 0751 Oslo, Norway",
+    "phone": "+4723274020"
+  },
+  {
+    "name": "Valkyrien",
+    "address": "Hauketoveien 8, 1266 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Grorud Center",
+    "address": "Tore Hals Mejdells vei 5, 0751 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Alicia food",
+    "address": "Sognsveien 75, 0855 Oslo, Norway",
+    "phone": "+4745402392"
+  },
+  {
+    "name": "Stovner Center",
+    "address": "Helga Vaneks Vei 1, 1281 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Ringnes Park Senter",
+    "address": "Veitvetveien 8, 0596 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Grorud Local Center AS",
+    "address": "Haakon Tveters vei 88, 0686 Oslo, Norway",
+    "phone": "+4722865480"
+  },
+  {
+    "name": "Vinderen Torvet",
+    "address": "Østensjøveien 79, 0667 Oslo, Norway",
+    "phone": "+4722761440"
+  },
+  {
+    "name": "Bryn Center",
+    "address": "Slemdalsveien 72, 0374 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Tveita Senter",
+    "address": "Storgata 35, 0182 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "OBOS - Oppsal Center",
+    "address": "Bergensveien 2, 0963 Oslo, Norway",
+    "phone": "+4791820200"
+  },
+  {
+    "name": "Veitvet Senter",
+    "address": "Tvetenveien 150, 0671 Oslo, Norway",
+    "phone": "+4722981495"
+  },
+  {
+    "name": "Hauketo senter",
+    "address": "Sannergata 6B, 0557 Oslo, Norway",
+    "phone": "+4722719468"
+  },
+  {
+    "name": "Røa Torg",
+    "address": "Valkyriegata 3, 0366 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Mortensrud Torg Senter",
+    "address": "Stovner Senter 3, 0985 Oslo, Norway",
+    "phone": "+4722789970"
+  },
+  {
+    "name": "Ved24.no",
+    "address": "Bergensveien 2, 0963 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Røa Center",
+    "address": "Grenseveien 50, 0579 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Torgbygget",
+    "address": "Lofsrudveien 6, 1281 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "AMFI Ullevaal",
+    "address": "Strømsveien 245, 0668 Oslo, Norway",
+    "phone": "+4740466620"
+  },
+  {
+    "name": "Tordenskiolds gate 7 AS",
+    "address": "Utmarkveien 1, 0689 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Sæter Torg",
+    "address": "Waldemar Thranes gate 25, 0171 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "SKØYENÅSEN SENTER",
+    "address": "Stortorvet 9, 0155 Oslo, Norway",
+    "phone": "+4723080810"
+  },
+  {
+    "name": "Tåsen Center",
+    "address": "Waldemar Thranes gate 72, 0175 Oslo, Norway",
+    "phone": "+4722626220"
+  },
+  {
+    "name": "CC Vest",
+    "address": "Plogveien 6, 0679 Oslo, Norway",
+    "phone": "+4722865481"
+  },
+  {
+    "name": "Fornebu S",
+    "address": "Erich Mogensøns vei 38, 0594 Oslo, Norway",
+    "phone": "+4722727600"
+  },
+  {
+    "name": "Vinslottet",
+    "address": "Cecilie Thoresens vei 17, 1153 Oslo, Norway",
+    "phone": "+4722865476"
+  },
+  {
+    "name": "Holmlia Senter",
+    "address": "Sandakerveien 59, 0477 Oslo, Norway",
+    "phone": "+4722981498"
+  },
+  {
+    "name": "Østerås Center",
+    "address": "Karl Johans gt. 15, 19, 0159 Oslo, Norway",
+    "phone": "15190159"
+  },
+  {
+    "name": "Mobile Era conference",
+    "address": "Ruseløkkveien 3, 0251 Oslo, Norway",
+    "phone": "+4723238560"
+  },
+  {
+    "name": "Eiksmarka Center",
+    "address": "Stranden 1, 0250 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Steen & Strøm Department Store",
+    "address": "0157, Karl Johans gt. 23B, 0159 Oslo, Norway",
+    "phone": "0157230159"
+  },
+  {
+    "name": "The Royal Palace",
+    "address": "Bygdøynesveien 36, 0286 Oslo, Norway",
+    "phone": "+4723086767"
+  },
+  {
+    "name": "The Vigeland Park",
+    "address": "Brynjulf Bulls plass 3, 0250 Oslo, Norway",
+    "phone": "+4721982000"
+  },
+  {
+    "name": "Oslo Opera House",
+    "address": "Kirsten Flagstads Plass 1, 0150 Oslo, Norway",
+    "phone": "+4721422121"
+  },
+  {
+    "name": "Kon-Tiki Museum",
+    "address": "Nobels gate 32, 0268 Oslo, Norway",
+    "phone": "+4723493700"
+  },
+  {
+    "name": "Frogner Park",
+    "address": "Bygdøynesveien 39, 0286 Oslo, Norway",
+    "phone": "+4723282950"
+  },
+  {
+    "name": "The Fram Museum",
+    "address": "Kirkeveien, 0268 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "The Norwegian Museum of Cultural History",
+    "address": "Slottsplassen 1, 0010 Oslo, Norway",
+    "phone": "+4722048700"
+  },
+  {
+    "name": "The National Museum",
+    "address": "Nobels gate 32, 0268 Oslo, Norway",
+    "phone": "+4723493700"
+  },
+  {
+    "name": "Akershus Fortress",
+    "address": "Museumsveien 10, 0287 Oslo, Norway",
+    "phone": "+4722123700"
+  },
+  {
+    "name": "Munch",
+    "address": "Storgata 19, 0184 Oslo, Norway",
+    "phone": "+4796682344"
+  },
+  {
+    "name": "Naturhistorisk museum",
+    "address": "Jernbanetorget 1, 0154 Oslo, Norway",
+    "phone": "+4723106200"
+  },
+  {
+    "name": "Museo Polar Ship",
+    "address": "Rådhusbrygge 3 3, 0160 Oslo, Norway",
+    "phone": "+4723356890"
+  },
+  {
+    "name": "The Tiger",
+    "address": "Maridalsveien 3, 0178 Oslo, Norway",
+    "phone": "+4722208886"
+  },
+  {
+    "name": "Emanuel Vigelands musem",
+    "address": "Kongens gate 6, 0153 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Rådhuset",
+    "address": "Dronning Eufemias gate 34, 0191 Oslo, Norway",
+    "phone": "+4721696939"
+  },
+  {
+    "name": "Oslo City Museum (Oslo Bymuseum)",
+    "address": "Schwensens gate 1, 0170 Oslo, Norway",
+    "phone": "+4722564370"
+  },
+  {
+    "name": "Norwegian Maritime Museum",
+    "address": "Langkaia 1, 0150 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "The Viking Garden",
+    "address": "Skogbrynet 2B, 0283 Oslo, Norway",
+    "phone": "+4795753573"
+  },
+  {
+    "name": "Nationaltheatret",
+    "address": "Rådhusbrygge 3, 0160 Oslo, Norway",
+    "phone": "+4723356890"
+  },
+  {
+    "name": "Historisk museum",
+    "address": "Jernbanetorget 8, 0154 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Statue of Franklin D. Roosevelt",
+    "address": "Haarklous plass 11A, 0479 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Damstredet and Telthusbakken",
+    "address": "Grønlandsleiret 34, 0190 Oslo, Norway",
+    "phone": "+4723629160"
+  },
+  {
+    "name": "Norwegian Armed Forces Museum",
+    "address": "Bygg T, Trondheimsveien 2, 0560 Oslo, Norway",
+    "phone": "+4722468020"
+  },
+  {
+    "name": "Jewish Museum in Oslo",
+    "address": "Villa Grande, Huk Aveny 56, 0277 Oslo, Norway",
+    "phone": "+4722842100"
+  },
+  {
+    "name": "Studenterlunden Park",
+    "address": "Jernbanetorget 1, 0154 Oslo, Norway",
+    "phone": "+4723106200"
+  },
+  {
+    "name": "Korketrekkeren",
+    "address": "Nedre Slottsgate 4C, 0157 Oslo, Norway",
+    "phone": "+4740105777"
+  },
+  {
+    "name": "The Viking Planet",
+    "address": "Kirsten Flagstads Plass, 0194 Oslo, Norway",
+    "phone": "+4721422121"
+  },
+  {
+    "name": "Intercultural Museum",
+    "address": "Møllergata 12, 0179 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Our Savior's Cemetery",
+    "address": "Smalvollveien 34, 0667 Oslo, Norway",
+    "phone": "+4723051300"
+  },
+  {
+    "name": "Skisimulator",
+    "address": "0194, Oslo, Norway",
+    "phone": "+4723482030"
+  },
+  {
+    "name": "Huk",
+    "address": "Hausmanns gate 14, 0182 Oslo, Norway",
+    "phone": "+4722993450"
+  },
+  {
+    "name": "Akrobaten bru",
+    "address": "Vulkan 5, 0178 Oslo, Norway",
+    "phone": "+4740001209"
+  },
+  {
+    "name": "22. juli-Senteret",
+    "address": "Tryvannsveien 64, 0791 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Gol Stave Church",
+    "address": "Grefsenkollveien 23, 0490 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "City Hall Plaza Fountains",
+    "address": "Sagveien 28, 0459 Oslo, Norway",
+    "phone": "+4723284170"
+  },
+  {
+    "name": "Trinity Church",
+    "address": "Karl Johans gt. 5, 0154 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Svartdalsparken",
+    "address": "Sandakerveien 24C, 0473 Oslo, Norway",
+    "phone": "+4799081312"
+  },
+  {
+    "name": "The Mini Bottle Gallery AS",
+    "address": "Lille Frøens vei 4, 0371 Oslo, Norway",
+    "phone": "+4722691777"
+  },
+  {
+    "name": "Gamle Aker kirke",
+    "address": "Kirkegata 10, 0152 Oslo, Norway",
+    "phone": "+4723357960"
+  },
+  {
+    "name": "Oslo Tramway Museum Carriage Hall 5",
+    "address": "Rosenkrantz' gate 11, 0159 Oslo, Norway",
+    "phone": "+4731095009"
+  },
+  {
+    "name": "Paradox Museum Oslo",
+    "address": "Gardeveien 15, 0363 Oslo, Norway",
+    "phone": "+4748429409"
+  },
+  {
+    "name": "Shopping in Oslo",
+    "address": "Akersbakken 26, 0172 Oslo, Norway",
+    "phone": "+4723629000"
+  },
+  {
+    "name": "Det Internasjonale Barnekunstmuseet - The International Museum of Children´s Art",
+    "address": "Akersgata 60, 0180 Oslo, Norway",
+    "phone": "+4723629040"
+  },
+  {
+    "name": "Labour Museum",
+    "address": "Museumsveien 10, 0287 Oslo, Norway",
+    "phone": "+4722123700"
+  },
+  {
+    "name": "Oslo Winter Park",
+    "address": "Teatergata 10, 0180 Oslo, Norway",
+    "phone": "+4722242222"
+  },
+  {
+    "name": "Brekkedammen",
+    "address": "Østre Tangent, 0191 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Mathallen Oslo",
+    "address": "veibeskrivelser hit går via schiøttsvei som er en privat blindvei. Denne feilen forårsaker masse problemer i schiøttsvei, dammansvri etc og brukerene blir veldig irriterte, Strømsborgveien 57, 0287 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kulturkirken Jakob",
+    "address": "Akersbakken 32, 0172 Oslo, Norway",
+    "phone": "+4722133180"
+  },
+  {
+    "name": "The Norwegian Opera and Ballet",
+    "address": "Kongeveien 5, 0787 Oslo, Norway",
+    "phone": "+4796903665"
+  },
+  {
+    "name": "Sørenga Sjøbad",
+    "address": "Tøyenbekken 5, 0188 Oslo, Norway",
+    "phone": "+4722052830"
+  },
+  {
+    "name": "Oslo Camping",
+    "address": "Calmeyers gate 15B, 0183 Oslo, Norway",
+    "phone": "+4722208400"
+  },
+  {
+    "name": "Nordisk Bibelmuseum",
+    "address": "Johanne Dybwads plass, 0161 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Oslo",
+    "address": "Fridtjof Nansens plass 4, 0160 Oslo, Norway",
+    "phone": "+4746942495"
+  },
+  {
+    "name": "Center for Studies of the Holocaust and Religious Minorities",
+    "address": "Karl Johans gt. 41B, 0162 Oslo, Norway",
+    "phone": "+4721802180"
+  },
+  {
+    "name": "Bygdøy",
+    "address": "0512, Peter Møllers vei 2, 0585 Oslo, Norway",
+    "phone": "051220585"
+  },
+  {
+    "name": "Oslo Visitor Center",
+    "address": "Holmenkollveien 201, 0791 Oslo, Norway",
+    "phone": "+4790896186"
+  },
+  {
+    "name": "Haarklous plass",
+    "address": "Damstredet 22B, 0177 Oslo, Norway",
+    "phone": "+4755626060"
+  },
+  {
+    "name": "Holmenkollen Chapel",
+    "address": "Grünerløkka, Oslo kommune, Norway",
+    "phone": null
+  },
+  {
+    "name": "Norway Yacht Charter AS - Båtservice Sightseeing",
+    "address": "Ruinparken, St. Hallvards plass, 0192 Oslo, Norway",
+    "phone": "+4722194468"
+  },
+  {
+    "name": "Popsenteret",
+    "address": "Akershus festning, Bygning 62, 0150 Oslo, Norway",
+    "phone": "+4723093582"
+  },
+  {
+    "name": "Grønland Church",
+    "address": "Kongsveien 23, 0193 Oslo, Norway",
+    "phone": "+4721421919"
+  },
+  {
+    "name": "Sentrum",
+    "address": "Bygdøynesveien 37, 0286 Oslo, Norway",
+    "phone": "+4724114150"
+  },
+  {
+    "name": "Old Town",
+    "address": "Frederiks gate 2, 0164 Oslo, Norway",
+    "phone": "+4722851900"
+  },
+  {
+    "name": "Visit Oslomarka",
+    "address": "Johanne Dybwads plass 1, 0161 Oslo, Norway",
+    "phone": "+4722001400"
+  },
+  {
+    "name": "Hovedøya",
+    "address": "Frognerveien 67, 0266 Oslo, Norway",
+    "phone": "+4723284170"
+  },
+  {
+    "name": "Gamle Oslo",
+    "address": "Filipstad Brygge, 0250 Oslo, Norway",
+    "phone": "+4721802180"
+  },
+  {
+    "name": "Galleri Ramfjord",
+    "address": "Kongeveien 5, 0787 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "SALT",
+    "address": "Kjelsåsveien 143, 0491 Oslo, Norway",
+    "phone": "+4722796000"
+  },
+  {
+    "name": "Norwegian Cancer Society’s",
+    "address": "Rådhusplassen 1, 0037 Oslo, Norway",
+    "phone": "+4723461200"
+  },
+  {
+    "name": "Aker Brygge",
+    "address": "Grimelundsveien 8, 0775 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Munchmuseet i bevegelse - Kunsthall Oslo",
+    "address": "Jernbanetorget, 0154 Oslo, Norway",
+    "phone": null
+  },
+  {
+    "name": "Holmenkollen",
+    "address": "Bygning 21, 0150 Oslo, Norway",
+    "phone": "+4723093138"
+  },
+  {
+    "name": "ROM for kunst og arkitektur",
+    "address": "Bygdøynesveien 36, 0286 Oslo, Norway",
+    "phone": "+4723282950"
+  },
+  {
+    "name": "Oslo sightseeing fjord Tour",
+    "address": "St. Olavs Gate 2, 0165 Oslo, Norway",
+    "phone": "+4741021522"
+  },
+  {
+    "name": "Grønland, Oslo",
+    "address": "Strandpromenaden 2, 0252 Oslo, Norway",
+    "phone": "+4723118890"
+  },
+  {
+    "name": "VR GAMES ZONE OSLO - Last generation VR",
+    "address": "Strandpromenaden 2, 0252 Oslo, Norway",
+    "phone": "+4722936060"
+  },
+  {
+    "name": "Hotel Park Bergen",
+    "address": "Håkonsgaten 2, 7, 5015 Bergen, Norway",
+    "phone": "+4755333300"
+  },
+  {
+    "name": "Citybox Danmarksplass",
+    "address": "C. Sundts gate 9, 5004 Bergen, Norway",
+    "phone": "+4755236400"
+  },
+  {
+    "name": "Radisson Blu Royal Hotel, Bergen",
+    "address": "Harald Hårfagres gate 35, 5007 Bergen, Norway",
+    "phone": "+4755544400"
+  },
+  {
+    "name": "Thon Hotel Rosenkrantz Bergen",
+    "address": "Rosenkrantzgaten 7, 5003 Bergen, Norway",
+    "phone": "+4755301400"
+  },
+  {
+    "name": "Opus XVI",
+    "address": "Vågsallmenningen 16, 5014 Bergen, Norway",
+    "phone": "+4753012200"
+  },
+  {
+    "name": "Clarion Hotel Bergen",
+    "address": "Dreggsallmenningen 1, 5003 Bergen, Norway",
+    "phone": "+4755543000"
+  },
+  {
+    "name": "Scandic Bergen City",
+    "address": "Finnegården 2A, 5003 Bergen, Norway",
+    "phone": "+4755304800"
+  },
+  {
+    "name": "The Hanseatic Hotel",
+    "address": "Slottsgaten 1, 5003 Bergen, Norway",
+    "phone": "+4755601100"
+  },
+  {
+    "name": "Clarion Hotel Admiral",
+    "address": "Rosenkrantzgaten 8, 5003 Bergen, Norway",
+    "phone": "+4753051500"
+  },
+  {
+    "name": "Clarion Collection Hotel Havnekontoret",
+    "address": "Zander Kaaes gate 8, 5015 Bergen, Norway",
+    "phone": "+4755362040"
+  },
+  {
+    "name": "Bergen Harbour Hotel",
+    "address": "Hop Terrasse 4, 5232 Paradis, Norway",
+    "phone": "+4793061200"
+  },
+  {
+    "name": "Hotel Oleana",
+    "address": "64 Statsminister Michelsens veg Ground, 5231 Bergen, Norway",
+    "phone": "+254733280000"
+  },
+  {
+    "name": "Comfort Hotel Bergen",
+    "address": "Sudmanns vei 12, 5036 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Magic Hotel Korskirken",
+    "address": "Håkonsgaten 16, 5015 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Thon Hotel Bristol Bergen",
+    "address": "Nikolaikirkeallmenningen 7, 5003 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Scandic Torget Bergen",
+    "address": "Hamrenesvegen, 5281 Valestrandsfossen, Norway",
+    "phone": "+4741766617"
+  },
+  {
+    "name": "Citybox Bergen",
+    "address": "Bjørnestrand 10B, 5111 Bergen, Norway",
+    "phone": "+4747721007"
+  },
+  {
+    "name": "Moxy Bergen",
+    "address": "Hardangervegen 697, 5268 Haukeland, Norway",
+    "phone": "+4755392960"
+  },
+  {
+    "name": "Scandic Neptun",
+    "address": "Midtunheia 3, 5224 Nesttun, Norway",
+    "phone": "+4755103900"
+  },
+  {
+    "name": "Thon Hotel Orion",
+    "address": "Tranevegen 137, 5238 Rådal, Norway",
+    "phone": null
+  },
+  {
+    "name": "Augustin Hotel",
+    "address": "Øvre Krabbedalen 4, 5178 Loddefjord, Norway",
+    "phone": null
+  },
+  {
+    "name": "Magic Hotel Kløverhuset",
+    "address": "Ulsetskogen 5, 5119 Ulset, Norway",
+    "phone": "+4798229077"
+  },
+  {
+    "name": "Zander K Hotel",
+    "address": "Magnus Barfots gate 5, 5015 Bergen, Norway",
+    "phone": "+4747933355"
+  },
+  {
+    "name": "Citybox Bergen",
+    "address": "Ladegårdsgaten 1, 5033 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Magic Hotel Kløverhuset",
+    "address": "Kjellersmauet 1, 5011 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Grand Hotel Terminus",
+    "address": "Engevikvegen 130, 5229 Kalandseidet, Norway",
+    "phone": "+4791912015"
+  },
+  {
+    "name": "Ole Bull Hotel & Apartments",
+    "address": "Nordre Brurås 26, 5111 Breistein, Norway",
+    "phone": "+4755248808"
+  },
+  {
+    "name": "Scandic Ørnen",
+    "address": "Markeveien 3, 5012 Bergen, Norway",
+    "phone": "+4722510250"
+  },
+  {
+    "name": "Floating House Bergen",
+    "address": "Sandviksveien 94, 5035 Bergen, Norway",
+    "phone": "+4791772020"
+  },
+  {
+    "name": "Citybox Danmarksplass",
+    "address": "Slottsgaten 3, 5003 Bergen, Norway",
+    "phone": "+4793444918"
+  },
+  {
+    "name": "Scandic Byparken",
+    "address": "Steinestøvegen 745, 5108 Hordvik, Norway",
+    "phone": "+4799255241"
+  },
+  {
+    "name": "Fabryka",
+    "address": "Kokstadflaten 2, 5257 Kokstad, Norway",
+    "phone": "+4721614400"
+  },
+  {
+    "name": "Bergen Hostel Montana",
+    "address": "Sigurds gate 8, 5015 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Marken Guesthouse",
+    "address": "Nordre Skuteviksvei 11, 5032 Bergen, Norway",
+    "phone": "+4741674917"
+  },
+  {
+    "name": "Center Villa",
+    "address": "Daniel Hansens gate 11, 5008 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "City Hostel Bergen AS",
+    "address": "Nedre Strangehagen 8, 5011 Bergen, Norway",
+    "phone": "+4799720335"
+  },
+  {
+    "name": "The Stay Nygård - Serviced Apartments",
+    "address": "Veversmauet 8, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "LS Apartments",
+    "address": "Willy Valentinsens vei 4B, 5161 Laksevåg, Norway",
+    "phone": "+4791317559"
+  },
+  {
+    "name": "Hotel Norge by Scandic",
+    "address": "Daniel Hansens gate 2, 5008 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Bergen Børs Hotel",
+    "address": "Nedre Korskirkeallmenningen 1A, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Quality Hotel Edvard Grieg",
+    "address": "Sundts veg 55, 5221 Nesttun, Norway",
+    "phone": "+4791370787"
+  },
+  {
+    "name": "Grimen Motel & Camping AS",
+    "address": "Håkonsgaten 15, 5015 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Thon Hotel Bergen Airport",
+    "address": "Nedre Korskirkeallmenningen 14, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Clarion Hotel Bergen Airport",
+    "address": "Carl Konows gate 36, 5162 Laksevåg, Norway",
+    "phone": "+4745831399"
+  },
+  {
+    "name": "Comfort Hotel Bergen Airport",
+    "address": "Rosenkrantzgaten 5, 5003 Bergen, Norway",
+    "phone": "+4791523369"
+  },
+  {
+    "name": "Klosterhagen Hotell",
+    "address": "Sigurds gate 25A, 5015 Bergen, Norway",
+    "phone": "+4793419785"
+  },
+  {
+    "name": "Magic Hotel Solheimsviken",
+    "address": "Håkonsgaten 2, 7, 5015 Bergen, Norway",
+    "phone": "+4797724010"
+  },
+  {
+    "name": "Solneset Gård",
+    "address": "Jonas Lies vei 59, 5021 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Scandic Flesland Airport",
+    "address": "Øvre Fyllingsveien 79, 5161 Laksevåg, Norway",
+    "phone": "+4755349797"
+  },
+  {
+    "name": "P-Hotels Bergen AS",
+    "address": "Skivebakken 17, 5018 Bergen, Norway",
+    "phone": "+4790053030"
+  },
+  {
+    "name": "Sten hotell",
+    "address": "Nedre Dynnersmauet 2, 5011 Bergen, Norway",
+    "phone": "+4794192894"
+  },
+  {
+    "name": "Bratland Camping",
+    "address": "Stølesmauet 9, 5003 Bergen, Norway",
+    "phone": "+4793874907"
+  },
+  {
+    "name": "Hotell Hordaheimen",
+    "address": "Kong Oscars gate 44, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Villa Blue View Apartment",
+    "address": "Vestre Torggaten 9, 5015 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Best Western hotel Bergen",
+    "address": "Nedre Stølen 4C, 5003 Bergen, Norway",
+    "phone": "+4793066046"
+  },
+  {
+    "name": "Magic Hotel Xhibition",
+    "address": "Kalfarveien 8, 5018 Bergen, Norway",
+    "phone": "+4755300400"
+  },
+  {
+    "name": "Bergen Budget Hotel",
+    "address": "Klosteret 5, 5005 Bergen, Norway",
+    "phone": "+4795051430"
+  },
+  {
+    "name": "Haukeland Hotell",
+    "address": "Christies gate 14, 5015 Bergen, Norway",
+    "phone": "+4755558777"
+  },
+  {
+    "name": "Two Sisters Guest House",
+    "address": "Skutevikens Smalgang 11, 5032 Bergen, Norway",
+    "phone": "+4793467163"
+  },
+  {
+    "name": "Intermission Hostel",
+    "address": "Jonas Lies vei 59, 5021 Bergen, Norway",
+    "phone": "+4755976800"
+  },
+  {
+    "name": "Klosteret 5 Guesthouse",
+    "address": "Småstrandgaten 3, 5014 Bergen, Norway",
+    "phone": "+4755900120"
+  },
+  {
+    "name": "Ambassadeur Hotel",
+    "address": "Starvhusgaten 4, 5014 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Skuteviken Gjestehus",
+    "address": "Kong Oscars gate 29, 5017 Bergen, Norway",
+    "phone": "+4791900417"
+  },
+  {
+    "name": "Jvc Jacobs AS",
+    "address": "Søvikneset 96, 5215 Lysekloster, Norway",
+    "phone": "+4790073313"
+  },
+  {
+    "name": "City Apartment Hotel",
+    "address": "Parkveien, 5007 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Bergen Guesthouse",
+    "address": "Brattlandsvegen 6, 5268 Haukeland, Norway",
+    "phone": "+4755101338"
+  },
+  {
+    "name": "Skiven Guesthouse",
+    "address": "C. Sundts gate 18, 5004 Bergen, Norway",
+    "phone": "+4755335000"
+  },
+  {
+    "name": "Bergen Beds Serviced apartments centrum",
+    "address": "Lønningsvegen 9, 5258 Blomsterdalen, Norway",
+    "phone": "+4755140300"
+  },
+  {
+    "name": "Haukeland Hotell",
+    "address": "Unnelandsvegen 320, 5268 Haukeland, Norway",
+    "phone": "+4790708705"
+  },
+  {
+    "name": "Master Apartment Hotel",
+    "address": "Bøhmergaten 42, 5057 Bergen, Norway",
+    "phone": "+4755900150"
+  },
+  {
+    "name": "Bergen hotel gruppen AS",
+    "address": "Vestre Torggaten 9, 5015 Bergen, Norway",
+    "phone": "+4755210000"
+  },
+  {
+    "name": "Holiday Inn Sigurdsgate",
+    "address": "Strangehagen 2, 5011 Bergen, Norway",
+    "phone": "+4753002200"
+  },
+  {
+    "name": "Rosenkrantzgaten 5 AS",
+    "address": "Lønningsvegen 45, 5258 Blomsterdalen, Norway",
+    "phone": "+4755529800"
+  },
+  {
+    "name": "Downtown Bergen Apartment",
+    "address": "Flyplassvegen 551, 5258 Blomsterdalen, Norway",
+    "phone": "+4756100000"
+  },
+  {
+    "name": "City Center Apartment",
+    "address": "Hardangervegen 265, 5226 Nesttun, Norway",
+    "phone": null
+  },
+  {
+    "name": "Apartamentos Cozi",
+    "address": "Sandsliåsen 50, 5254 Bergen, Norway",
+    "phone": "+4755980000"
+  },
+  {
+    "name": "Konow Bergen",
+    "address": "Vågsallmenningen 1, 5014 Bergen, Norway",
+    "phone": "+4755336400"
+  },
+  {
+    "name": "AB Properties AS",
+    "address": "Nedre Ole Bulls plass 4, 5012 Bergen, Norway",
+    "phone": "+4755554000"
+  },
+  {
+    "name": "Nordic Host",
+    "address": "Kokstadvegen 3, 5257 Kokstad, Norway",
+    "phone": "+4755920000"
+  },
+  {
+    "name": "Riplegården",
+    "address": "Lyder Sagens gate 28B, 5008 Bergen, Norway",
+    "phone": "+4747933355"
+  },
+  {
+    "name": "Veversmauet Apartments",
+    "address": "Borgermester Platous gate 7, 5008 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Annehelenes B&B",
+    "address": "Øvre Blekeveien 20, 5003 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Cityhome4you",
+    "address": "Kong Oscars gate 45, 5017 Bergen, Norway",
+    "phone": "+4748173015"
+  },
+  {
+    "name": "Mi Casa Tu Casa SG",
+    "address": "Johan Blytts vei 30, 5096 Bergen, Norway",
+    "phone": "+4755208070"
+  },
+  {
+    "name": "Scandic Kokstad",
+    "address": "Kong Oscars gate 45,, Entrance: Tverrgaten 12, 5017 Bergen, Norway",
+    "phone": "45125017"
+  },
+  {
+    "name": "Fjordside Lodge",
+    "address": "Kong Oscars gate 26B, 5017 Bergen, Norway",
+    "phone": "+4747933355"
+  },
+  {
+    "name": "Alkoven Guesthouse",
+    "address": "Damsgårdsveien 59, 5058 Bergen, Norway",
+    "phone": "+4741105555"
+  },
+  {
+    "name": "Dreggen revisjon AS",
+    "address": "Lars Hilles gate 18, 5008 Bergen, Norway",
+    "phone": "+4755375000"
+  },
+  {
+    "name": "Stoltzen Hotell & Apartments",
+    "address": "Christies gate 5-7, 5015 Bergen, Norway",
+    "phone": "+4755545600"
+  },
+  {
+    "name": "Forenom",
+    "address": "Øvre Ole Bulls plass 3, 5012 Bergen, Norway",
+    "phone": "+4755231613"
+  },
+  {
+    "name": "Prime Location",
+    "address": "Strandgaten 15, 5013 Bergen, Norway",
+    "phone": "+4755900130"
+  },
+  {
+    "name": "Seletun Eco-Friendly Hotel",
+    "address": "Zander Kaaes gate 6, 5015 Bergen, Norway",
+    "phone": "+4755212500"
+  },
+  {
+    "name": "Støletorget Appartment",
+    "address": "Solheimsgaten 23D, 5054 Bergen, Norway",
+    "phone": "+4753019990"
+  },
+  {
+    "name": "Mi Casa Tu Casa AS",
+    "address": "Zander Kaaes gate 8, 5015 Bergen, Norway",
+    "phone": "+4755362040"
+  },
+  {
+    "name": "Ulsetskogen 5",
+    "address": "Strandgaten 15, 5013 Bergen, Norway",
+    "phone": "+4755900130"
+  },
+  {
+    "name": "Bergen Camping Park",
+    "address": "Nygårdsgaten 31, 5015 Bergen, Norway",
+    "phone": "+4755312500"
+  },
+  {
+    "name": "House Of Bergen",
+    "address": "Bradbenken 3, 5003 Bergen, Norway",
+    "phone": "+4755308700"
+  },
+  {
+    "name": "Urban Hostel Bryggen",
+    "address": "C. Sundts gate 22, 5004 Bergen, Norway",
+    "phone": "+4755304000"
+  },
+  {
+    "name": "Acu Rem Tetigisti",
+    "address": "Valkendorfsgaten 8, 5012 Bergen, Norway",
+    "phone": "+4755306800"
+  },
+  {
+    "name": "Bjørnestrand Fjordside View",
+    "address": "Strandkaien 2-6, 5013 Bergen, Norway",
+    "phone": "+4755593300"
+  },
+  {
+    "name": "Midttun Motell & camping AS",
+    "address": "Solheimsgaten 3, 5058 Bergen, Norway",
+    "phone": "+4790717523"
+  },
+  {
+    "name": "Sun & Rain B&B",
+    "address": "Nygårdsgaten 31, 5015 Bergen, Norway",
+    "phone": "+4755312500"
+  },
+  {
+    "name": "Sumo Restaurant Bergen Sentrum",
+    "address": "Vetrlidsallmenningen 2, 5014 Bergen, Norway",
+    "phone": "+4792871877"
+  },
+  {
+    "name": "Bryggeloftet & Stuene Restaurant",
+    "address": "Torgallmenningen 2, 5014 Bergen, Norway",
+    "phone": "+4740002455"
+  },
+  {
+    "name": "Restaurant 1877",
+    "address": "Olav Kyrres gate 28, 5015 Bergen, Norway",
+    "phone": "+4798094683"
+  },
+  {
+    "name": "Fjellskål Seafood Restaurant",
+    "address": "Fosswinckels gate 18, 5007 Bergen, Norway",
+    "phone": "+4755323432"
+  },
+  {
+    "name": "Da Stefano",
+    "address": "Enhjørningsgården 29, 5003 Bergen, Norway",
+    "phone": "+4755306955"
+  },
+  {
+    "name": "Savanna Restaurant",
+    "address": "Strandkaien 3, 5013 Bergen, Norway",
+    "phone": "+4798905898"
+  },
+  {
+    "name": "Bare Restaurant & Bar På Bergen Børs Hotel",
+    "address": "Vestre Torggaten 3, 5015 Bergen, Norway",
+    "phone": "+4755901960"
+  },
+  {
+    "name": "Marg & Bein",
+    "address": "Sigurds gate 4, 5015 Bergen, Norway",
+    "phone": "+4755900290"
+  },
+  {
+    "name": "To Kokker",
+    "address": "Strandgaten 96, 5004 Bergen, Norway",
+    "phone": "+4799452275"
+  },
+  {
+    "name": "Naboen Pub & Restaurant",
+    "address": "Bryggen 11, 5003 Bergen, Norway",
+    "phone": "+4755302070"
+  },
+  {
+    "name": "Pingvinen",
+    "address": "Strømgaten 8, 5015 Bergen, Norway",
+    "phone": "+4740039580"
+  },
+  {
+    "name": "Allmuen",
+    "address": "Nedre Ole Bulls plass 4, 5012 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Bryggeriet Restaurant",
+    "address": "Kong Oscars gate 44, 5017 Bergen, Norway",
+    "phone": "+4755901600"
+  },
+  {
+    "name": "Bjerck Restaurant & Bar",
+    "address": "Thormøhlens Gate 51b, 5004 Bergen, Norway",
+    "phone": "+4792997599"
+  },
+  {
+    "name": "Mandalay Sushi & Burmese",
+    "address": "Kong Oscars gate 1B, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "The Unicorn Fish Restaurant",
+    "address": "Olav Kyrres gate 28, 5015 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Spisekroken",
+    "address": "Kong Oscars gate 3, 5017 Bergen, Norway",
+    "phone": "+4755360549"
+  },
+  {
+    "name": "Daily pot",
+    "address": "Lodin Lepps gate 4, 5003 Bergen, Norway",
+    "phone": "+4755961059"
+  },
+  {
+    "name": "Olivia Zachariasbryggen",
+    "address": "Olav Kyrres gate 11, 5014 Bergen, Norway",
+    "phone": "+4722225555"
+  },
+  {
+    "name": "Siam Ratree Thai Restaurant",
+    "address": "Strømgaten 8, 5015 Bergen, Norway",
+    "phone": "+4741279675"
+  },
+  {
+    "name": "JAJA Restaurant & Bar",
+    "address": "Østre Skostredet 5-7, 5017 Bergen, Norway",
+    "phone": "+4755901600"
+  },
+  {
+    "name": "Altona Vinbar & Kjøkken",
+    "address": "Unnamed Road, 5003, 5003 Bergen, Norway",
+    "phone": "50035003"
+  },
+  {
+    "name": "Villa Blanca Bergen",
+    "address": "Vestre Torggaten 3, 5015 Bergen, Norway",
+    "phone": "+4755901960"
+  },
+  {
+    "name": "Brasilia Bergen",
+    "address": "Christies gate 13, 5051 Bergen, Norway",
+    "phone": "+4755604651"
+  },
+  {
+    "name": "Horn of Africa",
+    "address": "Klosteret 16, 5005 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Lysverket",
+    "address": "Vestre Torggaten 5, 5015 Bergen, Norway",
+    "phone": "+4755960037"
+  },
+  {
+    "name": "Brød & Vin restaurant",
+    "address": "Strandgaten 3, 5013 Bergen, Norway",
+    "phone": "+4790756482"
+  },
+  {
+    "name": "FG Restaurant & Bar",
+    "address": "Skostredet 9A, 5017 Bergen, Norway",
+    "phone": "+4755315555"
+  },
+  {
+    "name": "Colonialen Kranen",
+    "address": "Vetrlidsallmenningen 21, 5014 Bergen, Norway",
+    "phone": "+4755329099"
+  },
+  {
+    "name": "Amici Miei",
+    "address": "Rosenkrantzgaten 5, 5003 Bergen, Norway",
+    "phone": "+4755312555"
+  },
+  {
+    "name": "Bryggekanten Restaurant",
+    "address": "Skostredet 14, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Pascal Mat og Vin - Restaurant Lucullus",
+    "address": "Klostergaten 2, 5005 Bergen, Norway",
+    "phone": "+4792268253"
+  },
+  {
+    "name": "Fish Me Fishmarket",
+    "address": "Nygårdsgaten 53, 5008 Bergen, Norway",
+    "phone": "+4792997220"
+  },
+  {
+    "name": "Logehaven",
+    "address": "Jonsvollsgaten 5, 5011 Bergen, Norway",
+    "phone": "+4746743333"
+  },
+  {
+    "name": "Pygmalion Økocafe & Galleri",
+    "address": "Lars Hilles gate 18, 5008 Bergen, Norway",
+    "phone": "+4755375050"
+  },
+  {
+    "name": "NAMASTEY BERGEN",
+    "address": "Vestre Torggaten 9, 5015 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Colonialen 44",
+    "address": "Fjøsangerveien 30, 5054 Bergen, Norway",
+    "phone": "+4755591100"
+  },
+  {
+    "name": "Bryggen Tracteursted",
+    "address": "Engen 8, 5011 Bergen, Norway",
+    "phone": "+4791189648"
+  },
+  {
+    "name": "GYROS HOUSE Sentrum",
+    "address": "Vaskerelven 16, 5014 Bergen, Norway",
+    "phone": "+4755090044"
+  },
+  {
+    "name": "Redsun Restaurant & bar",
+    "address": "Øvre Ole Bulls plass 1, 5012 Bergen, Norway",
+    "phone": "+4755900900"
+  },
+  {
+    "name": "Boccone Ristorante",
+    "address": "Strandkaien 6, 5013 Bergen, Norway",
+    "phone": "+4755230730"
+  },
+  {
+    "name": "Storm Brasserie & Bar",
+    "address": "Vaskerelven 12, 5014 Bergen, Norway",
+    "phone": "+4755558114"
+  },
+  {
+    "name": "Hoggorm",
+    "address": "Vågsallmenningen 16, 5014 Bergen, Norway",
+    "phone": "+4753012200"
+  },
+  {
+    "name": "Angry Bite",
+    "address": "Marken 11, 5017 Bergen, Norway",
+    "phone": "+4755311195"
+  },
+  {
+    "name": "Bien Basar",
+    "address": "Torget 2, 5014 Bergen, Norway",
+    "phone": "+4755553155"
+  },
+  {
+    "name": "MOON",
+    "address": "Torgallmenningen 3A, 5014 Bergen, Norway",
+    "phone": "+4797888888"
+  },
+  {
+    "name": "Agave Bergen",
+    "address": "Kong Oscars gate 1, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Soya Restaurant AS",
+    "address": "Nedre Ole Bulls plass 4, 5811 Bergen, Norway",
+    "phone": "+4755563240"
+  },
+  {
+    "name": "Cartel's Latin American Kitchen & Bar (Bergen Sentrum)",
+    "address": "Vestre Torggaten 1, 5015 Bergen, Norway",
+    "phone": "+4741586888"
+  },
+  {
+    "name": "Wesselstuen",
+    "address": "Vetrlidsallmenningen 7, 5014 Bergen, Norway",
+    "phone": "+4747687777"
+  },
+  {
+    "name": "Frescohallen",
+    "address": "Lodin Lepps gate 2B, 5003 Bergen, Norway",
+    "phone": "+4755322010"
+  },
+  {
+    "name": "Magic Restaurants",
+    "address": "Torget, 5014 Bergen, Norway",
+    "phone": "+4793965549"
+  },
+  {
+    "name": "Casa del Toro",
+    "address": "Torgallmenningen 8, 5014 Bergen, Norway",
+    "phone": "+4746506606"
+  },
+  {
+    "name": "Bergen Brunsj",
+    "address": "Skostredet 1, 5017 Bergen, Norway",
+    "phone": "+4794065000"
+  },
+  {
+    "name": "26 North Restaurant & Social Club",
+    "address": "Dreggsallmenningen 1, 5003 Bergen, Norway",
+    "phone": "+4747710467"
+  },
+  {
+    "name": "Bien Centro",
+    "address": "Kaigaten 16, 5016 Bergen, Norway",
+    "phone": "+4748516997"
+  },
+  {
+    "name": "Big Horn Steakhouse Bergen",
+    "address": "Lodin Lepps gate 2B, 5003 Bergen, Norway",
+    "phone": "+4755366060"
+  },
+  {
+    "name": "Taste of Greece Fisketorget",
+    "address": "Nedre Korskirkeallmenningen 1, 5017 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Taperia Tapas & Pinxos",
+    "address": "Rosenkrantzgaten 6, 5003 Bergen, Norway",
+    "phone": "+4755550310"
+  },
+  {
+    "name": "Holy Cow",
+    "address": "Nordahl Bruns gate 9, 5014 Bergen, Norway",
+    "phone": "+4755591100"
+  },
+  {
+    "name": "India Gate Bergen",
+    "address": "Finnegårdsgaten 6, 5003 Bergen, Norway",
+    "phone": "+4756901255"
+  },
+  {
+    "name": "Nama",
+    "address": "Vågsallmenningen 1, 5014 Bergen, Norway",
+    "phone": "+4741383100"
+  },
+  {
+    "name": "Trekroneren",
+    "address": "Øvre Ole Bulls plass 6, 5012 Bergen, Norway",
+    "phone": "+4755554949"
+  },
+  {
+    "name": "T.G.I. Fridays - Ole Bulls Plass",
+    "address": "Kong Oscars gate 2A, 5017 Bergen, Norway",
+    "phone": "+4794027963"
+  },
+  {
+    "name": "Jack's country Saloon",
+    "address": "Neumanns gate 25, 5015 Bergen, Norway",
+    "phone": "+4755232100"
+  },
+  {
+    "name": "Restaurant Xvi",
+    "address": "Marken 33, 5017 Bergen, Norway",
+    "phone": "+4748617542"
+  },
+  {
+    "name": "Lucy Restaurant and kafe",
+    "address": "Vetrlidsallmenningen 2, 5014 Bergen, Norway",
+    "phone": "+4755591100"
+  },
+  {
+    "name": "China Palace Restaurant",
+    "address": "Nygårdsgaten 29, 5015 Bergen, Norway",
+    "phone": "+4799080447"
+  },
+  {
+    "name": "Hot Wok City",
+    "address": "Nygaten 6, 5017 Bergen, Norway",
+    "phone": "+4792300026"
+  },
+  {
+    "name": "Zupperia",
+    "address": "Øvre Ole Bulls plass 3, 5012 Bergen, Norway",
+    "phone": "+4755321145"
+  },
+  {
+    "name": "Cafe-Bergen",
+    "address": "Kong Oscars gate 4, 5017 Bergen, Norway",
+    "phone": "+4755313100"
+  },
+  {
+    "name": "Villa Paradiso Ole Bull",
+    "address": "Kong Oscars gate 44, 5017 Bergen, Norway",
+    "phone": "+4755901600"
+  },
+  {
+    "name": "Upstairs Restaurant As",
+    "address": "Nedre Ole Bulls plass 4, 5012 Bergen, Norway",
+    "phone": "+4753014488"
+  },
+  {
+    "name": "La Taqueria",
+    "address": "Bryggestredet 2, 5003 Bergen, Norway",
+    "phone": "+4755336999"
+  },
+  {
+    "name": "ROAST Restaurant & Bar",
+    "address": "Håkonsgaten 15, 5015 Bergen, Norway",
+    "phone": "+4796971886"
+  },
+  {
+    "name": "Rebel",
+    "address": "Hollendergaten 5, 5017 Bergen, Norway",
+    "phone": "+4753519646"
+  },
+  {
+    "name": "Baban",
+    "address": "Nedre Korskirkeallmenningen 4, 5017 Bergen, Norway",
+    "phone": "+4755323360"
+  },
+  {
+    "name": "Taverna",
+    "address": "Øvre Ole Bulls plass 6, 5012 Bergen, Norway",
+    "phone": "+4755554949"
+  },
+  {
+    "name": "Bien Snackbar",
+    "address": "Valkendorfsgaten 8, 5012 Bergen, Norway",
+    "phone": "+4755306800"
+  },
+  {
+    "name": "Kogi",
+    "address": "Neumanns gate 7, 5015 Bergen, Norway",
+    "phone": "+4755691526"
+  },
+  {
+    "name": "Enjoy Saigon Restaurant & Take away",
+    "address": "Torget 2, 5014 Bergen, Norway",
+    "phone": "+4755553155"
+  },
+  {
+    "name": "Escalón Fløien",
+    "address": "Finnegården 2A, 5003 Bergen, Norway",
+    "phone": "+4755550302"
+  },
+  {
+    "name": "Villani Skostredet",
+    "address": "Rasmus Meyers allé 9, 5015 Bergen, Norway",
+    "phone": "+4755603100"
+  },
+  {
+    "name": "Kafé Spesial",
+    "address": "Christies gate 13, 5015 Bergen, Norway",
+    "phone": "+4755326704"
+  },
+  {
+    "name": "Sumo Restaurant Bergen Sentrum",
+    "address": "Solheimsgaten 9B, 5058 Bergen, Norway",
+    "phone": "+4755901600"
+  },
+  {
+    "name": "Boat to Cornelius Restaurant",
+    "address": "Strandgaten 212, 5004 Bergen, Norway",
+    "phone": "+4795425250"
+  },
+  {
+    "name": "Søstrene Hagelin",
+    "address": "Strandkaien 3, 5013 Bergen, Norway",
+    "phone": "+4745023000"
+  },
+  {
+    "name": "Løvetann Café & Bistro",
+    "address": "Olav Kyrres gate 39, 5014 Bergen, Norway",
+    "phone": "+4748305555"
+  },
+  {
+    "name": "Maharaja",
+    "address": "Nedre Korskirkeallmenningen 1, 5017 Bergen, Norway",
+    "phone": "+4792028443"
+  },
+  {
+    "name": "Pasta sentral AS",
+    "address": "Strandgaten 81, 5004 Bergen, Norway",
+    "phone": "+4755304072"
+  },
+  {
+    "name": "Colonialen Brasseriet",
+    "address": "co located with CityBox Hotel, Solheimsgaten, Danmarks plass 23, 5054 Bergen, Norway",
+    "phone": "+4791314235"
+  },
+  {
+    "name": "Sambusa Restaurant",
+    "address": "Øvregaten 2B, 5003 Bergen, Norway",
+    "phone": "+4755003346"
+  },
+  {
+    "name": "Simple & delicious",
+    "address": "Torget 2, 5014 Bergen, Norway",
+    "phone": "+4755902500"
+  },
+  {
+    "name": "Sabrura Sticks & Sushi - Bergen Storsenter",
+    "address": "Vaskerelven 21, 5014 Bergen, Norway",
+    "phone": "+4748911387"
+  },
+  {
+    "name": "Peppes Pizza - Ole Bulls Plass",
+    "address": "Klostergaten 8, 5005 Bergen, Norway",
+    "phone": "+4755230115"
+  },
+  {
+    "name": "Restaurant Nova",
+    "address": "Nedre Korskirkeallmenningen 5, 5017 Bergen, Norway",
+    "phone": "+4795888340"
+  },
+  {
+    "name": "Shanghai-Kobe restaurant",
+    "address": "Enhjørningsgården 29, 5003 Bergen, Norway",
+    "phone": "+4755306950"
+  },
+  {
+    "name": "Bergen pizza",
+    "address": "Zachariasbryggen 2nd floor, Torget 2, 5014 Bergen, Norway",
+    "phone": "+4740205695"
+  },
+  {
+    "name": "Colonialen Matbar",
+    "address": "Torgallmenningen 1A, 5014 Bergen, Norway",
+    "phone": "+4755325555"
+  },
+  {
+    "name": "Healthy EATS Bergen Storsenter",
+    "address": "Valkendorfsgaten 1B, 5012 Bergen, Norway",
+    "phone": "+4791918008"
+  },
+  {
+    "name": "Bergen Village Shopping Center",
+    "address": "Markeveien 3, 5012 Bergen, Norway",
+    "phone": "+4755627300"
+  },
+  {
+    "name": "Marketplace At Bergen Park",
+    "address": "Strømgaten 8, 5015 Bergen, Norway",
+    "phone": "+4755212460"
+  },
+  {
+    "name": "Bergen Town Center",
+    "address": "Laguneveien 1, 5239 Rådal, Norway",
+    "phone": "+4755117400"
+  },
+  {
+    "name": "Galleriet",
+    "address": "Strandgaten 13-15, 5013 Bergen, Norway",
+    "phone": "13155013"
+  },
+  {
+    "name": "Kløverhuset",
+    "address": "Småstrandgaten 3, 5014 Bergen, Norway",
+    "phone": "+4755705111"
+  },
+  {
+    "name": "Xhibition Shopping Center",
+    "address": "1240 Bergen Pkwy, Evergreen, CO 80439",
+    "phone": "124080439"
+  },
+  {
+    "name": "Bergen Storsenter",
+    "address": "8101 Tonnele Ave, North Bergen, NJ 07047",
+    "phone": "810107047"
+  },
+  {
+    "name": "Tonnelle Plaza",
+    "address": "1173 Bergen Pkwy, Evergreen, CO 80439",
+    "phone": "117380439"
+  },
+  {
+    "name": "Lagunen Storsenter",
+    "address": "One Bergen Town Center, Paramus, NJ 07652",
+    "phone": "2018454050"
+  },
+  {
+    "name": "Sport1",
+    "address": "Torgallmenningen 8, 5014 Bergen, Norway",
+    "phone": "+4791549821"
+  },
+  {
+    "name": "Sletten Center",
+    "address": "Starvhusgaten 4, 5014 Bergen, Norway",
+    "phone": "+4753500577"
+  },
+  {
+    "name": "Tonnelle Commons",
+    "address": "8701 Tonnele Ave, North Bergen, NJ 07047",
+    "phone": "870107047"
+  },
+  {
+    "name": "The Telegraph",
+    "address": "Vilhelm Bjerknes' vei 4, 5081 Bergen, Norway",
+    "phone": "+4746917794"
+  },
+  {
+    "name": "Bergenhus Fortress",
+    "address": "Fantoftvegen 38, 5072 Bergen, Norway",
+    "phone": "+4755280710"
+  },
+  {
+    "name": "Lysverket",
+    "address": "Bryggen, 5003 Bergen, Norway",
+    "phone": "+4755552080"
+  },
+  {
+    "name": "Akvariet i Bergen - Det Nasjonale Akvariet",
+    "address": "Thormøhlens Gate 51, 5006 Bergen, Norway",
+    "phone": "+4755594500"
+  },
+  {
+    "name": "Fantoft Stave Church",
+    "address": "Rasmus Meyers allé 9, 5015 Bergen, Norway",
+    "phone": "+4753009700"
+  },
+  {
+    "name": "Rosenkrantztårnet - Bymuseet i Bergen",
+    "address": "Bergenhus 30, 5003 Bergen, Norway",
+    "phone": "+4798903351"
+  },
+  {
+    "name": "Sailor's Monument",
+    "address": "Torgallmenningen, 5014 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Troldhaugen",
+    "address": "Bergenhus 4, 5003 Bergen, Norway",
+    "phone": "+4755308038"
+  },
+  {
+    "name": "VilVite - Bergen Science Center",
+    "address": "Nordnesbakken 4, 5005 Bergen, Norway",
+    "phone": "+4755557171"
+  },
+  {
+    "name": "Bergenhus Festningsmuseum",
+    "address": "Troldhaugvegen 65, 5232 Paradis, Norway",
+    "phone": "+4753009700"
+  },
+  {
+    "name": "Norway Fisheries Museum",
+    "address": "Blekebakken 2a, 5018 Bergen, Norway",
+    "phone": "+4746901266"
+  },
+  {
+    "name": "Gamle Bergen Museum - Bymuseet i Bergen",
+    "address": "Damsgårdsveien 50, 5058 Bergen, Norway",
+    "phone": "+4790766750"
+  },
+  {
+    "name": "Schøtstuene, Hanseatic Assembly Rooms",
+    "address": "Johan Blytts vei 30, 5096 Bergen, Norway",
+    "phone": "+4755208070"
+  },
+  {
+    "name": "Bergen Maritime Museum",
+    "address": "Galleriet kjøpesenter, Torgallmenningen 8, 5014 Bergen, Norway",
+    "phone": "+4796943524"
+  },
+  {
+    "name": "Bryggens Museum",
+    "address": "Foreningsgaten 1, 5015 Bergen, Norway",
+    "phone": "+4755544060"
+  },
+  {
+    "name": "Nordnes Park",
+    "address": "Vågsallmenningen 1, 5014 Bergen, Norway",
+    "phone": "+4755336400"
+  },
+  {
+    "name": "Fløibanen",
+    "address": "Eikeveien 1, 5063 Bergen, Norway",
+    "phone": "+4755281010"
+  },
+  {
+    "name": "Høyt & Lavt Bergen",
+    "address": "Bankgaten 6, 5017 Bergen, Norway",
+    "phone": "+4793837989"
+  },
+  {
+    "name": "Kode 3",
+    "address": "Nygårdsgaten 29, 5015 Bergen, Norway",
+    "phone": "+4799080447"
+  },
+  {
+    "name": "Bergen Kunsthall",
+    "address": "Neumanns gate 3, 5015 Bergen, Norway",
+    "phone": "+4755558300"
+  },
+  {
+    "name": "St. Mary's Church",
+    "address": "Nygårdsgaten 31, 5015 Bergen, Norway",
+    "phone": "+4755312500"
+  },
+  {
+    "name": "Gingerbread City",
+    "address": "Damsgårdsveien 113, 5058 Bergen, Norway",
+    "phone": "+4756114700"
+  },
+  {
+    "name": "Ole Bull Fountain",
+    "address": "Fisketorget, 5013 Bergen, Norway",
+    "phone": "+4746557500"
+  },
+  {
+    "name": "Bergen Harbor",
+    "address": "Fjøsangerveien 4, 5008 Bergen, Norway",
+    "phone": "+4755568870"
+  },
+  {
+    "name": "West Norway Museum of Decorative Art",
+    "address": "Engen 18, 5011 Bergen, Norway",
+    "phone": "+4755230315"
+  },
+  {
+    "name": "Lille Lungegårdsvannet",
+    "address": "Rasmus Meyers allé 9, 5015 Bergen, Norway",
+    "phone": "+4755603100"
+  },
+  {
+    "name": "Fjell Fortress",
+    "address": "Rosenkrantzgaten 12, 5003 Bergen, Norway",
+    "phone": "+4722057500"
+  },
+  {
+    "name": "Vannkanten Waterworld",
+    "address": "Strandkaien 16, 5013 Bergen, Norway",
+    "phone": "+4797921000"
+  },
+  {
+    "name": "Bergen University Museum - Natural History",
+    "address": "Damsgårdsveien 139, 5160 Bergen, Norway",
+    "phone": "+4741403982"
+  },
+  {
+    "name": "Fløyen",
+    "address": "Unnelandsvegen 320, 5268 Haukeland, Norway",
+    "phone": "+4790708705"
+  },
+  {
+    "name": "Guided food and culture walk",
+    "address": "Bryggen 13, 5003 Bergen, Norway",
+    "phone": "+4755215480"
+  },
+  {
+    "name": "“The Homeless” - street art statue.",
+    "address": "Bryggen, 5003 Bergen, Norway",
+    "phone": "+4796044892"
+  },
+  {
+    "name": "St. John's Church",
+    "address": "Tårnplassen 1, 5012 Bergen, Norway",
+    "phone": "+4747515173"
+  },
+  {
+    "name": "Bergen",
+    "address": "Veiten 3, 5012 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Tourist Information in Bergen",
+    "address": "Strandkaien 3, 5012 Bergen, Norway",
+    "phone": "+4790984316"
+  },
+  {
+    "name": "Ulriken",
+    "address": "Småstrandgaten 3 Xhibition, 5014 Bergen, Norway",
+    "phone": "+4740675619"
+  },
+  {
+    "name": "Visit Bergen",
+    "address": "Nordre Nøstekaien 1, 5011 Bergen, Norway",
+    "phone": "+4755557660"
+  },
+  {
+    "name": "Bergen Segway",
+    "address": "Rallarvegen, 5718 Myrdal, Norway",
+    "phone": null
+  },
+  {
+    "name": "Rush trampolinepark, avdeling Bergen",
+    "address": "Holmedalsgården 1, 5003 Bergen, Norway",
+    "phone": "+4755215104"
+  },
+  {
+    "name": "Folgefonna National Park",
+    "address": "Strandkaien 3, 5013 Bergen, Norway",
+    "phone": "+4755552000"
+  },
+  {
+    "name": "Skomakerdiket",
+    "address": "Strandgaten 201, 5004 Bergen, Norway",
+    "phone": "+4745024169"
+  },
+  {
+    "name": "Free Walking Tour Bergen",
+    "address": "Hellebakken 45, 5039 Bergen, Norway",
+    "phone": "+4755392950"
+  },
+  {
+    "name": "Bergenhus",
+    "address": "Nordre Nøstekaien 1, 5011 Bergen, Norway",
+    "phone": "+4755302640"
+  },
+  {
+    "name": "Sentrum",
+    "address": "C. Sundts gate 50, 5004 Bergen, Norway",
+    "phone": "+4793008023"
+  },
+  {
+    "name": "Vågen",
+    "address": "Nordnesparken 30, 5005 Bergen, Norway",
+    "phone": "+4746904965"
+  },
+  {
+    "name": "Gamlehaugen",
+    "address": "Bryggen, 5034 Bergen, Norway",
+    "phone": "+4795161224"
+  },
+  {
+    "name": "Escape Hunt Bergen",
+    "address": "Lungegårdskaien 40, 5015 Bergen, Norway",
+    "phone": "+4753036222"
+  },
+  {
+    "name": "Vøringfossen",
+    "address": "Bjørgavegen 83, 5745 Aurland, Norway",
+    "phone": null
+  },
+  {
+    "name": "Sjømannsmonumentet",
+    "address": "Torget 5, 5014 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Bryggen",
+    "address": "Kristiansholm 14, 5035 Bergen, Norway",
+    "phone": "+4748443300"
+  },
+  {
+    "name": "Nordnes",
+    "address": "Tunesvegen 8, 5264 Garnes, Norway",
+    "phone": null
+  },
+  {
+    "name": "Bergen Fjord Adventures",
+    "address": "Strandgaten 7, 5013 Bergen, Norway",
+    "phone": "+4792310970"
+  },
+  {
+    "name": "Nordnes seawater pool",
+    "address": "Olav Kyrres gate 27, 5014 Bergen, Norway",
+    "phone": "+491636317674"
+  },
+  {
+    "name": "Lille Lungegårdsvannet",
+    "address": "Skålafjæro 17, 5470 Rosendal, Norway",
+    "phone": "+4753484280"
+  },
+  {
+    "name": "Bergen Flipperspillklubb",
+    "address": "Rasmus Meyers allé 5, 5015 Bergen, Norway",
+    "phone": "+4745889046"
+  },
+  {
+    "name": "Kjosfossen Falls",
+    "address": "Bontelabo 2, 5003 Bergen, Norway",
+    "phone": "+4747147100"
+  },
+  {
+    "name": "Fjord Tours AS",
+    "address": "Kokstadvegen 23, 5257 Kokstad, Norway",
+    "phone": "+4755990909"
+  },
+  {
+    "name": "Julehuset",
+    "address": "Bryggen 35, 5003 Bergen, Norway",
+    "phone": "+4747372273"
+  },
+  {
+    "name": "Norway Mountain Guides",
+    "address": "Strandkaien 3, 5013 Bergen, Norway",
+    "phone": "+4755552000"
+  },
+  {
+    "name": "Spillhuset Bergen",
+    "address": "Haukelandsbakken 40, 5009 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "University of Bergen",
+    "address": "Strandkaien 3, 5012 Bergen, Norway",
+    "phone": "+4755552000"
+  },
+  {
+    "name": "Flying Tiger Copenhagen",
+    "address": "Børshopen, 5013 Bergen, Norway",
+    "phone": "+4746221000"
+  },
+  {
+    "name": "Plassen. Bergen",
+    "address": "Fv585, 5014 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "City Sauna Bergen",
+    "address": "Sydnesplassen 5, 5007 Bergen, Norway",
+    "phone": "+4755597170"
+  },
+  {
+    "name": "Solneset Gård",
+    "address": "Strandkaien 3, 5012 Bergen, Norway",
+    "phone": "+4755325500"
+  },
+  {
+    "name": "Ting Bergen",
+    "address": "Muséplassen 3, 5007 Bergen, Norway",
+    "phone": "+4755588800"
+  },
+  {
+    "name": "Lysverket",
+    "address": "Loddefjordveien 2 2 etasje, 5171 Loddefjord, Norway",
+    "phone": "+4755507777"
+  },
+  {
+    "name": "Lysøen",
+    "address": "Festningsvegen, 5357 Fjell, Norway",
+    "phone": "+4753006123"
+  },
+  {
+    "name": "Rosenkrantz P-hus | APCOA PARKING",
+    "address": "Kaigaten 4, 5016 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Café Opera",
+    "address": "Rasmus Meyers allé 3, 5015 Bergen, Norway",
+    "phone": "+4753009700"
+  },
+  {
+    "name": "Nemo Classic Diving",
+    "address": "Rasmus Meyers allé 9, 5015 Bergen, Norway",
+    "phone": "+4790011020"
+  },
+  {
+    "name": "Citybox Bergen",
+    "address": "Dreggsallmenningen 15, 5003 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Private Fjord Cruise - Bergen",
+    "address": "Nedre Ole Bulls plass 1, 5012 Bergen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Hoggorm",
+    "address": "Rasmus Meyers allé 5, 5015 Bergen, Norway",
+    "phone": "+4794015050"
+  },
+  {
+    "name": "Bergen Kino",
+    "address": "Osvegen 141, 5227 Nesttun, Norway",
+    "phone": null
+  },
+  {
+    "name": "Muskedunder",
+    "address": "Nordnesparken 1, 5005 Bergen, Norway",
+    "phone": "+4755566209"
+  },
+  {
+    "name": "Bergen Børs Hotel",
+    "address": "Rasmus Meyers allé 7, 5015 Bergen, Norway",
+    "phone": "+4753009700"
+  },
+  {
+    "name": "Panduro Hobby",
+    "address": "Haakon Sheteligs plass 15, 5007 Bergen, Norway",
+    "phone": "+4755549600"
+  },
+  {
+    "name": "Trondheim Vandrerhjem",
+    "address": "Krambugata 11, 7011 Trondheim, Norway",
+    "phone": "+4773588888"
+  },
+  {
+    "name": "Quality Hotel Augustin",
+    "address": "Kongens gate 26, 7011 Trondheim, Norway",
+    "phone": "+4773547000"
+  },
+  {
+    "name": "Radisson Blu Royal Garden Hotel, Trondheim",
+    "address": "Kongens gate 15, 7013 Trondheim, Norway",
+    "phone": "+4773884788"
+  },
+  {
+    "name": "Clarion Hotel Trondheim",
+    "address": "Nedre Baklandet 60, 7014 Trondheim, Norway",
+    "phone": "+4772902000"
+  },
+  {
+    "name": "Scandic Bakklandet",
+    "address": "Brattørkaia 1, 7010 Trondheim, Norway",
+    "phone": "+4773925500"
+  },
+  {
+    "name": "Comfort Hotel Trondheim",
+    "address": "Weidemanns v. 41 B, 7043 Trondheim, Norway",
+    "phone": "+4740105556"
+  },
+  {
+    "name": "Britannia Hotel",
+    "address": "Brattørgata 2, 7010 Trondheim, Norway",
+    "phone": "+4773991000"
+  },
+  {
+    "name": "Scandic Nidelven",
+    "address": "Kjøpmannsgata 73, 7010 Trondheim, Norway",
+    "phone": "+4773803000"
+  },
+  {
+    "name": "Best Western Plus Hotel Bakeriet",
+    "address": "Havnegata 1-3, 7010 Trondheim, Norway",
+    "phone": "+4773568000"
+  },
+  {
+    "name": "Thon Hotel Trondheim",
+    "address": "Dronningens gate 5, 7011 Trondheim, Norway",
+    "phone": "+4773800800"
+  },
+  {
+    "name": "Quality Hotel Prinsen",
+    "address": "Gardemoens gate 1, 7041 Trondheim, Norway",
+    "phone": "+4773500700"
+  },
+  {
+    "name": "P-Hotels Brattøra",
+    "address": "Bynesveien 120, 7018 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Quality Hotel Augustin",
+    "address": "Tormods gate 3, 7030 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Thon Hotel Nidaros",
+    "address": "Rogerts gate 1, 7016 Trondheim, Norway",
+    "phone": "+4773893100"
+  },
+  {
+    "name": "Chesterfield Hotel",
+    "address": "Kongens gate 40, 7012 Trondheim, Norway",
+    "phone": "+4773513218"
+  },
+  {
+    "name": "Radisson Blu Hotel, Trondheim Airport",
+    "address": "Gardemoens gate 1A, 7066 Trondheim, Norway",
+    "phone": "+4773500700"
+  },
+  {
+    "name": "Nidaros pilegrimsgård",
+    "address": "Weidemanns v. 41 B, 7043 Trondheim, Norway",
+    "phone": "+4740105556"
+  },
+  {
+    "name": "Clarion Collection Hotel Grand Olav",
+    "address": "Ivar Lykkes veg 1 A, 7075 Tiller, Norway",
+    "phone": "+4772900500"
+  },
+  {
+    "name": "Scandic Solsiden",
+    "address": "Nordre gate 24, 7011 Trondheim, Norway",
+    "phone": "+4773870808"
+  },
+  {
+    "name": "Comfort Hotel Park",
+    "address": "Mauritz Hansens gate 3, 7030 Trondheim, Norway",
+    "phone": "+4773872500"
+  },
+  {
+    "name": "Scandic Lerkendal",
+    "address": "Dronningens gate 26, 7011 Trondheim, Norway",
+    "phone": "+4773870800"
+  },
+  {
+    "name": "City Living Schøller Hotel & Apartments",
+    "address": "Prinsens gt. 4A, 7012 Trondheim, Norway",
+    "phone": "+4773833900"
+  },
+  {
+    "name": "City Living Schøller Hotel & Apartments",
+    "address": "Dronningens gate 26, 7011 Trondheim, Norway",
+    "phone": "+4773870800"
+  },
+  {
+    "name": "Quality Hotel Panorama, Trondheim",
+    "address": "Klæbuveien 127 A, 7031 Trondheim, Norway",
+    "phone": "+4721615100"
+  },
+  {
+    "name": "Trondheim Vandrerhjem",
+    "address": "Kjøpmannsgata 48, 7010 Trondheim, Norway",
+    "phone": "+4773808080"
+  },
+  {
+    "name": "Trondheim Leilighetshotell",
+    "address": "Kjøpmannsgata 1, 7013 Trondheim, Norway",
+    "phone": "+4773525000"
+  },
+  {
+    "name": "Hotell St Olav",
+    "address": "Beddingen 1, 7042 Trondheim, Norway",
+    "phone": "+4721614600"
+  },
+  {
+    "name": "Singsaker Sommerhotell",
+    "address": "Søndre gate 22B, 7010 Trondheim, Norway",
+    "phone": "+4773870130"
+  },
+  {
+    "name": "City Living Sentrum Hotel & Apartments",
+    "address": "Lufthavnveien 30, 7502 Stjørdal, Norway",
+    "phone": "+4774843600"
+  },
+  {
+    "name": "Pensjonat Jarlen",
+    "address": "Kongens gate 26, 7011 Trondheim, Norway",
+    "phone": "+4773547000"
+  },
+  {
+    "name": "Trondheim Apartment Hotel",
+    "address": "Søndre gate 26, 7010 Trondheim, Norway",
+    "phone": "+4740730509"
+  },
+  {
+    "name": "Elgeseter Hotell",
+    "address": "Fosenkaia 7, 7010 Trondheim, Norway",
+    "phone": "+4773604005"
+  },
+  {
+    "name": "Seaside Rentals",
+    "address": "Kongens gate 30, 7012 Trondheim, Norway",
+    "phone": "+4773807000"
+  },
+  {
+    "name": "Indian Tandoori Restaurant",
+    "address": "Prinsens gt. 32, 7011 Trondheim, Norway",
+    "phone": "+4740555529"
+  },
+  {
+    "name": "Trondheim Torg",
+    "address": "Ladeveien 9, 7066 Trondheim, Norway",
+    "phone": "+4795437028"
+  },
+  {
+    "name": "Frida",
+    "address": "Fjordgata 15, 7010 Trondheim, Norway",
+    "phone": "+4773535007"
+  },
+  {
+    "name": "Troll Restaurant",
+    "address": "Carl Johans gate 5, 7010 Trondheim, Norway",
+    "phone": "+4773568900"
+  },
+  {
+    "name": "AiSuma Restaurant",
+    "address": "Kjøpmannsgata 57, 7011 Trondheim, Norway",
+    "phone": "+4773549271"
+  },
+  {
+    "name": "Restaurant Two Rooms and Kitchen",
+    "address": "Munkegata 25, 7011 Trondheim, Norway",
+    "phone": "+4773606024"
+  },
+  {
+    "name": "Credo restaurant",
+    "address": "Kongens gate 30, 7012 Trondheim, Norway",
+    "phone": "+4747931000"
+  },
+  {
+    "name": "Emilies Eld Restaurant & Bar",
+    "address": "Fosenkaia 4A, 7010 Trondheim, Norway",
+    "phone": "+4773487990"
+  },
+  {
+    "name": "Le Bistro",
+    "address": "Kongens gate 9, 7013 Trondheim, Norway",
+    "phone": "+4773536994"
+  },
+  {
+    "name": "Bula Neobistro",
+    "address": "Søndre gate 22A, 2 etg, 7010 Trondheim, Norway",
+    "phone": "+4773527000"
+  },
+  {
+    "name": "Bakgården Bar og Spiseri",
+    "address": "Beddingen 2-4, 7014 Trondheim, Norway",
+    "phone": "+4796004757"
+  },
+  {
+    "name": "Kraft Bodega",
+    "address": "Magnus Berrføtts veg 4A, 7046 Trondheim, Norway",
+    "phone": "+4773902000"
+  },
+  {
+    "name": "Krambua Trondheim",
+    "address": "Kongens gate 2, 7011 Trondheim, Norway",
+    "phone": "+4746912480"
+  },
+  {
+    "name": "Graffi Grill og Bar Midtbyen",
+    "address": "Brattørgata 4, 7010 Trondheim, Norway",
+    "phone": "+4798862366"
+  },
+  {
+    "name": "Robust Bistro",
+    "address": "Elgeseter Gate 1, 7030 Trondheim, Norway",
+    "phone": "+4773531033"
+  },
+  {
+    "name": "Amber Restaurant",
+    "address": "Kongens gate 9, 7013 Trondheim, Norway",
+    "phone": "+4721656585"
+  },
+  {
+    "name": "Szechuan Restaurant",
+    "address": "Bassengbakken 2, 7042 Trondheim, Norway",
+    "phone": "+4773187878"
+  },
+  {
+    "name": "Super Hero Burger",
+    "address": "Tmv-kaia 21, 7043 Trondheim, Norway",
+    "phone": "+4773926701"
+  },
+  {
+    "name": "Olivia Solsiden",
+    "address": "Olav Tryggvasons gt. 31, 7011 Trondheim, Norway",
+    "phone": "+4747798944"
+  },
+  {
+    "name": "Frati restaurant",
+    "address": "Fjordgata 45, 7010 Trondheim, Norway",
+    "phone": "+4797664531"
+  },
+  {
+    "name": "73 Bar & Restaurant",
+    "address": "Haakon VIIs gt. 9, 7041 Trondheim, Norway",
+    "phone": "+4793486000"
+  },
+  {
+    "name": "Benja Siam Midtbyen",
+    "address": "Dronningens gate 37, 7012 Trondheim, Norway",
+    "phone": "+4791694525"
+  },
+  {
+    "name": "San Sebastian Solsiden",
+    "address": "Kongens gate 30, 7011 Trondheim, Norway",
+    "phone": "+4773807090"
+  },
+  {
+    "name": "Grano Trondheim",
+    "address": "Thomas Angells gate 1, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Thuy Asia Restaurant",
+    "address": "Kongens gate 15, 7013 Trondheim, Norway",
+    "phone": "+4773500001"
+  },
+  {
+    "name": "Smak Trondheim",
+    "address": "Olav Tryggvasons gt. 33, 7011 Trondheim, Norway",
+    "phone": "+4794822008"
+  },
+  {
+    "name": "Rive Gauche",
+    "address": "Vår Frue Strete 3, 7013 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Døgnvill Burger Trondheim",
+    "address": "Olav Tryggvasons gt. 30, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Fagn",
+    "address": "Strandveien 25a, 7042 Trondheim, Norway",
+    "phone": "+4773518020"
+  },
+  {
+    "name": "Jonathan Grill",
+    "address": "Håkon VII´s gata 9, 7041 Trondheim, Norway",
+    "phone": "+4721656585"
+  },
+  {
+    "name": "KOH I NOR",
+    "address": "Otto Nielsens veg 4, 7052 Trondheim, Norway",
+    "phone": "+4773873500"
+  },
+  {
+    "name": "Cowsea",
+    "address": "Kongens gate 14B, 7011 Trondheim, Norway",
+    "phone": "+4773521020"
+  },
+  {
+    "name": "Mesob",
+    "address": "Tmv-kaia 13, 7014 Trondheim, Norway",
+    "phone": "+4792012181"
+  },
+  {
+    "name": "Bangkok Cafe",
+    "address": "Kongens gate 21, 7012 Trondheim, Norway",
+    "phone": "+4794784645"
+  },
+  {
+    "name": "Palmehaven",
+    "address": "Elgeseter Gate 1, 7030 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Nha Trang",
+    "address": "Munkegata 41, 7011 Trondheim, Norway",
+    "phone": "+4773521020"
+  },
+  {
+    "name": "Kalas & Canasta",
+    "address": "Ladeveien 9C, 7066 Trondheim, Norway",
+    "phone": "+4745884744"
+  },
+  {
+    "name": "Verde",
+    "address": "Fjordgata 72, 7010 Trondheim, Norway",
+    "phone": "+4797162644"
+  },
+  {
+    "name": "La Border",
+    "address": "Thomas Angells gate 8, 7011 Trondheim, Norway",
+    "phone": "+4773517975"
+  },
+  {
+    "name": "Grafen Trondheim",
+    "address": "Tmv-kaia 5-7, 7014 Trondheim, Norway",
+    "phone": "+4746467000"
+  },
+  {
+    "name": "Jimi's Diner",
+    "address": "Kongens gate 32, 7012 Trondheim, Norway",
+    "phone": "+4773502591"
+  },
+  {
+    "name": "Spise I Trondheim As",
+    "address": "Nedre Ila 2, 7018 Trondheim, Norway",
+    "phone": "+4773921151"
+  },
+  {
+    "name": "San Sebastian Torget",
+    "address": "Strandveien 23, 7042 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "O'Learys",
+    "address": "Fjordgata 1, 7010 Trondheim, Norway",
+    "phone": "+4791914912"
+  },
+  {
+    "name": "Søstrene Karlsen",
+    "address": "Vår Frue gate, 7013 Trondheim, Norway",
+    "phone": "+4772888888"
+  },
+  {
+    "name": "Lan Na Restaurant",
+    "address": "Kjøpmannsgata 38, 7011 Trondheim, Norway",
+    "phone": "+4773109988"
+  },
+  {
+    "name": "TAG Restaurant and Club",
+    "address": "Kristianstensbakken 10-20, 7014 Trondheim, Norway",
+    "phone": "10207014"
+  },
+  {
+    "name": "Mat fra Hagen Midtbyen",
+    "address": "Tmv-kaia 3, 7014 Trondheim, Norway",
+    "phone": "+4745831524"
+  },
+  {
+    "name": "Røft Rôtisseri",
+    "address": "Søndre gate 22A, 2 etg, 7010 Trondheim, Norway",
+    "phone": "+4773527000"
+  },
+  {
+    "name": "Baklandet Skydsstation",
+    "address": "Brattørgata 5, 7010 Trondheim, Norway",
+    "phone": "+4773524600"
+  },
+  {
+    "name": "Istanbul Döner Chef",
+    "address": "Munkegata 64C, 7011 Trondheim, Norway",
+    "phone": "+4746467000"
+  },
+  {
+    "name": "Una pizzeria e bar",
+    "address": "Tmv-kaia 25, 7042 Trondheim, Norway",
+    "phone": "+4748289482"
+  },
+  {
+    "name": "Alma's",
+    "address": "Ferjemannsveien 10, 7014 Trondheim, Norway",
+    "phone": "+4748305555"
+  },
+  {
+    "name": "Erlings",
+    "address": "Havnegata 1, 7010 Trondheim, Norway",
+    "phone": "+4773568000"
+  },
+  {
+    "name": "Jossa mat og drikke",
+    "address": "Olav Tryggvasons gt. 22, 7011 Trondheim, Norway",
+    "phone": "+4773525230"
+  },
+  {
+    "name": "Phu Yen",
+    "address": "Innherredsveien 14, 7014 Trondheim, Norway",
+    "phone": "+4794440111"
+  },
+  {
+    "name": "Sot & Sabrura på Torvet",
+    "address": "Mellomveien 4, 7067 Trondheim, Norway",
+    "phone": "+4793483898"
+  },
+  {
+    "name": "Una Pizzeria Torget",
+    "address": "Olav Tryggvasons gt. 22, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Trønderburger",
+    "address": "Munkegata 19, 7013 Trondheim, Norway",
+    "phone": "+4745507484"
+  },
+  {
+    "name": "Taqueros Taco & Tequila",
+    "address": "Kongens gate 18, 7011 Trondheim, Norway",
+    "phone": "+4773821616"
+  },
+  {
+    "name": "Anahita AS",
+    "address": "Olav Tryggvasons gt. 29, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Broen Bar & Restaurant",
+    "address": "Repslagerveita 2, 7012 Trondheim, Norway",
+    "phone": "+4773529950"
+  },
+  {
+    "name": "Bror",
+    "address": "Erling Skakkes gate 39, 7012 Trondheim, Norway",
+    "phone": "+4745376131"
+  },
+  {
+    "name": "Brasilia Trondheim",
+    "address": "Ladeveien 9, 7066 Trondheim, Norway",
+    "phone": "+4795437028"
+  },
+  {
+    "name": "Fox grill AS",
+    "address": "Beddingen 14, 7014 Trondheim, Norway",
+    "phone": "+4740007003"
+  },
+  {
+    "name": "Indian Tandoori Restaurant",
+    "address": "Kongens gate 19, 7012 Trondheim, Norway",
+    "phone": "+4790750336"
+  },
+  {
+    "name": "Barbecuez",
+    "address": "Olav Tryggvasons gt. 5, 7011 Trondheim, Norway",
+    "phone": "+4773807340"
+  },
+  {
+    "name": "Héctor Food & Fiesta",
+    "address": "Øvre Bakklandet 33, 7013 Trondheim, Norway",
+    "phone": "+4773921044"
+  },
+  {
+    "name": "Taste of India",
+    "address": "Sjøgangen 6 Trondheim sentralstasjon, 7011 Trondheim, Norway",
+    "phone": "+4773188100"
+  },
+  {
+    "name": "Haubitsmagasinet",
+    "address": "Thomas Angells gate 12B, 7011 Trondheim, Norway",
+    "phone": "+4748850200"
+  },
+  {
+    "name": "Sot Bar & Burger Solsiden",
+    "address": "Thomas Angells gate 10B, 7011 Trondheim, Norway",
+    "phone": "+4745912150"
+  },
+  {
+    "name": "Spontan Wine Bar",
+    "address": "Tmv-kaia 25, 7042 Trondheim, Norway",
+    "phone": "+4773600025"
+  },
+  {
+    "name": "Parkkafeen",
+    "address": "Verftsgata 2 E, 7042 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Trondheim Folkekjøkken",
+    "address": "Søndre gate 17, 7011 Trondheim, Norway",
+    "phone": "+4773516644"
+  },
+  {
+    "name": "Gubalari",
+    "address": "Nordre gate 24, 7010 Trondheim, Norway",
+    "phone": "+4740851199"
+  },
+  {
+    "name": "Graffi Grill Solsiden",
+    "address": "Kongens gate 16, 7011 Trondheim, Norway",
+    "phone": "+4773600500"
+  },
+  {
+    "name": "Lille Skansen",
+    "address": "Nordre gate 11, 7011 Trondheim, Norway",
+    "phone": "+4793071144"
+  },
+  {
+    "name": "Egon",
+    "address": "Kjøpmannsgata 48, 7010 Trondheim, Norway",
+    "phone": "+4748662936"
+  },
+  {
+    "name": "Napoli",
+    "address": "Thomas Angells gate 14, 7011 Trondheim, Norway",
+    "phone": "+4790719525"
+  },
+  {
+    "name": "Edoramen",
+    "address": "Kongens gate 8, 7011 Trondheim, Norway",
+    "phone": "+4746963364"
+  },
+  {
+    "name": "Chang Thai brygge kafé AS",
+    "address": "Nedre Baklandet 5, 7014 Trondheim, Norway",
+    "phone": "+4792852527"
+  },
+  {
+    "name": "Sushi Bar",
+    "address": "Fjordgata 25, 7010 Trondheim, Norway",
+    "phone": "+4773535595"
+  },
+  {
+    "name": "Lyche Kjøkken & Bar",
+    "address": "Dronningens gate 23, 7012 Trondheim, Norway",
+    "phone": "+4773535600"
+  },
+  {
+    "name": "S'wich",
+    "address": "Munkegata 64A, 7011 Trondheim, Norway",
+    "phone": "+4745171951"
+  },
+  {
+    "name": "Selma Bar & Pizza",
+    "address": "Dronningens gate 5, 7011 Trondheim, Norway",
+    "phone": "+4773800830"
+  },
+  {
+    "name": "Sushi Bar Torvet",
+    "address": "Ferjemannsveien 12, 7042 Trondheim, Norway",
+    "phone": "+4773505060"
+  },
+  {
+    "name": "Thai Thai",
+    "address": "Vår Frue Strete 3, 7013 Trondheim, Norway",
+    "phone": "+4772888888"
+  },
+  {
+    "name": "DIS CAFÉ",
+    "address": "Dronningens gate 5, 7011 Trondheim, Norway",
+    "phone": "+4773800802"
+  },
+  {
+    "name": "Egon Tårnet",
+    "address": "Øvre Bakklandet 66, 7016 Trondheim, Norway",
+    "phone": "+4791920684"
+  },
+  {
+    "name": "Heit Restaurant",
+    "address": "Ørjaveita 4, 7010 Trondheim, Norway",
+    "phone": "+4745844996"
+  },
+  {
+    "name": "Super Hero Pizza",
+    "address": "Munkegata 26, 7014 Trondheim, Norway",
+    "phone": "+4773808600"
+  },
+  {
+    "name": "Koie Ramen Trondheim",
+    "address": "Søndre gate 25, 7010 Trondheim, Norway",
+    "phone": "+4791544804"
+  },
+  {
+    "name": "Ramp Pub & Spiseri",
+    "address": "Innherredsveien 65 a, 7068 Trondheim, Norway",
+    "phone": "+4741215511"
+  },
+  {
+    "name": "Egon",
+    "address": "Olav Tryggvasons gt. 34, 7011 Trondheim, Norway",
+    "phone": "+4755243325"
+  },
+  {
+    "name": "Cafe Dublin",
+    "address": "Kjøpmannsgata 73, 7010 Trondheim, Norway",
+    "phone": "+4773803000"
+  },
+  {
+    "name": "Petter’s Pizza Sentrum",
+    "address": "Tmv-kaia 9, 7042 Trondheim, Norway",
+    "phone": "+4773600500"
+  },
+  {
+    "name": "Egon",
+    "address": "Ravelsveita 6, 7011 Trondheim, Norway",
+    "phone": "+4791004342"
+  },
+  {
+    "name": "SushiMe Buffet Ravnkloa",
+    "address": "Kongens gate 20, 7011 Trondheim, Norway",
+    "phone": "+4773525733"
+  },
+  {
+    "name": "Egon",
+    "address": "Olav Tryggvasons gt. 1, 7011 Trondheim, Norway",
+    "phone": "+4790070187"
+  },
+  {
+    "name": "Fly Chicken Olav Tryggvasons",
+    "address": "Beddingen 16, 7014 Trondheim, Norway",
+    "phone": "+4773505000"
+  },
+  {
+    "name": "Sesam AS",
+    "address": "Olav Tryggvasons gt. 20, 7011 Trondheim, Norway",
+    "phone": "+4773522867"
+  },
+  {
+    "name": "Thai Thai Trondheim Torg",
+    "address": "Kongens gate 42, 7012 Trondheim, Norway",
+    "phone": "+4793099050"
+  },
+  {
+    "name": "Trondheim Torg",
+    "address": "Haakon VIIs gt. 12, 7041 Trondheim, Norway",
+    "phone": "+4791597462"
+  },
+  {
+    "name": "Sirkus Shopping",
+    "address": "Falkenborgvegen 1, 7044 Trondheim, Norway",
+    "phone": "+4741407777"
+  },
+  {
+    "name": "Solsiden Kjøpesenter",
+    "address": "Haakon VIIs gt. 9, 7041 Trondheim, Norway",
+    "phone": "+4795853555"
+  },
+  {
+    "name": "Byhaven",
+    "address": "Kongens gate 8, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Mercurgarden",
+    "address": "Brøsetvegen 177, 7048 Trondheim, Norway",
+    "phone": "+4773820200"
+  },
+  {
+    "name": "Lade Arena",
+    "address": "Gamle Oslovei 1, 7020 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Sverresborg center",
+    "address": "Anders Estenstads veg 2, 7046 Trondheim, Norway",
+    "phone": "+4792878881"
+  },
+  {
+    "name": "Moholt Storsenter",
+    "address": "Kongens gate 9, 7013 Trondheim, Norway",
+    "phone": "+4773536994"
+  },
+  {
+    "name": "Valentinlyst Senter",
+    "address": "Beddingen 10, 7042 Trondheim, Norway",
+    "phone": "+4797559497"
+  },
+  {
+    "name": "City Lade",
+    "address": "Olav Tryggvasons gt. 28, 7011 Trondheim, Norway",
+    "phone": "+4773809070"
+  },
+  {
+    "name": "Nardo Centeret",
+    "address": "Olav Tryggvasons gt. 28, 7011 Trondheim, Norway",
+    "phone": "+4773525269"
+  },
+  {
+    "name": "Olavskvartalet",
+    "address": "Falkenborgvegen 1, 7044 Trondheim, Norway",
+    "phone": "+4741407777"
+  },
+  {
+    "name": "Byåsen Mall",
+    "address": "Haakon VIIs gt. 27, 7041 Lade, Norway",
+    "phone": "+4773921275"
+  },
+  {
+    "name": "Hangaren Lade",
+    "address": "Brattørgata, 7010 Trondheim, Norway",
+    "phone": "+4773994050"
+  },
+  {
+    "name": "City Syd",
+    "address": "Ingeborg Aas' veg 2, 7036 Trondheim, Norway",
+    "phone": "+4547866570"
+  },
+  {
+    "name": "Risvollan Centre",
+    "address": "Fjellseterveien 1, 7020 Trondheim, Norway",
+    "phone": "+4792878881"
+  },
+  {
+    "name": "Grilstad mall",
+    "address": "Skonnertvegen 10, 7053 Ranheim, Norway",
+    "phone": "+4773802220"
+  },
+  {
+    "name": "Urmaker Næss Protid",
+    "address": "Østre Rosten 28-30, 7075 Tiller, Norway",
+    "phone": "28307075"
+  },
+  {
+    "name": "Trondheim turistkontor/Visit Trondheim - Sirkus Shopping",
+    "address": "Hans Baucks veg 1, 7033 Trondheim, Norway",
+    "phone": "+4773942520"
+  },
+  {
+    "name": "Arena Trondheim",
+    "address": "Munkegata 23, 7011 Trondheim, Norway",
+    "phone": "+4773842880"
+  },
+  {
+    "name": "Stiftsgården",
+    "address": "Kristianstensbakken 60, 7014 Trondheim, Norway",
+    "phone": "+4746870400"
+  },
+  {
+    "name": "Kristiansten Fortress",
+    "address": "Kongsgårdsgata 1B, 7013 Trondheim, Norway",
+    "phone": "+4773890800"
+  },
+  {
+    "name": "Archbishop's Palace, Trondheim",
+    "address": "Haakon VIIs gt. 23C, 7041 Trondheim, Norway",
+    "phone": "+4748404517"
+  },
+  {
+    "name": "Old Town Bridge",
+    "address": "Bispegata 7b, 7013 Trondheim, Norway",
+    "phone": "+4773538180"
+  },
+  {
+    "name": "Sverresborg Trøndelag Folk Museum",
+    "address": "Brattørkaia 14, 7010 Trondheim, Norway",
+    "phone": "+4773605070"
+  },
+  {
+    "name": "Nidaros Cathedral",
+    "address": "Gamle bybro, 7013 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Rockheim",
+    "address": "Kongsgårdsgata 2, 7013 Trondheim, Norway",
+    "phone": "+4773890800"
+  },
+  {
+    "name": "Trondheim Kunstmuseum",
+    "address": "Lade alle 58, 7041 Trondheim, Norway",
+    "phone": "+4773592269"
+  },
+  {
+    "name": "NTNU Ringve Botanical Garden",
+    "address": "Sverresborg Alle 13, 7020 Trondheim, Norway",
+    "phone": "+4773890100"
+  },
+  {
+    "name": "Korsvika",
+    "address": "Teveltunet, 7530 Meråker, Norway",
+    "phone": "+4774414170"
+  },
+  {
+    "name": "Tyholttårnet",
+    "address": "Borgveien 6, 7140 Opphaug, Norway",
+    "phone": "+4746511680"
+  },
+  {
+    "name": "Pirbadet",
+    "address": "Kongens gate 2, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Jewish Museum Trondheim",
+    "address": "Brattørveita 10, 7010 Trondheim, Norway",
+    "phone": "+4773532547"
+  },
+  {
+    "name": "Trondheim Maritime Museum",
+    "address": "Prinsens gt. 4A, 7012 Trondheim, Norway",
+    "phone": "+4773833900"
+  },
+  {
+    "name": "HAVET",
+    "address": "Fosenkaia 40, 7010 Trondheim, Norway",
+    "phone": "+4794009334"
+  },
+  {
+    "name": "Vitensenteret i Trondheim",
+    "address": "Ilevollen 32B, 7018 Trondheim, Norway",
+    "phone": "+4741123870"
+  },
+  {
+    "name": "The Armoury",
+    "address": "Nedre Baklandet 60, 7014 Trondheim, Norway",
+    "phone": "+4772902000"
+  },
+  {
+    "name": "NTNU Vitenskapsmuseet",
+    "address": "Ranheimsvegen 11, 7044 Trondheim, Norway",
+    "phone": "+4790214047"
+  },
+  {
+    "name": "Burmaklippen",
+    "address": "Kongens gate 7, 7013 Trondheim, Norway",
+    "phone": "+4773841700"
+  },
+  {
+    "name": "Klemenskirken",
+    "address": "Øvre Bakklandet 66, 7016 Trondheim, Norway",
+    "phone": "+4795068322"
+  },
+  {
+    "name": "Trondheim",
+    "address": "Havnegata 9, 7010 Trondheim, Norway",
+    "phone": "+4773568640"
+  },
+  {
+    "name": "Kunsthall Trondheim",
+    "address": "Munkegata 26, 7011 Trondheim, Norway",
+    "phone": "+4745848480"
+  },
+  {
+    "name": "Bymarka",
+    "address": "Kjøpmannsgata 73, 7010 Trondheim, Norway",
+    "phone": "+4773803000"
+  },
+  {
+    "name": "Den Siste Viking",
+    "address": "Falstadvegen 59, 7624 Ekne, Norway",
+    "phone": "+4774028040"
+  },
+  {
+    "name": "Theisendammen",
+    "address": "Landbruksvegen 2, 7048 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Munkholmen",
+    "address": "Kongsgårdsgata 1B, 7013 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Tyholt",
+    "address": "Kjøpmannsgata 44, 7010 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Steinvikholm castle",
+    "address": "Kirkevegen 101, 7500 Stjørdal, Norway",
+    "phone": "+4774834220"
+  },
+  {
+    "name": "Trondheim turistkontor/Visit Trondheim - Sirkus Shopping",
+    "address": "Vestre Kanalkai 19, 7010 Trondheim, Norway",
+    "phone": "+4773511588"
+  },
+  {
+    "name": "Bakklandet",
+    "address": "St. Olavs Pir 2, 7010 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Trondheim Spektrum",
+    "address": "Andbjørg Jamesons veg 7020, 7020 Trondheim, Norway",
+    "phone": "70207020"
+  },
+  {
+    "name": "Trondheim by Boat",
+    "address": "Munkegata 26, 7014 Trondheim, Norway",
+    "phone": "+4773808600"
+  },
+  {
+    "name": "Escape Hunt Trondheim",
+    "address": "Carl Johans gate 5, 7010 Trondheim, Norway",
+    "phone": "+4773568900"
+  },
+  {
+    "name": "Storfossen",
+    "address": "Søndre gate 2, 7011 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Trondheim Municipality",
+    "address": "Fjellseterveien, 7020 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Reality Adventures AS Prinsens Gate",
+    "address": "Hurtigrutekaia, Pir I, 7013 Trondheim, Norway",
+    "phone": "+4745253560"
+  },
+  {
+    "name": "Solsiden Kjøpesenter",
+    "address": "Olav Tryggvasons gt. 10, 7011 Trondheim, Norway",
+    "phone": "+4745200700"
+  },
+  {
+    "name": "Hva",
+    "address": "Brattørkaia 17, 7010 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Nidelva",
+    "address": "Kongens gate 7, 7013 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "YellowKorner",
+    "address": "Prestmovegen 2B, 7514 Stjørdal, Norway",
+    "phone": "+4774827021"
+  },
+  {
+    "name": "Møllenberg",
+    "address": "Maskinistgata 1, 7042 Trondheim, Norway",
+    "phone": "+4773527717"
+  },
+  {
+    "name": "Trondheim Tours",
+    "address": "Haakon VIIs gt. 12, 7041 Trondheim, Norway",
+    "phone": "+4791597462"
+  },
+  {
+    "name": "Trolla",
+    "address": "Bostadvegen 15, 7031 Trondheim, Norway",
+    "phone": "+4748338318"
+  },
+  {
+    "name": "Gråkallbanen",
+    "address": "Prinsens gt. 39, 7011 Trondheim, Norway",
+    "phone": "+4792482200"
+  },
+  {
+    "name": "Baklandet Skydsstation",
+    "address": "Ladebekken 6, 7041 Trondheim, Norway",
+    "phone": "+4772892322"
+  },
+  {
+    "name": "Trondheim microbrewery",
+    "address": "Øvre Bakklandet 33, 7013 Trondheim, Norway",
+    "phone": "+4773921044"
+  },
+  {
+    "name": "Nidarosdomens Besøkssenter",
+    "address": "Munkegata 27, 7011 Trondheim, Norway",
+    "phone": "+4740704075"
+  },
+  {
+    "name": "Flying Tiger Copenhagen",
+    "address": "Bispegata 5, 7013 Trondheim, Norway",
+    "phone": "+4741531584"
+  },
+  {
+    "name": "Trondheim S",
+    "address": "Kirkegata 49 B, 7043 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Bondens Marked",
+    "address": "SOLSIDEN, Beddingen 10, 7042 Trondheim, Norway",
+    "phone": "+4791889008"
+  },
+  {
+    "name": "Ilabekken",
+    "address": "Nordre gate 23, 7010 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Fjellseter kapell",
+    "address": "Prinsens gt. 10A, 7012 Trondheim, Norway",
+    "phone": "+4772600019"
+  },
+  {
+    "name": "Trondheim Guide Service & Sykkelguide / Trondheim Bike Tours",
+    "address": "Beddingen 10, 7042 Trondheim, Norway",
+    "phone": "+4797559497"
+  },
+  {
+    "name": "Restaurant Two Rooms and Kitchen",
+    "address": "Sjøgangen 6, 7010 Trondheim, Norway",
+    "phone": "+4745484064"
+  },
+  {
+    "name": "Døgnvill Burger Trondheim",
+    "address": "Olav Tryggvasons gt. 35, 7011 Trondheim, Norway",
+    "phone": "+4792310970"
+  },
+  {
+    "name": "Gråkallparken",
+    "address": "Falkenborgvegen 1, 7044 Trondheim, Norway",
+    "phone": "+4741407777"
+  },
+  {
+    "name": "Crazy Coyote Events",
+    "address": "Munkegata 66, 7011 Trondheim, Norway",
+    "phone": "+4746295402"
+  },
+  {
+    "name": "Olavshallen, Store Sal",
+    "address": "Klostergata 90, 7030 Trondheim, Norway",
+    "phone": "+4773568600"
+  },
+  {
+    "name": "The Medieval Farm Stiklastadir",
+    "address": "Steinvikholmvegen 41, 7510 Skatval, Norway",
+    "phone": "+4791700175"
+  },
+  {
+    "name": "The Crown Regalia",
+    "address": "Bispegata 3, 7013 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Radisson Blu Royal Garden Hotel, Trondheim",
+    "address": "Havnegata 9, 7010 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "ØX Tap Room",
+    "address": "Kongens gate 2, 7011 Trondheim, Norway",
+    "phone": "+4748500100"
+  },
+  {
+    "name": "Lianvatnet",
+    "address": "Unnamed Road, 7020, Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Nor-Fishing / aqua Nor",
+    "address": "Krambugata 2, 7011 Trondheim, Norway",
+    "phone": "+4773592160"
+  },
+  {
+    "name": "Hornemansgården",
+    "address": "Estenstadvegen, 7049 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Ila Brainnstasjon",
+    "address": "Erling Skakkes gate 47B, 7012 Trondheim, Norway",
+    "phone": "+4773592160"
+  },
+  {
+    "name": "Comfort Hotel Park",
+    "address": "Lade alle 60, 7041 Trondheim, Norway",
+    "phone": "+4773870280"
+  },
+  {
+    "name": "Bridgehuset",
+    "address": "Kongens gate 1, 7011 Trondheim, Norway",
+    "phone": "+4772909007"
+  },
+  {
+    "name": "Scandic Bakklandet",
+    "address": "Kongsgårdsgata 1D, 7013 Trondheim, Norway",
+    "phone": "+4740022611"
+  },
+  {
+    "name": "Høyt & Lavt Trondheim",
+    "address": "Kjøpmannsgata 75, 7010 Trondheim, Norway",
+    "phone": "+4773528975"
+  },
+  {
+    "name": "Hegra Fortress",
+    "address": "Havnegata 12, 7010 Trondheim, Norway",
+    "phone": "+4773831800"
+  },
+  {
+    "name": "Bryggerekka Bruktmarked",
+    "address": "Strandveien 104, 7067 Trondheim, Norway",
+    "phone": null
+  },
+  {
+    "name": "Café Skuret",
+    "address": "Arkitekt Christies gate 1B, 7012 Trondheim, Norway",
+    "phone": "+4740169801"
+  },
+  {
+    "name": "Austråttborgen",
+    "address": "Otto Nielsens veg 4, 7010 Trondheim, Norway",
+    "phone": "+4773873500"
+  },
+  {
+    "name": "Rypetoppen Adventurepark",
+    "address": "Ladestien, 7040 Trondheim, Norway",
+    "phone": "+4772546350"
+  },
+  {
+    "name": "Scandic Ambassadeur Drammen",
+    "address": "Grønland 64, 3045 Drammen, Norway",
+    "phone": "+4732217000"
+  },
+  {
+    "name": "Comfort Hotel Union Brygge",
+    "address": "Vinjes gate 2, 3018 Drammen, Norway",
+    "phone": "+4748298078"
+  },
+  {
+    "name": "Quality Hotel River Station",
+    "address": "Strømsø Torg 7, 3044 Drammen, Norway",
+    "phone": "+4731012100"
+  },
+  {
+    "name": "Clarion Collection Hotel Tollboden",
+    "address": "St. Hallvards vei 1, 3400 Lier, Norway",
+    "phone": "+4733192480"
+  },
+  {
+    "name": "Origo Leilighetshotell",
+    "address": "Buskerudveien 97, 3027 Drammen, Norway",
+    "phone": "+4791391431"
+  },
+  {
+    "name": "Motell Holms Lier Sør",
+    "address": "Øvre Storgate 5, 3018 Drammen, Norway",
+    "phone": "+4748298078"
+  },
+  {
+    "name": "ORIGO LEILIGHETSHOTELL",
+    "address": "Dr. Hansteins gate 7, 3044 Drammen, Norway",
+    "phone": "+4731911900"
+  },
+  {
+    "name": "Drammen Campingplass",
+    "address": "Tollbugata 43, 3044 Drammen, Norway",
+    "phone": "+4732805100"
+  },
+  {
+    "name": "Matfikseren AS - Catering i Drammen",
+    "address": "Nedre Strandgate 2, 3015 Drammen, Norway",
+    "phone": "+4732833330"
+  },
+  {
+    "name": "Becks Brasserie & Bar Drammen",
+    "address": "Konnerudgata 36, 3045 Drammen, Norway",
+    "phone": "+4792251269"
+  },
+  {
+    "name": "Cappadocia restaurant AS",
+    "address": "Nedre Torggate 11, 3015 Drammen, Norway",
+    "phone": "+4732831888"
+  },
+  {
+    "name": "Anchas Bodega",
+    "address": "Grønland 54, 3045 Drammen, Norway",
+    "phone": "+4748051111"
+  },
+  {
+    "name": "Ask & Loke spiseri og bar",
+    "address": "Torgeir Vraas Plass 1, 3044 Drammen, Norway",
+    "phone": "+4732269292"
+  },
+  {
+    "name": "Big Horn Steakhouse Drammen",
+    "address": "Bragernes Torg 4, 3017 Drammen, Norway",
+    "phone": "+4732883200"
+  },
+  {
+    "name": "Skutebrygga",
+    "address": "Grønland 52, 3045 Drammen, Norway",
+    "phone": "+4732898800"
+  },
+  {
+    "name": "Safran - Indisk Restaurant",
+    "address": "Dr. Hansteins gate 7, 3044 Drammen, Norway",
+    "phone": "+4731911900"
+  },
+  {
+    "name": "Brasserie X Drammen",
+    "address": "Øvre Torggate 12, 3017 Drammen, Norway",
+    "phone": "+4732825050"
+  },
+  {
+    "name": "MESA 52",
+    "address": "Øvre Torggate 4, 3017 Drammen, Norway",
+    "phone": "+4732838250"
+  },
+  {
+    "name": "Taj Mahal Drammen",
+    "address": "Kristian Brenners vei 140, 3029 Drammen, Norway",
+    "phone": "+4798847170"
+  },
+  {
+    "name": "Yaya's Drammen",
+    "address": "Bragernes Torg 2A, 3017 Drammen, Norway",
+    "phone": "+4732837722"
+  },
+  {
+    "name": "Kawa Bar & Restaurant",
+    "address": "Guldlisten 35, 3048 Drammen, Norway",
+    "phone": "+4732218200"
+  },
+  {
+    "name": "Zemi AS",
+    "address": "Skippergata 58, 3040 Drammen, Norway",
+    "phone": "+4732810202"
+  },
+  {
+    "name": "Diana's Cafe as",
+    "address": "Vårveien 20, 3024 Drammen, Norway",
+    "phone": "+4732829977"
+  },
+  {
+    "name": "Masalabar Indisk Restaurant",
+    "address": "Grønland 64, 3045 Drammen, Norway",
+    "phone": "+4732217000"
+  },
+  {
+    "name": "Skjenkestua AS",
+    "address": "Tomtegata 36, 3012 Drammen, Norway",
+    "phone": "+4796018680"
+  },
+  {
+    "name": "Dynastiet restaurant AS",
+    "address": "Øvre Torggate 8, 3017 Drammen, Norway",
+    "phone": "+4732838015"
+  },
+  {
+    "name": "Singh Saab - The Authentic Indisk Restaurant",
+    "address": "Tollbugata 9, 3044 Drammen, Norway",
+    "phone": "+4732830760"
+  },
+  {
+    "name": "Frukt & Grønt",
+    "address": "Engene 113, 3015 Drammen, Norway",
+    "phone": "+4732894242"
+  },
+  {
+    "name": "Ypsilon Bar",
+    "address": "Bragernes Torg 8 Inngang via, Engene, 3017 Drammen, Norway",
+    "phone": "+4790242401"
+  },
+  {
+    "name": "Punjabi Tikka",
+    "address": "Sundgata 6, 3015 Drammen, Norway",
+    "phone": "+4732266000"
+  },
+  {
+    "name": "Jonas B. - Drammen",
+    "address": "Bragerhagen 30, 3012 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Pigen Cafe & Bar",
+    "address": "Grønland 41, 3045 Drammen, Norway",
+    "phone": "+4797101571"
+  },
+  {
+    "name": "Vertshuset Oscar & Stallen avdeling Oscar",
+    "address": "Ingeniør Rybergs gate 56 A, 3024 Drammen, Norway",
+    "phone": "+4732218200"
+  },
+  {
+    "name": "Lizzis pizza Drammen AS",
+    "address": "Ole Steens gate, 3015 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Café Bragernes",
+    "address": "Bragernes Torg 9, 3017 Drammen, Norway",
+    "phone": "+4732899210"
+  },
+  {
+    "name": "Spiralen cafe og restaurant AS",
+    "address": "Guldlisten 35, 3048 Drammen, Norway",
+    "phone": "+4721640918"
+  },
+  {
+    "name": "Nippon Sushi",
+    "address": "Bragernes Torg 13, 3017 Drammen, Norway",
+    "phone": "+4746860132"
+  },
+  {
+    "name": "Mirawa restaurant",
+    "address": "Vårveien 25, 3024 Drammen, Norway",
+    "phone": "+4732827070"
+  },
+  {
+    "name": "Egon",
+    "address": "Blichs gate 2, 3044 Drammen, Norway",
+    "phone": "+4732890602"
+  },
+  {
+    "name": "In Vino Veritas - Vinbar og Restaurant",
+    "address": "Griffenfelds gate 1, 3045 Drammen, Norway",
+    "phone": "+4745030690"
+  },
+  {
+    "name": "Liang Juan Kro",
+    "address": "Rosenkrantzgata 17, 3018 Drammen, Norway",
+    "phone": "+4732825555"
+  },
+  {
+    "name": "That's Amore",
+    "address": "Tollbugata, 3044 Drammen, Norway",
+    "phone": "+4732823885"
+  },
+  {
+    "name": "Anatolia Restaurant Drammen",
+    "address": "Tollbugata 1, 3044 Drammen, Norway",
+    "phone": "+4732830240"
+  },
+  {
+    "name": "Groovy Drammen AS",
+    "address": "Hotvetveien 41, 3018 Drammen, Norway",
+    "phone": "+4732838409"
+  },
+  {
+    "name": "Mesa Libre",
+    "address": "Konggata 43, 3019 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Su Sushi Bar",
+    "address": "Vårveien 22, 3024 Drammen, Norway",
+    "phone": "+4797323238"
+  },
+  {
+    "name": "Wasabi Sushi Drammen",
+    "address": "Aabys gate 6, 3041 Drammen, Norway",
+    "phone": "+4732800049"
+  },
+  {
+    "name": "Palett Drammen",
+    "address": "Konnerudgata 18A, 3045 Drammen, Norway",
+    "phone": "+4732820000"
+  },
+  {
+    "name": "Åspaviljongen",
+    "address": "Guldlisten 35, 3048 Drammen, Norway",
+    "phone": "+4732883379"
+  },
+  {
+    "name": "Mekong Kjøkken",
+    "address": "Hans Hansens vei 127, 3022 Drammen, Norway",
+    "phone": "+4792233335"
+  },
+  {
+    "name": "Lille Persia Restaurant",
+    "address": "Søren Lemmichs gate 7, 3015 Drammen, Norway",
+    "phone": "+4746640400"
+  },
+  {
+    "name": "Alpenhaus Drammen",
+    "address": "Tordenskiolds gate 42, 3044 Drammen, Norway",
+    "phone": "+4732830500"
+  },
+  {
+    "name": "Smak Pizza & Kebab og Gatekjøkken",
+    "address": "Schwenckegata 6, 3015 Drammen, Norway",
+    "phone": "+4732895030"
+  },
+  {
+    "name": "Kurdernes Hus drammen AS",
+    "address": "Tollbugata 10, 3044 Drammen, Norway",
+    "phone": "+4746440909"
+  },
+  {
+    "name": "Mr Pizza Drammen",
+    "address": "Engene 4, 3015 Drammen, Norway",
+    "phone": "+4794440404"
+  },
+  {
+    "name": "San Remo Pizza & Cafe",
+    "address": "Strømsø Torg 5A, 3044 Drammen, Norway",
+    "phone": "+4793618515"
+  },
+  {
+    "name": "Champs Grill og Pizza",
+    "address": "Strømsø torg 1, 3044 Drammen, Norway",
+    "phone": "+4722225555"
+  },
+  {
+    "name": "Sakura Sushi Drammen",
+    "address": "Blichs gate 4, 3044 Drammen, Norway",
+    "phone": "+4732825568"
+  },
+  {
+    "name": "Union pizza Drammen",
+    "address": "Rosenkrantzgata 280, 3027 Drammen, Norway",
+    "phone": "+4732825070"
+  },
+  {
+    "name": "Noda AS",
+    "address": "Vårveien 22, 3024 Drammen, Norway",
+    "phone": "+4745802820"
+  },
+  {
+    "name": "Burgerland",
+    "address": "Bragernes Torg 2A, 3017 Drammen, Norway",
+    "phone": "+4723654616"
+  },
+  {
+    "name": "DESI GRILL",
+    "address": "Tordenskiolds gate 126, 3041 Drammen, Norway",
+    "phone": "+4731411444"
+  },
+  {
+    "name": "Cafe Picasso",
+    "address": "Øvre Storgate 5, 3018 Drammen, Norway",
+    "phone": "+4794099340"
+  },
+  {
+    "name": "Osaka Sushi Drammen",
+    "address": "Landfalløya 15, 3023 Drammen, Norway",
+    "phone": "+4748911949"
+  },
+  {
+    "name": "Take away Drammen",
+    "address": "Grønland 60, 3045 Drammen, Norway",
+    "phone": "+4732045902"
+  },
+  {
+    "name": "Condelica",
+    "address": "Nedre Storgate 13, 3015 Drammen, Norway",
+    "phone": "+4732886882"
+  },
+  {
+    "name": "Domino's Pizza Drammen",
+    "address": "Nedre Storgate 6, 3015 Drammen, Norway",
+    "phone": "+4732894846"
+  },
+  {
+    "name": "Håndverkeren selskapslokaler AS",
+    "address": "Vårveien 20, 3024 Drammen, Norway",
+    "phone": "+4732820805"
+  },
+  {
+    "name": "Matendo kultursenter",
+    "address": "Erik Børresens allé 5A, 3015 Drammen, Norway",
+    "phone": "+4732890708"
+  },
+  {
+    "name": "Golden Food",
+    "address": "Blichs gate 6, 3044 Drammen, Norway",
+    "phone": "+4732896466"
+  },
+  {
+    "name": "Snappy's Grill Rundtom",
+    "address": "Tollbugata 12, 3044 Drammen, Norway",
+    "phone": "+4732822007"
+  },
+  {
+    "name": "O'Learys Drammen",
+    "address": "St. Olavs gate 5, 3017 Drammen, Norway",
+    "phone": "+4732835389"
+  },
+  {
+    "name": "Åssiden cafe & grill AS",
+    "address": "Bragernes Torg 2A, 3017 Drammen, Norway",
+    "phone": "+4732898022"
+  },
+  {
+    "name": "Åssiden grill",
+    "address": "Øvre Storgate 5, 3018 Drammen, Norway",
+    "phone": "+4791803030"
+  },
+  {
+    "name": "Fuji Sushi Drammen",
+    "address": "Strømsø Torg 5A, 3044 Drammen, Norway",
+    "phone": "+4732822222"
+  },
+  {
+    "name": "Hot Grill",
+    "address": "Landfalløya 15, 3023 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Peppes Pizza - Drammen Stasjon",
+    "address": "Tordenskiolds gate 44, 3044 Drammen, Norway",
+    "phone": "+4732810000"
+  },
+  {
+    "name": "Kings Arms Pub",
+    "address": "St. Olavs gate 4, 3017 Drammen, Norway",
+    "phone": "+4732829032"
+  },
+  {
+    "name": "Guilty",
+    "address": "Konnerudgata 6, 3045 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Cafe Bit for Bit AS",
+    "address": "Åslyveien 54, 3023 Drammen, Norway",
+    "phone": "+4732823625"
+  },
+  {
+    "name": "Drammen Pizza & Grill",
+    "address": "Tollbugata 12B, 3044 Drammen, Norway",
+    "phone": "+4748033388"
+  },
+  {
+    "name": "Pk Burger AS",
+    "address": "Chr. Bloms gt. 5, 3041 Drammen, Norway",
+    "phone": "+4740190190"
+  },
+  {
+    "name": "Tiptop Pizza & Burger‏ DRAMMEN",
+    "address": "Bragernes Torg 4, 3017 Drammen, Norway",
+    "phone": "+4791008378"
+  },
+  {
+    "name": "DineHome Norge AS",
+    "address": "De Eldres vei 10, 3016 Drammen, Norway",
+    "phone": "+4792021481"
+  },
+  {
+    "name": "Donna Takeaways",
+    "address": "Grønland 64, 3045 Drammen, Norway",
+    "phone": "+4791924169"
+  },
+  {
+    "name": "Queen Asia ( Sushi & Bubble Tea )",
+    "address": "Engene 4, 3015 Drammen, Norway",
+    "phone": "+4732820808"
+  },
+  {
+    "name": "City Pizza Drammen",
+    "address": "Griffenfelds gate 1, 3045 Drammen, Norway",
+    "phone": "+4746826763"
+  },
+  {
+    "name": "sandeep thakur",
+    "address": "Bragernes Torg 6, 3017 Drammen, Norway",
+    "phone": "+4793227457"
+  },
+  {
+    "name": "Hotvet Gård",
+    "address": "Nedre Strandgate 9, 3015 Drammen, Norway",
+    "phone": "+4722120606"
+  },
+  {
+    "name": "Take away Drammen",
+    "address": "Torgeir Vraas Plass 6, 3044 Drammen, Norway",
+    "phone": "+4740673044"
+  },
+  {
+    "name": "Snappys Fastfood",
+    "address": "Grønland 57, 3045 Drammen, Norway",
+    "phone": "+4745878289"
+  },
+  {
+    "name": "Ssk AS",
+    "address": "Bragernes Torg 13, 3017 Drammen, Norway",
+    "phone": "+4746749000"
+  },
+  {
+    "name": "Lay Thai",
+    "address": "Grønland 57, 3045 Drammen, Norway",
+    "phone": "+4748481446"
+  },
+  {
+    "name": "Taki Pizza og Grill",
+    "address": "Professor Smiths alle 58, 3048 Drammen, Norway",
+    "phone": "+4732837390"
+  },
+  {
+    "name": "Texas Pizza",
+    "address": "Nedre Storgate 19, 3015 Drammen, Norway",
+    "phone": "+4745899800"
+  },
+  {
+    "name": "Katana Sushi",
+    "address": "Spiraltoppen 1, 3016 Drammen, Norway",
+    "phone": "+4732898600"
+  },
+  {
+    "name": "McDonald's",
+    "address": "Schwenckegata 1, 3015 Drammen, Norway",
+    "phone": "+4732836585"
+  },
+  {
+    "name": "Bryggerhuset",
+    "address": "Bragernes Torg 4, 3017 Drammen, Norway",
+    "phone": "+4746885099"
+  },
+  {
+    "name": "Asia Asghar",
+    "address": "Griffenfelds gate 5, 3045 Drammen, Norway",
+    "phone": "+4732833235"
+  },
+  {
+    "name": "McDonald's Åssiden",
+    "address": "Øvre Torggate 4, 3017 Drammen, Norway",
+    "phone": "+4732839960"
+  },
+  {
+    "name": "Goggen Sportpub",
+    "address": "Øvre Torggate 6, 3017 Drammen, Norway",
+    "phone": "+4732838515"
+  },
+  {
+    "name": "Direktørboligen Aass Selskapslokale",
+    "address": "Grønland 50, 3045 Drammen, Norway",
+    "phone": "+4797342977"
+  },
+  {
+    "name": "Dario",
+    "address": "Bragernes Torg 8, 3017 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kinabudet",
+    "address": "Bragernes Torg 8, 3017 Drammen, Norway",
+    "phone": "+4732890580"
+  },
+  {
+    "name": "Rust & Rør",
+    "address": "Vårveien 25, 3024 Drammen, Norway",
+    "phone": "+4732827070"
+  },
+  {
+    "name": "Snappy's Grill Strømsø",
+    "address": "Torgeir Vraas Plass 2, 3044 Drammen, Norway",
+    "phone": "+4732830555"
+  },
+  {
+    "name": "Benja Thai Take Away",
+    "address": "Tollbugata 6, 3044 Drammen, Norway",
+    "phone": "+4794804522"
+  },
+  {
+    "name": "Comfort Hotel Union Brygge",
+    "address": "Schultz gate 36, 3044 Drammen, Norway",
+    "phone": "+4795012191"
+  },
+  {
+    "name": "Lauritz Public Bar",
+    "address": "Tollbugata 1, 3044 Drammen, Norway",
+    "phone": "+4732830100"
+  },
+  {
+    "name": "Gulskogen senter",
+    "address": "Tomtegata 36, 3012 Drammen, Norway",
+    "phone": "+4740649566"
+  },
+  {
+    "name": "Magasinet Drammen Shopping Center",
+    "address": "Bjørnstjerne Bjørnsons gate 60, 3044 Drammen, Norway",
+    "phone": "+4732880900"
+  },
+  {
+    "name": "CC Drammen",
+    "address": "Pettersvollen 3, 3032 Drammen, Norway",
+    "phone": "+4732213600"
+  },
+  {
+    "name": "Strømsø Senter",
+    "address": "Rådhusgata 2, 3016 Drammen, Norway",
+    "phone": "+4795299001"
+  },
+  {
+    "name": "Torget Vest",
+    "address": "Nedre Storgate 6, 3015 Drammen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Konnerud Local Center KS",
+    "address": "Guldlisten 35, 3048 Drammen, Norway",
+    "phone": "+4791740166"
+  },
+  {
+    "name": "Scandic City",
+    "address": "Mindre-alvs vei 9, 1672 Kråkerøy, Norway",
+    "phone": "+4769020002"
+  },
+  {
+    "name": "Hotel Fredrikstad",
+    "address": "Valhalls gate 3, 1608 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Old Town Hotel AS",
+    "address": "Nygaardsgata 9, 1606 Fredrikstad, Norway",
+    "phone": "+4769300500"
+  },
+  {
+    "name": "FREDRIKSTAD MOTEL & CAMPING",
+    "address": "Gunnar Nilsens gate 9, 1607 Fredrikstad, Norway",
+    "phone": "+4769385600"
+  },
+  {
+    "name": "Magasinet",
+    "address": "Turngata 3, 1606 Fredrikstad, Norway",
+    "phone": "+4769334200"
+  },
+  {
+    "name": "Quality Hotel Fredrikstad",
+    "address": "Nygata 2, 1607 Fredrikstad, Norway",
+    "phone": "+4769393000"
+  },
+  {
+    "name": "Hotel 1016 Olav Digre",
+    "address": "Glengsgata 21, 1706 Sarpsborg, Norway",
+    "phone": "+4769152055"
+  },
+  {
+    "name": "Valhalla Apartment Hotel",
+    "address": "Valhalls gate 3, 1608 Fredrikstad, Norway",
+    "phone": "+4769308220"
+  },
+  {
+    "name": "Restaurant hosMartin - Victoria",
+    "address": "Torsnesveien 16/18, 1630 Gamle Fredrikstad, Norway",
+    "phone": "16181630"
+  },
+  {
+    "name": "Valhalla Ans",
+    "address": "Voldportgaten 72, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4740053909"
+  },
+  {
+    "name": "Enhus Camping",
+    "address": "Enhuskilveien 67, 1679 Kråkerøy, Norway",
+    "phone": "+4748010117"
+  },
+  {
+    "name": "Restaurant Køl AS",
+    "address": "Farmanns gate 13, 1607 Fredrikstad, Norway",
+    "phone": "+4769314300"
+  },
+  {
+    "name": "Knossos",
+    "address": "Nygaardsgata 21, 1606 Fredrikstad, Norway",
+    "phone": "+4769313705"
+  },
+  {
+    "name": "Paa Brygga i Fredrikstad",
+    "address": "Storgata 35, 1607 Fredrikstad, Norway",
+    "phone": "+4769314100"
+  },
+  {
+    "name": "Restaurant hosMartin - Victoria",
+    "address": "Voldportgaten 73, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4769321555"
+  },
+  {
+    "name": "Tiramisu Cafe & Restaurant",
+    "address": "Turngata 3, 1606 Fredrikstad, Norway",
+    "phone": "+4769334200"
+  },
+  {
+    "name": "Cactus cafe&restaurant",
+    "address": "Dampskipsbrygga 12, 1607 Fredrikstad, Norway",
+    "phone": "+4769305151"
+  },
+  {
+    "name": "City Bar & Spiseri",
+    "address": "Stortorvet 5, 1607 Fredrikstad, Norway",
+    "phone": "+4769313100"
+  },
+  {
+    "name": "Divan restaurant",
+    "address": "Nygaardsplassen 7, 1607 Fredrikstad, Norway",
+    "phone": "+4794789301"
+  },
+  {
+    "name": "Asia City",
+    "address": "Nygaardsgata 46, 1607 Fredrikstad, Norway",
+    "phone": "+4769385784"
+  },
+  {
+    "name": "Major Inn and Living Room",
+    "address": "Storgata 3, 1607 Fredrikstad, Norway",
+    "phone": "+4793470909"
+  },
+  {
+    "name": "Thai Market",
+    "address": "Lislebyveien 191B, 1617 Fredrikstad, Norway",
+    "phone": "+4769347600"
+  },
+  {
+    "name": "Restaurant Mother India",
+    "address": "Stabburveien 8, 1617 Fredrikstad, Norway",
+    "phone": "+4795419699"
+  },
+  {
+    "name": "Havnelageret Gastropub",
+    "address": "Storveien 92, 1621 Gressvik, Norway",
+    "phone": "+4769342500"
+  },
+  {
+    "name": "Villa Paradiso Fredrikstad",
+    "address": "Hassingveien 40, 1605 Fredrikstad, Norway",
+    "phone": "+4797624010"
+  },
+  {
+    "name": "Mezze",
+    "address": "Torsnesveien 16/18, 1630 Gamle Fredrikstad, Norway",
+    "phone": "16181630"
+  },
+  {
+    "name": "Bergmann's",
+    "address": "Marnetveien 51A, 1621 Gressvik, Norway",
+    "phone": "+4746575593"
+  },
+  {
+    "name": "Restaurant Slippen Fredrikstad",
+    "address": "Vikaneveien 409, 1622 Gressvik, Norway",
+    "phone": "+4797886210"
+  },
+  {
+    "name": "Los Tacos Fredrikstad",
+    "address": "Storveien 78, 1621 Gressvik, Norway",
+    "phone": "+4769333200"
+  },
+  {
+    "name": "Delicatessen Fredrikstad",
+    "address": "Lislebyveien 191C, 1617 Fredrikstad, Norway",
+    "phone": "+4769398933"
+  },
+  {
+    "name": "Lille Italia",
+    "address": "Storgata 13, 1607 Fredrikstad, Norway",
+    "phone": "+4796902910"
+  },
+  {
+    "name": "Saint Raw",
+    "address": "Storgata 21, 1607 Fredrikstad, Norway",
+    "phone": "+4769319000"
+  },
+  {
+    "name": "Heim Fredrikstad",
+    "address": "Hassingveien 40, 1605 Fredrikstad, Norway",
+    "phone": "+4791996700"
+  },
+  {
+    "name": "Ristorante Fabbrica",
+    "address": "Nygaardsgata 34, 1607 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Chang Cheng AS",
+    "address": "Sorgenfri Alle 13, 1651 Fredrikstad, Norway",
+    "phone": "+4741448060"
+  },
+  {
+    "name": "Siam Thai Cafe",
+    "address": "Færgeportgaten 78B, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4791604669"
+  },
+  {
+    "name": "Egon",
+    "address": "Lislebyveien 191A, 1617 Fredrikstad, Norway",
+    "phone": "+4769347600"
+  },
+  {
+    "name": "Su sushi Bar",
+    "address": "Haldenveien 2, 1639 Gamle Fredrikstad, Norway",
+    "phone": "+4769320614"
+  },
+  {
+    "name": "Riviera Fusion",
+    "address": "Freskoveien 5, 1605 Fredrikstad, Norway",
+    "phone": "+4769001414"
+  },
+  {
+    "name": "Pizzanini Fredrikstad",
+    "address": "Øraveien 17, 1630 Gamle Fredrikstad, Norway",
+    "phone": "+4746832101"
+  },
+  {
+    "name": "Kong Frederik Restaurant",
+    "address": "Torvgaten 61, 1632 Fredrikstad, Norway",
+    "phone": "+4747441766"
+  },
+  {
+    "name": "Babaji - Indian Food",
+    "address": "Gunnar Nilsens gate 9, 1607 Fredrikstad, Norway",
+    "phone": "+4769385600"
+  },
+  {
+    "name": "Beach Club Fredrikstad",
+    "address": "Nygata 2, 1607 Fredrikstad, Norway",
+    "phone": "+4769393000"
+  },
+  {
+    "name": "Pincho Nation Fredrikstad",
+    "address": "Nygårdsplassen 4, 1607 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kebab Pizza House Fredrikstad",
+    "address": "Ridehusgata 14, 1606 Fredrikstad, Norway",
+    "phone": "+4769312106"
+  },
+  {
+    "name": "The brick house",
+    "address": "Gamle Beddingvei 28, 1671 Kråkerøy, Norway",
+    "phone": "+4740400093"
+  },
+  {
+    "name": "Mitsos delikatesser",
+    "address": "Mossins gate 9, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4791249100"
+  },
+  {
+    "name": "Meeso",
+    "address": "Holmegata 13, 1608 Fredrikstad, Norway",
+    "phone": "+4740613684"
+  },
+  {
+    "name": "RestaurantGruppen AS",
+    "address": "Apenes gate 20, 1607 Fredrikstad, Norway",
+    "phone": "+4769266470"
+  },
+  {
+    "name": "Istanbul Grill House",
+    "address": "Bryggeriveien 1B, 1607 Fredrikstad, Norway",
+    "phone": "+4790626572"
+  },
+  {
+    "name": "Shiki sushi Bar",
+    "address": "Nygaardsgata 33, 1607 Fredrikstad, Norway",
+    "phone": "+4745915090"
+  },
+  {
+    "name": "La Baguette - Torvbyen",
+    "address": "Mossins gate 9, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4769322222"
+  },
+  {
+    "name": "VÆRK",
+    "address": "Kråkerøyveien 2, 1671 Kråkerøy, Norway",
+    "phone": "+4769333700"
+  },
+  {
+    "name": "Wok Market",
+    "address": "Nygaardsgata 5, 1606 Fredrikstad, Norway",
+    "phone": "+4795948963"
+  },
+  {
+    "name": "Fredrikstad Restaurantdrift As",
+    "address": "Voldportgaten 73, 1632 Gamle Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Flora Pizza & Kebab",
+    "address": "Mossins gate 9, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4791249100"
+  },
+  {
+    "name": "Fredrikstad Pizza & Grill",
+    "address": "Toldbodgaten 105, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4769320012"
+  },
+  {
+    "name": "Restaurant hosMartin Østsiden",
+    "address": "Stortorvet 1C, 1607 Fredrikstad, Norway",
+    "phone": "+4741289875"
+  },
+  {
+    "name": "Nellys kebab house AS",
+    "address": "Freskoveien 16, 1605 Fredrikstad, Norway",
+    "phone": "+4769313500"
+  },
+  {
+    "name": "Super Pizza",
+    "address": "Voldportgaten 74, 1632 Gamle Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Ølspesalisten AS",
+    "address": "Mindre-alvs vei, 1672 Kråkerøy, Norway",
+    "phone": "+4793433876"
+  },
+  {
+    "name": "Mother India Lounge",
+    "address": "Stortorvet 5-7, 1607 Fredrikstad, Norway",
+    "phone": "+4748887178"
+  },
+  {
+    "name": "Warda Pizza",
+    "address": "Elias Kræmmers gate 9, 1607 Fredrikstad, Norway",
+    "phone": "+4791813883"
+  },
+  {
+    "name": "Nr. 74",
+    "address": "Storgata 16, 1607 Fredrikstad, Norway",
+    "phone": "+4769318060"
+  },
+  {
+    "name": "Amigos pizza og kebab",
+    "address": "Vennelystveien, 1671 Fredrikstad, Norway",
+    "phone": "+4769353000"
+  },
+  {
+    "name": "Mormors Cafe",
+    "address": "Voldportgaten 74, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4799077400"
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Seierstensgata 1, 1608 Fredrikstad, Norway",
+    "phone": "+4769396030"
+  },
+  {
+    "name": "Thinthan Thai food",
+    "address": "Torvbyen kjøpesenter, Brochs gate 7-11, 1607 Fredrikstad, Norway",
+    "phone": "+4796852752"
+  },
+  {
+    "name": "Take away Fredrikstad",
+    "address": "Storgata 32, 1607 Fredrikstad, Norway",
+    "phone": "+4794099319"
+  },
+  {
+    "name": "No 74 Gamlebyen",
+    "address": "Voldportgaten 74, 1632 Gamle Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Familiekafé Liv og røre",
+    "address": "Hollendergata 2, 1607 Fredrikstad, Norway",
+    "phone": "+4769334988"
+  },
+  {
+    "name": "Kebab House",
+    "address": "Farmanns gate 16, 1607 Fredrikstad, Norway",
+    "phone": "+4769319277"
+  },
+  {
+    "name": "Sakura Fredrikstad",
+    "address": "Storgata 20, 1607 Fredrikstad, Norway",
+    "phone": "+4769312200"
+  },
+  {
+    "name": "Bad Boys BBQ",
+    "address": "Storgata 20, 1607 Fredrikstad, Norway",
+    "phone": "+4769610419"
+  },
+  {
+    "name": "Pizzeria",
+    "address": "Holmegata 20, 1608 Fredrikstad, Norway",
+    "phone": "+4769316699"
+  },
+  {
+    "name": "Subway",
+    "address": "Storgata 13, 1607 Fredrikstad, Norway",
+    "phone": "+4769314455"
+  },
+  {
+    "name": "Burger King Fredrikstad",
+    "address": "Raadhusgaten 18 a, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4769321660"
+  },
+  {
+    "name": "Voldportgaten 73",
+    "address": "Torsnesveien 16, 1630 Gamle Fredrikstad, Norway",
+    "phone": "+4790119519"
+  },
+  {
+    "name": "Café Magenta",
+    "address": "Brogata 23, 1608 Fredrikstad, Norway",
+    "phone": "+4769390200"
+  },
+  {
+    "name": "Pizzabakeren Hassingen",
+    "address": "Gamle Beddingvei 28, 1671 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Den lille kokosfabrikken",
+    "address": "Storgata 3, 1607 Fredrikstad, Norway",
+    "phone": "+4740444411"
+  },
+  {
+    "name": "Royal Thai Take Away",
+    "address": "Færgeportgaten 78B, 1632 Fredrikstad, Norway",
+    "phone": "+4769333330"
+  },
+  {
+    "name": "Food With More",
+    "address": "Nygaardsgata 4, 1606 Fredrikstad, Norway",
+    "phone": "+4769316193"
+  },
+  {
+    "name": "Solveig's Pizza Fredrikstad",
+    "address": "Brochs gate 8, 1607 Fredrikstad, Norway",
+    "phone": "+4798287208"
+  },
+  {
+    "name": "Tæps",
+    "address": "Storgata 5, 1607 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kokosbollen Fredrikstad",
+    "address": "O. P. Pettersens gate 2, 1607 Fredrikstad, Norway",
+    "phone": "+4769338828"
+  },
+  {
+    "name": "FFC - Fredrikstad Fried Chicken",
+    "address": "Brogata 10, 1608 Fredrikstad, Norway",
+    "phone": "+4792545009"
+  },
+  {
+    "name": "McDonald's Bryggeriveien",
+    "address": "Brochs gate 8, 1607 Fredrikstad, Norway",
+    "phone": "+4746502088"
+  },
+  {
+    "name": "Baguetten Fredrikstad",
+    "address": "Kirkegaten 30, 1632 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Fredbar Fredrikstad",
+    "address": "Jernbanegata 8, 1606 Fredrikstad, Norway",
+    "phone": "+4746636801"
+  },
+  {
+    "name": "Quality Hotel Fredrikstad",
+    "address": "Nygata 4, 1607 Fredrikstad, Norway",
+    "phone": "+4741716767"
+  },
+  {
+    "name": "hoi polloi",
+    "address": "Storgata 1, 1607 Fredrikstad, Norway",
+    "phone": "+4790184444"
+  },
+  {
+    "name": "Café Cicignon",
+    "address": "Storgata 5, 1607 Fredrikstad, Norway",
+    "phone": "+4740856666"
+  },
+  {
+    "name": "Scandic City",
+    "address": "Storgata 21, 1607 Fredrikstad, Norway",
+    "phone": "+4769338688"
+  },
+  {
+    "name": "Gallery Wine Bar",
+    "address": "Kirkegaten 28B, 1632 Gamle Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "PizzaXpressen Fredrikstad",
+    "address": "Nygaardsgata 35, 1607 Fredrikstad, Norway",
+    "phone": "+4769314422"
+  },
+  {
+    "name": "Øra Diner",
+    "address": "Stortorvet 2, 1607 Fredrikstad, Norway",
+    "phone": "+4769314411"
+  },
+  {
+    "name": "Tamburen",
+    "address": "Nygaardsgata 23A, 1606 Fredrikstad, Norway",
+    "phone": "+4769222222"
+  },
+  {
+    "name": "Far East House Restaurant",
+    "address": "Nygaardsgata 50, 1607 Fredrikstad, Norway",
+    "phone": "+4745394444"
+  },
+  {
+    "name": "Tasty panda bubble tea & wok",
+    "address": "Underhaugsgata 1, 1607 Fredrikstad, Norway",
+    "phone": "+4769308888"
+  },
+  {
+    "name": "Jafs Begby",
+    "address": "Dampskipsbrygga 6, 1607 Fredrikstad, Norway",
+    "phone": "+4769316666"
+  },
+  {
+    "name": "Urban Splash",
+    "address": "Storgata 14, 1607 Fredrikstad, Norway",
+    "phone": "+4769317177"
+  },
+  {
+    "name": "Lunsjen",
+    "address": "Storgata 15, 1607 Fredrikstad, Norway",
+    "phone": "+4769109280"
+  },
+  {
+    "name": "Kebabhouse Sellebakk",
+    "address": "Storgata 8, 1607 Fredrikstad, Norway",
+    "phone": "+4747479417"
+  },
+  {
+    "name": "Bryggekanten Restaurant Fredrikstad",
+    "address": "Storgata 11, 1607 Fredrikstad, Norway",
+    "phone": "+4721422880"
+  },
+  {
+    "name": "FREDRIKSTAD MOTEL & CAMPING",
+    "address": "Storgata 33, 1607 Fredrikstad, Norway",
+    "phone": "+4769300101"
+  },
+  {
+    "name": "Johnny's pizza",
+    "address": "Dampskipsbrygga 1, 1607 Fredrikstad, Norway",
+    "phone": "+4746844445"
+  },
+  {
+    "name": "Nini Beach",
+    "address": "Storgata 13, 1607 Fredrikstad, Norway",
+    "phone": "+4741232308"
+  },
+  {
+    "name": "St Peter's Restaurant",
+    "address": "Storgata 13, 1607 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Leo's Lekeland",
+    "address": "Verkstedveien 12, 1671 Kråkerøy, Norway",
+    "phone": "+4799469988"
+  },
+  {
+    "name": "Torvbyen Shopping Center",
+    "address": "Gunnar Nilsens gate 16, 1607 Fredrikstad, Norway",
+    "phone": "+4769359500"
+  },
+  {
+    "name": "Begby Senter",
+    "address": "Olav Kyrres vei 2, 1639 Gamle Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kongsten fort",
+    "address": "J. N. Jacobsens gate 4, 1606 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Fredrikstad Museum",
+    "address": "Voldgaten 8, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4790509874"
+  },
+  {
+    "name": "Old Town Model Train Center",
+    "address": "Mindre-alvs vei 2, 1672 Kråkerøy, Norway",
+    "phone": null
+  },
+  {
+    "name": "Fredrikstad's Old Town",
+    "address": "Torvgaten 59 A, 1632 Fredrikstad, Norway",
+    "phone": "+4769304600"
+  },
+  {
+    "name": "Isegran fort",
+    "address": "Riddervoldsgate 5, 1606 Fredrikstad, Norway",
+    "phone": "+4769959800"
+  },
+  {
+    "name": "Vispen bathing spot",
+    "address": "Tøihusgaten 41, 1632 Fredrikstad, Norway",
+    "phone": "+4769115650"
+  },
+  {
+    "name": "POMNIK Maksymilana Zagierskiego",
+    "address": "Gamlebygata 8, 1721 Sarpsborg, Norway",
+    "phone": "+4769115650"
+  },
+  {
+    "name": "Borgarsyssel Museum",
+    "address": "W. Blakstads gate, 1630 Gamle Fredrikstad, Norway",
+    "phone": "+4769115650"
+  },
+  {
+    "name": "Greåker fort",
+    "address": "Sjøbusand 62, 3145 Tjøme, Norway",
+    "phone": "+4797142512"
+  },
+  {
+    "name": "Roald Amundsen Birthplace",
+    "address": "Sjøgata 9, 1516 Moss, Norway",
+    "phone": null
+  },
+  {
+    "name": "Folkenborg museum",
+    "address": "Gunnar Nilsens gate 9, 1607 Fredrikstad, Norway",
+    "phone": "+4769385600"
+  },
+  {
+    "name": "Fredrikstad Tourist Office Old Town",
+    "address": "Dikeveien 28, 1662 Rolvsøy, Norway",
+    "phone": "+4740704074"
+  },
+  {
+    "name": "Fredriksten fortress",
+    "address": "Nygaardsgata 9, 1606 Fredrikstad, Norway",
+    "phone": "+4769300500"
+  },
+  {
+    "name": "The Bjørnstad Ship",
+    "address": "Grøumveien 229, 3176 Undrumsdal, Norway",
+    "phone": "+4792812894"
+  },
+  {
+    "name": "Ancient Square",
+    "address": "Vestengveien 40, 1725 Sarpsborg, Norway",
+    "phone": "+4769150850"
+  },
+  {
+    "name": "Steinringfeltet",
+    "address": "Nedre Langgate 36, 3126 Tønsberg, Norway",
+    "phone": "+4733318807"
+  },
+  {
+    "name": "Inspiria Science Center",
+    "address": "Hamnevägen 30, Ekenäs, Sweden",
+    "phone": "+46102244000"
+  },
+  {
+    "name": "Oscarsborg Fortress",
+    "address": "Hovslagerveien 39, 1615 Fredrikstad, Norway",
+    "phone": "+4747961333"
+  },
+  {
+    "name": "Kongstenbadet Svømmehall",
+    "address": "Høytorp fort, 1850 Mysen, Norway",
+    "phone": null
+  },
+  {
+    "name": "Gamle Fredrikstad",
+    "address": "Jernbanegata 20, 1606 Fredrikstad, Norway",
+    "phone": "+4781500888"
+  },
+  {
+    "name": "Visitor Center Ytre Hvaler National Park, Skjærhalden",
+    "address": "Generalveien 27, 1769 Halden, Norway",
+    "phone": null
+  },
+  {
+    "name": "Gamlebyen",
+    "address": "Honnørbrygga, 3126 Tønsberg, Norway",
+    "phone": "+4748854720"
+  },
+  {
+    "name": "The Gokstad Mound",
+    "address": "Albyalléen 60, 1519 Moss, Norway",
+    "phone": "+4769271033"
+  },
+  {
+    "name": "Midgard vikingsenter",
+    "address": "Moaveien 19, 3160 Stokke, Norway",
+    "phone": "+4733337848"
+  },
+  {
+    "name": "Litteraturhuset Fredrikstad",
+    "address": "Storgaten 53, 3126 Tønsberg, Norway",
+    "phone": null
+  },
+  {
+    "name": "Red Manor House",
+    "address": "Brekkeveien 16, 1792 Tistedal, Norway",
+    "phone": "+4791925246"
+  },
+  {
+    "name": "Østre Gravlund",
+    "address": "Kråkerøyveien 148, 1675 Kråkerøy, Norway",
+    "phone": "+4769959800"
+  },
+  {
+    "name": "Gamlebyen Miniature Railroad",
+    "address": "Nedre Langgate 38, 3111 Tønsberg, Norway",
+    "phone": "+4790536205"
+  },
+  {
+    "name": "Leo's Lekeland",
+    "address": "Skjelbredveien 15, 3158 Andebu, Norway",
+    "phone": "+4741312243"
+  },
+  {
+    "name": "Outland Fredrikstad",
+    "address": "Fossen 21, 1530 Moss, Norway",
+    "phone": "+4769115650"
+  },
+  {
+    "name": "Østre Fredrikstad kirke",
+    "address": "Helgerødveien 590, 3145 Tjøme, Norway",
+    "phone": "+4795445740"
+  },
+  {
+    "name": "Kystmuseet Hvaler",
+    "address": "Fv531 320, 3157 Barkåker, Norway",
+    "phone": "5313203157"
+  },
+  {
+    "name": "Hvalfangstmonumentet",
+    "address": "Edvard Munchs gate 25, 3179 Åsgårdstrand, Norway",
+    "phone": "+4748229298"
+  },
+  {
+    "name": "Fulehuk Lighthouse",
+    "address": "Rammeveien 90, 1545 Hvitsten, Norway",
+    "phone": "+4764983200"
+  },
+  {
+    "name": "Østfold Art Center",
+    "address": "Daftöland, Dafter 1, 452 97 Strömstad, Sweden",
+    "phone": "+4652626040"
+  },
+  {
+    "name": "Istrehågan, Iron age Cemetery",
+    "address": "Torsnesveien 16, 1630 Gamle Fredrikstad, Norway",
+    "phone": "+4795855500"
+  },
+  {
+    "name": "Kulåsparken",
+    "address": "Jacob Stuarts gate 9, 1776 Halden, Norway",
+    "phone": null
+  },
+  {
+    "name": "The City Tower",
+    "address": "Birkelyveien 10, 3184 Borre, Norway",
+    "phone": "+4733071850"
+  },
+  {
+    "name": "Torderød gård",
+    "address": "Graabrødregaten 17, 3110 Tønsberg, Norway",
+    "phone": "+4733307670"
+  },
+  {
+    "name": "Fredrikstad Municipality",
+    "address": "Hydrogenfabrikken, Øraveien 6, 1630 Gamle Fredrikstad, Norway",
+    "phone": "+4790094967"
+  },
+  {
+    "name": "Tivolistranda",
+    "address": "Belsjøveien 17, 1443 Drøbak, Norway",
+    "phone": "+4766936636"
+  },
+  {
+    "name": "Kjerringåsen Alpine AS",
+    "address": "Ollebukta 3, 3126 Tønsberg, Norway",
+    "phone": "+4791583585"
+  },
+  {
+    "name": "Hankø",
+    "address": "Lystlundveien, 3183 Horten, Norway",
+    "phone": null
+  },
+  {
+    "name": "Foten badeplass",
+    "address": "Lågendalsveien 3392, 3277 Steinsholt, Norway",
+    "phone": "33923277"
+  },
+  {
+    "name": "Royal Norwegian Navy Museum",
+    "address": "Nesparken, 1530 Moss, Norway",
+    "phone": null
+  },
+  {
+    "name": "Torås Fortress",
+    "address": "Dronning Blancas Gate 14A, 3111 Tønsberg, Norway",
+    "phone": "+4733312919"
+  },
+  {
+    "name": "Slottsfjellsmuseet",
+    "address": "Toråsveien 47, 3145 Tjøme, Norway",
+    "phone": "+4747241924"
+  },
+  {
+    "name": "Foldvik Family Park",
+    "address": "Havnegata 4, 1441 Drøbak, Norway",
+    "phone": "+4791108420"
+  },
+  {
+    "name": "Drøbak Akvarium",
+    "address": "Farmannsveien 30, 3111 Tønsberg, Norway",
+    "phone": "+4733312919"
+  },
+  {
+    "name": "Nesparken",
+    "address": "Kommandørkaptein Klincks vei 9, 3183 Horten, Norway",
+    "phone": "+4733033397"
+  },
+  {
+    "name": "Slottsfjelltårnet",
+    "address": "Foldvikveien 53a, 3294 Stavern, Norway",
+    "phone": null
+  },
+  {
+    "name": "Kjærra Foss Park",
+    "address": "Ekås, Nygårdsgata 174, 1789 Berg i Østfold, Norway",
+    "phone": "+4799160057"
+  },
+  {
+    "name": "Follo Museum",
+    "address": "Kommandørkaptein Klincks vei 7, 3183 Horten, Norway",
+    "phone": "+4733031630"
+  },
+  {
+    "name": "Saga Oseberg",
+    "address": "Alpinveien 109, 1708 Sarpsborg, Norway",
+    "phone": "+4791787666"
+  },
+  {
+    "name": "Tønsberg Tønne",
+    "address": "Torderødalleen 11, 1511 Moss, Norway",
+    "phone": "+4748187777"
+  },
+  {
+    "name": "Gamle Fredrikstad golfklubb",
+    "address": "Bytårnet, Fjellveien 1, 1532 Moss, Norway",
+    "phone": null
+  },
+  {
+    "name": "Daftöland",
+    "address": "Admiralveien 7, 3183 Horten, Norway",
+    "phone": null
+  },
+  {
+    "name": "Gildehallen, Vestfoldmuseene IKS",
+    "address": "Ferjestedsveien 5B, 1606 Fredrikstad, Norway",
+    "phone": "+4769310995"
+  },
+  {
+    "name": "Busterudparken",
+    "address": "Dybedalsveien 37, 1684 Vesterøy, Norway",
+    "phone": "+4769115650"
+  },
+  {
+    "name": "Munch's Hus",
+    "address": "Kirkegaten 25, 1632 Fredrikstad, Norway",
+    "phone": "+4769959800"
+  },
+  {
+    "name": "Rolvsøy",
+    "address": "INSPIRIA turistinformasjon Østfold, Bjørnstadveien 16, 1712 Grålum, Norway",
+    "phone": null
+  },
+  {
+    "name": "Restplass",
+    "address": "Birkelyveien 9, 3182 Borre, Norway",
+    "phone": "+4733071850"
+  },
+  {
+    "name": "Ramme Gaard",
+    "address": "Stabburveien 8, 1617 Fredrikstad, Norway",
+    "phone": "+4795419699"
+  },
+  {
+    "name": "Moss Town- and Industry Museum",
+    "address": "Framveien 9, 1659 Torp, Norway",
+    "phone": null
+  },
+  {
+    "name": "Coastal Trails in Tønsberg",
+    "address": "Brochs gate 8, 1607 Fredrikstad, Norway",
+    "phone": "+4798900450"
+  },
+  {
+    "name": "Høyjord stave church",
+    "address": "Voldgaten 8, 1632 Gamle Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Hvaler Municipality",
+    "address": "Gamlebyveien 1, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4790097688"
+  },
+  {
+    "name": "Via Ferrata Haldenkanalen",
+    "address": "Herregårdsveien 10, 1771 Halden, Norway",
+    "phone": "+4769115650"
+  },
+  {
+    "name": "Kråkerøy Church",
+    "address": "Birkelyveien 9, 3184 Borre, Norway",
+    "phone": "+4733071850"
+  },
+  {
+    "name": "Galleri F15",
+    "address": "Museumsgata 39, 3210 Sandefjord, Norway",
+    "phone": "+4794793341"
+  },
+  {
+    "name": "Fredriksten Museum",
+    "address": "Helgerødveien, 3210 Sandefjord, Norway",
+    "phone": "+4733416000"
+  },
+  {
+    "name": "Høytorp fort",
+    "address": "Storgata 11, 1607 Fredrikstad, Norway",
+    "phone": "+4769343375"
+  },
+  {
+    "name": "D/S Kysten Tønsberg",
+    "address": "Torsnesveien 12, 1630 Gamle Fredrikstad, Norway",
+    "phone": "+4747479524"
+  },
+  {
+    "name": "Fredrikstad stasjon",
+    "address": "Torvet 7, 1680 Skjærhalden, Norway",
+    "phone": "+4740442887"
+  },
+  {
+    "name": "Fredrikstad Drone",
+    "address": "Husvikveien, 1443 Oscarsborg, Norway",
+    "phone": "+4764904161"
+  },
+  {
+    "name": "Kosterhavet National Park",
+    "address": "Torvgaten 59A, 1632 Fredrikstad, Norway",
+    "phone": null
+  },
+  {
+    "name": "Scandic City",
+    "address": "Bjørnstadveien 16, 1712 Grålum, Norway",
+    "phone": null
+  },
+  {
+    "name": "Brygga i Tønsberg",
+    "address": "Kirkegaten 31B, 1632 Gamle Fredrikstad, Norway",
+    "phone": "+4769304600"
+  }
+]

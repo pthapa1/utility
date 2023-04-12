@@ -1,0 +1,4167 @@
+[
+  {
+    "name": "Hotel „Aristocrat“",
+    "address": "Nikola Vapcarov 2/4, Skopje 1000, North Macedonia",
+    "phone": "+38970277127"
+  },
+  {
+    "name": "Hotel „Hamburg“",
+    "address": "Orce Nikolov Br 55, Skopje 1000, North Macedonia",
+    "phone": "+38923123700"
+  },
+  {
+    "name": "Skopje Marriott Hotel",
+    "address": "Zeleznicka.31, Skopje 1000, Jordan Mijalkov 32, Skopje 1000, North Macedonia",
+    "phone": "311000321000"
+  },
+  {
+    "name": "DoubleTree by Hilton Skopje",
+    "address": "Bulevar ASNOM 17, Skopje 1000, North Macedonia",
+    "phone": "+38922400800"
+  },
+  {
+    "name": "Hotel „Senigallia“",
+    "address": "MK, Nikola Vapcarov 13A, Skopje 1000, North Macedonia",
+    "phone": "+38923111141"
+  },
+  {
+    "name": "ibis Skopje City Center",
+    "address": "Prohor Pcinjski, Skopje 1000, North Macedonia",
+    "phone": "+38923092392"
+  },
+  {
+    "name": "Limak Skopje Luxury Hotel",
+    "address": "Plostad Makedonija 7, Skopje 1000, North Macedonia",
+    "phone": "+38925102510"
+  },
+  {
+    "name": "Hotel „Aleksandar Palace“",
+    "address": "Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+94131000"
+  },
+  {
+    "name": "Resort & Spa „Bushi“",
+    "address": "Str, 1732 No.4, Skopje 1000, North Macedonia",
+    "phone": "173241000"
+  },
+  {
+    "name": "Alexandar Square Boutique Hotel",
+    "address": "Samoilova 5, Skopje 1000, North Macedonia",
+    "phone": "+38923125130"
+  },
+  {
+    "name": "Hotel Alexandar II",
+    "address": "MK MK, Albert Einstein no. 3-1, Skopje 1000, North Macedonia",
+    "phone": "+38978275411"
+  },
+  {
+    "name": "Park Hotel",
+    "address": "Boris Trajkovski, Skopje 1000, North Macedonia",
+    "phone": "+38922457280"
+  },
+  {
+    "name": "Hotel „Russia“",
+    "address": "Р.Јовчевски Корчагин, Skopje 1000, North Macedonia",
+    "phone": "+38978450371"
+  },
+  {
+    "name": "MiCasa Skopje",
+    "address": "3/2-20 Veselin Maslesha Str., Skopje, 1000, North Macedonia",
+    "phone": "32201000"
+  },
+  {
+    "name": "Hotel „City Park“",
+    "address": "Р.Јовчевски Корчагин 37, Skopje 1000, North Macedonia",
+    "phone": "+38971620491"
+  },
+  {
+    "name": "Hotel „G“",
+    "address": "Мајка Тереза 8, Skopje 1000, North Macedonia",
+    "phone": "+36705115711"
+  },
+  {
+    "name": "Hotel „Premium“",
+    "address": "MK, Boulevard Krste Petkov Misirkov 76, Skopje 1000, North Macedonia",
+    "phone": "+38978416224"
+  },
+  {
+    "name": "Hotel „Queen's“",
+    "address": "Bansko, Skopje 1000, North Macedonia",
+    "phone": "+38975868131"
+  },
+  {
+    "name": "Holiday Inn Skopje, an IHG Hotel",
+    "address": "15 A Aminta III street, Skopje 1000, 1000, North Macedonia",
+    "phone": "1510001000"
+  },
+  {
+    "name": "Bulevar Hotel",
+    "address": "ul. Makedonija 10, Skopje 1000, North Macedonia",
+    "phone": "+38971396747"
+  },
+  {
+    "name": "Hotel Arka",
+    "address": "MK, Bote Bocevski 7, Skopje 1000, North Macedonia",
+    "phone": "+38975647548"
+  },
+  {
+    "name": "Hotel „Premium“",
+    "address": "Street 10 Skopje MK, 1000, North Macedonia",
+    "phone": "+38978379474"
+  },
+  {
+    "name": "Hotel Premier",
+    "address": "128 Vostanicka Str Скопје MK, 1000, North Macedonia",
+    "phone": "+38978866935"
+  },
+  {
+    "name": "Hotel „Karpoš“",
+    "address": "St. 1, No.1/1-1, Dolna Matka MK, Skopje 1000, North Macedonia",
+    "phone": "11111000"
+  },
+  {
+    "name": "Hostel Inbox",
+    "address": "Chair, Skopje 1000, North Macedonia",
+    "phone": "+38975452568"
+  },
+  {
+    "name": "Хотел Влахо",
+    "address": "Kosta Kirkov 5, Skopje 1000, North Macedonia",
+    "phone": "+38970274511"
+  },
+  {
+    "name": "Nina",
+    "address": "Naroden Front 35/2, Skopje 1000, North Macedonia",
+    "phone": "+38970227931"
+  },
+  {
+    "name": "View Inn Boutique Hotel",
+    "address": "20-ti Oktomvri 44, Skopje 1000, North Macedonia",
+    "phone": "20441000"
+  },
+  {
+    "name": "Villa „Vodno“",
+    "address": "Blvd. Partizanski Odredi 27, Skopje 1000, Skopje 1000, North Macedonia",
+    "phone": "2710001000"
+  },
+  {
+    "name": "Hotel De KOKA",
+    "address": "MK, Sveti Nikolska 42, Skopje 1000, North Macedonia",
+    "phone": "+38978432384"
+  },
+  {
+    "name": "Hotel „Atika“",
+    "address": "1737 Num.24 MK, Skopje 1000, North Macedonia",
+    "phone": "1737241000"
+  },
+  {
+    "name": "Luxury Apartments PentLux",
+    "address": "Veniamin Machukovski 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Capitol Suites",
+    "address": "MK, Steve Naumov 102, Skopje 1000, North Macedonia",
+    "phone": "+38923136241"
+  },
+  {
+    "name": "Hostel „42“",
+    "address": "Jordan Hadzikonstantinov - Dzinot 20, Skopje 1000, North Macedonia",
+    "phone": "+38923238353"
+  },
+  {
+    "name": "Hotel „Aristocrat“",
+    "address": "Crniche 15, Skopje 1000, North Macedonia",
+    "phone": "+38926091242"
+  },
+  {
+    "name": "Hotel „Osten Art“",
+    "address": "Boulevard Serbia Tower A, 37th Floor 325, Skopje, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Austrian Palace Hotel",
+    "address": "Leninova 77, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Next Door Park",
+    "address": "MK, Boulevard Serbia 1/5, Skopje 1000, Skopje 1000, North Macedonia",
+    "phone": "1510001000"
+  },
+  {
+    "name": "Hotel „Hamburg“",
+    "address": "Mile Pop Jodranov 3A, Skopje 1000, North Macedonia",
+    "phone": "+38926091188"
+  },
+  {
+    "name": "Astera Apart Hotel",
+    "address": "Orce Nikolov 120, Skopje 1000, North Macedonia",
+    "phone": "+38923237650"
+  },
+  {
+    "name": "Hotel „Leonardo“",
+    "address": "Majski Manifest 22, Skopje 1000, North Macedonia",
+    "phone": "+38975244215"
+  },
+  {
+    "name": "Hotel „G“",
+    "address": "P402 1060, Skopje 1000, North Macedonia",
+    "phone": "40210601000"
+  },
+  {
+    "name": "Hotel „Andalus“",
+    "address": "Sv. Kliment Ohridski, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel „Centar“",
+    "address": "MK, 11th October St. 2/3-6, Skopje 1000, North Macedonia",
+    "phone": "112361000"
+  },
+  {
+    "name": "Hotel Gold",
+    "address": "Mitropolit Teodosij Gologanov 98, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Square",
+    "address": "Vostanichka 30, Skopje 1000, North Macedonia",
+    "phone": "+38922735562"
+  },
+  {
+    "name": "Austrian Palace Hotel",
+    "address": "Jurij Gagarin, Skopje 1000, North Macedonia",
+    "phone": "+38977720856"
+  },
+  {
+    "name": "Hotel & Spa „Bon Bon“",
+    "address": "Old Bazaar, Skopje 1000, North Macedonia",
+    "phone": "+38923109739"
+  },
+  {
+    "name": "Hotel London B&B",
+    "address": "Kej 13th November, Skopje 1000, North Macedonia",
+    "phone": "+38923232512"
+  },
+  {
+    "name": "Hotel „Aen“",
+    "address": "Petrichka 6-1/40, Skopje 1000, North Macedonia",
+    "phone": "61401000"
+  },
+  {
+    "name": "Sultan Modern Hotel",
+    "address": "hotelportalskopje@hotmail.com, Skupi 27, Skopje 1000, North Macedonia",
+    "phone": "+38923095227"
+  },
+  {
+    "name": "Denicija",
+    "address": "blvd. Vodnjanska MK, Mother Teresa 28, Skopje 1000, North Macedonia",
+    "phone": "+38975457790"
+  },
+  {
+    "name": "Hotel „Kapištec“",
+    "address": "MK, 1611, Skopje 1000, North Macedonia",
+    "phone": "16111000"
+  },
+  {
+    "name": "Hotel „Evro Set“",
+    "address": "Mile Pop Jordanov 1 b, Skopje 1000, North Macedonia",
+    "phone": "+38923060041"
+  },
+  {
+    "name": "Vanilla Boutique Hotel",
+    "address": "str, Vladimir Polezinovski no.14 1000, Skopje, North Macedonia",
+    "phone": "+38923296700"
+  },
+  {
+    "name": "Hotel „Ambasador“",
+    "address": "Nikola Vapcarov 6, Skopje 1000, North Macedonia",
+    "phone": "+38926121551"
+  },
+  {
+    "name": "Hotel „Super 8“",
+    "address": "57 Krste Misirkov, Skopje 1000, North Macedonia",
+    "phone": "+38923212225"
+  },
+  {
+    "name": "Hotel Cara",
+    "address": "Pirinska 38, Skopje 1000, North Macedonia",
+    "phone": "+38923121383"
+  },
+  {
+    "name": "Foxxy Apartments",
+    "address": "Elisie Popovski Marko 31, Skopje 1000, North Macedonia",
+    "phone": "+38975811411"
+  },
+  {
+    "name": "Villa „G“",
+    "address": "Skupi, Skopje 1000, North Macedonia",
+    "phone": "+38923095385"
+  },
+  {
+    "name": "Hotel „Pine“",
+    "address": "MK, Skopje 1000, North Macedonia",
+    "phone": "+38975242898"
+  },
+  {
+    "name": "Hotel „7“",
+    "address": "Boulevard Krste Misirkov, Skopje 1000, North Macedonia",
+    "phone": "+38923125144"
+  },
+  {
+    "name": "Hotel „Portal“",
+    "address": "Nikola Vapcarov 2/4, Skopje 1000, North Macedonia",
+    "phone": "+38970277127"
+  },
+  {
+    "name": "Skopje Station Apartment",
+    "address": "Boulevard Nikola Karev, Skopje 1000, North Macedonia",
+    "phone": "+38925119977"
+  },
+  {
+    "name": "Vila Silia",
+    "address": "Boris Trajkovski 174, Skopje 1000, North Macedonia",
+    "phone": "+38978225750"
+  },
+  {
+    "name": "Skopje Luxury apartments",
+    "address": "MK, Boulevard Krste Petkov Misirkov 13, Skopje 1000, North Macedonia",
+    "phone": "+38923220211"
+  },
+  {
+    "name": "Elizabeth",
+    "address": "Nikola Vapcarov 2/6, Skopje 1000, North Macedonia",
+    "phone": "+38971658788"
+  },
+  {
+    "name": "Apartments „Nenov“",
+    "address": "MK, Boulevard Kocho Racin 33, Skopje 1000, North Macedonia",
+    "phone": "+38923120300"
+  },
+  {
+    "name": "Grand Prestige Home",
+    "address": "MK, Aleksandar Urdarevski 33, Skopje 1000, North Macedonia",
+    "phone": "+38922670710"
+  },
+  {
+    "name": "Riverside Villa Matka",
+    "address": "Boulevard Krste Petkov Misirkov 191, Skopje 1000, North Macedonia",
+    "phone": "+38923131353"
+  },
+  {
+    "name": "Hotel Solun's",
+    "address": "Boulevard Nikola Karev, Skopje 1000, North Macedonia",
+    "phone": "+38970335800"
+  },
+  {
+    "name": "Hotel „Ultra Star“",
+    "address": "Prespanska 39, Skopje 1000, North Macedonia",
+    "phone": "+38978454357"
+  },
+  {
+    "name": "Hotel Atocha",
+    "address": "Ul. Vladimir Polezinovski br 14 Skopje MK, 1000, North Macedonia",
+    "phone": "+38975206678"
+  },
+  {
+    "name": "Tim's",
+    "address": "Partenija Zografski 19, Skopje 1000, North Macedonia",
+    "phone": "+38923177517"
+  },
+  {
+    "name": "Luxury Apartment „Margarita“",
+    "address": "Boulevard Nikola Karev, Skopje 1000, North Macedonia",
+    "phone": "+38925119977"
+  },
+  {
+    "name": "Ivan Apartment Skopje",
+    "address": "Vasil Glavinov 7B Skopje MK, 1000, North Macedonia",
+    "phone": "+38971252531"
+  },
+  {
+    "name": "Vila Lumiere",
+    "address": "Ul. Vladimir Polezinovski br 14 Skopje MK, 1000, North Macedonia",
+    "phone": "+38975206678"
+  },
+  {
+    "name": "Sky Deluxe fitness&spa",
+    "address": "Boulevard Krste Petkov Misirkov 61, Skopje 1000, North Macedonia",
+    "phone": "+38923214288"
+  },
+  {
+    "name": "Hotel „Kozle“",
+    "address": "Str, 1732 No.4, Skopje 1000, North Macedonia",
+    "phone": "173241000"
+  },
+  {
+    "name": "Hotel „Kanet“",
+    "address": "Elisie Popovski Marko 59, Skopje 1000, North Macedonia",
+    "phone": "+38923131223"
+  },
+  {
+    "name": "Hostel „Hi Skopje“",
+    "address": "Boulevard Ilinden 42, Skopje 1000, North Macedonia",
+    "phone": "+38978449944"
+  },
+  {
+    "name": "Get Inn Hostel Skopje",
+    "address": "MK, Boulevard Jane Sandanski 71A, Skopje 1000, North Macedonia",
+    "phone": "+38970404000"
+  },
+  {
+    "name": "FIS Centar Apartment",
+    "address": "Boulevard Ilinden 5/49, Skopje 1000, North Macedonia",
+    "phone": "+38976222267"
+  },
+  {
+    "name": "Apartments „Kami Inn“",
+    "address": "MK MK, Boulevard Goce Delchev 5, Skopje 1000, North Macedonia",
+    "phone": "+38923440444"
+  },
+  {
+    "name": "Urban Hostel & Apartments",
+    "address": "MK, Samardziska 32, Skopje 1000, North Macedonia",
+    "phone": "+38970999072"
+  },
+  {
+    "name": "Valor Apartment",
+    "address": "MK, Orce Nikolov 86, Skopje 1000, North Macedonia",
+    "phone": "+38970279859"
+  },
+  {
+    "name": "Apartments „New York“",
+    "address": "Str, 9-ti Maj 3, Skopje 1000, North Macedonia",
+    "phone": "+38926092301"
+  },
+  {
+    "name": "Apartments „Central View“",
+    "address": "Todor Aleksandrov nn, Skopje 1000, North Macedonia",
+    "phone": "+38923228570"
+  },
+  {
+    "name": "Magnolia Apartments",
+    "address": "MK, Bitpazarska 58, Skopje 1000, North Macedonia",
+    "phone": "+38923112239"
+  },
+  {
+    "name": "Apartments „Antigona“",
+    "address": "Јосиф Јосифовски - Свештарот 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Hotel „Canyon Matka“",
+    "address": "Bitpazarska 42, Skopje 1000, North Macedonia",
+    "phone": "+38923112250"
+  },
+  {
+    "name": "Guest House Iva",
+    "address": "Ul. Bitpazarska 90/2 Skopje MK, Skopje 1000 113, Skopje 1000, North Macedonia",
+    "phone": "90210001131000"
+  },
+  {
+    "name": "Villa Dajana",
+    "address": "Sekspirova bb,, Skopje 1000, North Macedonia",
+    "phone": "+38923088388"
+  },
+  {
+    "name": "M - Square Studios & Private rooms",
+    "address": "Bulevar Partizanski Odredi 153 skopje MK, 1000, North Macedonia",
+    "phone": "+38977643330"
+  },
+  {
+    "name": "Hotel „Fama“",
+    "address": "Bitpazarska 42, Skopje 1000, North Macedonia",
+    "phone": "+38923112250"
+  },
+  {
+    "name": "City Center Apartment",
+    "address": "br.2, Ulica, 191, Skopje 1000, North Macedonia",
+    "phone": "21911000"
+  },
+  {
+    "name": "Rooms „BSV“",
+    "address": "Zebra Center, Vasil Gjorgov 16, Skopje 1000, North Macedonia",
+    "phone": "+38923253453"
+  },
+  {
+    "name": "Mirror",
+    "address": "Ul. Vladimir Polezinovski br 14 Skopje MK, 1000, North Macedonia",
+    "phone": "+38975206678"
+  },
+  {
+    "name": "Neda Skopje Apartment",
+    "address": "Filip Vtori Makedonski 5, Skopje 1000, North Macedonia",
+    "phone": "+38923292929"
+  },
+  {
+    "name": "Denicija",
+    "address": "Kacanicki pat 148 Skopje MK, 1000, North Macedonia",
+    "phone": "+38978600444"
+  },
+  {
+    "name": "Restaurant „Four“",
+    "address": "11th October, Square Macedonia, Skopje 1000, North Macedonia",
+    "phone": "+38923144345"
+  },
+  {
+    "name": "Kolektiv",
+    "address": "Pariska, Skopje 1000, North Macedonia",
+    "phone": "+38923066623"
+  },
+  {
+    "name": "Restaurant „Olive“",
+    "address": "Varsavska 70, Skopje 1000, North Macedonia",
+    "phone": "+38975727110"
+  },
+  {
+    "name": "Skara bar",
+    "address": "Boulevard Phillip the Second of Macedon 14, Skopje 1000, North Macedonia",
+    "phone": "+38923131376"
+  },
+  {
+    "name": "Restaurant „Old House“",
+    "address": "GTC floor 1 loc. 205, Skopje 1000, North Macedonia",
+    "phone": "12051000"
+  },
+  {
+    "name": "Destan",
+    "address": "Казанџиска, Skopje 1000, North Macedonia",
+    "phone": "+38923224063"
+  },
+  {
+    "name": "Restaurant Dva Еlena",
+    "address": "Str. 1732 No. 4 Skopje Skopje MK, 1000, North Macedonia",
+    "phone": "173241000"
+  },
+  {
+    "name": "Restaurant „Skopski merak“",
+    "address": "Ul, Debarca St 51, Skopje 1000, North Macedonia",
+    "phone": "+38978343630"
+  },
+  {
+    "name": "Restaurant „Gino“",
+    "address": "Zagrebska 31, Skopje 1000, North Macedonia",
+    "phone": "+38923060900"
+  },
+  {
+    "name": "Love restaurant Skopje",
+    "address": "MK, Kachanik Rd 148, Skopje 1000, North Macedonia",
+    "phone": "+38978332433"
+  },
+  {
+    "name": "Toscana",
+    "address": "MK MK, Leninova 29, Skopje 1000, North Macedonia",
+    "phone": "+38923217874"
+  },
+  {
+    "name": "Restaurant Pelister",
+    "address": "Macedonia St no.29 lokal 1 Skopje MK, 1000, North Macedonia",
+    "phone": "+38923125484"
+  },
+  {
+    "name": "Restaurant „Vodenica“",
+    "address": "Vangel Todorovski 1, Skopje 1000, North Macedonia",
+    "phone": "+38922463841"
+  },
+  {
+    "name": "Amigos",
+    "address": "New Delhi Rd 13, Skopje 1000, North Macedonia",
+    "phone": "+38975287319"
+  },
+  {
+    "name": "Distrikt",
+    "address": "Ulica Bitpazarska br.92, Skopje 1000, North Macedonia",
+    "phone": "+38977557555"
+  },
+  {
+    "name": "Gostilnica Staro Bure",
+    "address": "Polyclinic Bit Pazar, Boulevard Krste Petkov Misirkov, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Restaurant „Nadžak“",
+    "address": "Leninova 25, Skopje 1000, North Macedonia",
+    "phone": "+38970366559"
+  },
+  {
+    "name": "Ljubovna Kukjichka",
+    "address": "MK, Makedonsko Kosovska Brigada 11, Skopje 1000, North Macedonia",
+    "phone": "+38975225200"
+  },
+  {
+    "name": "RiversideGarden",
+    "address": "Orce Nikolov 155, Skopje 1000 MK, Orce Nikolov 155, Skopje 1000, North Macedonia",
+    "phone": "15510001551000"
+  },
+  {
+    "name": "Soul Kitchen - Macedonian Wine & Cuisine",
+    "address": "Boulevard Krste Petkov Misirkov 57, Skopje 1000, North Macedonia",
+    "phone": "+38970755382"
+  },
+  {
+    "name": "Forza",
+    "address": "Kiril Percinovik 11, Skopje 1000, North Macedonia",
+    "phone": "+38972555757"
+  },
+  {
+    "name": "National Restaurant „Makedonska Kukja“",
+    "address": "Улица Миле Попјорданов, Skopje 1000, North Macedonia",
+    "phone": "+38970341224"
+  },
+  {
+    "name": "Restaurant „Idadija M“",
+    "address": "MK, Nikola Rusinski 3a, Skopje 1000, North Macedonia",
+    "phone": "+38975251443"
+  },
+  {
+    "name": "Pivnica An",
+    "address": "Boulevard 8-mi Septemvri 2, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Градска кафеана „Кај Јоле\"",
+    "address": "Hristo Tatarchev 47, Skopje 1000, North Macedonia",
+    "phone": "+38970299123"
+  },
+  {
+    "name": "Restaurant „Baba Cana“",
+    "address": "MK, Jадранска Магистрала, Skopje 1000, North Macedonia",
+    "phone": "+38976487224"
+  },
+  {
+    "name": "Carpe Diem - Fine Wine & Dine",
+    "address": "Dame Gruev broj 7, Skopje 1000, North Macedonia",
+    "phone": "+38976424104"
+  },
+  {
+    "name": "Гостилница Барик",
+    "address": "Bozhidar Adzhia, Skopje 1000, North Macedonia",
+    "phone": "+38970490550"
+  },
+  {
+    "name": "Restaurant Kaskada",
+    "address": "Bitpazarska, Skopje 1000, North Macedonia",
+    "phone": "+38978272389"
+  },
+  {
+    "name": "Oreov Lad Restaurant",
+    "address": "Crvena Skopska Opstina, Skopje 1000, North Macedonia",
+    "phone": "+38923222588"
+  },
+  {
+    "name": "Restaurant „Park“",
+    "address": "MK, Ul. Skupi 3A, Skopje 1000, North Macedonia",
+    "phone": "+38923097070"
+  },
+  {
+    "name": "Restaurant „Plaza de Toros“",
+    "address": "Bulevar Makedonsa MK, Makedonsko Kosovska Brigada 10/2, Skopje 1000, North Macedonia",
+    "phone": "+38971422652"
+  },
+  {
+    "name": "Chardak",
+    "address": "Ul, Kozle br.319, Skopje 1000, North Macedonia",
+    "phone": "+38978267881"
+  },
+  {
+    "name": "Restaurant „Buket“",
+    "address": "MK, 50-та Дивизија 22, Skopje 1000, North Macedonia",
+    "phone": "50221000"
+  },
+  {
+    "name": "Sidro",
+    "address": "Orce Nikolov 136, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Restaurant „Light“",
+    "address": "Sv. Kiril i Metodij 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Restaurant Dion",
+    "address": "4, Nikola Vapcarov 2, Skopje 1000, North Macedonia",
+    "phone": "+38971368846"
+  },
+  {
+    "name": "Fish Restoran",
+    "address": "Virtual Restaurant / delivery or takeaway only/ 070393990, Skopje 1000, North Macedonia",
+    "phone": "0703939901000"
+  },
+  {
+    "name": "Skadarlija",
+    "address": "Mother Teresa 6, Skopje 1000, North Macedonia",
+    "phone": "+38923176200"
+  },
+  {
+    "name": "Restaurant „Lyra“",
+    "address": "50-та Дивизија 25, Skopje 1000, North Macedonia",
+    "phone": "50251000"
+  },
+  {
+    "name": "La Terrazza Restaurant",
+    "address": "1000 Skopje, 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Café & Restaurant „Garden“",
+    "address": "Franklin Ruzvelt 20, Skopje 1000, North Macedonia",
+    "phone": "+38923123402"
+  },
+  {
+    "name": "Restaurant Domini",
+    "address": "P402 1060, Skopje 1000, North Macedonia",
+    "phone": "40210601000"
+  },
+  {
+    "name": "Fontana Grill",
+    "address": "MK, Vasil Gjorgov 29, Skopje 1000, North Macedonia",
+    "phone": "+38923213735"
+  },
+  {
+    "name": "Rock Kafana „Rustikana 2.0“",
+    "address": "Jordan Mijalkov Железничка б.б., Skopje 1000, North Macedonia",
+    "phone": "+38977594039"
+  },
+  {
+    "name": "Balkanika Rustikana",
+    "address": "Boulevard Mitropolit Teodosij Gologanov, Skopje 1000, North Macedonia",
+    "phone": "+38923214350"
+  },
+  {
+    "name": "Boni Lu",
+    "address": "Лермонтова 19, Скопје 1000, North Macedonia",
+    "phone": "+38923222723"
+  },
+  {
+    "name": "Eno",
+    "address": "Диме Аницин 15, Skopje 1000, North Macedonia",
+    "phone": "+38977661424"
+  },
+  {
+    "name": "Restaurant „Dojrana“",
+    "address": "Belasitsa 2, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Fish Restaurant Big Fish",
+    "address": "Kej 13 noemvri, Skopje, North Macedonia",
+    "phone": "+38978255842"
+  },
+  {
+    "name": "Restaurant Treska",
+    "address": "Ул. Владимир Полежиновски 23, 1000, North Macedonia",
+    "phone": "+38971888739"
+  },
+  {
+    "name": "Matto Napoletano",
+    "address": "1 2, Skopje 1000, North Macedonia",
+    "phone": "+38970607020"
+  },
+  {
+    "name": "Bella Vista - Lounge Bar & Restaurant",
+    "address": "Debarca 2a, Skopje 1000, North Macedonia",
+    "phone": "+38971343063"
+  },
+  {
+    "name": "Levant",
+    "address": "бул.Јане Сандански, Skopje 1000, North Macedonia",
+    "phone": "+38922470037"
+  },
+  {
+    "name": "Fat Kitchen Bistro",
+    "address": "Naum Naumovski Borche 56, Skopje 1000, North Macedonia",
+    "phone": "+38970806080"
+  },
+  {
+    "name": "Смокче",
+    "address": "Hristo Tatarchev 47, Skopje 1000, North Macedonia",
+    "phone": "+38971260755"
+  },
+  {
+    "name": "Ка",
+    "address": "Базен Карпош, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Star Ocean Chinese Restaurant",
+    "address": "16-ta Makedonska Brigada, Skopje 1000, North Macedonia",
+    "phone": "6+42161000"
+  },
+  {
+    "name": "Ljuc",
+    "address": "MK, Boulevard Ilinden 94, Skopje 1000, North Macedonia",
+    "phone": "+38975478134"
+  },
+  {
+    "name": "Kaj Vase",
+    "address": "Chair, Skopje skopje MK, 1000, North Macedonia",
+    "phone": "+38970687363"
+  },
+  {
+    "name": "Vavilon Restaurant",
+    "address": "Rajko Zhinzifov 26, Skopje 1000, North Macedonia",
+    "phone": "+38977551389"
+  },
+  {
+    "name": "Kitchen & Bar „Three“",
+    "address": "Orce Nikolov, Skopje 1000, North Macedonia",
+    "phone": "+38923052717"
+  },
+  {
+    "name": "Vega",
+    "address": "Boulevard Krushevska Republika 27-21, Skopje 1000, North Macedonia",
+    "phone": "27211000"
+  },
+  {
+    "name": "Restaurant „Hidžaz“",
+    "address": "Plostad Makedonija, Skopje 1000, North Macedonia",
+    "phone": "+38923113380"
+  },
+  {
+    "name": "511",
+    "address": "Miroslav Krleza, Skopje 1000, North Macedonia",
+    "phone": "+38925213466"
+  },
+  {
+    "name": "Bon Appetit 2",
+    "address": "Nikola Tesla 11, Skopje 1000, North Macedonia",
+    "phone": "+38923083020"
+  },
+  {
+    "name": "''Apetit'' restaurant",
+    "address": "St. Clement of Ohrid Blvd Skopje MK, 1000, North Macedonia",
+    "phone": "+38975585255"
+  },
+  {
+    "name": "Sebil - Traditional Cuisine (delivery only)",
+    "address": "Skupi 5a, Skopje 1000, North Macedonia",
+    "phone": "+38970779977"
+  },
+  {
+    "name": "Gurman",
+    "address": "Mitropolit Teodosij Gologanov 49, Skopje 1000, North Macedonia",
+    "phone": "+38971386386"
+  },
+  {
+    "name": "Cafe Trend",
+    "address": "Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+798131000"
+  },
+  {
+    "name": "Villa Veranda",
+    "address": "MK, Blvd. Saint Clement of Ohrid, Skopje 1000, North Macedonia",
+    "phone": "+38923112112"
+  },
+  {
+    "name": "Гранче",
+    "address": "Atinska 21, Skopje 1000, North Macedonia",
+    "phone": "+38971277076"
+  },
+  {
+    "name": "Public Room",
+    "address": "MK, Gjorgji Peshkov, Skopje 1000, North Macedonia",
+    "phone": "+38970410919"
+  },
+  {
+    "name": "Restaurant Javor Mrzenci",
+    "address": "Булевар Филип Втори Македонски, Skopje 1000, North Macedonia",
+    "phone": "+38923214200"
+  },
+  {
+    "name": "Debar Maalo",
+    "address": "Rajko Zhinzifov 26, Skopje 1000, North Macedonia",
+    "phone": "+38923220088"
+  },
+  {
+    "name": "Family Restaurant SAC",
+    "address": "Blvd. Partizanski Odredi 32, Skopje 1000, North Macedonia",
+    "phone": "+38970360792"
+  },
+  {
+    "name": "National Restaurant Mal Altan",
+    "address": "Kej 13-ti Noemvri no.65, Skopje 1000, North Macedonia",
+    "phone": "13651000"
+  },
+  {
+    "name": "Restaurant Garden",
+    "address": "Ul, Кеј 13-ти Ноември 4A, Skopje 1000, North Macedonia",
+    "phone": "+38972226123"
+  },
+  {
+    "name": "Restaurant „Plaza“",
+    "address": "Gjorgji Peshkov br.5, Skopje 1000, North Macedonia",
+    "phone": "+38970360601"
+  },
+  {
+    "name": "Restaurant AKTIVA",
+    "address": "MK, Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+38970355750"
+  },
+  {
+    "name": "Paradise Food",
+    "address": "Partenija Zografski 34, Skopje 1000, North Macedonia",
+    "phone": "+38923126390"
+  },
+  {
+    "name": "Old Balkan National Restaurant",
+    "address": "Maksim Gorki 18, Skopje 1000, North Macedonia",
+    "phone": "+38923200099"
+  },
+  {
+    "name": "Delicio",
+    "address": "MK, Boulevard Mitropolit Teodosij Gologanov 79, Skopje 1000, North Macedonia",
+    "phone": "+38972306198"
+  },
+  {
+    "name": "Street Food",
+    "address": "Gradishte, 14, Skopje 1000, North Macedonia",
+    "phone": "+38923212111"
+  },
+  {
+    "name": "Kaj Dule",
+    "address": "MK Zivko MK, Zhivko Chingo 1, Skopje 1000, North Macedonia",
+    "phone": "+38923121312"
+  },
+  {
+    "name": "Craft",
+    "address": "Teodosie Gologanov no 63 nearby Alumina, Mitropolit Teodosij Gologanov, Skopje 1000, North Macedonia",
+    "phone": "+38923296415"
+  },
+  {
+    "name": "RESTAURANT LUXOR - LUKSOR ÇARŞIJA",
+    "address": "Лондонска 12a, Skopje 1000, North Macedonia",
+    "phone": "+38923071200"
+  },
+  {
+    "name": "Restaurant „Shkupi“ (Skopje)",
+    "address": "Nikola Trimpare broj 8 lokal 2 Skopje MK, 1000, North Macedonia",
+    "phone": "+38975260026"
+  },
+  {
+    "name": "Restaurant „Saraevo“",
+    "address": "MK, Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+38978887733"
+  },
+  {
+    "name": "MILO fine dining",
+    "address": "Kej, Skopje, North Macedonia",
+    "phone": "+38970890606"
+  },
+  {
+    "name": "Nod Healthy Food Skopje",
+    "address": "Blvd. Partizanski Odredi, Skopje 1000, North Macedonia",
+    "phone": "+38923071804"
+  },
+  {
+    "name": "Teteks 2",
+    "address": "MK, Orce Nikolov 105, Skopje 1000, North Macedonia",
+    "phone": "+38975438148"
+  },
+  {
+    "name": "Skopje City Mall",
+    "address": "ul.2 br.6, Saraj, Skopje 1000, North Macedonia",
+    "phone": "+38922042452"
+  },
+  {
+    "name": "Ramstore Shopping Center",
+    "address": "11th October St. 1000, Skopje 1000, North Macedonia",
+    "phone": "1110001000"
+  },
+  {
+    "name": "Shopping Center City Gallery",
+    "address": "MK MK, Boulevard Jane Sandanski 71A, Skopje 1000, North Macedonia",
+    "phone": "+38922460045"
+  },
+  {
+    "name": "Shopping center „Saraj“",
+    "address": "Nikola Rusinski 15, Skopje 1000, Skopje 1000, North Macedonia",
+    "phone": "1510001000"
+  },
+  {
+    "name": "City Trade Center",
+    "address": "Ljubljanska 4, Skopje 1000, North Macedonia",
+    "phone": "+38923217012"
+  },
+  {
+    "name": "Shopping center „Capitol Mall“",
+    "address": "Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+38970236527"
+  },
+  {
+    "name": "Shopping center „Vero“",
+    "address": "Boulevard Jane Sandanski 69, Skopje 1000, North Macedonia",
+    "phone": "+38922444442"
+  },
+  {
+    "name": "Shopping center „Biser“",
+    "address": "Ss Cyril & Methodius 13, Skopje 1000, North Macedonia",
+    "phone": "+38923178030"
+  },
+  {
+    "name": "Shopping center „Karpoš 3“",
+    "address": "Belasitsa 2, Skopje 1000, North Macedonia",
+    "phone": "+38971381454"
+  },
+  {
+    "name": "Shopping center „Avtokomanda“",
+    "address": "Sv. Kiril i Metodij, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Shopping center „Zebra“",
+    "address": "Trgovski Centar Zivko Brajkovski, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Shopping Center Soravia",
+    "address": "Blvd. Partizanski Odredi 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Shopping center „Point Retail Park“",
+    "address": "Vasil Gjorgov 21, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hima Shop",
+    "address": "Boulevard Krste Petkov Misirkov, Skopje 1000, North Macedonia",
+    "phone": "+38977941503"
+  },
+  {
+    "name": "Shopping Center SP Planet",
+    "address": "Pere Toshev 66, Skopje 1000, North Macedonia",
+    "phone": "+38970383967"
+  },
+  {
+    "name": "Shopping Center „July 26“",
+    "address": "Gjorche Petrov b.b., Skopje 1000, North Macedonia",
+    "phone": "+38922050409"
+  },
+  {
+    "name": "Shopping center „Mavrovka“",
+    "address": "Пат за Љубин, Skopje 1000, Skopie 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Getaldus - City Trade Center",
+    "address": "Blv MK, Makedonsko Kosovska Brigada 67, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Trgovski centar „Kapištec“",
+    "address": "MK, Boulevard Vidoe Smilevski Bato 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Shopping center „Butel“",
+    "address": "Philip II of Macedon, 3 1000, Skopje 1000, North Macedonia",
+    "phone": "310001000"
+  },
+  {
+    "name": "RINAS (ilcammino)",
+    "address": "Jani Lukrovski, Skopje 1000, North Macedonia",
+    "phone": "+38971308245"
+  },
+  {
+    "name": "Аџико Хоум Центар Скопје",
+    "address": "Vasil Gjorgov 16, Skopje 1000, North Macedonia",
+    "phone": "+38970213249"
+  },
+  {
+    "name": "Old Bazaar",
+    "address": "MK MK, Boulevard Ilinden 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Stone Bridge",
+    "address": "Кеј Димитар Влахов 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Memorial House of Mother Teresa",
+    "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Millennium Cross",
+    "address": "11-ти Март 11 March, Skopje 1000, North Macedonia",
+    "phone": "11111000"
+  },
+  {
+    "name": "Archaeological Museum of the Republic of Macedonia",
+    "address": "MK, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Skopje Zoo",
+    "address": "Samoilova, Skopje 1000, North Macedonia",
+    "phone": "+38923129323"
+  },
+  {
+    "name": "Feudal Tower",
+    "address": "Veniamin Machukovski 21/2-21, Skopje 1000, North Macedonia",
+    "phone": "212211000"
+  },
+  {
+    "name": "Canyon Matka",
+    "address": "Str, Angel Vinichki 5D, Skopje 1000, North Macedonia",
+    "phone": "+38978290935"
+  },
+  {
+    "name": "Museum of the City of Skopje",
+    "address": "Samoilova, Skopje 1000, North Macedonia",
+    "phone": "+38975235782"
+  },
+  {
+    "name": "Macedonian Holocaust Museum",
+    "address": "Ljubljanska 4, Skopje 1000, North Macedonia",
+    "phone": "+38923217012"
+  },
+  {
+    "name": "History Museum & Academy of Arts „Suli An“",
+    "address": "ul.1519 br.7 Skopje MK, 1000, North Macedonia",
+    "phone": "151971000"
+  },
+  {
+    "name": "Museum of Contemporary Art",
+    "address": "Angel Vinichki 5a, Skopje 1000, North Macedonia",
+    "phone": "+38978290935"
+  },
+  {
+    "name": "Museum of the Republic of Macedonia",
+    "address": "Kamnik bb Skopje MK, 1000, North Macedonia",
+    "phone": "+38922521789"
+  },
+  {
+    "name": "Mustafa Paša",
+    "address": "Old Bazaar, Salih Asim 76, Skopje 1000, North Macedonia",
+    "phone": "+38970319301"
+  },
+  {
+    "name": "Park Woman - Warrior aka Žena Borec Park",
+    "address": "Macedonia bb, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Kuršumli An",
+    "address": "MK, Boulevard 8-mi Septemvri 13, Skopje 1000, North Macedonia",
+    "phone": "+38976361185"
+  },
+  {
+    "name": "Skopje",
+    "address": "Macedonia Square, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "The Bridge of Art Skopje",
+    "address": "Ankarska 23, Skopje 1000, North Macedonia",
+    "phone": "+38972260041"
+  },
+  {
+    "name": "Monument „Alexander the Great Macedonian“",
+    "address": "Boulevard Jane Sandanski, Skopje 1000, North Macedonia",
+    "phone": "+38976304009"
+  },
+  {
+    "name": "Macedonia Square",
+    "address": "Macedonia Square Скопје MK, 1000, North Macedonia",
+    "phone": "+38971385939"
+  },
+  {
+    "name": "Sredno Vodno",
+    "address": "Mariovska, Skopje 1000, North Macedonia",
+    "phone": "+38972209606"
+  },
+  {
+    "name": "The Bridge of Civilisations in Macedonia",
+    "address": "Borka Talevski 12, Skopje 1000, North Macedonia",
+    "phone": "+38975968684"
+  },
+  {
+    "name": "Vodno",
+    "address": "Vardar River, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Dimitrija Chupovski Monument",
+    "address": "Atanas Babata, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Free Skopje Walking Tours",
+    "address": "Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+79131000"
+  },
+  {
+    "name": "The Cube Escape Room Saw , Indiana Jones",
+    "address": "Daut Pasin Hamam, Boulevard Goce Delchev, Skopje 1000, North Macedonia",
+    "phone": "+38923133102"
+  },
+  {
+    "name": "Park „Aerodrom“",
+    "address": "Blvd. Partizanski Odredi 17, Skopje 1000, North Macedonia",
+    "phone": "+38923227450"
+  },
+  {
+    "name": "St. Panteleimon",
+    "address": "Atanas Babata, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Winery „Kamnik“",
+    "address": "Kjurchiska 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Стар град",
+    "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+    "phone": "+38923297204"
+  },
+  {
+    "name": "Winery „Kartal“",
+    "address": "P.O. Box 482, Samoilova, Skopje 1000, North Macedonia",
+    "phone": "+38923117734"
+  },
+  {
+    "name": "Skopje City Mall",
+    "address": "Ss Cyril & Methodius 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Skopje Daily Tours",
+    "address": "Iljo Vojvoda Br. 2, Skopje 1000, North Macedonia",
+    "phone": "+38923122697"
+  },
+  {
+    "name": "Case Closed Escape Room",
+    "address": "VStreet 1;Village Matka, Village Matka 1000, North Macedonia",
+    "phone": "+38970271900"
+  },
+  {
+    "name": "White House",
+    "address": "Dimitar Ilievski - Murato 20, Bitola 7000, North Macedonia",
+    "phone": "+38947225225"
+  },
+  {
+    "name": "Hotel Boulevard",
+    "address": "MK MK, Brakja Mingovi 26, Bitola 7000, North Macedonia",
+    "phone": "+38971246255"
+  },
+  {
+    "name": "Grand Central Hotel",
+    "address": "Sts. Cyril and Methodius 15, Bitola, North Macedonia",
+    "phone": "+38976633444"
+  },
+  {
+    "name": "White House",
+    "address": "Marx and Engels 2, Bitola 7000, North Macedonia",
+    "phone": "+38970332678"
+  },
+  {
+    "name": "Hotel Teatar",
+    "address": "MK, Stiv Naumov 12, Bitola 7000, North Macedonia",
+    "phone": "+38947202070"
+  },
+  {
+    "name": "Premier Centar",
+    "address": "Dimitar Ilievski - Murato 20, Bitola 7000, North Macedonia",
+    "phone": "+38947225225"
+  },
+  {
+    "name": "Robevski Luxury Rooms",
+    "address": "Stiv Naumov 35, Bitola 7000, North Macedonia",
+    "phone": "+38947610188"
+  },
+  {
+    "name": "Hotel Korzo",
+    "address": "Shirok Sokak 61, Bitola 7000, North Macedonia",
+    "phone": "+38975349199"
+  },
+  {
+    "name": "Ciflik Winery",
+    "address": "2 br.18 Brusnik, Bitola, North Macedonia",
+    "phone": "+38978305369"
+  },
+  {
+    "name": "Stone Bridge Apartments",
+    "address": "Dihovo, dihovo, Bitola 7000, North Macedonia",
+    "phone": "+38976697909"
+  },
+  {
+    "name": "Ambassador",
+    "address": "MARSHAL TITO BB, n/a Bitola NPP MK, 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Boulevard",
+    "address": "MK, Dolno Dupeni 7310, North Macedonia",
+    "phone": "+38972234837"
+  },
+  {
+    "name": "Somnia Apartments",
+    "address": "MK, Makedonska Falanga 23, Bitola 7000, North Macedonia",
+    "phone": "+38970273751"
+  },
+  {
+    "name": "Chola Guest House",
+    "address": "MK, Pitu Guli 28, Bitola 7000, North Macedonia",
+    "phone": "+38977661026"
+  },
+  {
+    "name": "Hotel & Winery Lozar",
+    "address": "Jorgo's Stone, Dihovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Magnolija Apartments",
+    "address": "Filip II Makedonski 70, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Kiko",
+    "address": "MK, Roosevelt 34, Bitola 7000, North Macedonia",
+    "phone": "+38971375324"
+  },
+  {
+    "name": "Ema Apartments",
+    "address": "Partizanska 34, Bitola 7000, North Macedonia",
+    "phone": "+38975295877"
+  },
+  {
+    "name": "Millenium Travel Apartments",
+    "address": "Village, Brajchino 7318, North Macedonia",
+    "phone": "+38970507367"
+  },
+  {
+    "name": "Hotel & Restaurant Kapri",
+    "address": "Marx and Engels 7, Bitola 7000, North Macedonia",
+    "phone": "+38947232309"
+  },
+  {
+    "name": "Via Apartments",
+    "address": "Ilindenska 240, Bitola 7000, North Macedonia",
+    "phone": "+38978269380"
+  },
+  {
+    "name": "Ema Apartments",
+    "address": "MK MK, Kavala 6 Bitola 7000, Bitola 7000, North Macedonia",
+    "phone": "670007000"
+  },
+  {
+    "name": "Goldy Hostel",
+    "address": "Partizanska 2, Bitola 7000, North Macedonia",
+    "phone": "+38978253333"
+  },
+  {
+    "name": "Villa Konzuli",
+    "address": "Tomaki Dimitrovski, Bitola 7000, North Macedonia",
+    "phone": "+38947612800"
+  },
+  {
+    "name": "Domestika Hostel",
+    "address": "MK, Kravarski Pat bb, Bitola 7000, North Macedonia",
+    "phone": "+38975338611"
+  },
+  {
+    "name": "Orion complex Apartment 3",
+    "address": "MK, Jorgo's Stone, Bitola 7000, North Macedonia",
+    "phone": "+38975202924"
+  },
+  {
+    "name": "Theatre Old Town House",
+    "address": "27th of March 10, Bitola 7000, North Macedonia",
+    "phone": "27107000"
+  },
+  {
+    "name": "Citalna Rooms",
+    "address": "Keops Center, Vasko Karanǵelevski 31, Bitola 7000, North Macedonia",
+    "phone": "+38947609399"
+  },
+  {
+    "name": "Apartments Saat Kula",
+    "address": "11th of October 4, Bitola 7000, North Macedonia",
+    "phone": "+38947251632"
+  },
+  {
+    "name": "Ristevski Apartment",
+    "address": "Trnovo, Bitola 7000, North Macedonia",
+    "phone": "+38970207007"
+  },
+  {
+    "name": "Hotel Epinal",
+    "address": "c.Трново Пелистер, Bitola 7000, North Macedonia",
+    "phone": "+38947293409"
+  },
+  {
+    "name": "Hotel Sumski Feneri",
+    "address": "Shirok Sokak 46, Bitola 7000, North Macedonia",
+    "phone": "+38947241001"
+  },
+  {
+    "name": "Vila Ambasador",
+    "address": "Begova Cesma PF 110, National Park Pelister, Pelister p.fah 110, Bitola 7000, North Macedonia",
+    "phone": "1101107000"
+  },
+  {
+    "name": "Millenium Palace",
+    "address": "Pece Matichevski 15, Bitola 7000, North Macedonia",
+    "phone": "+38947224777"
+  },
+  {
+    "name": "Villa Serz",
+    "address": "506, Bitola 7000, North Macedonia",
+    "phone": "+38975434859"
+  },
+  {
+    "name": "Camp Ambasador",
+    "address": "Petar Petrovikj Njegosh, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Keops",
+    "address": "MK, Stiv Naumov 49a, Bitola 7000, North Macedonia",
+    "phone": "+38947610188"
+  },
+  {
+    "name": "Vila Piradima",
+    "address": "s. Trnovo, Bitola 7000, North Macedonia",
+    "phone": "+38947293030"
+  },
+  {
+    "name": "Hotel Viktorija",
+    "address": "Shirok Sokak 101, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Villa Diamond",
+    "address": "Ignjat Atanasovski 25а/3, Bitola 7000, North Macedonia",
+    "phone": "+38970631617"
+  },
+  {
+    "name": "Gala Garden",
+    "address": "Ivo Lola Ribar, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "BaRoom",
+    "address": "Tomaki Dimitrovski 37a, Bitola 7000, North Macedonia",
+    "phone": "+38978803381"
+  },
+  {
+    "name": "Voyage",
+    "address": "Crvena Voda 1d, Bitola, North Macedonia",
+    "phone": "+38977551731"
+  },
+  {
+    "name": "Hotel Villa Grand Bitola",
+    "address": "Slavko Lumbarko, Bitola 7000, North Macedonia",
+    "phone": "+38947613421"
+  },
+  {
+    "name": "Tokin House",
+    "address": "Elpida Karamandi 4, Bitola 7000, North Macedonia",
+    "phone": "+38975246261"
+  },
+  {
+    "name": "XXL APARTAMENT CITY CENTAR",
+    "address": "Pece Matichevski no.75, Bitola 7000, North Macedonia",
+    "phone": "+38947203333"
+  },
+  {
+    "name": "Marija Apartments",
+    "address": "Shirok Sokak 37, Bitola 7000, North Macedonia",
+    "phone": "+38976892911"
+  },
+  {
+    "name": "Modern Penthouse Duplex Apartment",
+    "address": "Crvena Voda 1d, Bitola, North Macedonia",
+    "phone": "+38977551731"
+  },
+  {
+    "name": "Bakery Filip",
+    "address": "11-ta Makedonska Divizija 1, Bitola 7000, North Macedonia",
+    "phone": "+38978269071"
+  },
+  {
+    "name": "Rest",
+    "address": "1-vi Maj Boulevard 24, Bitola, North Macedonia",
+    "phone": "+38947454560"
+  },
+  {
+    "name": "Villa ORKA - Pelister Forest zone",
+    "address": "Stiv Naumov 80, Bitola 7000, North Macedonia",
+    "phone": "+38975522555"
+  },
+  {
+    "name": "Epinal Spa& Casino",
+    "address": "Marsal Tito 52, Bitola 7000, North Macedonia",
+    "phone": "+38977584011"
+  },
+  {
+    "name": "Villa Kostovski",
+    "address": "Belgradska 4, Bitola 7000, North Macedonia",
+    "phone": "+38947225623"
+  },
+  {
+    "name": "Vila Ilinden 1903",
+    "address": "Shirok Sokak 116, Bitola 7000, North Macedonia",
+    "phone": "+38971244243"
+  },
+  {
+    "name": "Villa LivaE",
+    "address": "Marsal Tito, Bitola, North Macedonia",
+    "phone": "+38977814815"
+  },
+  {
+    "name": "Villa Patele",
+    "address": "Shirok Sokak 126, Bitola 7000, North Macedonia",
+    "phone": "+38947221400"
+  },
+  {
+    "name": "Villa Lila",
+    "address": "Solunska 237, Bitola, North Macedonia",
+    "phone": "+38975866710"
+  },
+  {
+    "name": "Belvedere",
+    "address": "7000,, Veleshka, Bitola 7000, North Macedonia",
+    "phone": "70007000"
+  },
+  {
+    "name": "Jagoda Meze Bar",
+    "address": "Ulica Dovledzik 81 V, Bitola, Bitola 7000, North Macedonia",
+    "phone": "+38975943624"
+  },
+  {
+    "name": "Ravenna",
+    "address": "Ivo Lola Ribar 24, Bitola 7000, North Macedonia",
+    "phone": "+38970207268"
+  },
+  {
+    "name": "Kus Kus",
+    "address": "Shirok Sokak 37, Bitola 7000, North Macedonia",
+    "phone": "+38947620062"
+  },
+  {
+    "name": "Villa Molika",
+    "address": "Shirok Sokak 154, Bitola 7000, North Macedonia",
+    "phone": "+38947203030"
+  },
+  {
+    "name": "Lounge Bar Manaki",
+    "address": "Roosevelt 17, Bitola 7000, North Macedonia",
+    "phone": "+38947212121"
+  },
+  {
+    "name": "Pepsito",
+    "address": "MK, Shirok Sokak 37, Bitola 7000, North Macedonia",
+    "phone": "+38947227744"
+  },
+  {
+    "name": "Restoran Vavilon",
+    "address": "2-A MK, 7000, North Macedonia",
+    "phone": "+38947222603"
+  },
+  {
+    "name": "Vino bar Bure",
+    "address": "Shirok Sokak 89, Bitola, North Macedonia",
+    "phone": "+38947552257"
+  },
+  {
+    "name": "Корзо",
+    "address": "Прилепска, Bitola, North Macedonia",
+    "phone": "+38975294746"
+  },
+  {
+    "name": "Градска Кафеана",
+    "address": "Vasko Karanǵelevski 3, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Pizza Verona",
+    "address": "Shirok Sokak, Bitola 7000, North Macedonia",
+    "phone": "+38975658810"
+  },
+  {
+    "name": "Restoran Dion",
+    "address": "Vasko Karanǵelevski 3, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Pizza Metro",
+    "address": "Bulevar 1-vi Maj 227, Bitola 7000, North Macedonia",
+    "phone": "12277000"
+  },
+  {
+    "name": "Папараци 2",
+    "address": "MK, Krume Kepeski 54, Bitola 7000, North Macedonia",
+    "phone": "+38978325977"
+  },
+  {
+    "name": "Sisters",
+    "address": "Shirok Sokak 102, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Гостилница Бриони",
+    "address": "City Promenade, Bitola 7000, North Macedonia",
+    "phone": "+38947222977"
+  },
+  {
+    "name": "Pizza Bure",
+    "address": "Mosha Pijade 15, Bitola, North Macedonia",
+    "phone": "+38978293740"
+  },
+  {
+    "name": "Pizza Restaurant Treff",
+    "address": "MK, Nikola Tesla 42, Bitola 7000, North Macedonia",
+    "phone": "+38975972774"
+  },
+  {
+    "name": "Meze Bar Dionis",
+    "address": "Progress, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Путник",
+    "address": "Mosha Pijade, Bitola, North Macedonia",
+    "phone": "+38976808311"
+  },
+  {
+    "name": "Скара на кило „Аце“",
+    "address": "St Celement of Ohrid, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Restoran Adriatik",
+    "address": "Blagojche Siljanovski 32, Bitola, North Macedonia",
+    "phone": "+38979225714"
+  },
+  {
+    "name": "Chitalna",
+    "address": "Shirok Sokak 87, Bitola 7000, North Macedonia",
+    "phone": "+38947231070"
+  },
+  {
+    "name": "Garden Image",
+    "address": "Prilepska 32, Bitola, North Macedonia",
+    "phone": "+38947550643"
+  },
+  {
+    "name": "Аражок",
+    "address": "Lazo Trpovski 7, Bitola 7000, North Macedonia",
+    "phone": "+38974235411"
+  },
+  {
+    "name": "Zezo",
+    "address": "Мечкин Камен, Bitola 7000, North Macedonia",
+    "phone": "+38947550410"
+  },
+  {
+    "name": "Mac Dac Pizzeria",
+    "address": "Makedonska Falanga 8, Bitola 7000, North Macedonia",
+    "phone": "+38970312431"
+  },
+  {
+    "name": "Zelen Raj",
+    "address": "Aleksandar Turundzhev 64, Bitola 7000, North Macedonia",
+    "phone": "+38977698080"
+  },
+  {
+    "name": "Restaurant Kiko",
+    "address": "Brusnichki Pat, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel & Restaurant Kapri",
+    "address": "Булевар 1-ви мај бб, Bitola 7000, North Macedonia",
+    "phone": "+38947242200"
+  },
+  {
+    "name": "Mia Fillia",
+    "address": "Автобуска Постојка Веро, Vasko Karanǵelevski, Bitola, North Macedonia",
+    "phone": "+38977906062"
+  },
+  {
+    "name": "Imperator",
+    "address": "Sheralti б.б, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Foody",
+    "address": "Kole Nedelkovski, Bitola 7000, North Macedonia",
+    "phone": "+38947237774"
+  },
+  {
+    "name": "Ќебапчилница Жежо",
+    "address": "City Promenade, Bitola 7000, North Macedonia",
+    "phone": "+38947612451"
+  },
+  {
+    "name": "Bombata",
+    "address": "Belgradska 41, Bitola, North Macedonia",
+    "phone": "+38970207879"
+  },
+  {
+    "name": "Corner",
+    "address": "Selo Radnja, Bitola, North Macedonia",
+    "phone": "+38975260605"
+  },
+  {
+    "name": "Goldina",
+    "address": "Pece Matichevski, Bitola, North Macedonia",
+    "phone": "+38975533344"
+  },
+  {
+    "name": "Trajce Bezisten",
+    "address": "MK, Stiv Naumov 12, Bitola 7000, North Macedonia",
+    "phone": "+38947202070"
+  },
+  {
+    "name": "TAKE AWAY",
+    "address": "General vasko karangelevski 97 MK, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Grilled chicken",
+    "address": "Sts. Cyril and Methodius, Bitola, North Macedonia",
+    "phone": "+38947208033"
+  },
+  {
+    "name": "Burger - Station",
+    "address": "Brakja Mingovi 21, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "ElysiuM Kitchen & Bar",
+    "address": "Краварски Пат bb, Битола 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Pizza Bibs",
+    "address": "Sv. Nektarij Bitolski, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Ljube",
+    "address": "Меѓуградска автобуска станица, Nikola Tesla б.б, Bitola 7000, North Macedonia",
+    "phone": "+38947224666"
+  },
+  {
+    "name": "Sweet Donuts",
+    "address": "Filip II Makedonski, Bitola, North Macedonia",
+    "phone": "+38947609329"
+  },
+  {
+    "name": "Сарајевски Чевап Плус",
+    "address": "Marsal Tito 88, Bitola, North Macedonia",
+    "phone": "+38947230990"
+  },
+  {
+    "name": "Mickey pizza",
+    "address": "MK MK, Stolarska 1, Bitola 7000, North Macedonia",
+    "phone": "+38979240247"
+  },
+  {
+    "name": "Gostilnica Merak",
+    "address": "Keops Center, Vasko Karanǵelevski 31, Bitola 7000, North Macedonia",
+    "phone": "+38947620520"
+  },
+  {
+    "name": "Гостилница Сокак",
+    "address": "I. Gjokan 13, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "SN Bar Restaurant",
+    "address": "Dalmatinska, Bitola, North Macedonia",
+    "phone": "+38947208000"
+  },
+  {
+    "name": "Bagetto",
+    "address": "Vasko Karanǵelevski, Bitola 7000, North Macedonia",
+    "phone": "+38976258377"
+  },
+  {
+    "name": "Кај Драги",
+    "address": "Kopanki 6, Bitola, North Macedonia",
+    "phone": "+38978354533"
+  },
+  {
+    "name": "Bon Tacos",
+    "address": "Mihail Apostolski Donco, Bitola 7000, North Macedonia",
+    "phone": "+38975430036"
+  },
+  {
+    "name": "Kaj Cane Bokserot (POHK)",
+    "address": "Marsal Tito 55, Bitola 7000, North Macedonia",
+    "phone": "+38978622600"
+  },
+  {
+    "name": "GT Caffe",
+    "address": "1-vi Maj Boulevard 154, Bitola, North Macedonia",
+    "phone": "+38971334334"
+  },
+  {
+    "name": "Pizza Sweden",
+    "address": "Sports Arena Mladost, Polygon BB, Bitola 7000 MK, Bitola 7000, North Macedonia",
+    "phone": "70007000"
+  },
+  {
+    "name": "7ka Skara na Zhar",
+    "address": "Новосадска 18, Bitola, North Macedonia",
+    "phone": "+38975336292"
+  },
+  {
+    "name": "Kalimero Food",
+    "address": "27th of March, Bitola 7000, North Macedonia",
+    "phone": "28+25277000"
+  },
+  {
+    "name": "Sandwiches Miki",
+    "address": "Прилепска 54, Bitola, North Macedonia",
+    "phone": "+38975362019"
+  },
+  {
+    "name": "Ќебапчилница Кај Баце",
+    "address": "Brakja Mingovi 26, Bitola, North Macedonia",
+    "phone": "+38971242601"
+  },
+  {
+    "name": "Luxe Lounge Bitola",
+    "address": "Vasko Karangeleski bb lok.32 Bitola MK, 7000, North Macedonia",
+    "phone": "+38978220397"
+  },
+  {
+    "name": "СУНГЕРО",
+    "address": "Stolarska, Bitola, North Macedonia",
+    "phone": "+38977391999"
+  },
+  {
+    "name": "Pizza Bibs",
+    "address": "MK, Todor Skalovski 8, Bitola 7000, North Macedonia",
+    "phone": "+38970211851"
+  },
+  {
+    "name": "Pizza One Place - Kaj Maceto",
+    "address": "Dimitar Ilievski - Murato 40, Bitola 7000, North Macedonia",
+    "phone": "+38978329063"
+  },
+  {
+    "name": "Premier Centar",
+    "address": "Bezisten, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Porta Jazz",
+    "address": "Ignjat Atanasovski b.b., Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Balux",
+    "address": "7000, Dimitar Ilievski - Murato, Bitola 7000, North Macedonia",
+    "phone": "70007000"
+  },
+  {
+    "name": "Кебапчилница Кај Сашо",
+    "address": "City Promenade, Bitola, North Macedonia",
+    "phone": "+38947226838"
+  },
+  {
+    "name": "Kondor",
+    "address": "Sv. Nektarij Bitolski, Bitola 7000, North Macedonia",
+    "phone": "+38972253418"
+  },
+  {
+    "name": "Кaj Пaнoтo",
+    "address": "B.B., Bitola 7000, North Macedonia",
+    "phone": "+38947222971"
+  },
+  {
+    "name": "Corbadzii (Чорбаџии)",
+    "address": "Partizanska 16, Bitola 7000, Bitola 7000, North Macedonia",
+    "phone": "1670007000"
+  },
+  {
+    "name": "Rudo Jagne",
+    "address": "Железничка Станица Битола, MK, Никола Тесла б.б. Битола 7000, North Macedonia",
+    "phone": "+38976458840"
+  },
+  {
+    "name": "Ciflig Bitola",
+    "address": "11-ta Makedonska Divizija 1, Bitola 7000, North Macedonia",
+    "phone": "+38978269071"
+  },
+  {
+    "name": "Pizza Spalato",
+    "address": "Zaharija sumjanska 13 Bitola MK, 7000, North Macedonia",
+    "phone": "+38977694719"
+  },
+  {
+    "name": "Ресторант Атриум",
+    "address": "Aleksandar Turundzhev 10, Bitola, North Macedonia",
+    "phone": "+38947232292"
+  },
+  {
+    "name": "Stifi",
+    "address": "Vasko Karanǵelevski, Bitola, North Macedonia",
+    "phone": "+38947610321"
+  },
+  {
+    "name": "Umami Dot Bitola",
+    "address": "b.b. Novachki Pat, Bitola 7000, North Macedonia",
+    "phone": "+38947234734"
+  },
+  {
+    "name": "Alka",
+    "address": "Vladimir Nazor, Bitola, North Macedonia",
+    "phone": "+38975643800"
+  },
+  {
+    "name": "Клуб на новинари - Битола",
+    "address": "Marsal Tito 95, Bitola, North Macedonia",
+    "phone": "+38971312135"
+  },
+  {
+    "name": "Чебрен",
+    "address": "nas MK, Ilco Stojanovski b.b, Bitola 7000, North Macedonia",
+    "phone": "+38947227510"
+  },
+  {
+    "name": "Cafe Pajton",
+    "address": "Nikola Tesla 47, Bitola, North Macedonia",
+    "phone": "+38947235200"
+  },
+  {
+    "name": "Royal Sendvicara",
+    "address": "Nikola Tesla 165, Bitola, North Macedonia",
+    "phone": "+38947222126"
+  },
+  {
+    "name": "Ничија ЗЕМЈА",
+    "address": "Ul.Vasko Karangelevski BB Nov Trgovski Centar MK, Vasko Karanǵelevski, Bitola 7000, North Macedonia",
+    "phone": "+38947220021"
+  },
+  {
+    "name": "The Adams burger coffee",
+    "address": "Vlatko Milenkoski 7, Bitola, North Macedonia",
+    "phone": "+38975453774"
+  },
+  {
+    "name": "Meat Master BBQ & Fit Meals",
+    "address": "MK, Shirok Sokak 126, Bitola 7000, North Macedonia",
+    "phone": "+38976355702"
+  },
+  {
+    "name": "Бујрум",
+    "address": "Shirok Sokak 88, Bitola 7000, North Macedonia",
+    "phone": "+38947225522"
+  },
+  {
+    "name": "Лесковачка Скара",
+    "address": "Sv. Nektarij Bitolski, Bitola, North Macedonia",
+    "phone": "+38976342012"
+  },
+  {
+    "name": "Meze Bar 102",
+    "address": "MK, Nov pazar, Bitola 7000, North Macedonia",
+    "phone": "+38947612586"
+  },
+  {
+    "name": "Taverna Spitiko",
+    "address": "Shirok Sokak 18, Bitola 7000, North Macedonia",
+    "phone": "+38947234288"
+  },
+  {
+    "name": "The Glass Trade Center",
+    "address": "Dobrivoe Radosavljevikj 3, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Jumbo",
+    "address": "Aleksandar Turundzhev, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Keops",
+    "address": "Selo Radnja, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "LC Waikiki",
+    "address": "Prilepska, Bitola, North Macedonia",
+    "phone": "+38947242132"
+  },
+  {
+    "name": "Magaza",
+    "address": "Ignjat Atanasovski, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Mega Aroma, Spring Center",
+    "address": "27th of March б.б., Bitola 7000, North Macedonia",
+    "phone": "+38947233187"
+  },
+  {
+    "name": "Градски Пазар",
+    "address": "Shirok Sokak б.б., Bitola 7000, North Macedonia",
+    "phone": "+38947258288"
+  },
+  {
+    "name": "Boutique Filip",
+    "address": "MK, Shirok Sokak, Bitola 7000, North Macedonia",
+    "phone": "+38947255955"
+  },
+  {
+    "name": "Vero",
+    "address": "Keops Center, Vasko Karanǵelevski, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "GARDEN CENTAR STOSIC",
+    "address": "Filip II Makedonski 52, Bitola 7000, North Macedonia",
+    "phone": "+38975276488"
+  },
+  {
+    "name": "Green Garden Centar",
+    "address": "MK, Vladimir Nazor 14, Bitola 7000, North Macedonia",
+    "phone": "+38976266300"
+  },
+  {
+    "name": "Shopping center „Mavrovka“",
+    "address": "Midhi Kostani Street Retail Park Bitola Javor Mall Ground Floor, 7000, North Macedonia",
+    "phone": "+3894444529"
+  },
+  {
+    "name": "Skopje City Mall",
+    "address": "Jorgo Osmano, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "КУМ",
+    "address": "MK, Todor Panica B.B, Bitola 7000, North Macedonia",
+    "phone": "+38978349766"
+  },
+  {
+    "name": "LC Waikiki",
+    "address": "Ljubljanska 4, Skopje 1000, North Macedonia",
+    "phone": "+38923217012"
+  },
+  {
+    "name": "Javor Trade Center",
+    "address": "Boulevard Krste Petkov Misirkov, Skopje 1000, North Macedonia",
+    "phone": "+38977941503"
+  },
+  {
+    "name": "NI Institute and Museum Bitola",
+    "address": "Boulevard 1st of May b.b., Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Clock Tower, Bitola",
+    "address": "Shirok Sokak b.b., Bitola 7000, North Macedonia",
+    "phone": "+38947221915"
+  },
+  {
+    "name": "Bitola Zoo",
+    "address": "Саат Кула, Jorgo Osmano, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Ancient Macedonian City Heraclea Lyncestis",
+    "address": "Makedonska Falanga, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Isak Chelebi Mosque, Bitola",
+    "address": "City Promenade, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "House of the Army",
+    "address": "Jorgo Osmano, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "National Park „Pelister“",
+    "address": "St Clement of Ohrid BB, Bitola 7000, North Macedonia",
+    "phone": "+38947233187"
+  },
+  {
+    "name": "City Park",
+    "address": "Tumbe Kafe b.b., Bitola 7000, North Macedonia",
+    "phone": "+38947222956"
+  },
+  {
+    "name": "Ciflik Winery",
+    "address": "BB, Bitola 7000, North Macedonia",
+    "phone": "+38947222971"
+  },
+  {
+    "name": "St. Demetrius of Solun",
+    "address": "Selo Radnja, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Bitola",
+    "address": "Filip II Makedonski b.b., Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Jorgov kamen",
+    "address": "Pelister, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "НУ Центар за култура - Битола",
+    "address": "Kaneo Plaosnik Pateka, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "„Plaoshnik“",
+    "address": "2 br.18 Brusnik, Bitola, North Macedonia",
+    "phone": "+38978305369"
+  },
+  {
+    "name": "Haydar Kadı Mosque",
+    "address": "11th of October 1, Bitola 7000, North Macedonia",
+    "phone": "+38947241607"
+  },
+  {
+    "name": "Olympic Swimming Pool",
+    "address": "MK, Shirok Sokak bb, Bitola 7000, North Macedonia",
+    "phone": "+38947233419"
+  },
+  {
+    "name": "Kumanovo Spa",
+    "address": "1st St, Kumanovo 1300, North Macedonia",
+    "phone": "+491779214945"
+  },
+  {
+    "name": "Hostel NAMA",
+    "address": "Kumanovska Banja Kumanovo, Republic of Macedonia MK, 1300, North Macedonia",
+    "phone": "+38970377272"
+  },
+  {
+    "name": "Hotel Mimoza",
+    "address": "Kozjacka 15, Kumanovo 1300, North Macedonia",
+    "phone": "+38970236562"
+  },
+  {
+    "name": "Harmony Hotel",
+    "address": "Str. Branko Bogdanovski-Gucman, No. 17, North Macedonia",
+    "phone": "+38931430434"
+  },
+  {
+    "name": "KOKINO Winery & Hotel",
+    "address": "MK, Dolno Kojnare 1300, North Macedonia",
+    "phone": "+38977987798"
+  },
+  {
+    "name": "Hotel Restaurant Harmonija",
+    "address": "Strasho Pindjur 23, Kumanovo 1300, North Macedonia",
+    "phone": "+38972311759"
+  },
+  {
+    "name": "Vila Kraljevski",
+    "address": "Nikshichka, Kumanovo 1300, North Macedonia",
+    "phone": "+38931413232"
+  },
+  {
+    "name": "Apartment Durmitor",
+    "address": "Ulica 100 1, Kumanovo, North Macedonia",
+    "phone": "+38931475999"
+  },
+  {
+    "name": "Apartment Cace",
+    "address": "Aegean Macedonia 25, Kumanovo 1300, North Macedonia",
+    "phone": "+38970334884"
+  },
+  {
+    "name": "Hotel „Green Hill“",
+    "address": "MK, Marshal Tito 35/2, Kumanovo 1300, North Macedonia",
+    "phone": "+38970236968"
+  },
+  {
+    "name": "Lav",
+    "address": "s. Proevce, Stara Banja, Kumanovo 1300, North Macedonia",
+    "phone": "+38972786590"
+  },
+  {
+    "name": "Apartmani Centar Kumanovo",
+    "address": "MK, Narodna Revolucija 59/3, Kumanovo 1300, North Macedonia",
+    "phone": "+38978870888"
+  },
+  {
+    "name": "Apartments in city center",
+    "address": "n.11, Agino Selo 1000, North Macedonia",
+    "phone": "+38978225503"
+  },
+  {
+    "name": "Motel Vila Vera",
+    "address": "AVNOJ 52A, Kumanovo 1300, North Macedonia",
+    "phone": "+38978416387"
+  },
+  {
+    "name": "Villa Just Outside Skopje",
+    "address": "Studena Voda 2a, Kumanovo 1300, North Macedonia",
+    "phone": "+38978425091"
+  },
+  {
+    "name": "Apartments „Vladan“",
+    "address": "Str. Zeleznicka, No. 13, Kumanovo, North Macedonia",
+    "phone": "+38931413999"
+  },
+  {
+    "name": "Restaurant Arcus",
+    "address": "Oktomvriska Revolucija, Kumanovo, North Macedonia",
+    "phone": "+38931433334"
+  },
+  {
+    "name": "Restoran Caruso",
+    "address": "Kasapski krug, Done Bozhinov 1300, Kumanovo 1300, North Macedonia",
+    "phone": "13001300"
+  },
+  {
+    "name": "Korner",
+    "address": "Dragan Stoparevikj, Kumanovo, North Macedonia",
+    "phone": "+38931425424"
+  },
+  {
+    "name": "Palace and Palace Garden",
+    "address": "Mosha Pijade 93, Kumanovo 1300, North Macedonia",
+    "phone": "+38970223010"
+  },
+  {
+    "name": "Gostilnica Doma",
+    "address": "R1204, Kumanovo, North Macedonia",
+    "phone": "+38978204187"
+  },
+  {
+    "name": "Pomodoro",
+    "address": "H. T. Karposh Kumanovo MK, 1300, North Macedonia",
+    "phone": "+38931428154"
+  },
+  {
+    "name": "Family Grill & Bar",
+    "address": "III-ta Makedonska Udarna Brigada 36/2, Kumanovo 1300, North Macedonia",
+    "phone": "+38972777023"
+  },
+  {
+    "name": "Kaj Baba Cana",
+    "address": "Done Bozhinov 51, Kumanovo, North Macedonia",
+    "phone": "+38978312081"
+  },
+  {
+    "name": "Etno selo Timčevski",
+    "address": "R1104 54, Kumanovo, North Macedonia",
+    "phone": "+38970494137"
+  },
+  {
+    "name": "New Vintage Lounge & Bar",
+    "address": "MK, Karl Marks, Kumanovo 1300, North Macedonia",
+    "phone": "+38970707753"
+  },
+  {
+    "name": "Гламур Градина",
+    "address": "Ilindenska 28, Kumanovo 1300, North Macedonia",
+    "phone": "+38977503373"
+  },
+  {
+    "name": "Holiday",
+    "address": "32-2, Пиринска Македонија, Kumanovo 1300, North Macedonia",
+    "phone": "+38978324897"
+  },
+  {
+    "name": "Babylon Restaurant & Bar",
+    "address": "Oktomvriska Revolucija 55, Kumanovo, North Macedonia",
+    "phone": "+38977508360"
+  },
+  {
+    "name": "Restaurant Drini",
+    "address": "E75, Kumanovo, North Macedonia",
+    "phone": "+38970211637"
+  },
+  {
+    "name": "Restaurant \"Bugjo\"",
+    "address": "Narodna Revolucija 80, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "U sokache",
+    "address": "UL, 11th of October BR.29, Kumanovo 1300, North Macedonia",
+    "phone": "11291300"
+  },
+  {
+    "name": "Ziko Fresh",
+    "address": "ul.21 8, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Galija",
+    "address": "11th of November, Kumanovo, North Macedonia",
+    "phone": "+38971655654"
+  },
+  {
+    "name": "City Chicken Official Kumanovo",
+    "address": "III-ta Makedonska Udarna Brigada, Kumanovo, North Macedonia",
+    "phone": "+38931411155"
+  },
+  {
+    "name": "Skara kaj Zhmara",
+    "address": "11th of October, Kumanovo, North Macedonia",
+    "phone": "+38971240024"
+  },
+  {
+    "name": "Caffe Pizzeria VERANDA",
+    "address": "Ilindenska 21, Kumanovo, North Macedonia",
+    "phone": "+38975509481"
+  },
+  {
+    "name": "Gostilnica \"Zlatno Pile\"",
+    "address": "Pero Chicho 1300, Kumanovo, North Macedonia",
+    "phone": "+38978367637"
+  },
+  {
+    "name": "Фрателис",
+    "address": "Leninova, Kumanovo 1300, North Macedonia",
+    "phone": "+38931488400"
+  },
+  {
+    "name": "Twins",
+    "address": "11th of October 50, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Uchilnica Bar & Kitchen",
+    "address": "III-ta Makedonska Udarna Brigada 36, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Faty Burger",
+    "address": "Karl Marks, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Bravo Kej",
+    "address": "Ljube Gachev 10, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Kobra",
+    "address": "MK, Narodna Revolucija br.98, Kumanovo 1300, North Macedonia",
+    "phone": "+38975286200"
+  },
+  {
+    "name": "DIAMOND Restaurant Kumanovo",
+    "address": "Ul MK, Narodna Revolucija br.1, Kumanovo 1300, North Macedonia",
+    "phone": "+38970309045"
+  },
+  {
+    "name": "Stone Revolution",
+    "address": "Доктор Рибар 29, Kumanovo, North Macedonia",
+    "phone": "+38970891919"
+  },
+  {
+    "name": "La Vita",
+    "address": "11 November, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Restoran Zürich",
+    "address": "Goce Delchev 25, Kumanovo 1300, North Macedonia",
+    "phone": "+38975653889"
+  },
+  {
+    "name": "Connect lounge bar",
+    "address": "Boris Kidrich, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Adamo Pizza",
+    "address": "Tode Mendol 61, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Pilko-Grilko",
+    "address": "MK, Branko Bogdanski - Gucman, Bogdanovaki 1300, North Macedonia",
+    "phone": "+38975282438"
+  },
+  {
+    "name": "Dva elena",
+    "address": "Boris Kidrich, Kumanovo, North Macedonia",
+    "phone": "+38972706566"
+  },
+  {
+    "name": "Pizzeria Oniro",
+    "address": "Sv. Kiril i Metodij, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Pizza La Vita",
+    "address": "Karl Marks a47, Kumanovo, North Macedonia",
+    "phone": "+38970567882"
+  },
+  {
+    "name": "Mexican Sombrero",
+    "address": "Sava Kovachevikj 54, Kumanovo 1300, North Macedonia",
+    "phone": "+38971571788"
+  },
+  {
+    "name": "AD Marash",
+    "address": "11th of October, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Centropalas",
+    "address": "11th of November, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Exclusive Bastion",
+    "address": "Narodna Revolucija, Kumanovo, North Macedonia",
+    "phone": "+38975761111"
+  },
+  {
+    "name": "Centropalas letna gradina",
+    "address": "III-ta Makedonska Udarna Brigada 28-42, Kumanovo, North Macedonia",
+    "phone": "+38931413389"
+  },
+  {
+    "name": "Džipsi",
+    "address": "Ivo Lola Ribar, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "La Mensa Restaurant",
+    "address": "Biljanovska BB, Kumanovo 1300, North Macedonia",
+    "phone": "+38970334174"
+  },
+  {
+    "name": "BURGER HOUSE",
+    "address": "Ilindenska 28, Kumanovo, North Macedonia",
+    "phone": "+38975227753"
+  },
+  {
+    "name": "Pizza Paradiso",
+    "address": "Mosha Pijade, Kumanovo, North Macedonia",
+    "phone": "+38978999994"
+  },
+  {
+    "name": "BURGER VETI",
+    "address": "Ad marash, Kumanovo, North Macedonia",
+    "phone": "+38971666554"
+  },
+  {
+    "name": "Varadero",
+    "address": "III-ta Makedonska Udarna Brigada 55, Kumanovo, North Macedonia",
+    "phone": "+38978242998"
+  },
+  {
+    "name": "Kebab shop Veti",
+    "address": "R1204, Tromegja, North Macedonia",
+    "phone": "+38977504501"
+  },
+  {
+    "name": "Restoran Miteja",
+    "address": "Ivo Lola Ribar br:23 MK, Kumanovo 1300, North Macedonia",
+    "phone": "+38931430778"
+  },
+  {
+    "name": "Dan dan kompani",
+    "address": "Zanatski Dom, Ploshtad Nova Jugoslavija, Kumanovo, North Macedonia",
+    "phone": "+38931426454"
+  },
+  {
+    "name": "Qebaptorja Albina",
+    "address": "MK, Mosha Pijade, Kumanovo 1300, North Macedonia",
+    "phone": "+38972653350"
+  },
+  {
+    "name": "Infinity Bar",
+    "address": "R1104 39, Kumanovo, North Macedonia",
+    "phone": "+38977550054"
+  },
+  {
+    "name": "Sendvicara Grizli",
+    "address": "Oktomvriska Revolucija 33, Kumanovo, North Macedonia",
+    "phone": "+38931420900"
+  },
+  {
+    "name": "Etno selo Timčevski",
+    "address": "локалитет Стара Бања, Kumanovo 1300, North Macedonia",
+    "phone": "+38977579873"
+  },
+  {
+    "name": "Golden Palace",
+    "address": "Ivo Lola Ribar 58, Kumanovo, North Macedonia",
+    "phone": "+38971366010"
+  },
+  {
+    "name": "PIZZA TIME",
+    "address": "Esperanto, Kumanovo 1300, North Macedonia",
+    "phone": "+38978208661"
+  },
+  {
+    "name": "Sugar King",
+    "address": "Tode Mendol 81-75, Kumanovo, North Macedonia",
+    "phone": "+38970803119"
+  },
+  {
+    "name": "Merak - Kumanovo Traditional BBQ",
+    "address": "Oktomvriska Revolucija 129A, Kumanovo, North Macedonia",
+    "phone": "+38972259139"
+  },
+  {
+    "name": "Met-Komerc",
+    "address": "Oktomvriska Revolucija, Kumanovo, North Macedonia",
+    "phone": "+38977646632"
+  },
+  {
+    "name": "Tfins Picerija",
+    "address": "Industriska, Kumanovo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Dajti",
+    "address": "Varazhdinska, Kumanovo 1300, North Macedonia",
+    "phone": "+38931430434"
+  },
+  {
+    "name": "Ambrella swiss bau",
+    "address": "III-ta Makedonska Udarna Brigada, Kumanovo, North Macedonia",
+    "phone": "+38931415529"
+  },
+  {
+    "name": "Altin Sofra",
+    "address": "R1104 60, Kumanovo, North Macedonia",
+    "phone": "+38973229222"
+  },
+  {
+    "name": "Zlatna 9ka",
+    "address": "Narodna Revolucija, Kumanovo 1300, North Macedonia",
+    "phone": "+38931611998"
+  },
+  {
+    "name": "Hallall food kumanovë",
+    "address": "R1104, Kumanovo, North Macedonia",
+    "phone": "+38970953144"
+  },
+  {
+    "name": "KidsLand",
+    "address": "Oktomvriska Revolucija bb, Kumanovo, North Macedonia",
+    "phone": "+38931413200"
+  },
+  {
+    "name": "SARAJ RESTAURANT",
+    "address": "R1104 60, Kumanovo, North Macedonia",
+    "phone": "+38973229222"
+  },
+  {
+    "name": "Бурекџилница “Мирела”",
+    "address": "Profesor Mijalkovikj 2, Kumanovo 1300, North Macedonia",
+    "phone": "+38977676516"
+  },
+  {
+    "name": "Dzordztaun",
+    "address": "Done Bozhinov br.46, Kumanovo 1300, North Macedonia",
+    "phone": "+38978441010"
+  },
+  {
+    "name": "Chicken Bar 7",
+    "address": "Branko Bogdanski - Gucman, Kumanovo, North Macedonia",
+    "phone": "+38931454445"
+  },
+  {
+    "name": "Sweet Home",
+    "address": "1, Kumanovo 1300, North Macedonia",
+    "phone": "+38931428842"
+  },
+  {
+    "name": "Party Time Pizza",
+    "address": "MK, JNA 18, Kumanovo 1300, North Macedonia",
+    "phone": "+38971623511"
+  },
+  {
+    "name": "Ќебапчилница KALAJA SLL",
+    "address": "Done Bozhinov, Kumanovo, North Macedonia",
+    "phone": "+38931414945"
+  },
+  {
+    "name": "Dzudzu Burgers",
+    "address": "Leninova 30, Kumanovo 1300, North Macedonia",
+    "phone": "+38931614360"
+  },
+  {
+    "name": "Shopping center „Suma“",
+    "address": "MK, 11th of October, Kumanovo 1300, North Macedonia",
+    "phone": "+38971604667"
+  },
+  {
+    "name": "Adziko Home Center Kumanovo",
+    "address": "Dimitar Vlahov 52, Kumanovo 1300, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "TE ELIFI",
+    "address": "Mosha Pijade B.B., Kumanovo 1300, North Macedonia",
+    "phone": "+38931417404"
+  },
+  {
+    "name": "Atlas City Center Hotel",
+    "address": "MK, Aleksandar Makedonski 520, Prilep 7500, North Macedonia",
+    "phone": "+38977630458"
+  },
+  {
+    "name": "Hotel Kristal Palas",
+    "address": "Kej 9 ti Septemvri No.24, Prilep 7500, North Macedonia",
+    "phone": "+38975664669"
+  },
+  {
+    "name": "Atlas City Center Hotel",
+    "address": "Lenin br. 184, Prilep 7500, North Macedonia",
+    "phone": "+38948418000"
+  },
+  {
+    "name": "Hotel Kristal Palas",
+    "address": "Lenin br. 184, Prilep 7500, North Macedonia",
+    "phone": "+38948418000"
+  },
+  {
+    "name": "Hotel Salida Entrance From Thessaloniki",
+    "address": "Tale Hristov 4, Prilep, North Macedonia",
+    "phone": "+38975253881"
+  },
+  {
+    "name": "Hotel Salida 2",
+    "address": "Kej 9-ti Septemvri 54, Prilep 7500, 7500, North Macedonia",
+    "phone": "95475007500"
+  },
+  {
+    "name": "Guest House Antika",
+    "address": "Goce Delcev, Prilep 7500, North Macedonia",
+    "phone": "+38948550700"
+  },
+  {
+    "name": "Kostoski Inn",
+    "address": "Goce Delcev, Prilep 7500, North Macedonia",
+    "phone": "+38948550700"
+  },
+  {
+    "name": "DIONIS Pansion Rooms Apartments",
+    "address": "513, Prilep, North Macedonia",
+    "phone": "+38948401333"
+  },
+  {
+    "name": "The White Apartment",
+    "address": "Joska Jordanoski 0, Prilep, North Macedonia",
+    "phone": "+38948430965"
+  },
+  {
+    "name": "C Apartments",
+    "address": "Mosa Pijade 24a, Prilep 7500, North Macedonia",
+    "phone": "+38948423683"
+  },
+  {
+    "name": "Hostel & Apartments Academy",
+    "address": "Bitolska 54, Prilep 7500, North Macedonia",
+    "phone": "+38978253418"
+  },
+  {
+    "name": "Vila 5",
+    "address": "Aleksandar Makedonski 4, Prilep 7500, North Macedonia",
+    "phone": "+38948401800"
+  },
+  {
+    "name": "Guest House Prilep",
+    "address": "Trizla 50, Prilep 7500, North Macedonia",
+    "phone": "+38978418191"
+  },
+  {
+    "name": "Hotel Sonce",
+    "address": "MK, Tsane Jovanoski-Konjarets 207, Prilep 7500, North Macedonia",
+    "phone": "+38975345084"
+  },
+  {
+    "name": "Hotel Focus",
+    "address": "Arhiepiskop Dositej 14 а, Prilep, North Macedonia",
+    "phone": "+38977405406"
+  },
+  {
+    "name": "Hotel Dion",
+    "address": "Aleksandar Spirkoski-Dzhemo, Prilep, North Macedonia",
+    "phone": "+38970534477"
+  },
+  {
+    "name": "National Restaurant Makedonska Kukja LAKI",
+    "address": "Bul, Булевар Гоце Делчев bb, Prilep 7500, North Macedonia",
+    "phone": "+38978343235"
+  },
+  {
+    "name": "Magic Food",
+    "address": "Brakja Lameski 30, Prilep, North Macedonia",
+    "phone": "+38948411444"
+  },
+  {
+    "name": "Kermes",
+    "address": "Kuzman Josifoski 2, Prilep 7500, North Macedonia",
+    "phone": "+38948550500"
+  },
+  {
+    "name": "Restaurant LIDER",
+    "address": "Jane Sandanski 7500, Prilep, North Macedonia",
+    "phone": "+38948424444"
+  },
+  {
+    "name": "Pizzeria Uno Prilep",
+    "address": "Borka Taleski 25, Prilep 7500, North Macedonia",
+    "phone": "+38948411515"
+  },
+  {
+    "name": "Kaj Kumata",
+    "address": "Heroj Karposh 18, Prilep 7500, North Macedonia",
+    "phone": "+38978316859"
+  },
+  {
+    "name": "Lav Restaurant",
+    "address": "Kej 1-vi Maj bb, Prilep 7500, North Macedonia",
+    "phone": "+38970353409"
+  },
+  {
+    "name": "Academy Pizza Bar",
+    "address": "513 2/8, Prilep, North Macedonia",
+    "phone": "+38948410192"
+  },
+  {
+    "name": "Atlas City Center Restaurant",
+    "address": "Joska Jordanoski br.4, Prilep 7500, North Macedonia",
+    "phone": "+38948433419"
+  },
+  {
+    "name": "Gostilnica Evro Kaj Vlatce",
+    "address": "Prilep Business Center, Jane Sandanski, Prilep 7500, North Macedonia",
+    "phone": "+38978257508"
+  },
+  {
+    "name": "Gostilnica \"Kaj Kekele\"",
+    "address": "Nova, Aleksandar Makedonski, Prilep, North Macedonia",
+    "phone": "+38977997744"
+  },
+  {
+    "name": "La Piazza",
+    "address": "Сотка Ѓорѓиоски 55 MK, Jane Sandanski, Prilep 7500, North Macedonia",
+    "phone": "+38948419100"
+  },
+  {
+    "name": "Pink Panther",
+    "address": "Samoilova, Prilep 7500, North Macedonia",
+    "phone": "+38975343808"
+  },
+  {
+    "name": "Pizza Bar Borzoi",
+    "address": "106, Novo Lagovo, North Macedonia",
+    "phone": "+38976334777"
+  },
+  {
+    "name": "Tome's Bukefal",
+    "address": "selce, Selo MK, Prilep 7500, North Macedonia",
+    "phone": "+38972205955"
+  },
+  {
+    "name": "Amfora",
+    "address": "MK, Republikanska 52, Prilep 7500, North Macedonia",
+    "phone": "+38970505103"
+  },
+  {
+    "name": "Гостилница СОКАЧЕ - 2018",
+    "address": "Trajko Nikoloski 78a, Prilep, North Macedonia",
+    "phone": "+38948422322"
+  },
+  {
+    "name": "Monarca Gastrobar",
+    "address": "Пере Тошев, Prilep, North Macedonia",
+    "phone": "+38975496008"
+  },
+  {
+    "name": "Гостилница Стара табана",
+    "address": "Jane Sandanski 35, Prilep 7500, North Macedonia",
+    "phone": "+38971635668"
+  },
+  {
+    "name": "Дел Посто (Del Posto)",
+    "address": "Мице Козароски-Јандре 15/4, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Restoran Despina Prilep",
+    "address": "Трајко Николоски 72, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Laki",
+    "address": "Andon Slabejkoski 1-A, Prilep, North Macedonia",
+    "phone": "+38970851716"
+  },
+  {
+    "name": "Gostilnica Pajton",
+    "address": "Mice Kozaroski-Jandre 1, Prilep, North Macedonia",
+    "phone": "+38971768324"
+  },
+  {
+    "name": "Leos Food",
+    "address": "Плоштад, Методија Андонов Ченто, Prilep, North Macedonia",
+    "phone": "+38976983969"
+  },
+  {
+    "name": "RESTORAN CHARDAK",
+    "address": "Samoilova 58, Prilep, North Macedonia",
+    "phone": "+38977500918"
+  },
+  {
+    "name": "Сендвичара „Каспер“",
+    "address": "Unnamed Road, Prilep, North Macedonia",
+    "phone": "+38976555677"
+  },
+  {
+    "name": "Stari Grad",
+    "address": "Kej 1-vi Maj, Prilep, North Macedonia",
+    "phone": "+38978339237"
+  },
+  {
+    "name": "Кафе Ресторан АЛТАН",
+    "address": "Brakja Miladinovci 1, Prilep 7500, North Macedonia",
+    "phone": "+38972692009"
+  },
+  {
+    "name": "BIANCO kitchen & bar",
+    "address": "Kej 1-vi Maj, Prilep, North Macedonia",
+    "phone": "+38975600199"
+  },
+  {
+    "name": "Dionis - Restaurant, Rooms & Apartments",
+    "address": "Bus Station, Булевар Гоце Делчев 7500, Prilep, North Macedonia",
+    "phone": "+38970346691"
+  },
+  {
+    "name": "Aleksandrija",
+    "address": "Oktomvriska bb , Prilep, Prilep 7500, North Macedonia",
+    "phone": "+38975482132"
+  },
+  {
+    "name": "Di Caprio",
+    "address": "Сотка Ѓорѓиоски број 1 Јане Сандански број 1, Prilep 7500, North Macedonia",
+    "phone": "+38948435300"
+  },
+  {
+    "name": "Boemi",
+    "address": "11-ti Oktomvri 82, Prilep 7500 MK, Prilep 7500, North Macedonia",
+    "phone": "118275007500"
+  },
+  {
+    "name": "Ла Страда (La Strada)",
+    "address": "Republikanska, Prilep 7500, North Macedonia",
+    "phone": "+38975820002"
+  },
+  {
+    "name": "Luna food",
+    "address": "Kej 9-ti Septemvri, Prilep, North Macedonia",
+    "phone": "+38978339237"
+  },
+  {
+    "name": "Leone",
+    "address": "Orde Tuteski, Prilep, North Macedonia",
+    "phone": "+38948429710"
+  },
+  {
+    "name": "Center",
+    "address": "Heroj Karposh, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Karpov Kamen restoran",
+    "address": "Пере Тошев, Prilep, North Macedonia",
+    "phone": "+38978686500"
+  },
+  {
+    "name": "Restaurant Halal",
+    "address": "Тодор Паница 32, Prilep, North Macedonia",
+    "phone": "+38948415294"
+  },
+  {
+    "name": "Park",
+    "address": "Борка Влачарот 23, Прилеп 7500, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Skara Bobi",
+    "address": "Heroj Karposh 41, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Fast Food Big Mak",
+    "address": "Kej 1-vi Maj 16, Prilep 9750, North Macedonia",
+    "phone": "+38970985110"
+  },
+  {
+    "name": "Kaj balce",
+    "address": "Marksova96, Prilep 7500, North Macedonia",
+    "phone": "+38975602042"
+  },
+  {
+    "name": "Galija Prilep",
+    "address": "Prilep Business Center, Jane Sandanski, Prilep, North Macedonia",
+    "phone": "+38977571017"
+  },
+  {
+    "name": "Zito Prilep",
+    "address": "Andon Slabejkoski 17, Prilep, North Macedonia",
+    "phone": "+38948421420"
+  },
+  {
+    "name": "Cafe Stara Charshija",
+    "address": "Republikanska, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Dablin Prilep",
+    "address": "Heroj Karposh br, Prilep, North Macedonia",
+    "phone": "+38977523100"
+  },
+  {
+    "name": "Pekara Aleks",
+    "address": "Kuzman Josifoski 83, Prilep 7500, North Macedonia",
+    "phone": "+38975725250"
+  },
+  {
+    "name": "Ресторан Империјал - Прилеп",
+    "address": "MK MK, Pere Toshev, Prilep 7500, North Macedonia",
+    "phone": "+38970618313"
+  },
+  {
+    "name": "Mamli",
+    "address": "70,, Andon Slabejkoski 46, Prilep, North Macedonia",
+    "phone": "+38978308105"
+  },
+  {
+    "name": "Kasni Porasni",
+    "address": "Orde Tuteski 24, Prilep, North Macedonia",
+    "phone": "+38978204846"
+  },
+  {
+    "name": "Fast food \"Grizho Snickers\"",
+    "address": "Lazar Zamenhov 1-а, Prilep 7503, North Macedonia",
+    "phone": "+38971399696"
+  },
+  {
+    "name": "Кафана Вршник - Прилеп",
+    "address": "Goce Delchev, Prilep 7500, North Macedonia",
+    "phone": "+38977875959"
+  },
+  {
+    "name": "Harizma",
+    "address": "MK, Joska Jordanoski, Prilep 7500, North Macedonia",
+    "phone": "+38977675000"
+  },
+  {
+    "name": "Ana-Marija Food Dooel",
+    "address": "Борка Утот 2, Prilep, North Macedonia",
+    "phone": "+38975353588"
+  },
+  {
+    "name": "Скара на кило Це-Ца",
+    "address": "Kuzman Josifoski 33, Prilep 7500, North Macedonia",
+    "phone": "+38948402244"
+  },
+  {
+    "name": "Ресторан Галија",
+    "address": "303 38, Prilep, North Macedonia",
+    "phone": "+38948417827"
+  },
+  {
+    "name": "European Grill",
+    "address": "Republikanska, Prilep 7500, North Macedonia",
+    "phone": "+38978434757"
+  },
+  {
+    "name": "Pancake House - Prilep",
+    "address": "MK, Ilindenska11 7500, North Macedonia",
+    "phone": "+38948429434"
+  },
+  {
+    "name": "Гостилница Фешта",
+    "address": "Стеван Стеваноски-Царчето 2, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "At Dzoki",
+    "address": "11-ti Oktomvri 220, Prilep, North Macedonia",
+    "phone": "+38976637563"
+  },
+  {
+    "name": "Sonce GA",
+    "address": "513 2/10, Prilep, North Macedonia",
+    "phone": "+38948433405"
+  },
+  {
+    "name": "Гостилница ОГНИШТЕ",
+    "address": "Караорман 5, Прилеп 7500, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Fast Food Paradiso",
+    "address": "Илинден 22A, Prilep 7500, North Macedonia",
+    "phone": "+38976811927"
+  },
+  {
+    "name": "Пекара Калимеро",
+    "address": "Heroj Karposh, Prilep, North Macedonia",
+    "phone": "+38975443659"
+  },
+  {
+    "name": "Скара на жар - Кај Кусио",
+    "address": "Car Samoil, Prilep, North Macedonia",
+    "phone": "+38976265302"
+  },
+  {
+    "name": "Merak Gavrilovic",
+    "address": "Heroj Karposh 20, Prilep, North Macedonia",
+    "phone": "+38948413200"
+  },
+  {
+    "name": "Кај Келнеро",
+    "address": "Булевар Гоце Делчев 20, Prilep 7500, North Macedonia",
+    "phone": "+38948414212"
+  },
+  {
+    "name": "Restoran BonAppetit&Merci",
+    "address": "513, Prilep, North Macedonia",
+    "phone": "+38948414783"
+  },
+  {
+    "name": "Ресторан Чин-Чин",
+    "address": "Булевар Гоце Делчев, Prilep, North Macedonia",
+    "phone": "+38948418282"
+  },
+  {
+    "name": "Excalibur",
+    "address": "Kuzman Josifoski-Pitu, Prilep 7500, North Macedonia",
+    "phone": "+38976816743"
+  },
+  {
+    "name": "Pizza MOMENT",
+    "address": "Jane Sandanski, Prilep, North Macedonia",
+    "phone": "+38948424000"
+  },
+  {
+    "name": "Ресторан Изгрев",
+    "address": "Jane Sandanski, Prilep 7500, North Macedonia",
+    "phone": "+38970483748"
+  },
+  {
+    "name": "Taverna Klub 1990",
+    "address": "Kej 9-ti Septemvri 54, Prilep 7500, North Macedonia",
+    "phone": "+38948483478"
+  },
+  {
+    "name": "DODI Chicken House",
+    "address": "Aleksandar Makedonski 245, Prilep, North Macedonia",
+    "phone": "+38970308834"
+  },
+  {
+    "name": "Кај келнеро",
+    "address": "Karaorman 5, Prilep 7500, North Macedonia",
+    "phone": "+38948428494"
+  },
+  {
+    "name": "Jimmy Guesthouse",
+    "address": "Orde Tuteski 28, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Gostilnica ESNAF",
+    "address": "Илинден, Prilep, North Macedonia",
+    "phone": "+38948615400"
+  },
+  {
+    "name": "Скара на жар и готвени јадења св.Никола",
+    "address": "MK, Kuzman Josifoski 13, Prilep 7500, North Macedonia",
+    "phone": "+38975757445"
+  },
+  {
+    "name": "restoran Denicija",
+    "address": "Samoilova 2/10, Prilep 7500, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Bukefal 19",
+    "address": "MK, Булевар Гоце Делчев 45, Prilep 7513, North Macedonia",
+    "phone": "+38948428824"
+  },
+  {
+    "name": "Thdb Kermes",
+    "address": "Трајко Николоски 92, Prilep, North Macedonia",
+    "phone": "+38972209996"
+  },
+  {
+    "name": "Mal Odmor",
+    "address": "Lece Koteski 58, Prilep 7500, North Macedonia",
+    "phone": "+38978248120"
+  },
+  {
+    "name": "Art Cafe Aporea",
+    "address": "Илинден 25, Prilep 7500, North Macedonia",
+    "phone": "+38948435000"
+  },
+  {
+    "name": "Слаткарница ШАР",
+    "address": "Joska Jordanoski 38, Prilep 7500, North Macedonia",
+    "phone": "+38948410450"
+  },
+  {
+    "name": "Cafe Focus",
+    "address": "Orde Kabeco, Prilep, North Macedonia",
+    "phone": "+38948480007"
+  },
+  {
+    "name": "Elizabeta",
+    "address": "Jane Sandanski, Prilep, North Macedonia",
+    "phone": "+38948455455"
+  },
+  {
+    "name": "City Mall - Prilep",
+    "address": "Republikanska, Prilep 7500, North Macedonia",
+    "phone": "+38975249508"
+  },
+  {
+    "name": "Stibera Exclusive Home Center",
+    "address": "Jane Sandanski 10, Prilep 7500, North Macedonia",
+    "phone": "+38975888879"
+  },
+  {
+    "name": "Gracija Gold",
+    "address": "Егејска 109, Prilep 7500, North Macedonia",
+    "phone": "+38975397333"
+  },
+  {
+    "name": "Inter Lukas Sport",
+    "address": "Pece Spirkoski 14, Prilep 7500, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Кремона",
+    "address": "Kej 1-vi Maj 17, Prilep 7500, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Meblo Trejd",
+    "address": "Mirche Acev 10, Prilep 7500, North Macedonia",
+    "phone": "+38978418416"
+  },
+  {
+    "name": "FUTURA 24",
+    "address": "MK, Goce Delcev 37, Prilep 7500, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "New York Boutique",
+    "address": "Vasko Karangeleski, Prilep 7500, North Macedonia",
+    "phone": "+38978409821"
+  },
+  {
+    "name": "\"MENS\" GALERY",
+    "address": "Карпалак 1, Prilep, North Macedonia",
+    "phone": "+38948418500"
+  },
+  {
+    "name": "Se za Doma",
+    "address": "Sotka Georgioski, Prilep, North Macedonia",
+    "phone": "+38948417037"
+  },
+  {
+    "name": "Palma",
+    "address": "Димо Димоски-Наредникот A2, Прилеп 7500, Dimo Dimoski-Narednikot, Prilep 7500, North Macedonia",
+    "phone": "275007500"
+  },
+  {
+    "name": "Shopping Center Amam",
+    "address": "Blv MK, Makedonsko Kosovska Brigada 67, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Shopping center „Capitol Mall“",
+    "address": "MK MK, Boulevard Jane Sandanski 71A, Skopje 1000, North Macedonia",
+    "phone": "+38922460045"
+  },
+  {
+    "name": "Skopje City Mall",
+    "address": "Ljubljanska 4, Skopje 1000, North Macedonia",
+    "phone": "+38923217012"
+  },
+  {
+    "name": "LIVING HOME CENTER",
+    "address": "Ilirija bb, Tetovo 1200, North Macedonia",
+    "phone": "+3894434379"
+  },
+  {
+    "name": "Aqua Park Salida",
+    "address": "Republikanska 24, Prilep 7500, North Macedonia",
+    "phone": "+38948413055"
+  },
+  {
+    "name": "Ancient Macedonian City Heraclea Lyncestis",
+    "address": "Czar Samoil, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Prilep",
+    "address": "R1106, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Ossuary Monument - Kosturnica",
+    "address": "Rruga e Kalasë, Pogradec, Albania",
+    "phone": "+355692670268"
+  },
+  {
+    "name": "„Plaoshnik“",
+    "address": "513, Prilep, North Macedonia",
+    "phone": "+38948401333"
+  },
+  {
+    "name": "The Gallery House",
+    "address": "Mosa Pijade 24a, Prilep 7500, North Macedonia",
+    "phone": "+38948423683"
+  },
+  {
+    "name": "Millennium Cross",
+    "address": "Car Samoil 49, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Old Bazaar",
+    "address": "Goce Delcev, Prilep 7500, North Macedonia",
+    "phone": "+38948550700"
+  },
+  {
+    "name": "Skopje Aqueduct",
+    "address": "Borka Taleski 25, Prilep 7500, North Macedonia",
+    "phone": "+38948411515"
+  },
+  {
+    "name": "Ancient Macedonian Theatre of Ohrid",
+    "address": "City Promenade, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Holy Mary Peryvleptos",
+    "address": "Επαρ.Οδ. Κούπας, Skra 614 00, Greece",
+    "phone": null
+  },
+  {
+    "name": "Aqua Park Macedonia",
+    "address": "Makedonska Falanga, Bitola, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Museum of the Macedonian Struggle",
+    "address": "Cuba Libre Beach Bar, Naum Ohridski 10A, Ohrid 6000, North Macedonia",
+    "phone": "+38975281090"
+  },
+  {
+    "name": "The Bay of Bones",
+    "address": "Heroj Karposh 18, Prilep 7500, North Macedonia",
+    "phone": "+38978316859"
+  },
+  {
+    "name": "Skopje Zoo",
+    "address": "Kontopoulou 65, Florina 531 00, Greece",
+    "phone": null
+  },
+  {
+    "name": "St. Panteleimon",
+    "address": "MK, Булевар Гоце Делчев 45, Prilep 7513, North Macedonia",
+    "phone": "+38948428824"
+  },
+  {
+    "name": "Kitino Fort",
+    "address": "Борис Кидрич 29, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Prilep",
+    "address": "Rruga e drilonit Drilon, 7301, Albania",
+    "phone": "+355699492151"
+  },
+  {
+    "name": "Feudal Tower",
+    "address": "2 br.18 Brusnik, Bitola, North Macedonia",
+    "phone": "+38978305369"
+  },
+  {
+    "name": "St. George Church",
+    "address": "Shirok Sokak b.b., Bitola 7000, North Macedonia",
+    "phone": "+38947221915"
+  },
+  {
+    "name": "Pavlos Melas Museum",
+    "address": "Πλατεία Αιγών, Edessa 582 00, Greece",
+    "phone": "+302381020300"
+  },
+  {
+    "name": "Museum of the Republic of Macedonia",
+    "address": "Kamnik bb Skopje MK, 1000, North Macedonia",
+    "phone": "+38922521789"
+  },
+  {
+    "name": "National Workshop For Handmade Paper Ljupcho Panevski",
+    "address": "11th of October 33, Kumanovo 1300, North Macedonia",
+    "phone": "11331300"
+  },
+  {
+    "name": "Church of Saints Clement and Panteleimon",
+    "address": "Lenin br. 184, Prilep 7500, North Macedonia",
+    "phone": "+38948418000"
+  },
+  {
+    "name": "Holy Metamorphosis",
+    "address": "Sidirodromikou Stathmou 3, Florina 531 00, Greece",
+    "phone": "+302385028206"
+  },
+  {
+    "name": "Kuršumli An",
+    "address": "Galichki Pat, Galichnik, North Macedonia",
+    "phone": "+38977648679"
+  },
+  {
+    "name": "Mustafa Paša",
+    "address": "Road to Galichnik, 1255, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "History Museum & Academy of Arts „Suli An“",
+    "address": "Cali Makedonium, Krushevo, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Duf Waterfall",
+    "address": "Clement's University, Ohrid, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Small Saint Clement",
+    "address": "Samoilova, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Makedonium - Ilinden Monument",
+    "address": "Манастир Зрзе, Zrze 7505, North Macedonia",
+    "phone": "+38948459400"
+  },
+  {
+    "name": "Church of Saint Sophia",
+    "address": "Boulevard 1st of May b.b., Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Macedonian Holocaust Museum",
+    "address": "Boro Kalajdzhiski 69, Struga 6330, North Macedonia",
+    "phone": "+38946786644"
+  },
+  {
+    "name": "City ​​park „Skopje“",
+    "address": "Tumbe Kafe b.b., Bitola 7000, North Macedonia",
+    "phone": "+38947222956"
+  },
+  {
+    "name": "Museum of Contemporary Art",
+    "address": "Blvd. Partizanski Odredi 17, Skopje 1000, North Macedonia",
+    "phone": "+38923227450"
+  },
+  {
+    "name": "Ohrid Boardwalk",
+    "address": "St Clement of Ohrid, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Clock Tower",
+    "address": "Ss Cyril & Methodius 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Museum of the City of Skopje",
+    "address": "P.O. Box 482, Samoilova, Skopje 1000, North Macedonia",
+    "phone": "+38923117734"
+  },
+  {
+    "name": "Bitola Zoo",
+    "address": "Unnamed Road, Ohrid, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Isak Chelebi Mosque, Bitola",
+    "address": "Iljo Vojvoda Br. 2, Skopje 1000, North Macedonia",
+    "phone": "+38923122697"
+  },
+  {
+    "name": "Holy Transfiguration",
+    "address": "Цар Самоил 88, Ohrid 6000, North Macedonia",
+    "phone": "+38946267403"
+  },
+  {
+    "name": "Icons Gallery",
+    "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+    "phone": "+38923297204"
+  },
+  {
+    "name": "Gumenje",
+    "address": "Atanas Babata, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Sherpa Horse Riding Macedonia",
+    "address": "Саат Кула, Jorgo Osmano, Bitola 7000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Old Mavrovo Church",
+    "address": "Metodi Patche, Ohrid, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "St. Archangel Michael",
+    "address": "Republikanska 24, Prilep 7500, North Macedonia",
+    "phone": "+38948413055"
+  },
+  {
+    "name": "Hotel Kristal Palas",
+    "address": "Gorice, SH79, Albania",
+    "phone": null
+  },
+  {
+    "name": "Archaeological Museum of Florina",
+    "address": "MK, Kuzman Kapidan, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Mosque \"Sinan Tatar Pasha”",
+    "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Winery „Kamnik“",
+    "address": "Kjurchiska 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Ancient Macedonian city Stobi",
+    "address": "St Clement of Ohrid BB, Bitola 7000, North Macedonia",
+    "phone": "+38947233187"
+  },
+  {
+    "name": "Yeni mosque, Bitola",
+    "address": "Car Samoil 72, Охрид 6000, North Macedonia",
+    "phone": "+38978223231"
+  },
+  {
+    "name": "Kioupri Byzantine Bridge",
+    "address": "Храм Св. Ѓорѓи, Staro Nagorichane, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Gostilnica Pajton",
+    "address": "29 Noemvri 6250, Kichevo 6250, North Macedonia",
+    "phone": "2962506250"
+  },
+  {
+    "name": "Konopishte",
+    "address": "MK MK, Boulevard Ilinden 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "National Park of Drilon",
+    "address": "Plavica, Probištip, North Macedonia",
+    "phone": "+38932480080"
+  },
+  {
+    "name": "House of the Army",
+    "address": "11-ти Март 11 March, Skopje 1000, North Macedonia",
+    "phone": "11111000"
+  },
+  {
+    "name": "Florina Zoo",
+    "address": "Clement's University, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Gostilnica Evro Kaj Vlatce",
+    "address": "Ilindenska, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Paragliding Ohrid",
+    "address": "Bay of Bones Museum,Р501, North Macedonia",
+    "phone": "+38946231300"
+  },
+  {
+    "name": "Zrze",
+    "address": "Кеј Димитар Влахов 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Pizzeria Uno Prilep",
+    "address": "MK, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Kuklitsa",
+    "address": "Kocho Racin, Ohrid 6000, North Macedonia",
+    "phone": "+38946230455"
+  },
+  {
+    "name": "Hristo Uzunov House",
+    "address": "Kaneo Plaosnik Pateka, Ohrid 6000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Hotel Salida 2",
+    "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "TIVOLI Hotel & Restaurant",
+    "address": "MK, Marsal Tito 0, Tetovo 1216, North Macedonia",
+    "phone": "+38944344549"
+  },
+  {
+    "name": "TIVOLI Hotel & Restaurant",
+    "address": "Avenue, Marshal Tito, Tetovo 1200, North Macedonia",
+    "phone": "+38944511276"
+  },
+  {
+    "name": "NB",
+    "address": "Marshal Tito 19, Tetovo 1200, North Macedonia",
+    "phone": "+38944352370"
+  },
+  {
+    "name": "Hotel and Restaurant Ema",
+    "address": "Marshal Tito, Tetovo 1200, North Macedonia",
+    "phone": "+38944338578"
+  },
+  {
+    "name": "Emka",
+    "address": "Boulevard Vidoe Smilevski Bato No.111, 1200, Tetovo 1220, North Macedonia",
+    "phone": "11112001220"
+  },
+  {
+    "name": "Hotel Royal",
+    "address": "Marshal Tito 19, Tetovo 1200, North Macedonia",
+    "phone": "+38944352370"
+  },
+  {
+    "name": "Tetovo Hotel & Restaurant & Petrol",
+    "address": "MK, P402, Tetovo 1200, North Macedonia",
+    "phone": "+38972205222"
+  },
+  {
+    "name": "AB Villa",
+    "address": "r-1203 tetovo, Poroj 1223, North Macedonia",
+    "phone": "12031223"
+  },
+  {
+    "name": "Snow Patrol Lodge",
+    "address": "Highway Tetovo - Skopje, Tetovo 1224, North Macedonia",
+    "phone": "+38944347777"
+  },
+  {
+    "name": "Hotel - Petrol Company",
+    "address": "Popova Shapka MK, 1200, North Macedonia",
+    "phone": "+38976259806"
+  },
+  {
+    "name": "Hotel Restauraun Nolis Konak",
+    "address": "R1209 1217, Popova Shapka, North Macedonia",
+    "phone": "12091217"
+  },
+  {
+    "name": "Hotel & Spa 24/7 Agropolog",
+    "address": "Popova Sapka - street 102 no. 99/Е Tetovo 1220 Tetovo MK, 1220, North Macedonia",
+    "phone": "1029912201220"
+  },
+  {
+    "name": "Hotel „Slavija“",
+    "address": "Tetovo-Popova Šapka, Popova Šapka, North Macedonia",
+    "phone": "+38972228281"
+  },
+  {
+    "name": "Конак",
+    "address": "Ul.101 br.bb S. Vratnica, Tetovo 1225, North Macedonia",
+    "phone": "+38970603383"
+  },
+  {
+    "name": "Hotel & Restourant IRA",
+    "address": "Studena Voda bb, Tetovo 1200, North Macedonia",
+    "phone": "+38944378100"
+  },
+  {
+    "name": "Winterfell Popova Shapka",
+    "address": "Ski resort „Popova Shapka“, 42.01259° N, 20.89083° O, North Macedonia",
+    "phone": "42012592089083"
+  },
+  {
+    "name": "Villa Duba",
+    "address": "R1209, Tetovo, North Macedonia",
+    "phone": "+38977696938"
+  },
+  {
+    "name": "Bocata",
+    "address": "Andrea Stojanovic, MK, Boro Vulic Road, Tetovo 1200, North Macedonia",
+    "phone": "+38970991309"
+  },
+  {
+    "name": "restoran BELAMIA",
+    "address": "Boris Kidrich, Tetovo 1220, North Macedonia",
+    "phone": "+38970707623"
+  },
+  {
+    "name": "Fratelli",
+    "address": "133 nr. 7 Tetovo MK, 1220, North Macedonia",
+    "phone": "13371220"
+  },
+  {
+    "name": "Punto Verde",
+    "address": "Dimo Gavrovski Kara, Tetovo 1220, North Macedonia",
+    "phone": "+38944337498"
+  },
+  {
+    "name": "DANTE RESTAURANT & PIZZERIA",
+    "address": "Jane Sandanski 116, Tetovo 1220, North Macedonia",
+    "phone": "+38970336330"
+  },
+  {
+    "name": "Ресторан Дубровник",
+    "address": "Ilindenska, Tetovo 1220, North Macedonia",
+    "phone": "+38972516224"
+  },
+  {
+    "name": "Restaurant Sirena",
+    "address": "Marshal Tito 46, Tetovo 1200, North Macedonia",
+    "phone": "+38944331441"
+  },
+  {
+    "name": "Restaurant Lartana",
+    "address": "Marshal Tito, Tetovo 1220, North Macedonia",
+    "phone": "+38944339125"
+  },
+  {
+    "name": "Delfin",
+    "address": "Гоце Делчев 108, Tetovo 1220, North Macedonia",
+    "phone": "+38944331332"
+  },
+  {
+    "name": "Boss",
+    "address": "Street 120, no.2 Tetovo, Tetovo 1200, North Macedonia",
+    "phone": "12021200"
+  },
+  {
+    "name": "Sole Restaurant",
+    "address": "Dervish Cara 14, Tetovë 1220, North Macedonia",
+    "phone": "+38971450222"
+  },
+  {
+    "name": "Restaurant F.S. Kurtishi",
+    "address": "Avenue Marshall Tito, TETOVO 1200, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Restaurant “ HORIZONT “ Tetovo",
+    "address": "Unnamed Road, 1220, North Macedonia",
+    "phone": "+38970809636"
+  },
+  {
+    "name": "Ylli Restaurant",
+    "address": "ЈНА 10, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Stella",
+    "address": "ul 133 bb, Tetovo 1200, North Macedonia",
+    "phone": "+38970617664"
+  },
+  {
+    "name": "Restaurant Manastiri",
+    "address": "Dervish Cara, Tetovo 1200, North Macedonia",
+    "phone": "+38944352200"
+  },
+  {
+    "name": "Restaurant Romantika",
+    "address": "Blagoja Toska 8, Tetovo 1200, North Macedonia",
+    "phone": "+38971491444"
+  },
+  {
+    "name": "Albimedika",
+    "address": "MK, Tetovo 1200, North Macedonia",
+    "phone": "+38971465511"
+  },
+  {
+    "name": "Lezet Restaurant",
+    "address": "159, Tetovo 1200, North Macedonia",
+    "phone": "27+2841591200"
+  },
+  {
+    "name": "Burger House",
+    "address": "MK, Ilindenska BB, Tetovo 1200, North Macedonia",
+    "phone": "+38971334130"
+  },
+  {
+    "name": "Princ Restaurant",
+    "address": "Ilindenska 173/2, Tetovo 1220, North Macedonia",
+    "phone": "17321220"
+  },
+  {
+    "name": "ATA Center",
+    "address": "Ilindenska 71, Tetovo 1220, North Macedonia",
+    "phone": "+38972533334"
+  },
+  {
+    "name": "Noel",
+    "address": "Ilindenska 71, Tetovo 1220, North Macedonia",
+    "phone": "+38970651064"
+  },
+  {
+    "name": "Restaurant Belvedere",
+    "address": "Ilindenska, Tetovo 1220, North Macedonia",
+    "phone": "+38970717356"
+  },
+  {
+    "name": "Shkumbini",
+    "address": "R1203, Tetovo 1220, North Macedonia",
+    "phone": "29+612031220"
+  },
+  {
+    "name": "Shatci Sendvichari - Tetovo Centar",
+    "address": "Marshal Tito, Tetovo 1220, North Macedonia",
+    "phone": "+38944330350"
+  },
+  {
+    "name": "Bliss Pizza",
+    "address": "Ilindenska, Tetovo 1220, North Macedonia",
+    "phone": "+38970819235"
+  },
+  {
+    "name": "Restaurant Dinamika",
+    "address": "Ilindenska, Tetovo 1220, North Macedonia",
+    "phone": "+38976431658"
+  },
+  {
+    "name": "Patara",
+    "address": "T. C. Merdzan, Tetovo 1220, North Macedonia",
+    "phone": "+38944336935"
+  },
+  {
+    "name": "Restaurant Pizzeria Era",
+    "address": "Ilindenska 173/2, Tetovo 1220, North Macedonia",
+    "phone": "17321220"
+  },
+  {
+    "name": "Shkumbini 2",
+    "address": "Ljubo Bozinovski - Pish 109, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Ata",
+    "address": "Radovan Conikj 1, Tetovo 1200, North Macedonia",
+    "phone": "+38971881832"
+  },
+  {
+    "name": "Paradox",
+    "address": "Marsall Tito B 54/12 lok.7, Tetovo 1220, North Macedonia",
+    "phone": "541271220"
+  },
+  {
+    "name": "D.Kasa",
+    "address": "Illyria 166, Tetovo 1220, North Macedonia",
+    "phone": "+38944339800"
+  },
+  {
+    "name": "Pizzeria Napoli",
+    "address": "Boulevard Vidoe Smilevski Bato 7, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Salt",
+    "address": "MK, Ilindenska 18, Tetovo 1220, North Macedonia",
+    "phone": "+38972695000"
+  },
+  {
+    "name": "BUREK n'SAÇ",
+    "address": "Macedonia Tetovo street 120 /3, Tetovo 1220, North Macedonia",
+    "phone": "12031220"
+  },
+  {
+    "name": "Il Forno",
+    "address": "Marsal Tito No: 16 Tetovo MK, 1200, North Macedonia",
+    "phone": "+38971717478"
+  },
+  {
+    "name": "Pizza Garden",
+    "address": "Belicica 29, Tetovo 1200, North Macedonia",
+    "phone": "+38970725969"
+  },
+  {
+    "name": "Ресторан „Осло“ - Тетово",
+    "address": "Unnamed Road, Tetovo 1220, North Macedonia",
+    "phone": "+38970423542"
+  },
+  {
+    "name": "Kaj Budo",
+    "address": "Marshal Tito 58, Tetovo 1200, North Macedonia",
+    "phone": "+38971320333"
+  },
+  {
+    "name": "3fenera",
+    "address": "Illyria 57, Tetovo 1200, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Kuzhina Popullore SHARRI",
+    "address": "Jane Sandanski 58, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Doner Sharri",
+    "address": "Marshal Tito 84, Tetovo 1200, North Macedonia",
+    "phone": "+38944335616"
+  },
+  {
+    "name": "Manti’s Restorant",
+    "address": "ul MK, Boris Kidrich 63, Tetovo 1220, North Macedonia",
+    "phone": "+38971232826"
+  },
+  {
+    "name": "Konak",
+    "address": "Marshal Tito 19, Tetovo 1200, North Macedonia",
+    "phone": "+38944352370"
+  },
+  {
+    "name": "Burektore Royal-As",
+    "address": "Unnamed Road, Tetovo 1220, North Macedonia",
+    "phone": "+38970426200"
+  },
+  {
+    "name": "TIVOLI Hotel & Restaurant",
+    "address": "Ilindenska 71, Tetovo 1220, North Macedonia",
+    "phone": "+38972229832"
+  },
+  {
+    "name": "Grand",
+    "address": "Marshal Tito 58, Tetovo 1200, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Burektore Nobel",
+    "address": "Gjoce Stojcheski 88, Tetovo 1220, North Macedonia",
+    "phone": "+38970270555"
+  },
+  {
+    "name": "Zarif Çiğ Köfte Tetova",
+    "address": "Macedonia Tetovo street 120 /3 Tetovo MK, 1000, North Macedonia",
+    "phone": "12031000"
+  },
+  {
+    "name": "Hamburgeria Rinia",
+    "address": "Murat Baftijari 31, Tetovo 1220, North Macedonia",
+    "phone": "+38970219160"
+  },
+  {
+    "name": "Fast Food Red Hot",
+    "address": "Dervish Cara, 8, Tetovo 1200, North Macedonia",
+    "phone": "+38944335514"
+  },
+  {
+    "name": "Fast Food Tuci",
+    "address": "Boulevard Vidoe Smilevski Bato, Tetovo 1220, North Macedonia",
+    "phone": "+38971553357"
+  },
+  {
+    "name": "Sach Pizza & Caffe",
+    "address": "Ilindenska 173/2, Tetovo 1220, North Macedonia",
+    "phone": "17321220"
+  },
+  {
+    "name": "Amanti #2",
+    "address": "Dimo Gavrovski Kara 34, 1220 1220, Tetovo, North Macedonia",
+    "phone": "3412201220"
+  },
+  {
+    "name": "Meridian",
+    "address": "Панче Камџик, Tetovo 1220, North Macedonia",
+    "phone": "+38970734444"
+  },
+  {
+    "name": "Restaurant ATA 2",
+    "address": "Marshal Tito, Tetovo 1200, North Macedonia",
+    "phone": "+38970980001"
+  },
+  {
+    "name": "City Grill Tetovë",
+    "address": "Marshal Tito 123, Tetovo 1220, North Macedonia",
+    "phone": "+38971326943"
+  },
+  {
+    "name": "Fast Food Hamza",
+    "address": "MK, Borche Kochovski 5, Tetovo 1200, North Macedonia",
+    "phone": "+38970875062"
+  },
+  {
+    "name": "Arta",
+    "address": "29 November 1220, Tetovo 1220, North Macedonia",
+    "phone": "2912201220"
+  },
+  {
+    "name": "Hamburgeria Tajo",
+    "address": "MK, Jane Sandanski 98, Tetovo 1220, Tetovo 1200, North Macedonia",
+    "phone": "9812201200"
+  },
+  {
+    "name": "Shumi",
+    "address": "Ljubo Bozinovski - Pish 101-97, Tetovo 1220, North Macedonia",
+    "phone": "101971220"
+  },
+  {
+    "name": "Qebaptore Prizreni",
+    "address": "Ispod pruga Tetovo MK, 1200, North Macedonia",
+    "phone": "+38970717549"
+  },
+  {
+    "name": "Qebaptore Matranç",
+    "address": "Ilindenit 94/1, Tetovë 1200, Tetovo, North Macedonia",
+    "phone": "+38971503190"
+  },
+  {
+    "name": "Pizza Bella",
+    "address": "ul. Marsal Tito br 56 Tetovo MK, 1200, North Macedonia",
+    "phone": "+38944330199"
+  },
+  {
+    "name": "Restaurant Aktive",
+    "address": "MK, Jane Sandanski 2-a, Tetovo 1200, North Macedonia",
+    "phone": "+38970620493"
+  },
+  {
+    "name": "Te Luta",
+    "address": "Marshal Tito, Tetovo 1220, North Macedonia",
+    "phone": "+38970256711"
+  },
+  {
+    "name": "Doner King",
+    "address": "tetovo, Marshal Tito i, Tetovo, North Macedonia",
+    "phone": "+38944355333"
+  },
+  {
+    "name": "ChickChick",
+    "address": "Jane Sandanski, Tetovo 1220, North Macedonia",
+    "phone": "+38944391444"
+  },
+  {
+    "name": "Restaurant Pizzeria Tinello",
+    "address": "Boris Kidrich, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Burger King",
+    "address": "Near Ajducko, Tetovo 1220, Tetovo 1200, North Macedonia",
+    "phone": "12201200"
+  },
+  {
+    "name": "Sirac Restaurant",
+    "address": "Blagoja Toska, Tetovo 1220, North Macedonia",
+    "phone": "+38978255077"
+  },
+  {
+    "name": "Burektore Bosna",
+    "address": "Борис Кидрич bb, Tetovo 1200, North Macedonia",
+    "phone": "+38944344404"
+  },
+  {
+    "name": "Pizzeria F.S. Kurtishi 2",
+    "address": "Str.113 Local 7 Tetovo MK, 1200, North Macedonia",
+    "phone": "11371200"
+  },
+  {
+    "name": "Forum Caffe Pizzeria",
+    "address": "Димо Гавровски Кара 2, Tetovo 1220, North Macedonia",
+    "phone": "+38971575795"
+  },
+  {
+    "name": "Кафана Гајба",
+    "address": "Kiro Ristoski Drnc 1220, Tetovo 1220, North Macedonia",
+    "phone": "12201220"
+  },
+  {
+    "name": "Remall",
+    "address": "Marshal Tito, Tetovo 1220, North Macedonia",
+    "phone": "+38970920011"
+  },
+  {
+    "name": "Palma",
+    "address": "S. Gllogji, Tetovo 1211, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Amper Bau-Center",
+    "address": "Ilindenska 118, Tetovo 1200, North Macedonia",
+    "phone": "+38944345240"
+  },
+  {
+    "name": "Prima Center",
+    "address": "Ilirija bb, Tetovo 1200, North Macedonia",
+    "phone": "+3894434379"
+  },
+  {
+    "name": "Mio Kom",
+    "address": "Boulevard Vidoe Smilevski Bato, Tetovo 1220, North Macedonia",
+    "phone": "+38944351305"
+  },
+  {
+    "name": "Amper Bau-Center",
+    "address": "Marshal Tito, Tetovo 1200, North Macedonia",
+    "phone": "+38954975865"
+  },
+  {
+    "name": "Ramstore",
+    "address": "Medical High School Nikola Stein, Tetovo 1220, North Macedonia",
+    "phone": "+38954652842"
+  },
+  {
+    "name": "Via Center",
+    "address": "Bul.ilirjia bb, Tetovo 1200, North Macedonia",
+    "phone": "+38970240613"
+  },
+  {
+    "name": "Рамстор",
+    "address": "Ilindenska 86/5, Tetovo 1220 Tetovo MK, 2000, North Macedonia",
+    "phone": "86512202000"
+  },
+  {
+    "name": "Shopping center „East Gate“",
+    "address": "Strasho Pindjur Rd, Tetovo 1200, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Vero Jumbo - Tetovo",
+    "address": "Tetovo, Via Kompleks, 1220 Tetovo MK, 1200, North Macedonia",
+    "phone": "12201200"
+  },
+  {
+    "name": "Shopping center „Capitol Mall“",
+    "address": "Marshal Tito 57-19, Tetovo 1200, North Macedonia",
+    "phone": "57191200"
+  },
+  {
+    "name": "Shopping center „Leptokarija“",
+    "address": "Кеј 13-ти Ноември, Skopje 1000, North Macedonia",
+    "phone": "+38970236527"
+  },
+  {
+    "name": "Shopping center „Vero“",
+    "address": "Ss Cyril & Methodius 13, Skopje 1000, North Macedonia",
+    "phone": "+38923178030"
+  },
+  {
+    "name": "Crazy Baby Center",
+    "address": "ul.2 br.6, Saraj, Skopje 1000, North Macedonia",
+    "phone": "+38922042452"
+  },
+  {
+    "name": "Shopping center „Mavrovka“",
+    "address": "11th October St. 1000, Skopje 1000, North Macedonia",
+    "phone": "1110001000"
+  },
+  {
+    "name": "Shopping center „Point Retail Park“",
+    "address": "Boulevard Jane Sandanski 69, Skopje 1000, North Macedonia",
+    "phone": "+38922444442"
+  },
+  {
+    "name": "Shopping center „Saraj“",
+    "address": "Blv MK, Makedonsko Kosovska Brigada 67, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Shopping center „Biser“",
+    "address": "Boulevard Krste Petkov Misirkov, Skopje 1000, North Macedonia",
+    "phone": "+38977941503"
+  },
+  {
+    "name": "Pet Centar",
+    "address": "MK MK, Boulevard Jane Sandanski 71A, Skopje 1000, North Macedonia",
+    "phone": "+38922460045"
+  },
+  {
+    "name": "Old City Shopping Center Tetovo",
+    "address": "Belasitsa 2, Skopje 1000, North Macedonia",
+    "phone": "+38971381454"
+  },
+  {
+    "name": "Xhamia e Larme",
+    "address": "R1106, Prilep, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Arabati Baba Tekke",
+    "address": "MK, Makedonija 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  },
+  {
+    "name": "Национален Парк Маврово",
+    "address": "Mavrovo lake, Mavrovo, North Macedonia",
+    "phone": "+38942489425"
+  },
+  {
+    "name": "Peshna Cave",
+    "address": "Braka Milladinovi, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Old Bazaar",
+    "address": "MK, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Canyon Matka",
+    "address": "Борис Кидрич 29, Tetovo 1220, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Tetovo",
+    "address": "VStreet 1;Village Matka, Village Matka 1000, North Macedonia",
+    "phone": "+38970271900"
+  },
+  {
+    "name": "St. Panteleimon",
+    "address": "Road to Galichnik, 1255, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Duf Waterfall",
+    "address": "Atanas Babata, Skopje 1000, North Macedonia",
+    "phone": null
+  },
+  {
+    "name": "Mustafa Paša",
+    "address": "29 Noemvri 6250, Kichevo 6250, North Macedonia",
+    "phone": "2962506250"
+  },
+  {
+    "name": "Sharr Mountain National Park",
+    "address": "Fort Kale, MK MK, Fort Kale, Skopje 1000, North Macedonia",
+    "phone": "+38923297204"
+  },
+  {
+    "name": "Old Mavrovo Church",
+    "address": "Кеј Димитар Влахов 1000, Skopje 1000, North Macedonia",
+    "phone": "10001000"
+  }
+]
