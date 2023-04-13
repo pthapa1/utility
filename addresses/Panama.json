@@ -145,11 +145,6 @@
     "phone": "61832407"
   },
   {
-    "name": "Wingate by Wyndham Panama City Area Lynn Haven",
-    "address": "902 N Tyndall Pkwy, Callaway, FL 32404",
-    "phone": "90232404"
-  },
-  {
     "name": "Emerald Beach Resort by Resort Collection",
     "address": "15811 Front Beach Rd, Panama City Beach, FL 32413",
     "phone": "1581132413"
@@ -423,11 +418,6 @@
     "name": "Hathaway Inn",
     "address": "17710 Panama City Beach Pkwy, Panama City Beach, FL 32413",
     "phone": "1771032413"
-  },
-  {
-    "name": "Bahama Breeze Suites",
-    "address": "2610 Lynn Haven Pkwy, Lynn Haven, FL 32444",
-    "phone": "261032444"
   },
   {
     "name": "Comfort Suites Panama City near Tyndall AFB",
@@ -1085,11 +1075,6 @@
     "phone": "831732407"
   },
   {
-    "name": "Coronado Village",
-    "address": "2310 FL-77, Lynn Haven, FL 32444",
-    "phone": "23107732444"
-  },
-  {
     "name": "Lyndell Centre",
     "address": "S, 2419 Thomas Dr, Panama City Beach, FL 32408",
     "phone": "241932408"
@@ -1098,11 +1083,6 @@
     "name": "Arcade",
     "address": "1711 Thomas Dr, Panama City Beach, FL 32408",
     "phone": "171132408"
-  },
-  {
-    "name": "Lynn Haven Shopping Center",
-    "address": "1812 FL-77, Lynn Haven, FL 32444",
-    "phone": "18127732444"
   },
   {
     "name": "Promenade mall",
@@ -1125,19 +1105,9 @@
     "phone": "831732408"
   },
   {
-    "name": "Beach Outlets",
-    "address": "1812 FL-77, Lynn Haven, FL 32444",
-    "phone": "18127732444"
-  },
-  {
     "name": "Beach Shopping Center",
     "address": "600 Pier Park Dr, Panama City Beach, FL 32413",
     "phone": "60032413"
-  },
-  {
-    "name": "The Treasure Box by C&M LLC",
-    "address": "2310 FL-77, Lynn Haven, FL 32444",
-    "phone": "23107732444"
   },
   {
     "name": "23rd Street Station",
@@ -1400,11 +1370,6 @@
     "phone": "+5073058800"
   },
   {
-    "name": "Princess Hotel Panama",
-    "address": "Panamá, Panama",
-    "phone": "+50763303190"
-  },
-  {
     "name": "American Trade Hotel & Hall",
     "address": "Calle Eusebio A. Morales &, Av. Central España Edificio 111, Panamá, Panama",
     "phone": "+5072159000"
@@ -1418,11 +1383,6 @@
     "name": "Riande Urban Hotel",
     "address": "Multiplaza Pacific Mall Via Israel Avenue, Panama City, Panama",
     "phone": "+5073010101"
-  },
-  {
-    "name": "Hotel Sevilla Suites",
-    "address": "Panama City, Panama",
-    "phone": "+50764305064"
   },
   {
     "name": "Residencial El Amanecer",
@@ -1600,11 +1560,6 @@
     "phone": "+5073100600"
   },
   {
-    "name": "Hotel Caribe",
-    "address": "Panama City, Panama",
-    "phone": "+5073801200"
-  },
-  {
     "name": "TRYP by Wyndham Panama Centro",
     "address": "Calle Uruguay &, Av. Vasco Nuñez de Balboa, Panama City, Panama",
     "phone": "+5072973200"
@@ -1650,29 +1605,9 @@
     "phone": "+50763281442"
   },
   {
-    "name": "Los Guayacanes Restaurante",
-    "address": "San Miguelito, Panama",
-    "phone": "+5073816128"
-  },
-  {
     "name": "Restaurante Precio Popular",
     "address": "Transistmica, Calle Principal, San Miguelito, Panama",
     "phone": "+5072379888"
-  },
-  {
-    "name": "Fonda DARY'S Rincóncito Nica",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "Fonda Los Tecales",
-    "address": "San Miguelito, Panama",
-    "phone": "+5073888634"
-  },
-  {
-    "name": "Restaurante Corvina 911",
-    "address": "San Miguelito, Panama",
-    "phone": "+50761279804"
   },
   {
     "name": "Las Terrazas Norelis 2 Milla 8",
@@ -1720,16 +1655,6 @@
     "phone": "+5072035800"
   },
   {
-    "name": "Don Samy",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "Restaurante YEE",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
     "name": "Restaurante El Más Pegado",
     "address": "Av. Urraca 132500, San Miguelito, Panama",
     "phone": null
@@ -1745,11 +1670,6 @@
     "phone": "+5072460195"
   },
   {
-    "name": "Los Chilpayates",
-    "address": "San Miguelito, Panama",
-    "phone": "+5073820704"
-  },
-  {
     "name": "Restaurante Koncolón",
     "address": "El valle de, San Miguelito, Panama",
     "phone": "+50766366635"
@@ -1760,11 +1680,6 @@
     "phone": "+50767909236"
   },
   {
-    "name": "ESNAKI",
-    "address": "San Miguelito, Panama",
-    "phone": "+50769633507"
-  },
-  {
     "name": "Pizzeria Leonardo",
     "address": "1ra C 732, San Miguelito, Panama",
     "phone": null
@@ -1773,11 +1688,6 @@
     "name": "GARY CEVICHE GOURMET",
     "address": "Ph Premier Plaza, San Miguelito, Panama",
     "phone": "+5073827830"
-  },
-  {
-    "name": "Ingrid's Real Jamaicana seafood Grill",
-    "address": "San Miguelito, Panama",
-    "phone": "+50760922552"
   },
   {
     "name": "Fresko´s Deli Café & Restaurant",
@@ -1795,19 +1705,9 @@
     "phone": "+50767558034"
   },
   {
-    "name": "Restaurante Donde Renato",
-    "address": "San Miguelito, Panama",
-    "phone": "+5078003664"
-  },
-  {
     "name": "Super 7",
     "address": "AL LADO DEL BANCO NACIONAL, Brisas del Golf, San Miguelito, Panama",
     "phone": "+5073881218"
-  },
-  {
-    "name": "Fonda Calidad",
-    "address": "San Miguelito, Panama",
-    "phone": "+50764820253"
   },
   {
     "name": "Location Seven Food Truck",
@@ -1818,11 +1718,6 @@
     "name": "Restaurante Yony",
     "address": "Calle D, San Miguelito, Panama",
     "phone": null
-  },
-  {
-    "name": "Subway",
-    "address": "San Miguelito, Panama",
-    "phone": "+50769691025"
   },
   {
     "name": "Restaurante Katherine",
@@ -1875,11 +1770,6 @@
     "phone": null
   },
   {
-    "name": "Restaurante Jenny",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
     "name": "Urban food",
     "address": "Puente rojo, San Miguelito, Samaria sector 4, puente rojo San Miguelito, Panamá, Panama",
     "phone": null
@@ -1925,31 +1815,6 @@
     "phone": null
   },
   {
-    "name": "Restaurante la promesa",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "McDonald's",
-    "address": "San Miguelito, Panama",
-    "phone": "+50764342443"
-  },
-  {
-    "name": "Pío Pío",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "Coco market",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "McDonald's",
-    "address": "San Miguelito, Panama",
-    "phone": "+5073091230"
-  },
-  {
     "name": "Panadería Don Jorge. 24 hrs",
     "address": "Av. Brisas del Golf, San Miguelito, Panama",
     "phone": "+50769205207"
@@ -1980,19 +1845,9 @@
     "phone": "+50769093360"
   },
   {
-    "name": "A lo Paisa",
-    "address": "San Miguelito, Panama",
-    "phone": "+5072090156"
-  },
-  {
     "name": "Tsugoi Asian Cuisine - Brisas del Golf",
     "address": "Panama, San Miguelito, Manzana 081009",
     "phone": "+50768213117"
-  },
-  {
-    "name": "La Cevicheria Panama I Brisas del Golf",
-    "address": "San Miguelito, Panama",
-    "phone": "+5072045000"
   },
   {
     "name": "Azahar restaurante",
@@ -2005,24 +1860,9 @@
     "phone": "+50760092709"
   },
   {
-    "name": "La Salida Bar And Grill",
-    "address": "San Miguelito, Panama",
-    "phone": "+50766916919"
-  },
-  {
-    "name": "Restaurante Multisabores",
-    "address": "San Miguelito, Panama",
-    "phone": "+50768581134"
-  },
-  {
     "name": "A Lo Panameño, Fonda y Refresqueria",
     "address": "Calle Don Bosco, San Miguelito, Panama",
     "phone": "+50766590230"
-  },
-  {
-    "name": "La Kazuela Restaurante",
-    "address": "San Miguelito, Panama",
-    "phone": null
   },
   {
     "name": "Marco Polo | #2 Villa Lucre",
@@ -2035,19 +1875,9 @@
     "phone": "+50767512490"
   },
   {
-    "name": "Domino's Pizza",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
     "name": "La Chantin #DeManoDePiedra",
     "address": "Calle de Circunvalacion, Panama City, Panama",
     "phone": "+5072748245"
-  },
-  {
-    "name": "Fonda Darien",
-    "address": "San Miguelito, Panama",
-    "phone": "+5072377441"
   },
   {
     "name": "Mami´s kitchen",
@@ -2058,11 +1888,6 @@
     "name": "Hospital San Miguel arcangel",
     "address": "C. 60 3480, San Miguelito, Panama",
     "phone": "+50765442479"
-  },
-  {
-    "name": "La Wena Burguer",
-    "address": "San Miguelito, Panama",
-    "phone": "+50767808352"
   },
   {
     "name": "Los Pollos Hermanos | Villa Lucre",
@@ -2080,11 +1905,6 @@
     "phone": "+50767047710"
   },
   {
-    "name": "Fuddruckers",
-    "address": "San Miguelito, Panama",
-    "phone": "+5072205404"
-  },
-  {
     "name": "Slabon | Brisas Del Golf",
     "address": "Calle Principal 18, San Miguelito, Panama",
     "phone": "+5072305257"
@@ -2098,16 +1918,6 @@
     "name": "Hamburguesas Vaqueras - Brisas del Golf",
     "address": "Villa Lucre, corregimiento, San Miguelito, Panama",
     "phone": "+5073887033"
-  },
-  {
-    "name": "Centro Comercial San Miguelito",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "Greenwood Plaza",
-    "address": "San Miguelito, Panama",
-    "phone": "+5072808250"
   },
   {
     "name": "P.H. Plaza Dragon",
@@ -2125,11 +1935,6 @@
     "phone": null
   },
   {
-    "name": "Villa Zaita Mall",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
     "name": "PH Plaza El Golf",
     "address": "Av. Domingo Díaz, San Miguelito, Panama",
     "phone": "+5072174188"
@@ -2138,16 +1943,6 @@
     "name": "Plaza De Restaurantes",
     "address": "2FHV+VJV Estación San Miguelito, Transístmica, San Miguelito, Panama",
     "phone": null
-  },
-  {
-    "name": "P.H. Plaza Brisas 507",
-    "address": "San Miguelito, Panama",
-    "phone": "+5073023222"
-  },
-  {
-    "name": "Plaza Roosevelt",
-    "address": "San Miguelito, Panama",
-    "phone": "+5072039416"
   },
   {
     "name": "Mini Mall La Condesa",
@@ -2160,19 +1955,9 @@
     "phone": null
   },
   {
-    "name": "Las Colinas Mall",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
     "name": "Se Vende esta Propiedad",
     "address": "Plaza Comercial Las Pirámides, Vía España, Panamá, Panama",
     "phone": null
-  },
-  {
-    "name": "Golf Park Plaza",
-    "address": "Panamá, Panama",
-    "phone": "+5072142376"
   },
   {
     "name": "Suns mobile center",
@@ -2193,11 +1978,6 @@
     "name": "AltaPlaza Mall",
     "address": "Los Andes Mall, San Miguelito, Panama",
     "phone": "+5073082222"
-  },
-  {
-    "name": "Crystal Plaza",
-    "address": "Panama City, Panama",
-    "phone": null
   },
   {
     "name": "Del Este Center",
@@ -2223,16 +2003,6 @@
     "name": "Atrio Mall in Costa del Este",
     "address": "Corredor Nte., Panamá, Panama",
     "phone": "+50763163885"
-  },
-  {
-    "name": "Metromall Panamá",
-    "address": "Panamá, Panama",
-    "phone": "+5073027256"
-  },
-  {
-    "name": "Plaza Milla 8",
-    "address": "Panama City, Panama",
-    "phone": "+50760909462"
   },
   {
     "name": "Centro Comercial Condado Mall",
@@ -2290,11 +2060,6 @@
     "phone": "+5073945563"
   },
   {
-    "name": "Plaza Altos De Panamá",
-    "address": "Panama City, Panama",
-    "phone": "+50765057288"
-  },
-  {
     "name": "Blinds & Pvc by Diseños y Madera",
     "address": "Carretera Panamericana, Panamá, Panama",
     "phone": "+5073922277"
@@ -2302,16 +2067,6 @@
   {
     "name": "Diana Shopping Center",
     "address": "C. 75 Este, Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "P.H. Sun Tower Mall",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "C.C. Green Plaza",
-    "address": "San Miguelito, Panama",
     "phone": null
   },
   {
@@ -2325,24 +2080,9 @@
     "phone": "+5078305358"
   },
   {
-    "name": "C.C. Plaza del Lago",
-    "address": "Panama City, Panama",
-    "phone": "+50760402416"
-  },
-  {
     "name": "The Plaza San Francisco",
     "address": "Av. Ricardo Joaquin Alfaro, Panamá, Panama",
     "phone": "+5072131516"
-  },
-  {
-    "name": "Plaza Aventura Business Center",
-    "address": "Panama City, Panama",
-    "phone": "+5073737088"
-  },
-  {
-    "name": "Plaza Kamilah",
-    "address": "Panama City, Panama",
-    "phone": "+5073887902"
   },
   {
     "name": "Centro Comercial El Dorado",
@@ -2350,39 +2090,14 @@
     "phone": "+5072747300"
   },
   {
-    "name": "Town Center Costa del Este",
-    "address": "Panamá, Panama",
-    "phone": "+50766904612"
-  },
-  {
-    "name": "Las Quintas de Villa Lucre",
-    "address": "Panama City, Panama",
-    "phone": "+5072027777"
-  },
-  {
     "name": "City Center",
     "address": "Av. Domingo Díaz, Panamá, Panama",
     "phone": "+5078339991"
   },
   {
-    "name": "PLAZA COMERCIAL VILLALOBOS",
-    "address": "Panama City, Panama",
-    "phone": "+50762685993"
-  },
-  {
     "name": "Tvoffer Plaza Ventura",
     "address": "Av Marina del Nte, Panamá, Panama",
     "phone": "+5073031440"
-  },
-  {
-    "name": "Plaza Los Angeles",
-    "address": "Panama City, Panama",
-    "phone": "+5073912838"
-  },
-  {
-    "name": "Rey | Brisas Norte",
-    "address": "Panama City, Panama",
-    "phone": null
   },
   {
     "name": "C.C. Plaza Agora | Chanis",
@@ -2403,11 +2118,6 @@
     "name": "PLAZA VÍA ISRAEL",
     "address": "Vía Centenario, Panamá, Panama",
     "phone": "+5078307080"
-  },
-  {
-    "name": "Madison Los Andes Mall",
-    "address": "San Miguelito, Panama",
-    "phone": null
   },
   {
     "name": "Festy Center",
@@ -2440,21 +2150,6 @@
     "phone": null
   },
   {
-    "name": "Old Panama",
-    "address": "Las Cumbres, Panama",
-    "phone": "+5072324192"
-  },
-  {
-    "name": "Miraflores Locks",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Museo Afroantillano de Panamá",
-    "address": "Panama City, Panama",
-    "phone": "+5072768449"
-  },
-  {
     "name": "Biomuseo",
     "address": "Plaza de la Independencia, C. 5a Este, Panamá, Panama",
     "phone": "+5072111649"
@@ -2463,11 +2158,6 @@
     "name": "Punta Culebra Nature Center",
     "address": "Vía Cincuentenario, Panamá, Panama",
     "phone": "+5072268915"
-  },
-  {
-    "name": "Causeway Amador",
-    "address": "Panamá, Panama",
-    "phone": "+5075014131"
   },
   {
     "name": "Panama Canal Museum",
@@ -2545,24 +2235,9 @@
     "phone": null
   },
   {
-    "name": "Casa Góngora",
-    "address": "Gualaca District, Panama",
-    "phone": null
-  },
-  {
-    "name": "Summit Trampoline Park",
-    "address": "Taboga, Panama",
-    "phone": "+5072502160"
-  },
-  {
     "name": "Parque Municipal Summit",
     "address": "Transístmica, San Miguelito, Panama",
     "phone": null
-  },
-  {
-    "name": "National Theatre",
-    "address": "Gamboa, Panama",
-    "phone": "+50766765611"
   },
   {
     "name": "Museum of Liberty",
@@ -2573,16 +2248,6 @@
     "name": "El Chorro de La Chorrera",
     "address": "Vía a, Río Congo, Panama",
     "phone": "+5073424839"
-  },
-  {
-    "name": "Chorro Las Mozas",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "Mola Museum",
-    "address": "Punta Chame, Panama",
-    "phone": null
   },
   {
     "name": "Restinga Beach",
@@ -2605,29 +2270,9 @@
     "phone": null
   },
   {
-    "name": "Cerro Ancón hawkwatch",
-    "address": "Errebache Embera, Panama",
-    "phone": "+5072044900"
-  },
-  {
-    "name": "Parque Costa del Este",
-    "address": "La Chorrera, Panama",
-    "phone": null
-  },
-  {
     "name": "Playa Punta Chame",
     "address": "C. José D. de la Obaldía, Panamá, Panama",
     "phone": "+5073831227"
-  },
-  {
-    "name": "Gamboa Tree Trek",
-    "address": "Anton Valley, Panama",
-    "phone": null
-  },
-  {
-    "name": "Kontraste Adventure",
-    "address": "Panama City, Panama",
-    "phone": "+5073100748"
   },
   {
     "name": "Museum of Panamanian History",
@@ -2670,28 +2315,8 @@
     "phone": "+5072268915"
   },
   {
-    "name": "CONOZCA PANAMA PRIMERO Tours & Transfers, S. A.",
-    "address": "Panama City, Panama",
-    "phone": "+5072325552"
-  },
-  {
-    "name": "San Blas Dreams • San Blas & Panama Tours",
-    "address": "Panama City, Panama",
-    "phone": "+5072283986"
-  },
-  {
     "name": "Gamboa Rainforest Reserve",
     "address": "Hotel San Felipe, Av. A, Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "Sea San Blas | San Blas Tours",
-    "address": "Colón, Panama",
-    "phone": null
-  },
-  {
-    "name": "Go Panama Bike Tours",
-    "address": "Panamá, Panama",
     "phone": null
   },
   {
@@ -2703,11 +2328,6 @@
     "name": "Lam Tours Panama",
     "address": "C. San Blas, Panamá, Panama",
     "phone": "+5072623380"
-  },
-  {
-    "name": "miguel tours panama",
-    "address": "Gamboa, Panama",
-    "phone": "+5072646266"
   },
   {
     "name": "Panama City",
@@ -2723,11 +2343,6 @@
     "name": "Puente del Rey",
     "address": "Unnamed Road, Taboga, Panama",
     "phone": null
-  },
-  {
-    "name": "Panama Day Trips- Canal Eco Tours",
-    "address": "Colón, Panama",
-    "phone": "+5072768325"
   },
   {
     "name": "Calzada de Amador",
@@ -2753,11 +2368,6 @@
     "name": "LOS PANAS Hostel",
     "address": "Av. Cincuentenario, Panamá, Panama",
     "phone": "+5072268915"
-  },
-  {
-    "name": "Crowne Plaza Panama Airport, an IHG Hotel",
-    "address": "Panama City, Panama",
-    "phone": "+50764305064"
   },
   {
     "name": "Riande Airport Hotel",
@@ -2943,11 +2553,6 @@
     "name": "Princess Hotel Panama",
     "address": "C. José Martí, Panamá, Panama",
     "phone": "+5073960100"
-  },
-  {
-    "name": "Hotel Las Américas Golden Tower Panamá",
-    "address": "Panamá, Panama",
-    "phone": "+50763303190"
   },
   {
     "name": "Hampton by Hilton Panama",
@@ -3215,11 +2820,6 @@
     "phone": "+50766225690"
   },
   {
-    "name": "Hotel Bahía Suites",
-    "address": "Panama City, Panama",
-    "phone": "+5073801200"
-  },
-  {
     "name": "Hotel Casa Panamá",
     "address": "Edificio Pacific Center, C. Ramon H. Jurado, Panama City, Panama",
     "phone": "+5073100600"
@@ -3230,19 +2830,9 @@
     "phone": null
   },
   {
-    "name": "Restaurante El Mirador - Mini Super Tocumen",
-    "address": "Panama City, Panama",
-    "phone": "+50761086515"
-  },
-  {
     "name": "Parrillada 507",
     "address": "Calle Enrique Malek, Panama City, Panama",
     "phone": null
-  },
-  {
-    "name": "Casa Ajena | Restaurante & Terraza Pub",
-    "address": "Panama City, Panama",
-    "phone": "+5073990859"
   },
   {
     "name": "Los Golosos Fast Food",
@@ -3265,34 +2855,9 @@
     "phone": null
   },
   {
-    "name": "Chepo",
-    "address": "Panama City, Panama",
-    "phone": "+5073965823"
-  },
-  {
-    "name": "RESTAURANTE LUCY B",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
     "name": "Pío Pío",
     "address": "C. Los Comuneros 551-18, Panamá, Panama",
     "phone": null
-  },
-  {
-    "name": "Restaurante Jerry 3",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "McPoroto",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Los golosos fast food",
-    "address": "Panama City, Panama",
-    "phone": "+5072384151"
   },
   {
     "name": "Restaurante Yei",
@@ -3320,11 +2885,6 @@
     "phone": "+50767715296"
   },
   {
-    "name": "Carl's Jr.",
-    "address": "Panama City, Panama",
-    "phone": "+5072045000"
-  },
-  {
     "name": "RESTAURANTE Y CEVICHERIA MIRAMAR",
     "address": "Av. Primera Sur 15, Panamá, Panama",
     "phone": "+50762793162"
@@ -3333,26 +2893,6 @@
     "name": "Restaurante Frutos del Mar",
     "address": "Tocumen Belen Sector 7, Calle Cambutal, Panama City, Panama",
     "phone": "+50765715838"
-  },
-  {
-    "name": "Mr.BeefPty",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Wimpys Plaza Tocumen",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Pollo El Dominic",
-    "address": "Panama City, Panama",
-    "phone": "+5073985450"
-  },
-  {
-    "name": "Niko's Café Aeropuerto de Tocúmen",
-    "address": "Panama City, Panama",
-    "phone": null
   },
   {
     "name": "Oh Toro Ramen & Sushi | Aeropuerto Tocumen",
@@ -3370,19 +2910,9 @@
     "phone": null
   },
   {
-    "name": "Gran tentación restaurant",
-    "address": "Panamá, Panama",
-    "phone": "+50767689231"
-  },
-  {
     "name": "Kangry Burger",
     "address": "Corredor Sur, Panamá, Panama",
     "phone": "+5072202030"
-  },
-  {
-    "name": "la prosperidad viene de jehova",
-    "address": "Panama City, Panama",
-    "phone": "+5073823484"
   },
   {
     "name": "McDonald's | La Siesta",
@@ -3430,24 +2960,9 @@
     "phone": "08081946394"
   },
   {
-    "name": "Olive Garden",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
     "name": "Restaurante leyi",
     "address": "Aeropuerto Internacional de Tocumen Terminal 2, Panama City, Panama",
     "phone": null
-  },
-  {
-    "name": "FONDA PALZAR (La del Manguito)",
-    "address": "Panama City, Panama",
-    "phone": "+50765561664"
-  },
-  {
-    "name": "Restaurante Parkin 507",
-    "address": "Panama City, Panama",
-    "phone": "+50762090018"
   },
   {
     "name": "Quiznos • Tocumen",
@@ -3465,29 +2980,9 @@
     "phone": "+50762825417"
   },
   {
-    "name": "Delicias D' Sele",
-    "address": "Panama City, Panama",
-    "phone": "+50761000295"
-  },
-  {
-    "name": "Fonda Cotito",
-    "address": "Panama City, Panama",
-    "phone": "+5072911027"
-  },
-  {
     "name": "Restaurate Jerry Panama Estes La Doña",
     "address": "El aereopuerto de tocumen Avenida el aéreo puerto de tocumen, Panamá, Panama",
     "phone": "+50760271020"
-  },
-  {
-    "name": "Mc Donalds | Nuevo Tocumen",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "KFC Buena Vista",
-    "address": "Panama City, Panama",
-    "phone": "+50761117137"
   },
   {
     "name": "Rest 888",
@@ -3497,16 +2992,6 @@
   {
     "name": "Gran tentación restaurant",
     "address": "24 de Diciembre, Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Yowii",
-    "address": "Panama City, Panama",
-    "phone": "+5073888080"
-  },
-  {
-    "name": "Aeropost Tocumen",
-    "address": "Panama City, Panama",
     "phone": null
   },
   {
@@ -3528,16 +3013,6 @@
     "name": "Maagoo’s Fish Tacos",
     "address": "vía Panamericana, diagonal al Cc La Doña, al frente de discoteca Infinity, Panamericana, Panama",
     "phone": "+5073965554"
-  },
-  {
-    "name": "La Mia Pizza | La Doña",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Olive Garden",
-    "address": "Panamá, Panama",
-    "phone": null
   },
   {
     "name": "Deli Fish PTY",
@@ -3565,11 +3040,6 @@
     "phone": "+50765106886"
   },
   {
-    "name": "Las Wings de Papá",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
     "name": "Viena Pizza y Pasta",
     "address": "Calle Marcos Gelabert 2615, Panama City, Panama",
     "phone": null
@@ -3583,16 +3053,6 @@
     "name": "Fren Q Rico",
     "address": "Calle 4003 4003, Panamá, Panama",
     "phone": "40034003"
-  },
-  {
-    "name": "Restaurante Nueva Katherine 2",
-    "address": "Panama City, Panama",
-    "phone": "+50760890700"
-  },
-  {
-    "name": "Restaurante Jenny",
-    "address": "Panamá, Panama",
-    "phone": "+50767218870"
   },
   {
     "name": "Subway",
@@ -3635,11 +3095,6 @@
     "phone": null
   },
   {
-    "name": "Teriyaki Experience",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
     "name": "Little Caesars Pizza | Nuevo Tocumen",
     "address": "507, Av. Sta. Lucía, C. 17k, casa 134, Tocumen, Panamá, Panamá, Panama",
     "phone": "50717134"
@@ -3660,11 +3115,6 @@
     "phone": "+5073962175"
   },
   {
-    "name": "Subway | Plaza Nuevo Tocumen",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
     "name": "Asados domic",
     "address": "7107, Panamá, Panama",
     "phone": "+50764862198"
@@ -3675,38 +3125,8 @@
     "phone": null
   },
   {
-    "name": "Deli Swit 507",
-    "address": "Panama City, Panama",
-    "phone": "+5073850377"
-  },
-  {
-    "name": "En La Luna",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Tasty Burguers",
-    "address": "Panama City, Panama",
-    "phone": "+5073850377"
-  },
-  {
     "name": "Antojitos food fast pty",
     "address": "AEROPUERTO INTL. TOCUMEN VIA TOCUMEN S/N, Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza Tocumen",
-    "address": "Cruze, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza Altos De Tocumen",
-    "address": "Panama City, Panama",
-    "phone": "+5072953213"
-  },
-  {
-    "name": "Plaza La Siesta",
-    "address": "Panama City, Panama",
     "phone": null
   },
   {
@@ -3715,19 +3135,9 @@
     "phone": null
   },
   {
-    "name": "Plaza Nuevo Tocumen",
-    "address": "Panama City, Panama",
-    "phone": "+5073867107"
-  },
-  {
     "name": "Plazas Mas | La Siesta",
     "address": "Av. Jose Agustin Arango 15, Panamá, Panama",
     "phone": "+50766736810"
-  },
-  {
-    "name": "P.H. Plaza Tocumen",
-    "address": "Panama City, Panama",
-    "phone": null
   },
   {
     "name": "DORADA PARK CENTRO COMERCIAL Y BODEGAS",
@@ -3740,39 +3150,13 @@
     "phone": null
   },
   {
-    "name": "Plaza Santa Fe",
-    "address": "Panamá, Panama",
-    "phone": "+50760898125"
-  },
-  {
     "name": "Sky La Siesta Plaza",
     "address": "Sta. Eduviges 369-6, Panamá, Panama",
     "phone": null
   },
-  { "name": "Plaza H Q", "address": "Panamá, Panama", "phone": null },
   {
     "name": "Plaza Cabuya",
     "address": "Villa de la Siesta, Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "SILVER PLAZA",
-    "address": "Panama City, Panama",
-    "phone": "+50765404983"
-  },
-  {
-    "name": "Plaza Belén - Morelos Tocúmen",
-    "address": "Panama City, Panama",
-    "phone": "+50769246593"
-  },
-  {
-    "name": "Plaza Fénix Town",
-    "address": "Panama City, Panama",
-    "phone": "+50763962589"
-  },
-  {
-    "name": "PLAZA PANAMERICANA",
-    "address": "Panama City, Panama",
     "phone": null
   },
   {
@@ -3786,11 +3170,6 @@
     "phone": "+5072000191"
   },
   {
-    "name": "AIRPORT COMMERCIAL PARK",
-    "address": "Panama City, Panama",
-    "phone": "+5073955260"
-  },
-  {
     "name": "Centro Comercial Nuevo Aeropuerto",
     "address": "Av. Costanera, Panamá, Panama",
     "phone": null
@@ -3799,11 +3178,6 @@
     "name": "Plaza Imperial",
     "address": "Av. Centenario, Panamá, Panama",
     "phone": "+50767815071"
-  },
-  {
-    "name": "Airport Comercial Center Plaza",
-    "address": "Panamá, Panama",
-    "phone": null
   },
   {
     "name": "Super mercado panaderia hermoso",
@@ -3831,11 +3205,6 @@
     "phone": "+5073008696"
   },
   {
-    "name": "GRUPO RIOS CHONG",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
     "name": "Airport Commercial Park",
     "address": "Av. Jose Agustin Arango, Panamá, Panama",
     "phone": "+5072957747"
@@ -3846,23 +3215,8 @@
     "phone": "+5078305358"
   },
   {
-    "name": "Aiport Commercial Park I",
-    "address": "Panama City, Panama",
-    "phone": "+50765057288"
-  },
-  {
     "name": "Terreno",
     "address": "2G8G+CR3 Sky Plaza, Av. Centenario local 18, Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza Milenio",
-    "address": "Pacora, Panama",
-    "phone": null
-  },
-  {
-    "name": "MultisolutionGV",
-    "address": "Panama City, Panama",
     "phone": null
   },
   {
@@ -3896,16 +3250,6 @@
     "phone": "+50766188408"
   },
   {
-    "name": "Centro Comercial Villa Daniela",
-    "address": "Panama City, Panama",
-    "phone": "+5072640890"
-  },
-  {
-    "name": "Plaza Hercules",
-    "address": "Panama City, Panama",
-    "phone": "+50767282456"
-  },
-  {
     "name": "CEDI TANDOR MAÑANITAS",
     "address": "Avenida Urraca 2, Panama City, Panama",
     "phone": null
@@ -3921,34 +3265,9 @@
     "phone": "+5072153394"
   },
   {
-    "name": "Plaza Monterico",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza Las Mañanitas",
-    "address": "Panama City, Panama",
-    "phone": "+5073912838"
-  },
-  {
     "name": "Plaza El Cruce",
     "address": "CC Cantabria, Local #, Calle 16 B, Panamá, Panama",
     "phone": "+5073886012"
-  },
-  {
-    "name": "C C Las Terrazas",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Espectaculo De Colores",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza El Parador Pedregal",
-    "address": "Panama City, Panama",
-    "phone": null
   },
   {
     "name": "Diana Shopping Center",
@@ -3961,11 +3280,6 @@
     "phone": null
   },
   {
-    "name": "Lavanderia y Lavamatico Doble Clean",
-    "address": "Panama City, Panama",
-    "phone": "+5073962596"
-  },
-  {
     "name": "Sun Plaza",
     "address": "Av. Jose Agustin Arango, Panamá, Panama",
     "phone": null
@@ -3974,16 +3288,6 @@
     "name": "ELEKTRON, S.A.",
     "address": "Av. Domingo Díaz, Panamá, Panama",
     "phone": "+50766684536"
-  },
-  {
-    "name": "Metromall Panamá",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza Mas | Santa Fe",
-    "address": "San Miguelito, Panama",
-    "phone": null
   },
   {
     "name": "BMCARGO MAÑANITAS",
@@ -3999,11 +3303,6 @@
     "name": "Del Este Center",
     "address": "Via Tocumen, Panamá, Panama",
     "phone": "+5073099930"
-  },
-  {
-    "name": "Proyecto Plaza Comercial Xtra",
-    "address": "Panama City, Panama",
-    "phone": "+5073959595"
   },
   {
     "name": "Plaza Comercial San Antonio",
@@ -4026,29 +3325,9 @@
     "phone": null
   },
   {
-    "name": "Centro Comercial Los Portales de Cerro Viento",
-    "address": "Panamá, Panama",
-    "phone": "+50763004293"
-  },
-  {
-    "name": "Plaza Centennial",
-    "address": "Panamá, Panama",
-    "phone": "+50768805823"
-  },
-  {
-    "name": "El Avanzado",
-    "address": "Panama City, Panama",
-    "phone": "+5072096600"
-  },
-  {
     "name": "Plaza Acuario",
     "address": "Av. José Agustín Arango, Panamá, Panama",
     "phone": null
-  },
-  {
-    "name": "PLAZA CABRA",
-    "address": "Panama City, Panama",
-    "phone": "+5073055600"
   },
   {
     "name": "Plaza Comercial del Norte",
@@ -4071,24 +3350,9 @@
     "phone": null
   },
   {
-    "name": "Brisas Mall",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "PLAZA LA FELICIDAD",
-    "address": "Panama City, Panama",
-    "phone": "+50766337999"
-  },
-  {
     "name": "Atrio Mall in Costa del Este",
     "address": "507 Don Bosco, Plaza tocumen, diagonal a la casa del Helado, Local N° 6, Panamá, Panama",
     "phone": "+5073755372"
-  },
-  {
-    "name": "TECH MARKET (Los Pueblos-Panamá)",
-    "address": "Panama City, Panama",
-    "phone": null
   },
   {
     "name": "Anixter, Mañanitas deposito CWP",
@@ -4096,59 +3360,9 @@
     "phone": "+5072101112"
   },
   {
-    "name": "iStrip Mall Plaza",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Multiplaza Panamá",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "P.H. C.C. VILLAGE GALLERY",
-    "address": "Panama City, Panama",
-    "phone": "+50762427045"
-  },
-  {
-    "name": "Plaza del Golf",
-    "address": "Panama City, Panama",
-    "phone": "+50763047521"
-  },
-  {
-    "name": "Town Center Costa del Este",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "AltaPlaza Mall",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
     "name": "P.H. City Plaza",
     "address": "Pan-American Hwy, Panama City, Panama",
     "phone": "+5072951026"
-  },
-  {
-    "name": "P.H. Plaza Procenter",
-    "address": "San Miguelito, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza 770",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Supercell Los Pueblos",
-    "address": "Panamá, Panama",
-    "phone": "+50764882798"
-  },
-  {
-    "name": "PLAZA PANAMA VERSALLES",
-    "address": "Panama City, Panama",
-    "phone": "+50765661490"
   },
   {
     "name": "PH Premier Plaza | Brisas del Golf",
@@ -4161,16 +3375,6 @@
     "phone": null
   },
   {
-    "name": "Plaza Elizabe II",
-    "address": "Panama City, Panama",
-    "phone": "+5073024444"
-  },
-  {
-    "name": "RC Sala de Belleza",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
     "name": "Plaza La Nueva Imagen",
     "address": "entre y, Calle Cabuya & Los Pilones 2, Panamá, Panama",
     "phone": null
@@ -4179,11 +3383,6 @@
     "name": "Selina Casco Viejo Panama City & Cowork",
     "address": "C. San Blas, Panamá, Panama",
     "phone": "+5072623380"
-  },
-  {
-    "name": "Parque Omar",
-    "address": "Las Cumbres, Panama",
-    "phone": "+5072324192"
   },
   {
     "name": "Metropolitan Natural Park Visitor Center",
@@ -4204,11 +3403,6 @@
     "name": "Old Panama",
     "address": "Amador Causeway, Panama City, Panama",
     "phone": "+50763624219"
-  },
-  {
-    "name": "Punta Culebra Nature Center",
-    "address": "Panamá, Panama",
-    "phone": "+5075014131"
   },
   {
     "name": "Parque Nacional Soberanía",
@@ -4266,11 +3460,6 @@
     "phone": "+50766173021"
   },
   {
-    "name": "National Theatre",
-    "address": "Panama City, Panama",
-    "phone": "+5072384151"
-  },
-  {
     "name": "Centro de Visitantes de Panamá Viejo",
     "address": "Albrook mall, Panamá, Panama",
     "phone": "+5078305050"
@@ -4296,24 +3485,9 @@
     "phone": null
   },
   {
-    "name": "Weil Art Gallery",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Summit Trampoline Park",
-    "address": "Taboga, Panama",
-    "phone": "+5072502160"
-  },
-  {
     "name": "Church of the Mercy",
     "address": "Manzana 080819 247-1231, Panama City, Panama",
     "phone": "0808192471231"
-  },
-  {
-    "name": "Museum of Panamanian History",
-    "address": "Gamboa, Panama",
-    "phone": "+50766765611"
   },
   {
     "name": "Tocumen International Airport Panama",
@@ -4341,11 +3515,6 @@
     "phone": null
   },
   {
-    "name": "Museum of Liberty",
-    "address": "Gualaca District, Panama",
-    "phone": null
-  },
-  {
     "name": "Panama Outdoor Adventures",
     "address": "Aeropuerto Internacional de Tocumen Terminal 1. Local C2-124, Panama City, Panama",
     "phone": "+50762850073"
@@ -4359,31 +3528,6 @@
     "name": "Playa Punta Chame",
     "address": "C. Eusebio A. Morales G37, Panamá, Panama",
     "phone": "+50760282013"
-  },
-  {
-    "name": "El Chorro de La Chorrera",
-    "address": "Panama City, Panama",
-    "phone": "+5072384412"
-  },
-  {
-    "name": "Tocumen Royal Saloon Airport VIP Lounge",
-    "address": "Punta Chame, Panama",
-    "phone": null
-  },
-  {
-    "name": "LIVE FOLKS",
-    "address": "La Chorrera, Panama",
-    "phone": null
-  },
-  {
-    "name": "Parroquia San Felipe de Neri",
-    "address": "Errebache Embera, Panama",
-    "phone": "+5072044900"
-  },
-  {
-    "name": "Olive Garden",
-    "address": "Panama City, Panama",
-    "phone": "+5073100748"
   },
   {
     "name": "Los Cangilones de Gualaca",
@@ -4406,11 +3550,6 @@
     "phone": null
   },
   {
-    "name": "Gamboa Rainforest Reserve",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
     "name": "St. Andrews State Park",
     "address": "Av. Central España, Panamá, Panama",
     "phone": null
@@ -4430,11 +3569,7 @@
     "address": "casa blanca \"La Trona, C. 48 Este-Rogelio Alfaro, Panamá, Panama",
     "phone": "+5072649697"
   },
-  {
-    "name": "Dog Park",
-    "address": "Av. A, Panamá, Panama",
-    "phone": null
-  },
+  { "name": "Dog Park", "address": "Av. A, Panamá, Panama", "phone": null },
   {
     "name": "Gamboa Rainforest Reserve",
     "address": "Av Omar Torrijos Herrera, Summit, Panama",
@@ -4466,16 +3601,6 @@
     "phone": "+5073831227"
   },
   {
-    "name": "Hard Rock Hotel Panama Megapolis",
-    "address": "Panama City, Panama",
-    "phone": "+5072768427"
-  },
-  {
-    "name": "Habla Ya Spanish School - Panama City Campus",
-    "address": "Panama City, Panama",
-    "phone": "+5072325552"
-  },
-  {
     "name": "The Santa Maria, a Luxury Collection Hotel & Golf Resort, Panama City",
     "address": "Isla Flamenco, Panamá, Panama",
     "phone": null
@@ -4484,16 +3609,6 @@
     "name": "San Felipe",
     "address": "Manzana 080814 136338-6, Panama City, Panama",
     "phone": "0808141363386"
-  },
-  {
-    "name": "Calzada de Amador",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Puente del Rey",
-    "address": "Panama City, Panama",
-    "phone": "+5072283986"
   },
   {
     "name": "Gamboa",
@@ -4509,16 +3624,6 @@
     "name": "Trump International Hotel & Tower Panama",
     "address": "Paseo de Las Bóvedas, Av. B 7-53, Panamá, Panama",
     "phone": null
-  },
-  {
-    "name": "The Westin Panama",
-    "address": "Gamboa, Panama",
-    "phone": "+5072646266"
-  },
-  {
-    "name": "Balboa",
-    "address": "Panama City, Panama",
-    "phone": "+5072768449"
   },
   {
     "name": "Waldorf Astoria Panama",
@@ -4546,259 +3651,9 @@
     "phone": null
   },
   {
-    "name": "Felipe Motta Wine Store & Deli",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "Hyatt Place Panama City/Downtown",
-    "address": "Colón, Panama",
-    "phone": "+5072768325"
-  },
-  {
-    "name": "OYO Real Palace Hotel, Teresina",
-    "address": "7077 S Clinton St, Greenwood Village, CO 80112",
-    "phone": "707780112"
-  },
-  {
-    "name": "Casa na Praia Jeri",
-    "address": "7801 E Orchard Rd, Greenwood Village, CO 80111",
-    "phone": "780180111"
-  },
-  {
-    "name": "La Quinta Inn & Suites by Wyndham Denver Tech Center",
-    "address": "9719 E Geddes Ave, Centennial, CO 80112",
-    "phone": "971980112"
-  },
-  {
-    "name": "Sheraton Denver Tech Center Hotel",
-    "address": "7007 S Clinton St, Greenwood Village, CO 80112",
-    "phone": "700780112"
-  },
-  {
-    "name": "Best Western Plus Denver Tech Center Hotel",
-    "address": "10250 E Costilla Ave, Centennial, CO 80112",
-    "phone": "1025080112"
-  },
-  {
-    "name": "DoubleTree by Hilton Hotel Denver Tech Center",
-    "address": "9280 E Costilla Ave, Englewood, CO 80112",
-    "phone": "928080112"
-  },
-  {
-    "name": "Quality Inn",
-    "address": "6565 S Boston St, Greenwood Village, CO 80111",
-    "phone": "656580111"
-  },
-  {
-    "name": "Embassy Suites by Hilton Denver Tech Center",
-    "address": "2221 S Havana St #138, Aurora, CO 80014",
-    "phone": "222113880014"
-  },
-  {
-    "name": "Courtyard by Marriott Denver Tech Center",
-    "address": "9231 E Arapahoe Rd, Greenwood Village, CO 80112",
-    "phone": "923180112"
-  },
-  {
-    "name": "Hyatt House Denver Tech Center",
-    "address": "15900 E 40th Ave, Aurora, CO 80011",
-    "phone": "159004080011"
-  },
-  {
-    "name": "InTown Suites Extended Stay Denver CO - Aurora Havana St.",
-    "address": "200 Inverness Dr W, Englewood, CO 80112",
-    "phone": "20080112"
-  },
-  {
-    "name": "Quality Inn Denver Tech Center",
-    "address": "1050 Plaza Dr, Highlands Ranch, CO 80126",
-    "phone": "105080126"
-  },
-  {
-    "name": "Hilton Garden Inn Denver Tech Center",
-    "address": "1600 Wewatta St, Denver, CO 80202",
-    "phone": "160080202"
-  },
-  {
-    "name": "DoubleTree by Hilton Hotel Denver - Aurora",
-    "address": "150 Clayton Ln, Denver, CO 80206",
-    "phone": "15080206"
-  },
-  {
-    "name": "Hilton Garden Inn Denver/Highlands Ranch",
-    "address": "5200 S Quebec St, Greenwood Village, CO 80111",
-    "phone": "520080111"
-  },
-  {
-    "name": "Hotel Colón Plaza Business Class",
-    "address": "Av César López de Lara 3446, Anáhuac, 88260 Nuevo Laredo, Tamps., Mexico",
-    "phone": "344688260"
-  },
-  {
-    "name": "Hotel Clio, a Luxury Collection Hotel, Denver Cherry Creek",
-    "address": "13696 E Iliff Pl, Aurora, CO 80014",
-    "phone": "1369680014"
-  },
-  {
-    "name": "Kimpton Hotel Born",
-    "address": "7675 E Union Ave, Denver, CO 80237",
-    "phone": "767580237"
-  },
-  {
-    "name": "Extended Stay America - Denver - Tech Center - Central",
-    "address": "1011 S Abilene St, Aurora, CO 80012",
-    "phone": "101180012"
-  },
-  {
     "name": "Hilton Denver Inverness",
     "address": "Calle 13 &, P.º Gorgas, Colón, Panama",
     "phone": "+5074462000"
-  },
-  {
-    "name": "Cafe Rio Mexican Grill",
-    "address": "4955 S Ulster St Unit 102, Denver, CO 80237",
-    "phone": "495510280237"
-  },
-  {
-    "name": "Illegal Pete's - DTC",
-    "address": "7350 E Hampden Ave Unit B-2, Denver, CO 80231",
-    "phone": "7350280231"
-  },
-  {
-    "name": "Bonchon Denver - Buchtel Blvd",
-    "address": "10909 E Arapahoe Pl Suite 100, Centennial, CO 80112",
-    "phone": "1090910080112"
-  },
-  {
-    "name": "QDOBA Mexican Eats",
-    "address": "8000 E Belleview Ave F20, Greenwood Village, CO 80111",
-    "phone": "80002080111"
-  },
-  {
-    "name": "Chipotle Mexican Grill",
-    "address": "4480 Peoria St, Denver, CO 80239",
-    "phone": "448080239"
-  },
-  {
-    "name": "QDOBA Mexican Eats",
-    "address": "5050 S Quebec St, Denver, CO 80237",
-    "phone": "505080237"
-  },
-  {
-    "name": "Chipotle Mexican Grill",
-    "address": "7465 E Arapahoe Rd Ste A, Centennial, CO 80112",
-    "phone": "746580112"
-  },
-  {
-    "name": "QDOBA Mexican Eats",
-    "address": "3970 Buchtel Blvd S #107, Denver, CO 80210",
-    "phone": "397010780210"
-  },
-  {
-    "name": "Taco Bell",
-    "address": "9351 E Arapahoe Rd, Greenwood Village, CO 80112",
-    "phone": "935180112"
-  },
-  {
-    "name": "Taco Bell",
-    "address": "5312 DTC Blvd, Greenwood Village, CO 80111",
-    "phone": "531280111"
-  },
-  {
-    "name": "Taco Bell",
-    "address": "Av. Colón Sur 1015, San Bernardo, Región Metropolitana, Chile",
-    "phone": null
-  },
-  {
-    "name": "KFC",
-    "address": "Av. Cristóbal Colón 5085, Las Condes, Región Metropolitana, Chile",
-    "phone": "+56226047761"
-  },
-  {
-    "name": "Taco Bell",
-    "address": "P.º Colón 3333, Jardín, 88260 Nuevo Laredo, Tamps., Mexico",
-    "phone": "333388260"
-  },
-  {
-    "name": "Restaurante Hudson",
-    "address": "C. de Colón, 10, 28004 Madrid, Spain",
-    "phone": "+34916148849"
-  },
-  {
-    "name": "Restaurante Chepes",
-    "address": "700,, Blvd. 50 652, Colón, Provincia de Buenos Aires, Argentina",
-    "phone": "70050652"
-  },
-  {
-    "name": "Restaurante Beirut",
-    "address": "C. de Colón, 61, 16002 Cuenca, Spain",
-    "phone": "+34969212911"
-  },
-  {
-    "name": "La Terraza de Colón",
-    "address": "Juan León Mera 2677 y, La Pinta esq, Quito 170522, Ecuador",
-    "phone": "2677170522"
-  },
-  {
-    "name": "Los Buzos",
-    "address": "Vieytes 282, E3280 Colón, Entre Ríos, Argentina",
-    "phone": "+543447592245"
-  },
-  {
-    "name": "Grand Cafe",
-    "address": "Calle Sur 7 Número 25 entre Colón y, Ote. 2, Centro, 94300 Orizaba, Ver., Mexico",
-    "phone": "725294300"
-  },
-  {
-    "name": "Restaurant Bar La Jarra",
-    "address": "Bocas del Toro, Panama",
-    "phone": "+50767269851"
-  },
-  {
-    "name": "Los Buzos",
-    "address": "Av. Bartolomé Colón, Santiago De Los Caballeros 51000, Dominican Republic",
-    "phone": "+18092410912"
-  },
-  {
-    "name": "Grand Cafe",
-    "address": "C. Troncón, 2, 29640 Fuengirola, Málaga, Spain",
-    "phone": "+34629575417"
-  },
-  {
-    "name": "Restaurant Bar La Jarra",
-    "address": "Portobelo, Panama",
-    "phone": "+50768118530"
-  },
-  {
-    "name": "El Pargo Lunar, restaurante ecológico OBC",
-    "address": "C. Colón 73, Zona Centro, 44100 Guadalajara, Jal., Mexico",
-    "phone": "+523339425208"
-  },
-  {
-    "name": "Caribbean Jam",
-    "address": "Av. Cristóbal Colón 155, Cd Guzmán Centro, 49000 Cd Guzman, Jal., Mexico",
-    "phone": "15549000"
-  },
-  {
-    "name": "Cafe La Recesion Calle 13",
-    "address": "1401 Colon Rd, Sanford, NC 27330",
-    "phone": "140127330"
-  },
-  {
-    "name": "Puerto Colon",
-    "address": "C. de Colón, 3, 28004 Madrid, Spain",
-    "phone": "+34910096216"
-  },
-  {
-    "name": "Che Pizza",
-    "address": "Av. de Colón, 163, 47195 Arroyo de la Encomienda, Valladolid, Spain",
-    "phone": "16347195"
-  },
-  {
-    "name": "The Corner Pizzería Paseó Colón",
-    "address": "C. Hernando Colón, 19, 41004 Sevilla, Spain",
-    "phone": "+34955186892"
   },
   {
     "name": "Cuna Merida",
@@ -4806,79 +3661,14 @@
     "phone": "+5074462000"
   },
   {
-    "name": "Buena Vista Restaurant",
-    "address": "Sta. María E4-443, Quito 170522, Ecuador",
-    "phone": "4443170522"
-  },
-  {
-    "name": "Ready Pizza",
-    "address": "Arecibo, 00612, Puerto Rico",
-    "phone": null
-  },
-  {
-    "name": "Paki Point",
-    "address": "5650 N Academy Blvd, Colorado Springs, CO 80918",
-    "phone": "565080918"
-  },
-  {
-    "name": "McDonald's, Paseo Colón.",
-    "address": "C. Herrería, 4, 35001 Las Palmas de Gran Canaria, Las Palmas, Spain",
-    "phone": "+34684330359"
-  },
-  {
-    "name": "Lubnan",
-    "address": "Mercado de Colón, Carrer de Jorge Juan, 19, 46004 Valencia, Spain",
-    "phone": "+34963528132"
-  },
-  {
-    "name": "Restaurant Tom",
-    "address": "Mercat de Colon, Carrer de Jorge Juan, 19, 46004 València, Valencia, Spain",
-    "phone": "+34963445631"
-  },
-  {
     "name": "Treintaycinco Fábrica de Cervezas S.A.",
     "address": "Millennium Plaza, Colón, Panama",
     "phone": "+5074471000"
   },
   {
-    "name": "Parque Empresarial Colon Guayaquil",
-    "address": "12 de Abril 219, Colón, Entre Ríos, Argentina",
-    "phone": "+543447593760"
-  },
-  {
-    "name": "Raw Fusion Restaurant",
-    "address": "Portobelo, Panama",
-    "phone": "+50762640272"
-  },
-  {
-    "name": "Octo",
-    "address": "La Mariscal, Av. Cristóbal Colón E4-65, Quito 170102, Ecuador",
-    "phone": "465170102"
-  },
-  {
-    "name": "Octo",
-    "address": "PR 681 Km 6.9 Bo, 00612, Puerto Rico",
-    "phone": "6816900612"
-  },
-  {
-    "name": "Tierra Gaucha Parrilla Argentina",
-    "address": "Carrer d'En Cristòfor Colom, 7, 07670 Portocolom, Illes Balears, Spain",
-    "phone": "+34971824783"
-  },
-  {
     "name": "El Alcazar de Colón",
     "address": "0000, Bocas del Toro, Panama",
     "phone": "+50768627868"
-  },
-  {
-    "name": "Restaurante Colón",
-    "address": "San jose, barrio don bosco, 200 metros sur de la Pizza Hut del, P.º Colón, San José, Costa Rica",
-    "phone": "+50621006172"
-  },
-  {
-    "name": "Toronto",
-    "address": "Brown 38, E3280 Colón, Entre Ríos, Argentina",
-    "phone": "+543447452652"
   },
   {
     "name": "Sand Diamond Hotel",
@@ -4891,24 +3681,9 @@
     "phone": "+50760267351"
   },
   {
-    "name": "HABITUAL by Ricard Camarena",
-    "address": "Ciudad Colón 500 mt al oeste del Centro Comercial Via Colón (Fresh, Market)., San José, Cd Colón, 10906, Costa Rica",
-    "phone": "50010906"
-  },
-  {
     "name": "Restaurante Las Anclas",
     "address": "C. 6a, Bocas del Toro, Panama",
     "phone": "+50767769280"
-  },
-  {
-    "name": "Taco Bell",
-    "address": "Paseo Colón, 150 Metros Al Este De La Toyota, P.º Colón, San José, Costa Rica",
-    "phone": "+5069052860101"
-  },
-  {
-    "name": "Vista de la Estatua de Cristobal Colon",
-    "address": "San José Province, Ciudad Colón, Costa Rica",
-    "phone": "+50670606500"
   },
   {
     "name": "Pizzeria Olaf",
@@ -4926,61 +3701,6 @@
     "phone": null
   },
   {
-    "name": "La Vegueta de Colón",
-    "address": "Rafael Francisco Osejo, San Bosco, San José, Costa Rica",
-    "phone": "+50622553333"
-  },
-  {
-    "name": "ESQUINA COLÓN",
-    "address": "R3XV+VRM frente al Parque Empresarial Colon, Av. Rodrigo Chavez, Guayaquil 090510, Ecuador",
-    "phone": "+59346002676"
-  },
-  {
-    "name": "Filo",
-    "address": "Av. Colón 508, García Ginerés, 97070 Mérida, Yuc., Mexico",
-    "phone": "50897070"
-  },
-  {
-    "name": "Pomodori Pizza",
-    "address": "Frente a la Torre Mercedes Benz, P.º Colón, San José, Costa Rica",
-    "phone": "+50622576071"
-  },
-  {
-    "name": "Radisson Colon 2000 - Hotel & Casino",
-    "address": "San Jose, Cd Colón, Costa Rica",
-    "phone": "+50640342004"
-  },
-  {
-    "name": "La Prensa Burger",
-    "address": "Colón, Panama",
-    "phone": "+5074473123"
-  },
-  {
-    "name": "Restaurante Los Cañones",
-    "address": "Av. Cristóbal Colón 882, Centro, 64440 Monterrey, N.L., Mexico",
-    "phone": "88264440"
-  },
-  {
-    "name": "Casa Colon",
-    "address": "Av. Cristóbal Colón 882, Centro, 64440 Monterrey, N.L., Mexico",
-    "phone": "88264440"
-  },
-  {
-    "name": "Restaurant Delicia",
-    "address": "C. Cristobal Colon 34, Fracc Magallanes, Magallanes, 39670 Acapulco de Juárez, Gro., Mexico",
-    "phone": null
-  },
-  {
-    "name": "Jeff N Lisa Brick House Grill",
-    "address": "C. Cristobal Colon 34, Fracc Magallanes, Magallanes, 39670 Acapulco de Juárez, Gro., Mexico",
-    "phone": null
-  },
-  {
-    "name": "El Ultimo Refugio",
-    "address": "Avenida Cristóbal Colón n°901 Fracc, Reforma, 91919 Veracruz, Ver., Mexico",
-    "phone": "90191919"
-  },
-  {
     "name": "Restaurante La Jauría",
     "address": "C. 11, Colón, Panama",
     "phone": "+5074332092"
@@ -4991,144 +3711,9 @@
     "phone": "+5074332092"
   },
   {
-    "name": "Sher E Punjab",
-    "address": "15450 E 104th Ave, Commerce City, CO 80022",
-    "phone": "1545010480022"
-  },
-  {
     "name": "Best Western Plus Nuevo Laredo Inn & Suites",
     "address": "C. 10, Colón, Panama",
     "phone": "+5074330781"
-  },
-  {
-    "name": "Los Amigos",
-    "address": "2815 Colorado Blvd, Denver, CO 80207",
-    "phone": "281580207"
-  },
-  {
-    "name": "Niu Sushi",
-    "address": "Colón, Panama",
-    "phone": "+5074749563"
-  },
-  {
-    "name": "70's Restaurant & Coffee",
-    "address": "7221 N Pecos St, Denver, CO 80221",
-    "phone": "722180221"
-  },
-  {
-    "name": "La Nostra Pasta",
-    "address": "C. Central, San José, Cd Colón, Costa Rica",
-    "phone": "+50622490909"
-  },
-  {
-    "name": "Mission Viejo Plaza Shopping Center",
-    "address": "5320 DTC Blvd, Greenwood Village, CO 80111",
-    "phone": "532080111"
-  },
-  {
-    "name": "Dry Creek Shopping Center",
-    "address": "2416 E Arapahoe Rd, Centennial, CO 80122",
-    "phone": "241680122"
-  },
-  {
-    "name": "Willow Creek Shopping Center",
-    "address": "3000 E 1st Ave, Denver, CO 80206",
-    "phone": "3000180206"
-  },
-  {
-    "name": "Cherry Knolls Shopping Center",
-    "address": "15340 E Hampden Ave, Aurora, CO 80013",
-    "phone": "1534080013"
-  },
-  {
-    "name": "Festival Shopping Center",
-    "address": "7429 E Iliff Ave, Denver, CO 80231",
-    "phone": "742980231"
-  },
-  {
-    "name": "Village Plaza",
-    "address": "8200 S Quebec St, Centennial, CO 80112",
-    "phone": "820080112"
-  },
-  {
-    "name": "Town Center at Aurora",
-    "address": "Unnamed Road, Centennial, CO 80112",
-    "phone": "3032531744"
-  },
-  {
-    "name": "Central Park Shopping Center",
-    "address": "14200 E Alameda Ave, Aurora, CO 80012",
-    "phone": "1420080012"
-  },
-  {
-    "name": "Shoppes At The Meadows",
-    "address": "8110 S University Blvd, Centennial, CO 80122",
-    "phone": "811080122"
-  },
-  {
-    "name": "Cherry Creek Shopping Center",
-    "address": "8374 Willow St, Lone Tree, CO 80124",
-    "phone": "837480124"
-  },
-  {
-    "name": "Belleview Promenade",
-    "address": "Colón, Panama",
-    "phone": null
-  },
-  {
-    "name": "Aurora Plaza",
-    "address": "2770 W Evans Ave, Denver, CO 80219",
-    "phone": "277080219"
-  },
-  {
-    "name": "Hoffman Heights Shopping Center",
-    "address": "Spencer Garrett Park, 11008 E 17th Ave, Aurora, CO 80010",
-    "phone": "110081780010"
-  },
-  {
-    "name": "The Shops At High Point",
-    "address": "C.C. Aguamariana, Av. de Colón, 5, local, 38660 Costa Adeje, Santa Cruz de Tenerife, Spain",
-    "phone": null
-  },
-  {
-    "name": "Aurora Highlands Shopping Center",
-    "address": "C. Primera 23B, Santo Domingo Este 11604, Dominican Republic",
-    "phone": "+18296432274"
-  },
-  {
-    "name": "Willow Grove Shopping Center",
-    "address": "Henry Gaisano Building Colon Street, Corner Leon Kilat St, Cebu City, 6000 Cebu, Philippines",
-    "phone": "+63322607888"
-  },
-  {
-    "name": "Buckingham Village Shopping Center",
-    "address": "D5700HWB, Colón 963, D5700HWB San Luis, Argentina",
-    "phone": "57009635700"
-  },
-  {
-    "name": "Belcaro Shopping Center",
-    "address": "Colón 180, Talcahuano, Bío Bío, Chile",
-    "phone": "+56412000000"
-  },
-  {
-    "name": "Welshire Plaza",
-    "address": "7 Calle Ote., Lourdes, El Salvador",
-    "phone": "+50323149790"
-  },
-  {
-    "name": "Centennial Shopping Center",
-    "address": "Gaisano Metro, Colon corner Juan Luna Sts., Cebu City, Lungsod ng Cebu, Philippines",
-    "phone": "+63324168999"
-  },
-  {
-    "name": "Torre Colon Paseo Colon",
-    "address": "1 Calle N.O, Tocoa, Honduras",
-    "phone": null
-  },
-  {
-    "name": "Plaza Cuatro Altos",
-    "address": "Osmeña Blvd, Cebu City, Cebu, Philippines",
-    "phone": null
   },
   {
     "name": "Atlantic Plaza",
@@ -5136,109 +3721,9 @@
     "phone": "+50766686669"
   },
   {
-    "name": "PLAZA TERRAZAS DE MARGARITA",
-    "address": "Colon St, Cebu City, 160-8321 Cebu, Philippines",
-    "phone": "72+61608321"
-  },
-  {
-    "name": "Megabyte Center Zona Libre de Colon",
-    "address": "Prol. Av. Colón 1000, Santa María Tequepexpan, 45601 San Pedro Tlaquepaque, Jal., Mexico",
-    "phone": "100045601"
-  },
-  {
-    "name": "Millennium Plaza",
-    "address": "Colon St, Cebu City, Cebu, Philippines",
-    "phone": "+63322540618"
-  },
-  {
-    "name": "Plaza Olympos",
-    "address": "Osmeña Blvd, Cebu City, Cebu, Philippines",
-    "phone": null
-  },
-  {
-    "name": "Colon Winkelcentrum",
-    "address": "1702 Garnet Ave, San Diego, CA 92109",
-    "phone": "170292109"
-  },
-  {
-    "name": "HELIOZ EVENTOS DE TODO PARA TUS OCASIONES",
-    "address": "C. 56 451, Zona Paseo Montejo, Centro, 97000 Mérida, Yuc., Mexico",
-    "phone": "5645197000"
-  },
-  {
-    "name": "COLON PLAZA Shopping Center",
-    "address": "1 Calle N.O, Tocoa, Honduras",
-    "phone": null
-  },
-  {
-    "name": "Plaza Cativa",
-    "address": "Colon St, Cebu City, 160-8321 Cebu, Philippines",
-    "phone": "72+61608321"
-  },
-  {
-    "name": "Diesel Truck Center, S.A",
-    "address": "Prol. Av. Colón 1000, Santa María Tequepexpan, 45601 San Pedro Tlaquepaque, Jal., Mexico",
-    "phone": "100045601"
-  },
-  {
     "name": "ORICA SABA COLÓN",
     "address": "Radio Taxi Express, San Judas Tadeo diagonal a Plaza 888 a un costado de la, Panamá, Panama",
     "phone": "+50766686669"
-  },
-  {
-    "name": "Dist. Office Total",
-    "address": "Colon St, Cebu City, Cebu, Philippines",
-    "phone": "+63322540618"
-  },
-  {
-    "name": "Bus Stop Para Colon",
-    "address": "C. 56 451, Zona Paseo Montejo, Centro, 97000 Mérida, Yuc., Mexico",
-    "phone": "5645197000"
-  },
-  {
-    "name": "PLAZA COLON",
-    "address": "Lourdes, El Salvador",
-    "phone": null
-  },
-  {
-    "name": "Plaza Colón",
-    "address": "San Pedro Ave, San Antonio, TX 78232",
-    "phone": "2103663555"
-  },
-  {
-    "name": "Strip Center Colón",
-    "address": "Colon Corner Junquera Street, Cebu City, 6000 Cebu, Philippines",
-    "phone": "+63322542106"
-  },
-  {
-    "name": "Strip Center Colón-Vespucio",
-    "address": "Lourdes, El Salvador",
-    "phone": "+50323181999"
-  },
-  {
-    "name": "Arauco Express Colón",
-    "address": "3575 Maple Ave, Zanesville, OH 43701",
-    "phone": "357543701"
-  },
-  {
-    "name": "Laguna Gardens Shopping Center",
-    "address": "Av. Cristóbal Colón 4965, Balcones de Santa María, 45606 San Pedro Tlaquepaque, Jal., Mexico",
-    "phone": "496545606"
-  },
-  {
-    "name": "ICONIQUE CENTRE",
-    "address": "C. Cristobal Colon 37, Puerto Plata 57000, Dominican Republic",
-    "phone": null
-  },
-  {
-    "name": "Patio Puerto Varas",
-    "address": "Av. Corrientes 3247, C1193 CABA, Argentina",
-    "phone": "32471193"
-  },
-  {
-    "name": "Concordia Plaza Shopping Center",
-    "address": "C. 18 670, Colón, Provincia de Buenos Aires, Argentina",
-    "phone": "+5492473490939"
   },
   {
     "name": "Cristóbal Colón",
@@ -5246,74 +3731,9 @@
     "phone": "+50763202188"
   },
   {
-    "name": "Box plaza de villa",
-    "address": "Av. Colón 1500, 5610505 Puerto Varas, Los Lagos, Chile",
-    "phone": "15005610505"
-  },
-  {
-    "name": "Rulemanes Center",
-    "address": "Av. Cristóbal Colón 4455, 7580385 Las Condes, Región Metropolitana, Chile",
-    "phone": "44557580385"
-  },
-  {
-    "name": "Plaza Loma Sur",
-    "address": "Av. Cristóbal Colón 4401, Santiago, Las Condes, Región Metropolitana, Chile",
-    "phone": null
-  },
-  {
-    "name": "Pasatiempo Mall",
-    "address": "Iconique Mall, Colon St, Cebu City, Cebu, Philippines",
-    "phone": "+63322339887"
-  },
-  {
-    "name": "PASEO LOURDES",
-    "address": "Tv. 54, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colombia",
-    "phone": "+573007385285"
-  },
-  {
-    "name": "Super Metro Colon",
-    "address": "Av. Laguna, Carolina, 00979, Puerto Rico",
-    "phone": "+17877916032"
-  },
-  {
-    "name": "Northwoods Shopping Center Phase II",
-    "address": "Portoviejo, Ecuador",
-    "phone": "+593982782531"
-  },
-  {
-    "name": "Colony Square Mall",
-    "address": "Autop. Próspero Fernández, San José, Pozos, Costa Rica",
-    "phone": null
-  },
-  {
-    "name": "Colonnade Mall",
-    "address": "Colón, Panama",
-    "phone": "+5074398115"
-  },
-  {
-    "name": "Plaza Americana",
-    "address": "Ejército 35-91, Talcahuano, Bío Bío, Chile",
-    "phone": null
-  },
-  {
     "name": "VIP Carwash Center",
     "address": "Unnamed Road, Colón, Panama",
     "phone": "+5074415855"
-  },
-  {
-    "name": "138 Wholesale Mall",
-    "address": "Colón, Panama",
-    "phone": null
-  },
-  {
-    "name": "Technology Square South Center",
-    "address": "Sabá, Honduras",
-    "phone": null
-  },
-  {
-    "name": "EDIFICIO PLAZA RABAH",
-    "address": "Willemstad, Curaçao",
-    "phone": "+59996731902"
   },
   {
     "name": "Colonnade Mall",
@@ -5321,24 +3741,9 @@
     "phone": "+5074330158"
   },
   {
-    "name": "Pacific Plaza",
-    "address": "Calz Cristobal Colón 100, Segundo de Cobián Centro, 27000 Torreón, Coah., Mexico",
-    "phone": "10027000"
-  },
-  {
-    "name": "Plaza Americana",
-    "address": "Colón, Panama",
-    "phone": "+5074471000"
-  },
-  {
     "name": "VIP Carwash Center",
     "address": "Margarita, Colón, Colón, Panama",
     "phone": null
-  },
-  {
-    "name": "138 Wholesale Mall",
-    "address": "Cra. 1, Comuna 5, Cali, Valle del Cauca, Colombia",
-    "phone": "+573219057973"
   },
   {
     "name": "Technology Square South Center",
@@ -5346,74 +3751,9 @@
     "phone": null
   },
   {
-    "name": "EDIFICIO PLAZA RABAH",
-    "address": "Colón, Panama",
-    "phone": "+50761401630"
-  },
-  {
-    "name": "Novo",
-    "address": "P.º Colón 38, Mántica, San José, Costa Rica",
-    "phone": null
-  },
-  {
-    "name": "Portal Talcahuano",
-    "address": "5050 S Federal Blvd, Englewood, CO 80110",
-    "phone": "505080110"
-  },
-  {
-    "name": "Metro Colon",
-    "address": "2350 S Colorado Blvd, Denver, CO 80222",
-    "phone": "235080222"
-  },
-  {
-    "name": "Metrocentro Lourdes",
-    "address": "765 S Colorado Blvd, Denver, CO 80246",
-    "phone": "76580246"
-  },
-  {
-    "name": "Centro Comercial Aguamarina, Costa Adeje Tenerife",
-    "address": "S Parker Rd, Denver, CO 80247",
-    "phone": null
-  },
-  {
-    "name": "Gaisano Capital South",
-    "address": "1770 S Buckley Rd, Aurora, CO 80017",
-    "phone": "177080017"
-  },
-  {
-    "name": "Tienda",
-    "address": "6305 E Hampden Ave, Denver, CO 80222",
-    "phone": "630580222"
-  },
-  {
-    "name": "Colfax",
-    "address": "694 Peoria St, Aurora, CO 80011",
-    "phone": "69480011"
-  },
-  {
-    "name": "Piesa De Motor Kitomi",
-    "address": "8000 E Belleview Ave, Greenwood Village, CO 80111",
-    "phone": "800080111"
-  },
-  {
-    "name": "Purple Nails & Beauty Center",
-    "address": "603-797 Peoria St &, E 6th Ave, Aurora, CO 80011",
-    "phone": "603797680011"
-  },
-  {
-    "name": "Agua Clara Locks Visitor Center",
-    "address": "Colón, Panama",
-    "phone": "+5072768325"
-  },
-  {
     "name": "Paseo Marino",
     "address": "C. 5ta, Colón, Panama",
     "phone": "+5074399481"
-  },
-  {
-    "name": "Fort San Lorenzo",
-    "address": "Colón, Panama",
-    "phone": null
   },
   {
     "name": "Inmaculada Concepción Cathedral",
@@ -5429,11 +3769,6 @@
     "name": "Colon Free Zone",
     "address": "P.º Gorgas, Colón, Panama",
     "phone": "+5074390380"
-  },
-  {
-    "name": "Punta Culebra Nature Center",
-    "address": "Panamá, Panama",
-    "phone": "+5075014131"
   },
   {
     "name": "Old Panama",
@@ -5481,16 +3816,6 @@
     "phone": "+5073145000"
   },
   {
-    "name": "Parque Municipal Summit",
-    "address": "Panamá, Panama",
-    "phone": null
-  },
-  {
-    "name": "Panama Outdoor Adventures",
-    "address": "Taboga, Panama",
-    "phone": "+5072502160"
-  },
-  {
     "name": "Centro de Visitantes de Panamá Viejo",
     "address": "Isla Perico, Panamá, Panama",
     "phone": null
@@ -5506,11 +3831,6 @@
     "phone": null
   },
   {
-    "name": "Escape Room Panama",
-    "address": "Gamboa, Panama",
-    "phone": "+50766765611"
-  },
-  {
     "name": "Gatun Locks",
     "address": "Aerodromo de, Chame District, Panama",
     "phone": null
@@ -5519,21 +3839,6 @@
     "name": "Metropolitan Cathedral Basilica of Santa Maria the Ancient",
     "address": "C. Eusebio A. Morales G37, Panamá, Panama",
     "phone": "+50760282013"
-  },
-  {
-    "name": "Church of the Mercy",
-    "address": "Punta Chame, Panama",
-    "phone": null
-  },
-  {
-    "name": "Playa Langosta",
-    "address": "Colón, Panama",
-    "phone": null
-  },
-  {
-    "name": "Galeta Point Marine Laboratory",
-    "address": "Panamá, Panama",
-    "phone": null
   },
   {
     "name": "La Granja Campo y Aventura",
@@ -5551,19 +3856,9 @@
     "phone": null
   },
   {
-    "name": "El Chorro de La Chorrera",
-    "address": "La Chorrera, Panama",
-    "phone": null
-  },
-  {
     "name": "Colón",
     "address": "C. José D. de la Obaldía, Panamá, Panama",
     "phone": "+5073831227"
-  },
-  {
-    "name": "Cerro Ancón hawkwatch",
-    "address": "Panama City, Panama",
-    "phone": "+5073100748"
   },
   {
     "name": "Kontraste Adventure",
@@ -5601,11 +3896,6 @@
     "phone": "+5074441106"
   },
   {
-    "name": "Canopy Tower",
-    "address": "Panama City, Panama",
-    "phone": "+5072325552"
-  },
-  {
     "name": "Restinga Beach",
     "address": "Av. A, Panamá, Panama",
     "phone": null
@@ -5614,16 +3904,6 @@
     "name": "Galeta Island",
     "address": "Manzana 080814 136338-6, Panama City, Panama",
     "phone": "0808141363386"
-  },
-  {
-    "name": "Portobelo Tours",
-    "address": "Colón, Panama",
-    "phone": null
-  },
-  {
-    "name": "SKYDIVE PANAMA",
-    "address": "Portobelo, Panama",
-    "phone": "+5074482055"
   },
   {
     "name": "Portobelo",
@@ -5644,11 +3924,6 @@
     "name": "Gamboa",
     "address": "C. 9na y 10, Colón, Panama",
     "phone": "+50766762005"
-  },
-  {
-    "name": "Mega Long S A",
-    "address": "Errebache Embera, Panama",
-    "phone": "+5072044900"
   },
   {
     "name": "St. Peter's Church",
@@ -5676,55 +3951,14 @@
     "phone": "+5072324854"
   },
   {
-    "name": "Panama City",
-    "address": "Panama City, Panama",
-    "phone": null
-  },
-  {
-    "name": "Rey | 4 Altos",
-    "address": "Portobelo, Panama",
-    "phone": null
-  },
-  {
-    "name": "Habla Ya Spanish School - Panama City Campus",
-    "address": "Portobelo, Panama",
-    "phone": null
-  },
-  {
     "name": "Cerro Azul",
     "address": "Vía Porras, Panamá, Panama",
     "phone": "+5075279343"
   },
   {
-    "name": "Calzada de Amador",
-    "address": "Panama City, Panama",
-    "phone": "+5072768449"
-  },
-  {
     "name": "San Felipe",
     "address": "C. 2a Oeste 85-81, Panamá, Panama",
     "phone": null
-  },
-  {
-    "name": "Los Altos de Cerro Azul",
-    "address": "Colón, Panama",
-    "phone": null
-  },
-  { "name": "Ancón", "address": "Portobelo, Panama", "phone": null },
-  {
-    "name": "Cava 15",
-    "address": "Panama City, Panama",
-    "phone": "+5072283986"
-  },
-  {
-    "name": "Panamá Province",
-    "address": "Quebrada Candelaria, Panama",
-    "phone": "+5075000855"
-  },
-  {
-    "name": "Puente del Rey",
-    "address": "Las Cumbres, Panama",
-    "phone": "+5072324192"
   },
   {
     "name": "Hotel Castilla",
@@ -5782,11 +4016,6 @@
     "phone": "+50764327533"
   },
   {
-    "name": "Hotel Lleras",
-    "address": "Bugaba District, Panama",
-    "phone": "+50763586633"
-  },
-  {
     "name": "Hostal Compostela Inn",
     "address": "Unnamed Road, Boca Chica, Panama",
     "phone": "+50764665755"
@@ -5800,11 +4029,6 @@
     "name": "Hotel Panamericano",
     "address": "Isla De Muertos, Boca Chica, Panama",
     "phone": "+17808869685"
-  },
-  {
-    "name": "Residencial El Viajero",
-    "address": "David, Panama",
-    "phone": null
   },
   {
     "name": "Hotel Residencial Cervantes",
@@ -5830,11 +4054,6 @@
     "name": "Bambu Hostel",
     "address": "00430426, David, Panama",
     "phone": "00430426"
-  },
-  {
-    "name": "Hotel Residencial Cervantes",
-    "address": "Boca Chica, Panama",
-    "phone": "+50766377618"
   },
   {
     "name": "RESIDENCIAL COYA",
@@ -5897,11 +4116,6 @@
     "phone": "+5077305031"
   },
   {
-    "name": "Hotel Solaire",
-    "address": "David, Panama",
-    "phone": "+5077755219"
-  },
-  {
     "name": "Las Olas Beach Resort",
     "address": "Av. Centenario, David, Panama",
     "phone": "+5077302505"
@@ -5927,19 +4141,9 @@
     "phone": "+50769512994"
   },
   {
-    "name": "Hotel Boca Brava Paradise",
-    "address": "San Carlos, Panama",
-    "phone": "+50766784538"
-  },
-  {
     "name": "El Rio Encantado",
     "address": "Av. 8a Oeste, David, Panama",
     "phone": "+5077790266"
-  },
-  {
-    "name": "Isla Palenque",
-    "address": "David, Panama",
-    "phone": "+5077882060"
   },
   {
     "name": "Bed and Breakfast Little Italy",
@@ -6132,11 +4336,6 @@
     "phone": "+5077747378"
   },
   {
-    "name": "Restaurante Beef",
-    "address": "David, Panama",
-    "phone": "+5077303338"
-  },
-  {
     "name": "El pata e Loco",
     "address": "Av. Red Gray, David, Panama",
     "phone": "+5077880158"
@@ -6172,39 +4371,14 @@
     "phone": "+50763158963"
   },
   {
-    "name": "The Queen Cafe & Restaurant",
-    "address": "David, Panama",
-    "phone": "+5077307538"
-  },
-  {
-    "name": "Steak Mar David",
-    "address": "David, Panama",
-    "phone": "+50768045197"
-  },
-  {
     "name": "Restaurante Puerta del Sol",
     "address": "centro David, David, Panama",
     "phone": null
   },
   {
-    "name": "El Rincón Español",
-    "address": "David, Panama",
-    "phone": "+50761406123"
-  },
-  {
-    "name": "Janson Family Kitchen",
-    "address": "David, Panama",
-    "phone": "+5077305684"
-  },
-  {
     "name": "KOKO'S Restaurant",
     "address": "Ave. 3A. Este, y Central, David, Panama",
     "phone": "+5077754337"
-  },
-  {
-    "name": "Casa Victoria Restaurant",
-    "address": "David, Panama",
-    "phone": null
   },
   {
     "name": "Restaurante la hoguera",
@@ -6222,11 +4396,6 @@
     "phone": null
   },
   {
-    "name": "Haileys",
-    "address": "David, Panama",
-    "phone": "+50767056397"
-  },
-  {
     "name": "Smoked Pallets Restaurant",
     "address": "Ave. Manuel Quintero, David 507, Panama",
     "phone": null
@@ -6237,19 +4406,9 @@
     "phone": null
   },
   {
-    "name": "Oh-Toro Ramen & Sushi David",
-    "address": "David, Panama",
-    "phone": "+50768167699"
-  },
-  {
     "name": "La Casa Mexicana",
     "address": "antes de llegar a la Escuela de, via Rapida, David, Panama",
     "phone": "+50769496500"
-  },
-  {
-    "name": "Restaurante 3/4",
-    "address": "David, Panama",
-    "phone": "+50768173455"
   },
   {
     "name": "Restaurante Julius M&M",
@@ -6267,11 +4426,6 @@
     "phone": "+50764750734"
   },
   {
-    "name": "Restaurante Corona David",
-    "address": "David, Panama",
-    "phone": "+50764978149"
-  },
-  {
     "name": "Pizzeria Verona",
     "address": "Cc Plaza, Ave. Domingo Diaz Y, Calle C Nte., Panama",
     "phone": "+5072045000364"
@@ -6285,11 +4439,6 @@
     "name": "Restaurante Wai Wai Express",
     "address": "Av. Obaldía, David, Panama",
     "phone": "+5077217923"
-  },
-  {
-    "name": "Buffalo Wings Factory",
-    "address": "David, Panama",
-    "phone": null
   },
   {
     "name": "Puro Sabor",
@@ -6312,11 +4461,6 @@
     "phone": "+50761340526"
   },
   {
-    "name": "Vicente Express",
-    "address": "David, Panama",
-    "phone": "+5077751042"
-  },
-  {
     "name": "DON TACO",
     "address": "Final de calle 3ra, pasando la funeraria retiro, frente a Cooperativa Doraces, Panama",
     "phone": "+5077090599"
@@ -6332,34 +4476,9 @@
     "phone": "+5077771078"
   },
   {
-    "name": "Sabores",
-    "address": "David, Panama",
-    "phone": "+5077790209"
-  },
-  {
-    "name": "Taberna La Malagueña | David",
-    "address": "David, Panama",
-    "phone": "+50764426907"
-  },
-  {
-    "name": "Little Caesars Pizza | David",
-    "address": "David, Panama",
-    "phone": "+50766727570"
-  },
-  {
     "name": "Lucky China Restaurant",
     "address": "Av. 1a Oeste, David, Panama",
     "phone": "+5077301050"
-  },
-  {
-    "name": "Restaurante Huamei",
-    "address": "David, Panama",
-    "phone": "+5077307498"
-  },
-  {
-    "name": "Restaurante Vegetariano Grace",
-    "address": "David, Panama",
-    "phone": "+50766150461"
   },
   {
     "name": "Wendy's David Panamericana",
@@ -6432,11 +4551,6 @@
     "phone": "+50764206530"
   },
   {
-    "name": "Esquivel Lounge",
-    "address": "David, Panama",
-    "phone": "+50762479218"
-  },
-  {
     "name": "Restaurante La Fula",
     "address": "329, David, Panama",
     "phone": "+5077745535"
@@ -6457,11 +4571,6 @@
     "phone": "+5077864436"
   },
   {
-    "name": "Café García",
-    "address": "David, Panama",
-    "phone": null
-  },
-  {
     "name": "La Típica Express",
     "address": "Calle H Norte 172-1, David, Panama",
     "phone": null
@@ -6470,11 +4579,6 @@
     "name": "Restaurante El Toro Rojo",
     "address": "David centro, Ave. 4a Este, David, Panama",
     "phone": null
-  },
-  {
-    "name": "Pizmaricer",
-    "address": "David, Panama",
-    "phone": "+50766150585"
   },
   {
     "name": "La Granja Restaurant",
@@ -6487,11 +4591,6 @@
     "phone": "+50763006365"
   },
   {
-    "name": "Pío Pío",
-    "address": "David, Panama",
-    "phone": "+50766150585"
-  },
-  {
     "name": "Domino's Pizza | David F. Sur",
     "address": "Av. 6a Oeste, David, Panama",
     "phone": "+5078506574"
@@ -6500,11 +4599,6 @@
     "name": "Deli Arepas",
     "address": "Av. 6a Oeste, David, Panama",
     "phone": "+5078506574"
-  },
-  {
-    "name": "El Juancho",
-    "address": "David, Panama",
-    "phone": "+5077300934"
   },
   {
     "name": "Salón Don Pedro",
@@ -6522,11 +4616,6 @@
     "phone": "+50766326206"
   },
   {
-    "name": "Lee Shopping Center",
-    "address": "David, Panama",
-    "phone": "+5073661333"
-  },
-  {
     "name": "Federal Mall",
     "address": "C. Z Sur, David, Panama",
     "phone": null
@@ -6537,16 +4626,6 @@
     "phone": "+5077880888"
   },
   {
-    "name": "Plaza Pacifica",
-    "address": "San Pablo Viejo, Panama",
-    "phone": "+5077749503"
-  },
-  {
-    "name": "Saint Francis Square",
-    "address": "David, Panama",
-    "phone": "+50764840550"
-  },
-  {
     "name": "PH Galería Central David",
     "address": "David Sur, David, Panama",
     "phone": null
@@ -6555,11 +4634,6 @@
     "name": "Mall Chiriquí",
     "address": "Ave. 4a Este, David, Panama",
     "phone": "+5077755594"
-  },
-  {
-    "name": "Plaza Mas | La Riviera",
-    "address": "David, Panama",
-    "phone": "+5077888177"
   },
   {
     "name": "Dorado Plaza",
@@ -6574,16 +4648,6 @@
   {
     "name": "Terrazas de David",
     "address": "Av. 10a Oeste 295-1, David, Panama",
-    "phone": null
-  },
-  {
-    "name": "Plaza 507",
-    "address": "David, Panama",
-    "phone": "+5077751862"
-  },
-  {
-    "name": "Swiss Plaza",
-    "address": "David, Panama",
     "phone": null
   },
   {
@@ -6607,11 +4671,6 @@
     "phone": "+5078305050"
   },
   {
-    "name": "Catedral de San José De David",
-    "address": "Gualaca District, Panama",
-    "phone": null
-  },
-  {
     "name": "Los Cangilones de Gualaca",
     "address": "Av. 7a Oeste, David, Panama",
     "phone": "+5077748132"
@@ -6625,16 +4684,6 @@
     "name": "Burica Store",
     "address": "C. Dr. E. Pérez Balladares, David, Panama",
     "phone": "+5077744470"
-  },
-  {
-    "name": "David",
-    "address": "Jaramillo, Panama",
-    "phone": "+5077201989"
-  },
-  {
-    "name": "Cristy Tours",
-    "address": "Los Naranjos, Panama",
-    "phone": "+5077746671"
   },
   {
     "name": "Do it Center",

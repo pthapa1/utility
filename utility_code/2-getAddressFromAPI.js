@@ -10,7 +10,7 @@ fs.readFile(path, 'utf-8', async (err, data) => {
   const filteredData = await addressList.filter(
     (item) =>
       item.address &&
-      // item.address.includes(country) &&
+      item.address.includes(country) &&
       (item.address.match(/,/g) || []).length > 1
   );
 

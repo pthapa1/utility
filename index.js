@@ -9,9 +9,15 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Panama';
+exports.country = 'San Marino';
 const country = this.country;
-const cities = ['Tocumen', 'Colón', 'David'];
+const cities = [
+  'San Marino',
+  'Borgo Maggiore',
+  'Domagnano',
+  'Fiorentino',
+  'Chiesanuova',
+];
 const filePath = `./addresses/${country}.json`;
 // required by replace in file.
 const options = {
