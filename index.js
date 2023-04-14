@@ -9,14 +9,14 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'San Marino';
+exports.country = 'Sri Lanka';
 const country = this.country;
 const cities = [
-  'San Marino',
-  'Borgo Maggiore',
-  'Domagnano',
-  'Fiorentino',
-  'Chiesanuova',
+  'Colombo',
+  'Dehiwala Mount Lavinia',
+  'Moratuwa',
+  'Negombo',
+  'Kandy',
 ];
 const filePath = `./addresses/${country}.json`;
 // required by replace in file.
