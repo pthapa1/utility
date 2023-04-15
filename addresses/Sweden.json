@@ -1,0 +1,5817 @@
+[
+  {
+    "name": "Best Western Plus Grow Hotel",
+    "address": "Peter Myndes backe 5, 116 46 Stockholm, Sweden",
+    "phone": "+4684421680"
+  },
+  {
+    "name": "Zinkensdamm Hotell & Vandrarhem",
+    "address": "Drottninggatan 77, 111 60 Stockholm, Sweden",
+    "phone": "+468141395"
+  },
+  {
+    "name": "Radisson Blu Waterfront Hotel, Stockholm",
+    "address": "Nils Ericsons Plan 4, 111 64 Stockholm, Sweden",
+    "phone": "+46850506000"
+  },
+  {
+    "name": "Sheraton Stockholm Hotel",
+    "address": "Tegelbacken 6, Box 195, 101 23 Stockholm, Sweden",
+    "phone": "619510123"
+  },
+  {
+    "name": "Grand Hôtel",
+    "address": "Södra Blasieholmshamnen 8, 103 27 Stockholm, Sweden",
+    "phone": "+4686793500"
+  },
+  {
+    "name": "Downtown Camper by Scandic",
+    "address": "Brunkebergstorg 9, 111 51 Stockholm, Sweden",
+    "phone": "+46851726300"
+  },
+  {
+    "name": "Freys Hotel",
+    "address": "Vasagatan 1, 111 20 Stockholm, Sweden",
+    "phone": "+46850654000"
+  },
+  {
+    "name": "Radisson Blu Royal Viking Hotel, Stockholm",
+    "address": "Bryggargatan 12, 101 31 Stockholm, Sweden",
+    "phone": "+46850621300"
+  },
+  {
+    "name": "Hotel Frantz",
+    "address": "Guldgränd 8, 104 65 Stockholm, Sweden",
+    "phone": "+46851735300"
+  },
+  {
+    "name": "NOFO Hotel",
+    "address": "Lundagatan 31, 117 27 Stockholm, Sweden",
+    "phone": "+46730861224"
+  },
+  {
+    "name": "Scandic Continental",
+    "address": "Kungsgatan 53, 111 22 Stockholm, Sweden",
+    "phone": "+46851736500"
+  },
+  {
+    "name": "Mälardrottningen Hotell & Restaurang",
+    "address": "Jungfrugatan 57, 115 31 Stockholm, Sweden",
+    "phone": "+4686645000"
+  },
+  {
+    "name": "Hotel At Six",
+    "address": "Vanadisvägen 12, 113 46 Stockholm, Sweden",
+    "phone": "+46854547300"
+  },
+  {
+    "name": "Hotel Gamla Stan, BW Signature Collection",
+    "address": "Körsbärsvägen 1, 114 23 Stockholm, Sweden",
+    "phone": "+46856621500"
+  },
+  {
+    "name": "Hotel C Stockholm",
+    "address": "Storgatan 6, 114 51 Stockholm, Sweden",
+    "phone": "+4686670910"
+  },
+  {
+    "name": "Nobis Hotel Stockholm",
+    "address": "Sandhamnsgatan 67, 115 28 Stockholm, Sweden",
+    "phone": "+46812812005"
+  },
+  {
+    "name": "Bank Hotel",
+    "address": "Kungsgatan 17, 111 43 Stockholm, Sweden",
+    "phone": "+46850733100"
+  },
+  {
+    "name": "Mornington Hotel Stockholm City",
+    "address": "Skeppargatan 27, 114 52 Stockholm, Sweden",
+    "phone": "+4686635070"
+  },
+  {
+    "name": "Haymarket by Scandic",
+    "address": "Holländargatan 8B, 111 36 Stockholm, Sweden",
+    "phone": "+468208565"
+  },
+  {
+    "name": "Hotel Birger Jarl",
+    "address": "Jungfrugatan 7A, 114 44 Stockholm, Sweden",
+    "phone": "+46762821714"
+  },
+  {
+    "name": "Scandic Gamla Stan",
+    "address": "Östgötagatan 65, 116 64 Stockholm, Sweden",
+    "phone": "+4686400065"
+  },
+  {
+    "name": "Hotel Kungsträdgården",
+    "address": "Tjärhovsgatan 20, 116 21 Stockholm, Sweden",
+    "phone": "+4686446700"
+  },
+  {
+    "name": "Scandic Grand Central",
+    "address": "Kammakargatan 62, 111 24 Stockholm, Sweden",
+    "phone": "+46761622812"
+  },
+  {
+    "name": "Mornington Hotel Stockholm City",
+    "address": "Ferkens gränd 2, 111 30 Stockholm, Sweden",
+    "phone": "+46812154800"
+  },
+  {
+    "name": "Berns Hotel",
+    "address": "Ringvägen 98, 118 60 Stockholm, Sweden",
+    "phone": "+4684621000"
+  },
+  {
+    "name": "Hôtel Reisen - The Unbound Collection by Hyatt",
+    "address": "Västra Järnvägsgatan 17, 111 64 Stockholm, Sweden",
+    "phone": "+4686542800"
+  },
+  {
+    "name": "ibis Styles Stockholm Odenplan",
+    "address": "Wollmar Yxkullsgatan 13, 118 50 Stockholm, Sweden",
+    "phone": "+46846007900"
+  },
+  {
+    "name": "Hotel Kung Carl",
+    "address": "Sturegatan 22, 114 36 Stockholm, Sweden",
+    "phone": "+46855562700"
+  },
+  {
+    "name": "Hotel Sven Vintappare",
+    "address": "Humlegårdsgatan 23, 102 44 Stockholm, Sweden",
+    "phone": "+46851734000"
+  },
+  {
+    "name": "Hotel Birger Jarl",
+    "address": "Rådmansgatan 67, 113 60 Stockholm, Sweden",
+    "phone": "+46850621500"
+  },
+  {
+    "name": "Collector's Victory Hotel",
+    "address": "Sankt Eriksgatan 38, 112 34 Stockholm, Sweden",
+    "phone": "+4686936300"
+  },
+  {
+    "name": "Story Hotel Riddargatan - JDV by Hyatt",
+    "address": "Gröna gången 1, 111 49 Stockholm, Sweden",
+    "phone": "+4684072300"
+  },
+  {
+    "name": "Generator Stockholm",
+    "address": "Drottninggatan 67, 111 36 Stockholm, Sweden",
+    "phone": "+4684110303"
+  },
+  {
+    "name": "Scandic Sjöfartshotellet",
+    "address": "Storkyrkobrinken 5, 111 28 Stockholm, Sweden",
+    "phone": "+46850640100"
+  },
+  {
+    "name": "Lydmar Hotel",
+    "address": "Västerlånggatan 22, 111 29 Stockholm, Sweden",
+    "phone": "+46850640120"
+  },
+  {
+    "name": "Hotel Hellstens Malmgård",
+    "address": "Slöjdgatan 7, 111 57 Stockholm, Sweden",
+    "phone": "+46851726600"
+  },
+  {
+    "name": "Clarion Hotel Sign",
+    "address": "Sankt Eriksplan 1, 113 20 Stockholm, Sweden",
+    "phone": "+46854545300"
+  },
+  {
+    "name": "Rygerfjord",
+    "address": "Götgatan 49-51, 116 21 Stockholm, Sweden",
+    "phone": "495111621"
+  },
+  {
+    "name": "Hobo Hotel",
+    "address": "Sveavägen 108, 113 50 Stockholm, Sweden",
+    "phone": "10811350"
+  },
+  {
+    "name": "Hotel Esplanade",
+    "address": "Långholmsmuren 20, 117 33 Stockholm, Sweden",
+    "phone": "+4687208500"
+  },
+  {
+    "name": "Hotel Rival",
+    "address": "Upplandsgatan 4, 111 23 Stockholm, Sweden",
+    "phone": "+46851736600"
+  },
+  {
+    "name": "Elite Hotel Stockholm Plaza",
+    "address": "Djurgårdsbrunnsvägen 10, 115 27 Stockholm, Sweden",
+    "phone": "+4686650300"
+  },
+  {
+    "name": "Hotel Hornsgatan",
+    "address": "Rålambshovsleden 50, 112 19 Stockholm, Sweden",
+    "phone": "+4684413100"
+  },
+  {
+    "name": "Old Town Stay Hotel",
+    "address": "Drottninggatan 77, 111 60 Stockholm, Sweden",
+    "phone": "+468141395"
+  },
+  {
+    "name": "Crystal Plaza Hotel",
+    "address": "Trångsund 12, 111 30 Stockholm, Sweden",
+    "phone": "+46853339666"
+  },
+  {
+    "name": "Ett Hem",
+    "address": "Drottninggatan 71A, 111 36 Stockholm, Sweden",
+    "phone": "+468249460"
+  },
+  {
+    "name": "Hotel With Urban Deli",
+    "address": "Nybrogatan 25-27, 114 39 Stockholm, Sweden",
+    "phone": "252711439"
+  },
+  {
+    "name": "Castle House Inn",
+    "address": "Riddargatan 14, 114 35 Stockholm, Sweden",
+    "phone": "+46855573000"
+  },
+  {
+    "name": "Central Hotel Stockholm",
+    "address": "Luntmakargatan 68, 113 51 Stockholm, Sweden",
+    "phone": "+4686618600"
+  },
+  {
+    "name": "Zinkensdamm Hotell & Vandrarhem",
+    "address": "Saltsjöqvarns kaj 25, 131 71 Nacka, Sweden",
+    "phone": "+46855570200"
+  },
+  {
+    "name": "Best Western and hotel",
+    "address": "Sankt Eriksgatan 20, 112 39 Stockholm, Sweden",
+    "phone": "+4686538800"
+  },
+  {
+    "name": "The Sparrow Hotel",
+    "address": "Sveavägen 48, 111 34 Stockholm, Sweden",
+    "phone": "+4684406700"
+  },
+  {
+    "name": "Best Western",
+    "address": "Hazeliusbacken 20, 115 21 Stockholm, Sweden",
+    "phone": "+46812133300"
+  },
+  {
+    "name": "Nordic Light Hotel",
+    "address": "Kungsbron 1, 111 22 Stockholm, Sweden",
+    "phone": "+46856622200"
+  },
+  {
+    "name": "Elite Palace Hotel",
+    "address": "Högbergsgatan 81, 118 54 Stockholm, Sweden",
+    "phone": "+4686412371"
+  },
+  {
+    "name": "Best Western Hotel Karlaplan",
+    "address": "Gävlegatan 18, 113 30 Stockholm, Sweden",
+    "phone": "+46855766600"
+  },
+  {
+    "name": "Hotel Ruth",
+    "address": "Surbrunnsgatan 38, 113 48 Stockholm, Sweden",
+    "phone": "+468150420"
+  },
+  {
+    "name": "Clarion Hotel Amaranten",
+    "address": "Skeppargatan 78-84, 114 59 Stockholm, Sweden",
+    "phone": "788411459"
+  },
+  {
+    "name": "Hotel Tre Små Rum Stockholm",
+    "address": "Vasagatan 42, 111 20 Stockholm, Sweden",
+    "phone": "+4684026500"
+  },
+  {
+    "name": "Elite Hotel Adlon",
+    "address": "Kungsholmsgatan 31, 112 27 Stockholm, Sweden",
+    "phone": "+4686925200"
+  },
+  {
+    "name": "Comfort Hotel Xpress Stockholm Central",
+    "address": "Sankt Eriksgatan 115, 113 43 Stockholm, Sweden",
+    "phone": "11511343"
+  },
+  {
+    "name": "Miss Clara",
+    "address": "Vasaplan 7, 111 20 Stockholm, Sweden",
+    "phone": "+46850563200"
+  },
+  {
+    "name": "Best Western Hotel Fridhemsplan",
+    "address": "Döbelnsgatan 17, 111 40 Stockholm, Sweden",
+    "phone": "+4684122300"
+  },
+  {
+    "name": "Blique by Nobis",
+    "address": "Birger Jarlsgatan 24, 114 34 Stockholm, Sweden",
+    "phone": "+46812217300"
+  },
+  {
+    "name": "Hotel Hasselbacken",
+    "address": "Apelbergsgatan 40, 111 37 Stockholm, Sweden",
+    "phone": "+46855001600"
+  },
+  {
+    "name": "ProfilHotels | Riddargatan",
+    "address": "Zinkens Väg 20, 117 41 Stockholm, Sweden",
+    "phone": "+4686168100"
+  },
+  {
+    "name": "Queen's Hotel",
+    "address": "Vasagatan 38, 111 20 Stockholm, Sweden",
+    "phone": "+46856620800"
+  },
+  {
+    "name": "Hotel Villa Dagmar",
+    "address": "Brunnsgränd 4, 111 30 Stockholm, Sweden",
+    "phone": "+46855115526"
+  },
+  {
+    "name": "Elite Hotel Marina Tower Stockholm",
+    "address": "Sveavägen 44, 111 34 Stockholm, Sweden",
+    "phone": "+468303050"
+  },
+  {
+    "name": "Hotel Golden Goat",
+    "address": "Österlånggatan 26, 111 31 Stockholm, Sweden",
+    "phone": "+468308225"
+  },
+  {
+    "name": "Best Western Hotel Bentleys",
+    "address": "Birger Jarlsgatan 35, 111 45 Stockholm, Sweden",
+    "phone": "+4684068800"
+  },
+  {
+    "name": "Hotel Hellsten",
+    "address": "Hornsgatan 66B, 118 21 Stockholm, Sweden",
+    "phone": "+4686582901"
+  },
+  {
+    "name": "Villa Källhagen",
+    "address": "Sköldungagatan 2, 114 27 Stockholm, Sweden",
+    "phone": "+468200590"
+  },
+  {
+    "name": "Courtyard by Marriott Stockholm Kungsholmen",
+    "address": "Birger Jarlsgatan 29, 111 45 Stockholm, Sweden",
+    "phone": "+46856622000"
+  },
+  {
+    "name": "Scandic Upplandsgatan",
+    "address": "Strandvägen 7a, 114 56 Stockholm, Sweden",
+    "phone": "+4686630740"
+  },
+  {
+    "name": "Best Western Hotel at 108",
+    "address": "Brunkebergstorg 4, 111 51 Stockholm, Sweden",
+    "phone": "+46857882700"
+  },
+  {
+    "name": "Scandic Klara",
+    "address": "Mariatorget 3, 118 48 Stockholm, Sweden",
+    "phone": "+46854578900"
+  },
+  {
+    "name": "Wasa Park Hotel",
+    "address": "Söder Mälarstrand, Kajplats 13, 118 25 Stockholm, Sweden",
+    "phone": "+468840830"
+  },
+  {
+    "name": "Scandic Malmen",
+    "address": "Katarinavägen 26, 104 65 Stockholm, Sweden",
+    "phone": "+46851734900"
+  },
+  {
+    "name": "Collector's Lady Hamilton Hotel",
+    "address": "Torsgatan 10, 111 23 Stockholm, Sweden",
+    "phone": "+46850532370"
+  },
+  {
+    "name": "Lord Nelson Hotel",
+    "address": "Östra Järnvägsgatan 35, 111 20 Stockholm, Sweden",
+    "phone": "+4686769800"
+  },
+  {
+    "name": "Långholmen Hotell Stockholm",
+    "address": "Brännkyrkagatan 110, 117 27 Stockholm, Sweden",
+    "phone": "11011727"
+  },
+  {
+    "name": "Stockholm Inn Hotell",
+    "address": "Södra Blasieholmshamnen 2, 111 48 Stockholm, Sweden",
+    "phone": "+468223160"
+  },
+  {
+    "name": "Hotel Skeppsholmen",
+    "address": "Riddargatan 6, 114 35 Stockholm, Sweden",
+    "phone": "+46854503940"
+  },
+  {
+    "name": "Hotel Fridhem",
+    "address": "Lilla Nygatan 5, 111 28 Stockholm, Sweden",
+    "phone": "+46850640000"
+  },
+  {
+    "name": "Scandic Anglais",
+    "address": "Tulegatan 8, 113 53 Stockholm, Sweden",
+    "phone": "+4686741800"
+  },
+  {
+    "name": "Frey's Hotel Lilla Radmannen",
+    "address": "Sven Vintappares gränd 3, 111 27 Stockholm, Sweden",
+    "phone": "+468224140"
+  },
+  {
+    "name": "Elite Eden Park Hotel",
+    "address": "Birger Jarlsgatan 21, 111 87 Stockholm, Sweden",
+    "phone": "+4684635000"
+  },
+  {
+    "name": "Thon Partner Hotel Kungsbron",
+    "address": "Västmannagatan 61, 113 25 Stockholm, Sweden",
+    "phone": "+46812090300"
+  },
+  {
+    "name": "Hellstens Glashus",
+    "address": "Skeppsbron 12, 111 30 Stockholm, Sweden",
+    "phone": "+46812881234"
+  },
+  {
+    "name": "Clarion Hotel Stockholm",
+    "address": "Nybrogatan 53, 114 40 Stockholm, Sweden",
+    "phone": "+46850733000"
+  },
+  {
+    "name": "Hotell Skeppsbron",
+    "address": "Näckströmsgatan 8, 111 47 Stockholm, Sweden",
+    "phone": "+46856632000"
+  },
+  {
+    "name": "Unique Hotel",
+    "address": "Kungsgatan 70, 111 20 Stockholm, Sweden",
+    "phone": "+46851252000"
+  },
+  {
+    "name": "Hotell Söder",
+    "address": "Tulegatan 8, 113 53 Stockholm, Sweden",
+    "phone": "+4686741800"
+  },
+  {
+    "name": "Unique Hotel Jungfrugatan",
+    "address": "Lilla Nygatan 25, 111 28 Stockholm, Sweden",
+    "phone": "+46851738300"
+  },
+  {
+    "name": "Hotel Point",
+    "address": "Västra Trädgårdsgatan 11B, 111 53 Stockholm, Sweden",
+    "phone": "+4684406650"
+  },
+  {
+    "name": "Hotel Hötorget",
+    "address": "Nybrogatan 53, 114 40 Stockholm, Sweden",
+    "phone": "+46850733000"
+  },
+  {
+    "name": "Clarion Collection Hotel Wellington",
+    "address": "Hötorget 13-15, 111 57 Stockholm, Sweden",
+    "phone": "131511157"
+  },
+  {
+    "name": "Best Western Time Hotel",
+    "address": "Brunkebergstorg 6, 111 51 Stockholm, Sweden",
+    "phone": "+46857882800"
+  },
+  {
+    "name": "Elite Hotel Arcadia Stockholm",
+    "address": "Skeppsbron 22, 111 30 Stockholm, Sweden",
+    "phone": "+4684119545"
+  },
+  {
+    "name": "Biz Apartment Gärdet",
+    "address": "Norrmalmstorg 2-4, 111 86 Stockholm, Sweden",
+    "phone": "+4686141000"
+  },
+  {
+    "name": "WRAPIANO Catering / Restaurang Stockholm",
+    "address": "Prästgatan 17, 111 29 Stockholm, Sweden",
+    "phone": "+468208841"
+  },
+  {
+    "name": "Restaurang Kryp In",
+    "address": "Södra Blasieholmshamnen 6, 111 48 Stockholm, Sweden",
+    "phone": "+4686793584"
+  },
+  {
+    "name": "Lilla Ego",
+    "address": "Österlånggatan 7, 111 31 Stockholm, Sweden",
+    "phone": "+468219921"
+  },
+  {
+    "name": "Stockholms Gästabud",
+    "address": "Surbrunnsgatan 31A, 113 48 Stockholm, Sweden",
+    "phone": "+468150004"
+  },
+  {
+    "name": "Restaurant Tradition",
+    "address": "Rådmansgatan 16, 114 25 Stockholm, Sweden",
+    "phone": "+4684115535"
+  },
+  {
+    "name": "NISCH",
+    "address": "Strandvägen 18, 114 56 Stockholm, Sweden",
+    "phone": "+4686660202"
+  },
+  {
+    "name": "Mathias Dahlgren Matbaren",
+    "address": "Lilla Nygatan 13, 111 28 Stockholm, Sweden",
+    "phone": "+468206436"
+  },
+  {
+    "name": "Adam/Albin",
+    "address": "Österlånggatan 1, 113 53 Stockholm, Sweden",
+    "phone": "+468203525"
+  },
+  {
+    "name": "Glashuset Restaurant & Bar",
+    "address": "Dalagatan 42, 113 24 Stockholm, Sweden",
+    "phone": "+468949113"
+  },
+  {
+    "name": "The Hairy Pig Restaurant",
+    "address": "Västmannagatan 69, 113 26 Stockholm, Sweden",
+    "phone": "+468274455"
+  },
+  {
+    "name": "Den Gyldene Freden",
+    "address": "Pontonjärgatan 28, 112 37 Stockholm, Sweden",
+    "phone": "+4686549030"
+  },
+  {
+    "name": "Kagges",
+    "address": "Exercisplan 2B, 111 49 Stockholm, Sweden",
+    "phone": "+46852023660"
+  },
+  {
+    "name": "Portal",
+    "address": "Kungsgatan 66, 111 22 Stockholm, Sweden",
+    "phone": "+4686565625"
+  },
+  {
+    "name": "Restaurant Operakällaren",
+    "address": "Styrmansgatan 52, 114 60 Stockholm, Sweden",
+    "phone": "+4686625852"
+  },
+  {
+    "name": "Restaurant PA&Co",
+    "address": "Rådmansgatan 52, 113 57 Stockholm, Sweden",
+    "phone": "+46769699996"
+  },
+  {
+    "name": "Restaurang Flickan",
+    "address": "Brunnsgatan 6, 111 38 Stockholm, Sweden",
+    "phone": "+468202236"
+  },
+  {
+    "name": "Ekstedt",
+    "address": "Stortorget 2, 103 16 Stockholm, Sweden",
+    "phone": "+46853481812"
+  },
+  {
+    "name": "Mom's Kitchen Nybrogatan",
+    "address": "Gästrikegatan 3, 113 62 Stockholm, Sweden",
+    "phone": "+468341515"
+  },
+  {
+    "name": "Bistro Bestick",
+    "address": "Krukmakargatan 1, 118 51 Stockholm, Sweden",
+    "phone": "+4684529777"
+  },
+  {
+    "name": "Restaurant Kajsas Fisk",
+    "address": "Linnégatan 13, 114 47 Stockholm, Sweden",
+    "phone": "+4686606929"
+  },
+  {
+    "name": "Woodstockholm",
+    "address": "Folkungagatan 140, 116 30 Stockholm, Sweden",
+    "phone": "14011630"
+  },
+  {
+    "name": "Restaurant Bobergs Matsal",
+    "address": "Sankt Paulsgatan 2, 118 46 Stockholm, Sweden",
+    "phone": "+468333686"
+  },
+  {
+    "name": "Sturehof",
+    "address": "101 29, Klarabergsgatan 50, 111 21 Stockholm, Sweden",
+    "phone": "101295011121"
+  },
+  {
+    "name": "Wedholms Fisk",
+    "address": "Malmskillnadsgatan 41, 111 38 Stockholm, Sweden",
+    "phone": "+46708949759"
+  },
+  {
+    "name": "Babette",
+    "address": "Kommendörsgatan 23, 114 48 Stockholm, Sweden",
+    "phone": "+468150115"
+  },
+  {
+    "name": "Tennstopet",
+    "address": "Nybrogatan 16, 114 39 Stockholm, Sweden",
+    "phone": "+4686613235"
+  },
+  {
+    "name": "Surfers Stockholm",
+    "address": "Riddargatan 20, 114 51 Stockholm, Sweden",
+    "phone": "+46731458955"
+  },
+  {
+    "name": "Tak",
+    "address": "Fredrikshovsgatan 4, 115 23 Stockholm, Sweden",
+    "phone": "+468150115"
+  },
+  {
+    "name": "Sushi Sho",
+    "address": "Hantverkargatan 84, 112 38 Stockholm, Sweden",
+    "phone": "+4686501711"
+  },
+  {
+    "name": "Restaurang Esperanza",
+    "address": "Torsgatan 31, 113 21 Stockholm, Sweden",
+    "phone": "+46720223022"
+  },
+  {
+    "name": "Frantzén",
+    "address": "Grev Turegatan 6, 114 46 Stockholm, Sweden",
+    "phone": "+46851104460"
+  },
+  {
+    "name": "MISSHUMASSHU",
+    "address": "Tulegatan 8, 113 53 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Restaurang Cabaret",
+    "address": "Hornsgatan 82, 118 21 Stockholm, Sweden",
+    "phone": "+468845910"
+  },
+  {
+    "name": "Restaurant Teatergrillen",
+    "address": "Birger Jarlsgatan 26A, 114 34 Stockholm, Sweden",
+    "phone": "+46812217300"
+  },
+  {
+    "name": "Oyster Bar",
+    "address": "Kungsgatan 25, 111 56 Stockholm, Sweden",
+    "phone": "+46704024153"
+  },
+  {
+    "name": "Främmat",
+    "address": "Nybrokajen 9, 103 27 Stockholm, Sweden",
+    "phone": "+46850664044"
+  },
+  {
+    "name": "Nook",
+    "address": "Hötorgshallen, Sergels Torg 29, 111 57 Stockholm, Sweden",
+    "phone": "+46708410777"
+  },
+  {
+    "name": "SPAGO",
+    "address": "Hötorget 4, 111 57 Stockholm, Sweden",
+    "phone": "+4686636400"
+  },
+  {
+    "name": "Falafel Bar",
+    "address": "Nytorgsgatan 30, 116 40 Stockholm, Sweden",
+    "phone": "+4684666099"
+  },
+  {
+    "name": "Restaurant NOI",
+    "address": "Skånegatan 80, 116 37 Stockholm, Sweden",
+    "phone": "+46765934602"
+  },
+  {
+    "name": "At Six Dining Room",
+    "address": "Rådmansgatan 58, 113 60 Stockholm, Sweden",
+    "phone": "+468319961"
+  },
+  {
+    "name": "STHLM TAPAS Vasastan",
+    "address": "Karlbergsvägen 70A, 113 35 Stockholm, Sweden",
+    "phone": "+468322737"
+  },
+  {
+    "name": "DoMa",
+    "address": "Vasaplan 4, 111 20 Stockholm, Sweden",
+    "phone": "+46850563100"
+  },
+  {
+    "name": "Agnes",
+    "address": "Folkungagatan 128, 116 30 Stockholm, Sweden",
+    "phone": "12811630"
+  },
+  {
+    "name": "Tabbouli street",
+    "address": "Kungsgatan 45, 111 56 Stockholm, Sweden",
+    "phone": "+46851726751"
+  },
+  {
+    "name": "Centre Stockholm",
+    "address": "Hantverkargatan 35, 112 21 Stockholm, Sweden",
+    "phone": "+4686503034"
+  },
+  {
+    "name": "Wei Restaurang i Stockholm AB",
+    "address": "Södra Blasieholmshamnen 8, 111 48 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Gamla Stans Lykta",
+    "address": "Scheelegatan 3, 112 23 Stockholm, Sweden",
+    "phone": "+46851051855"
+  },
+  {
+    "name": "La Belle Epoque",
+    "address": "Klarabergsviadukten 86, 101 30 Stockholm, Sweden",
+    "phone": "+46855109311"
+  },
+  {
+    "name": "Unn",
+    "address": "Upplandsgatan 38, 113 28 Stockholm, Sweden",
+    "phone": "+468315500"
+  },
+  {
+    "name": "DiWINE Stockholm",
+    "address": "Västmannagatan 54, 113 25 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Barbro",
+    "address": "Drottninggatan 73B, 111 36 Stockholm, Sweden",
+    "phone": "+4687540424"
+  },
+  {
+    "name": "Shere Khan",
+    "address": "Döbelnsgatan 71, 113 52 Stockholm, Sweden",
+    "phone": "+46708439673"
+  },
+  {
+    "name": "Trattoria Montanari",
+    "address": "Sankt Eriksgatan 124, 113 31 Stockholm, Sweden",
+    "phone": "12411331"
+  },
+  {
+    "name": "Zios Pasta & Pizza Italian Restaurant",
+    "address": "Kornhamnstorg, 111 27 Stockholm, Sweden",
+    "phone": "+46739719247"
+  },
+  {
+    "name": "Hötorget kvarterskrog",
+    "address": "Klarabergsgatan 29, 111 21 Stockholm, Sweden",
+    "phone": "+46840911507"
+  },
+  {
+    "name": "Campoloro",
+    "address": "Timmermansgatan 24, 118 55 Stockholm, Sweden",
+    "phone": "+4687206151"
+  },
+  {
+    "name": "Restaurant Liebling",
+    "address": "Sergels Torg 22, 111 57 Stockholm, Sweden",
+    "phone": "+4686636300"
+  },
+  {
+    "name": "Zócalo - Fresh Happy Mex",
+    "address": "Döbelnsgatan 34D, 113 52 Stockholm, Sweden",
+    "phone": "+4686734295"
+  },
+  {
+    "name": "Strömmingsvagnen",
+    "address": "Grev Turegatan 56, 114 38 Stockholm, Sweden",
+    "phone": "+4686607694"
+  },
+  {
+    "name": "Bun Bo Hue",
+    "address": "Drottninggatan 25, 111 51 Stockholm, Sweden",
+    "phone": "+468212885"
+  },
+  {
+    "name": "Indian Street Food & Co",
+    "address": "Sveavägen 96, 113 50 Stockholm, Sweden",
+    "phone": "+468157696"
+  },
+  {
+    "name": "Restaurant Ashoka",
+    "address": "Österlånggatan 8, 111 31 Stockholm, Sweden",
+    "phone": "+468203968"
+  },
+  {
+    "name": "The Farm Family",
+    "address": "Hornstulls strand 13, 117 39 Stockholm, Sweden",
+    "phone": "+46855060266"
+  },
+  {
+    "name": "Masquetapas Stockholm",
+    "address": "Kornhamnstorg 2, 111 27 Stockholm, Sweden",
+    "phone": "+468103364"
+  },
+  {
+    "name": "Restaurang Almaza",
+    "address": "Birger Jarlsgatan 21, 111 45 Stockholm, Sweden",
+    "phone": "+4684635080"
+  },
+  {
+    "name": "Restaurant Verandan",
+    "address": "Stora Nygatan 26, 111 27 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Punk Royale",
+    "address": "Brunkebergstorg 2, 111 51 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Garage Del Gusto-Italian Wine Bar Stockholm",
+    "address": "Norra Agnegatan 43, 112 29 Stockholm, Sweden",
+    "phone": "+46841047019"
+  },
+  {
+    "name": "Paul's",
+    "address": "Nybrogatan 48, 114 40 Stockholm, Sweden",
+    "phone": "+46868429282"
+  },
+  {
+    "name": "Restaurang Bergamott AB",
+    "address": "Brunkebergstorg 6, 111 51 Stockholm, Sweden",
+    "phone": "+46857882860"
+  },
+  {
+    "name": "Swede Hollow",
+    "address": "Sergels Torg 25, 111 57 Stockholm, Sweden",
+    "phone": "+4684113131"
+  },
+  {
+    "name": "Nagano",
+    "address": "Norrmalmstorg 4, 111 46 Stockholm, Sweden",
+    "phone": "+4686141030"
+  },
+  {
+    "name": "Shanti Gossip Vasastan",
+    "address": "Torsgatan 55, 113 37 Stockholm, Sweden",
+    "phone": "+468311775"
+  },
+  {
+    "name": "Meatballs for the People",
+    "address": "Brunkebergstorg 14, 111 51 Stockholm, Sweden",
+    "phone": "+4686410100"
+  },
+  {
+    "name": "Symbios",
+    "address": "Götgatan 24, 118 46 Stockholm, Sweden",
+    "phone": "+4686411415"
+  },
+  {
+    "name": "Italienskan",
+    "address": "Rosenlundsgatan 33, 118 63 Stockholm, Sweden",
+    "phone": "+4687021222"
+  },
+  {
+    "name": "ISSEI Stockholm",
+    "address": "Dalagatan 54, 113 24 Stockholm, Sweden",
+    "phone": "+46768353552"
+  },
+  {
+    "name": "Zócalo - Fresh Happy Mex",
+    "address": "Hornsgatan 39B, 118 49 Stockholm, Sweden",
+    "phone": "+46729072637"
+  },
+  {
+    "name": "Scandinavian Service Partner Stockholm Central",
+    "address": "Nybrogatan 3, 114 34 Stockholm, Sweden",
+    "phone": "+46854503565"
+  },
+  {
+    "name": "The Sparrow Bistro",
+    "address": "Barnhusgatan 12, 111 23 Stockholm, Sweden",
+    "phone": "+46850616600"
+  },
+  {
+    "name": "Häktet",
+    "address": "Blecktornsgränd 8, 118 24 Stockholm, Sweden",
+    "phone": "+4687200063"
+  },
+  {
+    "name": "Carls Deli",
+    "address": "Storgatan 20, 114 55 Stockholm, Sweden",
+    "phone": "+4686628800"
+  },
+  {
+    "name": "Canta Lola",
+    "address": "Smålandsgatan 10, 111 46 Stockholm, Sweden",
+    "phone": "+46842512550"
+  },
+  {
+    "name": "Restaurang @ Hotel Birger Jarl",
+    "address": "Upplandsgatan 45, 113 28 Stockholm, Sweden",
+    "phone": "+468303030"
+  },
+  {
+    "name": "Tajrish restaurang",
+    "address": "Klara Norra kyrkogata 26, 111 22 Stockholm, Sweden",
+    "phone": "+468208580"
+  },
+  {
+    "name": "Rice",
+    "address": "Odengatan 68, 113 22 Stockholm, Sweden",
+    "phone": "+4686127024"
+  },
+  {
+    "name": "Kapibara",
+    "address": "Dalagatan 50, 113 24 Stockholm, Sweden",
+    "phone": "+468322518"
+  },
+  {
+    "name": "Ban Yan",
+    "address": "Brunkebergstorg 2-4, 111 51 Stockholm, Sweden",
+    "phone": "+46858722080"
+  },
+  {
+    "name": "Kasten Bistro by Jim&Jacob",
+    "address": "Roslagsgatan 6, 113 55 Stockholm, Sweden",
+    "phone": "+46850902224"
+  },
+  {
+    "name": "Rooftop Stockholm",
+    "address": "Stureplan 2, 114 35 Stockholm, Sweden",
+    "phone": "+4684405730"
+  },
+  {
+    "name": "Happy Rooster",
+    "address": "Norrlandsgatan 24, 111 43 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Copine",
+    "address": "Hamngatan 18-20, 111 47 Stockholm, Sweden",
+    "phone": "182011147"
+  },
+  {
+    "name": "Eatnam",
+    "address": "Mosebacke Torg 9, 116 46 Stockholm, Sweden",
+    "phone": "+468369399"
+  },
+  {
+    "name": "Pat's Place",
+    "address": "Hötorgshallen 3, 111 57 Stockholm, Sweden",
+    "phone": "+468207262"
+  },
+  {
+    "name": "Bistro Nobel",
+    "address": "Arsenalsgatan 1, 111 47 Stockholm, Sweden",
+    "phone": "+4686117874"
+  },
+  {
+    "name": "GUTE - Köttrestaurang & Grillbistro",
+    "address": "Nybrogatan 40, 114 40 Stockholm, Sweden",
+    "phone": "+4686612727"
+  },
+  {
+    "name": "Holy Cow Vasastan",
+    "address": "Humlegårdsgatan 17, 114 46 Stockholm, Sweden",
+    "phone": "+4686111210"
+  },
+  {
+    "name": "The South Indian, Stockholm",
+    "address": "Bryggargatan 8, 111 21 Stockholm, Sweden",
+    "phone": "+468203120"
+  },
+  {
+    "name": "MamaWolf",
+    "address": "Riddargatan 8, 114 35 Stockholm, Sweden",
+    "phone": "+4686110845"
+  },
+  {
+    "name": "Skrapan",
+    "address": "Sergels Torg 33-17, 111 57 Stockholm, Sweden",
+    "phone": "331711157"
+  },
+  {
+    "name": "MOOD",
+    "address": "Drottninggatan 60, 111 21 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Sturegallerian",
+    "address": "Smålandsgatan 10, 111 46 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Gallerian",
+    "address": "Västerlånggatan, 111 27 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hötorgspassagen",
+    "address": "Götgatan 78, 118 30 Stockholm, Sweden",
+    "phone": "+4686740300"
+  },
+  {
+    "name": "Passagen Gamla Stan",
+    "address": "Regeringsgatan 48, 111 44 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Farsta Shopping Centre",
+    "address": "Hamngatan 37, 111 53 Stockholm, Sweden",
+    "phone": "+46722004549"
+  },
+  {
+    "name": "Birger Jarlspassagen",
+    "address": "Farstaplan, 123 47 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Westfield Mall of Scandinavia",
+    "address": "Sturegatan 4, 114 35 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hötorgscity",
+    "address": "Stjärntorget 13 C, 169 79 Solna, Sweden",
+    "phone": "+46840008000"
+  },
+  {
+    "name": "Globen Shopping",
+    "address": "Uppköparvägen 3, 120 44 Årsta, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Zeel International Store",
+    "address": "Stora Marknadsvägen 15, 183 70 Täby, Sweden",
+    "phone": "+46840000800"
+  },
+  {
+    "name": "Night market",
+    "address": "Bollmoravägen 24, 135 40 Tyresö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Lindhagen Galleria",
+    "address": "Skårbygränd 2, 163 73 Spånga, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Kungens Kurva Shoppingcenter",
+    "address": "Röntgenvägen 7, 141 52 Huddinge, Sweden",
+    "phone": "+46850236010"
+  },
+  {
+    "name": "Salénhuset",
+    "address": "Shopping Center, Bredholmsgatan 4, 127 48 Skärholmen, Sweden",
+    "phone": "+4684495150"
+  },
+  {
+    "name": "Liljeholmstorget Mall",
+    "address": "Hallunda torg, 145 68 Norsborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Nacka Forum",
+    "address": "Truckvägen, 142 53 Skogås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hornstull",
+    "address": "Golfvägen 8, 182 31 Danderyd, Sweden",
+    "phone": "+46857365500"
+  },
+  {
+    "name": "SKHLM - Skärholmens Center",
+    "address": "Nygägre, 132 30 Saltsjö-boo, Sweden",
+    "phone": "+4687158011"
+  },
+  {
+    "name": "Nordic Designs Stockholm",
+    "address": "Torggatan 8, 133 31 Saltsjöbaden, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Skärholmen Centrum",
+    "address": "Oxelvägen 42, 138 33 Älta, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Bredäng Center",
+    "address": "Tenstagången 25, 163 64 Spånga, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Högdalen Center",
+    "address": "Riddarplatsen, 177 30 Järfälla, Sweden",
+    "phone": "+46852280310"
+  },
+  {
+    "name": "Fältöversten",
+    "address": "Flyginfarten 4, 177 38 Järfälla, Sweden",
+    "phone": "+46852218241"
+  },
+  {
+    "name": "Gullmarsplan",
+    "address": "Kommunalvägen 21, 141 48 Huddinge, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Fruängen Center",
+    "address": "Skogås Torgväg 3, 142 30 Skogås, Sweden",
+    "phone": "+46850236010"
+  },
+  {
+    "name": "Ektorps Centrum",
+    "address": "Fittjavägen 5-9, 145 51 Norsborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Rågsved Centrum",
+    "address": "Hanstavägen 55 F, 164 53 Kista, Sweden",
+    "phone": "+46856253200"
+  },
+  {
+    "name": "Hökarängen Centrum",
+    "address": "Friggavägen 30, 181 32 Lidingö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Heron City",
+    "address": "Vårbergsplan 22, 127 43 Skärholmen, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Sickla Köpkvarter",
+    "address": "Dialoggatan 2, 141 75 Kungens Kurva, Sweden",
+    "phone": "+46850560039"
+  },
+  {
+    "name": "Sätra Centrum",
+    "address": "Simbagatan, 131 34 Nacka, Sweden",
+    "phone": "+46709276088"
+  },
+  {
+    "name": "Solna centrum",
+    "address": "Vällingbyvägen 32, 162 65 Vällingby, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Vällingby Centrum",
+    "address": "Götgatan 36, 118 26 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Huvudsta Centrum",
+    "address": "Torvsätravägen 18-20, 127 38 Skärholmen, Sweden",
+    "phone": "182012738"
+  },
+  {
+    "name": "Vårberg Centrum",
+    "address": "Hökarängsplan 18-24, 123 56 Farsta, Sweden",
+    "phone": "182412356"
+  },
+  {
+    "name": "Lidingö centrum",
+    "address": "Kumlagatan 13, 124 65 Bandhagen, Sweden",
+    "phone": "+46850800508"
+  },
+  {
+    "name": "Rinkeby Torg",
+    "address": "Storgatan 70, 171 52 Solna, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Stockholm Quality Outlet",
+    "address": "Solnavägen 13, 171 45 Solna, Sweden",
+    "phone": "+46812843460"
+  },
+  {
+    "name": "Kista Galleria",
+    "address": "Ektorpsvägen 4, 131 47 Nacka, Sweden",
+    "phone": "+4687188000"
+  },
+  {
+    "name": "Älta centrum",
+    "address": "Gullmarsplan, 121 40 Johanneshov, Sweden",
+    "phone": "+4686001000"
+  },
+  {
+    "name": "Huddinge Centrum",
+    "address": "Högdalsgången 8, 124 54 Bandhagen, Sweden",
+    "phone": "+46852280310"
+  },
+  {
+    "name": "Fittja centrum",
+    "address": "Karlaplan 13, 115 20 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Jakobsberg Center Mall",
+    "address": "Fruängsgatan, 129 52 Hägersten, Sweden",
+    "phone": "+46852280310"
+  },
+  {
+    "name": "Tensta Centrum",
+    "address": "Västerlånggatan 42, 111 29 Stockholm, Sweden",
+    "phone": "+468223401"
+  },
+  {
+    "name": "Saltsjöbaden Center",
+    "address": "Bredholmsgatan 3, 127 48 Skärholmen, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Orminge Centrum",
+    "address": "Bredängsvägen, 127 32 Skärholmen, Sweden",
+    "phone": "+468883880"
+  },
+  {
+    "name": "Skogås center",
+    "address": "STORHOLMSGATAN 16, 127 48 Skärholmen, Sweden",
+    "phone": "+4687400445"
+  },
+  {
+    "name": "Mörby Centrum",
+    "address": "Långholmsgatan 21, 117 33 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Köpcentrum",
+    "address": "Modulvägen 6, 141 75 Kungens Kurva, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Länna Köpcentrum",
+    "address": "Lindhagensgatan 118, 112 51 Stockholm, Sweden",
+    "phone": "11811251"
+  },
+  {
+    "name": "NEW YORKER",
+    "address": "Forumvägen 14, 131 53 Nacka, Sweden",
+    "phone": "+46840000300"
+  },
+  {
+    "name": "Rinkeby centrum",
+    "address": "Regeringsgatan, Near, Norrmalmstorg, Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Flemingsbergs Centrum",
+    "address": "Biblioteksgatan 3, 151 88, Biblioteksgatan, 111 46 Stockholm, Sweden",
+    "phone": "31518811146"
+  },
+  {
+    "name": "Hallunda Center",
+    "address": "Västermalmsgallerian, Sankt Eriksgatan 45-51, 112 34 Stockholm, Sweden",
+    "phone": "455111234"
+  },
+  {
+    "name": "Tyresö Centrum",
+    "address": "Nybohovsbacken 38, 117 63 Stockholm, Sweden",
+    "phone": "+46856253200"
+  },
+  {
+    "name": "Täby Centrum",
+    "address": "Sveavägen 17, 111 57 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "سوق الهال ستوكهولم",
+    "address": "Arenavägen 61, 121 28 Johanneshov, Sweden",
+    "phone": "+46104827213"
+  },
+  {
+    "name": "Skyview",
+    "address": "Trångsund 1, 111 29 Stockholm, Sweden",
+    "phone": "+4687233000"
+  },
+  {
+    "name": "The Royal Palace",
+    "address": "Djurgårdsvägen 68, 115 21 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Skansen",
+    "address": "Jussi Björlings allé, 111 47 Stockholm, Sweden",
+    "phone": "+46850827200"
+  },
+  {
+    "name": "Storkyrkan",
+    "address": "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+    "phone": "+46851954880"
+  },
+  {
+    "name": "Kungsträdgården",
+    "address": "Strömparterren 3, 111 30 Stockholm, Sweden",
+    "phone": "+46850831620"
+  },
+  {
+    "name": "Royal Djurgården",
+    "address": "Hamngatan 4, 111 47 Stockholm, Sweden",
+    "phone": "+4684023099"
+  },
+  {
+    "name": "ABBA The Museum",
+    "address": "Kungliga slottet, 107 70 Stockholm, Sweden",
+    "phone": "+4684026100"
+  },
+  {
+    "name": "Stockholm Medieval Museum",
+    "address": "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden",
+    "phone": "+46850900500"
+  },
+  {
+    "name": "Fotografiska",
+    "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+    "phone": "495111521"
+  },
+  {
+    "name": "The Hallwyl Museum",
+    "address": "Sweden Klara Mälarstrand 4, Kajplats 9, 111 52 Stockholm, Sweden",
+    "phone": "+46812004000"
+  },
+  {
+    "name": "Gröna Lund",
+    "address": "Skeppsbron 44, 111 30 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Skogskyrkogården",
+    "address": "Löfströmsvägen 8, 172 66 Sundbyberg, Sweden",
+    "phone": "+468294590"
+  },
+  {
+    "name": "St George and the Dragon Statue",
+    "address": "Djurgårdsstrand 17, 115 21 Stockholm, Sweden",
+    "phone": "+46851954914"
+  },
+  {
+    "name": "Prins Eugens Waldemarsudde",
+    "address": "Slottsbacken 2B, C, 111 30 Stockholm, Sweden",
+    "phone": "+4684408200"
+  },
+  {
+    "name": "The Viking Museum",
+    "address": "Sergels Torg 2, 111 57 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Museum of Natural History",
+    "address": "Katarina Bangata 78, 116 42 Stockholm, Sweden",
+    "phone": "+46850813254"
+  },
+  {
+    "name": "Nobel Prize Museum",
+    "address": "Storgatan 2, 114 51 Stockholm, Sweden",
+    "phone": "+46854567570"
+  },
+  {
+    "name": "Moderna Museet",
+    "address": "Kungsholmstorg, 112 23 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Army Museum",
+    "address": "Östermalmstorg 31, 114 39 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Swedish History Museum",
+    "address": "Narvavägen 6, 115 23 Stockholm, Sweden",
+    "phone": "+4684425118"
+  },
+  {
+    "name": "Museum of Technology",
+    "address": "Kungliga slottet, Storkyrkobrinken, 111 30 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Stockholm's narrowest street (Mårten Trotzigs gränd)",
+    "address": "Drottning Kristinas väg 51, 114 28 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Vasaparken, Stockholm",
+    "address": "Långholmsmuren 21, 117 33 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Skattkammaren",
+    "address": "Östra Järnvägsgatan 35, 111 20 Stockholm, Sweden",
+    "phone": "+4687677171"
+  },
+  {
+    "name": "Tantolunden",
+    "address": "Holländargatan 16, 111 60 Stockholm, Sweden",
+    "phone": "+468207076"
+  },
+  {
+    "name": "Humlegården",
+    "address": "Slottsallén, 170 79 Solna, Sweden",
+    "phone": "+4684026280"
+  },
+  {
+    "name": "Nordiska museet",
+    "address": "Västra Trädgårdsgatan 2A, 111 53 Stockholm, Sweden",
+    "phone": "+4687233000"
+  },
+  {
+    "name": "Junibacken",
+    "address": "Gasverkstorget 1, 115 42 Stockholm, Sweden",
+    "phone": "+4686861760"
+  },
+  {
+    "name": "Royal Swedish Opera",
+    "address": "Sergels Torg, 111 57 Stockholm, Sweden",
+    "phone": "+46850620212"
+  },
+  {
+    "name": "Stockholm City Hall",
+    "address": "Taxingegränd 10, 163 04 Spånga, Sweden",
+    "phone": "+468360763"
+  },
+  {
+    "name": "Sven-Harry Art museum",
+    "address": "Folkungagatan 46, 118 26 Stockholm, Sweden",
+    "phone": "+4686401555"
+  },
+  {
+    "name": "Maritime Museum",
+    "address": "Svartmangatan 16, 111 29 Stockholm, Sweden",
+    "phone": "+4684111188"
+  },
+  {
+    "name": "Brunkeberg Tunnel",
+    "address": "Själagårdsgatan 19, 111 31 Stockholm, Sweden",
+    "phone": "+468301500"
+  },
+  {
+    "name": "Medelhavsmuseet",
+    "address": "Djurgårdsslätten 51, 115 21 Stockholm, Sweden",
+    "phone": "+46721440144"
+  },
+  {
+    "name": "Lusthusportens park",
+    "address": "Sickla Kanalgata 77, 120 68 Stockholm, Sweden",
+    "phone": "+46850812205"
+  },
+  {
+    "name": "Stockholm Ghost Walk AB",
+    "address": "Södermalm, Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hagaparken",
+    "address": "Båtklubbsgatan 2, 120 71 Stockholm, Sweden",
+    "phone": "+46850812000"
+  },
+  {
+    "name": "The Dance Museum",
+    "address": "Döbelnsgatan 12, 113 58 Stockholm, Sweden",
+    "phone": "+4620899232"
+  },
+  {
+    "name": "Parliament House",
+    "address": "Dalagatan 11C, 113 24 Stockholm, Sweden",
+    "phone": "+46850809001"
+  },
+  {
+    "name": "Skinnarviksberget",
+    "address": "Sveavägen 73, 113 80 Stockholm, Sweden",
+    "phone": "+46850830900"
+  },
+  {
+    "name": "Raoul Wallenbergs torg",
+    "address": "Bryggerivägen 16, 168 67 Bromma, Sweden",
+    "phone": "+46101399700"
+  },
+  {
+    "name": "Berzelii Park",
+    "address": "Skansen, 115 21 Stockholm, Sweden",
+    "phone": "+4684428200"
+  },
+  {
+    "name": "Olof Palme Memorial Plaque",
+    "address": "Djurgårdsbrunnsvägen 26, 115 27 Stockholm, Sweden",
+    "phone": "+4686996010"
+  },
+  {
+    "name": "Strindbergsmuseet",
+    "address": "Ryssgården, 116 46 Stockholm, Sweden",
+    "phone": "+46850831620"
+  },
+  {
+    "name": "Millesgården Museum",
+    "address": "Smedsuddsvägen 6, 112 35 Stockholm, Sweden",
+    "phone": "+46850808007"
+  },
+  {
+    "name": "Observatorielunden",
+    "address": "Norrbro 3, 111 28 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "House of Nobility",
+    "address": "Tyghusplan 4, 111 49 Stockholm, Sweden",
+    "phone": "+46104561297"
+  },
+  {
+    "name": "Karlberg Palace",
+    "address": "Kapellgränd 10, 116 25 Stockholm, Sweden",
+    "phone": "+46850910900"
+  },
+  {
+    "name": "Swedish Centre for Architecture and Design",
+    "address": "Ängskärsgatan 5 C/Halvarsson, 115 29 Stockholm, Sweden",
+    "phone": "+46850800508"
+  },
+  {
+    "name": "Iron Boy - Boy watching the moon",
+    "address": "Judarskogens naturereservat, 168 38 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Uggleparken",
+    "address": "Bjurholmsgatan 1A, 116 38 Stockholm, Sweden",
+    "phone": "+46850812000"
+  },
+  {
+    "name": "Bryggartäppan",
+    "address": "Trädgårdsgatan 2, 111 31 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Judarskogen Nature Preserve",
+    "address": "Sibyllegatan 2, 114 51 Stockholm, Sweden",
+    "phone": "+46851956700"
+  },
+  {
+    "name": "Stockholm Central Mosque",
+    "address": "Karlbergs slottsväg 1, 107 86 Stockholm, Sweden",
+    "phone": "+4687461000"
+  },
+  {
+    "name": "Nackareservatet",
+    "address": "Riddarhustorget 10, 111 28 Stockholm, Sweden",
+    "phone": "+4687233990"
+  },
+  {
+    "name": "Norrbro",
+    "address": "Exercisplan 4, 111 49 Stockholm, Sweden",
+    "phone": "+46852023500"
+  },
+  {
+    "name": "Rålambshovsparken",
+    "address": "Vasagatan 27, 111 20 Stockholm, Sweden",
+    "phone": "+46812155560"
+  },
+  {
+    "name": "Museum of Far Eastern Antiquities, Stockholm",
+    "address": "Drottninggatan, 113 60 Stockholm, Sweden",
+    "phone": "+46850809000"
+  },
+  {
+    "name": "Stockholm City Museum",
+    "address": "Drottninggatan 85, 111 60 Stockholm, Sweden",
+    "phone": "+4684419170"
+  },
+  {
+    "name": "Baltic Sea Science Center",
+    "address": "Sveavägen 42, 111 34 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Bodyflight Stockholm",
+    "address": "Berzelii park, 111 47 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Riksidrottsmuseum",
+    "address": "Herserudsvägen 32, 181 50 Lidingö, Sweden",
+    "phone": "+4684467590"
+  },
+  {
+    "name": "Stockholm Public Library",
+    "address": "Riksgatan 1, 100 12 Stockholm, Sweden",
+    "phone": "+4687864000"
+  },
+  {
+    "name": "Escape Room Stockholm - Quezzle",
+    "address": "Hagalund, Solna, Sweden",
+    "phone": "+4684026000"
+  },
+  {
+    "name": "Vasaparken playground",
+    "address": "Sjötullsbacken 8, 115 25 Stockholm, Sweden",
+    "phone": "+4686625884"
+  },
+  {
+    "name": "Södermalm",
+    "address": "Drottninggatan 17, 111 51 Stockholm, Sweden",
+    "phone": "+4684417651"
+  },
+  {
+    "name": "Snuff & Match Museum",
+    "address": "Järntorget 84, 111 29 Stockholm, Sweden",
+    "phone": "+46761466600"
+  },
+  {
+    "name": "Tessinparken",
+    "address": "Djurgårdsvägen 10, 115 21 Stockholm, Sweden",
+    "phone": "+4684026000"
+  },
+  {
+    "name": "Judiska Muséet",
+    "address": "Djurgårdsbrunnsvägen 24, 115 27 Stockholm, Sweden",
+    "phone": "+46851954900"
+  },
+  {
+    "name": "Katolska domkyrkan i Stockholm",
+    "address": "Brunkebergstunneln, 111 38 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Sickla park",
+    "address": "Hantverkargatan 1, 111 52 Stockholm, Sweden",
+    "phone": "+46850829000"
+  },
+  {
+    "name": "Stiftelsen Tensta konsthall",
+    "address": "Eastmansvägen 10, 113 61 Stockholm, Sweden",
+    "phone": "+46851160060"
+  },
+  {
+    "name": "Forumdammen",
+    "address": "Slottsbacken 3, 111 30 Stockholm, Sweden",
+    "phone": "+4684023030"
+  },
+  {
+    "name": "S:ta Gertrud, Tyska kyrkan",
+    "address": "Fredsgatan 2, 111 52 Stockholm, Sweden",
+    "phone": "+46104561298"
+  },
+  {
+    "name": "Gamla stan",
+    "address": "Svensksundsvägen 5, 111 49 Stockholm, Sweden",
+    "phone": "+46859908430"
+  },
+  {
+    "name": "Kulturhuset",
+    "address": "Galärvarvsvägen 8, 115 21 Stockholm, Sweden",
+    "phone": "+46858723000"
+  },
+  {
+    "name": "Stockholm, Sweden",
+    "address": "Gustav Adolfs torg 2, 111 52 Stockholm, Sweden",
+    "phone": "+4687914400"
+  },
+  {
+    "name": "Spårvägsmuséet",
+    "address": "Södra Blasieholmshamnen 2, 111 48 Stockholm, Sweden",
+    "phone": "+46851954300"
+  },
+  {
+    "name": "St. Jacobs Kyrka",
+    "address": "Slottsbacken 1, 111 30 Stockholm, Sweden",
+    "phone": "+4684026100"
+  },
+  {
+    "name": "Adolf Fredriks Församling",
+    "address": "Zinkens Väg 20, 118 42 Stockholm, Sweden",
+    "phone": "+46850812000"
+  },
+  {
+    "name": "Hillsong Stockholm City",
+    "address": "Karlavägen 32, 114 31 Stockholm, Sweden",
+    "phone": "+46768252197"
+  },
+  {
+    "name": "Ulriksdals Slottspark",
+    "address": "Djurgårdsvägen 6-16, 115 93 Stockholm, Sweden",
+    "phone": "61611593"
+  },
+  {
+    "name": "Yttre borggården",
+    "address": "Mårten Trotzigs gränd 1, 111 29 Stockholm, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Bellman museum",
+    "address": "Narvavägen 13-17, 114 84 Stockholm, Sweden",
+    "phone": "131711484"
+  },
+  {
+    "name": "KTH R1",
+    "address": "Museivägen 7, 115 27 Stockholm, Sweden",
+    "phone": "+4684505600"
+  },
+  {
+    "name": "Oscarskyrkan",
+    "address": "Dalagatan 11C, 113 24 Stockholm, Sweden",
+    "phone": "+46850809000"
+  },
+  {
+    "name": "Litet Lejon - skulptur",
+    "address": "Riddargatan 13, 114 51 Stockholm, Sweden",
+    "phone": "+46851956300"
+  },
+  {
+    "name": "Stora Blecktornsparken",
+    "address": "Stortorget 2, 103 16 Stockholm, Sweden",
+    "phone": "+46853481800"
+  },
+  {
+    "name": "Avicii Experience",
+    "address": "Exercisplan 4, 111 49 Stockholm, Sweden",
+    "phone": "+46852023500"
+  },
+  {
+    "name": "Hedvig Eleonora Church",
+    "address": "Djurgårdsvägen 48, Djurgårdsstrand 15, 115 21 Stockholm, Sweden",
+    "phone": "481511521"
+  },
+  {
+    "name": "Marabouparken",
+    "address": "Frescativägen 40, 114 18 Stockholm, Sweden",
+    "phone": "+46851954000"
+  },
+  {
+    "name": "Center Hotel",
+    "address": "Lilla Bommens torg 10, 411 04 Göteborg, Sweden",
+    "phone": "+4631635800"
+  },
+  {
+    "name": "Apple Hotel & Konferens Göteborg",
+    "address": "Mässans gata 24, 412 51 Göteborg, Sweden",
+    "phone": "+46317508800"
+  },
+  {
+    "name": "Radisson Blu Scandinavia Hotel Gothenburg",
+    "address": "Lindholmspiren 4, 417 56 Göteborg, Sweden",
+    "phone": "+46313834000"
+  },
+  {
+    "name": "Hotel Bellora",
+    "address": "Berzeliigatan 15, 412 53 Göteborg, Sweden",
+    "phone": "+4631810600"
+  },
+  {
+    "name": "Radisson Blu Riverside Hotel, Gothenburg",
+    "address": "Stora Badhusgatan 28, 411 21 Göteborg, Sweden",
+    "phone": "+4631174050"
+  },
+  {
+    "name": "Hotel Pigalle",
+    "address": "Västra Hamngatan 3, 404 22 Göteborg, Sweden",
+    "phone": "+46317204000"
+  },
+  {
+    "name": "Barken Viking",
+    "address": "Kungsportsavenyen 6, 411 36 Göteborg, Sweden",
+    "phone": "+46317673400"
+  },
+  {
+    "name": "Elite Plaza Hotel Gothenburg",
+    "address": "Södra Hamngatan 59, 401 24 Göteborg, Sweden",
+    "phone": "+46317585000"
+  },
+  {
+    "name": "Gothia Towers",
+    "address": "Drottningtorget 10, 411 03 Göteborg, Sweden",
+    "phone": "+4631619000"
+  },
+  {
+    "name": "Clarion Hotel Post",
+    "address": "Björnhuvudsvägen 45, 475 31 Öckerö, Sweden",
+    "phone": "+4631976590"
+  },
+  {
+    "name": "Hotel Royal",
+    "address": "Olof Palmes väg 1, 442 31 Kungälv, Sweden",
+    "phone": "+46303206200"
+  },
+  {
+    "name": "Hotel Riverton",
+    "address": "Södra Hamngatan 2A, 411 06 Göteborg, Sweden",
+    "phone": "+4631802521"
+  },
+  {
+    "name": "Hotel Poseidon",
+    "address": "Olof Wijksgatan 3, 412 55 Göteborg, Sweden",
+    "phone": "+4631181614"
+  },
+  {
+    "name": "Scandic",
+    "address": "Flygplatsvägen 25, 423 73 Härryda, Sweden",
+    "phone": "+46812074300"
+  },
+  {
+    "name": "First Hotel G",
+    "address": "Göteborgsvägen 24-26, 445 02 Surte, Sweden",
+    "phone": "242644502"
+  },
+  {
+    "name": "Avalon Hotel",
+    "address": "Gamla torget 2, 442 31 Kungälv, Sweden",
+    "phone": "+4630310970"
+  },
+  {
+    "name": "Elite Park Avenue Hotel Gothenburg",
+    "address": "Björnhuvudsvägen 49, 475 31 Öckerö, Sweden",
+    "phone": "+4631962555"
+  },
+  {
+    "name": "Scandic Rubinen",
+    "address": "Strandsjövägen 5, 475 37 Bohus-björkö, Sweden",
+    "phone": "+46763434145"
+  },
+  {
+    "name": "Jacy'z Hotel & Resort",
+    "address": "Olbersgatan 9, 416 55 Göteborg, Sweden",
+    "phone": "+4631840200"
+  },
+  {
+    "name": "Scandic Göteborg Central",
+    "address": "Säve Flygplatsväg 25, 423 73 Säve, Sweden",
+    "phone": "+46317440914"
+  },
+  {
+    "name": "Comfort Hotel City",
+    "address": "Postflyget 7, 423 37 Torslanda, Sweden",
+    "phone": "+4631923835"
+  },
+  {
+    "name": "Hotel Flora",
+    "address": "Västra Vägen 17, 475 42 Hönö, Sweden",
+    "phone": "+4631969680"
+  },
+  {
+    "name": "Comfort Hotel City",
+    "address": "Långejorden 10, 430 85 Brännö, Sweden",
+    "phone": "+4631972600"
+  },
+  {
+    "name": "Dorsia Hotel & Restaurant",
+    "address": "Idrottsvägen 6, 431 62 Mölndal, Sweden",
+    "phone": "+4631679630"
+  },
+  {
+    "name": "Upper House",
+    "address": "Husviksvägen 52, 430 85 Brännö, Sweden",
+    "phone": "+4631970478"
+  },
+  {
+    "name": "Hotell Heden",
+    "address": "Olbersgatan 9, 416 55 Göteborg, Sweden",
+    "phone": "+4631840200"
+  },
+  {
+    "name": "Comfort Hotel Göteborg",
+    "address": "info(a)kajkantenvrango.se, Vrångö hamnväg 24, 430 83 Vrångö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hotell Onyxen",
+    "address": "Göta Älvsgatan 13, 426 76 Västra Frölunda, Sweden",
+    "phone": "+4631811000"
+  },
+  {
+    "name": "Hotell Göta Avenyn",
+    "address": "Lilla Regementsvägen 35, 415 27 Göteborg, Sweden",
+    "phone": "+4631435055"
+  },
+  {
+    "name": "Best Western Tidbloms Hotel",
+    "address": "Lillebyvägen 100, 423 53 Torslanda, Sweden",
+    "phone": "10042353"
+  },
+  {
+    "name": "ProfilHotels | Opera",
+    "address": "Sillviksbacken 15, 423 53 Torslanda, Sweden",
+    "phone": "+46730964691"
+  },
+  {
+    "name": "Quality Hotel Panorama, Göteborg",
+    "address": "Barnhemsgatan 23, 431 31 Mölndal, Sweden",
+    "phone": "+46317515200"
+  },
+  {
+    "name": "Liseberg Grand Curiosa Hotel",
+    "address": "Långedragsvägen 29, 426 71 Västra Frölunda, Sweden",
+    "phone": "+4631690112"
+  },
+  {
+    "name": "Scandic Crown",
+    "address": "Göteborgsvägen 91, 431 37 Mölndal, Sweden",
+    "phone": "+46313048050"
+  },
+  {
+    "name": "Hotel Örgryte",
+    "address": "45 Donsö hamnväg Isbolaget, 430 82 Donsö, Sweden",
+    "phone": "+46707741812"
+  },
+  {
+    "name": "Linnéplatsens Hotell och Vandrarhem",
+    "address": "Marholmsvägen 124, 436 45 Askim, Sweden",
+    "phone": "12443645"
+  },
+  {
+    "name": "Hotel Vasa",
+    "address": "Importgatan 2, 422 46 Hisings Backa, Sweden",
+    "phone": "+4631580750"
+  },
+  {
+    "name": "Hotel Vanilla AB",
+    "address": "Nämndemansgatan 1-5, 431 33 Mölndal, Sweden",
+    "phone": "+4631870120"
+  },
+  {
+    "name": "Spar Hotel Gårda",
+    "address": "Skeppet Ärans Väg 23, 426 71 Västra Frölunda, Sweden",
+    "phone": "+4631857020"
+  },
+  {
+    "name": "Scandic Opalen",
+    "address": "Åby Arenaväg 8b, 431 62 Mölndal, Sweden",
+    "phone": "+46313840200"
+  },
+  {
+    "name": "Center Hotel",
+    "address": "Krutvägen 2, 415 28 Göteborg, Sweden",
+    "phone": "+46313951100"
+  },
+  {
+    "name": "Clarion Collection Hotel Odin",
+    "address": "Vegagatan 19, 413 11 Göteborg, Sweden",
+    "phone": "+46313132120"
+  },
+  {
+    "name": "Arena Hotel",
+    "address": "Bäckebolsvägen 4, 422 53 Hisings Backa, Sweden",
+    "phone": "+46317515000"
+  },
+  {
+    "name": "Best Western",
+    "address": "Knipplekullen 8-10, 417 05 Göteborg, Sweden",
+    "phone": "81041705"
+  },
+  {
+    "name": "Clarion Hotel The Pier",
+    "address": "Oljevägen 100, 418 34 Göteborg, Sweden",
+    "phone": "10041834"
+  },
+  {
+    "name": "Le Mat B&B Göteborg City",
+    "address": "Vegagatan 22, 413 09 Göteborg, Sweden",
+    "phone": "+4631121060"
+  },
+  {
+    "name": "Göteborgs Mini-Hotel",
+    "address": "Vegagatan 21, 413 11 Göteborg, Sweden",
+    "phone": "+4631426520"
+  },
+  {
+    "name": "Göteborgs Vandrarhem / Hostel",
+    "address": "Torpavallsgatan 6, 416 73 Göteborg, Sweden",
+    "phone": "+4631251100"
+  },
+  {
+    "name": "Hotell Allén",
+    "address": "Maskingatan 11, 417 64 Göteborg, Sweden",
+    "phone": "+46317791111"
+  },
+  {
+    "name": "Hotel Lorensberg",
+    "address": "Sjöportsgatan 2, 417 64 Göteborg, Sweden",
+    "phone": "+46317257777"
+  },
+  {
+    "name": "La Mare Resort",
+    "address": "Gamla Lillhagsvägen 127, 422 49 Hisings Backa, Sweden",
+    "phone": "12742249"
+  },
+  {
+    "name": "Hotel Lemonade",
+    "address": "Berzeliigatan 15, 412 53 Göteborg, Sweden",
+    "phone": "+468007807234"
+  },
+  {
+    "name": "Spoton Hotel & Sportsbar",
+    "address": "Gamla Tingstadsgatan 10, 402 76 Hisings Backa, Sweden",
+    "phone": "+46317501900"
+  },
+  {
+    "name": "Scandic No. 25",
+    "address": "Falkenbergsgatan 3, 412 85 Göteborg, Sweden",
+    "phone": "+46313879000"
+  },
+  {
+    "name": "Quality Hotel Waterfront",
+    "address": "Askimsgatan 10, 413 19 Göteborg, Sweden",
+    "phone": "+4631414140"
+  },
+  {
+    "name": "WOW Apartments",
+    "address": "Santessonsgatan 13, 412 66 Göteborg, Sweden",
+    "phone": "+46313358000"
+  },
+  {
+    "name": "Spar",
+    "address": "Stigbergsliden 10, 414 63 Göteborg, Sweden",
+    "phone": "+46101902480"
+  },
+  {
+    "name": "Good Morning+ Göteborg City",
+    "address": "Stora Badhusgatan 28, 411 21 Göteborg, Sweden",
+    "phone": "8007807234"
+  },
+  {
+    "name": "Best Western",
+    "address": "Kvilletorget 24, 417 04 Göteborg, Sweden",
+    "phone": "+46317990910"
+  },
+  {
+    "name": "STF Göteborg/Stigbergslidens Vandrarhem",
+    "address": "Föreningsgatan 9, 411 27 Göteborg, Sweden",
+    "phone": "+46764007711"
+  },
+  {
+    "name": "Hostel Snoozemore",
+    "address": "Karl Johansgatan 66-70, 414 55 Göteborg, Sweden",
+    "phone": "667041455"
+  },
+  {
+    "name": "Hotell Aston Villa",
+    "address": "Adolf Edelsvärds gata 10, 414 51 Göteborg, Sweden",
+    "phone": "+46317202200"
+  },
+  {
+    "name": "5:ans Bed & Breakfast",
+    "address": "Burggrevegatan 25, 411 03 Göteborg, Sweden",
+    "phone": "+46317515500"
+  },
+  {
+    "name": "Best Western",
+    "address": "Gullbergs Strandgata 15B, 411 04 Göteborg, Sweden",
+    "phone": "+46313809390"
+  },
+  {
+    "name": "Clarion Collection Hotel Mektagonen",
+    "address": "Chalmersgatan 27, 411 35 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Treetop Spa Hangout & Hotel",
+    "address": "Mölndalsvägen 3, 412 63 Göteborg, Sweden",
+    "phone": "+4631401296"
+  },
+  {
+    "name": "Hotel Villan",
+    "address": "Berzeliigatan 15, 412 53 Göteborg, Sweden",
+    "phone": "+4631810600"
+  },
+  {
+    "name": "Slottsskogens Hostel",
+    "address": "Parkgatan 10, 411 38 Göteborg, Sweden",
+    "phone": "+4631101450"
+  },
+  {
+    "name": "Apple Hotel & Konferens Göteborg",
+    "address": "Mölndalsvägen 23, 412 63 Göteborg, Sweden",
+    "phone": "+4631401050"
+  },
+  {
+    "name": "Quality Hotel 11 & Eriksbergshallen",
+    "address": "Tredje Långgatan 31, 413 27 Göteborg, Sweden",
+    "phone": "+4631241023"
+  },
+  {
+    "name": "Sankt Jörgen Park",
+    "address": "Järnmalmsgatan 7, 417 07 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "LinnéHostel",
+    "address": "Kristinelundsgatan 13, 411 35 Göteborg, Sweden",
+    "phone": "+4631204800"
+  },
+  {
+    "name": "Arken Hotel & Art Garden Spa",
+    "address": "Odinsgatan 6, 411 03 Göteborg, Sweden",
+    "phone": "+46317452200"
+  },
+  {
+    "name": "Quality Hotel Winn Göteborg",
+    "address": "Pumpgatan 5, 417 55 Göteborg, Sweden",
+    "phone": "+46313050130"
+  },
+  {
+    "name": "Backpackers Göteborg",
+    "address": "Stora Badhusgatan 28, 411 21 Göteborg, Sweden",
+    "phone": "+4631174050"
+  },
+  {
+    "name": "First Hotel Kviberg Park",
+    "address": "Baldersgatan 4, 411 02 Göteborg, Sweden",
+    "phone": "+4631158380"
+  },
+  {
+    "name": "Dockyard Hotel",
+    "address": "Engelbrektsgatan 73, 402 23 Göteborg, Sweden",
+    "phone": "+46317515300"
+  },
+  {
+    "name": "Hotel Mölndals Bro",
+    "address": "Parkgatan 10, 411 38 Göteborg, Sweden",
+    "phone": "8007807234"
+  },
+  {
+    "name": "Scandic Backadal",
+    "address": "Viktoriagatan 6, 411 25 Göteborg, Sweden",
+    "phone": "+4631173630"
+  },
+  {
+    "name": "Best Western Plus Aby Hotel",
+    "address": "Norra Kustbanegatan 15, 416 64 Göteborg, Sweden",
+    "phone": "+46317520300"
+  },
+  {
+    "name": "Quality Hotel The Weaver",
+    "address": "Linnéplatsen 8, 413 10 Göteborg, Sweden",
+    "phone": "+46317757575"
+  },
+  {
+    "name": "Liseberg Camping Askim Strand",
+    "address": "Herman Lindholms torg 1, 412 63 Göteborg, Sweden",
+    "phone": "+4631400100"
+  },
+  {
+    "name": "Euroway Hotel",
+    "address": "Kyrkogatan 38, 411 15 Göteborg, Sweden",
+    "phone": "+46317116220"
+  },
+  {
+    "name": "Hotel Isbolaget",
+    "address": "Danska vägen 70, 416 59 Göteborg, Sweden",
+    "phone": "+46317078900"
+  },
+  {
+    "name": "Villa Kungssten",
+    "address": "Polhemsplatsen 3, 411 11 Göteborg, Sweden",
+    "phone": "+46317515100"
+  },
+  {
+    "name": "Kviberg Hostel",
+    "address": "Eklandagatan 51-53, 412 61 Göteborg, Sweden",
+    "phone": "515341261"
+  },
+  {
+    "name": "Sillvik J&C Hugosson Torslanda",
+    "address": "Olskroksgatan 23, 416 66 Göteborg, Sweden",
+    "phone": "+46317075000"
+  },
+  {
+    "name": "Gothenburg Camping Lilleby",
+    "address": "Lorensbergsgatan 6, 411 36 Göteborg, Sweden",
+    "phone": "+46317084000"
+  },
+  {
+    "name": "Scandic Mölndal",
+    "address": "Nils Ericsonsgatan 23, 411 03 Göteborg, Sweden",
+    "phone": "+4631805080"
+  },
+  {
+    "name": "Brännö Inn",
+    "address": "Sten Sturegatan 23, 412 52 Göteborg, Sweden",
+    "phone": "+4631810845"
+  },
+  {
+    "name": "Kajkanten Vrångö",
+    "address": "Mässans gata 24, 412 51 Göteborg, Sweden",
+    "phone": "+46317088200"
+  },
+  {
+    "name": "Lisebergsbyn's Bed & Breakfast",
+    "address": "Skeppsbroplatsen 1, 411 21 Göteborg, Sweden",
+    "phone": "+46317522800"
+  },
+  {
+    "name": "Good Morning Mölndal",
+    "address": "Sten Sturegatan 1, 411 39 Göteborg, Sweden",
+    "phone": "+46317738400"
+  },
+  {
+    "name": "athome",
+    "address": "Trädgårdsgatan 6, 411 08 Göteborg, Sweden",
+    "phone": "+46317901000"
+  },
+  {
+    "name": "Skärgårdshotellet Hönö",
+    "address": "Drottninggatan 63-65, 411 07 Göteborg, Sweden",
+    "phone": "636541107"
+  },
+  {
+    "name": "Brännö Varv",
+    "address": "Grönsakstorget 2, 411 17 Göteborg, Sweden",
+    "phone": "+4631138616"
+  },
+  {
+    "name": "Hotel Torslanda Studios",
+    "address": "Drottninggatan 63-65, 411 07 Göteborg, Sweden",
+    "phone": "636541107"
+  },
+  {
+    "name": "Nolvik Hotell & Konferens AB",
+    "address": "Drakegatan 10, 412 50 Göteborg, Sweden",
+    "phone": "+46313504410"
+  },
+  {
+    "name": "Lisebergsbyn Hostel",
+    "address": "Kungsportsavenyen 24, 400 14 Göteborg, Sweden",
+    "phone": "+46317515400"
+  },
+  {
+    "name": "NIMBUS ÖCKERÖ",
+    "address": "Vikingsgatan 7, 411 04 Göteborg, Sweden",
+    "phone": "+46317515600"
+  },
+  {
+    "name": "Hotell Fars Hatt",
+    "address": "Kungstorget 9, 411 17 Göteborg, Sweden",
+    "phone": "+46317510200"
+  },
+  {
+    "name": "Hotel Surte",
+    "address": "Storgatan 33, 411 38 Göteborg, Sweden",
+    "phone": "+4631100550"
+  },
+  {
+    "name": "The Barn",
+    "address": "Södra Vägen 45, 412 54 Göteborg, Sweden",
+    "phone": "+4631181858"
+  },
+  {
+    "name": "Restaurang Piga",
+    "address": "Magasinsgatan 5, 411 18 Göteborg, Sweden",
+    "phone": "+46317875812"
+  },
+  {
+    "name": "2112",
+    "address": "Geijersgatan 12, 411 34 Göteborg, Sweden",
+    "phone": "+4631160888"
+  },
+  {
+    "name": "SK Mat & Människor",
+    "address": "Barnhusgatan 2, 411 02 Göteborg, Sweden",
+    "phone": "+4631155561"
+  },
+  {
+    "name": "Sjöbaren Lorensberg",
+    "address": "Ostindiefararen 11, 417 65 Göteborg, Sweden",
+    "phone": "+4631230444"
+  },
+  {
+    "name": "Dinner 22",
+    "address": "Södra Vägen 22, 412 54 Göteborg, Sweden",
+    "phone": "+4631811055"
+  },
+  {
+    "name": "Restaurang Carbon",
+    "address": "Storgatan 51, 411 38 Göteborg, Sweden",
+    "phone": "+46317970411"
+  },
+  {
+    "name": "Stockyard Burger Joint",
+    "address": "Lorensbergsgatan 14, 411 36 Göteborg, Sweden",
+    "phone": "+46317119780"
+  },
+  {
+    "name": "Natur",
+    "address": "Johannebergsgatan 24, 412 55 Göteborg, Sweden",
+    "phone": "+4631812580"
+  },
+  {
+    "name": "Project",
+    "address": "Kyrkogatan 11, 411 15 Göteborg, Sweden",
+    "phone": "+46313524949"
+  },
+  {
+    "name": "Ma Cuisine",
+    "address": "Berzeliigatan, 412 53 Göteborg, Sweden",
+    "phone": "+46768434090"
+  },
+  {
+    "name": "La Cucina Italiana",
+    "address": "Åvägen 40, 412 51 Göteborg, Sweden",
+    "phone": "+46313802535"
+  },
+  {
+    "name": "Bord 27",
+    "address": "Erik Dahlbergsgatan 9, 411 26 Göteborg, Sweden",
+    "phone": "+4631834183"
+  },
+  {
+    "name": "Epoque",
+    "address": "Stigbergstorget 12, 414 63 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Pasha Grill",
+    "address": "Östra Larmgatan 10, 411 07 Göteborg, Sweden",
+    "phone": "+4631156020"
+  },
+  {
+    "name": "Sjöbaren Fish Seafood",
+    "address": "Kungsgatan 40, 411 19 Göteborg, Sweden",
+    "phone": "+46313391900"
+  },
+  {
+    "name": "Blackstone Steakhouse",
+    "address": "Kungsportsavenyen 3, 411 36 Göteborg, Sweden",
+    "phone": "+46317119260"
+  },
+  {
+    "name": "Holy Cow",
+    "address": "Kristinelundsgatan 13, 411 37 Göteborg, Sweden",
+    "phone": "+46313890599"
+  },
+  {
+    "name": "Fontana Di Trevi, Restaurang",
+    "address": "Kungsgatan 6A, 411 19 Göteborg, Sweden",
+    "phone": "+46317111011"
+  },
+  {
+    "name": "Angelini Gothenburg",
+    "address": "Sveagatan 24, 413 14 Göteborg, Sweden",
+    "phone": "+46317150742"
+  },
+  {
+    "name": "Daawat restaurant",
+    "address": "Kungsgatan 34, 411 19 Göteborg, Sweden",
+    "phone": "+46317110302"
+  },
+  {
+    "name": "Prime Grill",
+    "address": "Götabergsgatan 20, 411 34 Göteborg, Sweden",
+    "phone": "+46739933167"
+  },
+  {
+    "name": "Familjen",
+    "address": "Storgatan 1, 411 23 Göteborg, Sweden",
+    "phone": "+4631131080"
+  },
+  {
+    "name": "Upper House Dining",
+    "address": "Nordenskiöldsgatan 14, 413 09 Göteborg, Sweden",
+    "phone": "+4631246124"
+  },
+  {
+    "name": "Humm",
+    "address": "Södra Larmgatan 4, 411 16 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Södra Larm Bar & Bistro",
+    "address": "Stora Badhusgatan 30, 411 21 Göteborg, Sweden",
+    "phone": "+4631132680"
+  },
+  {
+    "name": "Mr P",
+    "address": "Skånegatan 16B, 411 40 Göteborg, Sweden",
+    "phone": "+4631201622"
+  },
+  {
+    "name": "Bhoga",
+    "address": "Odinsplatsen 5, 411 02 Göteborg, Sweden",
+    "phone": "+46767866866"
+  },
+  {
+    "name": "Restaurang & Vinbaren 28+",
+    "address": "Prinsgatan 7, 413 05 Göteborg, Sweden",
+    "phone": "+4631143110"
+  },
+  {
+    "name": "The Parlour Restaurant",
+    "address": "Berzeliigatan 7, 412 53 Göteborg, Sweden",
+    "phone": "+4631202530"
+  },
+  {
+    "name": "Restaurang Hello Monkey Magasinsgatan",
+    "address": "Karl Johansgatan 26, 414 59 Göteborg, Sweden",
+    "phone": "+4631422168"
+  },
+  {
+    "name": "View Skybar & Restaurant",
+    "address": "Oskarsgatan 4, 414 63 Göteborg, Sweden",
+    "phone": "+46707500541"
+  },
+  {
+    "name": "Restaurang Yammy Kitchen",
+    "address": "Västra Hamngatan 9, 411 17 Göteborg, Sweden",
+    "phone": "+46313860686"
+  },
+  {
+    "name": "Restaurang Vi Viet",
+    "address": "Nordenskiöldsgatan 24, 413 09 Göteborg, Sweden",
+    "phone": "+46313186810"
+  },
+  {
+    "name": "Toro Blanco",
+    "address": "Andra Långgatan 2, 413 03 Göteborg, Sweden",
+    "phone": "+4631120039"
+  },
+  {
+    "name": "Sjömagasinet Sverige",
+    "address": "Nordhemsgatan 28, 413 06 Göteborg, Sweden",
+    "phone": "+46317080655"
+  },
+  {
+    "name": "Restaurang & Bar Avalon",
+    "address": "Magasinsgatan 17, 411 18 Göteborg, Sweden",
+    "phone": "+46735259846"
+  },
+  {
+    "name": "Dirty Records",
+    "address": "Barnhusgatan 1, 411 02 Göteborg, Sweden",
+    "phone": "+4631964050"
+  },
+  {
+    "name": "La Gondola",
+    "address": "Första Långgatan 24, 26, 413 28 Göteborg, Sweden",
+    "phone": "242641328"
+  },
+  {
+    "name": "Enoteca Sassi",
+    "address": "Stigbergsliden 17, 414 63 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Restaurang Simba Göteborg",
+    "address": "Olivedalsgatan 13, 413 10 Göteborg, Sweden",
+    "phone": "+4631126155"
+  },
+  {
+    "name": "Le Comptoir Göteborg",
+    "address": "Kaserntorget 6, 411 18 Göteborg, Sweden",
+    "phone": "+4631137980"
+  },
+  {
+    "name": "Koka",
+    "address": "Södra Vägen 20, 412 54 Göteborg, Sweden",
+    "phone": "+4631160030"
+  },
+  {
+    "name": "Restaurang HAK",
+    "address": "Vallgatan 12, 411 16 Göteborg, Sweden",
+    "phone": "+46313802575"
+  },
+  {
+    "name": "Bombay Street",
+    "address": "Odinsplatsen 1-2, 411 03 Göteborg, Sweden",
+    "phone": "+46317117293"
+  },
+  {
+    "name": "Basque",
+    "address": "Prinsgatan 7, 413 05 Göteborg, Sweden",
+    "phone": "+46761949111"
+  },
+  {
+    "name": "Texas Longhorn",
+    "address": "Parkgatan 53A, 411 39 Göteborg, Sweden",
+    "phone": "+46708569177"
+  },
+  {
+    "name": "Restaurant Zaffran Gothenburg",
+    "address": "Södra Vägen 11, 411 35 Göteborg, Sweden",
+    "phone": "+46734238645"
+  },
+  {
+    "name": "Brasserie P",
+    "address": "Östra Larmgatan 18, 411 07 Göteborg, Sweden",
+    "phone": "+4631171020"
+  },
+  {
+    "name": "Downtown Deli",
+    "address": "Vallgatan 21B, 411 16 Göteborg, Sweden",
+    "phone": "+46735259846"
+  },
+  {
+    "name": "Indian Masala Restaurang Vid Järntorget",
+    "address": "Berzeliigatan 18, 411 36 Göteborg, Sweden",
+    "phone": "+4631208690"
+  },
+  {
+    "name": "Noot Nordik Kitchen",
+    "address": "Postgatan 2, 411 13 Göteborg, Sweden",
+    "phone": "+4631132066"
+  },
+  {
+    "name": "Annapurna Nepalese Restaurang & Bar Pustervik",
+    "address": "Karl Johansgatan 11, 414 59 Göteborg, Sweden",
+    "phone": "+4631131323"
+  },
+  {
+    "name": "En Deli Haga",
+    "address": "Kyrkogatan 20-22, 411 15 Göteborg, Sweden",
+    "phone": "202241115"
+  },
+  {
+    "name": "Magazzino Ristorante Italiano",
+    "address": "NORDSTADSTORGET 2, 411 05 Göteborg, Sweden",
+    "phone": "+4631159900"
+  },
+  {
+    "name": "Folk",
+    "address": "Kristinelundsgatan 9, 411 37 Göteborg, Sweden",
+    "phone": "+46317742828"
+  },
+  {
+    "name": "Gyllene Prag",
+    "address": "Storgatan 7, 411 24 Göteborg, Sweden",
+    "phone": "+46317113590"
+  },
+  {
+    "name": "Restaurant Santé",
+    "address": "Sveagatan 25, 413 14 Göteborg, Sweden",
+    "phone": "+4631136262"
+  },
+  {
+    "name": "BIKT",
+    "address": "Olof Palmes plats 3, 413 04 Göteborg, Sweden",
+    "phone": "+4631133533"
+  },
+  {
+    "name": "Moon Thai Kitchen",
+    "address": "Haga Nygata 15, 413 01 Göteborg, Sweden",
+    "phone": "+46736878781"
+  },
+  {
+    "name": "Teos medelhavskök",
+    "address": "Magasinsgatan 3, 411 18 Göteborg, Sweden",
+    "phone": "+4631133310"
+  },
+  {
+    "name": "Diket",
+    "address": "Första Långgatan 14, 413 03 Göteborg, Sweden",
+    "phone": "+4631240410"
+  },
+  {
+    "name": "Thörnströms Privata Rum",
+    "address": "Eklandagatan 51-53, 412 61 Göteborg, Sweden",
+    "phone": "515341261"
+  },
+  {
+    "name": "Barrique Wine Bar Lorensberg AB",
+    "address": "Östra Larmgatan 4, 411 06 Göteborg, Sweden",
+    "phone": "+46317585005"
+  },
+  {
+    "name": "Jinx Dynasty",
+    "address": "Kyrkogatan 40, 411 15 Göteborg, Sweden",
+    "phone": "+46313890800"
+  },
+  {
+    "name": "Bravura Bistro",
+    "address": "Första Långgatan 4, 413 03 Göteborg, Sweden",
+    "phone": "+4631141180"
+  },
+  {
+    "name": "Kungsportshuset",
+    "address": "Stora Nygatan 3A, 411 08 Göteborg, Sweden",
+    "phone": "+4631101101"
+  },
+  {
+    "name": "Jureskogs (Göteborg)",
+    "address": "Södra Vägen 77, 412 54 Göteborg, Sweden",
+    "phone": "+46317132662"
+  },
+  {
+    "name": "Bar Italia",
+    "address": "Södra Vägen 7, 411 35 Göteborg, Sweden",
+    "phone": "+46317111540"
+  },
+  {
+    "name": "Am Thuc Viet",
+    "address": "Nils Ericsonsgatan 24, 411 03 Göteborg, Sweden",
+    "phone": "+46721802418"
+  },
+  {
+    "name": "Tre Indier",
+    "address": "Magasinsgatan 3, 411 18 Göteborg, Sweden",
+    "phone": "+46317118838"
+  },
+  {
+    "name": "Restaurang Mañana",
+    "address": "Kungsportsavenyen 21, 411 36 Göteborg, Sweden",
+    "phone": "+4631223022"
+  },
+  {
+    "name": "Berzelius Bar & Matsal",
+    "address": "Viktoriagatan 12, 411 25 Göteborg, Sweden",
+    "phone": "+46317017979"
+  },
+  {
+    "name": "Xin Chào Restaurang",
+    "address": "Teatergatan 32, 411 35 Göteborg, Sweden",
+    "phone": "+4631213020"
+  },
+  {
+    "name": "HOZE Sushiya",
+    "address": "Sankt Eriksgatan 3, 411 05 Göteborg, Sweden",
+    "phone": "+4631130002"
+  },
+  {
+    "name": "Himalaya Restaurant",
+    "address": "Kungsportsavenyen 4, 411 36 Göteborg, Sweden",
+    "phone": "+46317116828"
+  },
+  {
+    "name": "Taj Mahal",
+    "address": "Andra Långgatan 4A, 413 03 Göteborg, Sweden",
+    "phone": "+46700791186"
+  },
+  {
+    "name": "Vita restaurang e winebar at Briggen",
+    "address": "Adolf Edelsvärds gata 5, 414 51 Göteborg, Sweden",
+    "phone": "+46317755920"
+  },
+  {
+    "name": "Koizen Omakase Room",
+    "address": "Kungstorget 9, 411 17 Göteborg, Sweden",
+    "phone": "+46317510236"
+  },
+  {
+    "name": "House of Vietnam",
+    "address": "Kungsportsavenyen 2, 411 36 Göteborg, Sweden",
+    "phone": "+46317111693"
+  },
+  {
+    "name": "Bombay Restaurant",
+    "address": "Erik Dahlbergsgatan 20, 411 26 Göteborg, Sweden",
+    "phone": "+4631132888"
+  },
+  {
+    "name": "Wrapped Burrito Bar",
+    "address": "Andra Långgatan 5, 413 03 Göteborg, Sweden",
+    "phone": "+4631127355"
+  },
+  {
+    "name": "Fatima",
+    "address": "Magasinsgatan 26, 411 18 Göteborg, Sweden",
+    "phone": "+4631130442"
+  },
+  {
+    "name": "Evergreen Restaurant",
+    "address": "Stora Badhusgatan 26, 411 21 Göteborg, Sweden",
+    "phone": "+46317501000"
+  },
+  {
+    "name": "Steamy Phở",
+    "address": "Götaplatsen, 412 56 Göteborg, Sweden",
+    "phone": "+4631160980"
+  },
+  {
+    "name": "Danilo Restaurang",
+    "address": "Götabergsgatan 28, 411 34 Göteborg, Sweden",
+    "phone": "+4631202161"
+  },
+  {
+    "name": "Masala Kitchen",
+    "address": "Norra Hamngatan 10, 411 14 Göteborg, Sweden",
+    "phone": "+4631138018"
+  },
+  {
+    "name": "Cyrano",
+    "address": "Södra Larmgatan 9, 411 16 Göteborg, Sweden",
+    "phone": "+4631138616"
+  },
+  {
+    "name": "Restaurang Belline HB",
+    "address": "Kungsportsavenyen 5, 411 36 Göteborg, Sweden",
+    "phone": "+46317016200"
+  },
+  {
+    "name": "BeerNFries",
+    "address": "Arkivgatan 7, 411 34 Göteborg, Sweden",
+    "phone": "+4631207979"
+  },
+  {
+    "name": "Pizzeria Barolo",
+    "address": "Mässans gata 24, 412 51 Göteborg, Sweden",
+    "phone": "+46317088200"
+  },
+  {
+    "name": "Restaurang Riccardo Cibo E Vino",
+    "address": "Södra Vägen 2, 412 54 Göteborg, Sweden",
+    "phone": "+4631132235"
+  },
+  {
+    "name": "Salsa & Salsa",
+    "address": "Första Långgatan 30, 413 27 Göteborg, Sweden",
+    "phone": "+4631121011"
+  },
+  {
+    "name": "Targaz",
+    "address": "Nils Ericsonsgatan 23, 411 03 Göteborg, Sweden",
+    "phone": "+4631617110"
+  },
+  {
+    "name": "Il Chiosco",
+    "address": "Södra Vägen 77, 412 54 Göteborg, Sweden",
+    "phone": "+4631204509"
+  },
+  {
+    "name": "Beerista",
+    "address": "Kungsgatan 6B, 411 19 Göteborg, Sweden",
+    "phone": "+4631137372"
+  },
+  {
+    "name": "Restaurang Tiljan",
+    "address": "Kungstorget 3, 411 17 Göteborg, Sweden",
+    "phone": "+46313842500"
+  },
+  {
+    "name": "Kathmandu Restaurant",
+    "address": "Haga Nygata 25, 413 01 Göteborg, Sweden",
+    "phone": "+46317119780"
+  },
+  {
+    "name": "Kick Off Göteborg",
+    "address": "Linnégatan 74, 413 08 Göteborg, Sweden",
+    "phone": "+4631139394"
+  },
+  {
+    "name": "Arkaden",
+    "address": "Kungsportsavenyen 26, 411 36 Göteborg, Sweden",
+    "phone": "+4631138090"
+  },
+  {
+    "name": "Femmanhuset",
+    "address": "Vintergatan, 417 56 Göteborg, Sweden",
+    "phone": "+46317794040"
+  },
+  {
+    "name": "Nordstan",
+    "address": "Nils Ericsonsgatan 17, 411 03 Göteborg, Sweden",
+    "phone": "+46317008600"
+  },
+  {
+    "name": "Kompassen",
+    "address": "Kungsportsplatsen, 411 10 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "City Avenue",
+    "address": "Drottninggatan 56 A, 411 07 Göteborg, Sweden",
+    "phone": "+46317102100"
+  },
+  {
+    "name": "Sannegårdens köpcentrum",
+    "address": "Fredsgatan 2, 411 07 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Femman",
+    "address": "Postgatan 26-32, 411 06 Göteborg, Sweden",
+    "phone": "263241106"
+  },
+  {
+    "name": "Kungsportsplatsen",
+    "address": "Fredsgatan 1, 411 07 Göteborg, Sweden",
+    "phone": "+46317434200"
+  },
+  {
+    "name": "Fredstan",
+    "address": "Götgatan 10, 411 05 Göteborg, Sweden",
+    "phone": "+46317008600"
+  },
+  {
+    "name": "Eriksbergs Köpcentrum",
+    "address": "Karl Johansgatan 7, 414 59 Göteborg, Sweden",
+    "phone": "+4631126220"
+  },
+  {
+    "name": "Bergsjön Centrum",
+    "address": "Engelbrektsgatan 35, 411 37 Göteborg, Sweden",
+    "phone": "+4631182659"
+  },
+  {
+    "name": "Frölunda Torg",
+    "address": "KYRKTORGET 19, 433 33 Partille, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Bäckebol Shopping Mall",
+    "address": "Älvebacken 1, 442 48 Kungälv, Sweden",
+    "phone": "+4630314660"
+  },
+  {
+    "name": "Backaplan",
+    "address": "Arkaden Shopping Center, Fredsgatan 1, 411 07 Göteborg, Sweden",
+    "phone": "+4631150522"
+  },
+  {
+    "name": "Frölunda mall",
+    "address": "Importgatan 2, 422 46 Hisings Backa, Sweden",
+    "phone": "+4631522510"
+  },
+  {
+    "name": "Hjällbo Center",
+    "address": "Ekenleden 8-12, 428 36 Kållered, Sweden",
+    "phone": "81242836"
+  },
+  {
+    "name": "Allum",
+    "address": "Barnhemsgatan 22, 431 31 Mölndal, Sweden",
+    "phone": "+46856253200"
+  },
+  {
+    "name": "Victoriapassagen",
+    "address": "Adelstorpsvägen, 443 30 Lerum, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Angered Centrum",
+    "address": "Gamla Kronvägen 5, 433 33 Partille, Sweden",
+    "phone": "+46737387063"
+  },
+  {
+    "name": "Kidz Center",
+    "address": "Östra Hamngatan 42, 411 09 Göteborg, Sweden",
+    "phone": "+4687628000"
+  },
+  {
+    "name": "421",
+    "address": "Frölunda torg, 421 44 Västra Frölunda, Sweden",
+    "phone": "+46708808242"
+  },
+  {
+    "name": "Partille Hairdesign AB",
+    "address": "Lona Knapes gata 1, 421 32 Västra Frölunda, Sweden",
+    "phone": "+4631109552"
+  },
+  {
+    "name": "Shopping Park Kållered",
+    "address": "Angereds torg 1, 424 65 Angered, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Mölndal Galleria",
+    "address": "Vallgatan 19, 411 16 Göteborg, Sweden",
+    "phone": "+46313803310"
+  },
+  {
+    "name": "Nordiska Kompaniet (NK) Göteborg",
+    "address": "KYRKTORGET 19, 433 33 Partille, Sweden",
+    "phone": "+46313404440"
+  },
+  {
+    "name": "Solkatten",
+    "address": "Frölunda torg 13, 421 42 Västra Frölunda, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Stigs Center",
+    "address": "Södra Bergsgårdsgärdet, 424 32 Angered, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hansen Jacob",
+    "address": "Transportgatan 19-21, 422 46 Hisings Backa, Sweden",
+    "phone": "192142246"
+  },
+  {
+    "name": "Steen & Ström Holding AB",
+    "address": "Backavägen 2, 417 05 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Kongahälla Center",
+    "address": "Frölunda torg, 421 42 Västra Frölunda, Sweden",
+    "phone": "+46317343838"
+  },
+  {
+    "name": "Mango",
+    "address": "Rymdtorget, 415 19 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Liseberg",
+    "address": "Fisktorget 4, 411 20 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Gothenburg Museum of Art",
+    "address": "Norra Hamngatan 12, 411 14 Göteborg, Sweden",
+    "phone": "+46313683600"
+  },
+  {
+    "name": "Slottsskogen",
+    "address": "Götaplatsen 6, 412 56 Göteborg, Sweden",
+    "phone": "+46313683500"
+  },
+  {
+    "name": "Feskekörka",
+    "address": "Museivägen 10, 413 11 Göteborg, Sweden",
+    "phone": "+46104414400"
+  },
+  {
+    "name": "Gothenburg Botanical Garden",
+    "address": "Örgrytevägen 5, 402 22 Göteborg, Sweden",
+    "phone": "+4631400100"
+  },
+  {
+    "name": "Nya Älvsborg Fortress",
+    "address": "Slottsskogspromenaden, 414 76 Göteborg, Sweden",
+    "phone": "+46313655823"
+  },
+  {
+    "name": "Gothenburg City Museum",
+    "address": "Södra Vägen 50, 412 54 Göteborg, Sweden",
+    "phone": "+46313356400"
+  },
+  {
+    "name": "Gothenburg Museum of Natural History",
+    "address": "Nya Älvsborgs Fästning, 426 76 Västra Frölunda, Sweden",
+    "phone": "+46763108990"
+  },
+  {
+    "name": "VOLVO Museum",
+    "address": "Arendals Skans, 405 08 Göteborg, Sweden",
+    "phone": "+4631664814"
+  },
+  {
+    "name": "Universeum",
+    "address": "Carl Skottsbergs gata 22A, 413 19 Göteborg, Sweden",
+    "phone": "+46104737777"
+  },
+  {
+    "name": "Skansen Kronan",
+    "address": "Christina Nilssons gata, 411 04 Göteborg, Sweden",
+    "phone": "+4631131300"
+  },
+  {
+    "name": "Horticultural Society",
+    "address": "Kyrkogatan 28, 411 15 Göteborg, Sweden",
+    "phone": "+46317316130"
+  },
+  {
+    "name": "Maritiman",
+    "address": "Karl Johansgatan 1-3, 414 59 Göteborg, Sweden",
+    "phone": "+46313683550"
+  },
+  {
+    "name": "Skansen Lejonet",
+    "address": "Södra Vägen 54, 412 54 Göteborg, Sweden",
+    "phone": "+46104561200"
+  },
+  {
+    "name": "Aeroseum",
+    "address": "Kronhusgatan 1D, 411 13 Göteborg, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Kronhuset och kronhusbodarna",
+    "address": "Emerentias backe 25, 411 04 Göteborg, Sweden",
+    "phone": "+4631153977"
+  },
+  {
+    "name": "Maritime Museum & Aquarium",
+    "address": "Nya Bergets Väg 50, 417 46 Göteborg, Sweden",
+    "phone": "+4631558300"
+  },
+  {
+    "name": "Museum of World Culture",
+    "address": "Packhusplatsen 12, 411 13 Göteborg, Sweden",
+    "phone": "+4631105950"
+  },
+  {
+    "name": "Gothenburg Cathedral",
+    "address": "Slussgatan 1, 411 06 Göteborg, Sweden",
+    "phone": "+46313650000"
+  },
+  {
+    "name": "Göteborgsoperan",
+    "address": "Skansberget, Leijonsparres Väg 15, 413 04 Göteborg, Sweden",
+    "phone": "+46704184525"
+  },
+  {
+    "name": "Clarion Hotel Malmö Live",
+    "address": "Carlsgatan 10 C, 211 20 Malmö, Sweden",
+    "phone": "+4640330440"
+  },
+  {
+    "name": "Radisson Blu Hotel, Malmo",
+    "address": "Norra Vallgatan 62, 211 22 Malmö, Sweden",
+    "phone": "+46406644800"
+  },
+  {
+    "name": "Mayfair Hotel Tunneln",
+    "address": "Norra Vallgatan 54, 211 22 Malmö, Sweden",
+    "phone": "+4640235040"
+  },
+  {
+    "name": "Moment Hotels",
+    "address": "Per Weijersgatan 6, 211 34 Malmö, Sweden",
+    "phone": "+46406643000"
+  },
+  {
+    "name": "Scandic Triangeln",
+    "address": "Baltzarsgatan 20, 211 36 Malmö, Sweden",
+    "phone": "+46406656000"
+  },
+  {
+    "name": "ProfilHotels | Garden",
+    "address": "Dag Hammarskjölds torg 2, 211 18 Malmö, Sweden",
+    "phone": "+4640207500"
+  },
+  {
+    "name": "Comfort Hotel Malmö",
+    "address": "Tyfongatan 1, 211 19 Malmö, Sweden",
+    "phone": "+46406165200"
+  },
+  {
+    "name": "Story Hotel Studio Malmo - JDV by Hyatt",
+    "address": "Triangeln 2, 211 43 Malmö, Sweden",
+    "phone": "+46406934700"
+  },
+  {
+    "name": "Elite Hotel Savoy",
+    "address": "Östergatan 10, 211 25 Malmö, Sweden",
+    "phone": "+46406984000"
+  },
+  {
+    "name": "Best Western Plus Hotel Noble House",
+    "address": "Adelgatan 4, 211 22 Malmö, Sweden",
+    "phone": "+4640101620"
+  },
+  {
+    "name": "First Hotel Jörgen Kock",
+    "address": "Bäckaforsvägen 30, 218 74 Tygelsjö, Sweden",
+    "phone": "+46733121454"
+  },
+  {
+    "name": "BEST WESTERN Hotel Royal",
+    "address": "Jägersrovägen 6, 213 62 Malmö, Sweden",
+    "phone": "+46762828602"
+  },
+  {
+    "name": "Park Inn By Radisson Malmö",
+    "address": "Bragegatan 10, 214 30 Malmö, Sweden",
+    "phone": "+46763365886"
+  },
+  {
+    "name": "Good Morning+ Malmö",
+    "address": "Jägersrovägen 6, 213 62 Malmö, Sweden",
+    "phone": "+4640218984"
+  },
+  {
+    "name": "HOTEL N Hostel Malmö City",
+    "address": "Sånekullavägen 26, 217 74 Malmö, Sweden",
+    "phone": "+46701473300"
+  },
+  {
+    "name": "Elite Plaza Hotel",
+    "address": "Ystadsgatan 16, 214 24 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Elite Hotel Esplanade",
+    "address": "Klubbhuset, 230 40 Bara, Sweden",
+    "phone": "+46406355100"
+  },
+  {
+    "name": "Hotel Duxiana Malmo",
+    "address": "Ärtholmsvägen 180, 216 20 Malmö, Sweden",
+    "phone": "18021620"
+  },
+  {
+    "name": "Scandic Malmö City",
+    "address": "Södra Förstadsgatan 31, 211 43 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "UNITY Malmö",
+    "address": "Strandgatan 101, 216 11 Limhamn, Sweden",
+    "phone": "10121611"
+  },
+  {
+    "name": "The More Hotel Mazetti",
+    "address": "Södra Förstadsgatan 2, 1403, 211 43 Malmö, Sweden",
+    "phone": "2140321143"
+  },
+  {
+    "name": "Good Morning+ Malmö",
+    "address": "Södra Förstadsgatan 110B, 214 28 Malmö, Sweden",
+    "phone": "11021428"
+  },
+  {
+    "name": "Ohboy STF hotell",
+    "address": "Baltzarsgatan 45, 211 36 Malmö, Sweden",
+    "phone": "+46406655700"
+  },
+  {
+    "name": "Scandic St Jörgen",
+    "address": "Kungsgatan 2, 211 49 Malmö, Sweden",
+    "phone": "+46702727115"
+  },
+  {
+    "name": "Quality Hotel The Mill",
+    "address": "Gråbrödersg 7, 211 21 Malmö, Sweden",
+    "phone": "+464078660"
+  },
+  {
+    "name": "HOTEL N Hostel Malmö City",
+    "address": "Nobelvägen 113, 214 33 Malmö, Sweden",
+    "phone": "11321433"
+  },
+  {
+    "name": "The More Hotel Västra Hamnen",
+    "address": "Strandgatan 50, 216 12 Limhamn, Sweden",
+    "phone": "+4640162030"
+  },
+  {
+    "name": "Grand Circus Hotel",
+    "address": "Segesvängen, 212 27 Malmö, Sweden",
+    "phone": "+46406934500"
+  },
+  {
+    "name": "Scandic Stortorget",
+    "address": "Hyllie Boulevard 12, 215 32 Malmö, Sweden",
+    "phone": "+46406420400"
+  },
+  {
+    "name": "Forenom",
+    "address": "Limhamnsvägen, Brygga 1, 217 59 Malmö, Sweden",
+    "phone": "+4640260366"
+  },
+  {
+    "name": "Clarion Collection Hotel Temperance",
+    "address": "Hyllie Stationstorg 29, 215 32 Malmö, Sweden",
+    "phone": "+4640374100"
+  },
+  {
+    "name": "Continental Hotel",
+    "address": "Hospitalsgatan 2, 211 33 Malmö, Sweden",
+    "phone": "+4640121977"
+  },
+  {
+    "name": "Teaterhotellet",
+    "address": "Stora Varvsgatan 10, 211 19 Malmö, Sweden",
+    "phone": "+46812074300"
+  },
+  {
+    "name": "Quality Hotel View",
+    "address": "Engelbrektsgatan 16, 211 33 Malmö, Sweden",
+    "phone": "+464071020"
+  },
+  {
+    "name": "Best Western Malmo Arena Hotel",
+    "address": "Fersens väg 20, 211 47 Malmö, Sweden",
+    "phone": "+46406655800"
+  },
+  {
+    "name": "Scandic Segevång",
+    "address": "Södra Bulltoftavägen 51, 212 22 Malmö, Sweden",
+    "phone": "+46705257080"
+  },
+  {
+    "name": "Havshotellet",
+    "address": "Stortorget 15, 211 22 Malmö, Sweden",
+    "phone": "+46406934900"
+  },
+  {
+    "name": "Rut & Ragnars Hostel AB",
+    "address": "Rönngatan 1, 211 47 Malmö, Sweden",
+    "phone": "+46406551300"
+  },
+  {
+    "name": "Astoria Hotel",
+    "address": "Amiralsgatan 19, 211 55 Malmö, Sweden",
+    "phone": "+46406646000"
+  },
+  {
+    "name": "Kungsgatans Gryta & Hotell",
+    "address": "Stora Nygatan 35, 211 37 Malmö, Sweden",
+    "phone": "+46406934600"
+  },
+  {
+    "name": "Balzar hotel",
+    "address": "Lilla Varvsgatan 26, 211 19 Malmö, Sweden",
+    "phone": "+46406538800"
+  },
+  {
+    "name": "Ribersborgs open-air bath",
+    "address": "Nobelvägen 127a, 212 14 Malmö, Sweden",
+    "phone": "12721214"
+  },
+  {
+    "name": "Bosses Gästvåningar och vandrarhem",
+    "address": "Stadiongatan 21, 217 62 Malmö, Sweden",
+    "phone": "+46406728570"
+  },
+  {
+    "name": "ocean hotel",
+    "address": "Lilla Varvsgatan 24, 211 19 Malmö, Sweden",
+    "phone": "+46735230908"
+  },
+  {
+    "name": "City Room",
+    "address": "Kaptensgatan 1, 211 41 Malmö, Sweden",
+    "phone": "+46406150300"
+  },
+  {
+    "name": "PGA of Sweden National AB",
+    "address": "Rönngatan 1, 211 47 Malmö, Sweden",
+    "phone": "+46406551300"
+  },
+  {
+    "name": "Villa Elena",
+    "address": "Mäster Johansgatan 1, 211 21 Malmö, Sweden",
+    "phone": "+46406077000"
+  },
+  {
+    "name": "Apts Förvaltning Ab",
+    "address": "Norra Skolgatan 24, 214 22 Malmö, Sweden",
+    "phone": "+46406551000"
+  },
+  {
+    "name": "First Camp Sibbarp - Malmö",
+    "address": "Mäster Johansgatan 15, 211 21 Malmö, Sweden",
+    "phone": "+4640248500"
+  },
+  {
+    "name": "Bragegatan",
+    "address": "Stadiongatan 21, 217 62 Malmö, Sweden",
+    "phone": "+46406728570"
+  },
+  {
+    "name": "E&M Vandrarhem",
+    "address": "Gustav Adolfs torg 49, 211 39 Malmö, Sweden",
+    "phone": "+46406644870"
+  },
+  {
+    "name": "E & M Palats 1 AB",
+    "address": "Sjömansgatan 2, 211 11 Malmö, Sweden",
+    "phone": "+46406286000"
+  },
+  {
+    "name": "Art Holm Family Villa HomeAway",
+    "address": "Norra Vallgatan 94, 211 22 Malmö, Sweden",
+    "phone": "+46406642500"
+  },
+  {
+    "name": "Fridfullt boende på lantgård med underbar utsikt",
+    "address": "Jörgen Kocksgatan 3, 211 20 Malmö, Sweden",
+    "phone": "+4640101800"
+  },
+  {
+    "name": "MJ's",
+    "address": "Gibraltargatan 7, 211 18 Malmö, Sweden",
+    "phone": "+46708253500"
+  },
+  {
+    "name": "Café Live",
+    "address": "Norra Vallgatan 28, 211 25 Malmö, Sweden",
+    "phone": "+464079606"
+  },
+  {
+    "name": "Quan",
+    "address": "Tegelgårdsgatan 5, 211 33 Malmö, Sweden",
+    "phone": "+4640579750"
+  },
+  {
+    "name": "Lyran",
+    "address": "Simrishamnsgatan 36A, 214 35 Malmö, Sweden",
+    "phone": "+46763245228"
+  },
+  {
+    "name": "Lemongrass",
+    "address": "Adelgatan 4, 211 22 Malmö, Sweden",
+    "phone": "+4640294888"
+  },
+  {
+    "name": "Vollmers",
+    "address": "Frans Suellsgatan 3, 211 22 Malmö, Sweden",
+    "phone": "+4640230910"
+  },
+  {
+    "name": "Kockeriet",
+    "address": "Andréelundsvägen 5, 211 52 Malmö, Sweden",
+    "phone": "+4640306850"
+  },
+  {
+    "name": "Årstiderna",
+    "address": "Mäster Johansgatan 15-17, 211 21 Malmö, Sweden",
+    "phone": "151721121"
+  },
+  {
+    "name": "Restaurang Que",
+    "address": "Grynbodgatan 9, 211 33 Malmö, Sweden",
+    "phone": "+4640306979"
+  },
+  {
+    "name": "Bouchon",
+    "address": "Mäster Johansgatan 13, 211 21 Malmö, Sweden",
+    "phone": "+46406646400"
+  },
+  {
+    "name": "Mutantur",
+    "address": "Gråbrödersgatan 5, 211 21 Malmö, Sweden",
+    "phone": "+46732309868"
+  },
+  {
+    "name": "Kontrast",
+    "address": "Regementsgatan 56, 217 53 Malmö, Sweden",
+    "phone": "+4640915003"
+  },
+  {
+    "name": "NamDo Restaurant",
+    "address": "Claesgatan 6, 214 26 Malmö, Sweden",
+    "phone": "+4640470786"
+  },
+  {
+    "name": "Spot",
+    "address": "Davidshallsgatan 23, 211 45 Malmö, Sweden",
+    "phone": "+464079799"
+  },
+  {
+    "name": "Sture",
+    "address": "Ängelholmsgatan 11C, 214 22 Malmö, Sweden",
+    "phone": "+4640231165"
+  },
+  {
+    "name": "Carnivore Steak House",
+    "address": "Per Albin Hanssons väg 40, 214 32 Malmö, Sweden",
+    "phone": "+4640300844"
+  },
+  {
+    "name": "Paddy's",
+    "address": "Engelbrektsgatan 7, 211 33 Malmö, Sweden",
+    "phone": "+46406745305"
+  },
+  {
+    "name": "Restaurang Genuin",
+    "address": "Spångatan 4, 211 44 Malmö, Sweden",
+    "phone": "+4640304313"
+  },
+  {
+    "name": "Occo Restaurant",
+    "address": "Ystadsgatan 10, 214 24 Malmö, Sweden",
+    "phone": "+46735122492"
+  },
+  {
+    "name": "Zushi",
+    "address": "Gustav Adolfs torg 45, 211 39 Malmö, Sweden",
+    "phone": "+464078788"
+  },
+  {
+    "name": "Embassy",
+    "address": "Österportsgatan 2A, 211 28 Malmö, Sweden",
+    "phone": "+4640978866"
+  },
+  {
+    "name": "Västergatan",
+    "address": "Rådmansgatan 7, 211 46 Malmö, Sweden",
+    "phone": "+46760312219"
+  },
+  {
+    "name": "400grader",
+    "address": "Amiralsgatan 90, 214 37 Malmö, Sweden",
+    "phone": "+4640303300"
+  },
+  {
+    "name": "Siesta",
+    "address": "Fersens väg 14B, 211 42 Malmö, Sweden",
+    "phone": "+46406153278"
+  },
+  {
+    "name": "Ruths",
+    "address": "Tessins väg 8, 217 58 Malmö, Sweden",
+    "phone": "+4640260610"
+  },
+  {
+    "name": "KOL & Cocktails",
+    "address": "Davidshallstorg 3, 211 45 Malmö, Sweden",
+    "phone": "+4640928898"
+  },
+  {
+    "name": "Kin Long",
+    "address": "Södra Förstadsgatan 78B, 214 20 Malmö, Sweden",
+    "phone": "+4640443388"
+  },
+  {
+    "name": "Bistro Royal",
+    "address": "Södra Förstadsgatan 82, 214 20 Malmö, Sweden",
+    "phone": "+4640300748"
+  },
+  {
+    "name": "SOHO",
+    "address": "Södra Förstadsgatan 42, 211 43 Malmö, Sweden",
+    "phone": "+4640222242"
+  },
+  {
+    "name": "Kitchen & Table Malmö",
+    "address": "Bergsgatan 15A, 211 54 Malmö, Sweden",
+    "phone": "+46734946630"
+  },
+  {
+    "name": "Atmosfär",
+    "address": "Simrishamnsgatan 10, 214 23 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Östergatan No. 25",
+    "address": "Norra Vallgatan 88, 211 22 Malmö, Sweden",
+    "phone": "+46406436365"
+  },
+  {
+    "name": "Mello Yello",
+    "address": "Gibraltargatan 3, 211 18 Malmö, Sweden",
+    "phone": "+46738411777"
+  },
+  {
+    "name": "La Trattoria",
+    "address": "Lantmannagatan 6A, 214 44 Malmö, Sweden",
+    "phone": "+46406318882"
+  },
+  {
+    "name": "La Gare Malmö",
+    "address": "Östra Förstadsgatan 33, 212 12 Malmö, Sweden",
+    "phone": "+4640930074"
+  },
+  {
+    "name": "Mando Steakhouse & Bar",
+    "address": "Engelbrektsgatan 2, 211 33 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Wega",
+    "address": "Posthusplatsen 4, 211 20 Malmö, Sweden",
+    "phone": "+464079097"
+  },
+  {
+    "name": "Thott's",
+    "address": "Södra Förstadsgatan 1, 211 43 Malmö, Sweden",
+    "phone": "+4640238899"
+  },
+  {
+    "name": "Sajvva",
+    "address": "Kristianstadsgatan 7B, 214 23 Malmö, Sweden",
+    "phone": "+46723255333"
+  },
+  {
+    "name": "Bullen - Två Krögare",
+    "address": "Rörsjögatan 23, 211 37 Malmö, Sweden",
+    "phone": "+46406113888"
+  },
+  {
+    "name": "Indian kashmir",
+    "address": "Fersens väg 16, 211 42 Malmö, Sweden",
+    "phone": "+4640913191"
+  },
+  {
+    "name": "El Patio",
+    "address": "S:t Johannesgatan 7, 211 46 Malmö, Sweden",
+    "phone": "+4640505035"
+  },
+  {
+    "name": "V",
+    "address": "Malmborgsgatan 7, 211 38 Malmö, Sweden",
+    "phone": "+4640129120"
+  },
+  {
+    "name": "Davidshall",
+    "address": "Lönngatan 24, 214 49 Malmö, Sweden",
+    "phone": "+464083273"
+  },
+  {
+    "name": "Pink Head Noodle Bar",
+    "address": "Erik Dahlbergsgatan 3, 211 48 Malmö, Sweden",
+    "phone": "+4640170175"
+  },
+  {
+    "name": "Kasai in the Sky",
+    "address": "Ystadvägen 34, 214 45 Malmö, Sweden",
+    "phone": "+464087152"
+  },
+  {
+    "name": "Plockepinn",
+    "address": "Davidshallstorg 3, 211 45 Malmö, Sweden",
+    "phone": "+4640319898"
+  },
+  {
+    "name": "Riket",
+    "address": "Davidshallstorg 7, 211 45 Malmö, Sweden",
+    "phone": "+4640233580"
+  },
+  {
+    "name": "Saltimporten Canteen",
+    "address": "Bergsgatan 5, 211 54 Malmö, Sweden",
+    "phone": "+4640944244"
+  },
+  {
+    "name": "Mrs Saigon",
+    "address": "Ystadsgatan 17, 214 24 Malmö, Sweden",
+    "phone": "+4640929437"
+  },
+  {
+    "name": "La Soupe Adelgatan",
+    "address": "Sankt Knuts väg 7, 211 57 Malmö, Sweden",
+    "phone": "+46406160575"
+  },
+  {
+    "name": "Spill",
+    "address": "Östra Rönneholmsvägen 3, 211 47 Malmö, Sweden",
+    "phone": "+4640970304"
+  },
+  {
+    "name": "Sankt Markus Vinkällare",
+    "address": "Fredsgatan 12, Entré 2nd floor, 212 12 Malmö, Sweden",
+    "phone": "12221212"
+  },
+  {
+    "name": "La Roche",
+    "address": "Isak Slaktaregatan 5, 211 21 Malmö, Sweden",
+    "phone": "+46720842190"
+  },
+  {
+    "name": "V.E.S.P.A",
+    "address": "Södergatan 3, 211 34 Malmö, Sweden",
+    "phone": "+46840911504"
+  },
+  {
+    "name": "Sea Side Restaurant & Bar",
+    "address": "Bergsgatan 29, 211 53 Malmö, Sweden",
+    "phone": "+4640292944"
+  },
+  {
+    "name": "Via Napoli",
+    "address": "Östra Förstadsgatan 56, 212 12 Malmö, Sweden",
+    "phone": "+4640398888"
+  },
+  {
+    "name": "Linnea & Basilika Värnhem Malmö",
+    "address": "Scaniaplatsen 2A, 211 17 Malmö, Sweden",
+    "phone": "+4640445251"
+  },
+  {
+    "name": "SOI 29",
+    "address": "Sergels väg 11, 217 57 Malmö, Sweden",
+    "phone": "+4640268400"
+  },
+  {
+    "name": "Zócalo",
+    "address": "Landbygatan 5, 211 34 Malmö, Sweden",
+    "phone": "+4640121490"
+  },
+  {
+    "name": "Lillies",
+    "address": "Kanalgatan 3, 211 40 Malmö, Sweden",
+    "phone": "+4640127147"
+  },
+  {
+    "name": "Namu",
+    "address": "Larochegatan 5, 211 34 Malmö, Sweden",
+    "phone": "+4640303636"
+  },
+  {
+    "name": "Los Arcos Restaurante Mexicano",
+    "address": "Stadt Hamburgsgatan 2, 211 38 Malmö, Sweden",
+    "phone": "+4640306820"
+  },
+  {
+    "name": "T-Rex Restaurant & Dino Lekland",
+    "address": "Grimsbygatan 24, 211 20 Malmö, Sweden",
+    "phone": "+46706518426"
+  },
+  {
+    "name": "Saiko",
+    "address": "Skomakaregatan 10, 211 34 Malmö, Sweden",
+    "phone": "+4640122100"
+  },
+  {
+    "name": "Asien",
+    "address": "Erik Dahlbergsgatan 5, 211 48 Malmö, Sweden",
+    "phone": "+46766353611"
+  },
+  {
+    "name": "Shamiat",
+    "address": "Gängtappen, Stora Varvsgatan 11, 211 74 Malmö, Sweden",
+    "phone": "+46737070813"
+  },
+  {
+    "name": "La Bonne Vie",
+    "address": "Gråbrödersgatan 2, 211 21 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Abkz Restaurant Malmö AB",
+    "address": "Adelgatan 4, 211 22 Malmö, Sweden",
+    "phone": "+46708149560"
+  },
+  {
+    "name": "Restaurang Mevlana Kolgrill",
+    "address": "Södra Förstadsgatan 86, 214 20 Malmö, Sweden",
+    "phone": "+4640231080"
+  },
+  {
+    "name": "LU",
+    "address": "Erik Dahlbergsgatan 5, 211 48 Malmö, Sweden",
+    "phone": "+46760076095"
+  },
+  {
+    "name": "Elysee",
+    "address": "Tyfongatan 1, 211 19 Malmö, Sweden",
+    "phone": "+46406165220"
+  },
+  {
+    "name": "SMAK",
+    "address": "Engelbrektsgatan 17B, 211 33 Malmö, Sweden",
+    "phone": "+464078835"
+  },
+  {
+    "name": "Aras",
+    "address": "Baltzarsgatan 18, 211 36 Malmö, Sweden",
+    "phone": "+4640123701"
+  },
+  {
+    "name": "Ngon",
+    "address": "Skomakaregatan 5, 211 34 Malmö, Sweden",
+    "phone": "+46735468181"
+  },
+  {
+    "name": "Vegegården",
+    "address": "Östergatan 10, 211 25 Malmö, Sweden",
+    "phone": "+46406984000"
+  },
+  {
+    "name": "Cataleya",
+    "address": "Östra Förstadsgatan 26, 211 31 Malmö, Sweden",
+    "phone": "+4640121228"
+  },
+  {
+    "name": "Scandwich",
+    "address": "Baltzarsgatan 20, 211 36 Malmö, Sweden",
+    "phone": "+46406656000"
+  },
+  {
+    "name": "KP",
+    "address": "Storgatan 35, 211 41 Malmö, Sweden",
+    "phone": "+4640121241"
+  },
+  {
+    "name": "Jensens Bøfhus",
+    "address": "Östra Förstadsgatan 29, 212 12 Malmö, Sweden",
+    "phone": "+4640291121"
+  },
+  {
+    "name": "Broderstugan Kök & Bar",
+    "address": "Östra Tullgatan 7, 211 28 Malmö, Sweden",
+    "phone": "+4640232073"
+  },
+  {
+    "name": "Two Forks Hummus Shop",
+    "address": "Malmöhusvägen 6, 211 18 Malmö, Sweden",
+    "phone": "+4640123212"
+  },
+  {
+    "name": "BISe",
+    "address": "Östergatan 25, 211 25 Malmö, Sweden",
+    "phone": "+4640120412"
+  },
+  {
+    "name": "Lera",
+    "address": "Lilla torg 1, 211 34 Malmö, Sweden",
+    "phone": "+4640304525"
+  },
+  {
+    "name": "Fridays American Bistro",
+    "address": "Skomakaregatan 4, 211 34 Malmö, Sweden",
+    "phone": "+464078000"
+  },
+  {
+    "name": "Ganesha",
+    "address": "Dag Hammarskjölds torg 2, 211 18 Malmö, Sweden",
+    "phone": "+4640207500"
+  },
+  {
+    "name": "Damas",
+    "address": "Rådmansgatan 1, 211 46 Malmö, Sweden",
+    "phone": "+46406119404"
+  },
+  {
+    "name": "Ramen to Bíiru Malmø",
+    "address": "Fersens väg 4, 211 42 Malmö, Sweden",
+    "phone": "+4640125077"
+  },
+  {
+    "name": "Shamiat",
+    "address": "Mäster Johansgatan 11, 211 21 Malmö, Sweden",
+    "phone": "+4640121318"
+  },
+  {
+    "name": "Art of Spices",
+    "address": "Hjorttackegatan 1, 211 33 Malmö, Sweden",
+    "phone": "+46406111027"
+  },
+  {
+    "name": "Mr. Gyros Malmö",
+    "address": "Holmgatan 4, 211 45 Malmö, Sweden",
+    "phone": "+46768939132"
+  },
+  {
+    "name": "La Nonnina Restaurant",
+    "address": "Kalendegatan 16, 211 35 Malmö, Sweden",
+    "phone": "+4640400989"
+  },
+  {
+    "name": "Burritofriends",
+    "address": "Sweden, Centralplan 1, 211 22 Malmö, Sweden",
+    "phone": "+46406855656"
+  },
+  {
+    "name": "Rau",
+    "address": "Södra Skolgatan 33, 214 20 Malmö, Sweden",
+    "phone": "+4640979997"
+  },
+  {
+    "name": "Govindas Restaurant",
+    "address": "Västergatan 31A, 211 21 Malmö, Sweden",
+    "phone": "+4640121203"
+  },
+  {
+    "name": "The Orient House Of Falafel No 1",
+    "address": "Västergatan 16, 211 21 Malmö, Sweden",
+    "phone": "+464079313"
+  },
+  {
+    "name": "Zula",
+    "address": "Drottningtorget 4, 211 25 Malmö, Sweden",
+    "phone": "+4640212880"
+  },
+  {
+    "name": "Tamnack Thai",
+    "address": "Kalendegatan 12B, 211 35 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Miso",
+    "address": "Köpenhamnsvägen 40, 217 71 Malmö, Sweden",
+    "phone": "+4640261010"
+  },
+  {
+    "name": "The Masala Box",
+    "address": "Östra Förstadsgatan 24, 211 31 Malmö, Sweden",
+    "phone": "+4640104010"
+  },
+  {
+    "name": "Davidshalls Pizzeria",
+    "address": "Adelgatan 13, 211 22 Malmö, Sweden",
+    "phone": "+4640121253"
+  },
+  {
+    "name": "Emporia Shopping Center",
+    "address": "Malmborgsgatan 1-3, 211 38 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Triangeln",
+    "address": "Gustav Adolfs torg, 211 39 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Kv. Caroli",
+    "address": "Östergatan 32, 211 25 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hansa",
+    "address": "Jägersrovägen 151, 213 75 Malmö, Sweden",
+    "phone": "15121375"
+  },
+  {
+    "name": "Centralstation",
+    "address": "Skeppsbron 1, 211 20 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Crown Prince Shopping Center",
+    "address": "Södra Förstadsgatan 41, 211 43 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Center H Y M",
+    "address": "Stora Nygatan 50-56, 211 37 Malmö, Sweden",
+    "phone": "505621137"
+  },
+  {
+    "name": "Malmö Entré",
+    "address": "Fredsgatan 10, 212 12 Malmö, Sweden",
+    "phone": "+46734338745"
+  },
+  {
+    "name": "Jägersro Center",
+    "address": "Regementsgatan 52, 217 48 Malmö, Sweden",
+    "phone": "+4640261188"
+  },
+  {
+    "name": "Bil",
+    "address": "Stadiongatan 25, 217 62 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Mobilia",
+    "address": "Fredsgatan 13 A, 212 12 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Malmo ,Sweden",
+    "address": "Hyllie Boulevard 19, 215 32 Malmö, Sweden",
+    "phone": "+4640363610"
+  },
+  {
+    "name": "Blodder AB",
+    "address": "Emporia, Hyllie Boulevard 19, 215 32 Malmö, Sweden",
+    "phone": "+46406072710"
+  },
+  {
+    "name": "Mitt Möllan",
+    "address": "Möllevångstorget 7, 214 24 Malmö, Sweden",
+    "phone": "+4640924380"
+  },
+  {
+    "name": "Rosengård centrum",
+    "address": "Emporia Shopping Center, Hyllie Boulevard 19, 215 32 Malmö, Sweden",
+    "phone": "+46855002560"
+  },
+  {
+    "name": "Abdos Outlet",
+    "address": "Agnesfridsvägen 177, 213 75 Malmö, Sweden",
+    "phone": "17721375"
+  },
+  {
+    "name": "Premium-Outlet.se",
+    "address": "Marknadsvägen 7, 246 42 Löddeköpinge, Sweden",
+    "phone": "+4646707001"
+  },
+  {
+    "name": "#Bernstorp",
+    "address": "Skeppsgatan 19, 211 11 Malmö, Sweden",
+    "phone": "+46406278380"
+  },
+  {
+    "name": "Oxie Centrum",
+    "address": "Hyllie Boulevard 27, 215 32 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "The point",
+    "address": "Vassvägen 20-26, 232 91 Arlöv, Sweden",
+    "phone": "202623291"
+  },
+  {
+    "name": "Burlöv center",
+    "address": "Kronetorpsvägen 2, 232 37 Arlöv, Sweden",
+    "phone": null
+  },
+  {
+    "name": "E-Center",
+    "address": "Stengodsvägen 137, 238 30 Oxie, Sweden",
+    "phone": "13723830"
+  },
+  {
+    "name": "Mister Spex Malmö - Emporia Shopping Center",
+    "address": "Stortorget 19, 211 34 Malmö, Sweden",
+    "phone": "+46706151430"
+  },
+  {
+    "name": "Kina Center Livs",
+    "address": "Södra Förstadsgatan 41, 211 43 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Galleria Center Syd",
+    "address": "Håkanstorpsvägen, 212 28 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "World Trade Center Malmö",
+    "address": "Norra Rosengård, Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "CHANEL FRAGRANCE AND BEAUTY BOUTIQUE EMPORIA SHOPPING CENTER",
+    "address": "Stortorget 27, 211 34 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Reptilmesse",
+    "address": "Claesgatan 8, 214 26 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Godis Center I Malmö Ab",
+    "address": "Per Albin Hanssons väg 40, 214 32 Malmö, Sweden",
+    "phone": "+46702012200"
+  },
+  {
+    "name": "Malmö Castle",
+    "address": "Malmöhusvägen 6, 211 18 Malmö, Sweden",
+    "phone": "+4640344400"
+  },
+  {
+    "name": "Øresund Bridge",
+    "address": "Malmöhusvägen 6, 211 18 Malmö, Sweden",
+    "phone": "+4640341000"
+  },
+  {
+    "name": "Folkets Park",
+    "address": "Malmöhusvägen 4, 211 18 Malmö, Sweden",
+    "phone": "+4640341000"
+  },
+  {
+    "name": "Slottsträdgården",
+    "address": "Slottsgatan 33, 211 33 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Kungsparken, Malmö",
+    "address": "Gustav Adolfs torg 8C, 211 39 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Turning Torso",
+    "address": "S:t Johannesgatan 7, 205 80 Malmö, Sweden",
+    "phone": "+4640346000"
+  },
+  {
+    "name": "Pildammsparken",
+    "address": "Amiralsgatan 35, 214 37 Malmö, Sweden",
+    "phone": "+4640341000"
+  },
+  {
+    "name": "Gustav Adolfs torg",
+    "address": "Pildammsparken, 217 46 Malmö, Sweden",
+    "phone": "+4640341000"
+  },
+  {
+    "name": "Malmö Konsthall",
+    "address": "Hamngatan 1, 211 22 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Moderna Museet",
+    "address": "Norra Skolgatan 16, 211 53 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "SLOVE IT! escape room",
+    "address": "Snapperupsgatan 10, 211 35 Malmö, Sweden",
+    "phone": "+4640344400"
+  },
+  {
+    "name": "Sherlocked",
+    "address": "Falsterbogatan 19, 214 36 Malmö, Sweden",
+    "phone": "+46406160505"
+  },
+  {
+    "name": "Katrinetorp Landeri",
+    "address": "Slussgatan 21, 211 30 Malmö, Sweden",
+    "phone": "+46761953237"
+  },
+  {
+    "name": "Dania Park",
+    "address": "Östra Tullgatan 1, 211 28 Malmö, Sweden",
+    "phone": "+46760261462"
+  },
+  {
+    "name": "Form/Design Center",
+    "address": "Södra Tvärvägen 10-11, 245 65 Hjärup, Sweden",
+    "phone": "101124565"
+  },
+  {
+    "name": "Disgusting Food Museum",
+    "address": "Gibraltargatan 6, 211 18 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "\"The troll\" mural by Smug",
+    "address": "Slottsgatan 33, 211 33 Malmö, Sweden",
+    "phone": "+4620219219"
+  },
+  {
+    "name": "Teamtastic Malmo",
+    "address": "Hedmanska gården, Lilla torg 9, 211 34 Malmö, Sweden",
+    "phone": "+46707289968"
+  },
+  {
+    "name": "The Knotted Gun / Non Violence",
+    "address": "Kompanigatan 5, 211 35 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Spectral Self Container",
+    "address": "Storgatan 22, 211 42 Malmö, Sweden",
+    "phone": "+46856260000"
+  },
+  {
+    "name": "St. John's Church",
+    "address": "Norra Vallgatan 60, 211 22 Malmö, Sweden",
+    "phone": "+46406117488"
+  },
+  {
+    "name": "Malmö",
+    "address": "Stortorget, 211 22 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Ribersborgsstranden",
+    "address": "Södra Förstadskanalen, Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Ribersborgs open-air bath",
+    "address": "Limhamnsvägen, Brygga 1, 217 59 Malmö, Sweden",
+    "phone": "+4640260366"
+  },
+  {
+    "name": "Sollekplatsen",
+    "address": "Jägersrovägen 202, 213 77 Malmö, Sweden",
+    "phone": "20221377"
+  },
+  {
+    "name": "Shoes on Davidshalls Bridge",
+    "address": "Flaggskeppsgatan 18, 211 14 Malmö, Sweden",
+    "phone": "+4640342273"
+  },
+  {
+    "name": "Malmö Walking Tours",
+    "address": "Stapelbäddsgatan 3, 211 75 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Gamla Väster",
+    "address": "Drottninggatan 1, 212 11 Malmö, Sweden",
+    "phone": "+4640238770"
+  },
+  {
+    "name": "Filmstaden",
+    "address": "Rådmansgatan 20, 211 46 Malmö, Sweden",
+    "phone": "+4640279150"
+  },
+  {
+    "name": "Town Hall",
+    "address": "Anna Lindhs Plats 8, 211 19 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Malmö Municipality",
+    "address": "Hamngatan 5, 211 22 Malmö, Sweden",
+    "phone": "+46103033450"
+  },
+  {
+    "name": "Rundan Sightseeing",
+    "address": "Snödroppsgatan, 215 27 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Möllevången",
+    "address": "Södra Förstadsgatan 2, 211 43 Malmö, Sweden",
+    "phone": "+4640101771"
+  },
+  {
+    "name": "Casino Cosmopol Malmö",
+    "address": "Utsiktsvägen 10, 216 30 Limhamn, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Malmö Saluhall",
+    "address": "Döbelnsgatan 8, 212 13 Malmö, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Jakriborg",
+    "address": "Lilla torg 9, 211 34 Malmö, Sweden",
+    "phone": "+46406645150"
+  },
+  {
+    "name": "Anigma",
+    "address": "Kung Oscars väg 11, 211 33 Malmö, Sweden",
+    "phone": "+46406608500"
+  },
+  {
+    "name": "Stora dammen",
+    "address": "Gustav Adolfs torg, 211 39 Malmö, Sweden",
+    "phone": "+4640279200"
+  },
+  {
+    "name": "Gamla staden",
+    "address": "Katrinetorps allé 1, 215 74 Malmö, Sweden",
+    "phone": "+4640467166"
+  },
+  {
+    "name": "Öresundslekplatsen",
+    "address": "Daniaparken, Barometergatan 72, 211 17 Malmö, Sweden",
+    "phone": "+4640342273"
+  },
+  {
+    "name": "Malmo",
+    "address": "Davidshallsgatan 25, 211 45 Malmö, Sweden",
+    "phone": "+4640154015"
+  },
+  {
+    "name": "Amalienborg",
+    "address": "Malmöhusvägen 7A, 211 18 Malmö, Sweden",
+    "phone": "+4640344438"
+  },
+  {
+    "name": "Malmo Adventure Golf, People's Park",
+    "address": "Östergatan 5, 211 25 Malmö, Sweden",
+    "phone": "+46406512100"
+  },
+  {
+    "name": "Questrooms",
+    "address": "Göran Olsgatan 4, 211 22 Malmö, Sweden",
+    "phone": "+4640279043"
+  },
+  {
+    "name": "Ebbas hus / Malmö museum",
+    "address": "Djäknegatan 18, 211 35 Malmö, Sweden",
+    "phone": "+46700416676"
+  },
+  {
+    "name": "Spielplatz Norra",
+    "address": "Ola Billgrens plats 2-4, 211 29 Malmö, Sweden",
+    "phone": "+46406857937"
+  },
+  {
+    "name": "CoolStuff",
+    "address": "Lilla Varvsgatan 14, 211 15 Malmö, Sweden",
+    "phone": "+4640174500"
+  },
+  {
+    "name": "Radisson Blu Hotel, Uppsala",
+    "address": "Övre Slottsgatan 5, 753 10 Uppsala, Sweden",
+    "phone": "+4618155190"
+  },
+  {
+    "name": "Grand Hotell Hörnan Hotel",
+    "address": "Bangårdsgatan 1, 753 20 Uppsala, Sweden",
+    "phone": "+4618139380"
+  },
+  {
+    "name": "Hotell Botanika Uppsala",
+    "address": "Storgatan 30, 753 31 Uppsala, Sweden",
+    "phone": "+4618681100"
+  },
+  {
+    "name": "Clarion Collection Hotel Uppsala",
+    "address": "Suttungs gränd 6, 753 19 Uppsala, Sweden",
+    "phone": "+46187809900"
+  },
+  {
+    "name": "Clarion Hotel Gillet",
+    "address": "Storgatan 30, 753 31 Uppsala, Sweden",
+    "phone": "+4618681100"
+  },
+  {
+    "name": "Best Western Hotel Svava",
+    "address": "Trädgårdsgatan 5A, 753 09 Uppsala, Sweden",
+    "phone": "+4618121000"
+  },
+  {
+    "name": "Elite Hotel Academia",
+    "address": "Stationsgatan 4, 753 40 Uppsala, Sweden",
+    "phone": "+46184747900"
+  },
+  {
+    "name": "Park Inn by Radisson Uppsala",
+    "address": "Skolgatan 45, 753 32 Uppsala, Sweden",
+    "phone": "+46188880600"
+  },
+  {
+    "name": "Akademihotellet",
+    "address": "Bangårdsgatan 24, 753 20 Uppsala, Sweden",
+    "phone": "+4618130030"
+  },
+  {
+    "name": "CityStay Hotell",
+    "address": "Dragarbrunnsgatan 23, 753 20 Uppsala, Sweden",
+    "phone": "+4618681800"
+  },
+  {
+    "name": "Hotel von Kraemer",
+    "address": "Vårdsätravägen 71, 756 55 Uppsala, Sweden",
+    "phone": "+46706462120"
+  },
+  {
+    "name": "ArenaHotellet i Uppsala",
+    "address": "Vattholmavägen 16, 1 tr, 754 19 Uppsala, Sweden",
+    "phone": "16175419"
+  },
+  {
+    "name": "Scandic Uplandia",
+    "address": "Tegnérgatan 31D, 752 26 Uppsala, Sweden",
+    "phone": "+4618550008"
+  },
+  {
+    "name": "Hotell Centralstation",
+    "address": "Kungsgatan 27, 753 21 Uppsala, Sweden",
+    "phone": "+46184905100"
+  },
+  {
+    "name": "Hotell Fyrislund",
+    "address": "Portalgatan 30, 754 23 Uppsala, Sweden",
+    "phone": "+46184442010"
+  },
+  {
+    "name": "Hotel Kvarntorget",
+    "address": "Kungsgatan, 753 21 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Uppsala City Hostel",
+    "address": "Jumkilsgatan 13, 752 18 Uppsala, Sweden",
+    "phone": "+46704029929"
+  },
+  {
+    "name": "Viktoria Hotell & Konferens",
+    "address": "Idrottsgatan 2, 753 33 Uppsala, Sweden",
+    "phone": "+46187274960"
+  },
+  {
+    "name": "Hotell Stella",
+    "address": "Fyristorg 8, 753 10 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Vandrarhem Uppsala Kungsängstorg",
+    "address": "Dragarbrunnsgatan 44, 753 20 Uppsala, Sweden",
+    "phone": "+46184442010"
+  },
+  {
+    "name": "Uppsala Hotel Apartments",
+    "address": "Drottninggatan 10, 753 10 Uppsala, Sweden",
+    "phone": "+4618382277"
+  },
+  {
+    "name": "Hotel Kvarntorget",
+    "address": "Odinslund 3, 753 10 Uppsala, Sweden",
+    "phone": "+46185802000"
+  },
+  {
+    "name": "Duvan Hotell",
+    "address": "Östra Ågatan 95, 753 18 Uppsala, Sweden",
+    "phone": "+4618100151"
+  },
+  {
+    "name": "Uppsala Lägenhetshotell",
+    "address": "Klangs gränd 5, 752 33 Uppsala, Sweden",
+    "phone": "+4618505041"
+  },
+  {
+    "name": "Selma's cabin & salon",
+    "address": "Palmbladsgatan 5, 754 50 Uppsala, Sweden",
+    "phone": "+46812888880"
+  },
+  {
+    "name": "Uppsala Hostel",
+    "address": "Dragarbrunnsgatan 69, 753 20 Uppsala, Sweden",
+    "phone": "+4618564035"
+  },
+  {
+    "name": "Villa Anna",
+    "address": "Östra Ågatan 93, 753 18 Uppsala, Sweden",
+    "phone": "+46766002520"
+  },
+  {
+    "name": "Foundry Hotel Apartments",
+    "address": "Kvarntorget 3, 754 21 Uppsala, Sweden",
+    "phone": "+4618242008"
+  },
+  {
+    "name": "Boet",
+    "address": "Kungsängstorg 6, 753 20 Uppsala, Sweden",
+    "phone": "+46761858485"
+  },
+  {
+    "name": "Apartments CentralStation",
+    "address": "Almungevägen 33, 754 54 Uppsala, Sweden",
+    "phone": "+4618132260"
+  },
+  {
+    "name": "Uppsala",
+    "address": "S:t Johannesgatan 31C, 752 33 Uppsala, Sweden",
+    "phone": "+4618510414"
+  },
+  {
+    "name": "Hostel Fyristorg",
+    "address": "Kvarntorget 3, 754 21 Uppsala, Sweden",
+    "phone": "+4618242008"
+  },
+  {
+    "name": "Stay by George",
+    "address": "S:t Persgatan 16, 753 20 Uppsala, Sweden",
+    "phone": "+4618100008"
+  },
+  {
+    "name": "Vandrarhem Uppsala - Portalgatan",
+    "address": "Fyrislundsgatan 81, 754 50 Uppsala, Sweden",
+    "phone": "+4618108870"
+  },
+  {
+    "name": "Klostergatan 16 Student Living",
+    "address": "Bangårdsgatan 13, 753 30 Uppsala, Sweden",
+    "phone": "+46761858485"
+  },
+  {
+    "name": "Hågadalens Hostel & Vandrarhem",
+    "address": "von Kraemers allé 26, 752 37 Uppsala, Sweden",
+    "phone": "+46184959900"
+  },
+  {
+    "name": "Svartbäckens vandrarhem",
+    "address": "Dragarbrunnsgatan 32, 753 20 Uppsala, Sweden",
+    "phone": "+46184952600"
+  },
+  {
+    "name": "Fyrishov Stugby och Camping",
+    "address": "Tennisvägen, 754 60 Uppsala, Sweden",
+    "phone": "+4618350025"
+  },
+  {
+    "name": "Jay Fu's",
+    "address": "Svartbäcksgatan 24, 753 32 Uppsala, Sweden",
+    "phone": "+4618125010"
+  },
+  {
+    "name": "Dryck & Mat",
+    "address": "S 10, 753 20 Uppsala, Sweden",
+    "phone": "+4618150155"
+  },
+  {
+    "name": "Frenchi",
+    "address": "Svartbäcksgatan 23, 753 32 Uppsala, Sweden",
+    "phone": "+46705477034"
+  },
+  {
+    "name": "Ristorante Villa Romana - Restaurang Uppsala",
+    "address": "Dragarbrunnsgatan 23, 753 20 Uppsala, Sweden",
+    "phone": "+4618681800"
+  },
+  {
+    "name": "Kitchen & Table Uppsala",
+    "address": "S:t Eriks torg 8, 753 10 Uppsala, Sweden",
+    "phone": "+4618150151"
+  },
+  {
+    "name": "Restaurang Basilico",
+    "address": "S:t Olofsgatan 23, 753 21 Uppsala, Sweden",
+    "phone": "+4618101399"
+  },
+  {
+    "name": "Costas Taverna",
+    "address": "Olof Palmes plats 2, 753 21 Uppsala, Sweden",
+    "phone": "+46703123556"
+  },
+  {
+    "name": "Iberico Tapas & Bar",
+    "address": "Fyristorg 8, 753 10 Uppsala, Sweden",
+    "phone": "+4618150531"
+  },
+  {
+    "name": "Messob",
+    "address": "Gamla torget 4, 753 20 Uppsala, Sweden",
+    "phone": "+4618125090"
+  },
+  {
+    "name": "Bierhuis Ölcafe",
+    "address": "Sturegatan 4A, 753 14 Uppsala, Sweden",
+    "phone": "+4618500020"
+  },
+  {
+    "name": "Il Forno Italiano - Italiensk restaurang Uppsala",
+    "address": "Olof Palmes plats 10, 753 21 Uppsala, Sweden",
+    "phone": "+4618100905"
+  },
+  {
+    "name": "Domtrappkällaren",
+    "address": "Vaksalagatan 53, 753 31 Uppsala, Sweden",
+    "phone": "+46736376530"
+  },
+  {
+    "name": "Restaurang Sverre",
+    "address": "Stationsgatan 23, 753 40 Uppsala, Sweden",
+    "phone": "+46105595219"
+  },
+  {
+    "name": "Miss Voon",
+    "address": "Drottninggatan 1A, 753 10 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Meza",
+    "address": "Sysslomansgatan 11, 753 11 Uppsala, Sweden",
+    "phone": "+4618121560"
+  },
+  {
+    "name": "OPA Greek Cuisine!",
+    "address": "Östra Ågatan 31, 753 22 Uppsala, Sweden",
+    "phone": "+4618142706"
+  },
+  {
+    "name": "Stationen",
+    "address": "Bäverns gränd 5A, 753 19 Uppsala, Sweden",
+    "phone": "+46707644334"
+  },
+  {
+    "name": "Légume - Lunchrestaurang Uppsala",
+    "address": "Vaksalagatan 18A, 753 20 Uppsala, Sweden",
+    "phone": "+4618100222"
+  },
+  {
+    "name": "EAT Social Dining & Lounge",
+    "address": "Sysslomansgatan 24, 752 23 Uppsala, Sweden",
+    "phone": "+4618556500"
+  },
+  {
+    "name": "Restaurang Hodja",
+    "address": "Sjukhusvägen 5A, 753 09 Uppsala, Sweden",
+    "phone": "+46187008518"
+  },
+  {
+    "name": "Byblos",
+    "address": "Bangårdsgatan 13, 753 20 Uppsala, Sweden",
+    "phone": "+46733804546"
+  },
+  {
+    "name": "Picnic",
+    "address": "Vaksalagatan 28, 753 31 Uppsala, Sweden",
+    "phone": "+46737070703"
+  },
+  {
+    "name": "Naan & Chili",
+    "address": "Svartbäcksgatan 14, 753 20 Uppsala, Sweden",
+    "phone": "+4618135311"
+  },
+  {
+    "name": "Uppströms Fisk & Skaldjur",
+    "address": "S:t Olofsgatan 35, 753 30 Uppsala, Sweden",
+    "phone": "+46734483404"
+  },
+  {
+    "name": "Restaurang Tzatziki",
+    "address": "Sverige, Bredgränd 14, 753 20 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Uppsala Banh Mi",
+    "address": "Dragarbrunnsgatan 17, 753 20 Uppsala, Sweden",
+    "phone": "+4618232924"
+  },
+  {
+    "name": "Aaltos",
+    "address": "Smedsgränd 5, 753 20 Uppsala, Sweden",
+    "phone": "+4618650321"
+  },
+  {
+    "name": "AN NAM VIETNAMESISK RESTAURANG",
+    "address": "Sysslomansgatan 13, 753 11 Uppsala, Sweden",
+    "phone": "+46188880990"
+  },
+  {
+    "name": "Trattoria Alessandro",
+    "address": "Dragarbrunnsgatan 53, 753 20 Uppsala, Sweden",
+    "phone": "+4618107070"
+  },
+  {
+    "name": "Aperitivo",
+    "address": "Svartbäcksgatan 11, 753 20 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Peppar Peppar",
+    "address": "Kungsgatan 71, 753 21 Uppsala, Sweden",
+    "phone": "+46769496668"
+  },
+  {
+    "name": "The LoCo",
+    "address": "S:t Eriks torg, 753 10 Uppsala, Sweden",
+    "phone": "+46101515360"
+  },
+  {
+    "name": "Restaurang Koh Phangan",
+    "address": "S:t Olofsgatan 9, 753 21 Uppsala, Sweden",
+    "phone": "+4618101510"
+  },
+  {
+    "name": "Restaurang Korfu",
+    "address": "Stora torget 1, 753 20 Uppsala, Sweden",
+    "phone": "+4618103535"
+  },
+  {
+    "name": "Pinchos",
+    "address": "Kungsängsgatan 7, 753 22 Uppsala, Sweden",
+    "phone": "+46704590299"
+  },
+  {
+    "name": "Hambergs Fisk",
+    "address": "Smedsgränd, 753 20 Uppsala, Sweden",
+    "phone": "+46760375135"
+  },
+  {
+    "name": "Harrys",
+    "address": "Uppsala Studentkår, Övre Slottsgatan 7, 753 10 Uppsala, Sweden",
+    "phone": "+4618120440"
+  },
+  {
+    "name": "La Ruelle",
+    "address": "Kungsgatan 55, 753 21 Uppsala, Sweden",
+    "phone": "+4618145730"
+  },
+  {
+    "name": "Zócalo - Fresh Happy Mex",
+    "address": "Salagatan 29A, 753 30 Uppsala, Sweden",
+    "phone": "+46707640567"
+  },
+  {
+    "name": "Egon Restaurant",
+    "address": "Västra Ågatan, 753 10 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "RMagnussons - Restaurang Uppsala",
+    "address": "Drottninggatan 5, 753 10 Uppsala, Sweden",
+    "phone": "+4618130000"
+  },
+  {
+    "name": "mjesto",
+    "address": "Smedsgränd 8, 753 20 Uppsala, Sweden",
+    "phone": "+46735828803"
+  },
+  {
+    "name": "PONG Uppsala",
+    "address": "Vaksalagatan 30A, 753 31 Uppsala, Sweden",
+    "phone": "+46739066018"
+  },
+  {
+    "name": "My Gyros",
+    "address": "Suttungs gränd 6, 753 19 Uppsala, Sweden",
+    "phone": "+46187809900"
+  },
+  {
+    "name": "Klostergatan 5",
+    "address": "Dragarbrunnsgatan 50a, 753 20 Uppsala, Sweden",
+    "phone": "+4618106000"
+  },
+  {
+    "name": "Restaurang Che",
+    "address": "Vaksalagatan 24, 753 31 Uppsala, Sweden",
+    "phone": "+4618212221"
+  },
+  {
+    "name": "Borgen Restaurang & Festsalar Uppsala",
+    "address": "Bredgränd 14, 753 20 Uppsala, Sweden",
+    "phone": "+4618153012"
+  },
+  {
+    "name": "Ll'Amice Uppsala",
+    "address": "S:t Persgatan 22A, 753 29 Uppsala, Sweden",
+    "phone": "+4618138718"
+  },
+  {
+    "name": "La Jefa Uppsala",
+    "address": "Stationsgatan 12-16, 753 25 Uppsala, Sweden",
+    "phone": "121675325"
+  },
+  {
+    "name": "Brezza",
+    "address": "Kungsängsgatan 20, 753 22 Uppsala, Sweden",
+    "phone": "+4618107350"
+  },
+  {
+    "name": "Brödernas",
+    "address": "Torsgatan 15, 753 15 Uppsala, Sweden",
+    "phone": "+4618548488"
+  },
+  {
+    "name": "Restaurang Rififi",
+    "address": "S:t Eriks torg, 753 10 Uppsala, Sweden",
+    "phone": "+4618150150"
+  },
+  {
+    "name": "Indian Kitchen - Indisk restaurang Uppsala",
+    "address": "Svartbäcksgatan 7-11, 752 30 Uppsala, Sweden",
+    "phone": "71175230"
+  },
+  {
+    "name": "Bastard Burgers",
+    "address": "Dragarbrunnsgatan 36, 753 20 Uppsala, Sweden",
+    "phone": "+4618122203"
+  },
+  {
+    "name": "Klang Market",
+    "address": "Bäverns gränd 24, 753 19 Uppsala, Sweden",
+    "phone": "+46707182436"
+  },
+  {
+    "name": "China Garden",
+    "address": "Skolgatan 39, 753 11 Uppsala, Sweden",
+    "phone": "+4618102081"
+  },
+  {
+    "name": "Tjuren",
+    "address": "Övre Slottsgatan 12, 753 10 Uppsala, Sweden",
+    "phone": "+4618363686"
+  },
+  {
+    "name": "Fröjas Sal",
+    "address": "Kungsgatan 55, 753 21 Uppsala, Sweden",
+    "phone": "+4618145730"
+  },
+  {
+    "name": "GinnDee Sushi & Wok",
+    "address": "Dragarbrunnsgatan 43A, 753 20 Uppsala, Sweden",
+    "phone": "+4618108263"
+  },
+  {
+    "name": "Åkanten",
+    "address": "Kungsgatan 25, 753 32 Uppsala, Sweden",
+    "phone": "+4618126071"
+  },
+  {
+    "name": "Le Parc Restaurant",
+    "address": "Gamla torget 5, 753 20 Uppsala, Sweden",
+    "phone": "+46812150995"
+  },
+  {
+    "name": "O'Learys Uppsala",
+    "address": "Kungsängsgatan 7, 753 22 Uppsala, Sweden",
+    "phone": "+4618151010"
+  },
+  {
+    "name": "Taste of chilli",
+    "address": "Skolgatan 31, 753 11 Uppsala, Sweden",
+    "phone": "+4618711540"
+  },
+  {
+    "name": "Ai Japansk Restaurang",
+    "address": "Svartbäcksgatan 19, 753 32 Uppsala, Sweden",
+    "phone": "+46707118512"
+  },
+  {
+    "name": "Boquerone Tapar & Bar",
+    "address": "Orphei Drängars plats 1, 753 11 Uppsala, Sweden",
+    "phone": "+4618142120"
+  },
+  {
+    "name": "Tugg Burgers",
+    "address": "Dragarbrunnsgatan 15, 753 20 Uppsala, Sweden",
+    "phone": "+46187001717"
+  },
+  {
+    "name": "Restaurang Nobel",
+    "address": "S:t Persgatan 12, 753 20 Uppsala, Sweden",
+    "phone": "+46184444064"
+  },
+  {
+    "name": "Jappi",
+    "address": "Dragarbrunnsgatan 36, 753 20 Uppsala, Sweden",
+    "phone": "+4618106260"
+  },
+  {
+    "name": "Mey Wang Sushi AB",
+    "address": "S:t Eriks torg 2, 753 10 Uppsala, Sweden",
+    "phone": "+4618714000"
+  },
+  {
+    "name": "Taco Bar",
+    "address": "Storgatan 27, 753 31 Uppsala, Sweden",
+    "phone": "+4618102828"
+  },
+  {
+    "name": "Lulu Uppsala City",
+    "address": "Klostergatan 5, 753 21 Uppsala, Sweden",
+    "phone": "+4618202160"
+  },
+  {
+    "name": "Curry India",
+    "address": "Vaksalagatan 10, 753 20 Uppsala, Sweden",
+    "phone": "+46184186090"
+  },
+  {
+    "name": "Phil's Burger",
+    "address": "Bredgränd 4, 753 20 Uppsala, Sweden",
+    "phone": "+4618550010"
+  },
+  {
+    "name": "Gyro Gyro",
+    "address": "Forumkvarteret, 753 20 Uppsala, Sweden",
+    "phone": "+4618692979"
+  },
+  {
+    "name": "Take away Uppsala",
+    "address": "Vaksalagatan 24, 753 31 Uppsala, Sweden",
+    "phone": "+46184440088"
+  },
+  {
+    "name": "Dr. Falafel",
+    "address": "Drottninggatan 1, 753 10 Uppsala, Sweden",
+    "phone": "+4618140018"
+  },
+  {
+    "name": "Pizzeria Baraye to KB",
+    "address": "Dragarbrunnsgatan 39, 752 20 Uppsala, Sweden",
+    "phone": "+4618133555"
+  },
+  {
+    "name": "Uppsala Mat & Drama AB",
+    "address": "Dragarbrunnsgatan 50, 753 20 Uppsala, Sweden",
+    "phone": "+46840911505"
+  },
+  {
+    "name": "BSYEH",
+    "address": "Fyristorg 8, 753 10 Uppsala, Sweden",
+    "phone": "+4618712150"
+  },
+  {
+    "name": "Keemchi Uppsala",
+    "address": "Dragarbrunnsgatan 65, 753 20 Uppsala, Sweden",
+    "phone": "+4618148370"
+  },
+  {
+    "name": "Puben Uppsala",
+    "address": "Fyristorg 2, 753 10 Uppsala, Sweden",
+    "phone": "+4618134848"
+  },
+  {
+    "name": "Curry Buddies - City Food Truck",
+    "address": "Klostergatan 6-8, 753 20 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Restaurang Jalla",
+    "address": "Smedsgränd 11, 753 20 Uppsala, Sweden",
+    "phone": "+4618106680"
+  },
+  {
+    "name": "Happy Duck Bar",
+    "address": "Suttungs gränd 3, 753 19 Uppsala, Sweden",
+    "phone": "+4618131360"
+  },
+  {
+    "name": "Hikari Sushi Uppsala",
+    "address": "Storgatan 30, 753 31 Uppsala, Sweden",
+    "phone": "+4618681130"
+  },
+  {
+    "name": "Aspa Sushi",
+    "address": "S:t Persgatan 22, 753 29 Uppsala, Sweden",
+    "phone": "+4618123450"
+  },
+  {
+    "name": "O’Neill’s Traditional Irish Pub",
+    "address": "Sysslomansgatan 14, 753 11 Uppsala, Sweden",
+    "phone": "+4618100908"
+  },
+  {
+    "name": "Holy Greens",
+    "address": "Vaksalagatan 30 / Kvarnengallerian, 753 31 Uppsala, Sweden",
+    "phone": "+46766007982"
+  },
+  {
+    "name": "Chinatown, Uppsala",
+    "address": "Dragarbrunnsgatan 27, 753 20 Uppsala, Sweden",
+    "phone": "+4618252510"
+  },
+  {
+    "name": "Mikaku Sushi",
+    "address": "Stationsgatan 4, 753 40 Uppsala, Sweden",
+    "phone": "+46184747930"
+  },
+  {
+    "name": "Subway",
+    "address": "Sysslomansgatan 13, 753 11 Uppsala, Sweden",
+    "phone": "+4618145959"
+  },
+  {
+    "name": "Mixfood Uppsala",
+    "address": "Vaksalagatan 24, 753 31 Uppsala, Sweden",
+    "phone": "+46184062772"
+  },
+  {
+    "name": "Rum1Uppsala 2 AB",
+    "address": "S:t Persgatan 35, 753 31 Uppsala, Sweden",
+    "phone": "+4618101001"
+  },
+  {
+    "name": "Prik Thai Restaurang",
+    "address": "Fyristorg 4, 753 10 Uppsala, Sweden",
+    "phone": "+4618150333"
+  },
+  {
+    "name": "Chilli Garden",
+    "address": "S:t Persgatan 13, 753 20 Uppsala, Sweden",
+    "phone": "+4618122276"
+  },
+  {
+    "name": "Nybrogrillen",
+    "address": "Vaksalagatan 37, 753 31 Uppsala, Sweden",
+    "phone": "+4618150120"
+  },
+  {
+    "name": "Ichiban Sushibar",
+    "address": "Drottninggatan 12, 753 10 Uppsala, Sweden",
+    "phone": "+4618120160"
+  },
+  {
+    "name": "Taste of Bangla Glashuset",
+    "address": "Dragarbrunnsgatan 27, 753 20 Uppsala, Sweden",
+    "phone": "+4618148111"
+  },
+  {
+    "name": "Granhof",
+    "address": "Olof Palmes plats 6, 753 21 Uppsala, Sweden",
+    "phone": "+4618153500"
+  },
+  {
+    "name": "Centrum",
+    "address": "Valthornsvägen 7, 756 50 Uppsala, Sweden",
+    "phone": "+4618400020"
+  },
+  {
+    "name": "Gränbystaden",
+    "address": "Takpannegatan, 754 60 Uppsala, Sweden",
+    "phone": "+46186110700"
+  },
+  {
+    "name": "Granby town",
+    "address": "Marknadsgatan 1, 754 60 Uppsala, Sweden",
+    "phone": "+46734003175"
+  },
+  {
+    "name": "Gottsunda Center",
+    "address": "Stationsgatan 12, 753 40 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Forumgallerian",
+    "address": "Vaksalagatan 14, 753 20 Uppsala, Sweden",
+    "phone": "+46184703030"
+  },
+  {
+    "name": "S:t Per Gallerian",
+    "address": "Stångjärnsgatan 10, 753 23 Uppsala, Sweden",
+    "phone": "+46734163344"
+  },
+  {
+    "name": "Svavagallerian",
+    "address": "Svartbäcksgatan 2, 753 20 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Centralhuset",
+    "address": "Forumtorget, 753 20 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Bolandcity",
+    "address": "Dragarbrunnsgatan 50C, 753 20 Uppsala, Sweden",
+    "phone": "+46184892000"
+  },
+  {
+    "name": "Disc Center",
+    "address": "Dragarbrunnsgatan 21, 753 20 Uppsala, Sweden",
+    "phone": "+46771969000"
+  },
+  {
+    "name": "GANT",
+    "address": "Kungsängsgatan 31, 753 22 Uppsala, Sweden",
+    "phone": "+46704699429"
+  },
+  {
+    "name": "Uppsala livs center",
+    "address": "Marknadsgatan 1, 754 60 Uppsala, Sweden",
+    "phone": "+4618200440"
+  },
+  {
+    "name": "Uppsala Castle",
+    "address": "Norbyvägen 26, 752 39 Uppsala, Sweden",
+    "phone": "+4618567030"
+  },
+  {
+    "name": "Upplands Museum",
+    "address": "Domkyrkoplan, 753 10 Uppsala, Sweden",
+    "phone": "+46184303500"
+  },
+  {
+    "name": "Riksantikvarieämbetet Gamla Uppsala museum",
+    "address": "Slottet, 752 37 Uppsala, Sweden",
+    "phone": "+46187272482"
+  },
+  {
+    "name": "Pumphuset",
+    "address": "Vasagatan 4, 753 13 Uppsala, Sweden",
+    "phone": "+46187276370"
+  },
+  {
+    "name": "The Linnaeus Museum",
+    "address": "Disavägen 15, 754 40 Uppsala, Sweden",
+    "phone": "+4618239301"
+  },
+  {
+    "name": "Botanical Garden",
+    "address": "Svartbäcksgatan 27, 750 15 Uppsala, Sweden",
+    "phone": "+46184712838"
+  },
+  {
+    "name": "Stadsträdgården",
+    "address": "Pumphuset, Munkgatan 1, 753 09 Uppsala, Sweden",
+    "phone": "+46187279237"
+  },
+  {
+    "name": "Uppsala Cathedral",
+    "address": "S:t Eriks torg 10, 753 10 Uppsala, Sweden",
+    "phone": "+4618169100"
+  },
+  {
+    "name": "Bror Hjorth's House",
+    "address": "Villavägen 6-8, 752 36 Uppsala, Sweden",
+    "phone": "+46184712838"
+  },
+  {
+    "name": "Linnaeus' Hammarby",
+    "address": "Villavägen 9, 752 36 Uppsala, Sweden",
+    "phone": "+46184712739"
+  },
+  {
+    "name": "Uppsala Art Museum",
+    "address": "Gamla Uppsala Långtorpet 63, 755 94 Uppsala, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Gunilla Bell",
+    "address": "Almas Allé 11, 756 51 Uppsala, Sweden",
+    "phone": "+4618671000"
+  },
+  {
+    "name": "Tunåsen",
+    "address": "Disavägen 8, 754 40 Uppsala, Sweden",
+    "phone": "+46184303777"
+  },
+  {
+    "name": "Church of Old Uppsala",
+    "address": "Stationsgatan 11, 753 40 Uppsala, Sweden",
+    "phone": "+4618130500"
+  },
+  {
+    "name": "Helga Trefaldighets kyrka",
+    "address": "Slott, Kung Jans Port, Drottning Christinas väg 1E, 752 37 Uppsala, Sweden",
+    "phone": "+46703907989"
+  },
+  {
+    "name": "Upsala–Lenna Jernväg",
+    "address": "Nathan Söderbloms plan, 753 10 Uppsala, Sweden",
+    "phone": "+46184303500"
+  },
+  {
+    "name": "SLU Kunskapsparken",
+    "address": "Slottet, 752 37 Uppsala, Sweden",
+    "phone": "+46187270000"
+  },
+  {
+    "name": "Vasaborgen Uppsala Slott",
+    "address": "Drottning Christinas väg 1E, 752 37 Uppsala, Sweden",
+    "phone": "+46187272482"
+  },
+  {
+    "name": "Uppsala universitet Evolutionsmuseet",
+    "address": "Danmarks-Hammarby, 755 98 Uppsala, Sweden",
+    "phone": "+46184712838"
+  },
+  {
+    "name": "Best Western Plus Hotel Plaza",
+    "address": "Sigurdsgatan 23, 721 30 Västerås, Sweden",
+    "phone": "+46215801010"
+  },
+  {
+    "name": "Elite Stadshotellet Vasteras",
+    "address": "Domkyrkoesplanaden 2, 722 13 Västerås, Sweden",
+    "phone": "+4621101200"
+  },
+  {
+    "name": "Steam Hotel",
+    "address": "Pilgatan 33, 721 30 Västerås, Sweden",
+    "phone": "+46214955800"
+  },
+  {
+    "name": "Comfort Hotel Västerås",
+    "address": "Östermalmsgatan 25, 722 14 Västerås, Sweden",
+    "phone": "+4621120480"
+  },
+  {
+    "name": "Sure Hotel Studio Esplanade Rooms & Longstay",
+    "address": "Vasagatan 22, 722 15 Västerås, Sweden",
+    "phone": "+4621180330"
+  },
+  {
+    "name": "Hotell Vasteras",
+    "address": "Slånbärsgatan 13, 722 23 Västerås, Sweden",
+    "phone": "+4621108050"
+  },
+  {
+    "name": "Hotel Arkad AB",
+    "address": "Metallverksgatan 2, 721 30 Västerås, Sweden",
+    "phone": "+4621184530"
+  },
+  {
+    "name": "Valsaren AB Restaurang & Hotell",
+    "address": "Stora Torget 7, 721 03 Västerås, Sweden",
+    "phone": "+4621102800"
+  },
+  {
+    "name": "Scandic Västerås",
+    "address": "Kopparbergsvägen 10, 722 13 Västerås, Sweden",
+    "phone": "+4621101010"
+  },
+  {
+    "name": "Hem till Gården i Västerås AB",
+    "address": "Jotsberga Fullerö 1:1 v Barkarö socken, 725 91 Barkarö, Sweden",
+    "phone": "+46706207273"
+  },
+  {
+    "name": "First City Esplanade Hotel",
+    "address": "Flottiljgatan 71, 721 31 Västerås, Sweden",
+    "phone": "+46706244297"
+  },
+  {
+    "name": "Clarion Collection Hotel Etage",
+    "address": "Ångkraftsvägen 14, 721 31 Västerås, Sweden",
+    "phone": "+46214759900"
+  },
+  {
+    "name": "Noah Longstay",
+    "address": "Kristiansborgsallén 4, 722 19 Västerås, Sweden",
+    "phone": "+46763104720"
+  },
+  {
+    "name": "Good Morning Västerås",
+    "address": "Finnsta 1, 725 93 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Lövudden Strand AB",
+    "address": "Eskadergatan 16, 721 31 Västerås, Sweden",
+    "phone": "+46707740347"
+  },
+  {
+    "name": "Best Western Ta Inn Hotel",
+    "address": "Nygatan 4A, 722 14 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Hässlö Hotell",
+    "address": "Signalistgatan 1, 721 31 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "First Camp Västerås - Mälaren",
+    "address": "Norra Björnö 1, 723 48 Västerås, Sweden",
+    "phone": "+4621140702"
+  },
+  {
+    "name": "Fastliving Apartment Hotel",
+    "address": "Kopparbergsvägen 16, 722 13 Västerås, Sweden",
+    "phone": "+46708518080"
+  },
+  {
+    "name": "Locavore",
+    "address": "Ångkraftsvägen 14, 721 31 Västerås, Sweden",
+    "phone": "+46214759900"
+  },
+  {
+    "name": "Utter Inn",
+    "address": "Flottiljgatan 55, 721 31 Västerås, Sweden",
+    "phone": "+4621811010"
+  },
+  {
+    "name": "Katrinelunds Bed & Breakfast",
+    "address": "Johannisbergsvägen, 725 91 Västerås, Sweden",
+    "phone": "+4621140279"
+  },
+  {
+    "name": "IzKaMaGe Hotel",
+    "address": "Lövudden 6, 725 91 Västerås, Sweden",
+    "phone": "+4621185230"
+  },
+  {
+    "name": "Finnsta Gård Cottages",
+    "address": "Svalgången 1b, 724 81 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Fulleröhus",
+    "address": "Slånbärsgatan 1, 722 23 Västerås, Sweden",
+    "phone": "+4621120220"
+  },
+  {
+    "name": "IzKaMaGe Hotel 2",
+    "address": "Domkyrkoesplanaden 2, 722 13 Västerås, Sweden",
+    "phone": "+4621101200"
+  },
+  {
+    "name": "Hotel First Airport",
+    "address": "Ängsgärdsgatan 19, 721 30 Västerås, Sweden",
+    "phone": "+4621105300"
+  },
+  {
+    "name": "Café Björnen",
+    "address": "Stora Gatan 32, 722 12 Västerås, Sweden",
+    "phone": "+4621151220"
+  },
+  {
+    "name": "ICA Nära Pettersberg",
+    "address": "Vasagatan 14, 722 15 Västerås, Sweden",
+    "phone": "+4621148150"
+  },
+  {
+    "name": "MAX",
+    "address": "Pettersbergs, 724 64 Västerås, Sweden",
+    "phone": "+4621415583"
+  },
+  {
+    "name": "GREKISKA grill & bar",
+    "address": "Mälargatan 6D, 722 10 Västerås, Sweden",
+    "phone": "+4621125950"
+  },
+  {
+    "name": "Pinchos",
+    "address": "Sturegatan 11, 722 13 Västerås, Sweden",
+    "phone": "+46214211847"
+  },
+  {
+    "name": "Blackstone Steakhouse Västerås",
+    "address": "Stora Gatan 4, 722 12 Västerås, Sweden",
+    "phone": "+4621417560"
+  },
+  {
+    "name": "Limone Ristorante Italiano",
+    "address": "Stora Torget 5, 722 15 Västerås, Sweden",
+    "phone": "+4621130400"
+  },
+  {
+    "name": "Agrill",
+    "address": "Kopparbergsvägen 27, 722 13 Västerås, Sweden",
+    "phone": "+4621138050"
+  },
+  {
+    "name": "Valdagruppen 1 AB Restaurang Varda",
+    "address": "Djäknebergsgatan 10, 724 61 Västerås, Sweden",
+    "phone": "+4621134880"
+  },
+  {
+    "name": "Brasserie Stadsparken",
+    "address": "Stora Gatan 35, 722 12 Västerås, Sweden",
+    "phone": "+46214485080"
+  },
+  {
+    "name": "Djäknebergets Restaurang AB",
+    "address": "Retortgatan 16, 721 30 Västerås, Sweden",
+    "phone": "+46214981450"
+  },
+  {
+    "name": "Frank",
+    "address": "Malmabergsgatan 23, 721 30 Västerås, Sweden",
+    "phone": "+4621830860"
+  },
+  {
+    "name": "Spicy Hot Sturegatan",
+    "address": "Gustavsborgsgatan 6, 722 18 Västerås, Sweden",
+    "phone": "+4621353538"
+  },
+  {
+    "name": "Hermanas",
+    "address": "Klockartorpsgatan 19A, 723 44 Västerås, Sweden",
+    "phone": "+4621138752"
+  },
+  {
+    "name": "Locavore",
+    "address": "Gurksaltargatan 9, 722 18 Västerås, Sweden",
+    "phone": "+4621138100"
+  },
+  {
+    "name": "NOM",
+    "address": "Slakterigatan 9, 721 32 Västerås, Sweden",
+    "phone": "+4621418255"
+  },
+  {
+    "name": "Vinoteket Lothar",
+    "address": "Gunnilbogatan 2, 723 40 Västerås, Sweden",
+    "phone": "+4621419920"
+  },
+  {
+    "name": "Laxmi Indisk Restaurang AB",
+    "address": "Slakterigatan 6, 10, 731 32 Västerås, Sweden",
+    "phone": "61073132"
+  },
+  {
+    "name": "YumYum i City - Asiatisk restaurang & Sushi Västerås",
+    "address": "Kopparbergsvägen 23, 722 13 Västerås, Sweden",
+    "phone": "+4621419955"
+  },
+  {
+    "name": "Misto of Italy",
+    "address": "Vasagatan 58, 722 18 Västerås, Sweden",
+    "phone": "+4621333315"
+  },
+  {
+    "name": "Udden Japanese Cuisine",
+    "address": "Sturegatan 13, 722 13 Västerås, Sweden",
+    "phone": "+4621189827"
+  },
+  {
+    "name": "Bistro Gränden i Västerås",
+    "address": "Tegnérgatan 16, 723 34 Västerås, Sweden",
+    "phone": "+4621136864"
+  },
+  {
+    "name": "Kajplats 9",
+    "address": "Södra Allégatan 19, 722 14 Västerås, Sweden",
+    "phone": "+4621144460"
+  },
+  {
+    "name": "Boca",
+    "address": "Stora Gatan, 722 12 Västerås, Sweden",
+    "phone": "+46700148102"
+  },
+  {
+    "name": "Västerås Dinner Club",
+    "address": "Östra Ringvägen 1, 722 14 Västerås, Sweden",
+    "phone": "+46762739497"
+  },
+  {
+    "name": "Bellman",
+    "address": "Köpmangatan 6, 722 12 Västerås, Sweden",
+    "phone": "+4621137733"
+  },
+  {
+    "name": "Glenneagels Restaurang AB",
+    "address": "Stora Gatan 51, 722 12 Västerås, Sweden",
+    "phone": "+46214729627"
+  },
+  {
+    "name": "Hamburgeriet",
+    "address": "Vasagatan 12, 722 15 Västerås, Sweden",
+    "phone": "+462129090"
+  },
+  {
+    "name": "Di Spagna",
+    "address": "Smedjegatan 7-11, 722 13 Västerås, Sweden",
+    "phone": "71172213"
+  },
+  {
+    "name": "Global Living",
+    "address": "Malmabergsgatan 23-25, 721 30 Västerås, Sweden",
+    "phone": "232572130"
+  },
+  {
+    "name": "Nojon Moni",
+    "address": "Kopparbergsvägen 8, 722 13 Västerås, Sweden",
+    "phone": "+46706999565"
+  },
+  {
+    "name": "IL MONDO",
+    "address": "Lasse Färnlöfs plats 3, 723 56 Västerås, Sweden",
+    "phone": "+46214755070"
+  },
+  {
+    "name": "Restaurang Falkenbergska Kvarnen",
+    "address": "Hantverkargatan 3, 722 12 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Bar Mangia Mi",
+    "address": "Kopparbergsvägen 31B, 722 13 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Magpie Restaurant",
+    "address": "Hantverkargatan 9, 722 12 Västerås, Sweden",
+    "phone": "+4621357278"
+  },
+  {
+    "name": "Mocca deli Västerås",
+    "address": "Västra Ringvägen 21B, 724 61 Västerås, Sweden",
+    "phone": "+46767679990"
+  },
+  {
+    "name": "Bierkeller",
+    "address": "Munkgatan 20, 722 12 Västerås, Sweden",
+    "phone": "+4621134049"
+  },
+  {
+    "name": "Restaurang Pråmen",
+    "address": "Vasagatan 24, 722 15 Västerås, Sweden",
+    "phone": "+46706572577"
+  },
+  {
+    "name": "Restaurant Essence counter dining by Stefan Taylor",
+    "address": "Metallverksgatan 2, 721 30 Västerås, Sweden",
+    "phone": "+4621184530"
+  },
+  {
+    "name": "Choys Garden",
+    "address": "Munkgatan, 722 12 Västerås, Sweden",
+    "phone": "+4621390000"
+  },
+  {
+    "name": "Do Eat",
+    "address": "Stora Gatan 51, 722 12 Västerås, Sweden",
+    "phone": "+46700148102"
+  },
+  {
+    "name": "Ankarudden",
+    "address": "Sturegatan 13, 722 13 Västerås, Sweden",
+    "phone": "+4621147019"
+  },
+  {
+    "name": "Adam & Oliver",
+    "address": "Torggatan 1, 722 15 Västerås, Sweden",
+    "phone": "+4621131130"
+  },
+  {
+    "name": "Kajens Café",
+    "address": "Sigurdsgatan 21, 721 30 Västerås, Sweden",
+    "phone": "+46735253984"
+  },
+  {
+    "name": "The Bishops Arms - Västerås",
+    "address": "Retortgatan 16, 721 30 Västerås, Sweden",
+    "phone": "+46214981450"
+  },
+  {
+    "name": "Smedjan Kök & Bar i Västerås",
+    "address": "Sturegatan 7, 722 13 Västerås, Sweden",
+    "phone": "+46213380346"
+  },
+  {
+    "name": "Hörnet Västerås",
+    "address": "Fiskartorget 2, 722 12 Västerås, Sweden",
+    "phone": "+4621418470"
+  },
+  {
+    "name": "Taco Bar",
+    "address": "Sigurdsgatan 4, 721 30 Västerås, Sweden",
+    "phone": "+4621189252"
+  },
+  {
+    "name": "BBQ Corner Västerås AB",
+    "address": "Ängsgärdsgatan 19, 721 30 Västerås, Sweden",
+    "phone": "+4621105300"
+  },
+  {
+    "name": "INDIGO",
+    "address": "Sintervägen 6, 721 30 Västerås, Sweden",
+    "phone": "+46739680944"
+  },
+  {
+    "name": "Marcel P. AB",
+    "address": "Knutsgatan 2, 722 14 Västerås, Sweden",
+    "phone": "+4621830322"
+  },
+  {
+    "name": "bar LOKAL",
+    "address": "Vasagatan 11, 722 15 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Restaurang Hong Kong",
+    "address": "Fiskartorget, 722 12 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Storagatans Pizza & Grill",
+    "address": "Smedjegatan 2, 722 13 Västerås, Sweden",
+    "phone": "+4621148280"
+  },
+  {
+    "name": "The Chamberlin Grill",
+    "address": "Stora Gatan 5-21, 722 12 Västerås, Sweden",
+    "phone": "52172212"
+  },
+  {
+    "name": "Mälarkrogen",
+    "address": "FÄRJKAJEN 1, 722 10 Västerås, Sweden",
+    "phone": "+4621800510"
+  },
+  {
+    "name": "Asian Sushi Bar",
+    "address": "Hantverkargatan 4, 722 12 Västerås, Sweden",
+    "phone": "+4621414288"
+  },
+  {
+    "name": "Restaurant Tiptop",
+    "address": "Sturegatan 10, 722 13 Västerås, Sweden",
+    "phone": "+4621186068"
+  },
+  {
+    "name": "La Petite",
+    "address": "Ångkraftsvägen 14, 721 31 Västerås, Sweden",
+    "phone": "+46214759900"
+  },
+  {
+    "name": "O'Learys",
+    "address": "Lögarängsvägen 5, 721 32 Västerås, Sweden",
+    "phone": "+4621141222"
+  },
+  {
+    "name": "Kebabhouse 1",
+    "address": "Stora Torget 2, 722 15 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Pizzeria Amore",
+    "address": "Stora Gatan 49, 722 12 Västerås, Sweden",
+    "phone": "+462121107"
+  },
+  {
+    "name": "RestaurangKonsult PD AB",
+    "address": "Stora Gatan 45, 722 12 Västerås, Sweden",
+    "phone": "+462122221"
+  },
+  {
+    "name": "Subway",
+    "address": "Vasagatan 20, 722 15 Västerås, Sweden",
+    "phone": "+46213380200"
+  },
+  {
+    "name": "Casa Del Fuego Västerås",
+    "address": "Stora Gatan 41, 722 12 Västerås, Sweden",
+    "phone": "+4621132681"
+  },
+  {
+    "name": "Olivia pizzeria Västerås",
+    "address": "Torggatan 1, 722 15 Västerås, Sweden",
+    "phone": "+46214900309"
+  },
+  {
+    "name": "Ta Inn Hotell Och Restaurang I Västerås Ab",
+    "address": "Smedjegatan 13, 722 13 Västerås, Sweden",
+    "phone": "+46708512198"
+  },
+  {
+    "name": "Stadshusrestaurangen",
+    "address": "Smedjegatan 4, 722 13 Västerås, Sweden",
+    "phone": "+46213380270"
+  },
+  {
+    "name": "Vardas Park AB",
+    "address": "Stora Torget 2, 722 15 Västerås, Sweden",
+    "phone": "+4621102850"
+  },
+  {
+    "name": "MAX",
+    "address": "Stora Gatan 18, 722 12 Västerås, Sweden",
+    "phone": "+4621125881"
+  },
+  {
+    "name": "Sushi Yama",
+    "address": "Västra Ringvägen 21B, 724 61 Västerås, Sweden",
+    "phone": "+4621840350"
+  },
+  {
+    "name": "Lemon Garden Västerås",
+    "address": "Fyrtornsgatan 9, 722 10 Västerås, Sweden",
+    "phone": "+462175599"
+  },
+  {
+    "name": "Stadshusets Borggård",
+    "address": "Smedjegatan 3, 722 13 Västerås, Sweden",
+    "phone": "+4621800727"
+  },
+  {
+    "name": "Habesha Restaurant",
+    "address": "Mälargatan 4D, 722 10 Västerås, Sweden",
+    "phone": "+4621811900"
+  },
+  {
+    "name": "Valsaren Kök",
+    "address": "Smedjegatan 2, 722 13 Västerås, Sweden",
+    "phone": "+4621136268"
+  },
+  {
+    "name": "VICHI",
+    "address": "Stora Gatan 45, 722 12 Västerås, Sweden",
+    "phone": "+4621800200"
+  },
+  {
+    "name": "Bene Vivendo AB",
+    "address": "Färjkajen, kajplats 1-3, 722 10 Västerås, Sweden",
+    "phone": "+46214484999"
+  },
+  {
+    "name": "QSC Restauranger AB",
+    "address": "Köpmangatan 12, 722 15 Västerås, Sweden",
+    "phone": "+4621188229"
+  },
+  {
+    "name": "Sturegatans Pizzeria",
+    "address": "Källgatan 11b, 722 11 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Broasted Al Amir",
+    "address": "Smedjegatan 2, 722 13 Västerås, Sweden",
+    "phone": "+462124265"
+  },
+  {
+    "name": "MLS Restaurang AB",
+    "address": "Stora Torget 2, 722 15 Västerås, Sweden",
+    "phone": "+46736727088"
+  },
+  {
+    "name": "Ika sushi ramen",
+    "address": "Källgatan 11A, 722 11 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "BC ditt mål i centrum AB",
+    "address": "Smedjegatan 15, 722 13 Västerås, Sweden",
+    "phone": "+4621416406"
+  },
+  {
+    "name": "Malmen's Restaurant",
+    "address": "Skultunavägen 1, 722 17 Västerås, Sweden",
+    "phone": "+4621382626"
+  },
+  {
+    "name": "Tasters International AB",
+    "address": "Smedjegatan 13, 722 13 Västerås, Sweden",
+    "phone": "+4621186290"
+  },
+  {
+    "name": "Batoul Gourmet",
+    "address": "Vasagatan 26, 722 15 Västerås, Sweden",
+    "phone": "+4621124210"
+  },
+  {
+    "name": "Brödernas",
+    "address": "Torggatan 4, 722 15 Västerås, Sweden",
+    "phone": "+4621131020"
+  },
+  {
+    "name": "Bryggans - bistro - sushi - glassbar",
+    "address": "Stora Torget 6, 722 15 Västerås, Sweden",
+    "phone": "+4621413355"
+  },
+  {
+    "name": "Subway",
+    "address": "Smedjegatan 6, 722 13 Västerås, Sweden",
+    "phone": "+4621123848"
+  },
+  {
+    "name": "Bastard Burgers",
+    "address": "Varmvalsvägen 17, 721 30 Västerås, Sweden",
+    "phone": "+46214485900"
+  },
+  {
+    "name": "Torggrillen Bondtorget",
+    "address": "Källgatan 11b, 722 11 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Sabai Thaimat",
+    "address": "Slottsgatan 8, 722 11 Västerås, Sweden",
+    "phone": "+4621136500"
+  },
+  {
+    "name": "Baladna restaurang & cafe",
+    "address": "Stora Gatan 36A, 722 12 Västerås, Sweden",
+    "phone": "+4621129190"
+  },
+  {
+    "name": "Nya Emilios Pizzeria",
+    "address": "Sjötullsgatan 2, 722 10 Västerås, Sweden",
+    "phone": "+4621136222"
+  },
+  {
+    "name": "Hemdals Pizza Och Grill",
+    "address": "Östermalmsgatan 15, 722 14 Västerås, Sweden",
+    "phone": "+4621122666"
+  },
+  {
+    "name": "Café Gränden i Västerås AB",
+    "address": "Smedjegatan 5, 722 13 Västerås, Sweden",
+    "phone": "+4621135039"
+  },
+  {
+    "name": "Restaurang Rosenhill",
+    "address": "Smedjegatan 7, 722 13 Västerås, Sweden",
+    "phone": "+46214484060"
+  },
+  {
+    "name": "Cornetto Bar",
+    "address": "Stora Gatan 42, 722 12 Västerås, Sweden",
+    "phone": "+4621123552"
+  },
+  {
+    "name": "Orgil Sushi Vasagatan",
+    "address": "Verksgatan 15, 722 10 Västerås, Sweden",
+    "phone": "+46214448606"
+  },
+  {
+    "name": "Mor Gabriel AB",
+    "address": "Karlsgatan 4, 722 14 Västerås, Sweden",
+    "phone": "+46793138640"
+  },
+  {
+    "name": "Erikslund Shopping Center",
+    "address": "Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+46104980000"
+  },
+  {
+    "name": "Hälla Shopping",
+    "address": "Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+46214950800"
+  },
+  {
+    "name": "Kvarteret Igor",
+    "address": "Traversgatan 6, 721 38 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Punkt",
+    "address": "Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+46721487518"
+  },
+  {
+    "name": "Erikslunds handelsområde",
+    "address": "Hällagatan 14, 721 34 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Lekia",
+    "address": "Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+4621307200"
+  },
+  {
+    "name": "Normal",
+    "address": "Brandthovdagatan 1, 721 35 Västerås, Sweden",
+    "phone": "+46793470645"
+  },
+  {
+    "name": "Scorett Erikslund",
+    "address": "Vasagatan 20, 722 15 Västerås, Sweden",
+    "phone": "+46704081529"
+  },
+  {
+    "name": "Second Hand Life Center",
+    "address": "Vasagatan 25, 722 15 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "Gina Tricot",
+    "address": "Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+46214480140"
+  },
+  {
+    "name": "Dressmann Dressmann Erikslund",
+    "address": "Krankroksgatan 19, 721 38 Västerås, Sweden",
+    "phone": "+46104528774"
+  },
+  {
+    "name": "Liljans Flowers",
+    "address": "Shoppingcenter /City, Krankroksgatan 17, Hantverkargatan 10, 721 38 Västerås, Sweden",
+    "phone": "171072138"
+  },
+  {
+    "name": "Lekia Västerås Hälla Shopping",
+    "address": "Erikslund Shopping Center, Krankroksgatan 17, 721 83 Västerås, Sweden",
+    "phone": "+46214904340"
+  },
+  {
+    "name": "Optiker Synoptik Västerås Erikslund Shopping Center",
+    "address": "Krankroksgatan 21, 721 38 Västerås, Sweden",
+    "phone": "+4621322000"
+  },
+  {
+    "name": "Åhléns Outlet",
+    "address": "Shopping Center, Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+462171120"
+  },
+  {
+    "name": "Partyland Västerås City/Erikslund",
+    "address": "Gunnilbogatan 2, 723 40 Västerås, Sweden",
+    "phone": "+4621120110"
+  },
+  {
+    "name": "SoHo Art Shop",
+    "address": "Hallsta Gårdsgata 7, 721 38 Västerås, Sweden",
+    "phone": "+4621302040"
+  },
+  {
+    "name": "Johnells",
+    "address": "Hällagatan 14, 721 34 Västerås, Sweden",
+    "phone": "+46214950680"
+  },
+  {
+    "name": "City Gross Västerås",
+    "address": "Stora Gatan, 722 12 Västerås, Sweden",
+    "phone": "+46707677991"
+  },
+  {
+    "name": "Stadium",
+    "address": "Krankroksgatan 17, 721 38 Västerås, Sweden",
+    "phone": "+46102063524"
+  },
+  {
+    "name": "Västerås Castle",
+    "address": "Slottet 1, 722 11 Västerås, Sweden",
+    "phone": "+46704490772"
+  },
+  {
+    "name": "Vallby friluftsmuseum",
+    "address": "Anundshög 5, 725 96 Västerås, Sweden",
+    "phone": "+4621391553"
+  },
+  {
+    "name": "Anundshög",
+    "address": "Kraftverksgatan 11, 721 31 Västerås, Sweden",
+    "phone": "+46214485500"
+  },
+  {
+    "name": "Vasteras Flight Museum",
+    "address": "Engsö Slott, 725 98 Västerås, Sweden",
+    "phone": "+46760528588"
+  },
+  {
+    "name": "Kokpunkten Actionbad",
+    "address": "Karlsgatan 2, 722 14 Västerås, Sweden",
+    "phone": "+4621393222"
+  },
+  {
+    "name": "Västmanland County Museum",
+    "address": "Vasagatan 31, 722 15 Västerås, Sweden",
+    "phone": "+4621390000"
+  },
+  {
+    "name": "Botaniska Trädgården",
+    "address": "Västra Kyrkogatan 6, 722 15 Västerås, Sweden",
+    "phone": "+4621814600"
+  },
+  {
+    "name": "Turbinhuset",
+    "address": "Skerikesvägen 2, 724 80 Västerås, Sweden",
+    "phone": "+4621398070"
+  },
+  {
+    "name": "Ängsö Slott",
+    "address": "Hässlögatan 16, 721 31 Västerås, Sweden",
+    "phone": "+46214950640"
+  },
+  {
+    "name": "Sweden",
+    "address": "Slottsgatan 11, 722 11 Västerås, Sweden",
+    "phone": "+46214704100"
+  },
+  {
+    "name": "Lögastrand",
+    "address": "Lögarängsvägen 3, 721 32 Västerås, Sweden",
+    "phone": null
+  },
+  {
+    "name": "MC Collection",
+    "address": "KUNGSBYN 33, 725 98 Västerås, Sweden",
+    "phone": "+46706551061"
+  },
+  {
+    "name": "Västmanlands theater",
+    "address": "Öster Mälarstrands Allé, 723 56 Västerås, Sweden",
+    "phone": "+4621390000"
+  },
+  {
+    "name": "Västerås",
+    "address": "Tidö Castle, 725 92 Västerås, Sweden",
+    "phone": "+46700039373"
+  }
+]

@@ -9,14 +9,14 @@ const addressTypes = [
   'shopping centers',
   'things to do',
 ];
-exports.country = 'Sri Lanka';
+exports.country = 'Trinidad and Tobago';
 const country = this.country;
 const cities = [
-  'Colombo',
-  'Dehiwala Mount Lavinia',
-  'Moratuwa',
-  'Negombo',
-  'Kandy',
+  'Port of Spain',
+  'San Fernando',
+  'Chaguanas',
+  'Arima',
+  'Point Fortin',
 ];
 const filePath = `./addresses/${country}.json`;
 // required by replace in file.

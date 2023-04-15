@@ -1,5 +1,6 @@
 const fs = require('fs');
 const { country } = require('..');
+const { count } = require('console');
 console.log(country, 'is the new country');
 const path = `././addresses/${country}.json`;
 fs.readFile(path, 'utf-8', async (err, data) => {
