@@ -8,16 +8,11 @@ const addressTypes = [
   'restaurants',
   'shopping centers',
   'things to do',
+  'Hospitals',
 ];
-exports.country = 'Trinidad and Tobago';
+exports.country = 'Zimbabwe';
 const country = this.country;
-const cities = [
-  'Port of Spain',
-  'San Fernando',
-  'Chaguanas',
-  'Arima',
-  'Point Fortin',
-];
+const cities = ['Harare', 'Bulawayo', 'Chitungwiza', 'Mutare', 'Gweru '];
 const filePath = `./addresses/${country}.json`;
 // required by replace in file.
 const options = {
