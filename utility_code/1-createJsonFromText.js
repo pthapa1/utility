@@ -168,7 +168,7 @@ const text = `-   Afghanistan: Kabul, Kandahar, Mazar-e-Sharif, Herat, Jalalabad
 -   Sri Lanka: Colombo, Dehiwala-Mount Lavinia, Moratuwa, Negombo, Kandy
 -   Sudan: Khartoum, Omdurman, Nyala, Port Sudan, Kosti
 -   Suriname: Paramaribo, Lelydorp, Nieuw Nickerie, Moengo, Brownsweg
--   **Swaziland**: Mbabane, Lobamba, Manzini, Siteki 
+-   Swaziland: Mbabane, Lobamba, Manzini, Siteki 
 -   Sweden: Stockholm, Gothenburg, Malmö, Uppsala, Västerås
 -   Switzerland: Zurich, Geneva, Basel, Lausanne, Bern
 -   Syria: Damascus, Aleppo, Homs, Hama, Latakia

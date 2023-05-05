@@ -1,1092 +1,1310 @@
 [
   {
+    "id": 1,
     "name": "Heritage Hotel",
-    "address": "Seatons Village, Seatons village, Antigua & Barbuda",
+    "Address": "Seatons Village, Seatons village, Antigua \u0026 Barbuda",
     "phone": "+12685616826"
   },
   {
+    "id": 2,
     "name": "Ellen Bay Inn",
-    "address": "Five Islands village, Antigua & Barbuda",
+    "Address": "Five Islands village, Antigua \u0026 Barbuda",
     "phone": "+12684842000"
   },
   {
-    "name": "Antigua Yacht Club Marina & Resort",
-    "address": "English Harbour, Antigua & Barbuda",
+    "id": 3,
+    "name": "Antigua Yacht Club Marina \u0026 Resort",
+    "Address": "English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684637950"
   },
   {
+    "id": 4,
     "name": "The Waterfront Inn",
-    "address": "Dickenson Bay, Anchorage Road, St. John, s, Antigua, Antigua & Barbuda",
+    "Address": "Dickenson Bay, Anchorage Road, St. John, s, Antigua, Antigua \u0026 Barbuda",
     "phone": "+12684624940"
   },
   {
+    "id": 5,
     "name": "Hawksbill Resort Antigua",
-    "address": "Nelson's Dockyard English Harbour, Antigua & Barbuda",
+    "Address": "Nelson's Dockyard English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684601160"
   },
   {
-    "name": "Royalton Antigua, An Autograph Collection All-Inclusive Resort & Casino",
-    "address": "The Compton Building, Dockyard Drive, English Harbour, Antigua & Barbuda",
+    "id": 6,
+    "name": "Royalton Antigua, An Autograph Collection All-Inclusive Resort \u0026 Casino",
+    "Address": "The Compton Building, Dockyard Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687212164"
   },
   {
-    "name": "Copper & Lumber Store Hotel",
-    "address": "Falmouth Harbour, Antigua & Barbuda",
+    "id": 7,
+    "name": "Copper \u0026 Lumber Store Hotel",
+    "Address": "Falmouth Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685623030"
   },
   {
+    "id": 8,
     "name": "The Ocean Inn",
-    "address": "Nelson's Dockyard, Dockyard Drive, English Harbour, Antigua & Barbuda",
+    "Address": "Nelson's Dockyard, Dockyard Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684601027"
   },
   {
+    "id": 9,
     "name": "The Admiral's Inn",
-    "address": "Five Islands, St John's, Antigua & Barbuda",
+    "Address": "Five Islands, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684620301"
   },
   {
+    "id": 10,
     "name": "Ellen Bay Inn",
-    "address": "Five Islands, St John's, Antigua & Barbuda",
+    "Address": "Five Islands, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684620301"
   },
   {
+    "id": 11,
     "name": "South Coast Horizons",
-    "address": "Jolly Harbour Bolans, Jolly Harbour, Antigua & Barbuda",
+    "Address": "Jolly Harbour Bolans, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684846100"
   },
   {
+    "id": 12,
     "name": "Connie's Comfort Suites",
-    "address": "Dutchman's Bay Drive Saint George Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Dutchman's Bay Drive Saint George Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12687647333"
   },
   {
-    "name": "Lord Nelson Hotel & Residences",
-    "address": "Buckleys main road, Antigua & Barbuda",
-    "phone": null
+    "id": 13,
+    "name": "Lord Nelson Hotel \u0026 Residences",
+    "Address": "Buckleys main road, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 14,
     "name": "Antigua Seaview",
-    "address": "Osbourn, Antigua & Barbuda",
+    "Address": "Osbourn, Antigua \u0026 Barbuda",
     "phone": "+12685622956"
   },
   {
+    "id": 15,
     "name": "The Villas At Sunset Lane",
-    "address": "Antigua & Barbuda, Cedar Grove, Stella Maris Lane Hodges Bay",
+    "Address": "Antigua \u0026 Barbuda, Cedar Grove, Stella Maris Lane Hodges Bay",
     "phone": "+12687644097"
   },
   {
+    "id": 16,
     "name": "Keyonna Beach Resort",
-    "address": "Coco Palms Harbour Island, Jolly Harbour, Antigua & Barbuda",
-    "phone": null
+    "Address": "Coco Palms Harbour Island, Jolly Harbour, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 17,
     "name": "Yepton Estate Cottages in Antigua",
-    "address": "Mercers Creek Plantation, Antigua & Barbuda",
+    "Address": "Mercers Creek Plantation, Antigua \u0026 Barbuda",
     "phone": "+12684634084"
   },
   {
+    "id": 18,
     "name": "Trade Winds Hotel",
-    "address": "Dockyard Drive, English Harbour, Antigua & Barbuda",
+    "Address": "Dockyard Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685626060"
   },
   {
+    "id": 19,
     "name": "Carlisle Bay Antigua",
-    "address": "Jonas Rd, All Saints, Antigua & Barbuda",
+    "Address": "Jonas Rd, All Saints, Antigua \u0026 Barbuda",
     "phone": "+12687647813"
   },
   {
+    "id": 20,
     "name": "Heritage Hotel",
-    "address": "Jolly Harbour, Antigua & Barbuda",
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+393939008852"
   },
   {
+    "id": 21,
     "name": "Ellen Bay Cottages",
-    "address": "Falmouth Harbour, Antigua & Barbuda",
-    "phone": null
+    "Address": "Falmouth Harbour, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 22,
     "name": "Cortsland Hotel",
-    "address": "Belvedere Rd, St John's, Antigua & Barbuda",
+    "Address": "Belvedere Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687217744"
   },
   {
+    "id": 23,
     "name": "Curtain Bluff",
-    "address": "johnsons pt st marys parish, st johns antigua, Antigua & Barbuda",
+    "Address": "johnsons pt st marys parish, st johns antigua, Antigua \u0026 Barbuda",
     "phone": "+12687708966"
   },
   {
+    "id": 24,
     "name": "Conch Beach Cabins (Rumbus Beach)",
-    "address": "OSBORN ST.GEORGES , FIDGES CREEK, FIDGES CREEK DRIVE. COTTON LANE, Osbourn, Antigua & Barbuda",
+    "Address": "OSBORN ST.GEORGES , FIDGES CREEK, FIDGES CREEK DRIVE. COTTON LANE, Osbourn, Antigua \u0026 Barbuda",
     "phone": "+12687841070"
   },
   {
+    "id": 25,
     "name": "The Moxy",
-    "address": "Brooks Estate, Cades Bay, Antigua & Barbuda",
+    "Address": "Brooks Estate, Cades Bay, Antigua \u0026 Barbuda",
     "phone": "+12685604933"
   },
   {
+    "id": 26,
     "name": "The Villas At Sunset Lane",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12684610925"
   },
   {
+    "id": 27,
     "name": "Ellen Bay Cottages",
-    "address": "English Harbour, Antigua & Barbuda",
+    "Address": "English Harbour, Antigua \u0026 Barbuda",
     "phone": "3364995770"
   },
   {
+    "id": 28,
     "name": "Paige Pond Country Inn",
-    "address": "Jolly Harbour, Antigua & Barbuda",
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687232933"
   },
   {
+    "id": 29,
     "name": "Nelson Court by Over the Moon",
-    "address": "Five Islands, St John's, Antigua & Barbuda",
+    "Address": "Five Islands, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684606060"
   },
   {
+    "id": 30,
     "name": "Cortsland Hotel",
-    "address": "PO Box 2238 St. John's, English Harbour, Antigua & Barbuda",
+    "Address": "PO Box 2238 St. John's, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687252072"
   },
   {
+    "id": 31,
     "name": "Eko Cozy Guest House",
-    "address": "Villa Fair Winds, Valley Road, 00 Bolans, Saint Mary, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Villa Fair Winds, Valley Road, 00 Bolans, Saint Mary, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12687859489"
   },
   {
+    "id": 32,
     "name": "Denyse Home Cottage",
-    "address": "Marble Hill Rd, Antigua & Barbuda",
+    "Address": "Marble Hill Rd, Antigua \u0026 Barbuda",
     "phone": "+12687862476"
   },
   {
+    "id": 33,
     "name": "Caribbean Inn And Suites",
-    "address": "Hamilton Estate, Jolly Harbour, Antigua & Barbuda",
+    "Address": "Hamilton Estate, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+441202474480"
   },
   {
-    "name": "Horsford hill villas & car Rentals",
-    "address": "Harbour Island, Jolly Harbour, Antigua & Barbuda",
+    "id": 34,
+    "name": "Horsford hill villas \u0026 car Rentals",
+    "Address": "Harbour Island, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685616184"
   },
   {
+    "id": 35,
     "name": "Jumby Bay Island - an Oetker Collection Hotel",
-    "address": "133 Ixoria Crescent, Cedar Valley Gardens Osbourn, Antigua & Barbuda",
+    "Address": "133 Ixoria Crescent, Cedar Valley Gardens Osbourn, Antigua \u0026 Barbuda",
     "phone": "+12687645726"
   },
   {
+    "id": 36,
     "name": "Pinkshack Studio Cottage",
-    "address": "Golf Course Way Jolly Harbour St. Mary's, Antigua & Barbuda",
+    "Address": "Golf Course Way Jolly Harbour St. Mary's, Antigua \u0026 Barbuda",
     "phone": "+12687360897"
   },
   {
+    "id": 37,
     "name": "Mamora Bay Beach House",
-    "address": "Codrington Lagoon Park, Codrington, Antigua & Barbuda",
+    "Address": "Codrington Lagoon Park, Codrington, Antigua \u0026 Barbuda",
     "phone": "+12687834779"
   },
   {
+    "id": 38,
     "name": "Sandals Grande Antigua",
-    "address": "Main Road Freemans Village, Clark's Hill, Antigua & Barbuda",
+    "Address": "Main Road Freemans Village, Clark's Hill, Antigua \u0026 Barbuda",
     "phone": "+12685626905"
   },
   {
+    "id": 39,
     "name": "Cocobay Resort (Antigua)",
-    "address": "Antigua Avenue, English Harbour, Antigua & Barbuda",
+    "Address": "Antigua Avenue, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687252806"
   },
   {
-    "name": "St. James's Club & Villas, Antigua",
-    "address": "St John's, Antigua & Barbuda",
+    "id": 40,
+    "name": "St. James's Club \u0026 Villas, Antigua",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12687730144"
   },
   {
-    "name": "Jolly Beach Resort & Spa",
-    "address": "Anchorage Rd, St John's, Antigua & Barbuda",
+    "id": 41,
+    "name": "Jolly Beach Resort \u0026 Spa",
+    "Address": "Anchorage Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684624065"
   },
   {
+    "id": 42,
     "name": "Hermitage Bay",
-    "address": "Newgate St, St John's, Antigua & Barbuda",
+    "Address": "Newgate St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685620259"
   },
   {
+    "id": 43,
     "name": "COCOS Hotel (Antigua)",
-    "address": "Indian Town Road, Willikies, Antigua & Barbuda",
+    "Address": "Indian Town Road, Willikies, Antigua \u0026 Barbuda",
     "phone": "9544818787"
   },
   {
+    "id": 44,
     "name": "South Point | Antigua / MAIA | South Point",
-    "address": "Jolly Harbour, Antigua & Barbuda",
-    "phone": null
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 45,
     "name": "Pineapple Beach Club",
-    "address": "Jolly Harbour, Antigua & Barbuda",
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685616184"
   },
   {
-    "name": "The Verandah Resort & Spa, Antigua",
-    "address": "Cedar Grove, Antigua & Barbuda",
+    "id": 46,
+    "name": "The Verandah Resort \u0026 Spa, Antigua",
+    "Address": "Cedar Grove, Antigua \u0026 Barbuda",
     "phone": "+12685626861"
   },
   {
-    "name": "Hammock Cove Resort & Spa",
-    "address": "Sir George Walter Hwy, Piggotts, Antigua & Barbuda",
+    "id": 47,
+    "name": "Hammock Cove Resort \u0026 Spa",
+    "Address": "Sir George Walter Hwy, Piggotts, Antigua \u0026 Barbuda",
     "phone": "+12687257191"
   },
   {
+    "id": 48,
     "name": "Siboney Beach Club",
-    "address": "Valley Church Bay, Valley Rd, Bolands, Antigua & Barbuda",
+    "Address": "Valley Church Bay, Valley Rd, Bolands, Antigua \u0026 Barbuda",
     "phone": "+12687885898"
   },
   {
-    "name": "Galley Bay Resort & Spa",
-    "address": "Freys Estate, St. Mary's, Antigua, West Indies, Antigua & Barbuda",
+    "id": 49,
+    "name": "Galley Bay Resort \u0026 Spa",
+    "Address": "Freys Estate, St. Mary's, Antigua, West Indies, Antigua \u0026 Barbuda",
     "phone": "+12687235569"
   },
   {
+    "id": 50,
     "name": "The Inn At English Harbour",
-    "address": "Fort Rd, St John's, Antigua & Barbuda",
+    "Address": "Fort Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687718839"
   },
   {
+    "id": 51,
     "name": "Tamarind Hills",
-    "address": "Ffreyes Beach, St.Mary's Parish, West Indies, Urlings, Antigua & Barbuda",
+    "Address": "Ffreyes Beach, St.Mary's Parish, West Indies, Urlings, Antigua \u0026 Barbuda",
     "phone": "8134659464"
   },
   {
+    "id": 52,
     "name": "The Escape at Nonsuch Bay Resort",
-    "address": "Dieppe Bay House, AG, English Harbour, Antigua & Barbuda",
+    "Address": "Dieppe Bay House, AG, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+393475518961"
   },
   {
-    "name": "Ocean Point Resort & Spa",
-    "address": "Jolly Beach Main Rd, Jolly Harbour, Antigua & Barbuda",
+    "id": 53,
+    "name": "Ocean Point Resort \u0026 Spa",
+    "Address": "Jolly Beach Main Rd, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687781405"
   },
   {
-    "name": "Hodges Bay Resort & Spa",
-    "address": "Falmouth Harbour Antigua, Antigua & Barbuda",
+    "id": 54,
+    "name": "Hodges Bay Resort \u0026 Spa",
+    "Address": "Falmouth Harbour Antigua, Antigua \u0026 Barbuda",
     "phone": "+12684601036"
   },
   {
+    "id": 55,
     "name": "Orrie's Beach Bar and Hotel",
-    "address": "galley bay road, Antigua & Barbuda",
+    "Address": "galley bay road, Antigua \u0026 Barbuda",
     "phone": "+12687649920"
   },
   {
+    "id": 56,
     "name": "Blue Waters Resort and Spa",
-    "address": "Tottenham Park, Valley Rd, Jolly Harbour, Antigua & Barbuda",
+    "Address": "Tottenham Park, Valley Rd, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685627700"
   },
   {
+    "id": 57,
     "name": "The Cove Suites at Blue Waters",
-    "address": "Dickenson Bay, St. John, s, Antigua, Antigua & Barbuda",
+    "Address": "Dickenson Bay, St. John, s, Antigua, Antigua \u0026 Barbuda",
     "phone": "+12684622930"
   },
   {
+    "id": 58,
     "name": "Nonsuch Bay Resort",
-    "address": "Atlantic Ave AG, Atlantic Ave, Antigua & Barbuda",
+    "Address": "Atlantic Ave AG, Atlantic Ave, Antigua \u0026 Barbuda",
     "phone": "+448703601245"
   },
   {
+    "id": 59,
     "name": "Buccaneer Beach Club Antigua",
-    "address": "Antigua & Barbuda",
+    "Address": "Antigua \u0026 Barbuda",
     "phone": "+12685626785"
   },
   {
+    "id": 60,
     "name": "Antigua Village \"A Condominium Beach Resort\"",
-    "address": "Valley Road, Antigua & Barbuda",
+    "Address": "Valley Road, Antigua \u0026 Barbuda",
     "phone": "5406301316"
   },
   {
+    "id": 61,
     "name": "Sugar Ridge Resort Antigua",
-    "address": "Atlantic Ave AG Atlantic Avenue, Antigua & Barbuda",
+    "Address": "Atlantic Ave AG Atlantic Avenue, Antigua \u0026 Barbuda",
     "phone": "+12684620290"
   },
   {
+    "id": 62,
     "name": "The Catamaran Hotel",
-    "address": "Hughes Point, FreeTown, Antigua & Barbuda",
+    "Address": "Hughes Point, FreeTown, Antigua \u0026 Barbuda",
     "phone": "+12685628000"
   },
   {
+    "id": 63,
     "name": "Galley Bay Cottages",
-    "address": "Sandy Lane, Hodges Bay St Johns, Antigua & Barbuda",
+    "Address": "Sandy Lane, Hodges Bay St Johns, Antigua \u0026 Barbuda",
     "phone": "+12684848000"
   },
   {
+    "id": 64,
     "name": "Jolly Castle Hotel",
-    "address": "Hodges Bay Main Rd, St John's, Antigua & Barbuda",
+    "Address": "Hodges Bay Main Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685628330"
   },
   {
+    "id": 65,
     "name": "Victory Villas Antigua",
-    "address": "Hughes Point, FreeTown, Antigua & Barbuda",
+    "Address": "Hughes Point, FreeTown, Antigua \u0026 Barbuda",
     "phone": "+12685628000"
   },
   {
+    "id": 66,
     "name": "Villa Dolcevita by KlabHouse",
-    "address": "Antigua & Barbuda",
+    "Address": "Antigua \u0026 Barbuda",
     "phone": "+12685627380"
   },
   {
+    "id": 67,
     "name": "Agave Landings Antigua",
-    "address": "five islands Village, St Johns, Antigua & Barbuda",
+    "Address": "five islands Village, St Johns, Antigua \u0026 Barbuda",
     "phone": "+12684620302"
   },
   {
+    "id": 68,
     "name": "Wild Lotus Glamping",
-    "address": "Freeman's Bay, no 1, English Harbour, Antigua & Barbuda",
+    "Address": "Freeman's Bay, no 1, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684601014"
   },
   {
+    "id": 69,
     "name": "Amaryllis Hotel",
-    "address": "St. Phillip's North Willikies St. Philip Adjacent to Devil’s Bridge National Park, Antigua & Barbuda",
+    "Address": "St. Phillip's North Willikies St. Philip Adjacent to Devil’s Bridge National Park, Antigua \u0026 Barbuda",
     "phone": "8662373491"
   },
   {
+    "id": 70,
     "name": "Fort Shelley",
-    "address": "Long Bay, Antigua & Barbuda",
+    "Address": "Long Bay, Antigua \u0026 Barbuda",
     "phone": "8662371785"
   },
   {
+    "id": 71,
     "name": "Lapp's Apartments And Suites",
-    "address": "Dickenson Bay Street, St John's, Antigua & Barbuda",
+    "Address": "Dickenson Bay Street, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684620806"
   },
   {
+    "id": 72,
     "name": "Halcyon Heights Condominiums",
-    "address": "Long Bay, Willikies, Antigua & Barbuda",
+    "Address": "Long Bay, Willikies, Antigua \u0026 Barbuda",
     "phone": "8008584618"
   },
   {
+    "id": 73,
     "name": "Tropical Breeze Villa at Jolly Harbour",
-    "address": "Sir Anderson Roberts Highway, Old Road, Antigua & Barbuda",
+    "Address": "Sir Anderson Roberts Highway, Old Road, Antigua \u0026 Barbuda",
     "phone": "+12687847800"
   },
   {
+    "id": 74,
     "name": "VERACLUB ANTIGUA",
-    "address": "Yacht Club Drive, English Harbour, Antigua & Barbuda",
+    "Address": "Yacht Club Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685629600"
   },
   {
+    "id": 75,
     "name": "Anchorage Inn",
-    "address": "Jennings New Extension Hermitage Bay, Antigua & Barbuda",
+    "Address": "Jennings New Extension Hermitage Bay, Antigua \u0026 Barbuda",
     "phone": "3475274631"
   },
   {
+    "id": 76,
     "name": "City View Hotel",
-    "address": "Valley Church Beach, St Mary's Parish, St John's, Antigua & Barbuda",
+    "Address": "Valley Church Beach, St Mary's Parish, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685623444"
   },
   {
+    "id": 77,
     "name": "Villas at Verandah Resort - All Inclusive",
-    "address": "Bolans Village, Bolans, Jolly Harbour, Antigua & Barbuda",
+    "Address": "Bolans Village, Bolans, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684620061"
   },
   {
+    "id": 78,
     "name": "Maggies Guest House",
-    "address": "Mamora Bay, St. Paul's, Antigua & Barbuda",
+    "Address": "Mamora Bay, St. Paul's, Antigua \u0026 Barbuda",
     "phone": "8662372071"
   },
   {
+    "id": 79,
     "name": "Energie Antigua",
-    "address": "Valley Church, NA, Antigua & Barbuda",
+    "Address": "Valley Church, NA, Antigua \u0026 Barbuda",
     "phone": "+12685622400"
   },
   {
+    "id": 80,
     "name": "Oceanic View Exclusive Vacation Cottages",
-    "address": "Mamora Bay, Piccadilly, Antigua & Barbuda",
+    "Address": "Mamora Bay, Piccadilly, Antigua \u0026 Barbuda",
     "phone": "+12687263118"
   },
   {
+    "id": 81,
     "name": "Barbuda Belle Luxury Beach Hotel",
-    "address": "PO Box 243 West Indies, Antigua, Antigua & Barbuda",
+    "Address": "PO Box 243 West Indies, Antigua, Antigua \u0026 Barbuda",
     "phone": "+33153434275"
   },
   {
+    "id": 82,
     "name": "The Lighthouse",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "8887263257"
   },
   {
+    "id": 83,
     "name": "Colibri Court",
-    "address": "Pinkhouse on the Pasture, New Pond Road, Five Islands, St John's, Antigua & Barbuda",
+    "Address": "Pinkhouse on the Pasture, New Pond Road, Five Islands, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687849113"
   },
   {
+    "id": 84,
     "name": "Tequila Sunrise Antigua",
-    "address": "Liberta village, st Pauls, Antigua & Barbuda",
+    "Address": "Liberta village, st Pauls, Antigua \u0026 Barbuda",
     "phone": "+12684648819"
   },
   {
+    "id": 85,
     "name": "TABLE D'HOTE COTTAGE",
-    "address": "Radio Range, Opposite Lutheran Church St John's, Antigua & Barbuda",
+    "Address": "Radio Range, Opposite Lutheran Church St John's, Antigua \u0026 Barbuda",
     "phone": "+12685620210"
   },
   {
+    "id": 86,
     "name": "VILLA FAIR WINDS",
-    "address": "Ixoria Cres, Cassada Gardens, Antigua & Barbuda",
+    "Address": "Ixoria Cres, Cassada Gardens, Antigua \u0026 Barbuda",
     "phone": "+12687276156"
   },
   {
+    "id": 87,
     "name": "Jolly Villas",
-    "address": "Fiennes Street, behind Battery Engineering, opposite Rubis Gas Station, Saint Johnʼs, Antigua & Barbuda",
+    "Address": "Fiennes Street, behind Battery Engineering, opposite Rubis Gas Station, Saint Johnʼs, Antigua \u0026 Barbuda",
     "phone": "+12687708545"
   },
   {
+    "id": 88,
     "name": "Villa Terena at Jolly Harbour",
-    "address": "Upper Gambles St. John's, Antigua, Antigua & Barbuda",
+    "Address": "Upper Gambles St. John's, Antigua, Antigua \u0026 Barbuda",
     "phone": "+12684621395"
   },
   {
+    "id": 89,
     "name": "Coral Sands Beach Cottages",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12687271235"
   },
   {
+    "id": 90,
     "name": "Inn La Galleria",
-    "address": "Seatons Village, St. Phillips, Antigua & Barbuda",
+    "Address": "Seatons Village, St. Phillips, Antigua \u0026 Barbuda",
     "phone": "+14163156724"
   },
   {
+    "id": 91,
     "name": "South Coast Ocean View Apartments",
-    "address": "Buckley's Village, St John's, Antigua & Barbuda",
+    "Address": "Buckley's Village, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685625525"
   },
   {
+    "id": 92,
     "name": "Donkey on The Beach",
-    "address": "Sunset Lane McKinnons Cl St John's Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Sunset Lane McKinnons Cl St John's Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12685627791"
   },
   {
+    "id": 93,
     "name": "Bluuemoon Antigua Villa",
-    "address": "Dockyard Drive, English Harbour, Antigua & Barbuda",
+    "Address": "Dockyard Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687245411"
   },
   {
+    "id": 94,
     "name": "Sunset Terrace",
-    "address": "Crab Hill, Antigua & Barbuda",
+    "Address": "Crab Hill, Antigua \u0026 Barbuda",
     "phone": "+12685626517"
   },
   {
+    "id": 95,
     "name": "Trilogy Villas",
-    "address": "Upper Gambles St. John's, Antigua, Antigua & Barbuda",
+    "Address": "Upper Gambles St. John's, Antigua, Antigua \u0026 Barbuda",
     "phone": "+12684621395"
   },
   {
+    "id": 96,
     "name": "w/BTHRM, 5 min beach!+BKFST",
-    "address": "Morris Bay St. Mary's Parish Old Road, Antigua & Barbuda",
+    "Address": "Morris Bay St. Mary's Parish Old Road, Antigua \u0026 Barbuda",
     "phone": "+12684628400"
   },
   {
+    "id": 97,
     "name": "Antiguas 1# Budget Rooms",
-    "address": "Seatons Village, St. Phillips, Antigua & Barbuda",
+    "Address": "Seatons Village, St. Phillips, Antigua \u0026 Barbuda",
     "phone": "+14163156724"
   },
   {
+    "id": 98,
     "name": "Antigua chiama Italia Villa",
-    "address": "Heritage Quay, St John's, Antigua & Barbuda",
+    "Address": "Heritage Quay, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684621247"
   },
   {
+    "id": 99,
     "name": "Le Jardin Creole",
-    "address": "Old road, Antigua & Barbuda",
+    "Address": "Old road, Antigua \u0026 Barbuda",
     "phone": "+12684840000"
   },
   {
+    "id": 100,
     "name": "The Lodge",
-    "address": "17.123516, -61.875469, Antigua & Barbuda",
+    "Address": "17.123516, -61.875469, Antigua \u0026 Barbuda",
     "phone": "1712351661875469"
   },
   {
+    "id": 101,
     "name": "Coco Palms",
-    "address": "J. Hadeed St, Antigua & Barbuda",
+    "Address": "J. Hadeed St, Antigua \u0026 Barbuda",
     "phone": "+12684621223"
   },
   {
+    "id": 102,
     "name": "Tropical Garden Cottage",
-    "address": "Sunset Lane McKinnons Cl St John's Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Sunset Lane McKinnons Cl St John's Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12685627791"
   },
   {
+    "id": 103,
     "name": "Cecilia's",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12684607025"
   },
   {
+    "id": 104,
     "name": "Akropolis Greek Restaurant",
-    "address": "jolly harbour, saint Mary’s antigua, and barbuda, Antigua & Barbuda",
+    "Address": "jolly harbour, saint Mary’s antigua, and barbuda, Antigua \u0026 Barbuda",
     "phone": "+12687748071"
   },
   {
+    "id": 105,
     "name": "Incanto",
-    "address": "Nelson's Dockyard, Dockyard Drive, English Harbour, Antigua & Barbuda",
+    "Address": "Nelson's Dockyard, Dockyard Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684601027"
   },
   {
+    "id": 106,
     "name": "Miracles of the Caribbean Restaurant and Bar",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12687707769"
   },
   {
+    "id": 107,
     "name": "Caribbean Taste",
-    "address": "Country Club Road, Hodges Bay, St John, Antigua & Barbuda",
+    "Address": "Country Club Road, Hodges Bay, St John, Antigua \u0026 Barbuda",
     "phone": "+12684623881"
   },
   {
+    "id": 108,
     "name": "Al Porto",
-    "address": "English Harbour, Antigua & Barbuda",
+    "Address": "English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685623049"
   },
   {
+    "id": 109,
     "name": "PIllars Restaurant",
-    "address": "Antigua Slipway, English Harbour, Antigua & Barbuda",
+    "Address": "Antigua Slipway, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687894531"
   },
   {
-    "name": "C&C Wine House",
-    "address": "Bolands, Antigua & Barbuda",
+    "id": 110,
+    "name": "C\u0026C Wine House",
+    "Address": "Bolands, Antigua \u0026 Barbuda",
     "phone": "+12687321682"
   },
   {
+    "id": 111,
     "name": "Le Bistro Restaurant",
-    "address": "Texaco Dock Rd Saint George Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Texaco Dock Rd Saint George Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12685627070"
   },
   {
+    "id": 112,
     "name": "5 Senses Restaurant",
-    "address": "North Finger, Antigua and Barbuda, Jolly Harbour, Antigua & Barbuda",
+    "Address": "North Finger, Antigua and Barbuda, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685627848"
   },
   {
+    "id": 113,
     "name": "Boom Restaurant",
-    "address": "Long St, St John's, Antigua & Barbuda",
+    "Address": "Long St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687708086"
   },
   {
+    "id": 114,
     "name": "Sheer Rocks",
-    "address": "Half Moon Bay Beach, Saint Philip, Antigua and, Barbuda, WI, Antigua & Barbuda",
+    "Address": "Half Moon Bay Beach, Saint Philip, Antigua and, Barbuda, WI, Antigua \u0026 Barbuda",
     "phone": "+12684604084"
   },
   {
+    "id": 115,
     "name": "Colibri Bistro Bar Lounge",
-    "address": "Jolly Harbour, Antigua & Barbuda",
-    "phone": null
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 116,
     "name": "Basilico Italian Restautant | Antigua",
-    "address": "Browne’s Avenue, St John's, Antigua & Barbuda",
+    "Address": "Browne’s Avenue, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687286340"
   },
   {
+    "id": 117,
     "name": "Cloggy's",
-    "address": "Anchorage Road, St John's, Antigua & Barbuda",
+    "Address": "Anchorage Road, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687364400"
   },
   {
+    "id": 118,
     "name": "Hemingway's Caribbean Cafe",
-    "address": "Factory Rd, St John's, Antigua & Barbuda",
+    "Address": "Factory Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687343913"
   },
   {
-    "name": "Paparazzi Pizzeria & Bar",
-    "address": "Factory Rd, Cassada Gardens, Antigua & Barbuda",
+    "id": 119,
+    "name": "Paparazzi Pizzeria \u0026 Bar",
+    "Address": "Factory Rd, Cassada Gardens, Antigua \u0026 Barbuda",
     "phone": "+12687348578"
   },
   {
+    "id": 120,
     "name": "Ana's on the Beach",
-    "address": "McKinnons Way, St John's, Antigua & Barbuda",
+    "Address": "McKinnons Way, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687364444"
   },
   {
+    "id": 121,
     "name": "Abracadabra",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12684811322"
   },
   {
+    "id": 122,
     "name": "Papa Zouk",
-    "address": "Piccadilly, Antigua & Barbuda",
+    "Address": "Piccadilly, Antigua \u0026 Barbuda",
     "phone": "+12684601854"
   },
   {
+    "id": 123,
     "name": "Beachlimerz",
-    "address": "Twist Mall #6, Redcliffe St, St John's, Antigua & Barbuda",
+    "Address": "Twist Mall #6, Redcliffe St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687888324"
   },
   {
+    "id": 124,
     "name": "Island Fusion Café",
-    "address": "Antigua WI, Matthew's All Saints St Paul's, Antigua & Barbuda",
+    "Address": "Antigua WI, Matthew's All Saints St Paul's, Antigua \u0026 Barbuda",
     "phone": "+12687737354"
   },
   {
-    "name": "Bay House Restaurant & Bar",
-    "address": "English Harbour, Antigua & Barbuda",
+    "id": 125,
+    "name": "Bay House Restaurant \u0026 Bar",
+    "Address": "English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685627378"
   },
   {
+    "id": 126,
     "name": "Roti King",
-    "address": "Hawkins Drive, Cassada Gardens #2, Antigua & Barbuda",
+    "Address": "Hawkins Drive, Cassada Gardens #2, Antigua \u0026 Barbuda",
     "phone": "+12687884367"
   },
   {
+    "id": 127,
     "name": "Flatties Flame Grill",
-    "address": "Potters Village, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Potters Village, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12684618324"
   },
   {
-    "name": "Casa Roots - Beach - Food & Drinks",
-    "address": "Unnamed Road, Willikies, Antigua & Barbuda",
-    "phone": null
+    "id": 128,
+    "name": "Casa Roots - Beach - Food \u0026 Drinks",
+    "Address": "Unnamed Road, Willikies, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 129,
     "name": "Le Bistro",
-    "address": "Old Parham Rd, St John's, Antigua & Barbuda",
+    "Address": "Old Parham Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687367630"
   },
   {
+    "id": 130,
     "name": "Trappas",
-    "address": "#5 East Bus Station Woodland Drive, Antigua & Barbuda",
+    "Address": "#5 East Bus Station Woodland Drive, Antigua \u0026 Barbuda",
     "phone": "+12687736906"
   },
   {
+    "id": 131,
     "name": "Backyard",
-    "address": "Unnamed Rd, Willikies, Antigua & Barbuda",
+    "Address": "Unnamed Rd, Willikies, Antigua \u0026 Barbuda",
     "phone": "+12684632520"
   },
   {
+    "id": 132,
     "name": "Captain's Table",
-    "address": "Valley Road, Crabb Hill, Antigua & Barbuda",
+    "Address": "Valley Road, Crabb Hill, Antigua \u0026 Barbuda",
     "phone": "+12687203649"
   },
   {
+    "id": 133,
     "name": "OJ's Beach Bar and Restaurant",
-    "address": "Tottenham Park, Valley Rd, Jolly Harbour, Antigua & Barbuda",
+    "Address": "Tottenham Park, Valley Rd, Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687755721"
   },
   {
+    "id": 134,
     "name": "Catherines Café",
-    "address": "St John's St, St John's, Antigua & Barbuda",
+    "Address": "St John's St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687365252"
   },
   {
+    "id": 135,
     "name": "Sea Dream Restaurant and Bar",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12687214063"
   },
   {
+    "id": 136,
     "name": "Rokuni",
-    "address": "Joseph Ln, St John's, Antigua & Barbuda",
+    "Address": "Joseph Ln, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685626137"
   },
   {
+    "id": 137,
     "name": "Big Banana",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12687321613"
   },
   {
+    "id": 138,
     "name": "Turner's Beach",
-    "address": "Redcliffe St, St John's, Antigua & Barbuda",
+    "Address": "Redcliffe St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687734102"
   },
   {
+    "id": 139,
     "name": "Darkwood Beach Bar and Restaurant",
-    "address": "New Winthorpes, Antigua & Barbuda",
+    "Address": "New Winthorpes, Antigua \u0026 Barbuda",
     "phone": "+12687862321"
   },
   {
+    "id": 140,
     "name": "NOMAD RESTAURANT",
-    "address": "Friars Hill Road, St John's, Antigua & Barbuda",
+    "Address": "Friars Hill Road, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684623552"
   },
   {
+    "id": 141,
     "name": "Karnagio Antigua",
-    "address": "Thames St, St John's, Antigua & Barbuda",
+    "Address": "Thames St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687837472"
   },
   {
+    "id": 142,
     "name": "Johnny's Bar and Grill",
-    "address": "Valley Rd, Urlings, Antigua & Barbuda",
+    "Address": "Valley Rd, Urlings, Antigua \u0026 Barbuda",
     "phone": "+12687830384"
   },
   {
+    "id": 143,
     "name": "Road House Restaurant And Bar",
-    "address": "Runaway Bay, St. John, s, Antigua, Antigua & Barbuda",
-    "phone": null
+    "Address": "Runaway Bay, St. John, s, Antigua, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 144,
     "name": "Alligators Bar and Restaurant",
-    "address": "St John's, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "St John's, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12687269179"
   },
   {
+    "id": 145,
     "name": "Garden Grill",
-    "address": "Unit 3A, 3rd Floor Mahogany Apartments, Corners of Woods Centre & Mahogany Drive, Gambles Saint John's, Antigua & Barbuda",
+    "Address": "Unit 3A, 3rd Floor Mahogany Apartments, Corners of Woods Centre \u0026 Mahogany Drive, Gambles Saint John's, Antigua \u0026 Barbuda",
     "phone": "+12687229684"
   },
   {
+    "id": 146,
     "name": "Cutie's",
-    "address": "St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 147,
     "name": "Salt Plage",
-    "address": "Heritage Quay, Saint John's,, Antigua & Barbuda",
+    "Address": "Heritage Quay, Saint John's,, Antigua \u0026 Barbuda",
     "phone": "+12685626360"
   },
   {
+    "id": 148,
     "name": "Shirley Heights Lookout",
-    "address": "St John's, Antigua, and Barbuda, Antigua & Barbuda",
-    "phone": null
+    "Address": "St John's, Antigua, and Barbuda, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 149,
     "name": "la brasserie d'Antigua",
-    "address": "Piccadilly, Antigua & Barbuda",
-    "phone": null
+    "Address": "Piccadilly, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 150,
     "name": "Dawne's Soleil Kafé",
-    "address": "Valley Rd, Old Road, Antigua & Barbuda",
+    "Address": "Valley Rd, Old Road, Antigua \u0026 Barbuda",
     "phone": "+12685628066"
   },
   {
+    "id": 151,
     "name": "The Nest -Beach Bar, Antigua",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12685627698"
   },
   {
-    "name": "D'cravinz Restaurant & Bar",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "id": 152,
+    "name": "D'cravinz Restaurant \u0026 Bar",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12687851698"
   },
   {
-    "name": "Jamaican Pride Restaurant &Bar",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "id": 153,
+    "name": "Jamaican Pride Restaurant \u0026Bar",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12685620058"
   },
   {
+    "id": 154,
     "name": "The Galley Bar",
-    "address": "St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 155,
     "name": "Gina's Cook Shop",
-    "address": "Independence Ave, St John's, Antigua & Barbuda",
+    "Address": "Independence Ave, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687736065"
   },
   {
+    "id": 156,
     "name": "BUBA's Hideout",
-    "address": "Parham, Antigua & Barbuda",
+    "Address": "Parham, Antigua \u0026 Barbuda",
     "phone": "+12687345355"
   },
   {
+    "id": 157,
     "name": "The Captains Quarters Restaurant",
-    "address": "Ffryes Beach, Saint Mary, Antigua & Barbuda",
+    "Address": "Ffryes Beach, Saint Mary, Antigua \u0026 Barbuda",
     "phone": "+12684626740"
   },
   {
+    "id": 158,
     "name": "Spices of India",
-    "address": "Dockyard Drive, English Harbour, Antigua & Barbuda",
+    "Address": "Dockyard Drive, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687894531"
   },
   {
+    "id": 159,
     "name": "Mama Pasta",
-    "address": "Village Walk Shopping Complex, Friars Hill Road, St John's, Antigua & Barbuda",
+    "Address": "Village Walk Shopping Complex, Friars Hill Road, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685628761"
   },
   {
+    "id": 160,
     "name": "Big Head Lobster Seafood Restaurant And Reggae Bar",
-    "address": "Antigua & Barbuda",
+    "Address": "Antigua \u0026 Barbuda",
     "phone": "+12685627159"
   },
   {
+    "id": 161,
     "name": "Alma's Restaurant",
-    "address": "Jolly Harbour, Antigua & Barbuda",
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687245658"
   },
   {
+    "id": 162,
     "name": "Mr Panzerotto",
-    "address": "Willikies, Antigua & Barbuda",
+    "Address": "Willikies, Antigua \u0026 Barbuda",
     "phone": "+12685627110"
   },
   {
+    "id": 163,
     "name": "Ffryes Beach Bar/ Dennis Restaurant",
-    "address": "Morris bay, Antigua & Barbuda",
+    "Address": "Morris bay, Antigua \u0026 Barbuda",
     "phone": "+12687250706"
   },
   {
-    "name": "Big Bamboo bar & restaurant",
-    "address": "Nelson's Dockyard Marina, English Harbour, Antigua & Barbuda",
+    "id": 164,
+    "name": "Big Bamboo bar \u0026 restaurant",
+    "Address": "Nelson's Dockyard Marina, English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12684601533"
   },
   {
+    "id": 165,
     "name": "One Stone Ital Shack",
-    "address": "Seaview Farm Main Road (beside the pond), St John's, Antigua & Barbuda",
+    "Address": "Seaview Farm Main Road (beside the pond), St John's, Antigua \u0026 Barbuda",
     "phone": "+12684634037"
   },
   {
+    "id": 166,
     "name": "Barefoot by the Sea, Restaurant @ Sandals Grande Antigua",
-    "address": "All Saints Road, St John's, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "All Saints Road, St John's, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12687343939"
   },
   {
+    "id": 167,
     "name": "Ti Lolo",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12684602573"
   },
   {
+    "id": 168,
     "name": "Roti Sue",
-    "address": "Bolands, Antigua & Barbuda",
+    "Address": "Bolands, Antigua \u0026 Barbuda",
     "phone": "+12685627958"
   },
   {
-    "name": "Sunset Horizon Restaurant & Bar",
-    "address": "Temple street, Antigua & Barbuda",
+    "id": 169,
+    "name": "Sunset Horizon Restaurant \u0026 Bar",
+    "Address": "Temple street, Antigua \u0026 Barbuda",
     "phone": "+12685629875"
   },
   {
-    "name": "BAR-B'S RESTAURANT & BAR",
-    "address": "Bay Gardens, Hodges Bay, Antigua & Barbuda",
+    "id": 170,
+    "name": "BAR-B'S RESTAURANT \u0026 BAR",
+    "Address": "Bay Gardens, Hodges Bay, Antigua \u0026 Barbuda",
     "phone": "+12687641122"
   },
   {
+    "id": 171,
     "name": "Bumpkins",
-    "address": "English Harbour, Antigua & Barbuda",
+    "Address": "English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687290636"
   },
   {
+    "id": 172,
     "name": "Habour View Bar and Cafe",
-    "address": "slipway Dockyard, Antigua & Barbuda",
+    "Address": "slipway Dockyard, Antigua \u0026 Barbuda",
     "phone": "+12687219420"
   },
   {
+    "id": 173,
     "name": "Tina's Cookshop",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12684620806"
   },
   {
+    "id": 174,
     "name": "Cheers Antigua",
-    "address": "Dutchman's Bay Drive, Antigua & Barbuda",
+    "Address": "Dutchman's Bay Drive, Antigua \u0026 Barbuda",
     "phone": "+12684640207"
   },
   {
+    "id": 175,
     "name": "House of Bo",
-    "address": "Redcliffe Quay, St John's, Antigua & Barbuda",
+    "Address": "Redcliffe Quay, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685621820"
   },
   {
-    "name": "Shondella's Restaurant & Catering",
-    "address": "St John's, Antigua & Barbuda",
+    "id": 176,
+    "name": "Shondella's Restaurant \u0026 Catering",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12685626289"
   },
   {
+    "id": 177,
     "name": "Mystic Beach | Bar and Restaurant",
-    "address": "Newfield, Antigua, Lyons Hill, Antigua & Barbuda",
+    "Address": "Newfield, Antigua, Lyons Hill, Antigua \u0026 Barbuda",
     "phone": "+12687648090"
   },
   {
+    "id": 178,
     "name": "Aunty Cavell's Restaurant",
-    "address": "Friars Hill Road, Saint John's, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Friars Hill Road, Saint John's, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12685629426"
   },
   {
+    "id": 179,
     "name": "Cafe Bella",
-    "address": "Old Road Grace Bay, Antigua & Barbuda",
+    "Address": "Old Road Grace Bay, Antigua \u0026 Barbuda",
     "phone": "+12687702731"
   },
   {
+    "id": 180,
     "name": "Sahara Restaurant",
-    "address": "Marble Hill Road, Antigua & Barbuda",
+    "Address": "Marble Hill Road, Antigua \u0026 Barbuda",
     "phone": "+12687361555"
   },
   {
+    "id": 181,
     "name": "Tucker On The Grill",
-    "address": "Valley Rd, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "Valley Rd, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12684628240"
   },
   {
+    "id": 182,
     "name": "Sweet Bbbb's Restaurant",
-    "address": "St John's St, St John's, Antigua & Barbuda",
+    "Address": "St John's St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684629133"
   },
   {
+    "id": 183,
     "name": "Oyanta's Rooftop Restaurant",
-    "address": "Redcliffe Street, Antigua & Barbuda",
+    "Address": "Redcliffe Street, Antigua \u0026 Barbuda",
     "phone": "+12684806970"
   },
   {
+    "id": 184,
     "name": "Indian Summer",
-    "address": "Antigua & Barbuda",
+    "Address": "Antigua \u0026 Barbuda",
     "phone": "+12685622637"
   },
   {
+    "id": 185,
     "name": "Green Sea's Restaurant",
-    "address": "Piccadilly, Antigua & Barbuda",
+    "Address": "Piccadilly, Antigua \u0026 Barbuda",
     "phone": "+12687825050"
   },
   {
+    "id": 186,
     "name": "Enzo's Restaurant",
-    "address": "North Street St John's Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "North Street St John's Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12685623474"
   },
   {
+    "id": 187,
     "name": "Samsara restaurant louge bar",
-    "address": "Sir Vivian Richards St, St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "Sir Vivian Richards St, St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 188,
     "name": "Rum Bus Beach",
-    "address": "Valley Rd, Crabb Hill Village, Antigua & Barbuda",
+    "Address": "Valley Rd, Crabb Hill Village, Antigua \u0026 Barbuda",
     "phone": "+12684600184"
   },
   {
+    "id": 189,
     "name": "Seaview Restaurant and Bar",
-    "address": "Willikies, Antigua & Barbuda",
+    "Address": "Willikies, Antigua \u0026 Barbuda",
     "phone": "+12684646506"
   },
   {
+    "id": 190,
     "name": "The P.O.O.R. People’s Palace",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12685623534"
   },
   {
+    "id": 191,
     "name": "Chef Pietro",
-    "address": "Hodges Bay, Antigua & Barbuda",
+    "Address": "Hodges Bay, Antigua \u0026 Barbuda",
     "phone": "+12684623881"
   },
   {
+    "id": 192,
     "name": "Global Garden",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12687222000"
   },
   {
+    "id": 193,
     "name": "Sweet Treatz Boutique",
-    "address": "English Harbour, Antigua & Barbuda",
+    "Address": "English Harbour, Antigua \u0026 Barbuda",
     "phone": "+12687886896"
   },
   {
+    "id": 194,
     "name": "GEO'S",
-    "address": "St Mary's St, St John's, Antigua & Barbuda",
+    "Address": "St Mary's St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684622328"
   },
   {
+    "id": 195,
     "name": "KR'S Homegrown Restaurant",
-    "address": "J. Hadeed St Trade Winds Drive St. John's Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "J. Hadeed St Trade Winds Drive St. John's Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12684621223"
   },
   {
+    "id": 196,
     "name": "Quila's Mexican Grill",
-    "address": "Antigua & Barbuda",
+    "Address": "Antigua \u0026 Barbuda",
     "phone": "+12687345671"
   },
   {
+    "id": 197,
     "name": "Lucky Eddi's Antigua Sports Bar and Restaurant",
-    "address": "Hilda Davis Drive, Dickenson Bay St, St John's, Antigua & Barbuda",
+    "Address": "Hilda Davis Drive, Dickenson Bay St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12684640795"
   },
   {
+    "id": 198,
     "name": "The Chimney",
-    "address": "s, Antigua, Antigua & Barbuda",
+    "Address": "s, Antigua, Antigua \u0026 Barbuda",
     "phone": "+12684645400"
   },
   {
+    "id": 199,
     "name": "Island B-Hive Sports Bar",
-    "address": "Fort James Beach, St John's, Antigua & Barbuda",
+    "Address": "Fort James Beach, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685628574"
   },
   {
+    "id": 200,
     "name": "LaToya's Local Cuisine",
-    "address": "Dockyard Drive, Antigua & Barbuda",
+    "Address": "Dockyard Drive, Antigua \u0026 Barbuda",
     "phone": "+12684602701"
   },
   {
+    "id": 201,
     "name": "Lydia's Seafood Restaurant",
-    "address": "Antigua Yacht Club Marina, Antigua, Falmouth, Antigua & Barbuda",
+    "Address": "Antigua Yacht Club Marina, Antigua, Falmouth, Antigua \u0026 Barbuda",
     "phone": "+12684606910"
   },
   {
+    "id": 202,
     "name": "Chick'n Lick'n Restaurant and Bar",
-    "address": "corner of Dockyard Drive, English Harbor, Antigua & Barbuda",
+    "Address": "corner of Dockyard Drive, English Harbor, Antigua \u0026 Barbuda",
     "phone": "+12687203210"
   },
   {
+    "id": 203,
     "name": "Vendor's Mall",
-    "address": "All Saints Rd, Antigua & Barbuda",
-    "phone": null
+    "Address": "All Saints Rd, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 204,
     "name": "Heritage Quay Complex",
-    "address": "Friars Hill Road, Antigua & Barbuda",
+    "Address": "Friars Hill Road, Antigua \u0026 Barbuda",
     "phone": "+12685627880"
   },
   {
+    "id": 205,
     "name": "Redcliffe Quay",
-    "address": "Redcliffe St, St John's, Antigua & Barbuda",
+    "Address": "Redcliffe St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685625610"
   },
   {
+    "id": 206,
     "name": "Village Walk Shopping Centre",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12684629287"
   },
   {
+    "id": 207,
     "name": "TWIST Mall",
-    "address": "Friars Hill Road, St John's, Antigua & Barbuda",
+    "Address": "Friars Hill Road, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685628075"
   },
   {
+    "id": 208,
     "name": "Townhouse Plaza",
-    "address": "Thames St, St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "Thames St, St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 209,
     "name": "Royal Palm Place",
-    "address": "antigua, Antigua & Barbuda",
+    "Address": "antigua, Antigua \u0026 Barbuda",
     "phone": "+12687767613"
   },
   {
+    "id": 210,
     "name": "New Winthorpes",
-    "address": "High St, St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "High St, St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 211,
     "name": "Wadadli Roots",
-    "address": "St Mary's St, St John's, Antigua & Barbuda",
+    "Address": "St Mary's St, St John's, Antigua \u0026 Barbuda",
     "phone": "+12687206144"
   },
   {
+    "id": 212,
     "name": "Woods Mall",
-    "address": "St John's, Antigua & Barbuda",
+    "Address": "St John's, Antigua \u0026 Barbuda",
     "phone": "+12685626333"
   },
   {
+    "id": 213,
     "name": "Vincent And Millicent Store",
-    "address": "Piggotts, Antigua & Barbuda",
-    "phone": null
+    "Address": "Piggotts, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 214,
     "name": "Ishwari Henna Studio",
-    "address": "Redcliffe St, St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "Redcliffe St, St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   },
   {
+    "id": 215,
     "name": "Antigua Estates",
-    "address": "Perry Bay Main Rd, St John's, Antigua & Barbuda",
+    "Address": "Perry Bay Main Rd, St John's, Antigua \u0026 Barbuda",
     "phone": "+12685627854"
   },
   {
+    "id": 216,
     "name": "VENDORS SQUARE",
-    "address": "Jolly Harbour, Antigua & Barbuda",
+    "Address": "Jolly Harbour, Antigua \u0026 Barbuda",
     "phone": "+12685625622"
   },
   {
+    "id": 217,
     "name": "Diamonds International Outlet",
-    "address": "St John's, Antigua, and Barbuda, Antigua & Barbuda",
+    "Address": "St John's, Antigua, and Barbuda, Antigua \u0026 Barbuda",
     "phone": "+12687208209"
   },
   {
+    "id": 218,
     "name": "Orchid Center",
-    "address": "Thames St, St John's, Antigua & Barbuda",
-    "phone": null
+    "Address": "Thames St, St John's, Antigua \u0026 Barbuda",
+    "phone": ""
   }
 ]

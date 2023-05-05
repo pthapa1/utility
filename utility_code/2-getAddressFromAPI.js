@@ -1,20 +1,63 @@
+const axios = require('axios');
 const fs = require('fs');
-const { country } = require('..');
-console.log(country, 'is the new country');
-const path = `././addresses/${country}.json`;
-fs.readFile(path, 'utf-8', async (err, data) => {
-  if (err) throw err;
-  const addressList = await JSON.parse(data);
-  console.log(addressList.length, `addresses of ${country} before filtering`);
+const replace = require('replace-in-file');
 
-  const filteredData = await addressList.filter(
-    (item) =>
-      item.address &&
-      item.address.includes(country) &&
-      (item.address.match(/,/g) || []).length > 1
-  );
+// to use it with address search. AddressType is required for the API.
+const addressTypes = [
+  'hotels',
+  'restaurants',
+  'shopping centers',
+  'things to do',
+  'Hospitals',
+];
+exports.country = 'Zimbabwe';
+const country = this.country;
+const cities = ['Harare', 'Bulawayo', 'Chitungwiza', 'Mutare', 'Gweru '];
+const filePath = `./addresses/${country}.json`;
+// required by replace in file.
+const options = {
+  files: `./addresses/${country}.json`,
+  from: /\]\s*\[/gm,
+  to: ',',
+  allowEmptyPaths: false,
+};
+async function writeAddressToFile(path, dataToWrite, addressType, city) {
+  fs.appendFile(path, dataToWrite, (err) => {
+    if (err) throw err;
+    console.log(
+      `${addressType} Addresses Saved in ${country}.json file for ${city}`
+    );
+    // if this pattern -> ][ exists, replace it with a comma (,)
+    fs.existsSync(path)
+      ? replace.sync(options)
+      : console.log(`File does not exits yet`);
+  });
+}
 
-  console.log(filteredData.length, 'addresses left after filtering.');
+async function getAddress(config, addressType, city) {
+  try {
+    const response = await axios(config);
+    const strRes = JSON.stringify(response.data);
+    await writeAddressToFile(filePath, strRes, addressType, city);
+  } catch (error) {
+    console.log(`Error in getCityAddress: ${error}`);
+  }
+}
 
-  fs.appendFileSync(path, JSON.stringify(filteredData));
-});
+async function loopOnAddressType(city) {
+  for (const addressType of addressTypes) {
+    console.log(`Searching ${addressType} in ${city}, ${country} `);
+    const config = {
+      method: 'get',
+      url: `http://localhost:3000/address/${addressType}/${city}`,
+      headers: {},
+    };
+    await getAddress(config, addressType, city);
+  }
+}
+
+(async () => {
+  for (const city of cities) {
+    await loopOnAddressType(city);
+  }
+})();
