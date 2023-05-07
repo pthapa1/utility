@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "name": "Zinkensdamm Hotell \u0026 Vandrarhem",
+    "name": "Zinkensdamm Hotell & Vandrarhem",
     "address": "Drottninggatan 77, 111 60 Stockholm, Sweden",
     "phone": "+468141395"
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": 12,
-    "name": "Mälardrottningen Hotell \u0026 Restaurang",
+    "name": "Mälardrottningen Hotell & Restaurang",
     "address": "Jungfrugatan 57, 115 31 Stockholm, Sweden",
     "phone": "+4686645000"
   },
@@ -295,7 +295,7 @@
   },
   {
     "id": 50,
-    "name": "Zinkensdamm Hotell \u0026 Vandrarhem",
+    "name": "Zinkensdamm Hotell & Vandrarhem",
     "address": "Saltsjöqvarns kaj 25, 131 71 Nacka, Sweden",
     "phone": "+46855570200"
   },
@@ -655,7 +655,7 @@
   },
   {
     "id": 110,
-    "name": "Glashuset Restaurant \u0026 Bar",
+    "name": "Glashuset Restaurant & Bar",
     "address": "Dalagatan 42, 113 24 Stockholm, Sweden",
     "phone": "+468949113"
   },
@@ -691,7 +691,7 @@
   },
   {
     "id": 116,
-    "name": "Restaurant PA\u0026Co",
+    "name": "Restaurant PA&Co",
     "address": "Rådmansgatan 52, 113 57 Stockholm, Sweden",
     "phone": "+46769699996"
   },
@@ -931,7 +931,7 @@
   },
   {
     "id": 156,
-    "name": "Zios Pasta \u0026 Pizza Italian Restaurant",
+    "name": "Zios Pasta & Pizza Italian Restaurant",
     "address": "Kornhamnstorg, 111 27 Stockholm, Sweden",
     "phone": "+46739719247"
   },
@@ -973,7 +973,7 @@
   },
   {
     "id": 163,
-    "name": "Indian Street Food \u0026 Co",
+    "name": "Indian Street Food & Co",
     "address": "Sveavägen 96, 113 50 Stockholm, Sweden",
     "phone": "+468157696"
   },
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 191,
-    "name": "Kasten Bistro by Jim\u0026Jacob",
+    "name": "Kasten Bistro by Jim&Jacob",
     "address": "Roslagsgatan 6, 113 55 Stockholm, Sweden",
     "phone": "+46850902224"
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "id": 198,
-    "name": "GUTE - Köttrestaurang \u0026 Grillbistro",
+    "name": "GUTE - Köttrestaurang & Grillbistro",
     "address": "Nybrogatan 40, 114 40 Stockholm, Sweden",
     "phone": "+4686612727"
   },
@@ -1957,7 +1957,7 @@
   },
   {
     "id": 327,
-    "name": "Snuff \u0026 Match Museum",
+    "name": "Snuff & Match Museum",
     "address": "Järntorget 84, 111 29 Stockholm, Sweden",
     "phone": "+46761466600"
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 353,
-    "name": "Apple Hotel \u0026 Konferens Göteborg",
+    "name": "Apple Hotel & Konferens Göteborg",
     "address": "Mässans gata 24, 412 51 Göteborg, Sweden",
     "phone": "+46317508800"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "id": 370,
-    "name": "Jacy'z Hotel \u0026 Resort",
+    "name": "Jacy'z Hotel & Resort",
     "address": "Olbersgatan 9, 416 55 Göteborg, Sweden",
     "phone": "+4631840200"
   },
@@ -2245,7 +2245,7 @@
   },
   {
     "id": 375,
-    "name": "Dorsia Hotel \u0026 Restaurant",
+    "name": "Dorsia Hotel & Restaurant",
     "address": "Idrottsvägen 6, 431 62 Mölndal, Sweden",
     "phone": "+4631679630"
   },
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 397,
-    "name": "Le Mat B\u0026B Göteborg City",
+    "name": "Le Mat B&B Göteborg City",
     "address": "Vegagatan 22, 413 09 Göteborg, Sweden",
     "phone": "+4631121060"
   },
@@ -2419,7 +2419,7 @@
   },
   {
     "id": 404,
-    "name": "Spoton Hotel \u0026 Sportsbar",
+    "name": "Spoton Hotel & Sportsbar",
     "address": "Gamla Tingstadsgatan 10, 402 76 Hisings Backa, Sweden",
     "phone": "+46317501900"
   },
@@ -2479,7 +2479,7 @@
   },
   {
     "id": 414,
-    "name": "5:ans Bed \u0026 Breakfast",
+    "name": "5:ans Bed & Breakfast",
     "address": "Burggrevegatan 25, 411 03 Göteborg, Sweden",
     "phone": "+46317515500"
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "id": 417,
-    "name": "Treetop Spa Hangout \u0026 Hotel",
+    "name": "Treetop Spa Hangout & Hotel",
     "address": "Mölndalsvägen 3, 412 63 Göteborg, Sweden",
     "phone": "+4631401296"
   },
@@ -2515,13 +2515,13 @@
   },
   {
     "id": 420,
-    "name": "Apple Hotel \u0026 Konferens Göteborg",
+    "name": "Apple Hotel & Konferens Göteborg",
     "address": "Mölndalsvägen 23, 412 63 Göteborg, Sweden",
     "phone": "+4631401050"
   },
   {
     "id": 421,
-    "name": "Quality Hotel 11 \u0026 Eriksbergshallen",
+    "name": "Quality Hotel 11 & Eriksbergshallen",
     "address": "Tredje Långgatan 31, 413 27 Göteborg, Sweden",
     "phone": "+4631241023"
   },
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 424,
-    "name": "Arken Hotel \u0026 Art Garden Spa",
+    "name": "Arken Hotel & Art Garden Spa",
     "address": "Odinsgatan 6, 411 03 Göteborg, Sweden",
     "phone": "+46317452200"
   },
@@ -2623,7 +2623,7 @@
   },
   {
     "id": 438,
-    "name": "Sillvik J\u0026C Hugosson Torslanda",
+    "name": "Sillvik J&C Hugosson Torslanda",
     "address": "Olskroksgatan 23, 416 66 Göteborg, Sweden",
     "phone": "+46317075000"
   },
@@ -2653,7 +2653,7 @@
   },
   {
     "id": 443,
-    "name": "Lisebergsbyn's Bed \u0026 Breakfast",
+    "name": "Lisebergsbyn's Bed & Breakfast",
     "address": "Skeppsbroplatsen 1, 411 21 Göteborg, Sweden",
     "phone": "+46317522800"
   },
@@ -2689,7 +2689,7 @@
   },
   {
     "id": 449,
-    "name": "Nolvik Hotell \u0026 Konferens AB",
+    "name": "Nolvik Hotell & Konferens AB",
     "address": "Drakegatan 10, 412 50 Göteborg, Sweden",
     "phone": "+46313504410"
   },
@@ -2737,7 +2737,7 @@
   },
   {
     "id": 457,
-    "name": "SK Mat \u0026 Människor",
+    "name": "SK Mat & Människor",
     "address": "Barnhusgatan 2, 411 02 Göteborg, Sweden",
     "phone": "+4631155561"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "id": 479,
-    "name": "Södra Larm Bar \u0026 Bistro",
+    "name": "Södra Larm Bar & Bistro",
     "address": "Stora Badhusgatan 30, 411 21 Göteborg, Sweden",
     "phone": "+4631132680"
   },
@@ -2887,7 +2887,7 @@
   },
   {
     "id": 482,
-    "name": "Restaurang \u0026 Vinbaren 28+",
+    "name": "Restaurang & Vinbaren 28+",
     "address": "Prinsgatan 7, 413 05 Göteborg, Sweden",
     "phone": "+4631143110"
   },
@@ -2905,7 +2905,7 @@
   },
   {
     "id": 485,
-    "name": "View Skybar \u0026 Restaurant",
+    "name": "View Skybar & Restaurant",
     "address": "Oskarsgatan 4, 414 63 Göteborg, Sweden",
     "phone": "+46707500541"
   },
@@ -2935,7 +2935,7 @@
   },
   {
     "id": 490,
-    "name": "Restaurang \u0026 Bar Avalon",
+    "name": "Restaurang & Bar Avalon",
     "address": "Magasinsgatan 17, 411 18 Göteborg, Sweden",
     "phone": "+46735259846"
   },
@@ -3031,7 +3031,7 @@
   },
   {
     "id": 506,
-    "name": "Annapurna Nepalese Restaurang \u0026 Bar Pustervik",
+    "name": "Annapurna Nepalese Restaurang & Bar Pustervik",
     "address": "Karl Johansgatan 11, 414 59 Göteborg, Sweden",
     "phone": "+4631131323"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "Berzelius Bar \u0026 Matsal",
+    "name": "Berzelius Bar & Matsal",
     "address": "Viktoriagatan 12, 411 25 Göteborg, Sweden",
     "phone": "+46317017979"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "id": 546,
-    "name": "Salsa \u0026 Salsa",
+    "name": "Salsa & Salsa",
     "address": "Första Långgatan 30, 413 27 Göteborg, Sweden",
     "phone": "+4631121011"
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "id": 581,
-    "name": "Steen \u0026 Ström Holding AB",
+    "name": "Steen & Ström Holding AB",
     "address": "Backavägen 2, 417 05 Göteborg, Sweden",
     "phone": ""
   },
@@ -3595,7 +3595,7 @@
   },
   {
     "id": 600,
-    "name": "Maritime Museum \u0026 Aquarium",
+    "name": "Maritime Museum & Aquarium",
     "address": "Nya Bergets Väg 50, 417 46 Göteborg, Sweden",
     "phone": "+4631558300"
   },
@@ -3841,7 +3841,7 @@
   },
   {
     "id": 641,
-    "name": "Rut \u0026 Ragnars Hostel AB",
+    "name": "Rut & Ragnars Hostel AB",
     "address": "Rönngatan 1, 211 47 Malmö, Sweden",
     "phone": "+46406551300"
   },
@@ -3853,7 +3853,7 @@
   },
   {
     "id": 643,
-    "name": "Kungsgatans Gryta \u0026 Hotell",
+    "name": "Kungsgatans Gryta & Hotell",
     "address": "Stora Nygatan 35, 211 37 Malmö, Sweden",
     "phone": "+46406934600"
   },
@@ -3919,13 +3919,13 @@
   },
   {
     "id": 654,
-    "name": "E\u0026M Vandrarhem",
+    "name": "E&M Vandrarhem",
     "address": "Gustav Adolfs torg 49, 211 39 Malmö, Sweden",
     "phone": "+46406644870"
   },
   {
     "id": 655,
-    "name": "E \u0026 M Palats 1 AB",
+    "name": "E & M Palats 1 AB",
     "address": "Sjömansgatan 2, 211 11 Malmö, Sweden",
     "phone": "+46406286000"
   },
@@ -4093,7 +4093,7 @@
   },
   {
     "id": 683,
-    "name": "KOL \u0026 Cocktails",
+    "name": "KOL & Cocktails",
     "address": "Davidshallstorg 3, 211 45 Malmö, Sweden",
     "phone": "+4640928898"
   },
@@ -4117,7 +4117,7 @@
   },
   {
     "id": 687,
-    "name": "Kitchen \u0026 Table Malmö",
+    "name": "Kitchen & Table Malmö",
     "address": "Bergsgatan 15A, 211 54 Malmö, Sweden",
     "phone": "+46734946630"
   },
@@ -4153,7 +4153,7 @@
   },
   {
     "id": 693,
-    "name": "Mando Steakhouse \u0026 Bar",
+    "name": "Mando Steakhouse & Bar",
     "address": "Engelbrektsgatan 2, 211 33 Malmö, Sweden",
     "phone": ""
   },
@@ -4273,7 +4273,7 @@
   },
   {
     "id": 713,
-    "name": "Sea Side Restaurant \u0026 Bar",
+    "name": "Sea Side Restaurant & Bar",
     "address": "Bergsgatan 29, 211 53 Malmö, Sweden",
     "phone": "+4640292944"
   },
@@ -4285,7 +4285,7 @@
   },
   {
     "id": 715,
-    "name": "Linnea \u0026 Basilika Värnhem Malmö",
+    "name": "Linnea & Basilika Värnhem Malmö",
     "address": "Scaniaplatsen 2A, 211 17 Malmö, Sweden",
     "phone": "+4640445251"
   },
@@ -4321,7 +4321,7 @@
   },
   {
     "id": 721,
-    "name": "T-Rex Restaurant \u0026 Dino Lekland",
+    "name": "T-Rex Restaurant & Dino Lekland",
     "address": "Grimsbygatan 24, 211 20 Malmö, Sweden",
     "phone": "+46706518426"
   },
@@ -4423,7 +4423,7 @@
   },
   {
     "id": 738,
-    "name": "Broderstugan Kök \u0026 Bar",
+    "name": "Broderstugan Kök & Bar",
     "address": "Östra Tullgatan 7, 211 28 Malmö, Sweden",
     "phone": "+4640232073"
   },
@@ -5107,7 +5107,7 @@
   },
   {
     "id": 852,
-    "name": "Viktoria Hotell \u0026 Konferens",
+    "name": "Viktoria Hotell & Konferens",
     "address": "Idrottsgatan 2, 753 33 Uppsala, Sweden",
     "phone": "+46187274960"
   },
@@ -5149,7 +5149,7 @@
   },
   {
     "id": 859,
-    "name": "Selma's cabin \u0026 salon",
+    "name": "Selma's cabin & salon",
     "address": "Palmbladsgatan 5, 754 50 Uppsala, Sweden",
     "phone": "+46812888880"
   },
@@ -5215,7 +5215,7 @@
   },
   {
     "id": 870,
-    "name": "Hågadalens Hostel \u0026 Vandrarhem",
+    "name": "Hågadalens Hostel & Vandrarhem",
     "address": "von Kraemers allé 26, 752 37 Uppsala, Sweden",
     "phone": "+46184959900"
   },
@@ -5239,7 +5239,7 @@
   },
   {
     "id": 874,
-    "name": "Dryck \u0026 Mat",
+    "name": "Dryck & Mat",
     "address": "S 10, 753 20 Uppsala, Sweden",
     "phone": "+4618150155"
   },
@@ -5257,7 +5257,7 @@
   },
   {
     "id": 877,
-    "name": "Kitchen \u0026 Table Uppsala",
+    "name": "Kitchen & Table Uppsala",
     "address": "S:t Eriks torg 8, 753 10 Uppsala, Sweden",
     "phone": "+4618150151"
   },
@@ -5275,7 +5275,7 @@
   },
   {
     "id": 880,
-    "name": "Iberico Tapas \u0026 Bar",
+    "name": "Iberico Tapas & Bar",
     "address": "Fyristorg 8, 753 10 Uppsala, Sweden",
     "phone": "+4618150531"
   },
@@ -5341,7 +5341,7 @@
   },
   {
     "id": 891,
-    "name": "EAT Social Dining \u0026 Lounge",
+    "name": "EAT Social Dining & Lounge",
     "address": "Sysslomansgatan 24, 752 23 Uppsala, Sweden",
     "phone": "+4618556500"
   },
@@ -5365,13 +5365,13 @@
   },
   {
     "id": 895,
-    "name": "Naan \u0026 Chili",
+    "name": "Naan & Chili",
     "address": "Svartbäcksgatan 14, 753 20 Uppsala, Sweden",
     "phone": "+4618135311"
   },
   {
     "id": 896,
-    "name": "Uppströms Fisk \u0026 Skaldjur",
+    "name": "Uppströms Fisk & Skaldjur",
     "address": "S:t Olofsgatan 35, 753 30 Uppsala, Sweden",
     "phone": "+46734483404"
   },
@@ -5509,7 +5509,7 @@
   },
   {
     "id": 919,
-    "name": "Borgen Restaurang \u0026 Festsalar Uppsala",
+    "name": "Borgen Restaurang & Festsalar Uppsala",
     "address": "Bredgränd 14, 753 20 Uppsala, Sweden",
     "phone": "+4618153012"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "id": 931,
-    "name": "GinnDee Sushi \u0026 Wok",
+    "name": "GinnDee Sushi & Wok",
     "address": "Dragarbrunnsgatan 43A, 753 20 Uppsala, Sweden",
     "phone": "+4618108263"
   },
@@ -5617,7 +5617,7 @@
   },
   {
     "id": 937,
-    "name": "Boquerone Tapar \u0026 Bar",
+    "name": "Boquerone Tapar & Bar",
     "address": "Orphei Drängars plats 1, 753 11 Uppsala, Sweden",
     "phone": "+4618142120"
   },
@@ -5695,7 +5695,7 @@
   },
   {
     "id": 950,
-    "name": "Uppsala Mat \u0026 Drama AB",
+    "name": "Uppsala Mat & Drama AB",
     "address": "Dragarbrunnsgatan 50, 753 20 Uppsala, Sweden",
     "phone": "+46840911505"
   },
@@ -6037,7 +6037,7 @@
   },
   {
     "id": 1007,
-    "name": "Sure Hotel Studio Esplanade Rooms \u0026 Longstay",
+    "name": "Sure Hotel Studio Esplanade Rooms & Longstay",
     "address": "Vasagatan 22, 722 15 Västerås, Sweden",
     "phone": "+4621180330"
   },
@@ -6055,7 +6055,7 @@
   },
   {
     "id": 1010,
-    "name": "Valsaren AB Restaurang \u0026 Hotell",
+    "name": "Valsaren AB Restaurang & Hotell",
     "address": "Stora Torget 7, 721 03 Västerås, Sweden",
     "phone": "+4621102800"
   },
@@ -6139,7 +6139,7 @@
   },
   {
     "id": 1024,
-    "name": "Katrinelunds Bed \u0026 Breakfast",
+    "name": "Katrinelunds Bed & Breakfast",
     "address": "Johannisbergsvägen, 725 91 Västerås, Sweden",
     "phone": "+4621140279"
   },
@@ -6193,7 +6193,7 @@
   },
   {
     "id": 1033,
-    "name": "GREKISKA grill \u0026 bar",
+    "name": "GREKISKA grill & bar",
     "address": "Mälargatan 6D, 722 10 Västerås, Sweden",
     "phone": "+4621125950"
   },
@@ -6283,7 +6283,7 @@
   },
   {
     "id": 1048,
-    "name": "YumYum i City - Asiatisk restaurang \u0026 Sushi Västerås",
+    "name": "YumYum i City - Asiatisk restaurang & Sushi Västerås",
     "address": "Kopparbergsvägen 23, 722 13 Västerås, Sweden",
     "phone": "+4621419955"
   },
@@ -6427,7 +6427,7 @@
   },
   {
     "id": 1072,
-    "name": "Adam \u0026 Oliver",
+    "name": "Adam & Oliver",
     "address": "Torggatan 1, 722 15 Västerås, Sweden",
     "phone": "+4621131130"
   },
@@ -6445,7 +6445,7 @@
   },
   {
     "id": 1075,
-    "name": "Smedjan Kök \u0026 Bar i Västerås",
+    "name": "Smedjan Kök & Bar i Västerås",
     "address": "Sturegatan 7, 722 13 Västerås, Sweden",
     "phone": "+46213380346"
   },
@@ -6493,7 +6493,7 @@
   },
   {
     "id": 1083,
-    "name": "Storagatans Pizza \u0026 Grill",
+    "name": "Storagatans Pizza & Grill",
     "address": "Smedjegatan 2, 722 13 Västerås, Sweden",
     "phone": "+4621148280"
   },
@@ -6727,7 +6727,7 @@
   },
   {
     "id": 1122,
-    "name": "Baladna restaurang \u0026 cafe",
+    "name": "Baladna restaurang & cafe",
     "address": "Stora Gatan 36A, 722 12 Västerås, Sweden",
     "phone": "+4621129190"
   },

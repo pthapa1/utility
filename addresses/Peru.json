@@ -25,7 +25,7 @@
   },
   {
     "id": 5,
-    "name": "Selina Miraflores Lima \u0026 Cowork",
+    "name": "Selina Miraflores Lima & Cowork",
     "address": "Mal. 28 de Julio 385, Miraflores 15074, Peru",
     "phone": "2838515074"
   },
@@ -169,7 +169,7 @@
   },
   {
     "id": 29,
-    "name": "Westin Lima Hotel \u0026 Convention Center",
+    "name": "Westin Lima Hotel & Convention Center",
     "address": "Ca. Los Eucaliptos 555, San Isidro 15076, Peru",
     "phone": "55515076"
   },
@@ -181,7 +181,7 @@
   },
   {
     "id": 31,
-    "name": "Roosevelt Hotel \u0026 Suites",
+    "name": "Roosevelt Hotel & Suites",
     "address": "frente al Parking del Country Club de La Unión, Jirón Callao 125, Lima 07016, Peru",
     "phone": "12507016"
   },
@@ -253,7 +253,7 @@
   },
   {
     "id": 43,
-    "name": "Sol de Oro Hotel \u0026 Suites",
+    "name": "Sol de Oro Hotel & Suites",
     "address": "Av. Augusto Pérez Araníbar 1147, San Isidro 15076, Peru",
     "phone": "114715076"
   },
@@ -313,7 +313,7 @@
   },
   {
     "id": 53,
-    "name": "El Condado Miraflores Apart \u0026 Suites",
+    "name": "El Condado Miraflores Apart & Suites",
     "address": "Av. la Paz 730, Miraflores 15074, Peru",
     "phone": "73015074"
   },
@@ -463,7 +463,7 @@
   },
   {
     "id": 78,
-    "name": "Los Tallanes Hotel \u0026 Suites",
+    "name": "Los Tallanes Hotel & Suites",
     "address": "Jr. Cuzco 145, Lima 15001, Peru",
     "phone": "14515001"
   },
@@ -487,7 +487,7 @@
   },
   {
     "id": 82,
-    "name": "Lima Central Design Hotel Spa \u0026 Club",
+    "name": "Lima Central Design Hotel Spa & Club",
     "address": "Calle Bolívar 210, Miraflores 15074, Peru",
     "phone": "21015074"
   },
@@ -523,7 +523,7 @@
   },
   {
     "id": 88,
-    "name": "Andesmar Hotel \u0026 Suites",
+    "name": "Andesmar Hotel & Suites",
     "address": "Av. Gral. Salaverry 3010, San Isidro 15076, Peru",
     "phone": "301015076"
   },
@@ -565,7 +565,7 @@
   },
   {
     "id": 95,
-    "name": "Delfines Hotel \u0026 Convention Center",
+    "name": "Delfines Hotel & Convention Center",
     "address": "Av. Elmer Faucett SN, Lima 07031, Peru",
     "phone": "+5117112000"
   },
@@ -841,7 +841,7 @@
   },
   {
     "id": 141,
-    "name": "Social Restaurant \u0026 Bar",
+    "name": "Social Restaurant & Bar",
     "address": "Jirón Ayacucho 833, Lima 15086, Peru",
     "phone": "83315086"
   },
@@ -871,7 +871,7 @@
   },
   {
     "id": 146,
-    "name": "La Plaza Bar \u0026 Grill",
+    "name": "La Plaza Bar & Grill",
     "address": "Av. la Paz 463, Miraflores 15074, Peru",
     "phone": "46315074"
   },
@@ -1478,7 +1478,7 @@
   {
     "id": 247,
     "name": "Vía Mix Colonial",
-    "address": "Av. Óscar R. Benavides \u0026, Av. Nicolás Dueñas, Lima 15081, Peru",
+    "address": "Av. Óscar R. Benavides &, Av. Nicolás Dueñas, Lima 15081, Peru",
     "phone": ""
   },
   {
@@ -1807,7 +1807,7 @@
   },
   {
     "id": 302,
-    "name": "Exquisito Perú - Food Tours in Lima, Arequipa \u0026 Cusco",
+    "name": "Exquisito Perú - Food Tours in Lima, Arequipa & Cusco",
     "address": "Jirón Ucayali 363, Lima 15001, Peru",
     "phone": "36315001"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "id": 370,
-    "name": "Barranco\u0026Chorrillos Free Walking Tour",
+    "name": "Barranco&Chorrillos Free Walking Tour",
     "address": "Mal. Cisneros 4013, Miraflores 15074, Peru",
     "phone": "401315074"
   },
@@ -2311,7 +2311,7 @@
   },
   {
     "id": 386,
-    "name": "Exquisito Perú - Food Tours in Lima, Arequipa \u0026 Cusco",
+    "name": "Exquisito Perú - Food Tours in Lima, Arequipa & Cusco",
     "address": "C. Pl. Bolívar, Pueblo Libre 15084, Peru",
     "phone": "+5113215630"
   },
@@ -2359,7 +2359,7 @@
   },
   {
     "id": 394,
-    "name": "CIRQA - Relais \u0026 Châteaux",
+    "name": "CIRQA - Relais & Châteaux",
     "address": "C. Jerusalén 300-C, Arequipa 04001, Peru",
     "phone": "30004001"
   },
@@ -2863,7 +2863,7 @@
   },
   {
     "id": 478,
-    "name": "LOS ANDES BED \u0026 BREAKFAST",
+    "name": "LOS ANDES BED & BREAKFAST",
     "address": "C. Bolivar 405 - 407, Arequipa 04001, Peru",
     "phone": "40540704001"
   },
@@ -3001,7 +3001,7 @@
   },
   {
     "id": 501,
-    "name": "La Plaza Bar \u0026 Grill",
+    "name": "La Plaza Bar & Grill",
     "address": "Plaza de Armas, 115-A, Portal de San Agustín 131 A, Cercado De Arequipa 04001, Peru",
     "phone": "11513104001"
   },
@@ -3169,7 +3169,7 @@
   },
   {
     "id": 529,
-    "name": "RESTAURANTE \u0026 CAFE WAYRANA",
+    "name": "RESTAURANTE & CAFE WAYRANA",
     "address": "León Velarde 213, Arequipa 04000, Peru",
     "phone": "21304000"
   },
@@ -3301,7 +3301,7 @@
   },
   {
     "id": 551,
-    "name": "Corte Azul Rest.\u0026 Asados",
+    "name": "Corte Azul Rest.& Asados",
     "address": "Santa Catalina 206, Arequipa 04001, Peru",
     "phone": "20604001"
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "id": 554,
-    "name": "Asados \u0026 Vinos Restaurante",
+    "name": "Asados & Vinos Restaurante",
     "address": "C. Zela 200 B, Arequipa 04000, Peru",
     "phone": "20004000"
   },
@@ -3439,7 +3439,7 @@
   },
   {
     "id": 574,
-    "name": "Cafe \u0026 Vino Winebar",
+    "name": "Cafe & Vino Winebar",
     "address": "Cjón. del Cabildo 100, Yanahuara 04017, Peru",
     "phone": "10004017"
   },
@@ -3505,13 +3505,13 @@
   },
   {
     "id": 585,
-    "name": "Leprechaun Food \u0026 Beverage",
+    "name": "Leprechaun Food & Beverage",
     "address": "Plazuela Bolívar s/n, Urb. Selva Alegre, Arequipa, Arequipa, Peru",
     "phone": "+51542151106565"
   },
   {
     "id": 586,
-    "name": "Amaretto Pizza, Grill \u0026 Drinks",
+    "name": "Amaretto Pizza, Grill & Drinks",
     "address": "C. Álvarez Thomas 211a, Arequipa 04001, Peru",
     "phone": "21104001"
   },
@@ -3919,7 +3919,7 @@
   },
   {
     "id": 654,
-    "name": "Moda \u0026 Estilo",
+    "name": "Moda & Estilo",
     "address": "C. Deán Valdivia, Cercado De Arequipa 04001, Peru",
     "phone": ""
   },
@@ -4382,7 +4382,7 @@
   {
     "id": 731,
     "name": "Misti",
-    "address": "Av. Simón Bolívar\u0026, Chancay, Arequipa 04006, Peru",
+    "address": "Av. Simón Bolívar&, Chancay, Arequipa 04006, Peru",
     "phone": ""
   },
   {
@@ -4435,7 +4435,7 @@
   },
   {
     "id": 740,
-    "name": "CIRQA - Relais \u0026 Châteaux",
+    "name": "CIRQA - Relais & Châteaux",
     "address": "Melgar 119, Arequipa 04001, Peru",
     "phone": "11904001"
   },
@@ -4616,7 +4616,7 @@
   {
     "id": 770,
     "name": "Hotel El Gran Marques",
-    "address": "Santo Toribio de Mogrovejo \u0026, San Martín de Porres 204, Trujillo 13008, Peru",
+    "address": "Santo Toribio de Mogrovejo &, San Martín de Porres 204, Trujillo 13008, Peru",
     "phone": "20413008"
   },
   {
@@ -4795,7 +4795,7 @@
   },
   {
     "id": 800,
-    "name": "Jultom Inn Hotel \u0026 Suites",
+    "name": "Jultom Inn Hotel & Suites",
     "address": "Moscú 393, Trujillo 13011, Peru",
     "phone": "39313011"
   },
@@ -5017,7 +5017,7 @@
   },
   {
     "id": 837,
-    "name": "Apartments \u0026 Rooms Helena",
+    "name": "Apartments & Rooms Helena",
     "address": "Calle Victor Fajardo 411 Urb. Santa María, Victor Fajardo 411, Trujillo 13007, Peru",
     "phone": "41141113007"
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "id": 840,
-    "name": "Las Begonias B \u0026 B",
+    "name": "Las Begonias B & B",
     "address": "Jirón Bolivar 355, Trujillo 13001, Peru",
     "phone": "35513001"
   },
@@ -5846,12 +5846,12 @@
   {
     "id": 975,
     "name": "Spring Shopping Center",
-    "address": "Fundo Las Casuarinas, Sub Lote predio A; Intersección \u0026, Av. Fátima 1345, Trujillo 13008, Peru",
+    "address": "Fundo Las Casuarinas, Sub Lote predio A; Intersección &, Av. Fátima 1345, Trujillo 13008, Peru",
     "phone": "134513008"
   },
   {
     "id": 976,
-    "name": "C\u0026M Trujillo",
+    "name": "C&M Trujillo",
     "address": "Av. América Oeste N° 750 Urb. El Ingenio Local N° LS 02 / LS03 - Trujillo, Trujillo 13007, Peru",
     "phone": "750020313007"
   },
@@ -6133,7 +6133,7 @@
   },
   {
     "id": 1023,
-    "name": "M\u0026S Importaciones",
+    "name": "M&S Importaciones",
     "address": "Jr. Grau 760, Trujillo 13001, Peru",
     "phone": "76013001"
   },
@@ -6973,7 +6973,7 @@
   },
   {
     "id": 1163,
-    "name": "Villa Real Hotel \u0026 Suites",
+    "name": "Villa Real Hotel & Suites",
     "address": "7 de Enero 1368, Chiclayo 14001, Peru",
     "phone": "7136814001"
   },
@@ -7255,7 +7255,7 @@
   },
   {
     "id": 1210,
-    "name": "La Plaza Bar \u0026 Grill",
+    "name": "La Plaza Bar & Grill",
     "address": "Costa del Sol Windham, Av. José Balta 399, Chiclayo 14001, Peru",
     "phone": "39914001"
   },
@@ -7297,7 +7297,7 @@
   },
   {
     "id": 1217,
-    "name": "Hebrón Restaurant \u0026 Grill",
+    "name": "Hebrón Restaurant & Grill",
     "address": "Av. José Balta N° 1320, Chiclayo 14001, Peru",
     "phone": "132014001"
   },
@@ -7489,7 +7489,7 @@
   },
   {
     "id": 1249,
-    "name": "LOCHE \u0026 AJI- COCINA NORTEÑA",
+    "name": "LOCHE & AJI- COCINA NORTEÑA",
     "address": "Oyotún 188, Villa, Chiclayo 14001, Peru",
     "phone": "18814001"
   },
@@ -7856,7 +7856,7 @@
   {
     "id": 1310,
     "name": "Open Plaza Chiclayo",
-    "address": "Av. Manuel Pardo \u0026, Nicolás Cuglievan, Chiclayo 14001, Peru",
+    "address": "Av. Manuel Pardo &, Nicolás Cuglievan, Chiclayo 14001, Peru",
     "phone": ""
   },
   {
@@ -8851,7 +8851,7 @@
   },
   {
     "id": 1476,
-    "name": "L'Ancora Grill \u0026 Lounge",
+    "name": "L'Ancora Grill & Lounge",
     "address": "Ca. Tacna 853, Piura 20004, Peru",
     "phone": "85320004"
   },
@@ -8881,7 +8881,7 @@
   },
   {
     "id": 1481,
-    "name": "El Estadio Restaurant \u0026 Cevichería",
+    "name": "El Estadio Restaurant & Cevichería",
     "address": "Piura 20009, Peru",
     "phone": "+51968695225"
   },
@@ -9205,7 +9205,7 @@
   },
   {
     "id": 1535,
-    "name": "La Baguettería \u0026 Delicatezze",
+    "name": "La Baguettería & Delicatezze",
     "address": "Jr. Arequipa 788, Piura 20001, Peru",
     "phone": "78820001"
   },
@@ -9380,7 +9380,7 @@
   {
     "id": 1564,
     "name": "Plaza del Sol Piura Centro",
-    "address": "Avenida Sullana \u0026, Blas De Atienza, Piura 20001, Peru",
+    "address": "Avenida Sullana &, Blas De Atienza, Piura 20001, Peru",
     "phone": "+51968998844"
   },
   {

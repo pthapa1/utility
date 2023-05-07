@@ -49,13 +49,13 @@
   },
   {
     "id": 9,
-    "name": "Sunset Reef Resort \u0026 Spa Hotel",
+    "name": "Sunset Reef Resort & Spa Hotel",
     "address": "B36, Trou-aux-Biches, Mauritius",
     "phone": ""
   },
   {
     "id": 10,
-    "name": "The Westin Turtle Bay Resort \u0026 Spa, Mauritius",
+    "name": "The Westin Turtle Bay Resort & Spa, Mauritius",
     "address": "Chemin 20 Pieds, Grand Baie, Mauritius",
     "phone": "+2302632216"
   },
@@ -79,7 +79,7 @@
   },
   {
     "id": 14,
-    "name": "Le Jadis Beach Resort \u0026 Wellness Mauritius",
+    "name": "Le Jadis Beach Resort & Wellness Mauritius",
     "address": "Allamanda st, Macumba Ln, Cap Malheureux, Mauritius",
     "phone": "+23054773900"
   },
@@ -97,7 +97,7 @@
   },
   {
     "id": 17,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "School road morcellement boucan, Grand Baie 30529, Mauritius",
     "phone": "+23057137878"
   },
@@ -115,7 +115,7 @@
   },
   {
     "id": 20,
-    "name": "Canonnier Beachcomber Golf Resort \u0026 Spa",
+    "name": "Canonnier Beachcomber Golf Resort & Spa",
     "address": "Ave Des Flamingos, Flic en Flac, Mauritius",
     "phone": "+23052553560"
   },
@@ -127,13 +127,13 @@
   },
   {
     "id": 22,
-    "name": "Victoria Beachcomber Resort \u0026 Spa",
+    "name": "Victoria Beachcomber Resort & Spa",
     "address": "Coastal Road, Trou-aux-Biches, Mauritius",
     "phone": "+2302655812"
   },
   {
     "id": 23,
-    "name": "Maritim Resort \u0026 Spa Mauritius",
+    "name": "Maritim Resort & Spa Mauritius",
     "address": "6 Avenue Des Colombes, Flic en Flac, Mauritius",
     "phone": "+23052529153"
   },
@@ -175,7 +175,7 @@
   },
   {
     "id": 30,
-    "name": "Aanari Hotel \u0026 Spa",
+    "name": "Aanari Hotel & Spa",
     "address": "A3, Grande Riviere Noire, Mauritius",
     "phone": ""
   },
@@ -193,7 +193,7 @@
   },
   {
     "id": 33,
-    "name": "Veranda Paul et Virginie Hotel \u0026 Spa",
+    "name": "Veranda Paul et Virginie Hotel & Spa",
     "address": "Mont Choisy, Trou-aux-Biches, Mauritius",
     "phone": "+2302606700"
   },
@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "MU, Coastal Road, Trou-aux-Biches 22321, Mauritius",
     "phone": "+2302656356"
   },
@@ -259,19 +259,19 @@
   },
   {
     "id": 44,
-    "name": "Sofitel Mauritius L'Impérial Resort \u0026 Spa",
+    "name": "Sofitel Mauritius L'Impérial Resort & Spa",
     "address": "Coastal Road - Mauritius Islands, Mauritius Islands, Mauritius",
     "phone": "+2304538550"
   },
   {
     "id": 45,
-    "name": "Sands Suites Resort \u0026 Spa",
+    "name": "Sands Suites Resort & Spa",
     "address": "B35 Royal Road MU, Pointe aux Piments 21306, Mauritius",
     "phone": "+23057584618"
   },
   {
     "id": 46,
-    "name": "Tamarina Golf \u0026 Spa Boutique Hotel",
+    "name": "Tamarina Golf & Spa Boutique Hotel",
     "address": "57a Madad ul Islam St, Port Louis, Mauritius",
     "phone": "+23057329786"
   },
@@ -289,7 +289,7 @@
   },
   {
     "id": 49,
-    "name": "Trou aux Biches Beachcomber Golf Resort \u0026 Spa",
+    "name": "Trou aux Biches Beachcomber Golf Resort & Spa",
     "address": "Mahatma Gandhi Road, Pointe aux Piments, Mauritius",
     "phone": "+23052560270"
   },
@@ -367,7 +367,7 @@
   },
   {
     "id": 62,
-    "name": "Hotel 20 Degrés Sud - Relais \u0026 Châteaux",
+    "name": "Hotel 20 Degrés Sud - Relais & Châteaux",
     "address": "Reduit Triangle, MU, 80813, Mauritius",
     "phone": "+2304609090"
   },
@@ -385,7 +385,7 @@
   },
   {
     "id": 65,
-    "name": "Mauricia Beachcomber Resort \u0026 Spa",
+    "name": "Mauricia Beachcomber Resort & Spa",
     "address": "Coastal Rd, Pointe aux Biches, Mauritius",
     "phone": "+2302656507"
   },
@@ -415,7 +415,7 @@
   },
   {
     "id": 70,
-    "name": "Le Palmiste Resort \u0026 Spa",
+    "name": "Le Palmiste Resort & Spa",
     "address": "MU, Coastal Road, Grand Gaube 30617, Mauritius",
     "phone": "+2302049191"
   },
@@ -530,7 +530,7 @@
   {
     "id": 89,
     "name": "Le Courtyard Restaurant",
-    "address": "Angle Route Royale \u0026 Rue Corderie Corderie St, Port Louis, Mauritius",
+    "address": "Angle Route Royale & Rue Corderie Corderie St, Port Louis, Mauritius",
     "phone": "+2302119898"
   },
   {
@@ -632,7 +632,7 @@
   {
     "id": 106,
     "name": "Le café de l’atelier",
-    "address": "Kinoo Square, Corner Farquhar St. \u0026 Dr, Dr Joseph Riviere Street, Port Louis, Mauritius",
+    "address": "Kinoo Square, Corner Farquhar St. & Dr, Dr Joseph Riviere Street, Port Louis, Mauritius",
     "phone": "+23057815334"
   },
   {
@@ -769,7 +769,7 @@
   },
   {
     "id": 129,
-    "name": "Sen \u0026 Ken Restaurant",
+    "name": "Sen & Ken Restaurant",
     "address": "Sir William Newton St, Port Louis, Mauritius",
     "phone": "+2302142959"
   },
@@ -853,7 +853,7 @@
   },
   {
     "id": 143,
-    "name": "Elizabeth Pizza \u0026 Pasta",
+    "name": "Elizabeth Pizza & Pasta",
     "address": "Sir Célicourt Antelme St, Port Louis, Mauritius",
     "phone": "+23058307160"
   },
@@ -925,7 +925,7 @@
   },
   {
     "id": 155,
-    "name": "Shanghai Garden (Fast Food \u0026 Restaurant)",
+    "name": "Shanghai Garden (Fast Food & Restaurant)",
     "address": "Face Saint Louis Cathedral Church, Lislet Geoffrey St, Port Louis, Mauritius",
     "phone": "+2302142240"
   },
@@ -1028,7 +1028,7 @@
   {
     "id": 172,
     "name": "Boulette , Mine and Riz Frite",
-    "address": "Shop 2, 3 \u0026 4, MU, Edith Cavell St, 11201, Mauritius",
+    "address": "Shop 2, 3 & 4, MU, Edith Cavell St, 11201, Mauritius",
     "phone": "23411201"
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "id": 179,
     "name": "Le chevalier",
-    "address": "Kinoo Square, Corner Farquhar St. \u0026 Dr., Dr Joseph Riviere Street, Port Louis, Mauritius",
+    "address": "Kinoo Square, Corner Farquhar St. & Dr., Dr Joseph Riviere Street, Port Louis, Mauritius",
     "phone": "+2302170701"
   },
   {
@@ -1208,12 +1208,12 @@
   {
     "id": 202,
     "name": "Coconut Oil",
-    "address": "corner \u0026 Streets,, Sir Seewoosagur Ramgoolam St, Port Louis, Mauritius",
+    "address": "corner & Streets,, Sir Seewoosagur Ramgoolam St, Port Louis, Mauritius",
     "phone": ""
   },
   {
     "id": 203,
-    "name": "Munir \u0026 Sons. Co Ltd",
+    "name": "Munir & Sons. Co Ltd",
     "address": "37 Dr Hassen Sakir St (ex Pagoda), Port Louis, Mauritius",
     "phone": "+2302173450"
   },
@@ -1304,7 +1304,7 @@
   {
     "id": 218,
     "name": "Arshiya Fashion",
-    "address": "Paul \u0026 Virginie St, Port Louis, Mauritius",
+    "address": "Paul & Virginie St, Port Louis, Mauritius",
     "phone": "+23057310396"
   },
   {
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 265,
-    "name": "The Westin Turtle Bay Resort \u0026 Spa, Mauritius",
+    "name": "The Westin Turtle Bay Resort & Spa, Mauritius",
     "address": "12 Bigaignon Ln, Quatre Bornes, Mauritius",
     "phone": "+2304251371"
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 267,
-    "name": "Le Suffren Hotel \u0026 Marina",
+    "name": "Le Suffren Hotel & Marina",
     "address": "B38, Pointe aux Biches, Mauritius",
     "phone": "+2302042800"
   },
@@ -1609,25 +1609,25 @@
   },
   {
     "id": 269,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304538880"
   },
   {
     "id": 270,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "MU, Royal Road, Pointe aux Biches 22310, Mauritius",
     "phone": "+2302655901"
   },
   {
     "id": 271,
-    "name": "Le Jadis Beach Resort \u0026 Wellness Mauritius",
+    "name": "Le Jadis Beach Resort & Wellness Mauritius",
     "address": "Avenue Les Cocotiers, Black River, Mauritius",
     "phone": "+2304837042"
   },
   {
     "id": 272,
-    "name": "Tamarina Golf \u0026 Spa Boutique Hotel",
+    "name": "Tamarina Golf & Spa Boutique Hotel",
     "address": "Villa Alizee Morcellement Beau Rivage MU, Tombeau Bay 21710, Mauritius",
     "phone": "+23059415467"
   },
@@ -1639,31 +1639,31 @@
   },
   {
     "id": 274,
-    "name": "Sands Suites Resort \u0026 Spa",
+    "name": "Sands Suites Resort & Spa",
     "address": "Le Bocage Road, Moka, Mauritius",
     "phone": "+2304339881"
   },
   {
     "id": 275,
-    "name": "Sofitel Mauritius L'Impérial Resort \u0026 Spa",
+    "name": "Sofitel Mauritius L'Impérial Resort & Spa",
     "address": "Odette Ernest Ave, Quatre Bornes, Mauritius",
     "phone": "+2304275907"
   },
   {
     "id": 276,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Eureka Lane, Montagne Ory, Moka, Mauritius",
     "phone": "+2304338477"
   },
   {
     "id": 277,
-    "name": "Maritim Resort \u0026 Spa Mauritius",
+    "name": "Maritim Resort & Spa Mauritius",
     "address": "Klondike Rd, Flic en Flac, Mauritius",
     "phone": "+2304538333"
   },
   {
     "id": 278,
-    "name": "Sunset Reef Resort \u0026 Spa Hotel",
+    "name": "Sunset Reef Resort & Spa Hotel",
     "address": "Rue Du Conseil Municipal, Quatre Bornes, Mauritius",
     "phone": "+23052507104"
   },
@@ -1681,13 +1681,13 @@
   },
   {
     "id": 281,
-    "name": "Victoria Beachcomber Resort \u0026 Spa",
+    "name": "Victoria Beachcomber Resort & Spa",
     "address": "St Jean Road, Quatre Bornes, Mauritius",
     "phone": "+2304545945"
   },
   {
     "id": 282,
-    "name": "Aanari Hotel \u0026 Spa",
+    "name": "Aanari Hotel & Spa",
     "address": "En face de l'ambassade française, 19 St Georges St, Port Louis, Mauritius",
     "phone": "+2302112581"
   },
@@ -1873,13 +1873,13 @@
   },
   {
     "id": 313,
-    "name": "Green Discovery B\u0026B",
+    "name": "Green Discovery B&B",
     "address": "MU, Ave des Anthuriums, Tombeau Bay 21718, Mauritius",
     "phone": "+33749451799"
   },
   {
     "id": 314,
-    "name": "Hilton Mauritius Resort \u0026 Spa",
+    "name": "Hilton Mauritius Resort & Spa",
     "address": "Coastal Rd, Pointe aux Biches, Mauritius",
     "phone": "+2302656507"
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "id": 332,
-    "name": "Maradiva Villas Resort \u0026 Spa",
+    "name": "Maradiva Villas Resort & Spa",
     "address": "Espace Ceramic Homeware Shop, A1, 71 Royal Road, Quatre Bornes, Mauritius",
     "phone": "+2304648728"
   },
@@ -2011,7 +2011,7 @@
   },
   {
     "id": 336,
-    "name": "Anelia Resort \u0026 Spa Mauritius",
+    "name": "Anelia Resort & Spa Mauritius",
     "address": "Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304016300"
   },
@@ -2029,7 +2029,7 @@
   },
   {
     "id": 339,
-    "name": "Terroir des Baies Roses B\u0026B",
+    "name": "Terroir des Baies Roses B&B",
     "address": "Wolmar, MU, Flic en Flac 90517, Mauritius",
     "phone": "+2304538700"
   },
@@ -2053,7 +2053,7 @@
   },
   {
     "id": 343,
-    "name": "Anelia Villas \u0026 Spa",
+    "name": "Anelia Villas & Spa",
     "address": "P947+CCM Belle Beach, Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304016300"
   },
@@ -2095,13 +2095,13 @@
   },
   {
     "id": 350,
-    "name": "Spicy Jeff \u0026 Coco",
+    "name": "Spicy Jeff & Coco",
     "address": "MU, 22 De Rosnay Street, Beau Bassin-Rose Hill 71501, Mauritius",
     "phone": "+23059292928"
   },
   {
     "id": 351,
-    "name": "Acqua \u0026 Farina",
+    "name": "Acqua & Farina",
     "address": "Subramanien Bharati Road, Beau Bassin-Rose Hill, Mauritius",
     "phone": "+23058040687"
   },
@@ -2228,7 +2228,7 @@
   {
     "id": 372,
     "name": "Kelly Boulette",
-    "address": "Between CEB \u0026 Atrium, Corner, Sir Virgil Naz Street, Beau Bassin-Rose Hill, Mauritius",
+    "address": "Between CEB & Atrium, Corner, Sir Virgil Naz Street, Beau Bassin-Rose Hill, Mauritius",
     "phone": "+23052519930"
   },
   {
@@ -2365,7 +2365,7 @@
   },
   {
     "id": 395,
-    "name": "PapaRo Pizza\u0026Grill",
+    "name": "PapaRo Pizza&Grill",
     "address": "Colonel Maingard St, Beau Bassin-Rose Hill, Mauritius",
     "phone": ""
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "id": 411,
-    "name": "Huds burger \u0026 grill",
+    "name": "Huds burger & grill",
     "address": "BOUNDARY ROAD,ROSEHILL Near PATTEN BOYS COLLEGE BOUNDARY ROAD, Beau Bassin-Rose Hill, Mauritius",
     "phone": "+23052500020"
   },
@@ -2564,7 +2564,7 @@
   {
     "id": 428,
     "name": "Espace La Concorde",
-    "address": "Corner Hugnin \u0026, Prince of Wales St, Beau Bassin-Rose Hill, Mauritius",
+    "address": "Corner Hugnin &, Prince of Wales St, Beau Bassin-Rose Hill, Mauritius",
     "phone": ""
   },
   {
@@ -2606,7 +2606,7 @@
   {
     "id": 435,
     "name": "Jrc Trading",
-    "address": "Kinoo Square, Corner Farquhar St. \u0026 Dr., Dr Joseph Riviere Street, Port Louis, Mauritius",
+    "address": "Kinoo Square, Corner Farquhar St. & Dr., Dr Joseph Riviere Street, Port Louis, Mauritius",
     "phone": "+2302170701"
   },
   {
@@ -2678,7 +2678,7 @@
   {
     "id": 447,
     "name": "La City Trianon",
-    "address": "Paul \u0026 Virginie St, Port Louis, Mauritius",
+    "address": "Paul & Virginie St, Port Louis, Mauritius",
     "phone": "+23057310396"
   },
   {
@@ -3133,7 +3133,7 @@
   },
   {
     "id": 523,
-    "name": "SUP tours, lessons \u0026 rental",
+    "name": "SUP tours, lessons & rental",
     "address": "Banane, Cluny, Mauritius",
     "phone": "+23057328186"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "Green Discovery B\u0026B",
+    "name": "Green Discovery B&B",
     "address": "154, Port Louis, Mauritius",
     "phone": "+2302342035"
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "id": 536,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Jawaharlall Nehru Road (Ex Bassin Road), Quatre Bornes, Mauritius",
     "phone": "+23059117409"
   },
@@ -3223,13 +3223,13 @@
   },
   {
     "id": 538,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Jugnauth Ln, Quatre Bornes, Mauritius",
     "phone": "+2304249018"
   },
   {
     "id": 539,
-    "name": "Tamarina Golf \u0026 Spa Boutique Hotel",
+    "name": "Tamarina Golf & Spa Boutique Hotel",
     "address": "Rue La Marianne, Mahebourg, Mauritius",
     "phone": "+2306319674"
   },
@@ -3247,7 +3247,7 @@
   },
   {
     "id": 542,
-    "name": "Sands Suites Resort \u0026 Spa",
+    "name": "Sands Suites Resort & Spa",
     "address": "69 Morcellement Lorette, Mahebourg, Mauritius",
     "phone": "+23058397798"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "id": 548,
-    "name": "Aanari Hotel \u0026 Spa",
+    "name": "Aanari Hotel & Spa",
     "address": "159 Royal Road Paillotte Quatre Bornes, Quatre Bornes, Mauritius",
     "phone": "+23057762265"
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "id": 554,
-    "name": "Le Suffren Hotel \u0026 Marina",
+    "name": "Le Suffren Hotel & Marina",
     "address": "57a Madad ul Islam St, Port Louis, Mauritius",
     "phone": "+23057329786"
   },
@@ -3361,7 +3361,7 @@
   },
   {
     "id": 561,
-    "name": "Marguery Villas - Conciergery \u0026 Resort",
+    "name": "Marguery Villas - Conciergery & Resort",
     "address": "Morcellement Anna, MU, Sunset Ave, Flic en Flac 90501, Mauritius",
     "phone": "+23058053001"
   },
@@ -3439,7 +3439,7 @@
   },
   {
     "id": 574,
-    "name": "Hilton Mauritius Resort \u0026 Spa",
+    "name": "Hilton Mauritius Resort & Spa",
     "address": "Wolmar, Coastal Road MU, Flic en Flac 90503, Mauritius",
     "phone": "+2304031000"
   },
@@ -3691,7 +3691,7 @@
   },
   {
     "id": 616,
-    "name": "Amigos Resto \u0026 Grill Vacoas",
+    "name": "Amigos Resto & Grill Vacoas",
     "address": "Phoenix Mall, Vacoas-Phoenix, Mauritius",
     "phone": "+2304271400"
   },
@@ -3727,7 +3727,7 @@
   },
   {
     "id": 622,
-    "name": "Kashmir Restaurant \u0026 Pub",
+    "name": "Kashmir Restaurant & Pub",
     "address": "Georges Guibert St, Vacoas-Phoenix, Mauritius",
     "phone": ""
   },
@@ -3751,7 +3751,7 @@
   },
   {
     "id": 626,
-    "name": "Hosseny \u0026 Sons Briyani",
+    "name": "Hosseny & Sons Briyani",
     "address": "MU, OOGARAH LANE, Vacoas-Phoenix 73108, Mauritius",
     "phone": "+23058111626"
   },
@@ -3793,7 +3793,7 @@
   },
   {
     "id": 633,
-    "name": "The One \u0026 Only Special Cuisine",
+    "name": "The One & Only Special Cuisine",
     "address": "Solferino No 1, Vacoas-Phoenix, Mauritius",
     "phone": "+23057768131"
   },
@@ -4081,7 +4081,7 @@
   },
   {
     "id": 681,
-    "name": "Sherab \u0026 Sons - Briani House",
+    "name": "Sherab & Sons - Briani House",
     "address": "Sonah Ln, Vacoas-Phoenix, Mauritius",
     "phone": "+23057532960"
   },
@@ -4123,7 +4123,7 @@
   },
   {
     "id": 688,
-    "name": "J \u0026 B snack and take away",
+    "name": "J & B snack and take away",
     "address": "Avenue John Kennedy, La Touche Road, Vacoas Vacoas MU, 74107, Mauritius",
     "phone": "+23057941097"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "id": 769,
-    "name": "Anantara Iko Mauritius Resort \u0026 Villas",
+    "name": "Anantara Iko Mauritius Resort & Villas",
     "address": "Blue Bay Marine Park, Le Chaland MU, Plaine Magnien 51510, Mauritius",
     "phone": "+2306515000"
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "id": 771,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Tamarin Bay, Royal Road Tamarin MU, 90921, Mauritius",
     "phone": "+2304833100"
   },
@@ -4639,7 +4639,7 @@
   },
   {
     "id": 774,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Avenue Les Cocotiers, Black River, Mauritius",
     "phone": "+2304837042"
   },
@@ -4651,7 +4651,7 @@
   },
   {
     "id": 776,
-    "name": "Tamarina Golf \u0026 Spa Boutique Hotel",
+    "name": "Tamarina Golf & Spa Boutique Hotel",
     "address": "St Jean Road, Quatre Bornes, Mauritius",
     "phone": "+2304545945"
   },
@@ -4669,13 +4669,13 @@
   },
   {
     "id": 779,
-    "name": "Sands Suites Resort \u0026 Spa",
+    "name": "Sands Suites Resort & Spa",
     "address": "Ile Des Deux Cocos, Blue Bay 00230, Mauritius",
     "phone": "+2306982727"
   },
   {
     "id": 780,
-    "name": "Le Suffren Hotel \u0026 Marina",
+    "name": "Le Suffren Hotel & Marina",
     "address": "Wolmar, Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304031500"
   },
@@ -4753,7 +4753,7 @@
   },
   {
     "id": 793,
-    "name": "Marguery Villas - Conciergery \u0026 Resort",
+    "name": "Marguery Villas - Conciergery & Resort",
     "address": "Rue des Hollandais, Mahebourg, Mauritius",
     "phone": "+2306312111"
   },
@@ -4885,7 +4885,7 @@
   },
   {
     "id": 815,
-    "name": "Le Plaza Hotel \u0026 Restaurant",
+    "name": "Le Plaza Hotel & Restaurant",
     "address": "88 Trianon Ave No.2, Quatre Bornes, Mauritius",
     "phone": "+23046498954547058"
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "id": 822,
-    "name": "Hilton Mauritius Resort \u0026 Spa",
+    "name": "Hilton Mauritius Resort & Spa",
     "address": "11 Rue de Frangipanes, La Gaulette, Mauritius",
     "phone": "+23057629648"
   },
@@ -5029,7 +5029,7 @@
   },
   {
     "id": 839,
-    "name": "Shandrani Beachcomber Resort \u0026 Spa",
+    "name": "Shandrani Beachcomber Resort & Spa",
     "address": "50 Morcellement Le Petit Morne, La Gaulette 91102, Mauritius",
     "phone": "+23057795663"
   },
@@ -5047,7 +5047,7 @@
   },
   {
     "id": 842,
-    "name": "Maradiva Villas Resort \u0026 Spa",
+    "name": "Maradiva Villas Resort & Spa",
     "address": "Wolmar, Flic en Flac, Mauritius",
     "phone": "+2304033300"
   },
@@ -5059,7 +5059,7 @@
   },
   {
     "id": 844,
-    "name": "The Bay Guest House \u0026 Restaurant",
+    "name": "The Bay Guest House & Restaurant",
     "address": "Wolmar, MU, Flic en Flac 90516, Mauritius",
     "phone": "+2304031200"
   },
@@ -5077,7 +5077,7 @@
   },
   {
     "id": 847,
-    "name": "Anelia Resort \u0026 Spa Mauritius",
+    "name": "Anelia Resort & Spa Mauritius",
     "address": "Tamarin Bay, Tamarin, Mauritius",
     "phone": "+2304040150"
   },
@@ -5191,7 +5191,7 @@
   },
   {
     "id": 866,
-    "name": "PAPS Grill \u0026 Restaurant Eau Coulée",
+    "name": "PAPS Grill & Restaurant Eau Coulée",
     "address": "Rue Chasteauneuf, Curepipe, Mauritius",
     "phone": "+23057808540"
   },
@@ -5402,7 +5402,7 @@
   {
     "id": 901,
     "name": "SB Royal palace",
-    "address": "CRN Emile Sauzier \u0026, Sir Virgile Naz St, Curepipe, Mauritius",
+    "address": "CRN Emile Sauzier &, Sir Virgile Naz St, Curepipe, Mauritius",
     "phone": "+2304891500"
   },
   {
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 911,
-    "name": "Pcc foodz \u0026 pizza",
+    "name": "Pcc foodz & pizza",
     "address": "A 10, Curepipe, Mauritius",
     "phone": "+23059641069"
   },
@@ -5515,7 +5515,7 @@
   },
   {
     "id": 920,
-    "name": "JAM'Z Grilled \u0026 Snack",
+    "name": "JAM'Z Grilled & Snack",
     "address": "Royal Road, Forest-Side Curepipe MU, 74420, Mauritius",
     "phone": "+2306763089"
   },
@@ -5539,7 +5539,7 @@
   },
   {
     "id": 924,
-    "name": "Al - Barakat \u0026 Bros",
+    "name": "Al - Barakat & Bros",
     "address": "Lapeyrouse St, Curepipe, Mauritius",
     "phone": "+23058092992"
   },
@@ -6085,7 +6085,7 @@
   },
   {
     "id": 1015,
-    "name": "Aanari Hotel \u0026 Spa",
+    "name": "Aanari Hotel & Spa",
     "address": "Royal Road, Flic en Flac, Mauritius",
     "phone": ""
   },
@@ -6109,7 +6109,7 @@
   },
   {
     "id": 1019,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "Seafarers Centre, Port Louis, Mauritius",
     "phone": "+2302174330"
   },
@@ -6121,7 +6121,7 @@
   },
   {
     "id": 1021,
-    "name": "Pearle Beach Resort \u0026 Spa",
+    "name": "Pearle Beach Resort & Spa",
     "address": "La Louise Ave, Quatre Bornes, Mauritius",
     "phone": "+2304272299"
   },
@@ -6133,13 +6133,13 @@
   },
   {
     "id": 1023,
-    "name": "Sofitel Mauritius L'Impérial Resort \u0026 Spa",
+    "name": "Sofitel Mauritius L'Impérial Resort & Spa",
     "address": "Klondike Road, Flic en Flac, Mauritius",
     "phone": "+2304895790"
   },
   {
     "id": 1024,
-    "name": "The Westin Turtle Bay Resort \u0026 Spa, Mauritius",
+    "name": "The Westin Turtle Bay Resort & Spa, Mauritius",
     "address": "La Louise Ave, Quatre Bornes, Mauritius",
     "phone": "+2304251365"
   },
@@ -6151,7 +6151,7 @@
   },
   {
     "id": 1026,
-    "name": "Tamarina Golf \u0026 Spa Boutique Hotel",
+    "name": "Tamarina Golf & Spa Boutique Hotel",
     "address": "Radar Avenue, Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+23052528965"
   },
@@ -6175,7 +6175,7 @@
   },
   {
     "id": 1030,
-    "name": "Sands Suites Resort \u0026 Spa",
+    "name": "Sands Suites Resort & Spa",
     "address": "Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304538411"
   },
@@ -6229,7 +6229,7 @@
   },
   {
     "id": 1039,
-    "name": "Maritim Resort \u0026 Spa Mauritius",
+    "name": "Maritim Resort & Spa Mauritius",
     "address": "Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304538333"
   },
@@ -6301,7 +6301,7 @@
   },
   {
     "id": 1051,
-    "name": "Green Discovery B\u0026B",
+    "name": "Green Discovery B&B",
     "address": "AVENUE DES PERDRIX, Flic en Flac, Mauritius",
     "phone": "+2304535149"
   },
@@ -6337,7 +6337,7 @@
   },
   {
     "id": 1057,
-    "name": "Paradis Beachcomber Golf Resort \u0026 Spa",
+    "name": "Paradis Beachcomber Golf Resort & Spa",
     "address": "38 Moulin Cassé, Flic en Flac, Mauritius",
     "phone": "+23052576676"
   },
@@ -6391,7 +6391,7 @@
   },
   {
     "id": 1066,
-    "name": "Hilton Mauritius Resort \u0026 Spa",
+    "name": "Hilton Mauritius Resort & Spa",
     "address": "Wolmar Villa Rd, Flic en Flac, Mauritius",
     "phone": "+2304033900"
   },
@@ -6439,7 +6439,7 @@
   },
   {
     "id": 1074,
-    "name": "Anelia Resort \u0026 Spa Mauritius",
+    "name": "Anelia Resort & Spa Mauritius",
     "address": "8 Poivre St, Beau Bassin-Rose Hill, Mauritius",
     "phone": ""
   },
@@ -6517,7 +6517,7 @@
   },
   {
     "id": 1087,
-    "name": "Maradiva Villas Resort \u0026 Spa",
+    "name": "Maradiva Villas Resort & Spa",
     "address": "Coastal Rd, Flic en Flac, Mauritius",
     "phone": "+2304016300"
   },
@@ -6679,14 +6679,14 @@
   },
   {
     "id": 1114,
-    "name": "Zoulou Resto \u0026 Grill",
-    "address": "89, Corner St Jean \u0026 MU, Draper Ave, Quatre Bornes 72249, Mauritius",
+    "name": "Zoulou Resto & Grill",
+    "address": "89, Corner St Jean & MU, Draper Ave, Quatre Bornes 72249, Mauritius",
     "phone": "+23057908441"
   },
   {
     "id": 1115,
     "name": "Boulette Palace - Nou Baz Boulettes",
-    "address": "Corner Ollier \u0026 Farquhar Avenues, Remy Ollier Ave, Quatre Bornes, Mauritius",
+    "address": "Corner Ollier & Farquhar Avenues, Remy Ollier Ave, Quatre Bornes, Mauritius",
     "phone": ""
   },
   {
@@ -6715,7 +6715,7 @@
   },
   {
     "id": 1120,
-    "name": "Belle Ana Resto \u0026 Cafe",
+    "name": "Belle Ana Resto & Cafe",
     "address": "20 Palma Rd, Quatre Bornes, Mauritius",
     "phone": "+23058092531"
   },
@@ -6751,7 +6751,7 @@
   },
   {
     "id": 1126,
-    "name": "Still \u0026 Sparkles",
+    "name": "Still & Sparkles",
     "address": "Major Paul Hein Ln, Quatre Bornes, Mauritius",
     "phone": "+23055087552"
   },
@@ -6763,7 +6763,7 @@
   },
   {
     "id": 1128,
-    "name": "The Irish Pub \u0026 Restaurant",
+    "name": "The Irish Pub & Restaurant",
     "address": "Mgr Leen Avenue, Quatre Bornes, Mauritius",
     "phone": "+23058082209"
   },
@@ -6890,7 +6890,7 @@
   {
     "id": 1149,
     "name": "Fisherman's Platter",
-    "address": "Corner Ollier \u0026 Farquhar Avenues Remy Ollier Ave, Quatre Bornes, Mauritius",
+    "address": "Corner Ollier & Farquhar Avenues Remy Ollier Ave, Quatre Bornes, Mauritius",
     "phone": "+2304246462"
   },
   {
@@ -6919,7 +6919,7 @@
   },
   {
     "id": 1154,
-    "name": "Delhi Taj Sweets \u0026 Snack",
+    "name": "Delhi Taj Sweets & Snack",
     "address": "7 Av. Des Capucines, Quatre Bornes, Mauritius",
     "phone": "+2304649954"
   },

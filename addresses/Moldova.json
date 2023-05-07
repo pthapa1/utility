@@ -163,7 +163,7 @@
   },
   {
     "id": 28,
-    "name": "Aquaperla Hotel \u0026 SPA",
+    "name": "Aquaperla Hotel & SPA",
     "address": "Lomonosova street 35, Chișinău 2009, Moldova",
     "phone": "+37379100088"
   },
@@ -410,7 +410,7 @@
   {
     "id": 69,
     "name": "Apartment Ismail",
-    "address": "Hotel Tulip Residence \u0026 Spa, Strada Arheolog Ion Casian-Suruceanu 17/2, Chișinău 2028, Moldova",
+    "address": "Hotel Tulip Residence & Spa, Strada Arheolog Ion Casian-Suruceanu 17/2, Chișinău 2028, Moldova",
     "phone": "+37369049049"
   },
   {
@@ -428,7 +428,7 @@
   {
     "id": 72,
     "name": "Catherine Hotel",
-    "address": "Hotel Tulip Residence \u0026 Spa, Strada Arheolog Ion Casian-Suruceanu 17/2, Chișinău 2028, Moldova",
+    "address": "Hotel Tulip Residence & Spa, Strada Arheolog Ion Casian-Suruceanu 17/2, Chișinău 2028, Moldova",
     "phone": "+37369049049"
   },
   {
@@ -607,7 +607,7 @@
   },
   {
     "id": 102,
-    "name": "Pegas Terrace \u0026 Restaurant",
+    "name": "Pegas Terrace & Restaurant",
     "address": "Mitropolit Varlaam St 77, Chișinău 2012, Moldova",
     "phone": "+37322201202"
   },
@@ -649,7 +649,7 @@
   },
   {
     "id": 109,
-    "name": "New York Restaurant \u0026 Bar",
+    "name": "New York Restaurant & Bar",
     "address": "Alexander Pushkin St 32, Chișinău 2012, Moldova",
     "phone": ""
   },
@@ -721,7 +721,7 @@
   },
   {
     "id": 121,
-    "name": "Kiku Steak \u0026 Wine",
+    "name": "Kiku Steak & Wine",
     "address": "Strada Arborilor 21, Chișinău, Moldova",
     "phone": "+37378853355"
   },
@@ -751,7 +751,7 @@
   },
   {
     "id": 126,
-    "name": "Osho Bar \u0026 Kitchen",
+    "name": "Osho Bar & Kitchen",
     "address": "Hristo Botev St 8, Chișinău, Moldova",
     "phone": "+37322664489"
   },
@@ -811,7 +811,7 @@
   },
   {
     "id": 136,
-    "name": "Àttico Terrace \u0026 Restaurant",
+    "name": "Àttico Terrace & Restaurant",
     "address": "Decebal Blvd 34, Chișinău, Moldova",
     "phone": "+37369626626"
   },
@@ -871,7 +871,7 @@
   },
   {
     "id": 146,
-    "name": "Jack's Bar \u0026 Grill",
+    "name": "Jack's Bar & Grill",
     "address": "Strada Mitropolit Gavriil Bănulescu-Bodoni 17A, Chișinău, Moldova",
     "phone": "+37378059595"
   },
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 171,
-    "name": "Et-Çi Mill \u0026 Grill",
+    "name": "Et-Çi Mill & Grill",
     "address": "Mihai Eminescu Street 50, Chișinău 2012, Moldova",
     "phone": "+37379272000"
   },
@@ -1861,7 +1861,7 @@
   },
   {
     "id": 311,
-    "name": "Red Star Hostel \u0026 Camping",
+    "name": "Red Star Hostel & Camping",
     "address": "3300, Str. Gorplavni 7 Tiraspol MD, Tiraspol, Moldova",
     "phone": "+37368188352"
   },
@@ -1927,7 +1927,7 @@
   },
   {
     "id": 322,
-    "name": "Kasta Sushi \u0026 Burger",
+    "name": "Kasta Sushi & Burger",
     "address": "25th October St 92а, Tiraspol, Moldova",
     "phone": "+37353388777"
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "id": 427,
-    "name": "KVINT Wine \u0026 Cognac Distillery",
+    "name": "KVINT Wine & Cognac Distillery",
     "address": "Strada Columna 106, Chișinău, Moldova",
     "phone": "+37379655243"
   },
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 463,
-    "name": "Hotel Balti \u0026 UPS Store",
+    "name": "Hotel Balti & UPS Store",
     "address": "Decebal St. 139, Balti 3100, Moldova",
     "phone": "+37369301053"
   },
@@ -2917,7 +2917,7 @@
   },
   {
     "id": 487,
-    "name": "Bier \u0026 Steakhaus",
+    "name": "Bier & Steakhaus",
     "address": "Strada Colesov 6/1, MD3101, Moldova",
     "phone": "+37378650055"
   },
@@ -3037,7 +3037,7 @@
   },
   {
     "id": 507,
-    "name": "Ikra, Restaurant \u0026 Club",
+    "name": "Ikra, Restaurant & Club",
     "address": "Бельцы, Бельцы, R14, Bălți, R14, Balti 3100, Moldova",
     "phone": "14143100"
   },
@@ -3085,7 +3085,7 @@
   },
   {
     "id": 515,
-    "name": "Papa Grill ( Beer, Kebab, Burger \u0026 Ribs)",
+    "name": "Papa Grill ( Beer, Kebab, Burger & Ribs)",
     "address": "vizavi de Biserica Ortodoxa, Alexandru cel Bun 10 (oprirea, Balti 3100, Moldova",
     "phone": "+37378803030"
   },
@@ -3391,7 +3391,7 @@
   },
   {
     "id": 566,
-    "name": "North Bussiness \u0026 Shopping",
+    "name": "North Bussiness & Shopping",
     "address": "Stefan cel Mare St. 1/B, Balti 3100, Moldova",
     "phone": "+37368455555"
   },
@@ -3583,7 +3583,7 @@
   },
   {
     "id": 598,
-    "name": "Hotel Balti \u0026 UPS Store",
+    "name": "Hotel Balti & UPS Store",
     "address": "Strada Victoriei 49, Bălți, Moldova",
     "phone": "+37367381183"
   },
@@ -3715,13 +3715,13 @@
   },
   {
     "id": 620,
-    "name": "Red Star Hostel \u0026 Camping",
+    "name": "Red Star Hostel & Camping",
     "address": "Matievici 30, Csuseni 4300, Moldova",
     "phone": "+37367144747"
   },
   {
     "id": 621,
-    "name": "Red Star Hostel \u0026 Camping",
+    "name": "Red Star Hostel & Camping",
     "address": "ул. Юности 1, Tiraspol 3300, Moldova",
     "phone": "+37377947373"
   },
@@ -4046,7 +4046,7 @@
   {
     "id": 675,
     "name": "Park Hampden Shopping Center",
-    "address": "E Palatine Rd \u0026 Rand, Arlington Heights, IL 60004",
+    "address": "E Palatine Rd & Rand, Arlington Heights, IL 60004",
     "phone": ""
   },
   {
@@ -4106,7 +4106,7 @@
   {
     "id": 685,
     "name": "The Marketplace Hampden Town Center",
-    "address": "MD Route 450 \u0026, Race Track Rd, Bowie, MD 20715",
+    "address": "MD Route 450 &, Race Track Rd, Bowie, MD 20715",
     "phone": "45020715"
   },
   {
@@ -4519,7 +4519,7 @@
   },
   {
     "id": 754,
-    "name": "B\u0026B Hotel Habitat",
+    "name": "B&B Hotel Habitat",
     "address": "Резина Ципова comuna Lalova, satul, Țipova 5421, Moldova",
     "phone": "+37369341513"
   },

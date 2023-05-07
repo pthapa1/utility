@@ -121,7 +121,7 @@
   },
   {
     "id": 21,
-    "name": "Happy Valley Hotel \u0026 Casino",
+    "name": "Happy Valley Hotel & Casino",
     "address": "V678+C4F, Unnamed Road,, Nkhaba, Eswatini",
     "phone": ""
   },
@@ -487,7 +487,7 @@
   },
   {
     "id": 82,
-    "name": "Sundeck Rooftop Restaurant \u0026 Bar",
+    "name": "Sundeck Rooftop Restaurant & Bar",
     "address": "P593+VM, Mbabane, Eswatini",
     "phone": ""
   },
@@ -529,7 +529,7 @@
   },
   {
     "id": 89,
-    "name": "London Fish \u0026 Chips",
+    "name": "London Fish & Chips",
     "address": "M4FV+RPX, Mbabane, Eswatini",
     "phone": "+26878188974"
   },
@@ -583,7 +583,7 @@
   },
   {
     "id": 98,
-    "name": "The Fallow Eatery \u0026 Hangout",
+    "name": "The Fallow Eatery & Hangout",
     "address": "M4CV+HP5, Mbabane, Eswatini",
     "phone": "+26876449165"
   },
@@ -631,7 +631,7 @@
   },
   {
     "id": 106,
-    "name": "Eveni Butchery \u0026 Car Wash",
+    "name": "Eveni Butchery & Car Wash",
     "address": "M5F3+QF6, Mbabane H100, Eswatini",
     "phone": "+26878244192"
   },
@@ -883,7 +883,7 @@
   },
   {
     "id": 148,
-    "name": "Summerfield Botanical Garden \u0026 Exclusive Resort",
+    "name": "Summerfield Botanical Garden & Exclusive Resort",
     "address": "H56M+673, Lobamba, Eswatini",
     "phone": "+26824162180"
   },
@@ -973,7 +973,7 @@
   },
   {
     "id": 163,
-    "name": "Happy Valley Hotel \u0026 Casino",
+    "name": "Happy Valley Hotel & Casino",
     "address": "5 Tivakashi St, Ezulwini H106, Eswatini",
     "phone": "+26824161049"
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "id": 170,
-    "name": "Summerfield Botanical Garden \u0026 Exclusive Resort",
+    "name": "Summerfield Botanical Garden & Exclusive Resort",
     "address": "H55Q+RGF, Lobamba, Eswatini",
     "phone": "+26824161061"
   },
@@ -1346,7 +1346,7 @@
   {
     "id": 225,
     "name": "BK Lodge",
-    "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+    "address": "Corner Ngwane &, Du Toit Street, M200, Eswatini",
     "phone": "+26825052260"
   },
   {
@@ -1435,8 +1435,8 @@
   },
   {
     "id": 240,
-    "name": "Nkonyeni Lodge \u0026 Golf Estate",
-    "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+    "name": "Nkonyeni Lodge & Golf Estate",
+    "address": "Corner Ngwane &, Du Toit Street, M200, Eswatini",
     "phone": "+26825052260"
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "id": 283,
     "name": "Tee's Bistro",
-    "address": "M200, 171 Ngwane \u0026 Du Street, Office 2, 1st Floor New Manzini City Centre Mall, Opposite George Hotel, Nkoseluhlaza, Eswatini",
+    "address": "M200, 171 Ngwane & Du Street, Office 2, 1st Floor New Manzini City Centre Mall, Opposite George Hotel, Nkoseluhlaza, Eswatini",
     "phone": "20017121"
   },
   {
@@ -1711,14 +1711,14 @@
   },
   {
     "id": 286,
-    "name": "The pizza Club \u0026 Grill",
+    "name": "The pizza Club & Grill",
     "address": "Manzini, Eswatini plot 10 scrapyard opposite park hotel Manzini, Eswatini",
     "phone": "+26876216916"
   },
   {
     "id": 287,
-    "name": "COZY Coffee House \u0026 Bistro/Habesha Restaurant",
-    "address": "Bhunu Mall, Cnr Louw \u0026 Nkosehlusaza St, Shop 1, M200, Eswatini",
+    "name": "COZY Coffee House & Bistro/Habesha Restaurant",
+    "address": "Bhunu Mall, Cnr Louw & Nkosehlusaza St, Shop 1, M200, Eswatini",
     "phone": "+26825059058"
   },
   {
@@ -1741,7 +1741,7 @@
   },
   {
     "id": 291,
-    "name": "Tandoori Express Restaurant \u0026 Take-away",
+    "name": "Tandoori Express Restaurant & Take-away",
     "address": "F9XG+78W, Manzini, Eswatini",
     "phone": ""
   },
@@ -1784,7 +1784,7 @@
   {
     "id": 298,
     "name": "The Food Hut",
-    "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+    "address": "Corner Ngwane &, Du Toit Street, M200, Eswatini",
     "phone": "+26825052260"
   },
   {
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 325,
-    "name": "Cafe 189 Coffee Shop \u0026 Restaurant",
+    "name": "Cafe 189 Coffee Shop & Restaurant",
     "address": "258 Mahleka St, Manzini, Eswatini",
     "phone": "+26876022554"
   },
@@ -2005,7 +2005,7 @@
   },
   {
     "id": 335,
-    "name": "The XChange Lounge \u0026 Shisanyama",
+    "name": "The XChange Lounge & Shisanyama",
     "address": "G94P+73C, Manzini, Eswatini",
     "phone": "+26876782387"
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 378,
-    "name": "Pumbaa Wildlife Park \u0026 Accommodation",
+    "name": "Pumbaa Wildlife Park & Accommodation",
     "address": "Ngwenya Industrial estates, Ngwenya / Mbabane MR3 highway, Ngwenya H104, Eswatini",
     "phone": "+26876022730"
   },
@@ -2288,7 +2288,7 @@
   {
     "id": 382,
     "name": "Simunye",
-    "address": "Corner Ngwane \u0026, Du Toit Street, M200, Eswatini",
+    "address": "Corner Ngwane &, Du Toit Street, M200, Eswatini",
     "phone": "+26825052260"
   },
   {
@@ -2407,7 +2407,7 @@
   },
   {
     "id": 402,
-    "name": "Siteki Cash \u0026 Carry",
+    "name": "Siteki Cash & Carry",
     "address": "GWXW+FF3, Siteki, Eswatini",
     "phone": "+26823436573"
   },

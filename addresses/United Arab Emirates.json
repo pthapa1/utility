@@ -13,8 +13,8 @@
   },
   {
     "id": 3,
-    "name": "Villaggio Hotel \u0026 Resort Abu Dhabi",
-    "address": "Opposite Terminals 1 \u0026 3 - Abu Dhabi International Airport - Abu Dhabi - United Arab Emirates",
+    "name": "Villaggio Hotel & Resort Abu Dhabi",
+    "address": "Opposite Terminals 1 & 3 - Abu Dhabi International Airport - Abu Dhabi - United Arab Emirates",
     "phone": "+971600500503"
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "id": 17,
-    "name": "Royal M Hotel \u0026 Resort Abu Dhabi",
+    "name": "Royal M Hotel & Resort Abu Dhabi",
     "address": "Yas Island - Yas Plaza - Abu Dhabi - United Arab Emirates",
     "phone": "+97126563333"
   },
@@ -139,7 +139,7 @@
   },
   {
     "id": 24,
-    "name": "Radisson Blu Hotel \u0026 Resort, Abu Dhabi Corniche",
+    "name": "Radisson Blu Hotel & Resort, Abu Dhabi Corniche",
     "address": "Al Zahiya - Al Maiyani St - Al Zahiyah - Abu Dhabi - United Arab Emirates",
     "phone": "+97126979203"
   },
@@ -211,7 +211,7 @@
   },
   {
     "id": 36,
-    "name": "Grand Hyatt Abu Dhabi Hotel \u0026 Residences Emirates Pearl",
+    "name": "Grand Hyatt Abu Dhabi Hotel & Residences Emirates Pearl",
     "address": "MUROOR STREET, MADINAT ZAYED - Abu Dhabi - United Arab Emirates",
     "phone": "+97126140900"
   },
@@ -241,7 +241,7 @@
   },
   {
     "id": 41,
-    "name": "Saadiyat Rotana Resort \u0026 Villas",
+    "name": "Saadiyat Rotana Resort & Villas",
     "address": "St - Sheikh Rashid Bin Saeed St - Rabdan - Zone 1 - Abu Dhabi - United Arab Emirates",
     "phone": "+97125016444"
   },
@@ -271,7 +271,7 @@
   },
   {
     "id": 46,
-    "name": "Sheraton Abu Dhabi Hotel \u0026 Resort",
+    "name": "Sheraton Abu Dhabi Hotel & Resort",
     "address": "Al Khaleej Al Arabi St - Al Rawdah - Al Ma'arid - Abu Dhabi - United Arab Emirates",
     "phone": "+97123075555"
   },
@@ -475,13 +475,13 @@
   },
   {
     "id": 80,
-    "name": "Al Seef Resorts \u0026 Spa by Andalus",
+    "name": "Al Seef Resorts & Spa by Andalus",
     "address": "Corniche St - Al Khubeirah - Abu Dhabi - United Arab Emirates",
     "phone": "+97126570000"
   },
   {
     "id": 81,
-    "name": "The Westin Abu Dhabi Golf Resort \u0026 Spa",
+    "name": "The Westin Abu Dhabi Golf Resort & Spa",
     "address": "Al Saadiyat Island - Abu Dhabi - United Arab Emirates",
     "phone": "+97124988888"
   },
@@ -667,7 +667,7 @@
   },
   {
     "id": 112,
-    "name": "Butcher \u0026 Still",
+    "name": "Butcher & Still",
     "address": "1 Abu Dhabi Mall - Al Maiyani St - Al Zahiyah - Abu Dhabi - United Arab Emirates",
     "phone": "+97126447511"
   },
@@ -679,7 +679,7 @@
   },
   {
     "id": 114,
-    "name": "Loca Restaurant \u0026 Bar Abu Dhabi",
+    "name": "Loca Restaurant & Bar Abu Dhabi",
     "address": "Old Airport Road Shaikh Rashid Bin Saeed Al Maktoum Street - Al Karamah St - near Sheikh Khalifa Medical City - Abu Dhabi - United Arab Emirates",
     "phone": "+97126228788"
   },
@@ -709,7 +709,7 @@
   },
   {
     "id": 119,
-    "name": "Al Fanar Restaurant \u0026 Cafe - Yas Mall",
+    "name": "Al Fanar Restaurant & Cafe - Yas Mall",
     "address": "bab al baher - Fairmont bab al bahr Fairmont - Abu Dhabi - United Arab Emirates",
     "phone": "+97126543238"
   },
@@ -727,13 +727,13 @@
   },
   {
     "id": 122,
-    "name": "Cabana Beach Bar \u0026 Grill",
+    "name": "Cabana Beach Bar & Grill",
     "address": "Electea street - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
     "phone": "+97126776055"
   },
   {
     "id": 123,
-    "name": "LPM Restaurant \u0026 Bar",
+    "name": "LPM Restaurant & Bar",
     "address": "F9WF+28C - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
     "phone": "+97126732220"
   },
@@ -787,7 +787,7 @@
   },
   {
     "id": 132,
-    "name": "Yadoo`s House Restaurant \u0026 Cafe",
+    "name": "Yadoo`s House Restaurant & Cafe",
     "address": "Hamdan شارع 5 - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
     "phone": "+971555284944"
   },
@@ -811,7 +811,7 @@
   },
   {
     "id": 136,
-    "name": "99 sushi bar \u0026 restaurant Abu Dhabi",
+    "name": "99 sushi bar & restaurant Abu Dhabi",
     "address": "31 Sultan Bin Zayed The First St - Al Sa'adah - Zone 1 - Abu Dhabi - United Arab Emirates",
     "phone": "+97125827434"
   },
@@ -829,7 +829,7 @@
   },
   {
     "id": 139,
-    "name": "Raclette Brasserie \u0026 Cafe",
+    "name": "Raclette Brasserie & Cafe",
     "address": "9th St - Al Zahiyah - E16-02 - Abu Dhabi - United Arab Emirates",
     "phone": "+97180024462446"
   },
@@ -919,7 +919,7 @@
   },
   {
     "id": 154,
-    "name": "Stills Restaurant \u0026 Bar",
+    "name": "Stills Restaurant & Bar",
     "address": "Abudhabi Electra Najda Behind ADCB Headoffice - Abu Dhabi 026264191 - United Arab Emirates",
     "phone": "026264191"
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 199,
-    "name": "Marco Pierre White Steakhouse \u0026 Grill",
+    "name": "Marco Pierre White Steakhouse & Grill",
     "address": "The Galleria - Al Maryah Island - Abu Dhabi - United Arab Emirates",
     "phone": "+97126929600"
   },
@@ -1208,7 +1208,7 @@
   {
     "id": 202,
     "name": "Jones the Grocer Khalidiya",
-    "address": "Grand Hyatt Abu Dhabi Hotel \u0026 Residences Emirates Pearl West - Corniche Rd - Abu Dhabi - United Arab Emirates",
+    "address": "Grand Hyatt Abu Dhabi Hotel & Residences Emirates Pearl West - Corniche Rd - Abu Dhabi - United Arab Emirates",
     "phone": "+97125101234"
   },
   {
@@ -1465,7 +1465,7 @@
   },
   {
     "id": 245,
-    "name": "New Visitor Center \u0026 Plaza at Sheikh Zayed Grand Mosque Extension",
+    "name": "New Visitor Center & Plaza at Sheikh Zayed Grand Mosque Extension",
     "address": "CH6R+Q48 - Al Mutafani St - Khalifa City - SE-25 - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 292,
-    "name": "Zatanna Books \u0026 Magical Curiosities",
+    "name": "Zatanna Books & Magical Curiosities",
     "address": "F9Q6+4CF - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
     "phone": "+97126320344"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 295,
-    "name": "Mahar Our \u0026 Perfumes",
+    "name": "Mahar Our & Perfumes",
     "address": "8FXX+RX6 - Musaffah - M-37 - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -2479,7 +2479,7 @@
   },
   {
     "id": 414,
-    "name": "Danat Al Emarat Hospital for Women \u0026 Children",
+    "name": "Danat Al Emarat Hospital for Women & Children",
     "address": "F998+5RM - Al Manhal - Al Tibbiya - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -2744,7 +2744,7 @@
   {
     "id": 458,
     "name": "Burjeel Orthopedics and Sports Medicine Center",
-    "address": "villa 17, Delma \u0026 Al karamah street Intersection - next to embassy of polland - Abu Dhabi - United Arab Emirates",
+    "address": "villa 17, Delma & Al karamah street Intersection - next to embassy of polland - Abu Dhabi - United Arab Emirates",
     "phone": "+97124466422"
   },
   {
@@ -2761,7 +2761,7 @@
   },
   {
     "id": 461,
-    "name": "Amana Healthcare Medical \u0026 Rehabilitation Hospital",
+    "name": "Amana Healthcare Medical & Rehabilitation Hospital",
     "address": "49 Al Basmi St - Khalifa City - SE-41 - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -2821,7 +2821,7 @@
   },
   {
     "id": 471,
-    "name": "Central Hospital SEHA Disease Prevention \u0026 Screening Center",
+    "name": "Central Hospital SEHA Disease Prevention & Screening Center",
     "address": "Mohamed Bin Zayed City - ME-9 - Abu Dhabi - United Arab Emirates",
     "phone": "+971800554"
   },
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 484,
-    "name": "Alpha Medical Centre \u0026 Alpha Care Pharmacy",
+    "name": "Alpha Medical Centre & Alpha Care Pharmacy",
     "address": "F999+W5M - Al Manhal - Al Tibbiya - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -2929,7 +2929,7 @@
   },
   {
     "id": 489,
-    "name": "PESHAWAR MEDICAL CENTRE \u0026 LAHORE PHARMACY",
+    "name": "PESHAWAR MEDICAL CENTRE & LAHORE PHARMACY",
     "address": "F9P4+592 - Al Hisn - W2 - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 491,
-    "name": "CosmeSurge \u0026 Emirates Clinics for One Day Surgery",
+    "name": "CosmeSurge & Emirates Clinics for One Day Surgery",
     "address": "Sheikh Rashid Bin Saeed St - Al Sa'adah - M-40 - Abu Dhabi - United Arab Emirates",
     "phone": "+97125504333"
   },
@@ -2990,7 +2990,7 @@
   {
     "id": 499,
     "name": "JW Marriott Marquis Hotel Dubai",
-    "address": "Dubai Marine Beach Resort \u0026 Spa Hotel - 3 21 A St - Jumeirah - Jumeirah 1 - Dubai - United Arab Emirates",
+    "address": "Dubai Marine Beach Resort & Spa Hotel - 3 21 A St - Jumeirah - Jumeirah 1 - Dubai - United Arab Emirates",
     "phone": "+97143461111"
   },
   {
@@ -3019,7 +3019,7 @@
   },
   {
     "id": 504,
-    "name": "Dubai Marine Beach Resort \u0026 Spa",
+    "name": "Dubai Marine Beach Resort & Spa",
     "address": "7 17th St - Al Hamriya - Dubai - United Arab Emirates",
     "phone": "+97143107999"
   },
@@ -3110,7 +3110,7 @@
   {
     "id": 519,
     "name": "Paramount Hotel Dubai",
-    "address": "4th \u002617th Street Corner, Rigga Al Buteen, Near Deira Clock Tower - Dubai - United Arab Emirates",
+    "address": "4th &17th Street Corner, Rigga Al Buteen, Near Deira Clock Tower - Dubai - United Arab Emirates",
     "phone": "+97143298982"
   },
   {
@@ -3313,7 +3313,7 @@
   },
   {
     "id": 553,
-    "name": "The Palace at One\u0026Only Royal Mirage",
+    "name": "The Palace at One&Only Royal Mirage",
     "address": "Al Rigga Rd - Deira - Dubai - United Arab Emirates",
     "phone": "+97142288889"
   },
@@ -3745,7 +3745,7 @@
   },
   {
     "id": 625,
-    "name": "Urla Restaurant \u0026 Lounge",
+    "name": "Urla Restaurant & Lounge",
     "address": "Downtown Dubai - Dubai - United Arab Emirates",
     "phone": "+97145472241"
   },
@@ -3757,7 +3757,7 @@
   },
   {
     "id": 627,
-    "name": "Masti - Cocktails \u0026 Cuisine",
+    "name": "Masti - Cocktails & Cuisine",
     "address": "403 Al Wasl Rd - Al Wasl - Dubai - United Arab Emirates",
     "phone": "+97148864966"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "id": 629,
-    "name": "Loca Restaurant \u0026 Bar Dubai",
+    "name": "Loca Restaurant & Bar Dubai",
     "address": "57WG+2GC - Unnamed Road - Dubai - United Arab Emirates",
     "phone": ""
   },
@@ -3782,7 +3782,7 @@
   {
     "id": 631,
     "name": "Karam Beirut",
-    "address": "SLS Dubai Hotel \u0026 Residences - Level 74 - Marasi Dr - Business Bay - Dubai - United Arab Emirates",
+    "address": "SLS Dubai Hotel & Residences - Level 74 - Marasi Dr - Business Bay - Dubai - United Arab Emirates",
     "phone": "+97146070761"
   },
   {
@@ -3901,7 +3901,7 @@
   },
   {
     "id": 651,
-    "name": "The Crossing, Near World Trade Center | Indian Restaurant \u0026 Bar",
+    "name": "The Crossing, Near World Trade Center | Indian Restaurant & Bar",
     "address": "The Dubai Mall, Second Floor, Zabeel Extension - Dubai - United Arab Emirates",
     "phone": "+97143336077"
   },
@@ -3919,7 +3919,7 @@
   },
   {
     "id": 654,
-    "name": "KIZA Restaurant \u0026 Lounge - Pan African Cuisine",
+    "name": "KIZA Restaurant & Lounge - Pan African Cuisine",
     "address": "Dusit Thani Dubai - 24th Floor - 133 Sheikh Zayed Rd - Trade Centre - DIFC - Dubai - United Arab Emirates",
     "phone": "+97143174515"
   },
@@ -3973,7 +3973,7 @@
   },
   {
     "id": 663,
-    "name": "Nido Restaurant \u0026 Bar",
+    "name": "Nido Restaurant & Bar",
     "address": "City Walk - Al Wasl - Dubai - United Arab Emirates",
     "phone": "+971586903040"
   },
@@ -3985,7 +3985,7 @@
   },
   {
     "id": 665,
-    "name": "La Casa Dubai Restaurant \u0026 Lounge",
+    "name": "La Casa Dubai Restaurant & Lounge",
     "address": "Bldg 8, Ground Floor, Unit 5, Opposite To Delight House - Dubai Design District - Dubai - United Arab Emirates",
     "phone": "+97147707949"
   },
@@ -4051,7 +4051,7 @@
   },
   {
     "id": 676,
-    "name": "Jovee - Japanese \u0026 European Restaurant",
+    "name": "Jovee - Japanese & European Restaurant",
     "address": "The Buildings by Daman - 312 Al Sa'ada Street - Za'abeel - DIFC - Dubai - United Arab Emirates",
     "phone": "+971522424262"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "id": 680,
-    "name": "Cello Restaurant \u0026 Cafe",
+    "name": "Cello Restaurant & Cafe",
     "address": "Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai - United Arab Emirates",
     "phone": "+97144560936"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "id": 682,
-    "name": "Pacific Groove Restaurant \u0026 Lounge, Paramount Hotel Dubai",
+    "name": "Pacific Groove Restaurant & Lounge, Paramount Hotel Dubai",
     "address": "Anantara Downtown Dubai - Al A'amal St - Business Bay - Dubai - United Arab Emirates",
     "phone": "+97144441455"
   },
@@ -4111,13 +4111,13 @@
   },
   {
     "id": 686,
-    "name": "Bull \u0026 Bear",
-    "address": "Dubai Marine Beach Resort \u0026 Spa, Jumeirah Beach Road - 4 A St - Dubai - United Arab Emirates",
+    "name": "Bull & Bear",
+    "address": "Dubai Marine Beach Resort & Spa, Jumeirah Beach Road - 4 A St - Dubai - United Arab Emirates",
     "phone": "+97143461111"
   },
   {
     "id": 687,
-    "name": "Goldfish Sushi \u0026 Yakitori",
+    "name": "Goldfish Sushi & Yakitori",
     "address": "Al habtoor City V Hotel Dubai - Dubai - United Arab Emirates",
     "phone": "+971582163407"
   },
@@ -4147,7 +4147,7 @@
   },
   {
     "id": 692,
-    "name": "99 Sushi Bar \u0026 Restaurant Dubai",
+    "name": "99 Sushi Bar & Restaurant Dubai",
     "address": "Unit SF - 130 - 33 - Financial Center Rd - Downtown Dubai - Dubai - United Arab Emirates",
     "phone": "+97143882382"
   },
@@ -4171,7 +4171,7 @@
   },
   {
     "id": 696,
-    "name": "PLAY Restaurant \u0026 Lounge",
+    "name": "PLAY Restaurant & Lounge",
     "address": "Fashion Avenue, Dubai Mall - Dubai - United Arab Emirates",
     "phone": "+97142668169"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "id": 803,
-    "name": "Dubai Aquarium \u0026 Underwater Zoo",
+    "name": "Dubai Aquarium & Underwater Zoo",
     "address": "Sheikh Mohammed bin Rashid Blvd - Downtown Dubai - Dubai - United Arab Emirates",
     "phone": "+97145672030"
   },
@@ -4832,7 +4832,7 @@
   {
     "id": 806,
     "name": "Motiongate Dubai",
-    "address": "Zabeel Park, Gate No- 6 \u0026 7 Area - B - Dubai - United Arab Emirates",
+    "address": "Zabeel Park, Gate No- 6 & 7 Area - B - Dubai - United Arab Emirates",
     "phone": "+971559188126"
   },
   {
@@ -5402,7 +5402,7 @@
   {
     "id": 901,
     "name": "Kite beach",
-    "address": "Parks \u0026 Resorts - Sheikh Zayed Rd - Abu Dhabi - United Arab Emirates",
+    "address": "Parks & Resorts - Sheikh Zayed Rd - Abu Dhabi - United Arab Emirates",
     "phone": "+97148203123"
   },
   {
@@ -5480,7 +5480,7 @@
   {
     "id": 914,
     "name": "American Hospital Dubai Media City Clinic",
-    "address": "University City Rd , Muwailah, Near to Sharjah Blood Bank \u0026 ADNOC Petrol Pump - Sharjah - United Arab Emirates",
+    "address": "University City Rd , Muwailah, Near to Sharjah Blood Bank & ADNOC Petrol Pump - Sharjah - United Arab Emirates",
     "phone": "+97165449444"
   },
   {
@@ -5497,8 +5497,8 @@
   },
   {
     "id": 917,
-    "name": "Valiant Clinic \u0026 Hospital",
-    "address": "Hessa Street, Al Barsha 3, Street no. 39, Villa no. 1 \u0026 2 - Hessa St - Dubai - United Arab Emirates",
+    "name": "Valiant Clinic & Hospital",
+    "address": "Hessa Street, Al Barsha 3, Street no. 39, Villa no. 1 & 2 - Hessa St - Dubai - United Arab Emirates",
     "phone": "+97143421155"
   },
   {
@@ -5707,7 +5707,7 @@
   },
   {
     "id": 952,
-    "name": "Emirates Integra Medical \u0026 Surgery Centre",
+    "name": "Emirates Integra Medical & Surgery Centre",
     "address": "Al Jaddaf - Dubai - United Arab Emirates",
     "phone": "+9718002524"
   },
@@ -5743,7 +5743,7 @@
   },
   {
     "id": 958,
-    "name": "Medcare Women \u0026 Children Hospital",
+    "name": "Medcare Women & Children Hospital",
     "address": "Villa 1187 - 304 Al Wasl Rd - District - Umm Al Sheif - Dubai - United Arab Emirates",
     "phone": "+97143422228"
   },
@@ -5827,7 +5827,7 @@
   },
   {
     "id": 972,
-    "name": "Philips Healthcare Middle East \u0026 Turkey",
+    "name": "Philips Healthcare Middle East & Turkey",
     "address": "Galleria Mall - Al Wasl Rd - Jumeirah 1 - Dubai - United Arab Emirates",
     "phone": "+97180024392"
   },
@@ -5875,7 +5875,7 @@
   },
   {
     "id": 980,
-    "name": "Medcare Orthopaedics \u0026 Spine Hospital",
+    "name": "Medcare Orthopaedics & Spine Hospital",
     "address": "Al Khail Rd - Dubai - United Arab Emirates",
     "phone": "+97180024392"
   },
@@ -6007,7 +6007,7 @@
   },
   {
     "id": 1002,
-    "name": "Sahara Beach Resort \u0026 Spa",
+    "name": "Sahara Beach Resort & Spa",
     "address": "CF2M+Q2G - Al Jerf 2 - Ajman - United Arab Emirates",
     "phone": "+97167400554"
   },
@@ -6043,7 +6043,7 @@
   },
   {
     "id": 1008,
-    "name": "DoubleTree by Hilton Sharjah Waterfront Hotel \u0026 Residences",
+    "name": "DoubleTree by Hilton Sharjah Waterfront Hotel & Residences",
     "address": "Wahda Rd - Sharjah - United Arab Emirates",
     "phone": "+97165985000"
   },
@@ -6061,7 +6061,7 @@
   },
   {
     "id": 1011,
-    "name": "Sheraton Sharjah Beach Resort \u0026 Spa",
+    "name": "Sheraton Sharjah Beach Resort & Spa",
     "address": "Al Muntazah St - Al Heerah Suburb - Al Muntazah - Sharjah - United Arab Emirates",
     "phone": "+97165630000"
   },
@@ -6151,7 +6151,7 @@
   },
   {
     "id": 1026,
-    "name": "Golden Sands Hotel \u0026 Residences",
+    "name": "Golden Sands Hotel & Residences",
     "address": "Al Andalus Square - Al Sharq - Al Mujarrah - Sharjah - United Arab Emirates",
     "phone": "+97165656222"
   },
@@ -6205,7 +6205,7 @@
   },
   {
     "id": 1035,
-    "name": "Sahara Beach Resort \u0026 Spa",
+    "name": "Sahara Beach Resort & Spa",
     "address": "بجانب نستو هايبر ماركت - Al Zahra'a St - Sharjah - United Arab Emirates",
     "phone": "+97165656512"
   },
@@ -6319,7 +6319,7 @@
   },
   {
     "id": 1054,
-    "name": "Ramada Hotel \u0026 Suites by Wyndham Ajman",
+    "name": "Ramada Hotel & Suites by Wyndham Ajman",
     "address": "Near Safeer Mall - Al Nahda Rd - Sharjah - United Arab Emirates",
     "phone": "+97165935333"
   },
@@ -6625,8 +6625,8 @@
   },
   {
     "id": 1105,
-    "name": "Buonissimo Restaurant \u0026 Cafe",
-    "address": "Sheraton Sharjah Beach Resort \u0026 Spa - Al Muntazah St - Sharjah - United Arab Emirates",
+    "name": "Buonissimo Restaurant & Cafe",
+    "address": "Sheraton Sharjah Beach Resort & Spa - Al Muntazah St - Sharjah - United Arab Emirates",
     "phone": "+971565030063"
   },
   {
@@ -6650,7 +6650,7 @@
   {
     "id": 1109,
     "name": "Yasmina Restaurant",
-    "address": "Sheraton Sharjah Beach Resort \u0026 Spa, Al Muntazah Street - Sharjah - United Arab Emirates",
+    "address": "Sheraton Sharjah Beach Resort & Spa, Al Muntazah Street - Sharjah - United Arab Emirates",
     "phone": "+971565030063"
   },
   {
@@ -6667,7 +6667,7 @@
   },
   {
     "id": 1112,
-    "name": "Arabian Tea House Restaurant \u0026 Cafe - Sharjah",
+    "name": "Arabian Tea House Restaurant & Cafe - Sharjah",
     "address": "703, Office Tower - C, CG Mall - Sharjah - United Arab Emirates",
     "phone": "+97165131088"
   },
@@ -6703,7 +6703,7 @@
   },
   {
     "id": 1118,
-    "name": "iCook Asian Restaurant \u0026 Catering",
+    "name": "iCook Asian Restaurant & Catering",
     "address": "Industrial Area 11,Bin Ladin Signal - Sharjah - United Arab Emirates",
     "phone": "+97165344284"
   },
@@ -6770,7 +6770,7 @@
   {
     "id": 1129,
     "name": "Beit setti Restaurant",
-    "address": "Shop no 2\u00263, Bahwan Tower, Sharjah, King Faisl Rd, Jumbo (Sony) 1 - Al Majaz - Sharjah - United Arab Emirates",
+    "address": "Shop no 2&3, Bahwan Tower, Sharjah, King Faisl Rd, Jumbo (Sony) 1 - Al Majaz - Sharjah - United Arab Emirates",
     "phone": "+971521342859"
   },
   {
@@ -6920,7 +6920,7 @@
   {
     "id": 1154,
     "name": "Food Basket restaurant Sharjah",
-    "address": "Maliha, Muwaileh, Near India International School \u0026 Delhi Private School - Sharjah - United Arab Emirates",
+    "address": "Maliha, Muwaileh, Near India International School & Delhi Private School - Sharjah - United Arab Emirates",
     "phone": "+971523790881"
   },
   {
@@ -6944,7 +6944,7 @@
   {
     "id": 1158,
     "name": "Bab Khaibar Restaurant Sharjah",
-    "address": "Sheraton Sharjah Beach Resort \u0026 Spa, Al Muntazah Street - Sharjah - United Arab Emirates",
+    "address": "Sheraton Sharjah Beach Resort & Spa, Al Muntazah Street - Sharjah - United Arab Emirates",
     "phone": "+97165990088"
   },
   {
@@ -6985,7 +6985,7 @@
   },
   {
     "id": 1165,
-    "name": "Fen Café \u0026 Restaurant",
+    "name": "Fen Café & Restaurant",
     "address": "Industrial Area - Industrial Area 11 - Sharjah - United Arab Emirates",
     "phone": "+97165349233"
   },
@@ -7003,7 +7003,7 @@
   },
   {
     "id": 1168,
-    "name": "Khubz \u0026 Meleh Restaurant- Sharjah",
+    "name": "Khubz & Meleh Restaurant- Sharjah",
     "address": "Delma House building - Al MajazAl Majaz 1 - Sharjah - United Arab Emirates",
     "phone": "+97165303090"
   },
@@ -7027,7 +7027,7 @@
   },
   {
     "id": 1172,
-    "name": "Paper Fig Restaurant \u0026 Dessert Shop",
+    "name": "Paper Fig Restaurant & Dessert Shop",
     "address": "105 Al Zahraa St-105th St - Al Sharq - Al Musalla - Sharjah - United Arab Emirates",
     "phone": "+97165614550"
   },
@@ -7507,7 +7507,7 @@
   },
   {
     "id": 1252,
-    "name": "MOHD JASHIM ABAYA TAILORING \u0026 EMB",
+    "name": "MOHD JASHIM ABAYA TAILORING & EMB",
     "address": "995P+MFR - Rolla, Bank Street - Sharjah - United Arab Emirates",
     "phone": "+97165686840"
   },
@@ -7663,7 +7663,7 @@
   },
   {
     "id": 1278,
-    "name": "sharjah china town \u0026 china mall",
+    "name": "sharjah china town & china mall",
     "address": "Baby Park Center -Sharjah, United Arab Emirates - 764 Al Sharq St - Al Sharq - Al Naba'ah - Sharjah - United Arab Emirates",
     "phone": ""
   },
@@ -7699,7 +7699,7 @@
   },
   {
     "id": 1284,
-    "name": "Faisal Qayyum Plaster Tiles \u0026 Paints Cont.",
+    "name": "Faisal Qayyum Plaster Tiles & Paints Cont.",
     "address": "Al Qasimi St - Al Sharq - Al Nasserya - Sharjah - United Arab Emirates",
     "phone": ""
   },
@@ -8443,7 +8443,7 @@
   },
   {
     "id": 1408,
-    "name": "Radisson Blu Hotel \u0026 Resort, Al Ain",
+    "name": "Radisson Blu Hotel & Resort, Al Ain",
     "address": "شارع زايد بن سلطان، - Al Jahili - أبو ظبي - United Arab Emirates",
     "phone": "+97137545111"
   },
@@ -8473,7 +8473,7 @@
   },
   {
     "id": 1413,
-    "name": "Ayla Bawadi Hotel \u0026 Mall",
+    "name": "Ayla Bawadi Hotel & Mall",
     "address": "Zayed Bin Sultan St,Bawadi Mall Area,Mayzad , Al Ain - Abu Dhabi - United Arab Emirates",
     "phone": "+97137030111"
   },
@@ -8605,7 +8605,7 @@
   },
   {
     "id": 1435,
-    "name": "Al Fanar Restaurant \u0026 Cafe",
+    "name": "Al Fanar Restaurant & Cafe",
     "address": "Zayed Ibn Sultan Street, 137th Street, Al Masagi, Al Ain - Abu Dhabi - United Arab Emirates",
     "phone": "+97137031071"
   },
@@ -8653,7 +8653,7 @@
   },
   {
     "id": 1443,
-    "name": "New Quetta Restaurant \u0026 Cafeteria",
+    "name": "New Quetta Restaurant & Cafeteria",
     "address": "Town Centre Opp. Al Noor Hospital - Shek Khalifa Bin Zayed St - Abu Dhabi - United Arab Emirates",
     "phone": "+97137661116"
   },
@@ -8785,7 +8785,7 @@
   },
   {
     "id": 1465,
-    "name": "Paul Bakery \u0026 Restaurant",
+    "name": "Paul Bakery & Restaurant",
     "address": "6QC6+WRF - Unnamed Road - Central District - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -8929,7 +8929,7 @@
   },
   {
     "id": 1489,
-    "name": "Al Ain Square F\u0026B Hub",
+    "name": "Al Ain Square F&B Hub",
     "address": "Ground Floor, Food Court,, HCT Women's Al Ain - Abu Dhabi - United Arab Emirates",
     "phone": "+97137095273"
   },
@@ -8990,7 +8990,7 @@
   {
     "id": 1499,
     "name": "Jollibee Al Ain Mall",
-    "address": "Behind Lulu hyper market \u0026 Beside Remal mall, Sanaiya, Alain - Abu Dhabi - United Arab Emirates",
+    "address": "Behind Lulu hyper market & Beside Remal mall, Sanaiya, Alain - Abu Dhabi - United Arab Emirates",
     "phone": "+97137331119"
   },
   {
@@ -9175,8 +9175,8 @@
   },
   {
     "id": 1530,
-    "name": "ALMALLAH Restaurant \u0026 Grills",
-    "address": "Ground Floor, Radisson Blu Hotel \u0026 Resort, Al Ain, Sarooj District - Abu Dhabi - United Arab Emirates",
+    "name": "ALMALLAH Restaurant & Grills",
+    "address": "Ground Floor, Radisson Blu Hotel & Resort, Al Ain, Sarooj District - Abu Dhabi - United Arab Emirates",
     "phone": "+971566853832"
   },
   {
@@ -9188,7 +9188,7 @@
   {
     "id": 1532,
     "name": "Burger King - Al Ain Mall",
-    "address": "Ground Floor, Radisson Blu Hotel \u0026 Resort, Al Ain, Sarooj District - Abu Dhabi - United Arab Emirates",
+    "address": "Ground Floor, Radisson Blu Hotel & Resort, Al Ain, Sarooj District - Abu Dhabi - United Arab Emirates",
     "phone": "+971566853832"
   },
   {
@@ -9457,7 +9457,7 @@
   },
   {
     "id": 1577,
-    "name": "Be Richi Accessories \u0026 Gifts",
+    "name": "Be Richi Accessories & Gifts",
     "address": "Salahuddeen Al Ayyubi St - Central District - Abu Dhabi - United Arab Emirates",
     "phone": "+97137510393"
   },
@@ -9733,7 +9733,7 @@
   },
   {
     "id": 1623,
-    "name": "Rivoli EyeZone Optical \u0026 Sunglasses Store - Al Ain Mall",
+    "name": "Rivoli EyeZone Optical & Sunglasses Store - Al Ain Mall",
     "address": "6QCC+3QG - Al Ain Central Bus Station - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -9763,7 +9763,7 @@
   },
   {
     "id": 1628,
-    "name": "Ayla Bawadi Hotel \u0026 Mall",
+    "name": "Ayla Bawadi Hotel & Mall",
     "address": "6Q95+7HQ - شارع العين - Al Jahili - Abu Dhabi - United Arab Emirates",
     "phone": "+97137046500"
   },
@@ -10147,7 +10147,7 @@
   },
   {
     "id": 1692,
-    "name": "Al Fanar Restaurant \u0026 Cafe",
+    "name": "Al Fanar Restaurant & Cafe",
     "address": "4Q22+7CG - Mbazzarah Al Khadra - Abu Dhabi - United Arab Emirates",
     "phone": ""
   },
@@ -10676,7 +10676,7 @@
   {
     "id": 1780,
     "name": "مستشفى النور العين",
-    "address": "M1 \u0026 M2 Floor, Above Hayat Center Main Street - Abu Dhabi - United Arab Emirates",
+    "address": "M1 & M2 Floor, Above Hayat Center Main Street - Abu Dhabi - United Arab Emirates",
     "phone": "+97137665561"
   },
   {
@@ -10879,7 +10879,7 @@
   },
   {
     "id": 1814,
-    "name": "Sheraton Sharjah Beach Resort \u0026 Spa",
+    "name": "Sheraton Sharjah Beach Resort & Spa",
     "address": "4 Al Hamriya Street - United Arab Emirates",
     "phone": "+97167439439"
   },
@@ -10897,7 +10897,7 @@
   },
   {
     "id": 1817,
-    "name": "Ramada Hotel \u0026 Suites by Wyndham Ajman",
+    "name": "Ramada Hotel & Suites by Wyndham Ajman",
     "address": "Sheikh Humaid Bin Rashid Al Nuaimi Street - Al Owan - Al Nakhil 2 - Ajman - United Arab Emirates",
     "phone": "+97167018888"
   },
@@ -10981,7 +10981,7 @@
   },
   {
     "id": 1831,
-    "name": "Sheraton Sharjah Beach Resort \u0026 Spa",
+    "name": "Sheraton Sharjah Beach Resort & Spa",
     "address": "Royal Building - 22 29 A St - apartment No#103 - First floor - near to Asiana hotel - Deira - Dubai - United Arab Emirates",
     "phone": "+971559806179"
   },
@@ -11215,7 +11215,7 @@
   },
   {
     "id": 1870,
-    "name": "Sahara Beach Resort \u0026 Spa",
+    "name": "Sahara Beach Resort & Spa",
     "address": "CC5M+3X7 - 19 شارع أبو عبيده بن الجراح - Al Nakhil - Al Rumailah 1 - Ajman - United Arab Emirates",
     "phone": "+97167414148"
   },
@@ -11305,7 +11305,7 @@
   },
   {
     "id": 1885,
-    "name": "Palma Beach Resort \u0026 Spa Umm Al Quwain",
+    "name": "Palma Beach Resort & Spa Umm Al Quwain",
     "address": "99FW+8M2 - Sultan Bin Saqr Al Qasimi Street, Opp Umm Al Qura Mosque, Al Qulayaah - Sharjah - United Arab Emirates",
     "phone": "+97165272233"
   },
@@ -11359,7 +11359,7 @@
   },
   {
     "id": 1894,
-    "name": "DoubleTree by Hilton Sharjah Waterfront Hotel \u0026 Residences",
+    "name": "DoubleTree by Hilton Sharjah Waterfront Hotel & Residences",
     "address": "Kuwait Street, Behind Safeer Mall, 3 Al Nuaimia - Ajman - United Arab Emirates",
     "phone": "+97167426060"
   },
@@ -11431,7 +11431,7 @@
   },
   {
     "id": 1906,
-    "name": "Pearl Hotel \u0026 Spa",
+    "name": "Pearl Hotel & Spa",
     "address": "996R+RVF - Arabian Gulf St - Al Sharq - Al Naba'ah - Sharjah - United Arab Emirates",
     "phone": "+97165045666"
   },
@@ -11575,7 +11575,7 @@
   },
   {
     "id": 1930,
-    "name": "Filini Bar \u0026 Restaurant",
+    "name": "Filini Bar & Restaurant",
     "address": "CC3J+4HR - Al Rumailah - Al Rumailah 2 - Ajman - United Arab Emirates",
     "phone": "+97167425223"
   },
@@ -11659,7 +11659,7 @@
   },
   {
     "id": 1944,
-    "name": "Najmat Al Khaleej Fast Food\u0026 restaurant",
+    "name": "Najmat Al Khaleej Fast Food& restaurant",
     "address": "Al Ittihad Street - Ajman - United Arab Emirates",
     "phone": "+971544116322"
   },
@@ -11695,7 +11695,7 @@
   },
   {
     "id": 1950,
-    "name": "AROOS AL HIND RESTAURENT \u0026 CAFETERIA",
+    "name": "AROOS AL HIND RESTAURENT & CAFETERIA",
     "address": "89 شارع الاتحاد - opp. Lulu Hypermarket - Ajman - United Arab Emirates",
     "phone": "+97167444677"
   },
@@ -11708,7 +11708,7 @@
   {
     "id": 1952,
     "name": "Chacha Machi Ajman Jurf",
-    "address": "Damascus St - near Ministry Of Climate Change \u0026 Environment - Al Rawda 3 - Ajman - United Arab Emirates",
+    "address": "Damascus St - near Ministry Of Climate Change & Environment - Al Rawda 3 - Ajman - United Arab Emirates",
     "phone": "+97167444450"
   },
   {
@@ -11755,13 +11755,13 @@
   },
   {
     "id": 1960,
-    "name": "Al Mafrq Kitchen \u0026 Restaurant Ajman",
+    "name": "Al Mafrq Kitchen & Restaurant Ajman",
     "address": "Medeena bakery road - 6 شارع الصنعاء - Ajman Industrial 2 - Ajman - United Arab Emirates",
     "phone": "+971524553399"
   },
   {
     "id": 1961,
-    "name": "Bab Al Bahr Beach Bar \u0026 Grill",
+    "name": "Bab Al Bahr Beach Bar & Grill",
     "address": "شارع الزهراء - Ajman Industrial 1 - Ajman - United Arab Emirates",
     "phone": "+971551177868"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "id": 1973,
-    "name": "Mr. Broast Chicken | Restaurant \u0026 Cafeteria",
+    "name": "Mr. Broast Chicken | Restaurant & Cafeteria",
     "address": "شارع الاتحاد - Al Rashidiya 1 - Ajman - United Arab Emirates",
     "phone": "+97167442281"
   },
@@ -12361,7 +12361,7 @@
   },
   {
     "id": 2061,
-    "name": "Ajman Boulevard Commercial Buildings Building A \u0026 B",
+    "name": "Ajman Boulevard Commercial Buildings Building A & B",
     "address": "Sheikh Khalid Bin Mohammed Al Qasimi St - Al Riqa Suburb - Sharjah - United Arab Emirates",
     "phone": "+97165242007"
   },
@@ -12625,7 +12625,7 @@
   },
   {
     "id": 2105,
-    "name": "MOHD JASHIM ABAYA TAILORING \u0026 EMB",
+    "name": "MOHD JASHIM ABAYA TAILORING & EMB",
     "address": "CG47+3CX - الراشدية امام حديقة النساء - Ajman - United Arab Emirates",
     "phone": "+971506997871"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "id": 2139,
-    "name": "Yacob's Farm \u0026 Camping",
+    "name": "Yacob's Farm & Camping",
     "address": "Zabeel Park Jogging Track - Za'abeel - Za'abeel 1 - Dubai - United Arab Emirates",
     "phone": "+971559188126"
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "id": 2193,
-    "name": "Sharjah Academy of Astronomy, Space sciences \u0026 Technology",
+    "name": "Sharjah Academy of Astronomy, Space sciences & Technology",
     "address": "Sharjah Science Museum Center, Behind Sharjah Television Building - Sheikh Rashid Bin Saqr Al Qasimi St - Dasman - Sharjah - United Arab Emirates",
     "phone": "+97165665466"
   },
@@ -13525,7 +13525,7 @@
   },
   {
     "id": 2255,
-    "name": "Maternal \u0026 Child Care . Ministry Of Health",
+    "name": "Maternal & Child Care . Ministry Of Health",
     "address": "Hashim Flour Mill - Fathima Building, Al badar Street Near - Ajman - United Arab Emirates",
     "phone": "+97167452230"
   },
@@ -13844,7 +13844,7 @@
   {
     "id": 2308,
     "name": "Abdul Aziz Medical Center",
-    "address": "OPP :AL YAMEN RESTAURANT \u0026KITCHEN - Al Zahir Street - near ladies park - Al Rashidiya 3 - Ajman - United Arab Emirates",
+    "address": "OPP :AL YAMEN RESTAURANT &KITCHEN - Al Zahir Street - near ladies park - Al Rashidiya 3 - Ajman - United Arab Emirates",
     "phone": "+971525909758"
   },
   {

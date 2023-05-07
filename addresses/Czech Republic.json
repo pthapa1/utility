@@ -481,7 +481,7 @@
   },
   {
     "id": 81,
-    "name": "Iron Gate Hotel \u0026 Suites",
+    "name": "Iron Gate Hotel & Suites",
     "address": "Jilská 235/7, 110 00 Staré Město, Czechia",
     "phone": "235711000"
   },
@@ -529,7 +529,7 @@
   },
   {
     "id": 89,
-    "name": "Allure Hotel Prague (Allure Hotel \u0026 Residence Prague)",
+    "name": "Allure Hotel Prague (Allure Hotel & Residence Prague)",
     "address": "7 Celetná 600, Štupartská 2, Staré Město, 110 00 entrance, Czechia",
     "phone": "7600211000"
   },
@@ -601,7 +601,7 @@
   },
   {
     "id": 101,
-    "name": "Ribs of Prague - #1 Ribs \u0026 Pork Knee Restaurant",
+    "name": "Ribs of Prague - #1 Ribs & Pork Knee Restaurant",
     "address": "Tržiště 368/9, 118 00 Malá Strana, Czechia",
     "phone": "368911800"
   },
@@ -649,7 +649,7 @@
   },
   {
     "id": 109,
-    "name": "Sad Man's Tongue Bar \u0026 Bistro",
+    "name": "Sad Man's Tongue Bar & Bistro",
     "address": "Liliová 1, Liliová 216, Staré Město, 110 00 Praha 1, Czechia",
     "phone": "1216110001"
   },
@@ -661,7 +661,7 @@
   },
   {
     "id": 111,
-    "name": "PAPRIKA - Mediterranean Kitchen \u0026 Bar",
+    "name": "PAPRIKA - Mediterranean Kitchen & Bar",
     "address": "Nebovidská 459/1, 118 00 Malá Strana, Czechia",
     "phone": "459111800"
   },
@@ -835,7 +835,7 @@
   },
   {
     "id": 140,
-    "name": "ART\u0026FOOD Had",
+    "name": "ART&FOOD Had",
     "address": "V Celnici 1028/10, 110 00 Nové Město, Czechia",
     "phone": "10281011000"
   },
@@ -913,7 +913,7 @@
   },
   {
     "id": 153,
-    "name": "MeatEater steak \u0026 wine",
+    "name": "MeatEater steak & wine",
     "address": "12, Letenská 33, Malá Strana, 118 00 Malá Strana, Czechia",
     "phone": "123311800"
   },
@@ -985,7 +985,7 @@
   },
   {
     "id": 165,
-    "name": "Augustine Restaurant \u0026 Garden",
+    "name": "Augustine Restaurant & Garden",
     "address": "Veleslavínova 1098/2a, 110 00 Josefov, Czechia",
     "phone": "1098211000"
   },
@@ -997,7 +997,7 @@
   },
   {
     "id": 167,
-    "name": "Spices Restaurant \u0026 Bar",
+    "name": "Spices Restaurant & Bar",
     "address": "Štěpánská 611/14, 110 00 Nové Město, Czechia",
     "phone": "6111411000"
   },
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 175,
-    "name": "Ichnusa Botega \u0026 Bistro",
+    "name": "Ichnusa Botega & Bistro",
     "address": "Smetanovo nábř. 195, 110 00 Staré Město, Czechia",
     "phone": "19511000"
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "id": 291,
-    "name": "Luka Living rental apartments \u0026 shopping center.",
+    "name": "Luka Living rental apartments & shopping center.",
     "address": "Václavské nám. 1, 110 00 Můstek, Czechia",
     "phone": "+420224219526"
   },
@@ -2515,7 +2515,7 @@
   },
   {
     "id": 420,
-    "name": "VV Hotel B \u0026 B",
+    "name": "VV Hotel B & B",
     "address": "Kociánka 73, 612 00 Brno-Královo Pole-Sadová, Czechia",
     "phone": "+420733738748"
   },
@@ -2563,7 +2563,7 @@
   },
   {
     "id": 428,
-    "name": "Bed\u0026breakfast Placzek",
+    "name": "Bed&breakfast Placzek",
     "address": "Rozdrojovice 177, 664 34 Rozdrojovice, Czechia",
     "phone": "17766434"
   },
@@ -2599,7 +2599,7 @@
   },
   {
     "id": 434,
-    "name": "B\u0026B Hotel University Brno",
+    "name": "B&B Hotel University Brno",
     "address": "Hlinky 36/94, 603 00 Brno, Czechia",
     "phone": "369460300"
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "id": 446,
-    "name": "Bed\u0026Breakfast Klafé",
+    "name": "Bed&Breakfast Klafé",
     "address": "Kopečná 938/3, 602 00 Brno-střed, Czechia",
     "phone": "938360200"
   },
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 451,
-    "name": "Schrott Bed\u0026Beer",
+    "name": "Schrott Bed&Beer",
     "address": "5, Radlas 94, 602 00 Brno-střed, Czechia",
     "phone": "59460200"
   },
@@ -2833,13 +2833,13 @@
   },
   {
     "id": 473,
-    "name": "Hostel BED \u0026 BREAKFAST Brno",
+    "name": "Hostel BED & BREAKFAST Brno",
     "address": "Dominikánská 347, 602 00 Brno-střed-Brno-město, Czechia",
     "phone": "34760200"
   },
   {
     "id": 474,
-    "name": "Penzion Bed \u0026 Breakfast",
+    "name": "Penzion Bed & Breakfast",
     "address": "Horova 1622, 616 00 Brno-Žabovřesky, Czechia",
     "phone": "162261600"
   },
@@ -2893,7 +2893,7 @@
   },
   {
     "id": 483,
-    "name": "Švejk Restaurant \u0026 Pension",
+    "name": "Švejk Restaurant & Pension",
     "address": "Masarykova 26-30, 602 00 Brno-střed, Czechia",
     "phone": "263060200"
   },
@@ -3061,13 +3061,13 @@
   },
   {
     "id": 511,
-    "name": "Butcher's Grill \u0026 Pasta",
+    "name": "Butcher's Grill & Pasta",
     "address": "Vídeňská 223 /1, 639 00 Brno-střed, Czechia",
     "phone": "223163900"
   },
   {
     "id": 512,
-    "name": "Siesta Lobby \u0026 Wine Restaurant",
+    "name": "Siesta Lobby & Wine Restaurant",
     "address": "Ve Vaňkovce 462/1, 602 00 Brno-střed, Czechia",
     "phone": "462160200"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "id": 528,
-    "name": "Element Bar \u0026 Restaurant",
+    "name": "Element Bar & Restaurant",
     "address": "Bistro Di Napoli, Štefánikova 20, 602 00 Brno-Královo Pole, Czechia",
     "phone": "+420608088860"
   },
@@ -3259,7 +3259,7 @@
   },
   {
     "id": 544,
-    "name": "DNO restaurant \u0026 Cafe",
+    "name": "DNO restaurant & Cafe",
     "address": "Gorkého 15, 602 00 Brno-střed-Veveří, Czechia",
     "phone": "+420773947700"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "id": 548,
-    "name": "Atelier Bar \u0026 Bistro",
+    "name": "Atelier Bar & Bistro",
     "address": "Štefánikova 4, 602 00 Brno-Královo Pole, Czechia",
     "phone": "+420608613565"
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "id": 570,
-    "name": "East Village Bar \u0026 Diner",
+    "name": "East Village Bar & Diner",
     "address": "Veletržní 716/13, 603 00 Brno-střed, Czechia",
     "phone": "7161360300"
   },
@@ -3583,7 +3583,7 @@
   },
   {
     "id": 598,
-    "name": "MIKI pub \u0026 restaurant",
+    "name": "MIKI pub & restaurant",
     "address": "Starobrněnská 334/3, 602 00 Brno-střed, Czechia",
     "phone": "334360200"
   },
@@ -3775,7 +3775,7 @@
   },
   {
     "id": 630,
-    "name": "H\u0026M",
+    "name": "H&M",
     "address": "Vltavská 216/5, 625 00 Brno-Starý Lískovec, Czechia",
     "phone": "216562500"
   },
@@ -4645,7 +4645,7 @@
   },
   {
     "id": 775,
-    "name": "Craft Beer Bottleshop \u0026 Bar",
+    "name": "Craft Beer Bottleshop & Bar",
     "address": "Kopečná 19, 602 00 Brno-střed, Czechia",
     "phone": "+420739227037"
   },
@@ -4795,7 +4795,7 @@
   },
   {
     "id": 800,
-    "name": "Jan Maria hotel \u0026 restaurace",
+    "name": "Jan Maria hotel & restaurace",
     "address": "Vratimovská, 719 00 Slezská Ostrava, Czechia",
     "phone": ""
   },
@@ -5353,7 +5353,7 @@
   },
   {
     "id": 893,
-    "name": "BERNIES GRILL \u0026 WINE RESTAURANT",
+    "name": "BERNIES GRILL & WINE RESTAURANT",
     "address": "Kpt. Vajdy 3046, 700 30 Ostrava-jih, Czechia",
     "phone": "304670030"
   },
@@ -5377,7 +5377,7 @@
   },
   {
     "id": 897,
-    "name": "Nha Cretcheu Café \u0026 Restaurant.",
+    "name": "Nha Cretcheu Café & Restaurant.",
     "address": "Havlíčkovo nábř. 687/21, 702 00 Moravská Ostrava a Přívoz, Czechia",
     "phone": "6872170200"
   },
@@ -5407,7 +5407,7 @@
   },
   {
     "id": 902,
-    "name": "Mama's Hot Dogs, Burgers \u0026 Fries",
+    "name": "Mama's Hot Dogs, Burgers & Fries",
     "address": "U Soudu 6200/19, 708 00 Ostrava-Poruba, Czechia",
     "phone": "62001970800"
   },
@@ -5443,7 +5443,7 @@
   },
   {
     "id": 908,
-    "name": "Bamboo Restaurant \u0026 Bar",
+    "name": "Bamboo Restaurant & Bar",
     "address": "U Haldy 55, 700 30 Ostrava-jih, Czechia",
     "phone": "+420596768768"
   },
@@ -5671,7 +5671,7 @@
   },
   {
     "id": 946,
-    "name": "Evropa Restaurant \u0026 Cafe Bar",
+    "name": "Evropa Restaurant & Cafe Bar",
     "address": "Havlíčkovo nám. 6171/708, 27 Ostrava-Poruba, Czechia",
     "phone": "617170827"
   },
@@ -5755,7 +5755,7 @@
   },
   {
     "id": 960,
-    "name": "Rodem Korean food\u0026Cafe",
+    "name": "Rodem Korean food&Cafe",
     "address": "28. října 1517/137, 702 00 Moravská Ostrava a Přívoz, Czechia",
     "phone": "28151713770200"
   },
@@ -5773,7 +5773,7 @@
   },
   {
     "id": 963,
-    "name": "Pasta \u0026 Fidli Restaurant",
+    "name": "Pasta & Fidli Restaurant",
     "address": "149, 28. října 2592, 702 00 Moravská Ostrava a Přívoz, Czechia",
     "phone": "14928259270200"
   },
@@ -5887,7 +5887,7 @@
   },
   {
     "id": 982,
-    "name": "Hola bar \u0026 tapas",
+    "name": "Hola bar & tapas",
     "address": "Hornopolní 3313/42, 702 00 Moravská Ostrava a Přívoz, Czechia",
     "phone": "33134270200"
   },
@@ -6019,7 +6019,7 @@
   },
   {
     "id": 1004,
-    "name": "Primavera Hotel \u0026 Congress centre",
+    "name": "Primavera Hotel & Congress centre",
     "address": "Školní 1305, 330 11 Třemošná, Czechia",
     "phone": "130533011"
   },
@@ -6115,7 +6115,7 @@
   },
   {
     "id": 1020,
-    "name": "Apartments \u0026 Suites U žluté hrušky",
+    "name": "Apartments & Suites U žluté hrušky",
     "address": "Lindauerova 5, 301 00 Plzeň 3, Czechia",
     "phone": ""
   },
@@ -6211,7 +6211,7 @@
   },
   {
     "id": 1036,
-    "name": "Restaurace \u0026 Hotel U Salzmannů",
+    "name": "Restaurace & Hotel U Salzmannů",
     "address": "Zábělá 69, 312 00 Plzeň 4-Újezd, Czechia",
     "phone": "69312004"
   },
@@ -6457,7 +6457,7 @@
   },
   {
     "id": 1077,
-    "name": "Comix Kitchen \u0026 Bar",
+    "name": "Comix Kitchen & Bar",
     "address": "1, Martinská 10, Jižní Předměstí, 301 00 Plzeň, Czechia",
     "phone": "11030100"
   },
@@ -6607,7 +6607,7 @@
   },
   {
     "id": 1102,
-    "name": "Restaurace \u0026 Hotel U Salzmannů",
+    "name": "Restaurace & Hotel U Salzmannů",
     "address": "Sedláčkova 28, 301 00 Plzeň 3, Czechia",
     "phone": "28301003"
   },
@@ -6691,7 +6691,7 @@
   },
   {
     "id": 1116,
-    "name": "L\u0026A bistro",
+    "name": "L&A bistro",
     "address": "Kollárova 531/7, 301 00 Plzeň 3, Czechia",
     "phone": "5317301003"
   },
@@ -6727,7 +6727,7 @@
   },
   {
     "id": 1122,
-    "name": "Pils'n'Grill Bar \u0026 Restaurant",
+    "name": "Pils'n'Grill Bar & Restaurant",
     "address": "Klatovská tř. 969/30, 301 00 Plzeň 3-Jižní Předměstí, Czechia",
     "phone": "96930301003"
   },
@@ -6847,7 +6847,7 @@
   },
   {
     "id": 1142,
-    "name": "Antalya Kebap \u0026 Shisha Bar Restaurant",
+    "name": "Antalya Kebap & Shisha Bar Restaurant",
     "address": "Palackého 87/13, 301 00 Plzeň 3-Jižní Předměstí, Czechia",
     "phone": "8713301003"
   },
@@ -6961,7 +6961,7 @@
   },
   {
     "id": 1161,
-    "name": "New York Burger \u0026 Chicken",
+    "name": "New York Burger & Chicken",
     "address": "4, Veleslavínova 59, 301 00 Plzeň, Czechia",
     "phone": "45930100"
   },
@@ -6973,7 +6973,7 @@
   },
   {
     "id": 1163,
-    "name": "Vok \u0026 sushi",
+    "name": "Vok & sushi",
     "address": "Martinská 7, 301 00 Plzeň 3, Czechia",
     "phone": "+420724617961"
   },
@@ -7153,13 +7153,13 @@
   },
   {
     "id": 1193,
-    "name": "H\u0026M",
+    "name": "H&M",
     "address": "nám. Gen. Píky 2703/27, 326 00 Plzeň 2-Slovany, Czechia",
     "phone": "270327326002"
   },
   {
     "id": 1194,
-    "name": "GPS \u0026 Mapping Center",
+    "name": "GPS & Mapping Center",
     "address": "Přemyslova 137/25, 301 00 Plzeň 3-Jižní Předměstí, Czechia",
     "phone": "13725301003"
   },
@@ -8215,7 +8215,7 @@
   },
   {
     "id": 1370,
-    "name": "Long Story Short Hostel \u0026 Café",
+    "name": "Long Story Short Hostel & Café",
     "address": "Lazecká 330, Lazce, 779 00 Olomouc, Czechia",
     "phone": "33077900"
   },
@@ -8431,7 +8431,7 @@
   },
   {
     "id": 1406,
-    "name": "Archa Restaurant \u0026 Penzion",
+    "name": "Archa Restaurant & Penzion",
     "address": "tř. Svobody 78/41, 779 00 Olomouc, Czechia",
     "phone": "784177900"
   },
@@ -8497,7 +8497,7 @@
   },
   {
     "id": 1417,
-    "name": "LH Hotel Jana Congress \u0026 Wellness",
+    "name": "LH Hotel Jana Congress & Wellness",
     "address": "21A, Květinová 354, 783 36 Křelov-Břuchotín, Czechia",
     "phone": "2135478336"
   },
@@ -8521,7 +8521,7 @@
   },
   {
     "id": 1421,
-    "name": "Restaurace \u0026 Penzion Stella",
+    "name": "Restaurace & Penzion Stella",
     "address": "Hněvotín 429, 783 47 Hněvotín, Czechia",
     "phone": "42978347"
   },
@@ -8617,7 +8617,7 @@
   },
   {
     "id": 1437,
-    "name": "Penzion Ema B\u0026B",
+    "name": "Penzion Ema B&B",
     "address": "Farského 303/7, Hodolany, 779 00 Olomouc, Czechia",
     "phone": "303777900"
   },
@@ -8875,7 +8875,7 @@
   },
   {
     "id": 1480,
-    "name": "Hi5h indian restaurant \u0026 lounge bar",
+    "name": "Hi5h indian restaurant & lounge bar",
     "address": "Janského 469, Povel, 779 00 Olomouc, Czechia",
     "phone": "46977900"
   },
@@ -8935,7 +8935,7 @@
   },
   {
     "id": 1490,
-    "name": "Bistro No. - takeaway \u0026 delivery",
+    "name": "Bistro No. - takeaway & delivery",
     "address": "Pražská 255/41, 779 00 Olomouc, Czechia",
     "phone": "2554177900"
   },
@@ -8995,7 +8995,7 @@
   },
   {
     "id": 1500,
-    "name": "Konvikt Bistro \u0026 Bar",
+    "name": "Konvikt Bistro & Bar",
     "address": "Tabulový vrch, V Hlinkách 930/11, Nová Ulice, 779 00 Olomouc, Czechia",
     "phone": "9301177900"
   },
@@ -9013,7 +9013,7 @@
   },
   {
     "id": 1503,
-    "name": "Long Story Short Eatery \u0026 Bakery",
+    "name": "Long Story Short Eatery & Bakery",
     "address": "Krameriova, 779 00 Olomouc, Czechia",
     "phone": ""
   },
@@ -9181,7 +9181,7 @@
   },
   {
     "id": 1531,
-    "name": "BEATA lunch \u0026 coffee",
+    "name": "BEATA lunch & coffee",
     "address": "Litovelská 77/7, Nová Ulice, 779 00 Olomouc, Czechia",
     "phone": "77777900"
   },

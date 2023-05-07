@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "name": "Delta Hotels by Marriott Toronto Airport \u0026 Conference Centre",
+    "name": "Delta Hotels by Marriott Toronto Airport & Conference Centre",
     "address": "1 King St W, Toronto, ON M5H 1A1, Canada",
     "phone": "+14165488100"
   },
@@ -43,7 +43,7 @@
   },
   {
     "id": 8,
-    "name": "One King West Hotel \u0026 Residence",
+    "name": "One King West Hotel & Residence",
     "address": "30 Carlton St., Toronto, ON M5B 2E9, Canada",
     "phone": "+14169776655"
   },
@@ -133,7 +133,7 @@
   },
   {
     "id": 23,
-    "name": "Toronto Don Valley Hotel \u0026 Suites",
+    "name": "Toronto Don Valley Hotel & Suites",
     "address": "6080 Viscount Rd, Mississauga, ON L4V 0A1, Canada",
     "phone": "+19053624337"
   },
@@ -277,7 +277,7 @@
   },
   {
     "id": 47,
-    "name": "By The Park Bed \u0026 Breakfast, Toronto Canada",
+    "name": "By The Park Bed & Breakfast, Toronto Canada",
     "address": "68 Gloucester St, Toronto, ON M4Y 1L5, Canada",
     "phone": "+14169214625"
   },
@@ -343,7 +343,7 @@
   },
   {
     "id": 58,
-    "name": "The SoHo Hotel \u0026 Residences",
+    "name": "The SoHo Hotel & Residences",
     "address": "15 Charles St E, Toronto, ON M4Y 1S1, Canada",
     "phone": ""
   },
@@ -397,7 +397,7 @@
   },
   {
     "id": 67,
-    "name": "Best Western Plus Toronto North York Hotel \u0026 Suites",
+    "name": "Best Western Plus Toronto North York Hotel & Suites",
     "address": "92 Indian Grove, Toronto, ON M6R 2Y4, Canada",
     "phone": "+14165206102"
   },
@@ -421,13 +421,13 @@
   },
   {
     "id": 71,
-    "name": "Monte Carlo Inn \u0026 Suites - Downtown Markham",
+    "name": "Monte Carlo Inn & Suites - Downtown Markham",
     "address": "300 Front St W, Toronto, ON M5V 0G5, Canada",
     "phone": "8887757743"
   },
   {
     "id": 72,
-    "name": "Sheraton Toronto Airport Hotel \u0026 Conference Centre",
+    "name": "Sheraton Toronto Airport Hotel & Conference Centre",
     "address": "8 Colborne St, Toronto, ON M5E 1E1, Canada",
     "phone": "+14163502000"
   },
@@ -457,7 +457,7 @@
   },
   {
     "id": 77,
-    "name": "Woodbine Hotel \u0026 Suites",
+    "name": "Woodbine Hotel & Suites",
     "address": "387 Bloor St E, Toronto, ON M4W 1H7, Canada",
     "phone": "+14169213333"
   },
@@ -481,7 +481,7 @@
   },
   {
     "id": 81,
-    "name": "Hilton Toronto Airport Hotel \u0026 Suites",
+    "name": "Hilton Toronto Airport Hotel & Suites",
     "address": "325 Bay St., Toronto, ON M5H 4G3, Canada",
     "phone": "+14163065800"
   },
@@ -535,7 +535,7 @@
   },
   {
     "id": 90,
-    "name": "Loft - Entertainment \u0026 Financial District",
+    "name": "Loft - Entertainment & Financial District",
     "address": "900 York Mills Rd, North York, ON M3B 3H2, Canada",
     "phone": "+14164442511"
   },
@@ -565,7 +565,7 @@
   },
   {
     "id": 95,
-    "name": "Sheraton Parkway Toronto North Hotel \u0026 Suites",
+    "name": "Sheraton Parkway Toronto North Hotel & Suites",
     "address": "550 Wellington St W, Toronto, ON M5V 2V4, Canada",
     "phone": "+14166407778"
   },
@@ -721,7 +721,7 @@
   },
   {
     "id": 121,
-    "name": "Buca Osteria \u0026 Enoteca",
+    "name": "Buca Osteria & Enoteca",
     "address": "70 University Ave, Toronto, ON M5J 2M4, Canada",
     "phone": "+16477487172"
   },
@@ -775,7 +775,7 @@
   },
   {
     "id": 130,
-    "name": "Woods Restaurant \u0026 Bar",
+    "name": "Woods Restaurant & Bar",
     "address": "25 Lower Simcoe St, Toronto, ON M5J 3A1, Canada",
     "phone": "+16473514040"
   },
@@ -853,7 +853,7 @@
   },
   {
     "id": 143,
-    "name": "Jacobs \u0026 Co. Steakhouse",
+    "name": "Jacobs & Co. Steakhouse",
     "address": "229 Carlton St., Toronto, ON M5A 2L2, Canada",
     "phone": "+14169013501"
   },
@@ -871,7 +871,7 @@
   },
   {
     "id": 146,
-    "name": "Founder Restaurant \u0026 Cocktail Bar",
+    "name": "Founder Restaurant & Cocktail Bar",
     "address": "4 Avenue Rd, Toronto, ON M5R 2E8, Canada",
     "phone": "+16479483130"
   },
@@ -997,7 +997,7 @@
   },
   {
     "id": 167,
-    "name": "Azure Restaurant \u0026 Bar",
+    "name": "Azure Restaurant & Bar",
     "address": "308 Dundas St W, Toronto, ON M5T 1G4, Canada",
     "phone": "+16473468843"
   },
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 176,
-    "name": "Sofia Restaurant \u0026 Bar",
+    "name": "Sofia Restaurant & Bar",
     "address": "80 Blue Jays Way, Toronto, ON M5V 2G3, Canada",
     "phone": "+14378005967"
   },
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 301,
-    "name": "Downsview Park Merchants Market \u0026 Farmers Market",
+    "name": "Downsview Park Merchants Market & Farmers Market",
     "address": "The PATH - Sears-Eaton Centre-Cadillac, Toronto, ON M5G 2C3, Canada",
     "phone": "+14165988560"
   },
@@ -2108,7 +2108,7 @@
   {
     "id": 352,
     "name": "Bata Shoe Museum",
-    "address": "Beverley St \u0026 McCaul Street, Toronto, ON M5T 2W7, Canada",
+    "address": "Beverley St & McCaul Street, Toronto, ON M5T 2W7, Canada",
     "phone": "+14163928188"
   },
   {
@@ -2275,7 +2275,7 @@
   },
   {
     "id": 380,
-    "name": "Bikes \u0026 Bites Tours Toronto",
+    "name": "Bikes & Bites Tours Toronto",
     "address": "Ferry Dock, Toronto, ON M5J, Canada",
     "phone": ""
   },
@@ -2371,7 +2371,7 @@
   },
   {
     "id": 396,
-    "name": "Holiday Inn \u0026 Suites Montreal Centre-Ville Ouest, an IHG Hotel",
+    "name": "Holiday Inn & Suites Montreal Centre-Ville Ouest, an IHG Hotel",
     "address": "250 René-Lévesque Blvd W, Montreal, Quebec H2Z 1Z8, Canada",
     "phone": "+15148779999"
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "id": 435,
-    "name": "Le Sand \u0026 Stone Hotel",
+    "name": "Le Sand & Stone Hotel",
     "address": "120 Peel St, Montreal, Quebec H3C 0L8, Canada",
     "phone": "+15143750220"
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "id": 446,
-    "name": "Best Western Ville-Marie Montreal Hotel \u0026 Suites",
+    "name": "Best Western Ville-Marie Montreal Hotel & Suites",
     "address": "1415 Rue St-Hubert, Montréal, QC H2L 3Y9, Canada",
     "phone": "+15148424881"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "id": 548,
-    "name": "Wienstein \u0026 Gavino's",
+    "name": "Wienstein & Gavino's",
     "address": "436 Pl. Jacques-Cartier, Montréal, QC H2Y 3B3, Canada",
     "phone": "+15148768844"
   },
@@ -3433,7 +3433,7 @@
   },
   {
     "id": 573,
-    "name": "La Queue de Cheval Steakhouse \u0026 Raw Bar",
+    "name": "La Queue de Cheval Steakhouse & Raw Bar",
     "address": "1112 Sherbrooke St W, Montreal, Quebec H3A 1G9, Canada",
     "phone": "+15142884777"
   },
@@ -3493,7 +3493,7 @@
   },
   {
     "id": 583,
-    "name": "Rodos Restaurant \u0026 Tavern - Greek Restaurant",
+    "name": "Rodos Restaurant & Tavern - Greek Restaurant",
     "address": "257 Rue Prince, Montréal, QC H3C 2N4, Canada",
     "phone": "+15143164666"
   },
@@ -3541,7 +3541,7 @@
   },
   {
     "id": 591,
-    "name": "Gia Vin \u0026 Grill",
+    "name": "Gia Vin & Grill",
     "address": "2519 Notre-Dame St W, Montreal, Quebec H3J 1N4, Canada",
     "phone": "+15144396494"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "id": 679,
-    "name": "Local Montreal Food Tours - Mile-End \u0026 Old Montreal Food Tours",
+    "name": "Local Montreal Food Tours - Mile-End & Old Montreal Food Tours",
     "address": "1255 Peel St, Montreal, Quebec H3B 4V4, Canada",
     "phone": "+15143989769"
   },
@@ -4081,7 +4081,7 @@
   },
   {
     "id": 681,
-    "name": "Concord Tours \u0026 Travel",
+    "name": "Concord Tours & Travel",
     "address": "2244 Rue Larivière, Montréal, QC H2K 4P8, Canada",
     "phone": "+15149072200"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "id": 684,
-    "name": "Librairie Drawn \u0026 Quarterly",
+    "name": "Librairie Drawn & Quarterly",
     "address": "2031 Saint Denis St, Montreal, Quebec H2X 3K8, Canada",
     "phone": "+15143031123"
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "id": 723,
-    "name": "Hampton Inn \u0026 Suites by Hilton Vancouver-Downtown",
+    "name": "Hampton Inn & Suites by Hilton Vancouver-Downtown",
     "address": "999 Canada Pl #300, Vancouver, BC V6C 3B5, Canada",
     "phone": "999300635"
   },
@@ -4399,7 +4399,7 @@
   },
   {
     "id": 734,
-    "name": "Holiday Inn \u0026 Suites Vancouver Downtown, an IHG Hotel",
+    "name": "Holiday Inn & Suites Vancouver Downtown, an IHG Hotel",
     "address": "1362 Haro St, Vancouver, BC V6E 1G2, Canada",
     "phone": "+16046812889"
   },
@@ -4525,7 +4525,7 @@
   },
   {
     "id": 755,
-    "name": "Holiday Inn \u0026 Suites Vancouver Downtown, an IHG Hotel",
+    "name": "Holiday Inn & Suites Vancouver Downtown, an IHG Hotel",
     "address": "1431 Robson St, Vancouver, BC V6G 1C1, Canada",
     "phone": "+16046851301"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "id": 761,
-    "name": "Wedgewood Hotel \u0026 Spa",
+    "name": "Wedgewood Hotel & Spa",
     "address": "Located on, 123 Carrie Cates Ct 3rd Floor, North Vancouver, BC V7M 3K7, Canada",
     "phone": "+16049866111"
   },
@@ -4657,7 +4657,7 @@
   },
   {
     "id": 777,
-    "name": "Best Western Premier Chateau Granville Hotel \u0026 Suites \u0026 Conf. Centre",
+    "name": "Best Western Premier Chateau Granville Hotel & Suites & Conf. Centre",
     "address": "1177 Melville St, Vancouver, BC V6E 0A3, Canada",
     "phone": "+16046695060"
   },
@@ -4747,7 +4747,7 @@
   },
   {
     "id": 792,
-    "name": "Carmana Hotel \u0026 Suites",
+    "name": "Carmana Hotel & Suites",
     "address": "654 Nelson St, Vancouver, BC V6B 6K4, Canada",
     "phone": "+16046054333"
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "id": 799,
-    "name": "Quality Inn \u0026 Suites Downtown Vancouver",
+    "name": "Quality Inn & Suites Downtown Vancouver",
     "address": "567 Hornby St, Vancouver, BC V6C 2E8, Canada",
     "phone": "+16046323000"
   },
@@ -4897,7 +4897,7 @@
   },
   {
     "id": 817,
-    "name": "Joe Fortes Seafood \u0026 Chop House",
+    "name": "Joe Fortes Seafood & Chop House",
     "address": "1038 Canada Pl, Vancouver, BC V6C 0B9, Canada",
     "phone": "+16046955557"
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "id": 822,
-    "name": "Lupo Restaurant \u0026 Vinoteca",
+    "name": "Lupo Restaurant & Vinoteca",
     "address": "200 Granville St #70, Vancouver, BC V6C 1S4, Canada",
     "phone": "20070614"
   },
@@ -5029,7 +5029,7 @@
   },
   {
     "id": 839,
-    "name": "Boulevard Kitchen \u0026 Oyster Bar",
+    "name": "Boulevard Kitchen & Oyster Bar",
     "address": "1133 W Hastings St, Vancouver, BC V6E 3T3, Canada",
     "phone": "+16046912777"
   },
@@ -5101,7 +5101,7 @@
   },
   {
     "id": 851,
-    "name": "Tutto Restaurant \u0026 Bar",
+    "name": "Tutto Restaurant & Bar",
     "address": "1167 Marinaside Crescent, Vancouver, BC V6Z 2Y2, Canada",
     "phone": "+16046814144"
   },
@@ -5191,13 +5191,13 @@
   },
   {
     "id": 866,
-    "name": "Bacchus Restaurant \u0026 Lounge",
+    "name": "Bacchus Restaurant & Lounge",
     "address": "216 Abbott St, Vancouver, BC V6B 2K8, Canada",
     "phone": "+16046690033"
   },
   {
     "id": 867,
-    "name": "Showcase Restaurant \u0026 Bar",
+    "name": "Showcase Restaurant & Bar",
     "address": "55 Dunlevy Ave, Vancouver, BC V6A 3A3, Canada",
     "phone": "+16046991989"
   },
@@ -5323,7 +5323,7 @@
   },
   {
     "id": 888,
-    "name": "Eat Bar \u0026 Patio Haraheri",
+    "name": "Eat Bar & Patio Haraheri",
     "address": "263 E Pender St, Vancouver, BC V6A 1T8, Canada",
     "phone": "+17783798078"
   },
@@ -5359,7 +5359,7 @@
   },
   {
     "id": 894,
-    "name": "Notch8 Restaurant \u0026 Bar",
+    "name": "Notch8 Restaurant & Bar",
     "address": "1032 Alberni St 3rd floor, Vancouver, BC V6E 1A3, Canada",
     "phone": "10323613"
   },
@@ -5419,7 +5419,7 @@
   },
   {
     "id": 904,
-    "name": "Hy's Steakhouse \u0026 Cocktail Bar",
+    "name": "Hy's Steakhouse & Cocktail Bar",
     "address": "415 Powell St, Vancouver, BC V6A 1G7, Canada",
     "phone": "+16042530705"
   },
@@ -5473,7 +5473,7 @@
   },
   {
     "id": 913,
-    "name": "Fanny Bay Oyster Bar \u0026 Shellfish Market",
+    "name": "Fanny Bay Oyster Bar & Shellfish Market",
     "address": "860 Burrard St, Vancouver, BC V6Z 1X9, Canada",
     "phone": "+16046872858"
   },
@@ -5647,7 +5647,7 @@
   },
   {
     "id": 942,
-    "name": "Park \u0026 Tilford",
+    "name": "Park & Tilford",
     "address": "737 Dunsmuir St, Vancouver, BC V7Y 1E4, Canada",
     "phone": "+16046813121"
   },
@@ -5683,7 +5683,7 @@
   },
   {
     "id": 948,
-    "name": "Library Square Tower Shops \u0026 Food",
+    "name": "Library Square Tower Shops & Food",
     "address": "5000 Canoe Pass Wy, Tsawwassen, BC V4M 0B3, Canada",
     "phone": "+16049489889"
   },
@@ -5995,7 +5995,7 @@
   },
   {
     "id": 1000,
-    "name": "Holt Renfrew | Canada’s Designer Fashion, Beauty \u0026 Lifestyle Retailer",
+    "name": "Holt Renfrew | Canada’s Designer Fashion, Beauty & Lifestyle Retailer",
     "address": "106 Keefer St, Vancouver, BC V6A 1X4, Canada",
     "phone": "+16046323809"
   },
@@ -6271,7 +6271,7 @@
   },
   {
     "id": 1046,
-    "name": "Vancouver Police Museum \u0026 Archives",
+    "name": "Vancouver Police Museum & Archives",
     "address": "2410 Columbia St, Vancouver, BC V5Y 3E6, Canada",
     "phone": ""
   },
@@ -6391,7 +6391,7 @@
   },
   {
     "id": 1066,
-    "name": "Roundhouse Community Arts \u0026 Recreation Centre",
+    "name": "Roundhouse Community Arts & Recreation Centre",
     "address": "36800 BC-99, Squamish, BC V8B 0B6, Canada",
     "phone": "3680099806"
   },
@@ -6535,7 +6535,7 @@
   },
   {
     "id": 1090,
-    "name": "Vancouver Mysteries Outdoor Games \u0026 Virtual Games",
+    "name": "Vancouver Mysteries Outdoor Games & Virtual Games",
     "address": "3735 Capilano Rd, North Vancouver, BC V7R 4J1, Canada",
     "phone": "+16049857474"
   },
@@ -6715,7 +6715,7 @@
   },
   {
     "id": 1120,
-    "name": "Holiday Inn Express \u0026 Suites Downtown Ottawa East, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Downtown Ottawa East, an IHG Hotel",
     "address": "168 Daniel St S, Arnprior, ON K7S 2L8, Canada",
     "phone": "+16136237906"
   },
@@ -6817,7 +6817,7 @@
   },
   {
     "id": 1137,
-    "name": "Four Points by Sheraton Hotel \u0026 Conference Centre Gatineau-Ottawa",
+    "name": "Four Points by Sheraton Hotel & Conference Centre Gatineau-Ottawa",
     "address": "1668 Montréal Rd, Gloucester, ON K1J 6N5, Canada",
     "phone": "+16137456818"
   },
@@ -6883,7 +6883,7 @@
   },
   {
     "id": 1148,
-    "name": "Fairfield Inn \u0026 Suites by Marriott Ottawa Airport",
+    "name": "Fairfield Inn & Suites by Marriott Ottawa Airport",
     "address": "203 York St, Ottawa, ON K1N 5T7, Canada",
     "phone": "+16132413402"
   },
@@ -6907,7 +6907,7 @@
   },
   {
     "id": 1152,
-    "name": "Comfort Inn \u0026 Suites",
+    "name": "Comfort Inn & Suites",
     "address": "2055 Robertson Rd, Ottawa, ON K2H 5Y9, Canada",
     "phone": "+16136900100"
   },
@@ -6967,13 +6967,13 @@
   },
   {
     "id": 1162,
-    "name": "Ambassador Bed \u0026 Breakfast",
+    "name": "Ambassador Bed & Breakfast",
     "address": "450 Laurier Ave. E, Ottawa, ON K1N 6R3, Canada",
     "phone": "+16138906022"
   },
   {
     "id": 1163,
-    "name": "Holiday Inn Express \u0026 Suites Ottawa Airport, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Ottawa Airport, an IHG Hotel",
     "address": "2881 Gibford Dr, Ottawa, ON K1V 2L9, Canada",
     "phone": "+16132479500"
   },
@@ -6991,7 +6991,7 @@
   },
   {
     "id": 1166,
-    "name": "Fairfield Inn \u0026 Suites by Marriott Ottawa Kanata",
+    "name": "Fairfield Inn & Suites by Marriott Ottawa Kanata",
     "address": "207 Bell St N Suite 100, Ottawa, ON K1R 0B9, Canada",
     "phone": "207100109"
   },
@@ -7021,7 +7021,7 @@
   },
   {
     "id": 1171,
-    "name": "Holiday Inn Express \u0026 Suites Ottawa East - Orleans, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Ottawa East - Orleans, an IHG Hotel",
     "address": "161 Laurier Avenue West, Ottawa, ON K1P 5J2, Canada",
     "phone": "+16132312020"
   },
@@ -7033,7 +7033,7 @@
   },
   {
     "id": 1173,
-    "name": "Holiday Inn Express \u0026 Suites Ottawa West - Nepean, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Ottawa West - Nepean, an IHG Hotel",
     "address": "355 McNeely Ave, Carleton Place, ON K7C 0A1, Canada",
     "phone": "+16132160079"
   },
@@ -7069,13 +7069,13 @@
   },
   {
     "id": 1179,
-    "name": "Best Western Plus Ottawa Kanata Hotel \u0026 Conference Centre",
+    "name": "Best Western Plus Ottawa Kanata Hotel & Conference Centre",
     "address": "25 Cartier St, Ottawa, ON K2P 1J2, Canada",
     "phone": "+16132372111"
   },
   {
     "id": 1180,
-    "name": "Microtel Inn \u0026 Suites by Wyndham Kanata",
+    "name": "Microtel Inn & Suites by Wyndham Kanata",
     "address": "130 Besserer St, Ottawa, ON K1N 9M9, Canada",
     "phone": "8666820879"
   },
@@ -7153,7 +7153,7 @@
   },
   {
     "id": 1193,
-    "name": "Holiday Inn Express \u0026 Suites Ottawa, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Ottawa, an IHG Hotel",
     "address": "2259 Prince of Wales Dr, Ottawa, ON K2E 6Z8, Canada",
     "phone": "+16132883500"
   },
@@ -7213,7 +7213,7 @@
   },
   {
     "id": 1203,
-    "name": "RiverRock Inn \u0026 Conference Centre",
+    "name": "RiverRock Inn & Conference Centre",
     "address": "3605 Paul Anka Dr, Ottawa, ON K1V 2S6, Canada",
     "phone": "+16134223678"
   },
@@ -7279,7 +7279,7 @@
   },
   {
     "id": 1214,
-    "name": "North \u0026 Navy",
+    "name": "North & Navy",
     "address": "853 St. Laurent Blvd, Ottawa, ON K1K 3B1, Canada",
     "phone": "+16137424444"
   },
@@ -7297,7 +7297,7 @@
   },
   {
     "id": 1217,
-    "name": "Play Food \u0026 Wine",
+    "name": "Play Food & Wine",
     "address": "The Westin Ottawa, 11 Colonel By Dr, Ottawa, ON K1N 5X2, Canada",
     "phone": ""
   },
@@ -7309,7 +7309,7 @@
   },
   {
     "id": 1219,
-    "name": "Beckta Dining \u0026 Wine",
+    "name": "Beckta Dining & Wine",
     "address": "1585 Bank St, Ottawa, ON K1H 7Z3, Canada",
     "phone": "+16137318424"
   },
@@ -7345,7 +7345,7 @@
   },
   {
     "id": 1225,
-    "name": "The Green Door Restaurant \u0026 Bakery",
+    "name": "The Green Door Restaurant & Bakery",
     "address": "256 Preston St, Ottawa, ON K1R 7R5, Canada",
     "phone": "+16132318424"
   },
@@ -7363,13 +7363,13 @@
   },
   {
     "id": 1228,
-    "name": "Arlo Wine \u0026 Restaurant",
+    "name": "Arlo Wine & Restaurant",
     "address": "374 Elgin St, Ottawa, ON K2P 1N1, Canada",
     "phone": "+16132379700"
   },
   {
     "id": 1229,
-    "name": "Beckta Dining \u0026 Wine",
+    "name": "Beckta Dining & Wine",
     "address": "33 Nicholas St, Ottawa, ON K1N 9M7, Canada",
     "phone": "+16137604771"
   },
@@ -7429,7 +7429,7 @@
   },
   {
     "id": 1239,
-    "name": "Bâton Rouge Steakhouse \u0026 Bar",
+    "name": "Bâton Rouge Steakhouse & Bar",
     "address": "55 Byward Market Square, Ottawa, ON K1N 9B8, Canada",
     "phone": "+16138609444"
   },
@@ -7459,7 +7459,7 @@
   },
   {
     "id": 1244,
-    "name": "Tamis Cafe \u0026 Restaurant",
+    "name": "Tamis Cafe & Restaurant",
     "address": "107, 825 Exhibition Way Unit 107, Ottawa, ON K1S 5J3, Canada",
     "phone": "107825107153"
   },
@@ -7537,7 +7537,7 @@
   },
   {
     "id": 1257,
-    "name": "Grounded Kitchen, Coffee \u0026 Bar",
+    "name": "Grounded Kitchen, Coffee & Bar",
     "address": "47 Clarence St., Ottawa, ON K1N 5P9, Canada",
     "phone": "+16136801700"
   },
@@ -7705,7 +7705,7 @@
   },
   {
     "id": 1285,
-    "name": "Wilf \u0026 Ada's(No reservations)",
+    "name": "Wilf & Ada's(No reservations)",
     "address": "315 Somerset St W, Ottawa, ON K2P 0J8, Canada",
     "phone": "+16132311010"
   },
@@ -7789,7 +7789,7 @@
   },
   {
     "id": 1299,
-    "name": "The Albion Rooms - Craft Cocktails \u0026 Farm to Table Food",
+    "name": "The Albion Rooms - Craft Cocktails & Farm to Table Food",
     "address": "47 York St, Ottawa, ON K1N 5S7, Canada",
     "phone": "+16132418805"
   },
@@ -8221,7 +8221,7 @@
   },
   {
     "id": 1371,
-    "name": "The Fireplace Center \u0026 Patio Shop (Ottawa East)",
+    "name": "The Fireplace Center & Patio Shop (Ottawa East)",
     "address": "Ottawa, ON K2C 3V5, Canada",
     "phone": ""
   },
@@ -8269,7 +8269,7 @@
   },
   {
     "id": 1379,
-    "name": "H\u0026M",
+    "name": "H&M",
     "address": "1750 Innes Rd, Gloucester, ON K1B 3K5, Canada",
     "phone": ""
   },
@@ -8449,7 +8449,7 @@
   },
   {
     "id": 1409,
-    "name": "Radisson Hotel \u0026 Conference Centre Calgary Airport",
+    "name": "Radisson Hotel & Conference Centre Calgary Airport",
     "address": "6620 36 St NE, Calgary, AB T3J 4C8, Canada",
     "phone": "662036348"
   },
@@ -8497,7 +8497,7 @@
   },
   {
     "id": 1417,
-    "name": "Best Western Premier Calgary Plaza Hotel \u0026 Conference Centre",
+    "name": "Best Western Premier Calgary Plaza Hotel & Conference Centre",
     "address": "Calgary, AB T2H 0L8, Canada",
     "phone": ""
   },
@@ -8539,7 +8539,7 @@
   },
   {
     "id": 1424,
-    "name": "Carriage House Hotel \u0026 Conference Centre",
+    "name": "Carriage House Hotel & Conference Centre",
     "address": "5020 16 Ave NW, Calgary, AB T3B 0N3, Canada",
     "phone": "502016303"
   },
@@ -8575,7 +8575,7 @@
   },
   {
     "id": 1430,
-    "name": "Sandman Hotel \u0026 Suites Calgary West",
+    "name": "Sandman Hotel & Suites Calgary West",
     "address": "2440 16 Ave NW, Calgary, AB T2M 0M5, Canada",
     "phone": "244016205"
   },
@@ -8587,7 +8587,7 @@
   },
   {
     "id": 1432,
-    "name": "Hampton Inn \u0026 Suites By Hilton Calgary- University Northwest",
+    "name": "Hampton Inn & Suites By Hilton Calgary- University Northwest",
     "address": "520 7 Ave SE, Calgary, AB T2G 0J6, Canada",
     "phone": "+14032698239"
   },
@@ -8617,13 +8617,13 @@
   },
   {
     "id": 1437,
-    "name": "Holiday Inn Express \u0026 Suites Calgary South-Macleod Trail S, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Calgary South-Macleod Trail S, an IHG Hotel",
     "address": "25 Hopewell Way NE, Calgary, AB T3J 4V7, Canada",
     "phone": "+14032192475"
   },
   {
     "id": 1438,
-    "name": "Holiday Inn \u0026 Suites Calgary Airport North",
+    "name": "Holiday Inn & Suites Calgary Airport North",
     "address": "2825 Sunridge Way NE, Calgary, AB T1Y 7K7, Canada",
     "phone": "+14032047829"
   },
@@ -8641,7 +8641,7 @@
   },
   {
     "id": 1441,
-    "name": "Holiday Inn \u0026 Suites Calgary South - Conference Ctr, an IHG Hotel",
+    "name": "Holiday Inn & Suites Calgary South - Conference Ctr, an IHG Hotel",
     "address": "1000 Glenmore Ct SE, Calgary, AB T2C 2E6, Canada",
     "phone": "+14032798611"
   },
@@ -8653,7 +8653,7 @@
   },
   {
     "id": 1443,
-    "name": "Emerald Hotel \u0026 Suites Calgary Airport",
+    "name": "Emerald Hotel & Suites Calgary Airport",
     "address": "3630 Macleod Trail South, Calgary, AB T2G 2P9, Canada",
     "phone": "+14032873900"
   },
@@ -8671,19 +8671,19 @@
   },
   {
     "id": 1446,
-    "name": "Holiday Inn Express \u0026 Suites Calgary NW - University Area, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Calgary NW - University Area, an IHG Hotel",
     "address": "41 Freeport Cres NE, Calgary, AB T3J 0T7, Canada",
     "phone": "+14032747800"
   },
   {
     "id": 1447,
-    "name": "Deerfoot Inn \u0026 Casino",
+    "name": "Deerfoot Inn & Casino",
     "address": "610 4 Ave SW, Calgary, AB T2P 0K1, Canada",
     "phone": "+14032311000"
   },
   {
     "id": 1448,
-    "name": "Holiday Inn Express \u0026 Suites Calgary, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Calgary, an IHG Hotel",
     "address": "5940 Blackfoot Trail SE, Calgary, AB T2H 2B5, Canada",
     "phone": "+14032522253"
   },
@@ -8713,7 +8713,7 @@
   },
   {
     "id": 1453,
-    "name": "Country Inn \u0026 Suites by Radisson, Calgary-Airport, AB",
+    "name": "Country Inn & Suites by Radisson, Calgary-Airport, AB",
     "address": "1947 18 Ave NE, Calgary, AB T2E 7T8, Canada",
     "phone": "194718278"
   },
@@ -8743,7 +8743,7 @@
   },
   {
     "id": 1458,
-    "name": "Fairfield Inn \u0026 Suites by Marriott Calgary Downtown",
+    "name": "Fairfield Inn & Suites by Marriott Calgary Downtown",
     "address": "2420 37 Ave NE, Calgary, AB T2E 8S6, Canada",
     "phone": "242037286"
   },
@@ -8773,7 +8773,7 @@
   },
   {
     "id": 1463,
-    "name": "Comfort Inn \u0026 Suites University",
+    "name": "Comfort Inn & Suites University",
     "address": "8001 11 St SE, Calgary, AB T2H 0B8, Canada",
     "phone": "800111208"
   },
@@ -8791,7 +8791,7 @@
   },
   {
     "id": 1466,
-    "name": "Comfort Inn \u0026 Suites South",
+    "name": "Comfort Inn & Suites South",
     "address": "2001 Airport Rd NE, Calgary, AB T2E 6Z8, Canada",
     "phone": "+14032912600"
   },
@@ -8809,7 +8809,7 @@
   },
   {
     "id": 1469,
-    "name": "Sandman Hotel \u0026 Suites Calgary South",
+    "name": "Sandman Hotel & Suites Calgary South",
     "address": "2369 Banff Trail NW, Calgary, AB T2M 4L2, Canada",
     "phone": "+14032892581"
   },
@@ -8845,13 +8845,13 @@
   },
   {
     "id": 1475,
-    "name": "Hampton Inn \u0026 Suites by Hilton Calgary-Airport",
+    "name": "Hampton Inn & Suites by Hilton Calgary-Airport",
     "address": "57 Freeport Cres NE, Calgary, AB T3J 0T4, Canada",
     "phone": "+15873930700"
   },
   {
     "id": 1476,
-    "name": "Holiday Inn Express \u0026 Suites Airport-Calgary, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Airport-Calgary, an IHG Hotel",
     "address": "2875 Sunridge Way NE, Calgary, AB T1Y 7K7, Canada",
     "phone": "+14036483180"
   },
@@ -8893,13 +8893,13 @@
   },
   {
     "id": 1483,
-    "name": "Coast Calgary Downtown Hotel \u0026 Suites by APA",
+    "name": "Coast Calgary Downtown Hotel & Suites by APA",
     "address": "1020 8 Ave SW, Calgary, AB T2P 1J2, Canada",
     "phone": "10208212"
   },
   {
     "id": 1484,
-    "name": "Comfort Inn \u0026 Suites Calgary Airport North",
+    "name": "Comfort Inn & Suites Calgary Airport North",
     "address": "3777 Grey Eagle Dr, Calgary, AB T3E 3X8, Canada",
     "phone": "+14033853777"
   },
@@ -8917,7 +8917,7 @@
   },
   {
     "id": 1487,
-    "name": "Holiday Inn Express \u0026 Suites Calgary Airport Trail NE, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Calgary Airport Trail NE, an IHG Hotel",
     "address": "635 Confluence Way SE, Calgary, AB T2G 0G1, Canada",
     "phone": "+15874416635"
   },
@@ -8941,7 +8941,7 @@
   },
   {
     "id": 1491,
-    "name": "The Glenmore Inn \u0026 Convention Centre",
+    "name": "The Glenmore Inn & Convention Centre",
     "address": "320 4 Ave SW, Calgary, AB T2P 2S6, Canada",
     "phone": "+14032661611"
   },
@@ -8977,7 +8977,7 @@
   },
   {
     "id": 1497,
-    "name": "Econo Lodge Inn \u0026 Suites University",
+    "name": "Econo Lodge Inn & Suites University",
     "address": "2799 Sunridge Way NE, Calgary, AB T1Y 7K7, Canada",
     "phone": "+14032503297"
   },
@@ -9019,7 +9019,7 @@
   },
   {
     "id": 1504,
-    "name": "Comfort Inn \u0026 Suites Airport South",
+    "name": "Comfort Inn & Suites Airport South",
     "address": "255 Barclay Parade SW, Calgary, AB T2P 5C2, Canada",
     "phone": "+14032667200"
   },
@@ -9037,19 +9037,19 @@
   },
   {
     "id": 1507,
-    "name": "Olympia Motel \u0026 Lodge",
+    "name": "Olympia Motel & Lodge",
     "address": "255 Barclay Parade SW, Calgary, AB T2P 5C2, Canada",
     "phone": "+14032667200"
   },
   {
     "id": 1508,
-    "name": "Red Carpet Inn \u0026 Suites",
+    "name": "Red Carpet Inn & Suites",
     "address": "9030 Macleod Trail, Calgary, AB T2H 0M4, Canada",
     "phone": "+14032531101"
   },
   {
     "id": 1509,
-    "name": "Last Best Brewing \u0026 Distilling",
+    "name": "Last Best Brewing & Distilling",
     "address": "25 Prince's Island Park, SW, Calgary, AB T2P 0R1, Canada",
     "phone": "+14032617670"
   },
@@ -9169,7 +9169,7 @@
   },
   {
     "id": 1529,
-    "name": "Caesar's Steak House \u0026 Lounge",
+    "name": "Caesar's Steak House & Lounge",
     "address": "119 2 Ave SE, Calgary, AB T2G 0B2, Canada",
     "phone": "+14032647890"
   },
@@ -9235,7 +9235,7 @@
   },
   {
     "id": 1540,
-    "name": "Jonas Restaurant \u0026 Bar",
+    "name": "Jonas Restaurant & Bar",
     "address": "211a 12 Ave SW, Calgary, AB T2R 0G9, Canada",
     "phone": "21112209"
   },
@@ -9343,7 +9343,7 @@
   },
   {
     "id": 1558,
-    "name": "Hawthorn Dining Room \u0026 Bar",
+    "name": "Hawthorn Dining Room & Bar",
     "address": "402 8 St SW, Calgary, AB T2P 1Z9, Canada",
     "phone": "+14034528595"
   },
@@ -9415,7 +9415,7 @@
   },
   {
     "id": 1570,
-    "name": "Hayden Block Smoke \u0026 Whiskey",
+    "name": "Hayden Block Smoke & Whiskey",
     "address": "528 17 Ave SW, Calgary, AB T2S 0B1, Canada",
     "phone": "52817201"
   },
@@ -9499,7 +9499,7 @@
   },
   {
     "id": 1584,
-    "name": "Nick's Steakhouse \u0026 Pizza",
+    "name": "Nick's Steakhouse & Pizza",
     "address": "720 11 Ave SW Lower Level, Calgary, AB T2R 0E4, Canada",
     "phone": "72011204"
   },
@@ -9517,7 +9517,7 @@
   },
   {
     "id": 1587,
-    "name": "The Shoe \u0026 Canoe Public House",
+    "name": "The Shoe & Canoe Public House",
     "address": "514 17 Ave SW, Calgary, AB T2S 0B1, Canada",
     "phone": "51417201"
   },
@@ -9541,7 +9541,7 @@
   },
   {
     "id": 1591,
-    "name": "Murrieta's West Coast Bar \u0026 Grill",
+    "name": "Murrieta's West Coast Bar & Grill",
     "address": "237 8 Ave SE, Calgary, AB T2G 5C3, Canada",
     "phone": "+14034849022"
   },
@@ -9565,7 +9565,7 @@
   },
   {
     "id": 1595,
-    "name": "Hy's Steakhouse \u0026 Cocktail Bar",
+    "name": "Hy's Steakhouse & Cocktail Bar",
     "address": "1236 12 Ave SW, Calgary, AB T3C 1A7, Canada",
     "phone": "123612317"
   },
@@ -9625,13 +9625,13 @@
   },
   {
     "id": 1605,
-    "name": "Thomsons Kitchen \u0026 Bar",
+    "name": "Thomsons Kitchen & Bar",
     "address": "512 4 Ave SW, Calgary, AB T2P 0J6, Canada",
     "phone": "+14032641222"
   },
   {
     "id": 1606,
-    "name": "Trio Restaurant \u0026 Cafe",
+    "name": "Trio Restaurant & Cafe",
     "address": "620 10 Ave SW #134, Calgary, AB T2R 1C3, Canada",
     "phone": "62010134213"
   },
@@ -9955,7 +9955,7 @@
   },
   {
     "id": 1660,
-    "name": "Glenmore \u0026 Centre",
+    "name": "Glenmore & Centre",
     "address": "61 Ave SW, Calgary, AB T2H 0K5, Canada",
     "phone": ""
   },
@@ -10333,7 +10333,7 @@
   },
   {
     "id": 1723,
-    "name": "Inglewood Bird Sanctuary \u0026 Nature Centre",
+    "name": "Inglewood Bird Sanctuary & Nature Centre",
     "address": "7130 Fisher Rd SE Bay 4, Calgary, AB T2H 0W3, Canada",
     "phone": "71304203"
   },
@@ -10345,7 +10345,7 @@
   },
   {
     "id": 1725,
-    "name": "Lougheed House National \u0026 Provincial Historic Site",
+    "name": "Lougheed House National & Provincial Historic Site",
     "address": "2000 Airport Rd NE, Calgary, AB T2E 6W5, Canada",
     "phone": "+14037351200"
   },
@@ -10363,7 +10363,7 @@
   },
   {
     "id": 1728,
-    "name": "Bow Habitat Station \u0026 Sam Livingston Fish Hatchery",
+    "name": "Bow Habitat Station & Sam Livingston Fish Hatchery",
     "address": "225 8 Ave SE, Calgary, AB T2G 0K9, Canada",
     "phone": "+14032947455"
   },
@@ -10393,7 +10393,7 @@
   },
   {
     "id": 1733,
-    "name": "Bow Habitat Station \u0026 Sam Livingston Fish Hatchery",
+    "name": "Bow Habitat Station & Sam Livingston Fish Hatchery",
     "address": "133 9 Ave SW, Calgary, AB T2P 2M3, Canada",
     "phone": "+14032621234"
   },
@@ -10573,7 +10573,7 @@
   },
   {
     "id": 1763,
-    "name": "Level 1 Escape Room \u0026 VR Arcade",
+    "name": "Level 1 Escape Room & VR Arcade",
     "address": "5923 3 St SE, Calgary, AB T2H 0P3, Canada",
     "phone": "59233203"
   },
@@ -10718,7 +10718,7 @@
   {
     "id": 1787,
     "name": "Bella Concert Hall",
-    "address": "Elbow River Pathway \u0026 MacDonald Ave SE, Calgary, AB T2G 4J8, Canada",
+    "address": "Elbow River Pathway & MacDonald Ave SE, Calgary, AB T2G 4J8, Canada",
     "phone": "+14032682489"
   },
   {
@@ -10754,7 +10754,7 @@
   {
     "id": 1793,
     "name": "Lazy Day Raft Rentals",
-    "address": "37 St SW \u0026 66 Avenue Southwest, Calgary, AB, Canada",
+    "address": "37 St SW & 66 Avenue Southwest, Calgary, AB, Canada",
     "phone": "+14032682489"
   },
   {

@@ -13,7 +13,7 @@
   },
   {
     "id": 3,
-    "name": "Grand Plaza Hotel \u0026 Wellness",
+    "name": "Grand Plaza Hotel & Wellness",
     "address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
     "phone": "+376877777"
   },
@@ -25,13 +25,13 @@
   },
   {
     "id": 5,
-    "name": "Suites Plaza Hotel \u0026 Wellness Andorra",
+    "name": "Suites Plaza Hotel & Wellness Andorra",
     "address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
     "phone": "+376605700"
   },
   {
     "id": 6,
-    "name": "Hotel Starc by Pierre \u0026 Vacances Premium",
+    "name": "Hotel Starc by Pierre & Vacances Premium",
     "address": "Carrer Prat de la Creu, 14, AD500 Andorra la Vella, Andorra",
     "phone": "+376873603"
   },
@@ -121,7 +121,7 @@
   },
   {
     "id": 21,
-    "name": "Barri Antic Hostel \u0026 Pub",
+    "name": "Barri Antic Hostel & Pub",
     "address": "Carrer dels Cavallers, 38, AD200 Encamp, Andorra",
     "phone": "+376831513"
   },
@@ -139,7 +139,7 @@
   },
   {
     "id": 24,
-    "name": "Barri Antic Hostel \u0026 Pub",
+    "name": "Barri Antic Hostel & Pub",
     "address": "Av. del Jovell, 20, AD400 Sispony, Andorra",
     "phone": "+376835355"
   },
@@ -307,7 +307,7 @@
   },
   {
     "id": 52,
-    "name": "AnyósPark The Mountain \u0026 Wellness Resort",
+    "name": "AnyósPark The Mountain & Wellness Resort",
     "address": "Ctra general s/n Arans, AD300 La Cortinada, Andorra",
     "phone": "+376850988"
   },
@@ -361,7 +361,7 @@
   },
   {
     "id": 61,
-    "name": "Grau Roig Andorra Boutique Hotel \u0026 Spa",
+    "name": "Grau Roig Andorra Boutique Hotel & Spa",
     "address": "Ctra de La Rabassa Km. 6, AD600 Sant Julià de Lòria, Andorra",
     "phone": "+376742030"
   },
@@ -379,7 +379,7 @@
   },
   {
     "id": 64,
-    "name": "Park Piolets Mountain Hotel \u0026 Spa",
+    "name": "Park Piolets Mountain Hotel & Spa",
     "address": "Terra Major de Sispony, Carrer Major, AD400, Andorra",
     "phone": "+376737300"
   },
@@ -391,7 +391,7 @@
   },
   {
     "id": 66,
-    "name": "Sport Hotels Resort \u0026 Spa",
+    "name": "Sport Hotels Resort & Spa",
     "address": "Crta General II - Tram Soldeu 56, AD100 Soldeu, Andorra",
     "phone": "+376870670"
   },
@@ -427,7 +427,7 @@
   },
   {
     "id": 72,
-    "name": "Hotel Ski Plaza \u0026 Wellness",
+    "name": "Hotel Ski Plaza & Wellness",
     "address": "Av. Príncep Benlloch, 24, AD500 Andorra la Vella, Andorra",
     "phone": "+376866880"
   },
@@ -439,7 +439,7 @@
   },
   {
     "id": 74,
-    "name": "Hotel l'Ermita B\u0026B",
+    "name": "Hotel l'Ermita B&B",
     "address": "Avinguda del Fener, 17, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376877000"
   },
@@ -481,7 +481,7 @@
   },
   {
     "id": 81,
-    "name": "Hotel \u0026 Spa Xalet Bringué",
+    "name": "Hotel & Spa Xalet Bringué",
     "address": "Plaça de la Creu Blanca nº1, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376820855"
   },
@@ -589,7 +589,7 @@
   },
   {
     "id": 99,
-    "name": "Wuau! Hotel Galanthus \u0026 Spa",
+    "name": "Wuau! Hotel Galanthus & Spa",
     "address": "Av. Carlemany, 4, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376870050"
   },
@@ -613,7 +613,7 @@
   },
   {
     "id": 103,
-    "name": "MiraKbé! Gastrobar \u0026 Restaurant",
+    "name": "MiraKbé! Gastrobar & Restaurant",
     "address": "Plaça Princep Benlloch nº 5, AD500 Andorra la Vella, Andorra",
     "phone": "+376822397"
   },
@@ -733,7 +733,7 @@
   },
   {
     "id": 123,
-    "name": "ANGELO \u0026 FRIENDS",
+    "name": "ANGELO & FRIENDS",
     "address": "Carrer de l'Alzinaret, n°6, AD500 Andorra la Vella, Andorra",
     "phone": "+376840420"
   },
@@ -889,13 +889,13 @@
   },
   {
     "id": 149,
-    "name": "La Casa Restaurant \u0026 GastroBar",
+    "name": "La Casa Restaurant & GastroBar",
     "address": "Carrer Ciutat de Valls, 16, AD500 Andorra la Vella, Andorra",
     "phone": "+376826328"
   },
   {
     "id": 150,
-    "name": "Kram GastroGrilling OysterBar \u0026 Restaurant",
+    "name": "Kram GastroGrilling OysterBar & Restaurant",
     "address": "Carrer Prat de la Creu, 103, AD500 Andorra la Vella, Andorra",
     "phone": "+376673280"
   },
@@ -931,7 +931,7 @@
   },
   {
     "id": 156,
-    "name": "GOHAN Yama | Sushi \u0026 Izakaya Food",
+    "name": "GOHAN Yama | Sushi & Izakaya Food",
     "address": "CARRER DE LA BORDA NUMERO 7, AD500 Andorra la Vella, Andorra",
     "phone": "+376732500"
   },
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 176,
-    "name": "L'Alternativa by \u0026andbeer",
+    "name": "L'Alternativa by &andbeer",
     "address": "Carrer Dr. Vilanova, 7, AD500 Andorra la Vella, Andorra",
     "phone": "+376869999"
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 246,
-    "name": "ROCA \u0026 RIBES",
+    "name": "ROCA & RIBES",
     "address": "Carrer Major, 22, AD200 Pas de la Casa, Andorra",
     "phone": "+376739850"
   },
@@ -1621,7 +1621,7 @@
   },
   {
     "id": 271,
-    "name": "Barri Antic Hostel \u0026 Pub",
+    "name": "Barri Antic Hostel & Pub",
     "address": "Carretera de la Rabassa Km. 8 Juberri, AD600 Sant Julià de Lòria, Andorra",
     "phone": "+376741444"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "id": 279,
-    "name": "Hotel \u0026 Aparthotel Cosmos Andorra",
+    "name": "Hotel & Aparthotel Cosmos Andorra",
     "address": "Av. de les Escoles, 10, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376870750"
   },
@@ -1699,13 +1699,13 @@
   },
   {
     "id": 284,
-    "name": "Grand Plaza Hotel \u0026 Wellness",
+    "name": "Grand Plaza Hotel & Wellness",
     "address": "Carrer dels Cavallers, 38, AD200 Encamp, Andorra",
     "phone": "+376831513"
   },
   {
     "id": 285,
-    "name": "Hotel Starc by Pierre \u0026 Vacances Premium",
+    "name": "Hotel Starc by Pierre & Vacances Premium",
     "address": "Carrer de Lòria, 6, AD600 Sant Julià de Lòria, Andorra",
     "phone": "+376735200"
   },
@@ -1843,7 +1843,7 @@
   },
   {
     "id": 308,
-    "name": "Suites Plaza Hotel \u0026 Wellness Andorra",
+    "name": "Suites Plaza Hotel & Wellness Andorra",
     "address": "Meritxell, Carretera General, 35, AD100, Andorra",
     "phone": "+376751050"
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 317,
-    "name": "Barri Antic Hostel \u0026 Pub",
+    "name": "Barri Antic Hostel & Pub",
     "address": "Carretera dels Cortals Encamp Km 3, AD200 Encamp, Andorra",
     "phone": "+376804100"
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 325,
-    "name": "Sport Hotel Hermitage \u0026 Spa",
+    "name": "Sport Hotel Hermitage & Spa",
     "address": "Carrer Anna Maria Janer, 4, AD500 Andorra la Vella, Andorra",
     "phone": "+376728328"
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "id": 332,
-    "name": "AnyósPark The Mountain \u0026 Wellness Resort",
+    "name": "AnyósPark The Mountain & Wellness Resort",
     "address": "Av. Fiter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376880450"
   },
@@ -2107,7 +2107,7 @@
   },
   {
     "id": 352,
-    "name": "Hotel l'Ermita B\u0026B",
+    "name": "Hotel l'Ermita B&B",
     "address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
     "phone": "+376802780"
   },
@@ -2119,7 +2119,7 @@
   },
   {
     "id": 354,
-    "name": "Park Piolets Mountain Hotel \u0026 Spa",
+    "name": "Park Piolets Mountain Hotel & Spa",
     "address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
     "phone": "+376873601"
   },
@@ -2155,19 +2155,19 @@
   },
   {
     "id": 360,
-    "name": "Serras Andorra Luxury Boutique Resort \u0026 Spa",
+    "name": "Serras Andorra Luxury Boutique Resort & Spa",
     "address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
     "phone": "+376877777"
   },
   {
     "id": 361,
-    "name": "Hotel \u0026 Spa Xalet Bringué",
+    "name": "Hotel & Spa Xalet Bringué",
     "address": "Av. Fiter i Rossell, 25, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376890990"
   },
   {
     "id": 362,
-    "name": "Wuau! Hotel Galanthus \u0026 Spa",
+    "name": "Wuau! Hotel Galanthus & Spa",
     "address": "l'Aigüeta,, Carrer de l'Aigüeta, 6, AD500 Andorra la Vella, Andorra",
     "phone": "+376821393"
   },
@@ -2191,7 +2191,7 @@
   },
   {
     "id": 366,
-    "name": "Grau Roig Andorra Boutique Hotel \u0026 Spa",
+    "name": "Grau Roig Andorra Boutique Hotel & Spa",
     "address": "Av. Meritxell 87-89 (pedestrian street Direct access to garage by, Carrer Pau Casals, 7, AD500 Andorra la Vella, Andorra",
     "phone": "87897500"
   },
@@ -2569,7 +2569,7 @@
   },
   {
     "id": 429,
-    "name": "Monkeys Burgers \u0026 drinks",
+    "name": "Monkeys Burgers & drinks",
     "address": "Av. Carlemany, 28, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376870470"
   },
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 451,
-    "name": "Ginza 41 Sushi \u0026 Robata",
+    "name": "Ginza 41 Sushi & Robata",
     "address": "Av. Carlemany, 59, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376886269"
   },
@@ -2743,7 +2743,7 @@
   },
   {
     "id": 458,
-    "name": "Pans \u0026 Company",
+    "name": "Pans & Company",
     "address": "Carrer de la Unió, 13, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376828533"
   },
@@ -3073,7 +3073,7 @@
   },
   {
     "id": 513,
-    "name": "Pollyanna Home\u0026Dona",
+    "name": "Pollyanna Home&Dona",
     "address": "Av. Carlemany 70 PB, local, 22, AD700 Escaldes-Engordany, Andorra",
     "phone": "+376879320"
   },

@@ -26,12 +26,12 @@
   {
     "id": 5,
     "name": "Coco Palm Resort",
-    "address": "Cr. Bayside Drive \u0026, Old Military Rd, Castries, St. Lucia",
+    "address": "Cr. Bayside Drive &, Old Military Rd, Castries, St. Lucia",
     "phone": "+17584846480"
   },
   {
     "id": 6,
-    "name": "Ti Kaye Resort \u0026 Spa",
+    "name": "Ti Kaye Resort & Spa",
     "address": "Choc, St. Lucia",
     "phone": "+17584522691"
   },
@@ -55,7 +55,7 @@
   },
   {
     "id": 10,
-    "name": "Bay Gardens Beach Resort \u0026 Spa",
+    "name": "Bay Gardens Beach Resort & Spa",
     "address": "Morne Du Don, Castries, St. Lucia",
     "phone": "+17584537132"
   },
@@ -277,7 +277,7 @@
   },
   {
     "id": 47,
-    "name": "Cap Maison Resort \u0026 Spa",
+    "name": "Cap Maison Resort & Spa",
     "address": "Choc Bay, Choc, St. Lucia",
     "phone": "8005974761"
   },
@@ -379,7 +379,7 @@
   },
   {
     "id": 64,
-    "name": "La Clery B \u0026 B Apartments",
+    "name": "La Clery B & B Apartments",
     "address": "Vicky D Drive, Trouya, St. Lucia",
     "phone": "+17587276552"
   },
@@ -439,7 +439,7 @@
   },
   {
     "id": 74,
-    "name": "The Balcony Restaurant \u0026 Bar St.Lucia",
+    "name": "The Balcony Restaurant & Bar St.Lucia",
     "address": "Jeremie St, Castries, St. Lucia",
     "phone": "+17584518125"
   },
@@ -475,7 +475,7 @@
   },
   {
     "id": 80,
-    "name": "7 A Live Restaurant \u0026 Bar",
+    "name": "7 A Live Restaurant & Bar",
     "address": "La Place Carenage, Jeremie Street, Castries, St. Lucia",
     "phone": "+17584522543"
   },
@@ -487,7 +487,7 @@
   },
   {
     "id": 82,
-    "name": "JC's Restaurant \u0026 Bar",
+    "name": "JC's Restaurant & Bar",
     "address": "Castries - Gros Islet Hwy, Choc, St. Lucia",
     "phone": ""
   },
@@ -559,7 +559,7 @@
   },
   {
     "id": 94,
-    "name": "Nyaim’s Restaurant \u0026 Bar",
+    "name": "Nyaim’s Restaurant & Bar",
     "address": "St Louis St, Bisee, St. Lucia",
     "phone": "+17584527018"
   },
@@ -571,7 +571,7 @@
   },
   {
     "id": 96,
-    "name": "Dexter's 2 For 1 Bar \u0026 Grill",
+    "name": "Dexter's 2 For 1 Bar & Grill",
     "address": "Castries - Gros Islet Hwy, Choc, St. Lucia",
     "phone": ""
   },
@@ -595,7 +595,7 @@
   },
   {
     "id": 100,
-    "name": "Efresco Cafe \u0026 Restaurant",
+    "name": "Efresco Cafe & Restaurant",
     "address": "GPO170 Maynard Hill, Castries, St. Lucia",
     "phone": "+17585188303"
   },
@@ -661,7 +661,7 @@
   },
   {
     "id": 111,
-    "name": "Fnf \u0026 new world chinese restaurant",
+    "name": "Fnf & new world chinese restaurant",
     "address": "Castries, St. Lucia",
     "phone": "+17587206642"
   },
@@ -709,7 +709,7 @@
   },
   {
     "id": 119,
-    "name": "Royal Castle Fast Food \u0026Pastries plus",
+    "name": "Royal Castle Fast Food &Pastries plus",
     "address": "7 St Louis St, Castries, St. Lucia",
     "phone": ""
   },
@@ -733,7 +733,7 @@
   },
   {
     "id": 123,
-    "name": "F \u0026 F Chinese Restaurant",
+    "name": "F & F Chinese Restaurant",
     "address": "Castries, St. Lucia",
     "phone": ""
   },
@@ -745,7 +745,7 @@
   },
   {
     "id": 125,
-    "name": "Fresh One's Restaurant \u0026 Bar",
+    "name": "Fresh One's Restaurant & Bar",
     "address": "Westhall Lane, Castries, St. Lucia",
     "phone": "+17584877774"
   },
@@ -811,7 +811,7 @@
   },
   {
     "id": 136,
-    "name": "Althee’s Hideaway Bar \u0026 Restaurant",
+    "name": "Althee’s Hideaway Bar & Restaurant",
     "address": "JnBaptiste St, Castries, St. Lucia",
     "phone": ""
   },
@@ -859,7 +859,7 @@
   },
   {
     "id": 144,
-    "name": "Exquisite Delight Restaurant \u0026 Bar",
+    "name": "Exquisite Delight Restaurant & Bar",
     "address": "Castries, St. Lucia",
     "phone": "+17584578963"
   },
@@ -925,7 +925,7 @@
   },
   {
     "id": 155,
-    "name": "Hardest Hard Restaurant \u0026 Bar",
+    "name": "Hardest Hard Restaurant & Bar",
     "address": "Castries, St. Lucia",
     "phone": "+17584582821"
   },
@@ -991,7 +991,7 @@
   },
   {
     "id": 166,
-    "name": "S \u0026 S Bois D'Orange",
+    "name": "S & S Bois D'Orange",
     "address": "Micoud St, Castries, St. Lucia",
     "phone": "+17584522802"
   },
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 169,
-    "name": "Renwick \u0026 Company Ltd.",
+    "name": "Renwick & Company Ltd.",
     "address": "Vide Bouteille Rd, Bisee, St. Lucia",
     "phone": "+17584558000"
   },

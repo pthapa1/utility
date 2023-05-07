@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Eko Hotels \u0026 Suites",
+    "name": "Eko Hotels & Suites",
     "address": "80 Adetokunbo Ademola Street, Victoria Island 106104, Lagos, Nigeria",
     "phone": "80106104"
   },
@@ -115,7 +115,7 @@
   },
   {
     "id": 20,
-    "name": "Clear Essence California Spa \u0026 Wellness Resort",
+    "name": "Clear Essence California Spa & Wellness Resort",
     "address": "52a Kofo Abayomi St, Victoria Island 101241, Lagos, Nigeria",
     "phone": "52101241"
   },
@@ -157,13 +157,13 @@
   },
   {
     "id": 27,
-    "name": "Westine Hotels \u0026 Spa",
+    "name": "Westine Hotels & Spa",
     "address": "4 Fred Omojole Cres, Gbagada 100235, Lagos, Nigeria",
     "phone": "+2348098601000"
   },
   {
     "id": 28,
-    "name": "Clear Essence California Spa \u0026 Wellness Resort",
+    "name": "Clear Essence California Spa & Wellness Resort",
     "address": "48, Asoge Street, Off Cele Bus Stop, By Okota/Itire Link Bridge, Ijesha Rd, Surulere, Lagos, Nigeria",
     "phone": "+2348030896601"
   },
@@ -235,7 +235,7 @@
   },
   {
     "id": 40,
-    "name": "38 Hotels \u0026 Suites",
+    "name": "38 Hotels & Suites",
     "address": "24, Olufunmilayo Okikiolu Street, Off Toyin St, 100271, Ikeja, Nigeria",
     "phone": "24100271"
   },
@@ -295,7 +295,7 @@
   },
   {
     "id": 50,
-    "name": "38 Hotels \u0026 Suites",
+    "name": "38 Hotels & Suites",
     "address": "Bus Stop, Grammar School, 16, Olaleke Taiwo Street, Off Aina St, 100213, Ojodu Berger, Nigeria",
     "phone": "16100213"
   },
@@ -379,7 +379,7 @@
   },
   {
     "id": 64,
-    "name": "Kelin Hotel \u0026 Suites",
+    "name": "Kelin Hotel & Suites",
     "address": "No 18 Calabar Street off Adisa Bashua, off Adelabu St, Masha, Lagos, Nigeria",
     "phone": "+2348087098340"
   },
@@ -445,7 +445,7 @@
   },
   {
     "id": 75,
-    "name": "Paradise Hotel \u0026 Suites",
+    "name": "Paradise Hotel & Suites",
     "address": "42/44 Isaac John St, Ikeja GRA 102215, Lagos, Nigeria",
     "phone": "4244102215"
   },
@@ -475,7 +475,7 @@
   },
   {
     "id": 80,
-    "name": "BOSS Hotels \u0026 Suites",
+    "name": "BOSS Hotels & Suites",
     "address": "36/38 Nathan off Ojuelegba road Surulere Local Government, 101283, Lagos, Nigeria",
     "phone": "3638101283"
   },
@@ -487,7 +487,7 @@
   },
   {
     "id": 82,
-    "name": "Serena Hotel \u0026 Suites",
+    "name": "Serena Hotel & Suites",
     "address": "16 Babatunde Dabiri St, Lekki Phase I 102503, Lagos, Nigeria",
     "phone": "16102503"
   },
@@ -511,7 +511,7 @@
   },
   {
     "id": 86,
-    "name": "Ten15 Hotel \u0026 Suites",
+    "name": "Ten15 Hotel & Suites",
     "address": "72 olateju street,odi-olowo mushin,lagos state mushin local goverment lagos, Lagos, Nigeria",
     "phone": "+2349011434406"
   },
@@ -523,7 +523,7 @@
   },
   {
     "id": 88,
-    "name": "Ivory Exclusive Hotel \u0026 Suites",
+    "name": "Ivory Exclusive Hotel & Suites",
     "address": "Kuramo Waters Close, Off Akin Ogunlewe Rd, 102215, Lagos, Nigeria",
     "phone": "+23412712963"
   },
@@ -547,7 +547,7 @@
   },
   {
     "id": 92,
-    "name": "Oakspring Hotel \u0026 Luxury Suites",
+    "name": "Oakspring Hotel & Luxury Suites",
     "address": "13 Alexander Ave, Ikoyi 101233, Lagos, Nigeria",
     "phone": "13101233"
   },
@@ -656,7 +656,7 @@
   {
     "id": 110,
     "name": "La Veranda Italian Cuisine",
-    "address": "Block XVI 3 \u0026 4 Victoria Island Oniru Estate, Eti-Osa 101241, Lagos, Nigeria",
+    "address": "Block XVI 3 & 4 Victoria Island Oniru Estate, Eti-Osa 101241, Lagos, Nigeria",
     "phone": "34101241"
   },
   {
@@ -685,7 +685,7 @@
   },
   {
     "id": 115,
-    "name": "Gypsy’s Restaurant \u0026 Bar",
+    "name": "Gypsy’s Restaurant & Bar",
     "address": "126 Awolowo Rd, Ikoyi 106104, Lagos, Nigeria",
     "phone": "126106104"
   },
@@ -715,13 +715,13 @@
   },
   {
     "id": 120,
-    "name": "Ibile Foods \u0026 Lounge Ilupeju | Best Restaurants in Lagos Nigeria",
+    "name": "Ibile Foods & Lounge Ilupeju | Best Restaurants in Lagos Nigeria",
     "address": "Plot 293 Gbagada - Oworonshoki Expy, Gbagada Phase II 100234, Lagos, Nigeria",
     "phone": "293100234"
   },
   {
     "id": 121,
-    "name": "O'jays Lounge \u0026 Restaurant",
+    "name": "O'jays Lounge & Restaurant",
     "address": "LASWA Yard, Under Falomo Bridge, Ikoyi 101233, Lagos, Nigeria",
     "phone": "+2348100188881"
   },
@@ -745,7 +745,7 @@
   },
   {
     "id": 125,
-    "name": "Ibile Foods \u0026 Lounge Ilupeju | Best Restaurants in Lagos Nigeria",
+    "name": "Ibile Foods & Lounge Ilupeju | Best Restaurants in Lagos Nigeria",
     "address": "92 Younis Bashorun Street, Victoria Island 106104, Lagos, Nigeria",
     "phone": "92106104"
   },
@@ -805,7 +805,7 @@
   },
   {
     "id": 135,
-    "name": "Vellvett Grill \u0026 Lounge Victoria Island Lagos",
+    "name": "Vellvett Grill & Lounge Victoria Island Lagos",
     "address": "256 Etim Inyang Cres, Victoria Island 106104, Lagos, Nigeria",
     "phone": "256106104"
   },
@@ -871,7 +871,7 @@
   },
   {
     "id": 146,
-    "name": "Zaika Ilupeju Indian \u0026 Chinese Cuisine",
+    "name": "Zaika Ilupeju Indian & Chinese Cuisine",
     "address": "1303 Akin Adesola St, Victoria Island 101241, Lagos, Nigeria",
     "phone": "1303101241"
   },
@@ -943,13 +943,13 @@
   },
   {
     "id": 158,
-    "name": "Koï, Restaurant \u0026Lounge",
+    "name": "Koï, Restaurant &Lounge",
     "address": "15 Musa Yar' Adua St, Victoria Island 106104, Lagos, Nigeria",
     "phone": "15106104"
   },
   {
     "id": 159,
-    "name": "Utazi kitchen \u0026 bar",
+    "name": "Utazi kitchen & bar",
     "address": "Block 74, Plot 15b Emma Abimbola Cole Street, Lekki, 105102, Lagos, Nigeria",
     "phone": "7415105102"
   },
@@ -991,7 +991,7 @@
   },
   {
     "id": 166,
-    "name": "Kaly Restaurant \u0026 Bar Lounge",
+    "name": "Kaly Restaurant & Bar Lounge",
     "address": "Plot, 1303 Akin Adesola St, Victoria Island, Lagos, Nigeria",
     "phone": "+2349032576301"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 178,
-    "name": "Indigo Bar Restaurant \u0026 Suites",
+    "name": "Indigo Bar Restaurant & Suites",
     "address": "49 Adeola Odeku St, Victoria Island 106104, Lagos, Nigeria",
     "phone": "49106104"
   },
@@ -1075,7 +1075,7 @@
   },
   {
     "id": 180,
-    "name": "Ox restaurant \u0026 lounge",
+    "name": "Ox restaurant & lounge",
     "address": "19B Idejo St, Victoria Island 101241, Lagos, Nigeria",
     "phone": "19101241"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 185,
-    "name": "Double Four Restaurant \u0026 Eatery",
+    "name": "Double Four Restaurant & Eatery",
     "address": "7 Musa Yar' Adua St, Victoria Island 106104, Lagos, Nigeria",
     "phone": "+2349021999999"
   },
@@ -1262,7 +1262,7 @@
   {
     "id": 211,
     "name": "LSDPC Shopping Complex",
-    "address": "Suite 17\u002618D, Jeho Shammah Plaza, Abiodun Jagun Street, Ogba Ijaiye Ikeja, Lagos, Nigeria",
+    "address": "Suite 17&18D, Jeho Shammah Plaza, Abiodun Jagun Street, Ogba Ijaiye Ikeja, Lagos, Nigeria",
     "phone": "+2348052835221"
   },
   {
@@ -1399,7 +1399,7 @@
   },
   {
     "id": 234,
-    "name": "Atlantic Mall (Atlantic Shopping \u0026 Entertainment Centre)",
+    "name": "Atlantic Mall (Atlantic Shopping & Entertainment Centre)",
     "address": "9 Breadfruit St, Lagos Island 102273, Lagos, Nigeria",
     "phone": "+2347038632933"
   },
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 301,
-    "name": "Cata Spa Apartment Hotel \u0026 SPA",
+    "name": "Cata Spa Apartment Hotel & SPA",
     "address": "17 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
     "phone": "17101245"
   },
@@ -1964,7 +1964,7 @@
   {
     "id": 328,
     "name": "Epe Mangroves",
-    "address": "Plot 2 \u0026 3, Water Corporation Dr, Victoria Island 106104, Annex, Lagos, Nigeria",
+    "address": "Plot 2 & 3, Water Corporation Dr, Victoria Island 106104, Annex, Lagos, Nigeria",
     "phone": "23106104"
   },
   {
@@ -2287,7 +2287,7 @@
   },
   {
     "id": 382,
-    "name": "R \u0026 K Guest Palace",
+    "name": "R & K Guest Palace",
     "address": "110 Audu Bako Way, Nassarawa 700213, Kano, Nigeria",
     "phone": "110700213"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 419,
-    "name": "Royal Park Hotel \u0026 Suites Kano",
+    "name": "Royal Park Hotel & Suites Kano",
     "address": "Aitken Rd, Sabon Gari 700211, Kano, Nigeria",
     "phone": ""
   },
@@ -2563,7 +2563,7 @@
   },
   {
     "id": 428,
-    "name": "SP Exclusive Suites \u0026 Resort",
+    "name": "SP Exclusive Suites & Resort",
     "address": "11b Ahmadu Bello, Nassarawa 700213, Kano, Nigeria",
     "phone": "11700213"
   },
@@ -2581,7 +2581,7 @@
   },
   {
     "id": 431,
-    "name": "Summit Lodge \u0026 Graden",
+    "name": "Summit Lodge & Graden",
     "address": "6 Weather Head Rd, Sabon Gari 700211, Kano, Nigeria",
     "phone": ""
   },
@@ -2803,7 +2803,7 @@
   },
   {
     "id": 468,
-    "name": "355 Restaurant \u0026 Lounge Kano",
+    "name": "355 Restaurant & Lounge Kano",
     "address": "9 Audu Bako Way, Nassarawa 700211, Kano, Nigeria",
     "phone": "+2348099227717"
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "id": 499,
-    "name": "BIG BITE GRILL \u0026 CURRY HOUSE, INDIAN CUISINE.",
+    "name": "BIG BITE GRILL & CURRY HOUSE, INDIAN CUISINE.",
     "address": "Alu Ave, GRA 700213, Kano, Nigeria",
     "phone": "+2348123333341"
   },
@@ -3043,7 +3043,7 @@
   },
   {
     "id": 508,
-    "name": "L \u0026 N Kitchen Kano",
+    "name": "L & N Kitchen Kano",
     "address": "Aminu kano teaching hospital, Kano, Nigeria",
     "phone": "+2348036068337"
   },
@@ -3079,7 +3079,7 @@
   },
   {
     "id": 514,
-    "name": "L\u0026Z Dairy Fresh",
+    "name": "L&Z Dairy Fresh",
     "address": "local government area, Abdullahi Wase Rd, Gwale 700224, Kano, Nigeria",
     "phone": "+2348130108419"
   },
@@ -3685,7 +3685,7 @@
   },
   {
     "id": 615,
-    "name": "H \u0026 H Plaza",
+    "name": "H & H Plaza",
     "address": "2G2P+5Q4 Civic Center, Road, Kofar Mata 700211, Kano, Nigeria",
     "phone": "22+54700211"
   },
@@ -3715,7 +3715,7 @@
   },
   {
     "id": 620,
-    "name": "ABBAN ALABATA COMM. \u0026 COSMETICS CENTER",
+    "name": "ABBAN ALABATA COMM. & COSMETICS CENTER",
     "address": "Court Road, Gyadi Gyadi 700101, Kano, Nigeria",
     "phone": "+2347038311986"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "id": 678,
-    "name": "Cosmos City Suites \u0026 Apartments",
+    "name": "Cosmos City Suites & Apartments",
     "address": "No 12 Remi Adenubi Street Iyana Felele, Olorunsogo Off Iwo-Challenge Road, Ibadan, Nigeria",
     "phone": ""
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 694,
-    "name": "FARIK HOTEL \u0026 SUITES",
+    "name": "FARIK HOTEL & SUITES",
     "address": "67 Obafemi Awolowo Way, Oke Bola Rd, Ibadan, Nigeria",
     "phone": "+2348034686028"
   },
@@ -4213,7 +4213,7 @@
   },
   {
     "id": 703,
-    "name": "NEST SPA \u0026 SUITES",
+    "name": "NEST SPA & SUITES",
     "address": "Oluyole 200273, Ibadan, Oyo, Nigeria",
     "phone": "+2348035634300"
   },
@@ -4237,7 +4237,7 @@
   },
   {
     "id": 707,
-    "name": "Unifirst Hotel \u0026 Suites",
+    "name": "Unifirst Hotel & Suites",
     "address": "Soka Road, 200263, Ibadan, Oyo, Nigeria",
     "phone": "+2348113644444"
   },
@@ -4417,7 +4417,7 @@
   },
   {
     "id": 737,
-    "name": "Empire Lounge \u0026 Hotels",
+    "name": "Empire Lounge & Hotels",
     "address": "2 Cherry Ln, Oluyole 200131, Ibadan, Oyo, Nigeria",
     "phone": "+2348144873891"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "id": 740,
-    "name": "First Laurel Hotel \u0026 Suites",
+    "name": "First Laurel Hotel & Suites",
     "address": "57 Peace Ave, 200131, Ibadan, Oyo, Nigeria",
     "phone": "57200131"
   },
@@ -4513,7 +4513,7 @@
   },
   {
     "id": 753,
-    "name": "Joybam Guest House \u0026 Bar",
+    "name": "Joybam Guest House & Bar",
     "address": "1 E Exclusive Close Ore-Ofe Bus Stop, Sango Eleyele Road, near WAEC junction, Ijokodo 200283, Ibadan, Oyo, Nigeria",
     "phone": "+2347051420707"
   },
@@ -4537,7 +4537,7 @@
   },
   {
     "id": 757,
-    "name": "Mataan Hotel \u0026 Suites",
+    "name": "Mataan Hotel & Suites",
     "address": "1 Akinsehinwa Street, 200285, Ibadan, Oyo, Nigeria",
     "phone": "+2348169339395"
   },
@@ -4633,7 +4633,7 @@
   },
   {
     "id": 773,
-    "name": "Stone Café Bar \u0026 Grill",
+    "name": "Stone Café Bar & Grill",
     "address": "Golden Tulip, Jericho 200284, Ibadan, Oyo, Nigeria",
     "phone": "+2349130000053"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "id": 780,
-    "name": "Latitude Café \u0026 Lounge",
+    "name": "Latitude Café & Lounge",
     "address": "Richbam Annex, No 42, UI/Ojoo Road Ibadan, 200213, Ibadan, Oyo, Nigeria",
     "phone": "42200213"
   },
@@ -4693,7 +4693,7 @@
   },
   {
     "id": 783,
-    "name": "Ultima Executive Restaurant \u0026 Lounge",
+    "name": "Ultima Executive Restaurant & Lounge",
     "address": "Akobo Shopping Mall, Akobo Road, Ibadan, Nigeria",
     "phone": "+2348065207804"
   },
@@ -4705,13 +4705,13 @@
   },
   {
     "id": 785,
-    "name": "Soups \u0026 sauces (food and grill)",
+    "name": "Soups & sauces (food and grill)",
     "address": "Monatan Iwo Rd, 200132, Ibadan, Oyo, Nigeria",
     "phone": "58+72200132"
   },
   {
     "id": 786,
-    "name": "Chopup Restaurant \u0026 Bar",
+    "name": "Chopup Restaurant & Bar",
     "address": "44 Awolowo road old Bodija, 44 Awolowo Road, Bodijay, Ibadan, Oyo, Nigeria",
     "phone": "+2347062270224"
   },
@@ -4741,7 +4741,7 @@
   },
   {
     "id": 791,
-    "name": "Mauve Lounge \u0026 Restaurant",
+    "name": "Mauve Lounge & Restaurant",
     "address": "Sango Eleyele Road, 200285, Ibadan, Oyo, Nigeria",
     "phone": "+2349075680753"
   },
@@ -4837,7 +4837,7 @@
   },
   {
     "id": 807,
-    "name": "F\u0026F Restaurant, Via Iwo Road, Ibadan.",
+    "name": "F&F Restaurant, Via Iwo Road, Ibadan.",
     "address": "cele bustop, Old Ife Rd, opposite enyo filling station, Ibadan, Nigeria",
     "phone": "+2349151441179"
   },
@@ -4933,7 +4933,7 @@
   },
   {
     "id": 823,
-    "name": "Da Kings' Grill \u0026 Coffee Restaurant",
+    "name": "Da Kings' Grill & Coffee Restaurant",
     "address": "4 Lani Sogbetun Street, Bamigbola Avenue New Bodija Extension, Ibadan, Oyo, Nigeria",
     "phone": "+2349030331110"
   },
@@ -4975,7 +4975,7 @@
   },
   {
     "id": 830,
-    "name": "China House Restaurant \u0026 Bar",
+    "name": "China House Restaurant & Bar",
     "address": "Oluyole Estate Road, Oluyole 200273, Ibadan, Oyo, Nigeria",
     "phone": "+2348038597411"
   },
@@ -5053,7 +5053,7 @@
   },
   {
     "id": 843,
-    "name": "Café 24 Resturant \u0026 Bar",
+    "name": "Café 24 Resturant & Bar",
     "address": "New Eleyele Rd, opposite Biyet Supermarket, 200116, Ibadan, Oyo, Nigeria",
     "phone": "+2348098898841"
   },
@@ -5125,7 +5125,7 @@
   },
   {
     "id": 855,
-    "name": "The Free House Restaurant \u0026 Bar",
+    "name": "The Free House Restaurant & Bar",
     "address": "76 MKO Abiola Way, Oluyole 200232, Ibadan, Oyo, Nigeria",
     "phone": "76200232"
   },
@@ -5138,7 +5138,7 @@
   {
     "id": 857,
     "name": "Buffalo Lounge",
-    "address": "Mauve21 Hotel \u0026 Events Centre Ring Road, Adeoyo Roundabout, opposite First Bank, Ibadan, Nigeria",
+    "address": "Mauve21 Hotel & Events Centre Ring Road, Adeoyo Roundabout, opposite First Bank, Ibadan, Nigeria",
     "phone": "+2348063394414"
   },
   {
@@ -5179,7 +5179,7 @@
   },
   {
     "id": 864,
-    "name": "BOLLADS RESTAURANT \u0026 LOUNGE",
+    "name": "BOLLADS RESTAURANT & LOUNGE",
     "address": "Palms Mall, New Gra 200273, Ibadan, Oyo, Nigeria",
     "phone": "+2348027637814"
   },
@@ -5228,7 +5228,7 @@
   {
     "id": 872,
     "name": "Grand Mall",
-    "address": "Bus Stop, Oomor House, 9V77+CFQ Oni \u0026 Sons, MKO Abiola Way, beside High Court of Justice, Ibadan, Nigeria",
+    "address": "Bus Stop, Oomor House, 9V77+CFQ Oni & Sons, MKO Abiola Way, beside High Court of Justice, Ibadan, Nigeria",
     "phone": ""
   },
   {
@@ -5443,7 +5443,7 @@
   },
   {
     "id": 908,
-    "name": "D\u0026T Shopping Complex",
+    "name": "D&T Shopping Complex",
     "address": "200285, Ibadan, Oyo, Nigeria",
     "phone": ""
   },
@@ -5768,7 +5768,7 @@
   {
     "id": 962,
     "name": "Agodi 'Ib.' N.U.T C.I.C.S Ltd Shopping Complex",
-    "address": "Shop 5\u00266oduaashoppingcentre.Oamdo station, Off Idi Ape Rd, Ibadan, Nigeria",
+    "address": "Shop 5&6oduaashoppingcentre.Oamdo station, Off Idi Ape Rd, Ibadan, Nigeria",
     "phone": "+2348071790923"
   },
   {
@@ -5930,7 +5930,7 @@
   {
     "id": 989,
     "name": "The Jericho Mall Ibadan",
-    "address": "Shops 6\u002616, Block P, Joke Plaza, Beside Trans Amusement Park, Bodija Market Road, 200213, Ibadan, Nigeria",
+    "address": "Shops 6&16, Block P, Joke Plaza, Beside Trans Amusement Park, Bodija Market Road, 200213, Ibadan, Nigeria",
     "phone": "616200213"
   },
   {
@@ -6073,7 +6073,7 @@
   },
   {
     "id": 1013,
-    "name": "Latitude Café \u0026 Lounge",
+    "name": "Latitude Café & Lounge",
     "address": "Road, 200132, Ibadan, Oyo, Nigeria",
     "phone": "7+35200132"
   },
@@ -6356,7 +6356,7 @@
   {
     "id": 1060,
     "name": "La Maison Hotel",
-    "address": "Bus Stop, Oomor House, 9V77+CFQ Oni \u0026 Sons, MKO Abiola Way, beside High Court of Justice, Ibadan, Nigeria",
+    "address": "Bus Stop, Oomor House, 9V77+CFQ Oni & Sons, MKO Abiola Way, beside High Court of Justice, Ibadan, Nigeria",
     "phone": ""
   },
   {
@@ -6439,7 +6439,7 @@
   },
   {
     "id": 1074,
-    "name": "St. Regis Hotels \u0026 Resorts",
+    "name": "St. Regis Hotels & Resorts",
     "address": "28 Ruben Agho St, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "28300102"
   },
@@ -6481,7 +6481,7 @@
   },
   {
     "id": 1081,
-    "name": "Iyore Grand Hotel \u0026 Suites",
+    "name": "Iyore Grand Hotel & Suites",
     "address": "Lagos Express, 12, 1st Bello Street, Before Hope Alive Church, Isiohor Road, off Benin, 302110, Benin City, Edo, Nigeria",
     "phone": "121302110"
   },
@@ -6577,7 +6577,7 @@
   },
   {
     "id": 1097,
-    "name": "Exquisite Homes2 Hotel \u0026 Lounge",
+    "name": "Exquisite Homes2 Hotel & Lounge",
     "address": "Oka 300102, Benin City, Edo, Nigeria",
     "phone": "+2348065754700"
   },
@@ -6607,7 +6607,7 @@
   },
   {
     "id": 1102,
-    "name": "Oak Suites \u0026 Bar",
+    "name": "Oak Suites & Bar",
     "address": "no 24 etete road, off Adesuwa St, 300252, Benin City, Nigeria",
     "phone": "24300252"
   },
@@ -6739,7 +6739,7 @@
   },
   {
     "id": 1124,
-    "name": "Morzi Hotels \u0026 Suites",
+    "name": "Morzi Hotels & Suites",
     "address": "Plot 487 Etete Layout Rd, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "487300102"
   },
@@ -6775,7 +6775,7 @@
   },
   {
     "id": 1130,
-    "name": "Boston Hotels \u0026 Signature",
+    "name": "Boston Hotels & Signature",
     "address": "72A Boundary Rd, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "72300102"
   },
@@ -6787,7 +6787,7 @@
   },
   {
     "id": 1132,
-    "name": "Tevom Hotel \u0026 Suites",
+    "name": "Tevom Hotel & Suites",
     "address": "2, Edisonwan Street, off Mila Road, Benin City, Nigeria",
     "phone": ""
   },
@@ -6841,7 +6841,7 @@
   },
   {
     "id": 1141,
-    "name": "Allure Continental Hotel \u0026 Suites",
+    "name": "Allure Continental Hotel & Suites",
     "address": "G.R.A, 11, Nneka Street, Off Ugbor Rd, Benin City, Nigeria",
     "phone": "+2348033869576"
   },
@@ -6865,7 +6865,7 @@
   },
   {
     "id": 1145,
-    "name": "Swiss33 Hotel \u0026 Suites",
+    "name": "Swiss33 Hotel & Suites",
     "address": "1 okpiahio crescent off Aroko street, Benin-Agbor Hwy, Benin City, Nigeria",
     "phone": "+2347058052871"
   },
@@ -7021,7 +7021,7 @@
   },
   {
     "id": 1171,
-    "name": "D SSignature Chinese \u0026 Lounge",
+    "name": "D SSignature Chinese & Lounge",
     "address": "g.r.a, 34 Boundary Rd, Benin City, Nigeria",
     "phone": "+2347055100888"
   },
@@ -7117,7 +7117,7 @@
   },
   {
     "id": 1187,
-    "name": "The Experience Restaurant \u0026 Bar",
+    "name": "The Experience Restaurant & Bar",
     "address": "30 Airport Rd, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "30300102"
   },
@@ -7159,7 +7159,7 @@
   },
   {
     "id": 1194,
-    "name": "SoundBar Cafe \u0026 Kitchen",
+    "name": "SoundBar Cafe & Kitchen",
     "address": "226 Murtala Muhammed Way, Oka 300104, Benin City, Edo, Nigeria",
     "phone": "226300104"
   },
@@ -7189,7 +7189,7 @@
   },
   {
     "id": 1199,
-    "name": "Mint \u0026 charcoal",
+    "name": "Mint & charcoal",
     "address": "Etete Road, Oka 300102, Benin City, Edo, Nigeria",
     "phone": ""
   },
@@ -7267,7 +7267,7 @@
   },
   {
     "id": 1212,
-    "name": "360 Lounge Restaurant \u0026 Carwash",
+    "name": "360 Lounge Restaurant & Carwash",
     "address": "73 Airport Rd, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "73300102"
   },
@@ -7279,7 +7279,7 @@
   },
   {
     "id": 1214,
-    "name": "Blessed Resturant \u0026 Bar",
+    "name": "Blessed Resturant & Bar",
     "address": "3b Emovon Cres, off Ihama Road, Oka 300251, Benin City, Edo, Nigeria",
     "phone": "+2349138851800"
   },
@@ -7441,7 +7441,7 @@
   },
   {
     "id": 1241,
-    "name": "RUCH Snails Restaurant \u0026 Pastries",
+    "name": "RUCH Snails Restaurant & Pastries",
     "address": "Big Joe Ventures Ltd, Ramat Park, 56 Oregbeni by, Ikpoba Hl, Benin City, Nigeria",
     "phone": "+2348056430455"
   },
@@ -7477,7 +7477,7 @@
   },
   {
     "id": 1247,
-    "name": "Princess Restaurant \u0026 Bar",
+    "name": "Princess Restaurant & Bar",
     "address": "Oguola Ave, Oka 300102, Benin City, Edo, Nigeria",
     "phone": ""
   },
@@ -7495,7 +7495,7 @@
   },
   {
     "id": 1250,
-    "name": "Flow Lounge \u0026 Restaurant",
+    "name": "Flow Lounge & Restaurant",
     "address": "545 Upper, Sakpoba Rd, Benin City, Nigeria",
     "phone": "+2348060366379"
   },
@@ -7561,19 +7561,19 @@
   },
   {
     "id": 1261,
-    "name": "MELEXX RESTAURANT\u0026 BAR",
+    "name": "MELEXX RESTAURANT& BAR",
     "address": "35 Irhirhi Rd, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "35300102"
   },
   {
     "id": 1262,
-    "name": "Madam Esohe Restaurant \u0026 Bar",
+    "name": "Madam Esohe Restaurant & Bar",
     "address": "Marina St, Use 300102, Benin City, Edo, Nigeria",
     "phone": "93+57300102"
   },
   {
     "id": 1263,
-    "name": "EHI PRIDE RESTAURANT \u0026 MULTI-PURPOSE HALL",
+    "name": "EHI PRIDE RESTAURANT & MULTI-PURPOSE HALL",
     "address": "Ivbiawo Ln, Oka 300102, Benin City, Edo, Nigeria",
     "phone": "8+72300102"
   },
@@ -7646,7 +7646,7 @@
   {
     "id": 1275,
     "name": "Aliyah Shopping Mall",
-    "address": "Shop 14 \u0026 15, Mr G Plaza, Iguomon, Ikpoba Hill, Benin City, Nigeria",
+    "address": "Shop 14 & 15, Mr G Plaza, Iguomon, Ikpoba Hill, Benin City, Nigeria",
     "phone": "+2347061278317"
   },
   {
@@ -7981,7 +7981,7 @@
   },
   {
     "id": 1331,
-    "name": "UBTH S.M.P. Coorperative Society; Shopping \u0026 Event Centre",
+    "name": "UBTH S.M.P. Coorperative Society; Shopping & Event Centre",
     "address": "Uselu 300103, Benin City, Edo, Nigeria",
     "phone": "+2348037143716"
   },
@@ -8137,7 +8137,7 @@
   },
   {
     "id": 1357,
-    "name": "C\u0026C GIFT STORES NIG ENT",
+    "name": "C&C GIFT STORES NIG ENT",
     "address": "Street 8, 300104, Benin City, Edo, Nigeria",
     "phone": ""
   },
@@ -8372,7 +8372,7 @@
   {
     "id": 1396,
     "name": "Uselu Traditional Grounds",
-    "address": "4 Miracle Way Street \u0026 Off Aduwawa Way, Uselu 300104, Benin City, Edo, Nigeria",
+    "address": "4 Miracle Way Street & Off Aduwawa Way, Uselu 300104, Benin City, Edo, Nigeria",
     "phone": ""
   },
   {
@@ -8419,8 +8419,8 @@
   },
   {
     "id": 1404,
-    "name": "Kada Plaza Cinema \u0026 Entertainment Centre",
-    "address": "130, Upper Igun Street, Between 2nd \u0026, Murtala Muhammed Way, Benin City, Nigeria",
+    "name": "Kada Plaza Cinema & Entertainment Centre",
+    "address": "130, Upper Igun Street, Between 2nd &, Murtala Muhammed Way, Benin City, Nigeria",
     "phone": "+2348025501059"
   },
   {
@@ -8527,7 +8527,7 @@
   },
   {
     "id": 1422,
-    "name": "The Wells Carlton Hotel \u0026 Apartments",
+    "name": "The Wells Carlton Hotel & Apartments",
     "address": "district area, Plot 1191 sole adebiyi street, off Reuben Okoya Crescent, Wuye 900211, Abuja, Nigeria",
     "phone": "1191900211"
   },
@@ -8696,7 +8696,7 @@
   {
     "id": 1450,
     "name": "Haris Hotel",
-    "address": "No. 1 Paul Muotolum Crescent Plot 1010, Old Gwarinpa Road, off Asba \u0026 Dantata St, 900108, Abuja, Nigeria",
+    "address": "No. 1 Paul Muotolum Crescent Plot 1010, Old Gwarinpa Road, off Asba & Dantata St, 900108, Abuja, Nigeria",
     "phone": "11010900108"
   },
   {
@@ -8755,7 +8755,7 @@
   },
   {
     "id": 1460,
-    "name": "D'Stolz Villa \u0026 Hospitality",
+    "name": "D'Stolz Villa & Hospitality",
     "address": "Plot C124, 5221 Road, 1st Avenue, Gwarinpa Estate, Abuja, Nigeria",
     "phone": "12452211"
   },
@@ -8785,7 +8785,7 @@
   },
   {
     "id": 1465,
-    "name": "Newton Park Hotels \u0026 Resort, Wuse Zone 4 Abuja",
+    "name": "Newton Park Hotels & Resort, Wuse Zone 4 Abuja",
     "address": "Plot A13, Dawaki Hillside Estate, Off Kubwa Expressway, opp. Gwarinpa Estate, 223140, Abuja, Nigeria",
     "phone": "13223140"
   },
@@ -8809,7 +8809,7 @@
   },
   {
     "id": 1469,
-    "name": "Koraf Hotels \u0026 Apartments",
+    "name": "Koraf Hotels & Apartments",
     "address": "Zone 4, Sani Abacha Estate, 11 Suez Cres, Wuse 900288, Abuja, Federal Capital Territory, Nigeria",
     "phone": "411900288"
   },
@@ -8833,7 +8833,7 @@
   },
   {
     "id": 1473,
-    "name": "Dalchifit Suites \u0026 Wellness Centre",
+    "name": "Dalchifit Suites & Wellness Centre",
     "address": "2039 Masaka, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "2039904101"
   },
@@ -8905,7 +8905,7 @@
   },
   {
     "id": 1485,
-    "name": "Treasures Suites \u0026 Conferences, Abuja",
+    "name": "Treasures Suites & Conferences, Abuja",
     "address": "44 Blantyre Cres, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "44904101"
   },
@@ -8923,13 +8923,13 @@
   },
   {
     "id": 1488,
-    "name": "Wali's Suites - Hotel \u0026 Suites",
+    "name": "Wali's Suites - Hotel & Suites",
     "address": "3 Bilyamin Usman, AMAC 900108, Abuja, Federal Capital Territory, Nigeria",
     "phone": "+2348105444298"
   },
   {
     "id": 1489,
-    "name": "World Class Hotel \u0026 Apartments",
+    "name": "World Class Hotel & Apartments",
     "address": "Visit www.centurionapartments.ng for upto 20% discount, No 39 Agadez Cres, Wuse 2 900248, Abuja, Federal Capital Territory, Nigeria",
     "phone": "20392900248"
   },
@@ -8947,7 +8947,7 @@
   },
   {
     "id": 1492,
-    "name": "Grand Pela Hotel \u0026 Suites",
+    "name": "Grand Pela Hotel & Suites",
     "address": "1061 Herbert Macaulay Way, Central Business Dis 900103, Abuja, Federal Capital Territory, Nigeria",
     "phone": "1061900103"
   },
@@ -9049,13 +9049,13 @@
   },
   {
     "id": 1509,
-    "name": "Casalinda Hotel \u0026 Gallery Resort",
+    "name": "Casalinda Hotel & Gallery Resort",
     "address": "41 Ebitu Ukiwe St, Jabi 900108, Abuja, Federal Capital Territory, Nigeria",
     "phone": "41900108"
   },
   {
     "id": 1510,
-    "name": "BluCabana Restaurant \u0026 Cafe",
+    "name": "BluCabana Restaurant & Cafe",
     "address": "99 Aminu Kano Cres, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "99904101"
   },
@@ -9115,7 +9115,7 @@
   },
   {
     "id": 1520,
-    "name": "355 Steakhouse \u0026 Lounge",
+    "name": "355 Steakhouse & Lounge",
     "address": "Plot 270 Mohammadu Buhari Way, Garki 900103, Abuja, Federal Capital Territory, Nigeria",
     "phone": "270900103"
   },
@@ -9163,7 +9163,7 @@
   },
   {
     "id": 1528,
-    "name": "Clubhouse Restaurant \u0026 Gym",
+    "name": "Clubhouse Restaurant & Gym",
     "address": "182 1st Avenue, Gwarinpa 900108, Abuja, Federal Capital Territory, Nigeria",
     "phone": "1821900108"
   },
@@ -9187,7 +9187,7 @@
   },
   {
     "id": 1532,
-    "name": "The Pier Restaurant \u0026 Lounge",
+    "name": "The Pier Restaurant & Lounge",
     "address": "16b Libreville Cres, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "16904101"
   },
@@ -9265,13 +9265,13 @@
   },
   {
     "id": 1545,
-    "name": "Vanilla Restaurant \u0026 Lounge",
+    "name": "Vanilla Restaurant & Lounge",
     "address": "Discovery Mail, Plot 215- Konoko Crescent, Along Ap Plaza, Wuse 2, Abuja, Nigeria",
     "phone": "+2349068011767"
   },
   {
     "id": 1546,
-    "name": "Indigo Restaurant \u0026 Lounge, Abuja",
+    "name": "Indigo Restaurant & Lounge, Abuja",
     "address": "4 Durban St, Wuse 2 900001, Abuja, Federal Capital Territory, Nigeria",
     "phone": "42900001"
   },
@@ -9302,12 +9302,12 @@
   {
     "id": 1551,
     "name": "Timeout Restaurant",
-    "address": "Express, Salt \u0026 Pepper Resturant, Opposite Baffi Furniture, Ahmadu Bello Way, Mabushi, Abuja, Nigeria",
+    "address": "Express, Salt & Pepper Resturant, Opposite Baffi Furniture, Ahmadu Bello Way, Mabushi, Abuja, Nigeria",
     "phone": "+2349086006008"
   },
   {
     "id": 1552,
-    "name": "Bijou Cafe, Restaurant \u0026 Spa",
+    "name": "Bijou Cafe, Restaurant & Spa",
     "address": "264 Tafawa Balewa Rd, Central Business District 901002, Abuja, Federal Capital Territory, Nigeria",
     "phone": "264901002"
   },
@@ -9415,7 +9415,7 @@
   },
   {
     "id": 1570,
-    "name": "Woks \u0026 Koi Chinese restaurant",
+    "name": "Woks & Koi Chinese restaurant",
     "address": "559C Kapital Rd, Garki 900103, Abuja, Federal Capital Territory, Nigeria",
     "phone": "559900103"
   },
@@ -9427,13 +9427,13 @@
   },
   {
     "id": 1572,
-    "name": "Village Chief Restaurant \u0026 Bar",
+    "name": "Village Chief Restaurant & Bar",
     "address": "Ihiala Street, off Brass Cl, Area 2, Abuja, Nigeria",
     "phone": "+2348180008935"
   },
   {
     "id": 1573,
-    "name": "Mandi Place \u0026 restaurant",
+    "name": "Mandi Place & restaurant",
     "address": "7 Humbori Street, Adetokunbo Ademola Cres, Wuse 2, Abuja, Federal Capital Territory, Nigeria",
     "phone": "+2347043800000"
   },
@@ -9469,7 +9469,7 @@
   },
   {
     "id": 1579,
-    "name": "Craft Restaurant \u0026 Lounge",
+    "name": "Craft Restaurant & Lounge",
     "address": "494 Bangui St, Wuse 2 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "4942904101"
   },
@@ -9487,7 +9487,7 @@
   },
   {
     "id": 1582,
-    "name": "Salt \u0026 Pepper Restaurant \u0026 TakeAway",
+    "name": "Salt & Pepper Restaurant & TakeAway",
     "address": "5 Sorotona Cl, Wuse 2 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "52904101"
   },
@@ -9517,7 +9517,7 @@
   },
   {
     "id": 1587,
-    "name": "Wingist Restaurant \u0026 Sports Bar",
+    "name": "Wingist Restaurant & Sports Bar",
     "address": "16 Bangui St, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "16904101"
   },
@@ -9529,7 +9529,7 @@
   },
   {
     "id": 1589,
-    "name": "4SistaS Restaurant \u0026 Lounge",
+    "name": "4SistaS Restaurant & Lounge",
     "address": "7 Bozoum, Wuse 2 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "72904101"
   },
@@ -9547,7 +9547,7 @@
   },
   {
     "id": 1592,
-    "name": "THE IVY LEAGUE RESTAURANT \u0026 LOUNGE",
+    "name": "THE IVY LEAGUE RESTAURANT & LOUNGE",
     "address": "170 Adetokunbo Ademola Cres, opp. Peniel Apartment, Wuse 2 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "1702904101"
   },
@@ -9607,13 +9607,13 @@
   },
   {
     "id": 1602,
-    "name": "Le Chak Restaurant, Bar \u0026 Grill",
+    "name": "Le Chak Restaurant, Bar & Grill",
     "address": "Floor, 01, Transcorp Hilton Hotel, No.1, Aguiyi Ironsi Street, Maitama, Abuja, FCT, Nigeria",
     "phone": "+2348039013000"
   },
   {
     "id": 1603,
-    "name": "The Place Restaurants \u0026 Lounge",
+    "name": "The Place Restaurants & Lounge",
     "address": "170 Adetokunbo Ademola Cres, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "170904101"
   },
@@ -10082,7 +10082,7 @@
   {
     "id": 1681,
     "name": "Hillcrest Shopping Complex",
-    "address": "zone 2, 1 \u0026 3 Mambolo St, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
+    "address": "zone 2, 1 & 3 Mambolo St, Wuse 904101, Abuja, Federal Capital Territory, Nigeria",
     "phone": "213904101"
   },
   {
@@ -10267,7 +10267,7 @@
   },
   {
     "id": 1712,
-    "name": "National Childrens Park \u0026 Zoo Abuja",
+    "name": "National Childrens Park & Zoo Abuja",
     "address": "900103, Abuja, Federal Capital Territory, Nigeria",
     "phone": ""
   },
@@ -10441,7 +10441,7 @@
   },
   {
     "id": 1741,
-    "name": "IBB International Golf \u0026 Country Club",
+    "name": "IBB International Golf & Country Club",
     "address": "Suite 23 D Sabondele Complex, behind Southern Fried/ Mr Biggs, Jabi 930234, Abuja, Nigeria",
     "phone": "23930234"
   },
@@ -10621,7 +10621,7 @@
   },
   {
     "id": 1771,
-    "name": "Brook Garden \u0026 Events Centre, By Railway Bridge",
+    "name": "Brook Garden & Events Centre, By Railway Bridge",
     "address": "12 Ukpabi Asika St, Asokoro 900103, Abuja, Federal Capital Territory, Nigeria",
     "phone": "12900103"
   },
@@ -10681,7 +10681,7 @@
   },
   {
     "id": 1781,
-    "name": "KWINBEE'S BEAUTY PALACE \u0026 CLINIC",
+    "name": "KWINBEE'S BEAUTY PALACE & CLINIC",
     "address": "Beside Accord Estate, City Estate Road, Abuja, Nigeria",
     "phone": "+2348106868386"
   },
@@ -10807,7 +10807,7 @@
   },
   {
     "id": 1802,
-    "name": "Koraf Hotels \u0026 Apartments",
+    "name": "Koraf Hotels & Apartments",
     "address": "Kado 900108, Abuja, Federal Capital Territory, Nigeria",
     "phone": ""
   }

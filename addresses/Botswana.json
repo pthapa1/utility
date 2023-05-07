@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Town Lodge Gaborone",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": 13,
     "name": "The Big Five Lodge",
-    "address": "Behind Bull \u0026 Bush, Plot 54457, Segoditshane Road, Broadhurst, Gaborone, Gaborone, Botswana",
+    "address": "Behind Bull & Bush, Plot 54457, Segoditshane Road, Broadhurst, Gaborone, Gaborone, Botswana",
     "phone": "+2673165071"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "id": 18,
-    "name": "Tlotlo Hotel \u0026 Conference Center",
+    "name": "Tlotlo Hotel & Conference Center",
     "address": "Plot 70, Ghanzi, Botswana",
     "phone": ""
   },
@@ -163,7 +163,7 @@
   },
   {
     "id": 28,
-    "name": "Madamz Bed \u0026 Breakfast Guest house Gaborone",
+    "name": "Madamz Bed & Breakfast Guest house Gaborone",
     "address": "Magang Ave, Gaborone, Botswana",
     "phone": "+26772113854"
   },
@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "name": "Crocodile Pools River Safaris \u0026 Chalets",
+    "name": "Crocodile Pools River Safaris & Chalets",
     "address": "Lekakawe Rd, Ext 24, Gaborone, Botswana",
     "phone": "+2673161677"
   },
@@ -253,7 +253,7 @@
   },
   {
     "id": 43,
-    "name": "Strand Meadows B\u0026B",
+    "name": "Strand Meadows B&B",
     "address": "45 Crocodile Way, Notwane, Gaborone, Botswana",
     "phone": "+26772104276"
   },
@@ -301,7 +301,7 @@
   },
   {
     "id": 51,
-    "name": "Beth-Rehob Bed \u0026 Breakfast",
+    "name": "Beth-Rehob Bed & Breakfast",
     "address": "Koi, Gaborone, Botswana",
     "phone": "+26771684439"
   },
@@ -361,13 +361,13 @@
   },
   {
     "id": 61,
-    "name": "J.T Bed \u0026 Breakfast",
+    "name": "J.T Bed & Breakfast",
     "address": "59694 Ikula St, Gaborone, Botswana",
     "phone": "+26773807875"
   },
   {
     "id": 62,
-    "name": "GAMOTHO B\u0026B",
+    "name": "GAMOTHO B&B",
     "address": "34961 Gau, Gaborone, Botswana",
     "phone": "+2673115505"
   },
@@ -421,7 +421,7 @@
   },
   {
     "id": 71,
-    "name": "Phakalane Golf Estate Hotel \u0026 Convention Centre",
+    "name": "Phakalane Golf Estate Hotel & Convention Centre",
     "address": "Plot 60551, Block 7, Gaborone, Block 7, Peolwane, Gaborone, Botswana",
     "phone": "+2673184499"
   },
@@ -451,7 +451,7 @@
   },
   {
     "id": 76,
-    "name": "Elegant \u0026 Exclusive Boutique Guest House",
+    "name": "Elegant & Exclusive Boutique Guest House",
     "address": "34294 Tlohokatsebe, Xanikwe, Gaborone, Botswana",
     "phone": "+2673190840"
   },
@@ -505,7 +505,7 @@
   },
   {
     "id": 85,
-    "name": "Main Deck Restaurant \u0026 Bar",
+    "name": "Main Deck Restaurant & Bar",
     "address": "Gaborone Sun, Chuma Dr, Gaborone, Botswana",
     "phone": "+2673616000"
   },
@@ -565,7 +565,7 @@
   },
   {
     "id": 95,
-    "name": "Suave Lounge\u0026 Restaurant",
+    "name": "Suave Lounge& Restaurant",
     "address": "Kasane, Gaborone, Botswana",
     "phone": "+26771658044"
   },
@@ -794,7 +794,7 @@
   {
     "id": 133,
     "name": "Bimbos - Riverwalk",
-    "address": "The Square, New Lobatse Rd Shop 2 \u0026 3, Gaborone, Botswana",
+    "address": "The Square, New Lobatse Rd Shop 2 & 3, Gaborone, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -847,7 +847,7 @@
   },
   {
     "id": 142,
-    "name": "MALA \u0026 MOGODU WEEKENDS",
+    "name": "MALA & MOGODU WEEKENDS",
     "address": "New Lobatse Rd, Gaborone, Botswana",
     "phone": "+2673117569"
   },
@@ -956,7 +956,7 @@
   {
     "id": 160,
     "name": "Kilimanjaro Mall",
-    "address": "Block 10, Airport Junction Mall LOT NO 50351 \u0026 50662, Gaborone, Botswana",
+    "address": "Block 10, Airport Junction Mall LOT NO 50351 & 50662, Gaborone, Botswana",
     "phone": "105035150662"
   },
   {
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 196,
-    "name": "Mokolodi Mocha - Shopping Centre, Office Park, Apartments \u0026 Residences",
+    "name": "Mokolodi Mocha - Shopping Centre, Office Park, Apartments & Residences",
     "address": "Shop #9, hotel protea Marriott Masa Squire, Plot no 54353 New, Gaborone, Botswana",
     "phone": "+26772104092"
   },
@@ -1202,7 +1202,7 @@
   {
     "id": 201,
     "name": "Hyper Home Centre",
-    "address": "Shop 1\u00262 Equity Building Gaborone Mall, Gaborone, Botswana",
+    "address": "Shop 1&2 Equity Building Gaborone Mall, Gaborone, Botswana",
     "phone": "+2673912207"
   },
   {
@@ -1232,7 +1232,7 @@
   {
     "id": 206,
     "name": "Masa Centre Retail Gallery",
-    "address": "Lot 54349, First Commercial \u0026, Eastern Commercial Rd, Gaborone, Botswana",
+    "address": "Lot 54349, First Commercial &, Eastern Commercial Rd, Gaborone, Botswana",
     "phone": ""
   },
   {
@@ -1357,7 +1357,7 @@
   },
   {
     "id": 227,
-    "name": "Crocodile Pools River Safaris \u0026 Chalets",
+    "name": "Crocodile Pools River Safaris & Chalets",
     "address": "Molepolole Road Plot 17989 Bonnington Farm, Gaborone, Botswana",
     "phone": "+2673637777"
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "id": 255,
-    "name": "Madamz Bed \u0026 Breakfast Guest house Gaborone",
+    "name": "Madamz Bed & Breakfast Guest house Gaborone",
     "address": "Corner Airport and A1 Road Airport Junction Shopping Centre, Gaborone, Botswana",
     "phone": "+26775090519"
   },
@@ -1538,7 +1538,7 @@
   {
     "id": 257,
     "name": "RocoMamas Botswana",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -1567,7 +1567,7 @@
   },
   {
     "id": 262,
-    "name": "Tlotlo Hotel \u0026 Conference Center",
+    "name": "Tlotlo Hotel & Conference Center",
     "address": "Gau, Gaborone, Botswana",
     "phone": ""
   },
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 281,
-    "name": "Mphebatho Cultural Museum \u0026 Moruleng Cultural Precinct",
+    "name": "Mphebatho Cultural Museum & Moruleng Cultural Precinct",
     "address": "Notwane Rd, Gaborone, Botswana",
     "phone": "+2673184141"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "id": 290,
-    "name": "Green House B\u0026B",
+    "name": "Green House B&B",
     "address": "32366 Blue Jacket St, Francistown, Botswana",
     "phone": "+2672441100"
   },
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 292,
-    "name": "Tintech Bed \u0026 Breakfast",
+    "name": "Tintech Bed & Breakfast",
     "address": "Plot 4140 Raditsebe Drive, Francistown, Botswana",
     "phone": "+26771896437"
   },
@@ -1843,7 +1843,7 @@
   },
   {
     "id": 308,
-    "name": "Lee Bed \u0026 Breakfast",
+    "name": "Lee Bed & Breakfast",
     "address": "Plot 1082 Tati-Siding, Francistown, Botswana",
     "phone": ""
   },
@@ -1861,7 +1861,7 @@
   },
   {
     "id": 311,
-    "name": "Pomegranite Golf Resort \u0026 Spa",
+    "name": "Pomegranite Golf Resort & Spa",
     "address": "Mandela Rd, Francistown, Botswana",
     "phone": "+2672403518"
   },
@@ -1909,7 +1909,7 @@
   },
   {
     "id": 319,
-    "name": "Chipmas Bed\u0026Breakfast",
+    "name": "Chipmas Bed&Breakfast",
     "address": "Plot 18867,Chibwe Close Selepa, Francistown, Botswana",
     "phone": "+26776423595"
   },
@@ -2191,7 +2191,7 @@
   },
   {
     "id": 366,
-    "name": "Pabloz Restaurant \u0026 Club",
+    "name": "Pabloz Restaurant & Club",
     "address": "Puma filing station, Tatisiding, Francistown, Botswana",
     "phone": "+26776055365"
   },
@@ -2281,14 +2281,14 @@
   },
   {
     "id": 381,
-    "name": "Green House B\u0026B",
+    "name": "Green House B&B",
     "address": "A1 Mainroads Gabs, Dessert Sands Motel, Francistown, Botswana",
     "phone": "+2674924173"
   },
   {
     "id": 382,
     "name": "Cresta Thapama",
-    "address": "Marang Rd Shop 29 \u0026 30, Sunshine Plaza Mall, Francistown, Botswana",
+    "address": "Marang Rd Shop 29 & 30, Sunshine Plaza Mall, Francistown, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -2366,7 +2366,7 @@
   {
     "id": 395,
     "name": "Toro Junction Mall Development",
-    "address": "Marang Rd Shop 29 \u0026 30, Sunshine Plaza Mall, Francistown, Botswana",
+    "address": "Marang Rd Shop 29 & 30, Sunshine Plaza Mall, Francistown, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 401,
-    "name": "PEP Francistown P\u0026P Centre",
+    "name": "PEP Francistown P&P Centre",
     "address": "shop 35, diphalane mall, Palapye, Botswana",
     "phone": ""
   },
@@ -2432,7 +2432,7 @@
   {
     "id": 406,
     "name": "Orange shop Nzano Centre",
-    "address": "Cnr Saint Patrick \u0026 Guy St Shop 58 \u0026 59, Galo Mall, Francistown, Botswana",
+    "address": "Cnr Saint Patrick & Guy St Shop 58 & 59, Galo Mall, Francistown, Botswana",
     "phone": "+2672409027"
   },
   {
@@ -2504,7 +2504,7 @@
   {
     "id": 418,
     "name": "TOPS at SPAR Nswazwi",
-    "address": "A1 Shop 1\u00262, Nzano Centre, Botswana",
+    "address": "A1 Shop 1&2, Nzano Centre, Botswana",
     "phone": "+2672415669"
   },
   {
@@ -2534,7 +2534,7 @@
   {
     "id": 423,
     "name": "Cash Crusaders Gaborone Francistown",
-    "address": "Shop 2 Galo Centre Mall, Cnr Patrick \u0026, Guy St, Francistown, Botswana",
+    "address": "Shop 2 Galo Centre Mall, Cnr Patrick &, Guy St, Francistown, Botswana",
     "phone": "+2672410054"
   },
   {
@@ -2569,7 +2569,7 @@
   },
   {
     "id": 429,
-    "name": "Moloico Events \u0026 Florist",
+    "name": "Moloico Events & Florist",
     "address": "Plot 314, Shop A6, Selous Ave, Francistown, Botswana",
     "phone": "+26771683212"
   },
@@ -2624,7 +2624,7 @@
   {
     "id": 438,
     "name": "Woodlands Stop Over and Lodge",
-    "address": "A1 Shop 1\u00262, Nzano Centre, Botswana",
+    "address": "A1 Shop 1&2, Nzano Centre, Botswana",
     "phone": "+2672415669"
   },
   {
@@ -2839,7 +2839,7 @@
   },
   {
     "id": 474,
-    "name": "Tlotlo Hotel \u0026 Conference Center",
+    "name": "Tlotlo Hotel & Conference Center",
     "address": "Tshegetsang School, Molepolole Road, Molepolole, Botswana",
     "phone": "+26775369114"
   },
@@ -2978,7 +2978,7 @@
   {
     "id": 497,
     "name": "Debonairs mafenyatlala mall",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -3109,7 +3109,7 @@
   },
   {
     "id": 519,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Molepolole, Ntloedibe Ward, Gaborone, Botswana",
     "phone": ""
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "The Three Monkeys Restaurant \u0026 Bar, Victoria Falls",
+    "name": "The Three Monkeys Restaurant & Bar, Victoria Falls",
     "address": "Plot 7195, Molepolole, Botswana",
     "phone": ""
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "id": 570,
-    "name": "Loiso B\u0026B",
+    "name": "Loiso B&B",
     "address": "Serorome, Palapye, Botswana",
     "phone": "+2674922274"
   },
@@ -3440,7 +3440,7 @@
   {
     "id": 574,
     "name": "Motswedi Hotel",
-    "address": "Plot 12436, Corner Dr Meyer \u0026 Independence Road Selebi-Phikwe, Botswana",
+    "address": "Plot 12436, Corner Dr Meyer & Independence Road Selebi-Phikwe, Botswana",
     "phone": "+2672610444"
   },
   {
@@ -3740,7 +3740,7 @@
   {
     "id": 624,
     "name": "Old Palapye",
-    "address": "Plot 12436, Corner Dr Meyer \u0026 Independence Road Selebi-Phikwe, Botswana",
+    "address": "Plot 12436, Corner Dr Meyer & Independence Road Selebi-Phikwe, Botswana",
     "phone": "+2672610444"
   },
   {
@@ -3782,7 +3782,7 @@
   {
     "id": 631,
     "name": "Matobo",
-    "address": "Plot 12436, Corner Dr Meyer \u0026 Independence Road Selebi-Phikwe, Botswana",
+    "address": "Plot 12436, Corner Dr Meyer & Independence Road Selebi-Phikwe, Botswana",
     "phone": "+2672610444"
   },
   {
@@ -3836,7 +3836,7 @@
   {
     "id": 640,
     "name": "Peermont, The Grand Palm",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -3919,7 +3919,7 @@
   },
   {
     "id": 654,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Plot 27511, Extension 2, Palapye, Botswana",
     "phone": "+26776670777"
   },
@@ -3985,7 +3985,7 @@
   },
   {
     "id": 665,
-    "name": "Strand Meadows B\u0026B",
+    "name": "Strand Meadows B&B",
     "address": "Plot 350/1410 Lenganeng, Tlokweng, Botswana",
     "phone": "+26772833775"
   },
@@ -4021,7 +4021,7 @@
   },
   {
     "id": 671,
-    "name": "GAMOTHO B\u0026B",
+    "name": "GAMOTHO B&B",
     "address": "Block 10 Gaborone, Gaborone, Botswana",
     "phone": "+26772816135"
   },
@@ -4081,13 +4081,13 @@
   },
   {
     "id": 681,
-    "name": "Beth-Rehob Bed \u0026 Breakfast",
+    "name": "Beth-Rehob Bed & Breakfast",
     "address": "Gabane Gasiko Ward Suite DC, Gaborone, Gabane, Botswana",
     "phone": "+26776469202"
   },
   {
     "id": 682,
-    "name": "Mashusha B \u0026 B",
+    "name": "Mashusha B & B",
     "address": "Plot 125 Mongana, Gaborone, Botswana",
     "phone": "+26771703694"
   },
@@ -4231,7 +4231,7 @@
   },
   {
     "id": 706,
-    "name": "Blue Olive Bed \u0026 Breakfast",
+    "name": "Blue Olive Bed & Breakfast",
     "address": "Bus Rank, City Centre, Gaborone, Botswana",
     "phone": "+2673922777"
   },
@@ -4351,7 +4351,7 @@
   },
   {
     "id": 726,
-    "name": "MALA \u0026 MOGODU WEEKENDS",
+    "name": "MALA & MOGODU WEEKENDS",
     "address": "The Grand Palm Hotel, Gaborone, Botswana",
     "phone": ""
   },
@@ -4369,7 +4369,7 @@
   },
   {
     "id": 729,
-    "name": "Bull \u0026 Bush",
+    "name": "Bull & Bush",
     "address": "African Mall, Mothlware, Gaborone, Botswana",
     "phone": "+2673165452"
   },
@@ -4399,7 +4399,7 @@
   },
   {
     "id": 734,
-    "name": "Sip \u0026 Grill Restaurant",
+    "name": "Sip & Grill Restaurant",
     "address": "Furnmart HQ, Nelson Mandela Hwy, by Airport Junction (Taung) Flyover just inside Block 3 Industrial next to, Gaborone, Botswana",
     "phone": "+26777332250"
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "id": 746,
-    "name": "Suave Lounge\u0026 Restaurant",
+    "name": "Suave Lounge& Restaurant",
     "address": "Broadhurst Dr, Gaborone, Botswana",
     "phone": "+26772226506"
   },
@@ -4484,7 +4484,7 @@
   {
     "id": 748,
     "name": "The Daily Grind Cafe + Kitchen",
-    "address": "The Square, New Lobatse Rd Shop 2 \u0026 3, Gaborone, Botswana",
+    "address": "The Square, New Lobatse Rd Shop 2 & 3, Gaborone, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -4508,7 +4508,7 @@
   {
     "id": 752,
     "name": "Z coffee shop",
-    "address": "The Hub, iTowers Ground \u0026 First Floor, Gaborone, Botswana",
+    "address": "The Hub, iTowers Ground & First Floor, Gaborone, Botswana",
     "phone": ""
   },
   {
@@ -4591,7 +4591,7 @@
   },
   {
     "id": 766,
-    "name": "Mountain Valley Bar \u0026 Restaurant",
+    "name": "Mountain Valley Bar & Restaurant",
     "address": "18057 Mbambi, Gaborone, Botswana",
     "phone": "+26771138767"
   },
@@ -4766,7 +4766,7 @@
   {
     "id": 795,
     "name": "Westgate Mall",
-    "address": "Shop 1B, Airport Junction Shopping Centre, Cnr A1 \u0026, Airport Rd, Gaborone, Botswana",
+    "address": "Shop 1B, Airport Junction Shopping Centre, Cnr A1 &, Airport Rd, Gaborone, Botswana",
     "phone": "+2673700130"
   },
   {
@@ -4928,7 +4928,7 @@
   {
     "id": 822,
     "name": "CELL CITY STATION MALL",
-    "address": "Shop 1\u00262 Equity Building Gaborone Mall, Gaborone, Botswana",
+    "address": "Shop 1&2 Equity Building Gaborone Mall, Gaborone, Botswana",
     "phone": "+2673912207"
   },
   {
@@ -5132,7 +5132,7 @@
   {
     "id": 856,
     "name": "Epic Stay Mogoditshane",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -5161,7 +5161,7 @@
   },
   {
     "id": 861,
-    "name": "Mphebatho Cultural Museum \u0026 Moruleng Cultural Precinct",
+    "name": "Mphebatho Cultural Museum & Moruleng Cultural Precinct",
     "address": "Old Molepolole, Gaborone, Botswana",
     "phone": "+2673637787"
   },
@@ -5371,14 +5371,14 @@
   },
   {
     "id": 896,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Maratadiba Road , Plot 21117, Gaborone, Botswana",
     "phone": "+2673190600"
   },
   {
     "id": 897,
     "name": "The Grand Palm Hotel Casino Convention Resort",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -5450,7 +5450,7 @@
   {
     "id": 909,
     "name": "Regent Select Hotel",
-    "address": "Behind Bull \u0026 Bush, Plot 54457, Segoditshane Road, Broadhurst, Gaborone, Gaborone, Botswana",
+    "address": "Behind Bull & Bush, Plot 54457, Segoditshane Road, Broadhurst, Gaborone, Gaborone, Botswana",
     "phone": "+2673165071"
   },
   {
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 911,
-    "name": "Tlotlo Hotel \u0026 Conference Center",
+    "name": "Tlotlo Hotel & Conference Center",
     "address": "474 S Ring Rd, Gaborone, Botswana",
     "phone": "+26774749090"
   },
@@ -5545,7 +5545,7 @@
   },
   {
     "id": 925,
-    "name": "Madamz Bed \u0026 Breakfast Guest house Gaborone",
+    "name": "Madamz Bed & Breakfast Guest house Gaborone",
     "address": "Gaborone, Botswana",
     "phone": ""
   },
@@ -5611,7 +5611,7 @@
   },
   {
     "id": 936,
-    "name": "Crocodile Pools River Safaris \u0026 Chalets",
+    "name": "Crocodile Pools River Safaris & Chalets",
     "address": "Lekakawe Rd, Ext 24, Gaborone, Botswana",
     "phone": "+2673161677"
   },
@@ -5689,7 +5689,7 @@
   },
   {
     "id": 949,
-    "name": "Beth-Rehob Bed \u0026 Breakfast",
+    "name": "Beth-Rehob Bed & Breakfast",
     "address": "Koi, Gaborone, Botswana",
     "phone": "+26771684439"
   },
@@ -5725,7 +5725,7 @@
   },
   {
     "id": 955,
-    "name": "J.T Bed \u0026 Breakfast",
+    "name": "J.T Bed & Breakfast",
     "address": "plot 46, Crocodile Way, Notwane, Gaborone, Botswana",
     "phone": "+26776629575"
   },
@@ -5755,7 +5755,7 @@
   },
   {
     "id": 960,
-    "name": "GAMOTHO B\u0026B",
+    "name": "GAMOTHO B&B",
     "address": "34961 Gau, Gaborone, Botswana",
     "phone": "+2673115505"
   },
@@ -5767,7 +5767,7 @@
   },
   {
     "id": 962,
-    "name": "Mashusha B \u0026 B",
+    "name": "Mashusha B & B",
     "address": "Plot 125 Mongana, Gaborone, Botswana",
     "phone": "+26771703694"
   },
@@ -5821,7 +5821,7 @@
   },
   {
     "id": 971,
-    "name": "Phakalane Golf Estate Hotel \u0026 Convention Centre",
+    "name": "Phakalane Golf Estate Hotel & Convention Centre",
     "address": "Block 3, 28492 Batsadi, Gaborone, Botswana",
     "phone": "+26776224466"
   },
@@ -5905,13 +5905,13 @@
   },
   {
     "id": 985,
-    "name": "Main Deck Restaurant \u0026 Bar",
+    "name": "Main Deck Restaurant & Bar",
     "address": "Gaborone Sun, Chuma Dr, Gaborone, Botswana",
     "phone": "+2673616000"
   },
   {
     "id": 986,
-    "name": "Bull \u0026 Bush",
+    "name": "Bull & Bush",
     "address": "Gaborone, Botswana",
     "phone": "+2673924428"
   },
@@ -6019,7 +6019,7 @@
   },
   {
     "id": 1004,
-    "name": "Suave Lounge\u0026 Restaurant",
+    "name": "Suave Lounge& Restaurant",
     "address": "Gaborone, Botswana",
     "phone": "+2673975246"
   },
@@ -6031,7 +6031,7 @@
   },
   {
     "id": 1006,
-    "name": "Sip \u0026 Grill Restaurant",
+    "name": "Sip & Grill Restaurant",
     "address": "Block 5, Gaborone, Botswana",
     "phone": "+26776794320"
   },
@@ -6205,7 +6205,7 @@
   },
   {
     "id": 1035,
-    "name": "Chatters Bar \u0026 Restuarant",
+    "name": "Chatters Bar & Restuarant",
     "address": "Plot 10094, Gaborone, Botswana",
     "phone": ""
   },
@@ -6308,7 +6308,7 @@
   {
     "id": 1052,
     "name": "Tan Catering Restaurant",
-    "address": "The Square, New Lobatse Rd Shop 2 \u0026 3, Gaborone, Botswana",
+    "address": "The Square, New Lobatse Rd Shop 2 & 3, Gaborone, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -6397,7 +6397,7 @@
   },
   {
     "id": 1067,
-    "name": "MALA \u0026 MOGODU WEEKENDS",
+    "name": "MALA & MOGODU WEEKENDS",
     "address": "Plot 54368, 1st Floor, iTowers North, Gaborone, Botswana",
     "phone": "+2673925783"
   },
@@ -6500,7 +6500,7 @@
   {
     "id": 1084,
     "name": "Mountain View Shopping Mall",
-    "address": "Block 10, Airport Junction Mall LOT NO 50351 \u0026 50662, Gaborone, Botswana",
+    "address": "Block 10, Airport Junction Mall LOT NO 50351 & 50662, Gaborone, Botswana",
     "phone": "105035150662"
   },
   {
@@ -6793,7 +6793,7 @@
   },
   {
     "id": 1133,
-    "name": "Mokolodi Mocha - Shopping Centre, Office Park, Apartments \u0026 Residences",
+    "name": "Mokolodi Mocha - Shopping Centre, Office Park, Apartments & Residences",
     "address": "Shop #9, hotel protea Marriott Masa Squire, Plot no 54353 New, Gaborone, Botswana",
     "phone": "+26772104092"
   },
@@ -6830,7 +6830,7 @@
   {
     "id": 1139,
     "name": "50 Pula Shop",
-    "address": "Shop 1\u00262 Equity Building Gaborone Mall, Gaborone, Botswana",
+    "address": "Shop 1&2 Equity Building Gaborone Mall, Gaborone, Botswana",
     "phone": "+2673912207"
   },
   {
@@ -6866,7 +6866,7 @@
   {
     "id": 1145,
     "name": "PEP Gaborone River Walk",
-    "address": "Lot 54349, First Commercial \u0026, Eastern Commercial Rd, Gaborone, Botswana",
+    "address": "Lot 54349, First Commercial &, Eastern Commercial Rd, Gaborone, Botswana",
     "phone": ""
   },
   {
@@ -7015,7 +7015,7 @@
   },
   {
     "id": 1170,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Game Reserve Rd, Gaborone, Botswana",
     "phone": "+2673184492"
   },
@@ -7070,7 +7070,7 @@
   {
     "id": 1179,
     "name": "Gabane Pottery",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -7213,7 +7213,7 @@
   },
   {
     "id": 1203,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Gaborone, Botswana",
     "phone": "+2673971809"
   },
@@ -7345,7 +7345,7 @@
   },
   {
     "id": 1225,
-    "name": "Green House B\u0026B",
+    "name": "Green House B&B",
     "address": "32621 Tati River South Road, Francistown, Botswana",
     "phone": "+2672419714"
   },
@@ -7357,7 +7357,7 @@
   },
   {
     "id": 1227,
-    "name": "Tintech Bed \u0026 Breakfast",
+    "name": "Tintech Bed & Breakfast",
     "address": "Marang Road, Francistown, Botswana",
     "phone": "+2672413991"
   },
@@ -7465,7 +7465,7 @@
   },
   {
     "id": 1245,
-    "name": "Lee Bed \u0026 Breakfast",
+    "name": "Lee Bed & Breakfast",
     "address": "Francistown, Botswana",
     "phone": "+26773866673"
   },
@@ -7483,7 +7483,7 @@
   },
   {
     "id": 1248,
-    "name": "Pomegranite Golf Resort \u0026 Spa",
+    "name": "Pomegranite Golf Resort & Spa",
     "address": "9923 Leshwe Cres, Francistown, Botswana",
     "phone": "+26776695436"
   },
@@ -7537,7 +7537,7 @@
   },
   {
     "id": 1257,
-    "name": "Chipmas Bed\u0026Breakfast",
+    "name": "Chipmas Bed&Breakfast",
     "address": "10078 Mokgomphata St, Francistown, Botswana",
     "phone": "+2672441224"
   },
@@ -7885,7 +7885,7 @@
   },
   {
     "id": 1315,
-    "name": "Perry's Steak \u0026 Chips",
+    "name": "Perry's Steak & Chips",
     "address": "Plot 6745 Tati River Plots, Francistown, Botswana",
     "phone": "+2672402368"
   },
@@ -7897,7 +7897,7 @@
   },
   {
     "id": 1317,
-    "name": "Pabloz Restaurant \u0026 Club",
+    "name": "Pabloz Restaurant & Club",
     "address": "Francistown, Botswana",
     "phone": ""
   },
@@ -8023,7 +8023,7 @@
   },
   {
     "id": 1338,
-    "name": "Green House B\u0026B",
+    "name": "Green House B&B",
     "address": "Phillip Matante Dr, Francistown, Botswana",
     "phone": "+26777184438"
   },
@@ -8072,7 +8072,7 @@
   {
     "id": 1346,
     "name": "Prestige Hotel",
-    "address": "Marang Rd Shop 29 \u0026 30, Sunshine Plaza Mall, Francistown, Botswana",
+    "address": "Marang Rd Shop 29 & 30, Sunshine Plaza Mall, Francistown, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -8174,7 +8174,7 @@
   {
     "id": 1363,
     "name": "Toro Junction Mall Development",
-    "address": "Marang Rd Shop 29 \u0026 30, Sunshine Plaza Mall, Francistown, Botswana",
+    "address": "Marang Rd Shop 29 & 30, Sunshine Plaza Mall, Francistown, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -8270,7 +8270,7 @@
   {
     "id": 1379,
     "name": "PEP Home Francistown. Galo",
-    "address": "Cnr Saint Patrick \u0026 Guy St Shop 58 \u0026 59, Galo Mall, Francistown, Botswana",
+    "address": "Cnr Saint Patrick & Guy St Shop 58 & 59, Galo Mall, Francistown, Botswana",
     "phone": "+2672409027"
   },
   {
@@ -8318,7 +8318,7 @@
   {
     "id": 1387,
     "name": "Barclays Plaza",
-    "address": "A1 Shop 1\u00262, Nzano Centre, Botswana",
+    "address": "A1 Shop 1&2, Nzano Centre, Botswana",
     "phone": "+2672415669"
   },
   {
@@ -8378,7 +8378,7 @@
   {
     "id": 1397,
     "name": "Something Special",
-    "address": "Shop 2 Galo Centre Mall, Cnr Patrick \u0026, Guy St, Francistown, Botswana",
+    "address": "Shop 2 Galo Centre Mall, Cnr Patrick &, Guy St, Francistown, Botswana",
     "phone": "+2672410054"
   },
   {
@@ -8401,7 +8401,7 @@
   },
   {
     "id": 1401,
-    "name": "Moloico Events \u0026 Florist",
+    "name": "Moloico Events & Florist",
     "address": "Shop 16 Francistown Shopping Centre, St Patrick St, Francistown, Botswana",
     "phone": "+2672442149"
   },
@@ -8486,7 +8486,7 @@
   {
     "id": 1415,
     "name": "Old Francistown Stadium",
-    "address": "A1 Shop 1\u00262, Nzano Centre, Botswana",
+    "address": "A1 Shop 1&2, Nzano Centre, Botswana",
     "phone": "+2672415669"
   },
   {
@@ -8743,7 +8743,7 @@
   },
   {
     "id": 1458,
-    "name": "Tlotlo Hotel \u0026 Conference Center",
+    "name": "Tlotlo Hotel & Conference Center",
     "address": "Plot 5014, Molepolole, Botswana",
     "phone": "+26775249585"
   },
@@ -8881,7 +8881,7 @@
   },
   {
     "id": 1481,
-    "name": "Moko Resturant \u0026 Bar",
+    "name": "Moko Resturant & Bar",
     "address": "Unnamed Road, Molepolole, Botswana",
     "phone": ""
   },
@@ -9121,7 +9121,7 @@
   },
   {
     "id": 1521,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Molepolole, Botswana",
     "phone": ""
   },
@@ -9212,7 +9212,7 @@
   {
     "id": 1536,
     "name": "Ackermans Molopolole Mafenyatlala Mall",
-    "address": "Shop 11 \u0026 12 Mafenyatlala Mall Main Road, Molepolole, Botswana",
+    "address": "Shop 11 & 12 Mafenyatlala Mall Main Road, Molepolole, Botswana",
     "phone": "+2675906057"
   },
   {
@@ -9590,7 +9590,7 @@
   {
     "id": 1599,
     "name": "Isabel Guest Suites Palapye",
-    "address": "Plot 12436, Corner Dr Meyer \u0026 Independence Road Selebi-Phikwe, Botswana",
+    "address": "Plot 12436, Corner Dr Meyer & Independence Road Selebi-Phikwe, Botswana",
     "phone": "+2672610444"
   },
   {
@@ -9799,7 +9799,7 @@
   },
   {
     "id": 1634,
-    "name": "Octopus Sport \u0026 Fashion",
+    "name": "Octopus Sport & Fashion",
     "address": "Plot no 6567 Shop no 17 Main Mall, Prain, Selebi Phikwe, Botswana",
     "phone": "+2672614200"
   },
@@ -9908,7 +9908,7 @@
   {
     "id": 1652,
     "name": "Saverite Supermarket Meloney",
-    "address": "Tshekedi Rd Plots 2650 \u0026 2651, Selebi Phikwe, Botswana",
+    "address": "Tshekedi Rd Plots 2650 & 2651, Selebi Phikwe, Botswana",
     "phone": "26502651"
   },
   {
@@ -10028,7 +10028,7 @@
   {
     "id": 1672,
     "name": "Selebi Phikwe",
-    "address": "Plot 12436, Corner Dr Meyer \u0026 Independence Road Selebi-Phikwe, Botswana",
+    "address": "Plot 12436, Corner Dr Meyer & Independence Road Selebi-Phikwe, Botswana",
     "phone": "+2672610444"
   },
   {
@@ -10070,7 +10070,7 @@
   {
     "id": 1679,
     "name": "Syringa Lodge",
-    "address": "Plot 12436, Corner Dr Meyer \u0026 Independence Road Selebi-Phikwe, Botswana",
+    "address": "Plot 12436, Corner Dr Meyer & Independence Road Selebi-Phikwe, Botswana",
     "phone": "+2672610444"
   },
   {
@@ -10124,7 +10124,7 @@
   {
     "id": 1688,
     "name": "The Grand Palm Hotel Casino Convention Resort",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {
@@ -10159,7 +10159,7 @@
   },
   {
     "id": 1694,
-    "name": "Tlotlo Hotel \u0026 Conference Center",
+    "name": "Tlotlo Hotel & Conference Center",
     "address": "Gaborone, Botswana",
     "phone": ""
   },
@@ -10261,7 +10261,7 @@
   },
   {
     "id": 1711,
-    "name": "Avani Gaborone Resort \u0026 Casino",
+    "name": "Avani Gaborone Resort & Casino",
     "address": "Gaborone, Botswana",
     "phone": ""
   },
@@ -10273,7 +10273,7 @@
   },
   {
     "id": 1713,
-    "name": "Madamz Bed \u0026 Breakfast Guest house Gaborone",
+    "name": "Madamz Bed & Breakfast Guest house Gaborone",
     "address": "Kopong, Botswana",
     "phone": "+26773922280"
   },
@@ -10309,7 +10309,7 @@
   },
   {
     "id": 1719,
-    "name": "J.T Bed \u0026 Breakfast",
+    "name": "J.T Bed & Breakfast",
     "address": "15812 Letsopa, Gaborone, Botswana",
     "phone": "+26773774888"
   },
@@ -10339,7 +10339,7 @@
   },
   {
     "id": 1724,
-    "name": "Strand Meadows B\u0026B",
+    "name": "Strand Meadows B&B",
     "address": "Plot 2572, Gaborone, Botswana",
     "phone": ""
   },
@@ -10375,7 +10375,7 @@
   },
   {
     "id": 1730,
-    "name": "GAMOTHO B\u0026B",
+    "name": "GAMOTHO B&B",
     "address": "Block 10 Gaborone, Gaborone, Botswana",
     "phone": "+26772816135"
   },
@@ -10447,7 +10447,7 @@
   },
   {
     "id": 1742,
-    "name": "Mashusha B \u0026 B",
+    "name": "Mashusha B & B",
     "address": "Gaborone, Botswana",
     "phone": "+26771788673"
   },
@@ -10741,7 +10741,7 @@
   },
   {
     "id": 1791,
-    "name": "MALA \u0026 MOGODU WEEKENDS",
+    "name": "MALA & MOGODU WEEKENDS",
     "address": "Centre, CBD, Unit 1 Mase, Gaborone, Botswana",
     "phone": "+26773822292"
   },
@@ -10807,7 +10807,7 @@
   },
   {
     "id": 1802,
-    "name": "Sip \u0026 Grill Restaurant",
+    "name": "Sip & Grill Restaurant",
     "address": "Machipinda, Gaborone, Botswana",
     "phone": ""
   },
@@ -10897,7 +10897,7 @@
   },
   {
     "id": 1817,
-    "name": "Suave Lounge\u0026 Restaurant",
+    "name": "Suave Lounge& Restaurant",
     "address": "Block 5, Gaborone, Botswana",
     "phone": "+26776794320"
   },
@@ -10910,7 +10910,7 @@
   {
     "id": 1819,
     "name": "The Daily Grind Cafe + Kitchen",
-    "address": "The Square, New Lobatse Rd Shop 2 \u0026 3, Gaborone, Botswana",
+    "address": "The Square, New Lobatse Rd Shop 2 & 3, Gaborone, Botswana",
     "phone": "+2673600300"
   },
   {
@@ -10934,7 +10934,7 @@
   {
     "id": 1823,
     "name": "Hot Dish",
-    "address": "The Hub, iTowers Ground \u0026 First Floor, Gaborone, Botswana",
+    "address": "The Hub, iTowers Ground & First Floor, Gaborone, Botswana",
     "phone": ""
   },
   {
@@ -11011,7 +11011,7 @@
   },
   {
     "id": 1836,
-    "name": "Main Deck Restaurant \u0026 Bar",
+    "name": "Main Deck Restaurant & Bar",
     "address": "iTowers, Gaborone, Botswana",
     "phone": "+2673117339"
   },
@@ -11047,7 +11047,7 @@
   },
   {
     "id": 1842,
-    "name": "Mountain Valley Bar \u0026 Restaurant",
+    "name": "Mountain Valley Bar & Restaurant",
     "address": "Hatsaladladi, Gaborone, Botswana",
     "phone": ""
   },
@@ -11318,7 +11318,7 @@
   {
     "id": 1887,
     "name": "Broadhurst Mall",
-    "address": "Shop 1B, Airport Junction Shopping Centre, Cnr A1 \u0026, Airport Rd, Gaborone, Botswana",
+    "address": "Shop 1B, Airport Junction Shopping Centre, Cnr A1 &, Airport Rd, Gaborone, Botswana",
     "phone": "+2673700130"
   },
   {
@@ -11540,7 +11540,7 @@
   {
     "id": 1924,
     "name": "Hyper Home Centre",
-    "address": "Shop 1\u00262 Equity Building Gaborone Mall, Gaborone, Botswana",
+    "address": "Shop 1&2 Equity Building Gaborone Mall, Gaborone, Botswana",
     "phone": "+2673912207"
   },
   {
@@ -11785,7 +11785,7 @@
   },
   {
     "id": 1965,
-    "name": "Crocodile Pools River Safaris \u0026 Chalets",
+    "name": "Crocodile Pools River Safaris & Chalets",
     "address": "Shops 58-59, Airport Junction Shopping Centre, Botswana",
     "phone": "+2673953089"
   },
@@ -11810,7 +11810,7 @@
   {
     "id": 1969,
     "name": "Nxai Pan National Park",
-    "address": "Masa Square New Cbd, Cnr 1st \u0026, Western Commercial Rd, Botswana",
+    "address": "Masa Square New Cbd, Cnr 1st &, Western Commercial Rd, Botswana",
     "phone": "+2673159954"
   },
   {

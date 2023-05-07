@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Golden Tulip Hotel \u0026 Casino",
+    "name": "Golden Tulip Hotel & Casino",
     "address": "Anton Drachtenweg 50-54, Paramaribo, Suriname",
     "phone": "+597456000"
   },
@@ -91,7 +91,7 @@
   },
   {
     "id": 16,
-    "name": "Golden Tulip Hotel \u0026 Casino",
+    "name": "Golden Tulip Hotel & Casino",
     "address": "Brasaring 109, Paramaribo, Suriname",
     "phone": ""
   },
@@ -115,7 +115,7 @@
   },
   {
     "id": 20,
-    "name": "Elegance Hotel \u0026 Casino",
+    "name": "Elegance Hotel & Casino",
     "address": "A. Flemming St 21, Paramaribo, Suriname",
     "phone": "+597457558"
   },
@@ -133,7 +133,7 @@
   },
   {
     "id": 23,
-    "name": "Elegance Hotel \u0026 Casino",
+    "name": "Elegance Hotel & Casino",
     "address": "Prinsesse St 37, Paramaribo, Suriname",
     "phone": "+597424522"
   },
@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "name": "The Golden Truly Hotel \u0026 Casino",
+    "name": "The Golden Truly Hotel & Casino",
     "address": "Waterside St 4, Paramaribo, Suriname",
     "phone": "+597475466"
   },
@@ -247,13 +247,13 @@
   },
   {
     "id": 42,
-    "name": "Atlantis Hotel \u0026 Casino",
+    "name": "Atlantis Hotel & Casino",
     "address": "Waterside St, Paramaribo, Suriname",
     "phone": "+5978532964"
   },
   {
     "id": 43,
-    "name": "Koffiemama Tree B\u0026B",
+    "name": "Koffiemama Tree B&B",
     "address": "Mr. J.C. De Miranda St, Paramaribo, Suriname",
     "phone": ""
   },
@@ -295,7 +295,7 @@
   },
   {
     "id": 50,
-    "name": "Paradiso Inn Apartments \u0026 Rooms",
+    "name": "Paradiso Inn Apartments & Rooms",
     "address": "Jacques Gompert St 143, Paramaribo, Suriname",
     "phone": "+597458275"
   },
@@ -307,7 +307,7 @@
   },
   {
     "id": 52,
-    "name": "Tropicana Casino \u0026 Hotel",
+    "name": "Tropicana Casino & Hotel",
     "address": "Mangolaan 118, Paramaribo, Suriname",
     "phone": "+597546904"
   },
@@ -337,7 +337,7 @@
   },
   {
     "id": 57,
-    "name": "Tropical Hotel /Rivas Rooms \u0026 Apartments",
+    "name": "Tropical Hotel /Rivas Rooms & Apartments",
     "address": "Prins Hendrik St 10, Paramaribo, Suriname",
     "phone": "+5978800129"
   },
@@ -367,7 +367,7 @@
   },
   {
     "id": 62,
-    "name": "Queens Hotel \u0026 Casino",
+    "name": "Queens Hotel & Casino",
     "address": "Gonda St, Paramaribo, Suriname",
     "phone": "+597439933"
   },
@@ -445,7 +445,7 @@
   },
   {
     "id": 75,
-    "name": "Guesthouse Zin \u0026 Grand Cafe",
+    "name": "Guesthouse Zin & Grand Cafe",
     "address": "Weg naar Peperpot 376, Meerzorg, Suriname",
     "phone": "+5978885447"
   },
@@ -499,7 +499,7 @@
   },
   {
     "id": 84,
-    "name": "Edesse Suites \u0026 Apartments",
+    "name": "Edesse Suites & Apartments",
     "address": "Prins Hendrik St 55, Paramaribo, Suriname",
     "phone": "+597477888"
   },
@@ -529,7 +529,7 @@
   },
   {
     "id": 89,
-    "name": "Wilhelmina Apartments \u0026 Business Suites",
+    "name": "Wilhelmina Apartments & Business Suites",
     "address": "Wijngaarde St 8, Paramaribo, Suriname",
     "phone": "+5977522588"
   },
@@ -673,7 +673,7 @@
   },
   {
     "id": 113,
-    "name": "Zus \u0026 Zo",
+    "name": "Zus & Zo",
     "address": "Paramaribo, Suriname",
     "phone": "+597462237"
   },
@@ -691,7 +691,7 @@
   },
   {
     "id": 116,
-    "name": "Passie food \u0026 wine",
+    "name": "Passie food & wine",
     "address": "Costerstraat 59, Paramaribo, Suriname",
     "phone": "+5978114998"
   },
@@ -805,7 +805,7 @@
   },
   {
     "id": 135,
-    "name": "Gladiator Steak \u0026 Pasta Café",
+    "name": "Gladiator Steak & Pasta Café",
     "address": "Jozef Israel Street 43, Paramaribo, Suriname",
     "phone": ""
   },
@@ -883,7 +883,7 @@
   },
   {
     "id": 148,
-    "name": "Carpe Diem Restaurant \u0026 Bar",
+    "name": "Carpe Diem Restaurant & Bar",
     "address": "A.L. Waaldijk St 17, Paramaribo, Suriname",
     "phone": "+5977425476"
   },
@@ -962,7 +962,7 @@
   {
     "id": 161,
     "name": "Eetcafé 45",
-    "address": "hoek drambrandergracht, Drambrandersgracht \u0026, Hof Straat, Paramaribo, Suriname",
+    "address": "hoek drambrandergracht, Drambrandersgracht &, Hof Straat, Paramaribo, Suriname",
     "phone": "+597426966"
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "id": 168,
     "name": "HEMA RESTAURANT",
-    "address": "Zorg \u0026 Hoop, Verlengde Gemenelandsweg 200, Paramaribo, Suriname",
+    "address": "Zorg & Hoop, Verlengde Gemenelandsweg 200, Paramaribo, Suriname",
     "phone": "+597495009"
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 171,
-    "name": "Raja Ji Restaurant \u0026 Bar",
+    "name": "Raja Ji Restaurant & Bar",
     "address": "Hendrik St 30, Paramaribo, Suriname",
     "phone": "+597430767"
   },
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 176,
-    "name": "Hook \u0026 Catch",
+    "name": "Hook & Catch",
     "address": "Spathidealaan, Paramaribo, Suriname",
     "phone": "+5978580063"
   },
@@ -1159,7 +1159,7 @@
   },
   {
     "id": 194,
-    "name": "Tasty Sandwich \u0026 Coffee Bar",
+    "name": "Tasty Sandwich & Coffee Bar",
     "address": "Zwartenhovenbrug Straat 23, Paramaribo, Suriname",
     "phone": "+597410338"
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "id": 198,
-    "name": "H \u0026 T",
+    "name": "H & T",
     "address": "Grote Combeweg 13a, Paramaribo, Suriname",
     "phone": "+597520904"
   },
@@ -1273,7 +1273,7 @@
   },
   {
     "id": 213,
-    "name": "Rams Shopping Center \u0026 Pooja Store",
+    "name": "Rams Shopping Center & Pooja Store",
     "address": "Lelydorp, Suriname",
     "phone": "+597368669"
   },
@@ -1507,7 +1507,7 @@
   },
   {
     "id": 252,
-    "name": "Het Pannekoek \u0026 Poffertjes Cafe",
+    "name": "Het Pannekoek & Poffertjes Cafe",
     "address": "W.L. Lothlaan, Paramaribo, Suriname",
     "phone": "+5978581695"
   },
@@ -1568,7 +1568,7 @@
   {
     "id": 262,
     "name": "Cafetaria De Smaak",
-    "address": "Jozef Israelstraat \u0026, Anamoe St, Paramaribo, Suriname",
+    "address": "Jozef Israelstraat &, Anamoe St, Paramaribo, Suriname",
     "phone": "+5977559307"
   },
   {
@@ -1783,7 +1783,7 @@
   },
   {
     "id": 298,
-    "name": "Golden Tulip Hotel \u0026 Casino",
+    "name": "Golden Tulip Hotel & Casino",
     "address": "Prinsesse St 37, Paramaribo, Suriname",
     "phone": "+597424522"
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "id": 304,
-    "name": "Elegance Hotel \u0026 Casino",
+    "name": "Elegance Hotel & Casino",
     "address": "Waterside St, Paramaribo, Suriname",
     "phone": "+5978532964"
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 307,
-    "name": "Koffiemama Tree B\u0026B",
+    "name": "Koffiemama Tree B&B",
     "address": "Zwartenhovenbrug Straat, Paramaribo, Suriname",
     "phone": ""
   },
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 313,
-    "name": "The Golden Truly Hotel \u0026 Casino",
+    "name": "The Golden Truly Hotel & Casino",
     "address": "Suriname, Paramaribo, Anton Dragtenweg 7",
     "phone": "+597473802"
   },
@@ -1885,13 +1885,13 @@
   },
   {
     "id": 315,
-    "name": "Paradiso Inn Apartments \u0026 Rooms",
+    "name": "Paradiso Inn Apartments & Rooms",
     "address": "Industrieweg Zuid, Paramaribo, Suriname",
     "phone": "+597486889"
   },
   {
     "id": 316,
-    "name": "Atlantis Hotel \u0026 Casino",
+    "name": "Atlantis Hotel & Casino",
     "address": "Costerstraat 59, Paramaribo, Suriname",
     "phone": "+597470488"
   },
@@ -1927,7 +1927,7 @@
   },
   {
     "id": 322,
-    "name": "Tropical Hotel /Rivas Rooms \u0026 Apartments",
+    "name": "Tropical Hotel /Rivas Rooms & Apartments",
     "address": "Anton Drachtenweg, Paramaribo, Suriname",
     "phone": "+597453166"
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 325,
-    "name": "Tropicana Casino \u0026 Hotel",
+    "name": "Tropicana Casino & Hotel",
     "address": "Commissaris Robblesweg 217, Paramaribo, Suriname",
     "phone": "+5978921793"
   },
@@ -1993,7 +1993,7 @@
   },
   {
     "id": 333,
-    "name": "Edesse Suites \u0026 Apartments",
+    "name": "Edesse Suites & Apartments",
     "address": "A. Flemming St, Paramaribo, Suriname",
     "phone": "+597457558"
   },
@@ -2095,7 +2095,7 @@
   },
   {
     "id": 350,
-    "name": "Bed \u0026 Breakfast Flores",
+    "name": "Bed & Breakfast Flores",
     "address": "Martha St 21, Paramaribo, Suriname",
     "phone": "+31612421368"
   },
@@ -2107,7 +2107,7 @@
   },
   {
     "id": 352,
-    "name": "Guesthouse Zin \u0026 Grand Cafe",
+    "name": "Guesthouse Zin & Grand Cafe",
     "address": "Costerstraat 35, Paramaribo, Suriname",
     "phone": "+5978897691"
   },
@@ -2119,7 +2119,7 @@
   },
   {
     "id": 354,
-    "name": "Zus \u0026 Zo",
+    "name": "Zus & Zo",
     "address": "Weg naar Peperpot 376, Meerzorg, Suriname",
     "phone": "+5978885447"
   },
@@ -2191,7 +2191,7 @@
   },
   {
     "id": 366,
-    "name": "Queens Hotel \u0026 Casino",
+    "name": "Queens Hotel & Casino",
     "address": "Dr Axwijk St 76, Paramaribo, Suriname",
     "phone": "+597450230"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "id": 382,
-    "name": "Soey Pizza \u0026 Sweets",
+    "name": "Soey Pizza & Sweets",
     "address": "Jfk Hwy 485, Lelydorp, Suriname",
     "phone": ""
   },
@@ -2353,7 +2353,7 @@
   },
   {
     "id": 393,
-    "name": "Warung Hermine \u0026 Sri",
+    "name": "Warung Hermine & Sri",
     "address": "Lelydorp, Suriname",
     "phone": "+597367254"
   },
@@ -2467,7 +2467,7 @@
   },
   {
     "id": 412,
-    "name": "Hot \u0026 Spicy Worstwaren",
+    "name": "Hot & Spicy Worstwaren",
     "address": "Jfk Hwy, Lelydorp, Suriname",
     "phone": "+597366625"
   },
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 456,
-    "name": "Classic International Hotel \u0026 Suites",
+    "name": "Classic International Hotel & Suites",
     "address": "Mahonylaan 25, Paramaribo, Suriname",
     "phone": "+597520663"
   },
@@ -2875,7 +2875,7 @@
   },
   {
     "id": 480,
-    "name": "Minnie’s Pizza \u0026 More",
+    "name": "Minnie’s Pizza & More",
     "address": "Van Pettenpolder, Suriname",
     "phone": "+5978821138"
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "id": 492,
-    "name": "RIVERSIDE PASTAS \u0026 MORE",
+    "name": "RIVERSIDE PASTAS & MORE",
     "address": "A. K. Doergasawstraat, Nieuw Nickerie, Suriname",
     "phone": "+597232788"
   },
@@ -3001,7 +3001,7 @@
   },
   {
     "id": 501,
-    "name": "Dewan Music Center \u0026 Roti Shop",
+    "name": "Dewan Music Center & Roti Shop",
     "address": "Julianastraat, Nieuw Nickerie, Suriname",
     "phone": "+597231934"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "Dewan Music Center \u0026 Roti Shop",
+    "name": "Dewan Music Center & Roti Shop",
     "address": "Cassaveweg Van, Pettenpolder, Suriname",
     "phone": "+5978684133"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "id": 540,
-    "name": "Zus \u0026 Zo",
+    "name": "Zus & Zo",
     "address": "Mahonylaan 12-14, Paramaribo, Suriname",
     "phone": "+597479834"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 547,
-    "name": "Passie food \u0026 wine",
+    "name": "Passie food & wine",
     "address": "Kwattaweg 393, Paramaribo, Suriname",
     "phone": "+597432441"
   },
@@ -3343,7 +3343,7 @@
   },
   {
     "id": 558,
-    "name": "Bergendal Eco \u0026 Cultural River Resort",
+    "name": "Bergendal Eco & Cultural River Resort",
     "address": "Martin Luther Kingweg, Berg en Dal, Suriname",
     "phone": "+597475050"
   },

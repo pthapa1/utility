@@ -97,7 +97,7 @@
   },
   {
     "id": 17,
-    "name": "Imperial Hotel \u0026 Restaurant",
+    "name": "Imperial Hotel & Restaurant",
     "address": "Kareivių g. 9, 09108 Vilnius, Lithuania",
     "phone": "+37060097472"
   },
@@ -199,7 +199,7 @@
   },
   {
     "id": 34,
-    "name": "Calvary Hotel \u0026 Restaurant Vilnius",
+    "name": "Calvary Hotel & Restaurant Vilnius",
     "address": "Žirnių g. 58, 02182 Vilnius, Lithuania",
     "phone": "+37061880020"
   },
@@ -229,7 +229,7 @@
   },
   {
     "id": 39,
-    "name": "Park Inn by Radisson Vilnius Airport Hotel \u0026 Business Centre",
+    "name": "Park Inn by Radisson Vilnius Airport Hotel & Business Centre",
     "address": "Paupio g. 31A, 11341 Vilnius, Lithuania",
     "phone": "+37068684523"
   },
@@ -367,7 +367,7 @@
   },
   {
     "id": 62,
-    "name": "Bernardinu B \u0026 B House",
+    "name": "Bernardinu B & B House",
     "address": "Vytenio g. 9, 03113 Vilnius, Lithuania",
     "phone": "+37052683300"
   },
@@ -415,7 +415,7 @@
   },
   {
     "id": 70,
-    "name": "Vilnius Apartments \u0026 Suites",
+    "name": "Vilnius Apartments & Suites",
     "address": "Pylimo g. 53, 01137 Vilnius, Lithuania",
     "phone": "+37052191780"
   },
@@ -457,7 +457,7 @@
   },
   {
     "id": 77,
-    "name": "Bookinn B\u0026B",
+    "name": "Bookinn B&B",
     "address": "Kauno g. 14, 03212 Vilnius, Lithuania",
     "phone": "+37052505111"
   },
@@ -469,7 +469,7 @@
   },
   {
     "id": 79,
-    "name": "Downtown Forest Hostel \u0026 Camping",
+    "name": "Downtown Forest Hostel & Camping",
     "address": "Dariaus ir Girėno g. 21, 02189 Vilnius, Lithuania",
     "phone": "+37066177721"
   },
@@ -505,7 +505,7 @@
   },
   {
     "id": 85,
-    "name": "In astra, B\u0026B sveciu namai",
+    "name": "In astra, B&B sveciu namai",
     "address": "Šv. Ignoto g. 12, 01144 Vilnius, Lithuania",
     "phone": "+37065593285"
   },
@@ -523,7 +523,7 @@
   },
   {
     "id": 88,
-    "name": "Irena Family House And B\u0026B",
+    "name": "Irena Family House And B&B",
     "address": "Raugyklos g. 15A, 01140 Vilnius, Lithuania",
     "phone": "+37052161696"
   },
@@ -535,7 +535,7 @@
   },
   {
     "id": 90,
-    "name": "House of Sun B\u0026B",
+    "name": "House of Sun B&B",
     "address": "Ligoninės g. 5, 01134 Vilnius, Lithuania",
     "phone": ""
   },
@@ -775,7 +775,7 @@
   },
   {
     "id": 130,
-    "name": "PACAI Restaurant \u0026 Bar",
+    "name": "PACAI Restaurant & Bar",
     "address": "Vilniaus g. 28, 01144 Vilnius, Lithuania",
     "phone": "+37063111153"
   },
@@ -997,13 +997,13 @@
   },
   {
     "id": 167,
-    "name": "Jane \u0026 Jon",
+    "name": "Jane & Jon",
     "address": "G9, Food Hall, Gedimino pr. 9, 01103 Vilnius, Lithuania",
     "phone": "+37060549864"
   },
   {
     "id": 168,
-    "name": "Blue Lotus Indian \u0026 Thai",
+    "name": "Blue Lotus Indian & Thai",
     "address": "Savičiaus g. 6, 01127 Vilnius, Lithuania",
     "phone": "+37061117826"
   },
@@ -1099,7 +1099,7 @@
   },
   {
     "id": 184,
-    "name": "Gypsy Lounge \u0026 Grill",
+    "name": "Gypsy Lounge & Grill",
     "address": "Užupio g. 19, 01202 Vilnius, Lithuania",
     "phone": "+37060753944"
   },
@@ -2131,7 +2131,7 @@
   },
   {
     "id": 356,
-    "name": "Home B\u0026B",
+    "name": "Home B&B",
     "address": "Papilio g. 9, 44275 Kaunas, Lithuania",
     "phone": "+37068247794"
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "id": 363,
-    "name": "A\u0026L private rooms in Kaunas",
+    "name": "A&L private rooms in Kaunas",
     "address": "Pagirių kaimas, Žolyno g. 2, 53284 Stanaičiai, Lithuania",
     "phone": "+37068560534"
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 378,
-    "name": "Jūratės B\u0026B Namai",
+    "name": "Jūratės B&B Namai",
     "address": "Trakų g. 25, 44326 Kaunas, Lithuania",
     "phone": "+37065762277"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "id": 390,
-    "name": "Art \u0026 Comfort Rooms",
+    "name": "Art & Comfort Rooms",
     "address": "Laisvės al. 10, 44215 Kaunas, Lithuania",
     "phone": ""
   },
@@ -2479,7 +2479,7 @@
   },
   {
     "id": 414,
-    "name": "Meet\u0026Taste Restaurant",
+    "name": "Meet&Taste Restaurant",
     "address": "Nemuno g. 43, 44288 Kaunas, Lithuania",
     "phone": "+37061154439"
   },
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 477,
-    "name": "The Oopen Pasta \u0026 Grill",
+    "name": "The Oopen Pasta & Grill",
     "address": "Laisvės al. 49a, 44309 Kaunas, Lithuania",
     "phone": "+37068287999"
   },
@@ -2905,13 +2905,13 @@
   },
   {
     "id": 485,
-    "name": "Bocmanas Kebab \u0026 Grill",
+    "name": "Bocmanas Kebab & Grill",
     "address": "Rotušės a. 2, 44280 Kaunas, Lithuania",
     "phone": "+37063004666"
   },
   {
     "id": 486,
-    "name": "Rocknrolla bar\u0026kitchen",
+    "name": "Rocknrolla bar&kitchen",
     "address": "Laisvės al. 93, 44297 Kaunas, Lithuania",
     "phone": "+37037424424"
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "id": 525,
-    "name": "Bags \u0026 More",
+    "name": "Bags & More",
     "address": "Baltijos g. 20A, 48254 Kaunas, Lithuania",
     "phone": "+37068642507"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "id": 584,
-    "name": "Ararat All Suites Hotel \u0026 Restaurant",
+    "name": "Ararat All Suites Hotel & Restaurant",
     "address": "Klaipėdos g. 9, 96341 Priekulė, Lithuania",
     "phone": "+37068576885"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "id": 629,
-    "name": "Kerpė Hotel \u0026 SPA",
+    "name": "Kerpė Hotel & SPA",
     "address": "Smiltynės g. 19, 93100 Klaipėda, Lithuania",
     "phone": "+37061275134"
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "id": 746,
-    "name": "Rūksta dūmai Kebab \u0026 Pizza",
+    "name": "Rūksta dūmai Kebab & Pizza",
     "address": "Šilutės pl. 33, 91107 Klaipėda, Lithuania",
     "phone": "+37060006168"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "id": 751,
-    "name": "Fish \u0026 Chips",
+    "name": "Fish & Chips",
     "address": "Žardininkų g., 94231 Klaipėda, Lithuania",
     "phone": "+37068457068"
   },
@@ -4891,7 +4891,7 @@
   },
   {
     "id": 816,
-    "name": "Minimalist.Apartment\u0026Studio",
+    "name": "Minimalist.Apartment&Studio",
     "address": "Stoties g. 14, 77157 Šiauliai, Lithuania",
     "phone": "+37069827162"
   },
@@ -5774,7 +5774,7 @@
   {
     "id": 963,
     "name": "PERVAŽA, viešbutis, UAB INTERSELAS",
-    "address": "1st \u0026 3rd floors, Klaipėdos g. 67, 37106 Panevėžys, Lithuania",
+    "address": "1st & 3rd floors, Klaipėdos g. 67, 37106 Panevėžys, Lithuania",
     "phone": "136737106"
   },
   {
@@ -5821,7 +5821,7 @@
   },
   {
     "id": 971,
-    "name": "B\u0026B Panevezys",
+    "name": "B&B Panevezys",
     "address": "Stanionių kaimas, 38436 Stanioniai, Lithuania",
     "phone": "+37045554332"
   },
@@ -5983,7 +5983,7 @@
   },
   {
     "id": 998,
-    "name": "pio pio pizza\u0026grill",
+    "name": "pio pio pizza&grill",
     "address": "Savanorių a. 6, 35201 Panevėžys, Lithuania",
     "phone": "+37063688986"
   },
@@ -6241,7 +6241,7 @@
   },
   {
     "id": 1041,
-    "name": "Tėtušio Kebabai \u0026 Pica",
+    "name": "Tėtušio Kebabai & Pica",
     "address": "Dariaus ir Girėno g. 4, 37379 Panevėžys, Lithuania",
     "phone": "+37069958865"
   },
@@ -6277,7 +6277,7 @@
   },
   {
     "id": 1047,
-    "name": "BIG burger\u0026kebab",
+    "name": "BIG burger&kebab",
     "address": "Klaipėdos g. 26, 35199 Panevėžys, Lithuania",
     "phone": "+37066700600"
   },
@@ -6313,7 +6313,7 @@
   },
   {
     "id": 1053,
-    "name": "Top Pizza Burgers \u0026 Kebabs",
+    "name": "Top Pizza Burgers & Kebabs",
     "address": "Ragaudžių g. 2, 37102 Panevėžys, Lithuania",
     "phone": "+37063969990"
   },
@@ -6379,7 +6379,7 @@
   },
   {
     "id": 1064,
-    "name": "\"Garsiakalbis\" bar\u0026kitchen",
+    "name": "\"Garsiakalbis\" bar&kitchen",
     "address": "Laisvės a. 5, 35183 Panevėžys, Lithuania",
     "phone": "+37061403036"
   },
@@ -6415,7 +6415,7 @@
   },
   {
     "id": 1070,
-    "name": "Pizza\u0026Kebab-Factory",
+    "name": "Pizza&Kebab-Factory",
     "address": "Vasario 16-Osios g. 11, 35184 Panevėžys, Lithuania",
     "phone": "161135184"
   },

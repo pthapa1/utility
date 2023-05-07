@@ -205,13 +205,13 @@
   },
   {
     "id": 35,
-    "name": "1926 Hotel \u0026 Spa",
+    "name": "1926 Hotel & Spa",
     "address": "Misrah Il Kunsill Mdina, MDN 1050, Malta",
     "phone": "+35621450560"
   },
   {
     "id": 36,
-    "name": "Malta Marriott Hotel \u0026 Spa",
+    "name": "Malta Marriott Hotel & Spa",
     "address": "Triq Wied Ghollieqa, San Ġwann, Malta",
     "phone": "+35621385926"
   },
@@ -343,13 +343,13 @@
   },
   {
     "id": 58,
-    "name": "Maritim Antonine Hotel \u0026 Spa",
+    "name": "Maritim Antonine Hotel & Spa",
     "address": "124 Tower Road, Sliema SLM 1605, Malta",
     "phone": "+35621334001"
   },
   {
     "id": 59,
-    "name": "Labranda Riviera Hotel \u0026 Spa",
+    "name": "Labranda Riviera Hotel & Spa",
     "address": "Sliema, Malta",
     "phone": "+35677444174"
   },
@@ -379,13 +379,13 @@
   },
   {
     "id": 64,
-    "name": "Radisson Blu Resort \u0026 Spa, Malta Golden Sands",
+    "name": "Radisson Blu Resort & Spa, Malta Golden Sands",
     "address": "143, The Strand Il-Gżira Gżira, GZR 1026, Malta",
     "phone": "+35622640000"
   },
   {
     "id": 65,
-    "name": "Grands Suites Hotel Residences \u0026 Spa",
+    "name": "Grands Suites Hotel Residences & Spa",
     "address": "154 Old Mint Street, Valletta, Malta",
     "phone": ""
   },
@@ -415,7 +415,7 @@
   },
   {
     "id": 70,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "Triq Ix - Xatt, Tas-Sliema SLM 1028, Malta",
     "phone": "+35620906899"
   },
@@ -439,13 +439,13 @@
   },
   {
     "id": 74,
-    "name": "The Xara Palace Relais \u0026 Chateaux",
+    "name": "The Xara Palace Relais & Chateaux",
     "address": "190 Melita St, Valletta, Malta",
     "phone": "+35699478778"
   },
   {
     "id": 75,
-    "name": "Urban Valley Resort \u0026 Spa",
+    "name": "Urban Valley Resort & Spa",
     "address": "39 Main Street Balluta Bay St. Julian's, STJ 1017, Malta",
     "phone": "+35623110000"
   },
@@ -499,13 +499,13 @@
   },
   {
     "id": 84,
-    "name": "AX Sunny Coast Resort \u0026 Spa",
+    "name": "AX Sunny Coast Resort & Spa",
     "address": "101 St Paul St, Valletta, Malta",
     "phone": "+35621242442"
   },
   {
     "id": 85,
-    "name": "The Village Boutique \u0026 Spa",
+    "name": "The Village Boutique & Spa",
     "address": "43 St Dominic Street, Valletta VLT 1617, Malta",
     "phone": "+35699235285"
   },
@@ -583,7 +583,7 @@
   },
   {
     "id": 98,
-    "name": "Gracy's Arts \u0026 Supper Club",
+    "name": "Gracy's Arts & Supper Club",
     "address": "64 Republic St, Valletta VLT111, Malta",
     "phone": "+35627130377"
   },
@@ -805,7 +805,7 @@
   },
   {
     "id": 135,
-    "name": "The Undercroft Gourmet - Italian Restaurant \u0026 Pizzeria",
+    "name": "The Undercroft Gourmet - Italian Restaurant & Pizzeria",
     "address": "VLT 1112, Auberge de Provence, Republic St, Valletta, Malta",
     "phone": "+35699576749"
   },
@@ -853,7 +853,7 @@
   },
   {
     "id": 143,
-    "name": "Gracy's Arts \u0026 Supper Club",
+    "name": "Gracy's Arts & Supper Club",
     "address": "77 Merchants St, Valletta, Malta",
     "phone": "+35679446178"
   },
@@ -883,14 +883,14 @@
   },
   {
     "id": 148,
-    "name": "Yard 32 Gin \u0026 Tapas Bar",
+    "name": "Yard 32 Gin & Tapas Bar",
     "address": "64 Melita St, Valletta VLT 1122, Malta",
     "phone": "+35622476601"
   },
   {
     "id": 149,
     "name": "Da’ Pippo Trattoria",
-    "address": "No 132, Arch Bishop Street C/W 1 \u0026 2 Fredrick Street, Il-Belt Valletta, Malta",
+    "address": "No 132, Arch Bishop Street C/W 1 & 2 Fredrick Street, Il-Belt Valletta, Malta",
     "phone": "+35627221475"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "id": 154,
-    "name": "Manon Gastro Bar \u0026 Bistro",
+    "name": "Manon Gastro Bar & Bistro",
     "address": "South St, Valletta, Malta",
     "phone": "+35621237222"
   },
@@ -949,7 +949,7 @@
   },
   {
     "id": 159,
-    "name": "Wagyu Bar \u0026 Kitchen",
+    "name": "Wagyu Bar & Kitchen",
     "address": "28 A South Street Valletta, Malta Valletta, VLT 1212, Malta",
     "phone": "+35621233983"
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "id": 168,
-    "name": "THE EVEREST /NEPALESE \u0026 INDIAN RESTAURANT",
+    "name": "THE EVEREST /NEPALESE & INDIAN RESTAURANT",
     "address": "37,, South St, Il-Belt Valletta VLT 1100, Malta",
     "phone": "+35621227801"
   },
@@ -1064,7 +1064,7 @@
   {
     "id": 178,
     "name": "Rosso",
-    "address": "Corner of Triq L-Arcisqof \u0026, Old Bakery Street, Valletta, Malta",
+    "address": "Corner of Triq L-Arcisqof &, Old Bakery Street, Valletta, Malta",
     "phone": "+35677265429"
   },
   {
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 183,
-    "name": "Gambit - Bar \u0026 Bistro",
+    "name": "Gambit - Bar & Bistro",
     "address": "116, 119 St. Lucia's Street, Valletta, Malta",
     "phone": "+35621221699"
   },
@@ -1111,7 +1111,7 @@
   },
   {
     "id": 186,
-    "name": "The Rooftop Restaurant \u0026 Lounge Valletta",
+    "name": "The Rooftop Restaurant & Lounge Valletta",
     "address": "114 Triq San Gwann, Il-Belt Valletta, Malta",
     "phone": "+35620165203"
   },
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 189,
-    "name": "Kingsway Bar \u0026 restaurant",
+    "name": "Kingsway Bar & restaurant",
     "address": "Valletta Building, South Street, Il-Belt, Il-Belt Valletta 1103, Malta",
     "phone": "+35621240460"
   },
@@ -1147,7 +1147,7 @@
   },
   {
     "id": 192,
-    "name": "Ranieri Restaurant \u0026 Cafe",
+    "name": "Ranieri Restaurant & Cafe",
     "address": "Triq Il-Lanċa, Il-Belt Valletta, Malta",
     "phone": "+35621555222"
   },
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 195,
-    "name": "Gugar Hangout \u0026 BAR",
+    "name": "Gugar Hangout & BAR",
     "address": "23 Windmill, Il-Belt Valletta, Malta",
     "phone": "+35621237121"
   },
@@ -1459,7 +1459,7 @@
   },
   {
     "id": 244,
-    "name": "Basilica of Saint Dominic \u0026 Porto Salvo",
+    "name": "Basilica of Saint Dominic & Porto Salvo",
     "address": "Vault 1, Upper Floor, Pinto Wharf Valletta, FRN 1913, Malta",
     "phone": "+35625673000"
   },
@@ -1855,7 +1855,7 @@
   },
   {
     "id": 310,
-    "name": "Splash \u0026 Fun Water Park",
+    "name": "Splash & Fun Water Park",
     "address": "Fort St Elmo Il-Belt Valletta, Valletta VLT 1741, Malta",
     "phone": "+35621233088"
   },
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 313,
-    "name": "The Village Boutique \u0026 Spa",
+    "name": "The Village Boutique & Spa",
     "address": "Palazzino Nina, 106 St Catherine Street, Qormi QRM 2204, Malta",
     "phone": "+35679336381"
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 315,
-    "name": "Urban Valley Resort \u0026 Spa",
+    "name": "Urban Valley Resort & Spa",
     "address": "39 Main Street Balluta Bay St. Julian's, STJ 1017, Malta",
     "phone": "+35623110000"
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 325,
-    "name": "Grands Suites Hotel Residences \u0026 Spa",
+    "name": "Grands Suites Hotel Residences & Spa",
     "address": "Qaliet, San Ġiljan, Malta",
     "phone": "+35620141500"
   },
@@ -1957,7 +1957,7 @@
   },
   {
     "id": 327,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "Il, 43 Triq Belvedere, Gżira GZR 1024, Malta",
     "phone": "+35620165400"
   },
@@ -1975,7 +1975,7 @@
   },
   {
     "id": 330,
-    "name": "HOLM Boutique \u0026 Spa",
+    "name": "HOLM Boutique & Spa",
     "address": "73 Triq Sir Frederick C. Ponsonby Il-Gżira, GZR 1070, Malta",
     "phone": "+35699698840"
   },
@@ -2017,13 +2017,13 @@
   },
   {
     "id": 337,
-    "name": "1926 Hotel \u0026 Spa",
+    "name": "1926 Hotel & Spa",
     "address": "22 Triq Il - Vitorja, L-Isla, Malta",
     "phone": "+35627029324"
   },
   {
     "id": 338,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "Dobbie, San Ġiljan, Malta",
     "phone": "+35621382232"
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "id": 340,
-    "name": "NSTS Campus Residence \u0026 Hostel",
+    "name": "NSTS Campus Residence & Hostel",
     "address": "81 Old Theatre Street, Il-Belt Valletta 1429, Malta",
     "phone": "+35621224821"
   },
@@ -2095,7 +2095,7 @@
   },
   {
     "id": 350,
-    "name": "HOLM Boutique \u0026 Spa",
+    "name": "HOLM Boutique & Spa",
     "address": "50 South St, Valletta, Malta",
     "phone": "+35621243656"
   },
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 355,
-    "name": "HOLM Boutique \u0026 Spa",
+    "name": "HOLM Boutique & Spa",
     "address": "Triq Sir William Reid 6, shore bridge flat 9 Gzira, GZR 1036, Malta",
     "phone": "+35699118850"
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 378,
-    "name": "Labranda Riviera Hotel \u0026 Spa",
+    "name": "Labranda Riviera Hotel & Spa",
     "address": "117 Tower Road Sliema, SLM 1605, Malta",
     "phone": "+35621335575"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "id": 382,
-    "name": "The Xara Palace Relais \u0026 Chateaux",
+    "name": "The Xara Palace Relais & Chateaux",
     "address": "Sqaq Fabri Lane St Julians STJ, 1330, Malta",
     "phone": "+35622484820"
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "id": 384,
-    "name": "Radisson Blu Resort \u0026 Spa, Malta Golden Sands",
+    "name": "Radisson Blu Resort & Spa, Malta Golden Sands",
     "address": "50 Triq Belvedere, Il-Gżira, Malta",
     "phone": "+35620341111"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "id": 403,
-    "name": "The Red Farm Relais \u0026 Spa",
+    "name": "The Red Farm Relais & Spa",
     "address": "St. George's Road Paceville St Julian's, STJ 3200, Malta",
     "phone": "+35620162420"
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "id": 411,
-    "name": "Sensations Wine Bar Pizzeria \u0026 Grill",
+    "name": "Sensations Wine Bar Pizzeria & Grill",
     "address": "139 Naxxar Road, Birkirkara, Malta",
     "phone": "+35679935197"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 419,
-    "name": "Birkirkara Day Fresh \u0026 Grill Meats",
+    "name": "Birkirkara Day Fresh & Grill Meats",
     "address": "Triq Territorials, Birkirkara, Malta",
     "phone": "+35627511333"
   },
@@ -2527,7 +2527,7 @@
   },
   {
     "id": 422,
-    "name": "Karrot \u0026 Ko",
+    "name": "Karrot & Ko",
     "address": "2, Triq Mannarino, Birkirkara, Malta",
     "phone": ""
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "id": 427,
-    "name": "Sunny Bar \u0026 Take Away",
+    "name": "Sunny Bar & Take Away",
     "address": "Triq San Giljan Birkirkara, BKR 2808, Malta",
     "phone": "+35621440441"
   },
@@ -2569,7 +2569,7 @@
   },
   {
     "id": 429,
-    "name": "Tramici Cafe' \u0026 Bistro",
+    "name": "Tramici Cafe' & Bistro",
     "address": "177 Triq Ix - Xatt Gzira, Il-Gżira GZR, 1024, Malta",
     "phone": "+35627557733"
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "id": 435,
-    "name": "Il Pirata - Burger \u0026 Pasta",
+    "name": "Il Pirata - Burger & Pasta",
     "address": "Victoria House 1A Triq Il-Labour In-Naxxar, NXR 9021, Malta",
     "phone": "+35699368291"
   },
@@ -2629,7 +2629,7 @@
   },
   {
     "id": 439,
-    "name": "Xakas Pastizzeria \u0026 Pizzeria",
+    "name": "Xakas Pastizzeria & Pizzeria",
     "address": "73 Triq Birkirkara, San Ġiljan, Malta",
     "phone": "+35621332525"
   },
@@ -2893,7 +2893,7 @@
   },
   {
     "id": 483,
-    "name": "Rickshaw at Corinthia Palace Hotel \u0026 Spa",
+    "name": "Rickshaw at Corinthia Palace Hotel & Spa",
     "address": "Naxxar Road, Birkirkara, Malta",
     "phone": "+35627020899"
   },
@@ -2977,7 +2977,7 @@
   },
   {
     "id": 497,
-    "name": "Eri’s Gourmet Restaurant \u0026 Cafe",
+    "name": "Eri’s Gourmet Restaurant & Cafe",
     "address": "Msida Street, Birkirkara, Malta",
     "phone": "+35627650001"
   },
@@ -3133,7 +3133,7 @@
   },
   {
     "id": 523,
-    "name": "Bortex \u0026 Friends",
+    "name": "Bortex & Friends",
     "address": "Piazza Level, Tigne Shop 13, Sliema SLM 3010, Malta",
     "phone": "+35620601193"
   },
@@ -3457,7 +3457,7 @@
   },
   {
     "id": 577,
-    "name": "Splash \u0026 Fun Water Park",
+    "name": "Splash & Fun Water Park",
     "address": "Wesgha tal-Musew Rabat, RBT 1202, Malta",
     "phone": "+35621454125"
   },
@@ -3769,13 +3769,13 @@
   },
   {
     "id": 629,
-    "name": "Marks \u0026 Dukes Window",
+    "name": "Marks & Dukes Window",
     "address": "Triq Il-Marfa Il-Mellieħa, MLH 9064, Malta",
     "phone": "+35679554347"
   },
   {
     "id": 630,
-    "name": "Malta Postal Museum \u0026 Arts Hub",
+    "name": "Malta Postal Museum & Arts Hub",
     "address": "24 G.Portelli, Ħ'Attard, Malta",
     "phone": ""
   },
@@ -3865,13 +3865,13 @@
   },
   {
     "id": 645,
-    "name": "The Village Boutique \u0026 Spa",
+    "name": "The Village Boutique & Spa",
     "address": "Great Siege Road, Floriana FRN1810, Malta",
     "phone": "+35621250520"
   },
   {
     "id": 646,
-    "name": "Malta Marriott Hotel \u0026 Spa",
+    "name": "Malta Marriott Hotel & Spa",
     "address": "Vjal Portomaso St Julian's PTM, 01, Malta",
     "phone": "+35621383383"
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "id": 651,
-    "name": "Urban Valley Resort \u0026 Spa",
+    "name": "Urban Valley Resort & Spa",
     "address": "300 Republic St, Valletta VLT 1211, Malta",
     "phone": "+35623503000"
   },
@@ -3943,19 +3943,19 @@
   },
   {
     "id": 658,
-    "name": "Radisson Blu Resort \u0026 Spa, Malta Golden Sands",
+    "name": "Radisson Blu Resort & Spa, Malta Golden Sands",
     "address": "81 Old Theatre Street, Il-Belt Valletta 1429, Malta",
     "phone": "+35621224821"
   },
   {
     "id": 659,
-    "name": "Grands Suites Hotel Residences \u0026 Spa",
+    "name": "Grands Suites Hotel Residences & Spa",
     "address": "19 Triq Wied is-Sir, Il-Mosta, Malta",
     "phone": ""
   },
   {
     "id": 660,
-    "name": "1926 Hotel \u0026 Spa",
+    "name": "1926 Hotel & Spa",
     "address": "Islet Promenade San Pawl il-Baħar, SPB 2441, Malta",
     "phone": "+35621573105"
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "id": 662,
-    "name": "Grands Suites Hotel Residences \u0026 Spa",
+    "name": "Grands Suites Hotel Residences & Spa",
     "address": "27, Doris Suites Triq Don Mikiel Rua Sliema, SLM 2321, Malta",
     "phone": "+35621233804"
   },
@@ -4021,7 +4021,7 @@
   },
   {
     "id": 671,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "57 St. Christopher's Street, Il-Belt Valletta VLT 1462, Malta",
     "phone": "+35620330033"
   },
@@ -4291,7 +4291,7 @@
   },
   {
     "id": 716,
-    "name": "Adelphi Boutique Hotel \u0026 Restaurant",
+    "name": "Adelphi Boutique Hotel & Restaurant",
     "address": "Wesghat Dun Joe Camilleri, Ħal Luqa LQA1071, Malta",
     "phone": "+35699449984"
   },
@@ -4309,7 +4309,7 @@
   },
   {
     "id": 719,
-    "name": "Maritim Antonine Hotel \u0026 Spa",
+    "name": "Maritim Antonine Hotel & Spa",
     "address": "Sant Andrija Marsaxlokk, MXK 1412, Malta",
     "phone": "+35699576257"
   },
@@ -4321,7 +4321,7 @@
   },
   {
     "id": 721,
-    "name": "HOLM Boutique \u0026 Spa",
+    "name": "HOLM Boutique & Spa",
     "address": "Triq Ir-Ramla, Il-Mellieħa MLH 7100, Malta",
     "phone": "+35622812281"
   },
@@ -4399,13 +4399,13 @@
   },
   {
     "id": 734,
-    "name": "AX Sunny Coast Resort \u0026 Spa",
+    "name": "AX Sunny Coast Resort & Spa",
     "address": "55 Old Theatre Street Valletta, VLT 1427, Malta",
     "phone": "+35677481059"
   },
   {
     "id": 735,
-    "name": "Mosta Dome B\u0026B",
+    "name": "Mosta Dome B&B",
     "address": "Il Triq Ir- Rebha Gzira, GZR 1321, Malta",
     "phone": "+35623456000"
   },
@@ -4429,13 +4429,13 @@
   },
   {
     "id": 739,
-    "name": "Di Santos Bar \u0026 Dine",
+    "name": "Di Santos Bar & Dine",
     "address": "Triq L-Isqof Scicluna, Ħal Qormi, Malta",
     "phone": "+35699930470"
   },
   {
     "id": 740,
-    "name": "Chinese Canteen Qormi - Chinese restaurant \u0026 take away in Qormi",
+    "name": "Chinese Canteen Qormi - Chinese restaurant & take away in Qormi",
     "address": "Triq il-Mithna, Ħal Qormi QRM 3038, Malta",
     "phone": "+35627011955"
   },
@@ -4489,7 +4489,7 @@
   },
   {
     "id": 749,
-    "name": "The Edge Kebab House \u0026 Pizzeria",
+    "name": "The Edge Kebab House & Pizzeria",
     "address": "Triq L-Isqof Scicluna, Ħal Qormi, Malta",
     "phone": ""
   },
@@ -4543,7 +4543,7 @@
   },
   {
     "id": 758,
-    "name": "Alcentro pizzeria \u0026 takeaway",
+    "name": "Alcentro pizzeria & takeaway",
     "address": "Triq l-Imdina, Ħal Qormi, Malta",
     "phone": "+35699355412"
   },
@@ -4591,7 +4591,7 @@
   },
   {
     "id": 766,
-    "name": "Qormi Hockey Club, Bar \u0026 Restaurant",
+    "name": "Qormi Hockey Club, Bar & Restaurant",
     "address": "Triq Is-Salib Ta' L-Imriehel, Birkirkara BKR 3000, Malta",
     "phone": "+35627130285"
   },
@@ -4699,7 +4699,7 @@
   },
   {
     "id": 784,
-    "name": "Chicken \u0026 More (Ta' Smina)",
+    "name": "Chicken & More (Ta' Smina)",
     "address": "Qormi, Malta",
     "phone": ""
   },
@@ -4718,7 +4718,7 @@
   {
     "id": 787,
     "name": "House Of Flavors",
-    "address": "Marsa Park \u0026 Ride 1, Marsa, Malta",
+    "address": "Marsa Park & Ride 1, Marsa, Malta",
     "phone": "+35621444404"
   },
   {
@@ -4735,7 +4735,7 @@
   },
   {
     "id": 790,
-    "name": "Karrot \u0026 Ko",
+    "name": "Karrot & Ko",
     "address": "Pavi Shopping Complex, Manuel Dimech Street, Qormi, Malta",
     "phone": ""
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "id": 873,
-    "name": "Splash \u0026 Fun Water Park",
+    "name": "Splash & Fun Water Park",
     "address": "Mġarr, Malta",
     "phone": ""
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "id": 931,
-    "name": "Basilica of Saint Dominic \u0026 Porto Salvo",
+    "name": "Basilica of Saint Dominic & Porto Salvo",
     "address": "Dingli, Malta",
     "phone": "+35621456060"
   },
@@ -5599,7 +5599,7 @@
   },
   {
     "id": 934,
-    "name": "Mosta Dome B\u0026B",
+    "name": "Mosta Dome B&B",
     "address": "2, Sqaq Nru 1, Triq Ir-Rebha, Rabat, Malta",
     "phone": "+35699254667"
   },
@@ -5617,7 +5617,7 @@
   },
   {
     "id": 937,
-    "name": "The Village Boutique \u0026 Spa",
+    "name": "The Village Boutique & Spa",
     "address": "19 Triq Wied is-Sir, Il-Mosta, Malta",
     "phone": ""
   },
@@ -5635,7 +5635,7 @@
   },
   {
     "id": 940,
-    "name": "Maritim Antonine Hotel \u0026 Spa",
+    "name": "Maritim Antonine Hotel & Spa",
     "address": "Marfa Bay, Mellieħa, Malta",
     "phone": "+35621525900"
   },
@@ -5647,13 +5647,13 @@
   },
   {
     "id": 942,
-    "name": "Labranda Riviera Hotel \u0026 Spa",
+    "name": "Labranda Riviera Hotel & Spa",
     "address": "George Borg Olivier Street, Il-Mellieħa MLH 1021, Malta",
     "phone": "+35622892000"
   },
   {
     "id": 943,
-    "name": "The Xara Palace Relais \u0026 Chateaux",
+    "name": "The Xara Palace Relais & Chateaux",
     "address": "311 Triq D'Argens, Il-Gżira GZR 1364, Malta",
     "phone": "+35699433458"
   },
@@ -5677,7 +5677,7 @@
   },
   {
     "id": 947,
-    "name": "AX Sunny Coast Resort \u0026 Spa",
+    "name": "AX Sunny Coast Resort & Spa",
     "address": "Luigi Apap San Giljan, STJ 3225, Malta",
     "phone": "+35679397264"
   },
@@ -5689,7 +5689,7 @@
   },
   {
     "id": 949,
-    "name": "Adelphi Boutique Hotel \u0026 Restaurant",
+    "name": "Adelphi Boutique Hotel & Restaurant",
     "address": "Il 22 Triq Andrew Cunningham Saint Paul's Bay, 1744, Malta",
     "phone": "+35621576267"
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "id": 952,
-    "name": "Malta Marriott Hotel \u0026 Spa",
+    "name": "Malta Marriott Hotel & Spa",
     "address": "Windsor Terrace WG82+CRP Tas-Sliema, SLM 1854, Malta",
     "phone": "+35627346053"
   },
@@ -5731,7 +5731,7 @@
   },
   {
     "id": 956,
-    "name": "Adelphi Boutique Hotel \u0026 Restaurant",
+    "name": "Adelphi Boutique Hotel & Restaurant",
     "address": "STJ 1147, 109, Birkirkara Hill, St Julian's, Malta",
     "phone": "+35627302758"
   },
@@ -5881,13 +5881,13 @@
   },
   {
     "id": 981,
-    "name": "Urban Valley Resort \u0026 Spa",
+    "name": "Urban Valley Resort & Spa",
     "address": "124 Tower Road, Sliema SLM 1605, Malta",
     "phone": "+35621334001"
   },
   {
     "id": 982,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "Adenau Street, MLH2014, Il-Mellieħa, Malta",
     "phone": "+35621523912"
   },
@@ -5923,7 +5923,7 @@
   },
   {
     "id": 988,
-    "name": "Grands Suites Hotel Residences \u0026 Spa",
+    "name": "Grands Suites Hotel Residences & Spa",
     "address": "Zammitella, Triq Ta' Fjuri 75, St Paul's Bay SPB 3921, Malta",
     "phone": "+35677529000"
   },
@@ -5977,7 +5977,7 @@
   },
   {
     "id": 997,
-    "name": "Pergola Hotel \u0026 Spa",
+    "name": "Pergola Hotel & Spa",
     "address": "Triq Santu Wistin, San Ġiljan, Malta",
     "phone": "+35620162410"
   },
@@ -6037,7 +6037,7 @@
   },
   {
     "id": 1007,
-    "name": "1926 Hotel \u0026 Spa",
+    "name": "1926 Hotel & Spa",
     "address": "Triq Il - Kbira, Tas-Sliema SLM 1542, Malta",
     "phone": "+35621333444"
   },
@@ -6097,7 +6097,7 @@
   },
   {
     "id": 1017,
-    "name": "Solana Hotel \u0026 Spa",
+    "name": "Solana Hotel & Spa",
     "address": "100, St. Rita Street Rabat, RBT 1526, Malta",
     "phone": "+35621453255"
   },
@@ -6115,7 +6115,7 @@
   },
   {
     "id": 1020,
-    "name": "HOLM Boutique \u0026 Spa",
+    "name": "HOLM Boutique & Spa",
     "address": "Palazzino Nina, 106 St Catherine Street, Qormi QRM 2204, Malta",
     "phone": "+35679336381"
   },
@@ -6193,13 +6193,13 @@
   },
   {
     "id": 1033,
-    "name": "Tal-Ahwa Pub \u0026 Grill",
+    "name": "Tal-Ahwa Pub & Grill",
     "address": "Constitution St, Mosta, Malta",
     "phone": "+35621432072"
   },
   {
     "id": 1034,
-    "name": "Cheese \u0026 Cuts",
+    "name": "Cheese & Cuts",
     "address": "Constitution St, Mosta, Malta",
     "phone": "+35621434655"
   },
@@ -6385,7 +6385,7 @@
   },
   {
     "id": 1065,
-    "name": "Fuel \u0026 Co.",
+    "name": "Fuel & Co.",
     "address": "Labor avenue, Naxxar, Malta",
     "phone": ""
   },
@@ -6463,7 +6463,7 @@
   },
   {
     "id": 1078,
-    "name": "Trulli Cafè \u0026 Restaurant",
+    "name": "Trulli Cafè & Restaurant",
     "address": "Triq Il-Forga, In-Naxxar, Malta",
     "phone": "+35627181850"
   },
@@ -6505,13 +6505,13 @@
   },
   {
     "id": 1085,
-    "name": "Grey Hound Bar \u0026 Restaurant",
+    "name": "Grey Hound Bar & Restaurant",
     "address": "Corithhia Palace Hotel De Paule Avenue, Attard, BZN 9023, Malta",
     "phone": "+35621440301"
   },
   {
     "id": 1086,
-    "name": "Brass \u0026 Knuckle Naxxar",
+    "name": "Brass & Knuckle Naxxar",
     "address": "Triq l-Oratorju, In-Naxxar, Malta",
     "phone": "+35627998176"
   },
@@ -6535,7 +6535,7 @@
   },
   {
     "id": 1090,
-    "name": "Giordano Italian Pizza \u0026 Restaurant",
+    "name": "Giordano Italian Pizza & Restaurant",
     "address": "Triq Il-Kbira, Il-Mosta, Malta",
     "phone": ""
   },
@@ -6709,7 +6709,7 @@
   },
   {
     "id": 1119,
-    "name": "Vinum Wine Bar \u0026 Bistro",
+    "name": "Vinum Wine Bar & Bistro",
     "address": "11/12 Pjazza Rotunda Mosta, MST 9042, Malta",
     "phone": "11129042"
   },
@@ -6763,7 +6763,7 @@
   },
   {
     "id": 1128,
-    "name": "Recharge - Health \u0026 Protein Bar",
+    "name": "Recharge - Health & Protein Bar",
     "address": "25 Constitution St, Mosta, Malta",
     "phone": "+35621423097"
   },
@@ -6865,7 +6865,7 @@
   },
   {
     "id": 1145,
-    "name": "Il-Majjistral Nature \u0026 History Park",
+    "name": "Il-Majjistral Nature & History Park",
     "address": "Rotunda Square, Mosta, Malta, Mosta, Malta",
     "phone": "+35627418368"
   },
@@ -6919,7 +6919,7 @@
   },
   {
     "id": 1154,
-    "name": "Splash \u0026 Fun Water Park",
+    "name": "Splash & Fun Water Park",
     "address": "Vincenzo Bugeja, Il-Furjana, Malta",
     "phone": ""
   },
@@ -7543,7 +7543,7 @@
   },
   {
     "id": 1258,
-    "name": "Nelli's B\u0026B",
+    "name": "Nelli's B&B",
     "address": "57 Mgr Dandria, Ta' Xbiex, Malta",
     "phone": "+35621342220"
   },
@@ -7555,7 +7555,7 @@
   },
   {
     "id": 1260,
-    "name": "The Village Boutique \u0026 Spa",
+    "name": "The Village Boutique & Spa",
     "address": "Wesghat Dun Joe Camilleri, Ħal Luqa LQA1071, Malta",
     "phone": "+35699449984"
   },
@@ -7579,7 +7579,7 @@
   },
   {
     "id": 1264,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "101 Triq Manoel De Vilhena, Il-Gżira, Malta",
     "phone": ""
   },
@@ -7627,7 +7627,7 @@
   },
   {
     "id": 1272,
-    "name": "H Hotel \u0026 SPA",
+    "name": "H Hotel & SPA",
     "address": "Ursulino Valletta, 82A, VLT1234, St.Ursula Street, Il-Belt Valletta, Malta",
     "phone": "+35621228024"
   },
@@ -7693,7 +7693,7 @@
   },
   {
     "id": 1283,
-    "name": "Grands Suites Hotel Residences \u0026 Spa",
+    "name": "Grands Suites Hotel Residences & Spa",
     "address": "87 St. Christopher's Street, Il VLT 1460, Malta",
     "phone": "+35620106029"
   },
@@ -7825,7 +7825,7 @@
   },
   {
     "id": 1305,
-    "name": "Urban Valley Resort \u0026 Spa",
+    "name": "Urban Valley Resort & Spa",
     "address": "102 Triq Il-Qalet Marsaskala MSK, 3313, Malta",
     "phone": "+35679086833"
   },
@@ -7963,7 +7963,7 @@
   },
   {
     "id": 1328,
-    "name": "Zeffie's Bistro \u0026 Pizzeria",
+    "name": "Zeffie's Bistro & Pizzeria",
     "address": "9 Is - Santwarju, Ħaż-Żabbar, Malta",
     "phone": "+35699950415"
   },
@@ -7975,7 +7975,7 @@
   },
   {
     "id": 1330,
-    "name": "Anci Pizzeria \u0026 Take Away",
+    "name": "Anci Pizzeria & Take Away",
     "address": "31 Triq Wied Il - Ghajn, Ħaż-Żabbar, Malta",
     "phone": "+35677820833"
   },
@@ -8125,7 +8125,7 @@
   },
   {
     "id": 1355,
-    "name": "KARAVAN Turkish kebab \u0026 Indian RESTAURANT",
+    "name": "KARAVAN Turkish kebab & Indian RESTAURANT",
     "address": "Il, 187 Triq San Tumas, Fgura FGR 1607, Malta",
     "phone": "+35679549991"
   },
@@ -8155,7 +8155,7 @@
   },
   {
     "id": 1360,
-    "name": "Chiaro Trattoria \u0026 Grill",
+    "name": "Chiaro Trattoria & Grill",
     "address": "Bulebel, Iż-Żejtun, Malta",
     "phone": ""
   },
@@ -8407,7 +8407,7 @@
   },
   {
     "id": 1402,
-    "name": "Bortex \u0026 Friends",
+    "name": "Bortex & Friends",
     "address": "Museum Explande, Ir-Rabat RBT 1202, Malta",
     "phone": "+35621454048"
   },
@@ -8695,7 +8695,7 @@
   },
   {
     "id": 1450,
-    "name": "Zeffie's Bistro \u0026 Pizzeria",
+    "name": "Zeffie's Bistro & Pizzeria",
     "address": "325-327 Zabbar road, Il-Fgura FGT 1014, Malta",
     "phone": "3253271014"
   },
@@ -9289,7 +9289,7 @@
   },
   {
     "id": 1549,
-    "name": "Malta Postal Museum \u0026 Arts Hub",
+    "name": "Malta Postal Museum & Arts Hub",
     "address": "Tigne Point, Censu Xerri, Sliema, Malta",
     "phone": "+35620655510"
   },
@@ -9307,7 +9307,7 @@
   },
   {
     "id": 1552,
-    "name": "Splash \u0026 Fun Water Park",
+    "name": "Splash & Fun Water Park",
     "address": "Triq IL Villegaignon, L-Imdina, Malta",
     "phone": "+35621453530"
   },

@@ -127,13 +127,13 @@
   },
   {
     "id": 22,
-    "name": "Best Western Pasadena Royale Inn \u0026 Suites",
+    "name": "Best Western Pasadena Royale Inn & Suites",
     "address": "485 W Arrow Hwy, San Dimas, CA 91773",
     "phone": "48591773"
   },
   {
     "id": 23,
-    "name": "Pasadena Hotel \u0026 Pool",
+    "name": "Pasadena Hotel & Pool",
     "address": "137 E 1st St, Azusa, CA 91702",
     "phone": "137191702"
   },
@@ -157,7 +157,7 @@
   },
   {
     "id": 27,
-    "name": "Best Western Pasadena Royale Inn \u0026 Suites",
+    "name": "Best Western Pasadena Royale Inn & Suites",
     "address": "3211 E Garvey Ave N, West Covina, CA 91791",
     "phone": "321191791"
   },
@@ -211,7 +211,7 @@
   },
   {
     "id": 36,
-    "name": "Pasadena Rose \u0026 Crown Hotel",
+    "name": "Pasadena Rose & Crown Hotel",
     "address": "1203 E Colorado Blvd, Pasadena, CA 91106",
     "phone": "120391106"
   },
@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "name": "Walnut Inn \u0026 Suites",
+    "name": "Walnut Inn & Suites",
     "address": "117 N Azusa Ave, Azusa, CA 91702",
     "phone": "11791702"
   },
@@ -247,13 +247,13 @@
   },
   {
     "id": 42,
-    "name": "Travelodge Inn \u0026 Suites by Wyndham West Covina",
+    "name": "Travelodge Inn & Suites by Wyndham West Covina",
     "address": "3223 E Garvey Ave N, West Covina, CA 91791",
     "phone": "322391791"
   },
   {
     "id": 43,
-    "name": "Rodeway Inn \u0026 Suites Pasadena",
+    "name": "Rodeway Inn & Suites Pasadena",
     "address": "8832 Glendon Way, Rosemead, CA 91770",
     "phone": "883291770"
   },
@@ -271,13 +271,13 @@
   },
   {
     "id": 46,
-    "name": "Fairfield Inn \u0026 Suites by Marriott Los Angeles West Covina",
+    "name": "Fairfield Inn & Suites by Marriott Los Angeles West Covina",
     "address": "2818 E Colorado Blvd, Pasadena, CA 91107",
     "phone": "281891107"
   },
   {
     "id": 47,
-    "name": "Garden Inn \u0026 Suites Glendora",
+    "name": "Garden Inn & Suites Glendora",
     "address": "191 N Los Robles Ave, Pasadena, CA 91101",
     "phone": "19191101"
   },
@@ -307,7 +307,7 @@
   },
   {
     "id": 52,
-    "name": "Holiday Inn Express \u0026 Suites San Dimas, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites San Dimas, an IHG Hotel",
     "address": "229 S Azusa Ave, Azusa, CA 91702",
     "phone": "22991702"
   },
@@ -355,7 +355,7 @@
   },
   {
     "id": 60,
-    "name": "Holiday Inn Express \u0026 Suites Hawaiian Gardens, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Hawaiian Gardens, an IHG Hotel",
     "address": "1533 E Huntington Dr, Duarte, CA 91010",
     "phone": "153391010"
   },
@@ -367,7 +367,7 @@
   },
   {
     "id": 62,
-    "name": "Chili's Grill \u0026 Bar",
+    "name": "Chili's Grill & Bar",
     "address": "441 W Duarte Rd, Monrovia, CA 91016",
     "phone": "44191016"
   },
@@ -379,7 +379,7 @@
   },
   {
     "id": 64,
-    "name": "Basin 141 Social Bar \u0026 Kitchen",
+    "name": "Basin 141 Social Bar & Kitchen",
     "address": "109 E Lemon Ave, Monrovia, CA 91016",
     "phone": "10991016"
   },
@@ -427,7 +427,7 @@
   },
   {
     "id": 72,
-    "name": "38 Degrees Ale House \u0026 Grill",
+    "name": "38 Degrees Ale House & Grill",
     "address": "733 E Huntington Dr, Monrovia, CA 91016",
     "phone": "73391016"
   },
@@ -571,13 +571,13 @@
   },
   {
     "id": 96,
-    "name": "B \u0026 C Teriyaki",
+    "name": "B & C Teriyaki",
     "address": "229 E Foothill Blvd, Monrovia, CA 91016",
     "phone": "22991016"
   },
   {
     "id": 97,
-    "name": "Chili's Grill \u0026 Bar",
+    "name": "Chili's Grill & Bar",
     "address": "750 Huntington Dr, Monrovia, CA 91016",
     "phone": "75091016"
   },
@@ -649,7 +649,7 @@
   },
   {
     "id": 109,
-    "name": "TK Cafe \u0026 Hawaiian BBQ",
+    "name": "TK Cafe & Hawaiian BBQ",
     "address": "116 W Foothill Blvd Suite A-7, Monrovia, CA 91016",
     "phone": "116791016"
   },
@@ -787,7 +787,7 @@
   },
   {
     "id": 132,
-    "name": "MOOYAH Burgers, Fries \u0026 Shakes",
+    "name": "MOOYAH Burgers, Fries & Shakes",
     "address": "141 E Colorado Blvd, Monrovia, CA 91016",
     "phone": "14191016"
   },
@@ -865,7 +865,7 @@
   },
   {
     "id": 145,
-    "name": "Baja Cali Fish \u0026 Tacos (Monrovia)",
+    "name": "Baja Cali Fish & Tacos (Monrovia)",
     "address": "901 W Foothill Blvd, Monrovia, CA 91016",
     "phone": "90191016"
   },
@@ -907,7 +907,7 @@
   },
   {
     "id": 152,
-    "name": "Fatburger \u0026 Buffalo's Express",
+    "name": "Fatburger & Buffalo's Express",
     "address": "523 W Huntington Dr, Monrovia, CA 91016",
     "phone": "52391016"
   },
@@ -961,7 +961,7 @@
   },
   {
     "id": 161,
-    "name": "Ike's Love \u0026 Sandwiches",
+    "name": "Ike's Love & Sandwiches",
     "address": "335 W Foothill Blvd, Monrovia, CA 91016",
     "phone": "33591016"
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "id": 233,
-    "name": "Turner \u0026 Stevens Live Oak Mortuary \u0026 Memorial Park",
+    "name": "Turner & Stevens Live Oak Mortuary & Memorial Park",
     "address": "Rosemead Blvd, South El Monte, CA 91733",
     "phone": "6266298386"
   },
@@ -1489,7 +1489,7 @@
   },
   {
     "id": 249,
-    "name": "Monrovia Street Fair \u0026 Market",
+    "name": "Monrovia Street Fair & Market",
     "address": "43V2+JGV, 2627 Royal Oaks Dr, Duarte, CA 91010",
     "phone": "432+262791010"
   },
@@ -1556,7 +1556,7 @@
   {
     "id": 260,
     "name": "Santa Fe Dam Nature Center",
-    "address": "Prospect Ave \u0026 Wells Street, Prospect Ave, San Gabriel, CA 91776",
+    "address": "Prospect Ave & Wells Street, Prospect Ave, San Gabriel, CA 91776",
     "phone": "6263082800"
   },
   {
@@ -1711,7 +1711,7 @@
   },
   {
     "id": 286,
-    "name": "BEER GARDEN HOTEL, BAR \u0026 RESTAURANT",
+    "name": "BEER GARDEN HOTEL, BAR & RESTAURANT",
     "address": "76RC+RPM, Tubman Blvd, Monrovia, Liberia",
     "phone": "+231555777888"
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 307,
-    "name": "Millennium Guest House \u0026 Suites",
+    "name": "Millennium Guest House & Suites",
     "address": "858V+H9C, Carey St, Monrovia, Liberia",
     "phone": "+231770277777"
   },
@@ -1867,13 +1867,13 @@
   },
   {
     "id": 312,
-    "name": "Geeta's Bar \u0026 Restaurant",
+    "name": "Geeta's Bar & Restaurant",
     "address": "97V4+4F8, Caldwell, Liberia",
     "phone": "+231776280571"
   },
   {
     "id": 313,
-    "name": "Loleyah Bar \u0026 Restaurant",
+    "name": "Loleyah Bar & Restaurant",
     "address": "2G2H+23Q, Gbarnga, Liberia",
     "phone": ""
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 315,
-    "name": "Ma Miatta MicVero Guesthouse \u0026 Home Food Catering Services, Inc.",
+    "name": "Ma Miatta MicVero Guesthouse & Home Food Catering Services, Inc.",
     "address": "2CJW+58J, Phebe, Liberia",
     "phone": "+231886650038"
   },
@@ -1898,7 +1898,7 @@
   {
     "id": 317,
     "name": "Barnvilla Junction",
-    "address": "XGVQ+W4H, Baltimore Boulevard \u0026 Braod Street, Gbarnga, Liberia",
+    "address": "XGVQ+W4H, Baltimore Boulevard & Braod Street, Gbarnga, Liberia",
     "phone": "+231886131513"
   },
   {
@@ -1915,7 +1915,7 @@
   },
   {
     "id": 320,
-    "name": "Zunuwala \u0026 Son Business Center",
+    "name": "Zunuwala & Son Business Center",
     "address": "2CFV+PVQ, Suakoko, Liberia",
     "phone": "+231886472881"
   },
@@ -1994,7 +1994,7 @@
   {
     "id": 333,
     "name": "Sackie Flomo Entertainment and Shoping Center",
-    "address": "85CV+6MM, Water St \u0026, Randall St, Monrovia, Liberia",
+    "address": "85CV+6MM, Water St &, Randall St, Monrovia, Liberia",
     "phone": "+231777550571"
   },
   {
@@ -2143,13 +2143,13 @@
   },
   {
     "id": 358,
-    "name": "Inn Of The Hills Hotel \u0026 Conference Center",
+    "name": "Inn Of The Hills Hotel & Conference Center",
     "address": "714 Main St, Fort Worth, TX 76102",
     "phone": "71476102"
   },
   {
     "id": 359,
-    "name": "Zannabella B\u0026B",
+    "name": "Zannabella B&B",
     "address": "33 avery ridge rd, Fredericksburg, TX 78624",
     "phone": "8303553733"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 361,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham Kerrville",
+    "name": "La Quinta Inn & Suites by Wyndham Kerrville",
     "address": "1940 Sidney Baker St, Kerrville, TX 78028",
     "phone": "194078028"
   },
@@ -2179,7 +2179,7 @@
   },
   {
     "id": 364,
-    "name": "Holiday Inn Express \u0026 Suites Denver - Aurora Medical Campus, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Denver - Aurora Medical Campus, an IHG Hotel",
     "address": "1001 Junction Hwy, Kerrville, TX 78028",
     "phone": "100178028"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "id": 370,
-    "name": "Holiday Inn Express \u0026 Suites Kerrville, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Kerrville, an IHG Hotel",
     "address": "120 Waltonia Lodges Dr S, Ingram, TX 78025",
     "phone": "12078025"
   },
@@ -2227,13 +2227,13 @@
   },
   {
     "id": 372,
-    "name": "Quality Inn \u0026 Suites",
+    "name": "Quality Inn & Suites",
     "address": "1085 TX-39, Ingram, TX 78025",
     "phone": "10853978025"
   },
   {
     "id": 373,
-    "name": "Peach Tree Inn \u0026 Suites",
+    "name": "Peach Tree Inn & Suites",
     "address": "906 Junction Hwy, Kerrville, TX 78028",
     "phone": "90678028"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "id": 377,
-    "name": "Quality Inn \u0026 Suites",
+    "name": "Quality Inn & Suites",
     "address": "9848 US-290, Fredericksburg, TX 78624",
     "phone": "984829078624"
   },
@@ -2287,13 +2287,13 @@
   },
   {
     "id": 382,
-    "name": "Holiday Inn Express \u0026 Suites Sweetwater, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Sweetwater, an IHG Hotel",
     "address": "3301 Youngfield Service Rd, Lakewood, CO 80401",
     "phone": "330180401"
   },
   {
     "id": 383,
-    "name": "Best Western Plus Lonestar Inn \u0026 Suites",
+    "name": "Best Western Plus Lonestar Inn & Suites",
     "address": "2189 Usener Rd, Fredericksburg, TX 78624",
     "phone": "218978624"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "id": 388,
-    "name": "Fairfield Inn \u0026 Suites by Marriott Austin Buda",
+    "name": "Fairfield Inn & Suites by Marriott Austin Buda",
     "address": "245 Stablewood Springs Dr W, Ingram, TX 78025",
     "phone": "24578025"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "id": 392,
-    "name": "Country Hearth Inn \u0026 Suites Sweetwater",
+    "name": "Country Hearth Inn & Suites Sweetwater",
     "address": "2885 Goat Creek Rd, Kerrville, TX 78028",
     "phone": "288578028"
   },
@@ -2383,7 +2383,7 @@
   },
   {
     "id": 398,
-    "name": "Way of Wolf B \u0026 B",
+    "name": "Way of Wolf B & B",
     "address": "510 NW Georgia Ave, Sweetwater, TX 79556",
     "phone": "51079556"
   },
@@ -2407,7 +2407,7 @@
   },
   {
     "id": 402,
-    "name": "Hunter House Inn \u0026 Suites",
+    "name": "Hunter House Inn & Suites",
     "address": "300 SE Georgia Ave, Sweetwater, TX 79556",
     "phone": "30079556"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "id": 407,
-    "name": "Catnip cabin, Cat's Meow B\u0026B",
+    "name": "Catnip cabin, Cat's Meow B&B",
     "address": "2124 Sidney Baker St, Kerrville, TX 78028",
     "phone": "212478028"
   },
@@ -2449,13 +2449,13 @@
   },
   {
     "id": 409,
-    "name": "River Run B\u0026B",
+    "name": "River Run B&B",
     "address": "200 I-10, Junction, TX 76849",
     "phone": "2001076849"
   },
   {
     "id": 410,
-    "name": "Azure Hills Inn \u0026 Suites",
+    "name": "Azure Hills Inn & Suites",
     "address": "200 I-10, Junction, TX 76849",
     "phone": "2001076849"
   },
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 415,
-    "name": "Johnson Creek RV Resort \u0026 Park",
+    "name": "Johnson Creek RV Resort & Park",
     "address": "2127 Sidney Baker St, Kerrville, TX 78028",
     "phone": "212778028"
   },
@@ -2612,7 +2612,7 @@
   {
     "id": 436,
     "name": "Novi Town Center",
-    "address": "S Randall Rd \u0026 County Line Rd, Algonquin, IL 60102",
+    "address": "S Randall Rd & County Line Rd, Algonquin, IL 60102",
     "phone": ""
   },
   {
@@ -2683,7 +2683,7 @@
   },
   {
     "id": 448,
-    "name": "Tres Molinos Ranch \u0026 Resort",
+    "name": "Tres Molinos Ranch & Resort",
     "address": "37221 RM 187, Vanderpool, TX 78885",
     "phone": "3722118778885"
   },
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 484,
-    "name": "Bit \u0026 Bridle Boarding \u0026 Training Stables",
+    "name": "Bit & Bridle Boarding & Training Stables",
     "address": "807 Mission Rd, San Antonio, TX 78210",
     "phone": "80778210"
   },
@@ -3014,7 +3014,7 @@
   {
     "id": 503,
     "name": "Signor Vineyards",
-    "address": "Harper Lake, N McCaslin Blvd \u0026 Washington Ave, Louisville, CO 80027",
+    "address": "Harper Lake, N McCaslin Blvd & Washington Ave, Louisville, CO 80027",
     "phone": "3036666565"
   },
   {
@@ -3205,7 +3205,7 @@
   },
   {
     "id": 535,
-    "name": "Holiday Inn Express \u0026 Suites Niles, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Niles, an IHG Hotel",
     "address": "23040 Lincolnway W Hwy, South Bend, IN 46628",
     "phone": "2304046628"
   },
@@ -3217,7 +3217,7 @@
   },
   {
     "id": 537,
-    "name": "Quality Inn \u0026 Suites Niles",
+    "name": "Quality Inn & Suites Niles",
     "address": "9729 Red Arrow Hwy, Bridgman, MI 49106",
     "phone": "972949106"
   },
@@ -3229,13 +3229,13 @@
   },
   {
     "id": 539,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham South Bend near Notre Dame",
+    "name": "La Quinta Inn & Suites by Wyndham South Bend near Notre Dame",
     "address": "1446 S 11th St, Niles, MI 49120",
     "phone": "14461149120"
   },
   {
     "id": 540,
-    "name": "Monogram Inn \u0026 Suites",
+    "name": "Monogram Inn & Suites",
     "address": "1140 E Angela Blvd, South Bend, IN 46617",
     "phone": "114046617"
   },
@@ -3247,7 +3247,7 @@
   },
   {
     "id": 542,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham South Bend",
+    "name": "La Quinta Inn & Suites by Wyndham South Bend",
     "address": "4124 Ameritech Dr, South Bend, IN 46628",
     "phone": "412446628"
   },
@@ -3271,13 +3271,13 @@
   },
   {
     "id": 546,
-    "name": "Ambrose Bed \u0026 Breakfast",
+    "name": "Ambrose Bed & Breakfast",
     "address": "2483 Yankee St, Niles, MI 49120",
     "phone": "248349120"
   },
   {
     "id": 547,
-    "name": "Hampton Inn \u0026 Suites South Bend",
+    "name": "Hampton Inn & Suites South Bend",
     "address": "3233 Lincoln Way W, South Bend, IN 46628",
     "phone": "323346628"
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "id": 554,
-    "name": "Country Inn \u0026 Suites by Radisson, Mishawaka, IN",
+    "name": "Country Inn & Suites by Radisson, Mishawaka, IN",
     "address": "25725 US-20, South Bend, IN 46628",
     "phone": "257252046628"
   },
@@ -3331,7 +3331,7 @@
   },
   {
     "id": 556,
-    "name": "Holiday Inn Express \u0026 Suites South Bend - Notre Dame Univ., an IHG Hotel",
+    "name": "Holiday Inn Express & Suites South Bend - Notre Dame Univ., an IHG Hotel",
     "address": "1243 S 11th St, Niles, MI 49120",
     "phone": "12431149120"
   },
@@ -3349,13 +3349,13 @@
   },
   {
     "id": 559,
-    "name": "Country Inn \u0026 Suites by Radisson, Mishawaka, IN",
+    "name": "Country Inn & Suites by Radisson, Mishawaka, IN",
     "address": "1701 Pucker St Dr, Niles, MI 49120",
     "phone": "170149120"
   },
   {
     "id": 560,
-    "name": "Fairfield Inn \u0026 Suites by Marriott South Bend at Notre Dame",
+    "name": "Fairfield Inn & Suites by Marriott South Bend at Notre Dame",
     "address": "25200 IN-2, South Bend, IN 46619",
     "phone": "25200246619"
   },
@@ -3373,7 +3373,7 @@
   },
   {
     "id": 563,
-    "name": "The Oliver Inn Bed \u0026 Breakfast",
+    "name": "The Oliver Inn Bed & Breakfast",
     "address": "5820 South Franklin Street, 5820 Franklin St, Michigan City, IN 46360",
     "phone": "5820582046360"
   },
@@ -3397,7 +3397,7 @@
   },
   {
     "id": 567,
-    "name": "Quality Inn \u0026 Suites South Bend Airport",
+    "name": "Quality Inn & Suites South Bend Airport",
     "address": "1622 E Clear Lake Rd, Buchanan, MI 49107",
     "phone": "162249107"
   },
@@ -3409,13 +3409,13 @@
   },
   {
     "id": 569,
-    "name": "Hampton Inn \u0026 Suites Mishawaka/South Bend at Heritage Square",
+    "name": "Hampton Inn & Suites Mishawaka/South Bend at Heritage Square",
     "address": "52860 State Hwy 933, South Bend, IN 46637",
     "phone": "5286093346637"
   },
   {
     "id": 570,
-    "name": "Microtel Inn \u0026 Suites by Wyndham South Bend/At Notre Dame",
+    "name": "Microtel Inn & Suites by Wyndham South Bend/At Notre Dame",
     "address": "1220 E Douglas Rd, Mishawaka, IN 46545",
     "phone": "122046545"
   },
@@ -3445,13 +3445,13 @@
   },
   {
     "id": 575,
-    "name": "Fairfield Inn \u0026 Suites by Marriott South Bend Mishawaka",
+    "name": "Fairfield Inn & Suites by Marriott South Bend Mishawaka",
     "address": "5640 N Main St, Mishawaka, IN 46545",
     "phone": "564046545"
   },
   {
     "id": 576,
-    "name": "Holiday Inn Express \u0026 Suites Mishawaka - South Bend, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Mishawaka - South Bend, an IHG Hotel",
     "address": "236 N Dixie Way, Roseland, IN 46637",
     "phone": "23646637"
   },
@@ -3469,7 +3469,7 @@
   },
   {
     "id": 579,
-    "name": "Innisfree Bed \u0026 Breakfast",
+    "name": "Innisfree Bed & Breakfast",
     "address": "1404 Ivy Ct, South Bend, IN 46637",
     "phone": "140446637"
   },
@@ -3487,7 +3487,7 @@
   },
   {
     "id": 582,
-    "name": "Ivy Court Inn \u0026 Suites",
+    "name": "Ivy Court Inn & Suites",
     "address": "52624 State Hwy 933, South Bend, IN 46637",
     "phone": "5262493346637"
   },
@@ -3505,7 +3505,7 @@
   },
   {
     "id": 585,
-    "name": "Comfort Inn \u0026 Suites Mishawaka-South Bend",
+    "name": "Comfort Inn & Suites Mishawaka-South Bend",
     "address": "224 Florence Ave, Granger, IN 46530",
     "phone": "22446530"
   },
@@ -3571,7 +3571,7 @@
   },
   {
     "id": 596,
-    "name": "Among the Vineyards Bed \u0026 Breakfast",
+    "name": "Among the Vineyards Bed & Breakfast",
     "address": "9999 Red Arrow Hwy, Bridgman, MI 49106",
     "phone": "999949106"
   },
@@ -3613,7 +3613,7 @@
   },
   {
     "id": 603,
-    "name": "Spaulding Bed \u0026 Breakfast",
+    "name": "Spaulding Bed & Breakfast",
     "address": "121 Doctor M.L.K. Jr Blvd, South Bend, IN 46601",
     "phone": "12146601"
   },
@@ -3631,7 +3631,7 @@
   },
   {
     "id": 606,
-    "name": "Cushing Manor Bed \u0026 Breakfast",
+    "name": "Cushing Manor Bed & Breakfast",
     "address": "3800 N Main St, Mishawaka, IN 46545",
     "phone": "380046545"
   },
@@ -3733,7 +3733,7 @@
   },
   {
     "id": 623,
-    "name": "Union Coffee House \u0026 Cafe",
+    "name": "Union Coffee House & Cafe",
     "address": "708 E Front St, Buchanan, MI 49107",
     "phone": "70849107"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "id": 629,
-    "name": "Lehman's Brewery \u0026 Farmhouse",
+    "name": "Lehman's Brewery & Farmhouse",
     "address": "185 Mt Tabor Rd, Buchanan, MI 49107",
     "phone": "18549107"
   },
@@ -3781,7 +3781,7 @@
   },
   {
     "id": 631,
-    "name": "Tabor Hill Winery \u0026 Restaurant",
+    "name": "Tabor Hill Winery & Restaurant",
     "address": "714 E Front St, Buchanan, MI 49107",
     "phone": "71449107"
   },
@@ -3799,7 +3799,7 @@
   },
   {
     "id": 634,
-    "name": "Town \u0026 Country Shopping Center",
+    "name": "Town & Country Shopping Center",
     "address": "238 W Cleveland Rd, Granger, IN 46530",
     "phone": "23846530"
   },
@@ -3913,7 +3913,7 @@
   },
   {
     "id": 653,
-    "name": "Union Coffee House \u0026 Cafe",
+    "name": "Union Coffee House & Cafe",
     "address": "7321 Heritage Square Dr #150, Granger, IN 46530",
     "phone": "732115046530"
   },
@@ -4009,7 +4009,7 @@
   },
   {
     "id": 669,
-    "name": "Kerrytown Market \u0026 Shops",
+    "name": "Kerrytown Market & Shops",
     "address": "407 N 5th Ave, Ann Arbor, MI 48104",
     "phone": "407548104"
   },
@@ -4027,7 +4027,7 @@
   },
   {
     "id": 672,
-    "name": "Buchanan Floral Company \u0026 Greenhouses",
+    "name": "Buchanan Floral Company & Greenhouses",
     "address": "113 Main St, Buchanan, MI 49107",
     "phone": "11349107"
   },
@@ -4129,7 +4129,7 @@
   },
   {
     "id": 689,
-    "name": "Weldy Sales \u0026 Services",
+    "name": "Weldy Sales & Services",
     "address": "113 E Front St, Buchanan, MI 49107",
     "phone": "11349107"
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "id": 723,
-    "name": "Tabor Hill Winery \u0026 Restaurant",
+    "name": "Tabor Hill Winery & Restaurant",
     "address": "631 Washington St, Michigan City, IN 46360",
     "phone": "63146360"
   },
@@ -4375,7 +4375,7 @@
   },
   {
     "id": 730,
-    "name": "Lehman's Brewery \u0026 Farmhouse",
+    "name": "Lehman's Brewery & Farmhouse",
     "address": "450 W 100 N, Valparaiso, IN 46385",
     "phone": "45010046385"
   },
@@ -4525,7 +4525,7 @@
   },
   {
     "id": 755,
-    "name": "Union Coffee House \u0026 Cafe",
+    "name": "Union Coffee House & Cafe",
     "address": "1600 W Market St, Nappanee, IN 46550",
     "phone": "160046550"
   },
@@ -4567,7 +4567,7 @@
   },
   {
     "id": 762,
-    "name": "RV Hall of Fame \u0026 Museum",
+    "name": "RV Hall of Fame & Museum",
     "address": "1011 N Main St, Elkhart, IN 46514",
     "phone": "101146514"
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "id": 764,
-    "name": "St. Julian Winery \u0026 Distillery Tasting Room",
+    "name": "St. Julian Winery & Distillery Tasting Room",
     "address": "21565 Executive Pkwy, Elkhart, IN 46514",
     "phone": "2156546514"
   },
@@ -4645,7 +4645,7 @@
   },
   {
     "id": 775,
-    "name": "Redbud Fitness \u0026 Lifestyle Center",
+    "name": "Redbud Fitness & Lifestyle Center",
     "address": "485 Lowe St, Buchanan, VA 24066",
     "phone": "48524066"
   },
@@ -4687,7 +4687,7 @@
   },
   {
     "id": 782,
-    "name": "St. Julian Winery \u0026 Distillery",
+    "name": "St. Julian Winery & Distillery",
     "address": "221 E Front St, Buchanan, MI 49107",
     "phone": "22149107"
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "id": 788,
-    "name": "Portage Lakefront \u0026 Riverwalk",
+    "name": "Portage Lakefront & Riverwalk",
     "address": "9292 Huckleberry Rd #9736, Berrien Center, MI 49102",
     "phone": "9292973649102"
   },
@@ -4759,7 +4759,7 @@
   },
   {
     "id": 794,
-    "name": "Alan Robandt Antique, Vintage, \u0026 Modern",
+    "name": "Alan Robandt Antique, Vintage, & Modern",
     "address": "7337 Thornton Dr, Stevensville, MI 49127",
     "phone": "733749127"
   },

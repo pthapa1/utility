@@ -247,7 +247,7 @@
   },
   {
     "id": 42,
-    "name": "Quijano Apart \u0026 Suites",
+    "name": "Quijano Apart & Suites",
     "address": "Juan Paullier 1004, 11200 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "100411200"
   },
@@ -349,7 +349,7 @@
   },
   {
     "id": 59,
-    "name": "1.4 Mérit Montevideo Apart \u0026 Suites",
+    "name": "1.4 Mérit Montevideo Apart & Suites",
     "address": "Andes 1240, 11100 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "124011100"
   },
@@ -373,7 +373,7 @@
   },
   {
     "id": 63,
-    "name": "Cane B\u0026B",
+    "name": "Cane B&B",
     "address": "Acevedo Díaz 1821, 11800 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "182111800"
   },
@@ -427,7 +427,7 @@
   },
   {
     "id": 72,
-    "name": "Pizzorno Lodge \u0026 Wine",
+    "name": "Pizzorno Lodge & Wine",
     "address": "San José 1237 esq, 11100 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "123711100"
   },
@@ -560,7 +560,7 @@
   {
     "id": 94,
     "name": "Balmoral Plaza",
-    "address": "Bartolomé Mitre 1364, Sarandí \u0026, 11000 Montevideo, Uruguay",
+    "address": "Bartolomé Mitre 1364, Sarandí &, 11000 Montevideo, Uruguay",
     "phone": "136411000"
   },
   {
@@ -577,7 +577,7 @@
   },
   {
     "id": 97,
-    "name": "Posada Pizzorno Lodge \u0026 Wine",
+    "name": "Posada Pizzorno Lodge & Wine",
     "address": "Goes 2297, 11800 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "229711800"
   },
@@ -901,7 +901,7 @@
   },
   {
     "id": 151,
-    "name": "Dakota SteakHouse \u0026 Bar",
+    "name": "Dakota SteakHouse & Bar",
     "address": "Juan Paullier 1046, 11200 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "104611200"
   },
@@ -1130,7 +1130,7 @@
   {
     "id": 189,
     "name": "Sometimes Sunday",
-    "address": "Juan D. Jackson \u0026, 11200 Montevideo, Departamento de Montevideo, Uruguay",
+    "address": "Juan D. Jackson &, 11200 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "+59824132794"
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "id": 226,
     "name": "Galería Central",
-    "address": "A., Bulevar General Artigas \u0026 Av. Dr. Luis Alberto de Herrera, Montevideo, Uruguay",
+    "address": "A., Bulevar General Artigas & Av. Dr. Luis Alberto de Herrera, Montevideo, Uruguay",
     "phone": ""
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "id": 231,
     "name": "ALMACEN A VISITAR (HACE RATO) 2",
-    "address": "Ave Julio Herrera y Reissig \u0026, 11300 Montevideo, Departamento de Montevideo, Uruguay",
+    "address": "Ave Julio Herrera y Reissig &, 11300 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": ""
   },
   {
@@ -1508,7 +1508,7 @@
   {
     "id": 252,
     "name": "Salon Pekas",
-    "address": "Av. Luis Batlle Berres \u0026, 12600 Montevideo, Departamento de Montevideo, Uruguay",
+    "address": "Av. Luis Batlle Berres &, 12600 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": ""
   },
   {
@@ -2048,7 +2048,7 @@
   {
     "id": 342,
     "name": "San Miguel Bastion",
-    "address": "Bv. Gral. Artigas \u0026, 11200 Montevideo, Departamento de Montevideo, Uruguay",
+    "address": "Bv. Gral. Artigas &, 11200 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": ""
   },
   {
@@ -2384,7 +2384,7 @@
   {
     "id": 398,
     "name": "Universal Maroñas",
-    "address": "Cam. Gral. Leandro Gómez \u0026, 12300 Montevideo, Departamento de Montevideo, Uruguay",
+    "address": "Cam. Gral. Leandro Gómez &, 12300 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "+59822153616"
   },
   {
@@ -2791,7 +2791,7 @@
   },
   {
     "id": 466,
-    "name": "Salto Hotel \u0026 Casino",
+    "name": "Salto Hotel & Casino",
     "address": "Brasil 826, 50000 Salto, Departamento de Salto, Uruguay",
     "phone": "82650000"
   },
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 477,
-    "name": "Jardines de Daymán - Hotel \u0026 Bungalows",
+    "name": "Jardines de Daymán - Hotel & Bungalows",
     "address": "50000 Termas del Dayman, Departamento de Paysandú, Uruguay",
     "phone": ""
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "id": 496,
-    "name": "Squania Suite - Container \u0026 Monoambientes",
+    "name": "Squania Suite - Container & Monoambientes",
     "address": "Av. Paysandú, 50000 Termas del Dayman, Departamento de Paysandú, Uruguay",
     "phone": "+59898675457"
   },
@@ -2990,7 +2990,7 @@
   {
     "id": 499,
     "name": "Estancia Termal San Nicanor",
-    "address": "esq, Los Molles \u0026 Los Sauces, Termas del Dayman, Departamento de Paysandú, Uruguay",
+    "address": "esq, Los Molles & Los Sauces, Termas del Dayman, Departamento de Paysandú, Uruguay",
     "phone": "+59847369058"
   },
   {
@@ -3109,7 +3109,7 @@
   },
   {
     "id": 519,
-    "name": "Loft \u0026 suite centro",
+    "name": "Loft & suite centro",
     "address": "H34M+6VR Los Ceibos, 50000 Termas del Dayman, Departamento de Salto, Uruguay",
     "phone": "+59892678215"
   },
@@ -3248,12 +3248,12 @@
   {
     "id": 542,
     "name": "Amarras South",
-    "address": "y, Brasil \u0026, 50000 Salto, Uruguay",
+    "address": "y, Brasil &, 50000 Salto, Uruguay",
     "phone": "+59847342013"
   },
   {
     "id": 543,
-    "name": "La Recova Café \u0026 Bar",
+    "name": "La Recova Café & Bar",
     "address": "Costanera Sur, 50000 Salto, Departamento de Salto, Uruguay",
     "phone": "+59897385618"
   },
@@ -3493,7 +3493,7 @@
   },
   {
     "id": 583,
-    "name": "Trouville Pizza \u0026 Restaurante",
+    "name": "Trouville Pizza & Restaurante",
     "address": "Av. Blandengues 320, 50000 Salto, Departamento de Salto, Uruguay",
     "phone": "32050000"
   },
@@ -4189,7 +4189,7 @@
   },
   {
     "id": 699,
-    "name": "Pizzorno Lodge \u0026 Wine",
+    "name": "Pizzorno Lodge & Wine",
     "address": "S. José 1034, 11100 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "103411100"
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "id": 723,
-    "name": "Cane B\u0026B",
+    "name": "Cane B&B",
     "address": "26 de Marzo 1125, 11300 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "26112511300"
   },
@@ -4363,7 +4363,7 @@
   },
   {
     "id": 728,
-    "name": "Posada Pizzorno Lodge \u0026 Wine",
+    "name": "Posada Pizzorno Lodge & Wine",
     "address": "Juan Carlos Gómez 1487, 11000 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "148711000"
   },
@@ -4447,7 +4447,7 @@
   },
   {
     "id": 742,
-    "name": "1.4 Mérit Montevideo Apart \u0026 Suites",
+    "name": "1.4 Mérit Montevideo Apart & Suites",
     "address": "Blvr. España 2769, 11300 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "276911300"
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "id": 746,
-    "name": "Quijano Apart \u0026 Suites",
+    "name": "Quijano Apart & Suites",
     "address": "José Benito Lamas 2901, 11300 Montevideo, Departamento de Montevideo, Uruguay",
     "phone": "290111300"
   },
@@ -4502,7 +4502,7 @@
   {
     "id": 751,
     "name": "Hotel Gema",
-    "address": "Bartolomé Mitre 1364, Sarandí \u0026, 11000 Montevideo, Uruguay",
+    "address": "Bartolomé Mitre 1364, Sarandí &, 11000 Montevideo, Uruguay",
     "phone": "136411000"
   },
   {
@@ -4742,7 +4742,7 @@
   {
     "id": 791,
     "name": "La Diecisiete Brasas y Afines",
-    "address": "M 205 S 7, Av. Costanera \u0026, 15008 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+    "address": "M 205 S 7, Av. Costanera &, 15008 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "205715008"
   },
   {
@@ -4790,7 +4790,7 @@
   {
     "id": 799,
     "name": "De Madrid",
-    "address": "Ecuador \u0026, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+    "address": "Ecuador &, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59826955321"
   },
   {
@@ -4813,7 +4813,7 @@
   },
   {
     "id": 803,
-    "name": "El Comodín, Restó \u0026 Pizza",
+    "name": "El Comodín, Restó & Pizza",
     "address": "Sta. María 1519, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "151915000"
   },
@@ -4843,7 +4843,7 @@
   },
   {
     "id": 808,
-    "name": "El Comodín, Restó \u0026 Pizza",
+    "name": "El Comodín, Restó & Pizza",
     "address": "Rambla Costanera 3421, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "342115000"
   },
@@ -5005,7 +5005,7 @@
   },
   {
     "id": 835,
-    "name": "Teté Bagels \u0026 Ensaladas - Costa Urbana",
+    "name": "Teté Bagels & Ensaladas - Costa Urbana",
     "address": "Av. Perez Butler esquina, 15200 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59826837373"
   },
@@ -5029,7 +5029,7 @@
   },
   {
     "id": 839,
-    "name": "Wok \u0026 Roll",
+    "name": "Wok & Roll",
     "address": "Av. Uruguay, 15800 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59826982857"
   },
@@ -5077,7 +5077,7 @@
   },
   {
     "id": 847,
-    "name": "La Comanda Pizzas \u0026 Burgers",
+    "name": "La Comanda Pizzas & Burgers",
     "address": "Rambla Costanera, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59826955658"
   },
@@ -5185,7 +5185,7 @@
   },
   {
     "id": 865,
-    "name": "La Comanda Pizzas \u0026 Burgers El Pinar",
+    "name": "La Comanda Pizzas & Burgers El Pinar",
     "address": "Av. Giannattasio Esquina, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59826812143"
   },
@@ -5294,7 +5294,7 @@
   {
     "id": 883,
     "name": "Mamma Pizza",
-    "address": "Av. Giannattasio \u0026, 15800 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+    "address": "Av. Giannattasio &, 15800 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59894992544"
   },
   {
@@ -5306,7 +5306,7 @@
   {
     "id": 885,
     "name": "Pérez",
-    "address": "Av. Giannattasio \u0026, 15800 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+    "address": "Av. Giannattasio &, 15800 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59894992544"
   },
   {
@@ -5678,13 +5678,13 @@
   {
     "id": 947,
     "name": "Plaza de las palmeras",
-    "address": "y, Av Perez Butler \u0026 Océano Pacífico, Ciudad de la Costa, Departamento de Canelones, Uruguay",
+    "address": "y, Av Perez Butler & Océano Pacífico, Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59826984141"
   },
   {
     "id": 948,
     "name": "La casa de la leña",
-    "address": "Av. Perez Butler \u0026, 15008 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+    "address": "Av. Perez Butler &, 15008 Ciudad de la Costa, Departamento de Canelones, Uruguay",
     "phone": "+59895530680"
   },
   {

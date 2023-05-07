@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Hyatt House Johannesburg Rosebank",
-    "address": "Corner 5th Street \u0026, Maude St, Sandton, 2031, South Africa",
+    "address": "Corner 5th Street &, Maude St, Sandton, 2031, South Africa",
     "phone": "+27112927000"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "id": 8,
-    "name": "Radisson Hotel \u0026 Convention Centre, Johannesburg, O.R. Tambo",
+    "name": "Radisson Hotel & Convention Centre, Johannesburg, O.R. Tambo",
     "address": "67 Jan Smuts Ave, Westcliff, Johannesburg, 2132, South Africa",
     "phone": "+27114816000"
   },
@@ -92,7 +92,7 @@
   {
     "id": 16,
     "name": "Reef Hotel",
-    "address": "\u0026 Corner, 288 Lilian Ngoyi St, Von Wielligh St, Johannesburg, 2000, South Africa",
+    "address": "& Corner, 288 Lilian Ngoyi St, Von Wielligh St, Johannesburg, 2000, South Africa",
     "phone": "+27113330305"
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "id": 22,
-    "name": "Saxon Hotel, Villas \u0026 Spa",
+    "name": "Saxon Hotel, Villas & Spa",
     "address": "267 Outlook Terrace, Blackheath, Johannesburg, 2195, South Africa",
     "phone": "+27834574666"
   },
@@ -175,7 +175,7 @@
   },
   {
     "id": 30,
-    "name": "Protea Hotel Fire \u0026 Ice! Johannesburg Melrose Arch",
+    "name": "Protea Hotel Fire & Ice! Johannesburg Melrose Arch",
     "address": "47 Nottingham Rd, Kensington, Johannesburg, 2094, South Africa",
     "phone": "+27116160326"
   },
@@ -290,7 +290,7 @@
   {
     "id": 49,
     "name": "@Sandton Hotel",
-    "address": "Nicol Rd \u0026, Skeen Blvd, Bedfordview, Germiston, South Africa",
+    "address": "Nicol Rd &, Skeen Blvd, Bedfordview, Germiston, South Africa",
     "phone": "+27100230504"
   },
   {
@@ -398,7 +398,7 @@
   {
     "id": 67,
     "name": "Hadeda Hall Guest House",
-    "address": "Princess of Wales Terrace Cnr Carse O Gowrie, Sunnyside Dr, \u0026, Johannesburg, 2041, South Africa",
+    "address": "Princess of Wales Terrace Cnr Carse O Gowrie, Sunnyside Dr, &, Johannesburg, 2041, South Africa",
     "phone": "+27116400400"
   },
   {
@@ -422,7 +422,7 @@
   {
     "id": 71,
     "name": "Over The Moon Guesthouse",
-    "address": "Crn Tyrwhitt\u0026Sturdee Ave, Rosebank, Johannesburg, 2196, South Africa",
+    "address": "Crn Tyrwhitt&Sturdee Ave, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27114483600"
   },
   {
@@ -434,7 +434,7 @@
   {
     "id": 73,
     "name": "Garden Top Hotel",
-    "address": "Corner of Carr \u0026, Miriam Makeba St, Newtown, Johannesburg, 2001, South Africa",
+    "address": "Corner of Carr &, Miriam Makeba St, Newtown, Johannesburg, 2001, South Africa",
     "phone": "+27100650700"
   },
   {
@@ -458,7 +458,7 @@
   {
     "id": 77,
     "name": "Foxwood House",
-    "address": "Corner of Carr \u0026, Miriam Makeba St, Newtown, Johannesburg, 2001, South Africa",
+    "address": "Corner of Carr &, Miriam Makeba St, Newtown, Johannesburg, 2001, South Africa",
     "phone": "+27100650700"
   },
   {
@@ -487,7 +487,7 @@
   },
   {
     "id": 82,
-    "name": "Sunbury Bed \u0026 Breakfast - Melville Accommodation",
+    "name": "Sunbury Bed & Breakfast - Melville Accommodation",
     "address": "125 Ann Cres, Simba, Sandton, 2132, South Africa",
     "phone": "+27106011234"
   },
@@ -506,7 +506,7 @@
   {
     "id": 85,
     "name": "MINT Apartments Greenside",
-    "address": "39 Tyrwhitt Avenue Corner Oxford Road \u0026, Tyrwhitt Ave, Rosebank, Johannesburg, 2121, South Africa",
+    "address": "39 Tyrwhitt Avenue Corner Oxford Road &, Tyrwhitt Ave, Rosebank, Johannesburg, 2121, South Africa",
     "phone": "+27118802989"
   },
   {
@@ -517,7 +517,7 @@
   },
   {
     "id": 87,
-    "name": "Grand View Bed \u0026 Breakfast",
+    "name": "Grand View Bed & Breakfast",
     "address": "Melrose Arch Precinct, 22 Whiteley Rd, Johannesburg, 2076, South Africa",
     "phone": "+27112184000"
   },
@@ -626,7 +626,7 @@
   {
     "id": 105,
     "name": "The Grillhouse Rosebank",
-    "address": "1, The Firs, Hyatt Centre, Oxford Road \u0026 Biermann Avenue, Rosebank, Johannesburg, 2196, South Africa",
+    "address": "1, The Firs, Hyatt Centre, Oxford Road & Biermann Avenue, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27118803945"
   },
   {
@@ -716,7 +716,7 @@
   {
     "id": 120,
     "name": "Emzini Restaurant",
-    "address": "Barry Hertzog Avenue \u0026 Gleneagles Rd, Greenside, Johannesburg, 2034, South Africa",
+    "address": "Barry Hertzog Avenue & Gleneagles Rd, Greenside, Johannesburg, 2034, South Africa",
     "phone": "+27116468740"
   },
   {
@@ -799,8 +799,8 @@
   },
   {
     "id": 134,
-    "name": "ODUDUWA RESTAURANT \u0026 AFRICAN FOOD",
-    "address": "Corner 4th Avenue \u0026 7th Avenue, Randburg, 2193, South Africa",
+    "name": "ODUDUWA RESTAURANT & AFRICAN FOOD",
+    "address": "Corner 4th Avenue & 7th Avenue, Randburg, 2193, South Africa",
     "phone": "+27109001363"
   },
   {
@@ -812,7 +812,7 @@
   {
     "id": 136,
     "name": "Calisto's",
-    "address": "Shop 180, Cnr Fox \u0026, Gandhi Square, Metropolitan Building, Rissik St, Marshalltown, Johannesburg, 2107, South Africa",
+    "address": "Shop 180, Cnr Fox &, Gandhi Square, Metropolitan Building, Rissik St, Marshalltown, Johannesburg, 2107, South Africa",
     "phone": "+27114921100"
   },
   {
@@ -835,13 +835,13 @@
   },
   {
     "id": 140,
-    "name": "The Bigmouth Sushi \u0026 Grill",
-    "address": "36, Village View Shopping Centre, Kloof Rd \u0026, Van Buuren Rd, Bedfordview, Johannesburg, 2007, South Africa",
+    "name": "The Bigmouth Sushi & Grill",
+    "address": "36, Village View Shopping Centre, Kloof Rd &, Van Buuren Rd, Bedfordview, Johannesburg, 2007, South Africa",
     "phone": "+27114502242"
   },
   {
     "id": 141,
-    "name": "Momo \u0026O",
+    "name": "Momo &O",
     "address": "44 Stanley Ave, Milpark, Johannesburg, 2092, South Africa",
     "phone": "+27114827795"
   },
@@ -854,7 +854,7 @@
   {
     "id": 143,
     "name": "Del Sol Restaurant",
-    "address": "William Nicol Dr \u0026 Republic Rd, Driefontein 41-Ir, Johannesburg, 2074, South Africa",
+    "address": "William Nicol Dr & Republic Rd, Driefontein 41-Ir, Johannesburg, 2074, South Africa",
     "phone": "+27119983341"
   },
   {
@@ -878,13 +878,13 @@
   {
     "id": 147,
     "name": "Chef Micky’s Thai Dining",
-    "address": "24 4th Avenue, \u0026, 10th St, Parkhurst, Johannesburg, 2193, South Africa",
+    "address": "24 4th Avenue, &, 10th St, Parkhurst, Johannesburg, 2193, South Africa",
     "phone": "244102193"
   },
   {
     "id": 148,
     "name": "Thava Indian Restaurant",
-    "address": "Cnr Ernest Oppenheimer Rd \u0026 Marcia St, The, Marcia St, Bruma, Johannesburg, 2026, South Africa",
+    "address": "Cnr Ernest Oppenheimer Rd & Marcia St, The, Marcia St, Bruma, Johannesburg, 2026, South Africa",
     "phone": "+27814825425"
   },
   {
@@ -919,7 +919,7 @@
   },
   {
     "id": 154,
-    "name": "Franco's Pizzeria \u0026 Trattoria",
+    "name": "Franco's Pizzeria & Trattoria",
     "address": "Simmonds St, Johannesburg, 2001, South Africa",
     "phone": "+27114034400"
   },
@@ -950,7 +950,7 @@
   {
     "id": 159,
     "name": "Aroma Restaurant - Authentic Indian Cuisine",
-    "address": "S Rand Rd \u0026, Johan Meyer St, Linmeyer, Johannesburg South, 2001, South Africa",
+    "address": "S Rand Rd &, Johan Meyer St, Linmeyer, Johannesburg South, 2001, South Africa",
     "phone": "+27114350105"
   },
   {
@@ -967,14 +967,14 @@
   },
   {
     "id": 162,
-    "name": "Africa Cuisine \u0026 Restaurant",
+    "name": "Africa Cuisine & Restaurant",
     "address": "160 Jan Smuts Ave, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27724846138"
   },
   {
     "id": 163,
     "name": "Tonino's Portuguese Restaurant",
-    "address": "264 Fox St \u0026 Barea Raod, City and Suburban, Johannesburg, 2094, South Africa",
+    "address": "264 Fox St & Barea Raod, City and Suburban, Johannesburg, 2094, South Africa",
     "phone": "+27113341982"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "id": 169,
     "name": "Calisto's Portuguese Restaurant Rosebank",
-    "address": "The Avenue \u0026, Grove Rd, The Gardens, Johannesburg, 2192, South Africa",
+    "address": "The Avenue &, Grove Rd, The Gardens, Johannesburg, 2192, South Africa",
     "phone": "+27117282826"
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "id": 175,
     "name": "Salvation Cafe",
-    "address": "Shop No. 13 \u0026 14 Nelson Mandela Square Cnr Maude \u0026, 5th St, Johannesburg, Sandton, 2016, South Africa",
+    "address": "Shop No. 13 & 14 Nelson Mandela Square Cnr Maude &, 5th St, Johannesburg, Sandton, 2016, South Africa",
     "phone": "131452016"
   },
   {
@@ -1057,8 +1057,8 @@
   },
   {
     "id": 177,
-    "name": "Archer Bar \u0026 Eatery Restaurant",
-    "address": "Ivy Rd \u0026, Grant Ave, Norwood, Johannesburg, 2192, South Africa",
+    "name": "Archer Bar & Eatery Restaurant",
+    "address": "Ivy Rd &, Grant Ave, Norwood, Johannesburg, 2192, South Africa",
     "phone": "+27879805843"
   },
   {
@@ -1105,8 +1105,8 @@
   },
   {
     "id": 185,
-    "name": "Arbour Café \u0026 Courtyard",
-    "address": "110 Cnr of Club \u0026, Linksfield Rd, Linksfield, Johannesburg, 2192, South Africa",
+    "name": "Arbour Café & Courtyard",
+    "address": "110 Cnr of Club &, Linksfield Rd, Linksfield, Johannesburg, 2192, South Africa",
     "phone": "+27112641131"
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "id": 187,
     "name": "Rosebank rooftop",
-    "address": "Oaklands Shopping Centre, Pretoria Road \u0026 Victoria street, Oaklands, Johannesburg, 2192, South Africa",
+    "address": "Oaklands Shopping Centre, Pretoria Road & Victoria street, Oaklands, Johannesburg, 2192, South Africa",
     "phone": "+27114831249"
   },
   {
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 190,
-    "name": "Ekhaya Pub \u0026 Restaurant",
+    "name": "Ekhaya Pub & Restaurant",
     "address": "Unit 1, OXFORD MANOR, 196 Oxford Rd, Illovo, JOHANNESBURG, 2196, South Africa",
     "phone": "11962196"
   },
@@ -1154,7 +1154,7 @@
   {
     "id": 193,
     "name": "Saigon Suzy Parkwood",
-    "address": "The Firs Cradock Avenue \u0026, Biermann Ave, Rosebank, Johannesburg, 2196, South Africa",
+    "address": "The Firs Cradock Avenue &, Biermann Ave, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27114472320"
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "id": 195,
     "name": "Piza ē Vino",
-    "address": "110 Cnr of Club \u0026, Linksfield Rd, Linksfield, Johannesburg, 2192, South Africa",
+    "address": "110 Cnr of Club &, Linksfield Rd, Linksfield, Johannesburg, 2192, South Africa",
     "phone": "+27112641131"
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "id": 199,
     "name": "Jambo African Restaurant",
-    "address": "The Firs Cradock Avenue \u0026, Biermann Ave, Rosebank, Johannesburg, 2196, South Africa",
+    "address": "The Firs Cradock Avenue &, Biermann Ave, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27114472320"
   },
   {
@@ -1244,7 +1244,7 @@
   {
     "id": 208,
     "name": "Gandhi Mall",
-    "address": "Rustenburg Rd \u0026 2nd Ave, Victory Park, Johannesburg, 2195, South Africa",
+    "address": "Rustenburg Rd & 2nd Ave, Victory Park, Johannesburg, 2195, South Africa",
     "phone": "+27118880551"
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "id": 221,
     "name": "Balfour Mall",
-    "address": "Cnr of Bellairs Dr \u0026, Sneeuberg St, Glenvista, Johannesburg South, 2091, South Africa",
+    "address": "Cnr of Bellairs Dr &, Sneeuberg St, Glenvista, Johannesburg South, 2091, South Africa",
     "phone": ""
   },
   {
@@ -1358,7 +1358,7 @@
   {
     "id": 227,
     "name": "Piccadilly Centre",
-    "address": "Cnr of John Vorster Rd \u0026, Christiaan de Wet Rd, Radiokop, Johannesburg, 1724, South Africa",
+    "address": "Cnr of John Vorster Rd &, Christiaan de Wet Rd, Radiokop, Johannesburg, 1724, South Africa",
     "phone": "+27114414000"
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "id": 233,
     "name": "Ottawa Mall",
-    "address": "Beyers Naudé Dr \u0026 Milner Road, Johannesburg, 2195, South Africa",
+    "address": "Beyers Naudé Dr & Milner Road, Johannesburg, 2195, South Africa",
     "phone": "+27114414000"
   },
   {
@@ -1442,7 +1442,7 @@
   {
     "id": 241,
     "name": "Oaklands Shopping Centre",
-    "address": "Cnr Beyers Naude Drive \u0026, Willson St, Fairland, 2030, South Africa",
+    "address": "Cnr Beyers Naude Drive &, Willson St, Fairland, 2030, South Africa",
     "phone": "+27112020300"
   },
   {
@@ -1460,7 +1460,7 @@
   {
     "id": 244,
     "name": "Jozi Mall",
-    "address": "c/o Beyers Naude \u0026, Castlehill Dr, Blackheath, Johannesburg, 2195, South Africa",
+    "address": "c/o Beyers Naude &, Castlehill Dr, Blackheath, Johannesburg, 2195, South Africa",
     "phone": "+27116787553"
   },
   {
@@ -1472,7 +1472,7 @@
   {
     "id": 246,
     "name": "Centre Continental Shopping Centre",
-    "address": "Beyers Naudé Dr \u0026 Duiker Ave, Randpark Ridge, Johannesburg, 2156, South Africa",
+    "address": "Beyers Naudé Dr & Duiker Ave, Randpark Ridge, Johannesburg, 2156, South Africa",
     "phone": "+27117953638"
   },
   {
@@ -1568,7 +1568,7 @@
   {
     "id": 262,
     "name": "Ridgeway Mall",
-    "address": "Cnr. Kingsway \u0026 University Rd, Auckland Park, Johannesburg, 2092, South Africa",
+    "address": "Cnr. Kingsway & University Rd, Auckland Park, Johannesburg, 2092, South Africa",
     "phone": "+27114827633"
   },
   {
@@ -1609,8 +1609,8 @@
   },
   {
     "id": 269,
-    "name": "Lyndhurst Place Mall \u0026 Apartments",
-    "address": "Grayston Dr \u0026, Benmore Rd, Benmore Gardens, Johannesburg, 2196, South Africa",
+    "name": "Lyndhurst Place Mall & Apartments",
+    "address": "Grayston Dr &, Benmore Rd, Benmore Gardens, Johannesburg, 2196, South Africa",
     "phone": "+27100451621"
   },
   {
@@ -1634,13 +1634,13 @@
   {
     "id": 273,
     "name": "Heathway Centre",
-    "address": "Cnr Athol Oaklands Rd \u0026, Fort St, Johannesburg, 2196, South Africa",
+    "address": "Cnr Athol Oaklands Rd &, Fort St, Johannesburg, 2196, South Africa",
     "phone": "+27108805263"
   },
   {
     "id": 274,
     "name": "Honey Crest Shopping Centre",
-    "address": "Barry Hertzog Ave \u0026, Napier Rd, Richmond, Johannesburg, 2092, South Africa",
+    "address": "Barry Hertzog Ave &, Napier Rd, Richmond, Johannesburg, 2092, South Africa",
     "phone": "+27123617970"
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "id": 279,
     "name": "The Matrix",
-    "address": "Bedfordvillage Shopping Centre Van Buuren Rd \u0026 Nicol Road, Bedfordview, Bedfordview, Johannesburg, 2007, South Africa",
+    "address": "Bedfordvillage Shopping Centre Van Buuren Rd & Nicol Road, Bedfordview, Bedfordview, Johannesburg, 2007, South Africa",
     "phone": "+27114500415"
   },
   {
@@ -1748,13 +1748,13 @@
   {
     "id": 292,
     "name": "Honeydew Village",
-    "address": "Athol Road \u0026, Johannesburg Rd, Highlands North, Johannesburg, 2037, South Africa",
+    "address": "Athol Road &, Johannesburg Rd, Highlands North, Johannesburg, 2037, South Africa",
     "phone": "+27117860538"
   },
   {
     "id": 293,
     "name": "Comaro Crossing",
-    "address": "Cnr. Alamein Road \u0026, Landsborough St, Southdale, Johannesburg, South Africa",
+    "address": "Cnr. Alamein Road &, Landsborough St, Southdale, Johannesburg, South Africa",
     "phone": "+27114334393"
   },
   {
@@ -1778,31 +1778,31 @@
   {
     "id": 297,
     "name": "Southgate Mall",
-    "address": "Cnr Cumberland \u0026, Park Meadows Shopping Centre, Allum Rd, Kensington, Johannesburg, 2091, South Africa",
+    "address": "Cnr Cumberland &, Park Meadows Shopping Centre, Allum Rd, Kensington, Johannesburg, 2091, South Africa",
     "phone": "+27116773992"
   },
   {
     "id": 298,
     "name": "Glenvista Shopping Centre",
-    "address": "Athol Road \u0026, Johannesburg Rd, Highlands North, Johannesburg, 2037, South Africa",
+    "address": "Athol Road &, Johannesburg Rd, Highlands North, Johannesburg, 2037, South Africa",
     "phone": "+27117860538"
   },
   {
     "id": 299,
     "name": "28° North Shopping Centre",
-    "address": "Cnr Cumberland \u0026, Park Meadows Shopping Centre, Allum Rd, Kensington, Johannesburg, 2091, South Africa",
+    "address": "Cnr Cumberland &, Park Meadows Shopping Centre, Allum Rd, Kensington, Johannesburg, 2091, South Africa",
     "phone": "+27116773992"
   },
   {
     "id": 300,
     "name": "Newtown Mall",
-    "address": "Cnr. Alamein Road \u0026, Landsborough St, Southdale, Johannesburg, South Africa",
+    "address": "Cnr. Alamein Road &, Landsborough St, Southdale, Johannesburg, South Africa",
     "phone": "+27114334393"
   },
   {
     "id": 301,
     "name": "Medical one shopping center bedding",
-    "address": "Cnr Valley Rd \u0026, Queens St, Modderfontein, Johannesburg, 1645, South Africa",
+    "address": "Cnr Valley Rd &, Queens St, Modderfontein, Johannesburg, 1645, South Africa",
     "phone": "+27119071700"
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "id": 309,
     "name": "Museum Africa",
-    "address": "Northern Pkwy \u0026 Data Cres, Johannesburg, 2159, South Africa",
+    "address": "Northern Pkwy & Data Cres, Johannesburg, 2159, South Africa",
     "phone": "+27112485000"
   },
   {
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 313,
-    "name": "James \u0026 Ethel Gray Park",
+    "name": "James & Ethel Gray Park",
     "address": "Planetarium, 1 Jan Smuts Ave, Braamfontein Werf, Johannesburg, 2000, South Africa",
     "phone": "+27117171390"
   },
@@ -1915,7 +1915,7 @@
   },
   {
     "id": 320,
-    "name": "Johannesburg Holocaust \u0026 Genocide Centre",
+    "name": "Johannesburg Holocaust & Genocide Centre",
     "address": "50 Bath Ave, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27647354224"
   },
@@ -1934,7 +1934,7 @@
   {
     "id": 323,
     "name": "Mining District",
-    "address": "Harris St \u0026, Katherine St, Barlow Park, Sandton, South Africa",
+    "address": "Harris St &, Katherine St, Barlow Park, Sandton, South Africa",
     "phone": "+27117126600"
   },
   {
@@ -1976,7 +1976,7 @@
   {
     "id": 330,
     "name": "Absa Money Museum",
-    "address": "Corner of Valley Rd \u0026, Johannesburg Rd, Modderfontein, Lethabong, 1609, South Africa",
+    "address": "Corner of Valley Rd &, Johannesburg Rd, Modderfontein, Lethabong, 1609, South Africa",
     "phone": "+27725440415"
   },
   {
@@ -2065,7 +2065,7 @@
   },
   {
     "id": 345,
-    "name": "Rosebank Art \u0026 Craft Market",
+    "name": "Rosebank Art & Craft Market",
     "address": "Oxford Rd, Rosebank, Johannesburg, 2196, South Africa",
     "phone": "+27100090095"
   },
@@ -2126,7 +2126,7 @@
   {
     "id": 355,
     "name": "George Hay Park",
-    "address": "York Rd \u0026, Carse O'Gowrie Rd, Parktown, Johannesburg, 2193, South Africa",
+    "address": "York Rd &, Carse O'Gowrie Rd, Parktown, Johannesburg, 2193, South Africa",
     "phone": "+27117172081"
   },
   {
@@ -2210,19 +2210,19 @@
   {
     "id": 369,
     "name": "Kim Sacks Gallery and Ceramics Craft Art School",
-    "address": "Fox St \u0026 Ferreira St, Marshalltown, Johannesburg, 2001, South Africa",
+    "address": "Fox St & Ferreira St, Marshalltown, Johannesburg, 2001, South Africa",
     "phone": ""
   },
   {
     "id": 370,
     "name": "Johannesburg",
-    "address": "264 Fox St \u0026, Berea Rd, Maboneng, Johannesburg, 2094, South Africa",
+    "address": "264 Fox St &, Berea Rd, Maboneng, Johannesburg, 2094, South Africa",
     "phone": ""
   },
   {
     "id": 371,
     "name": "Sandton Market @ The Park",
-    "address": "264 Fox St \u0026, Berea Rd, Maboneng, Johannesburg, 2094, South Africa",
+    "address": "264 Fox St &, Berea Rd, Maboneng, Johannesburg, 2094, South Africa",
     "phone": ""
   },
   {
@@ -2234,7 +2234,7 @@
   {
     "id": 373,
     "name": "Johannesburg Botanical Gardens Thomas Bowler parking",
-    "address": "Yale Road \u0026, 1 Enoch Sontonga Ave, Braamfontein, Johannesburg, 2000, South Africa",
+    "address": "Yale Road &, 1 Enoch Sontonga Ave, Braamfontein, Johannesburg, 2000, South Africa",
     "phone": "+27117174700"
   },
   {
@@ -2276,19 +2276,19 @@
   {
     "id": 380,
     "name": "Planetarium",
-    "address": "Edgewood Avenue \u0026, Melrose St, Melrose, Johannesburg, 2000, South Africa",
+    "address": "Edgewood Avenue &, Melrose St, Melrose, Johannesburg, 2000, South Africa",
     "phone": "+27114354727"
   },
   {
     "id": 381,
-    "name": "Sonnekus Boutique Hotel \u0026 Bistro",
-    "address": "Dock Rd \u0026, Alfred St, Victoria \u0026 Alfred Waterfront, Cape Town, 8012, South Africa",
+    "name": "Sonnekus Boutique Hotel & Bistro",
+    "address": "Dock Rd &, Alfred St, Victoria & Alfred Waterfront, Cape Town, 8012, South Africa",
     "phone": "+27214199450"
   },
   {
     "id": 382,
     "name": "Century City Hotel Urban Square",
-    "address": "PierHead, V\u0026A Complex, Dock Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "PierHead, V&A Complex, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214196677"
   },
   {
@@ -2311,19 +2311,19 @@
   },
   {
     "id": 386,
-    "name": "Victoria \u0026 Alfred Hotel Cape Town",
+    "name": "Victoria & Alfred Hotel Cape Town",
     "address": "Corner Of Century Boulevard And, Rialto Rd, Century City, Cape Town, 7441, South Africa",
     "phone": "+27215253888"
   },
   {
     "id": 387,
-    "name": "City Lodge Hotel V\u0026A Waterfront",
+    "name": "City Lodge Hotel V&A Waterfront",
     "address": "3 Energy Ln, Century City, Cape Town, 7446, South Africa",
     "phone": "+27212048000"
   },
   {
     "id": 388,
-    "name": "Kloof Street Hotel - Lion Roars Hotels \u0026 Lodges",
+    "name": "Kloof Street Hotel - Lion Roars Hotels & Lodges",
     "address": "Breakwater Lane Harbour Island Gordons Bay, Central, Cape Town, 7140, South Africa",
     "phone": "+27218407500"
   },
@@ -2359,7 +2359,7 @@
   },
   {
     "id": 394,
-    "name": "Radisson Blu Hotel \u0026 Residence, Cape Town",
+    "name": "Radisson Blu Hotel & Residence, Cape Town",
     "address": "4 Rosmead Ave, Gardens, Cape Town, 8001, South Africa",
     "phone": "+27214803810"
   },
@@ -2371,19 +2371,19 @@
   },
   {
     "id": 396,
-    "name": "Lagoon Beach Hotel \u0026 Spa",
+    "name": "Lagoon Beach Hotel & Spa",
     "address": "and, Corner of Century Way, Ratanga Rd, Century City, Cape Town, 7441, South Africa",
     "phone": "+27215264000"
   },
   {
     "id": 397,
-    "name": "One\u0026Only Cape Town",
+    "name": "One&Only Cape Town",
     "address": "2 Nicol St, Gardens, Cape Town, 8000, South Africa",
     "phone": "+27214875660"
   },
   {
     "id": 398,
-    "name": "Radisson RED V\u0026A Waterfront, Cape Town",
+    "name": "Radisson RED V&A Waterfront, Cape Town",
     "address": "5 Montrose Ave, Oranjezicht, Cape Town, 8001, South Africa",
     "phone": "+27720715433"
   },
@@ -2420,7 +2420,7 @@
   {
     "id": 404,
     "name": "The Onyx Apartment Hotel, Cape Town",
-    "address": "Corner Of Orange Street \u0026 Grey's Pass, Gardens, Cape Town, 8001, South Africa",
+    "address": "Corner Of Orange Street & Grey's Pass, Gardens, Cape Town, 8001, South Africa",
     "phone": "+27214698000"
   },
   {
@@ -2462,13 +2462,13 @@
   {
     "id": 411,
     "name": "185 on Beach Boutique Suites and Apartments",
-    "address": "GrandWest Casino \u0026 Entertainment World, Jakes Gerwel Dr, Goodwood, Cape Town, 7475, South Africa",
+    "address": "GrandWest Casino & Entertainment World, Jakes Gerwel Dr, Goodwood, Cape Town, 7475, South Africa",
     "phone": "+27215353611"
   },
   {
     "id": 412,
     "name": "The Hyde Hotel",
-    "address": "Ridge, 5 Portswood Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Ridge, 5 Portswood Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214181466"
   },
   {
@@ -2564,7 +2564,7 @@
   {
     "id": 428,
     "name": "The Tree House Boutique Hotel",
-    "address": "\u0026 St George's Mall, 101 St. George's Mall Cnr, Church St, Cape Town, 8001, South Africa",
+    "address": "& St George's Mall, 101 St. George's Mall Cnr, Church St, Cape Town, 8001, South Africa",
     "phone": "+27214808300"
   },
   {
@@ -2606,13 +2606,13 @@
   {
     "id": 435,
     "name": "Erinvale Estate Hotel and Spa",
-    "address": "Portswood Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Portswood Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214061911"
   },
   {
     "id": 436,
     "name": "Mount Nelson, A Belmond Hotel, Cape Town",
-    "address": "Portswood Square, Portswood Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Portswood Square, Portswood Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214183281"
   },
   {
@@ -2683,7 +2683,7 @@
   },
   {
     "id": 448,
-    "name": "The Rockefeller Hotel \u0026 Residence Cape Town",
+    "name": "The Rockefeller Hotel & Residence Cape Town",
     "address": "31b Heerengracht St, Cape Town City Centre, Cape Town, 8000, South Africa",
     "phone": "+27870125722"
   },
@@ -2708,7 +2708,7 @@
   {
     "id": 452,
     "name": "The Cape Milner",
-    "address": "Silo Square, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Silo Square, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27216700500"
   },
   {
@@ -2719,7 +2719,7 @@
   },
   {
     "id": 454,
-    "name": "The Glen Boutique Hotel \u0026 Spa",
+    "name": "The Glen Boutique Hotel & Spa",
     "address": "5 Upper Union St, Gardens, Cape Town, 8001, South Africa",
     "phone": "+27214808080"
   },
@@ -2756,12 +2756,12 @@
   {
     "id": 460,
     "name": "Road Lodge Cape Town International Airport",
-    "address": "Silo Square, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Silo Square, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27216700500"
   },
   {
     "id": 461,
-    "name": "Cloud 9 Boutique Hotel \u0026 Spa",
+    "name": "Cloud 9 Boutique Hotel & Spa",
     "address": "180 Kloof Rd, Bantry Bay, Cape Town, 8005, South Africa",
     "phone": "+27214303200"
   },
@@ -2816,12 +2816,12 @@
   {
     "id": 470,
     "name": "Cape Diamond Boutique Hotel",
-    "address": "W Quay Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "W Quay Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214107100"
   },
   {
     "id": 471,
-    "name": "Protea Hotel Fire \u0026 Ice! Cape Town",
+    "name": "Protea Hotel Fire & Ice! Cape Town",
     "address": "1 Marais Rd, Sea Point, Cape Town, 8005, South Africa",
     "phone": "+27214303400"
   },
@@ -2834,18 +2834,18 @@
   {
     "id": 473,
     "name": "Signature Lux Hotel by ONOMO Foreshore",
-    "address": "Portswood Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8002, South Africa",
+    "address": "Portswood Rd, Victoria & Alfred Waterfront, Cape Town, 8002, South Africa",
     "phone": "+27214151000"
   },
   {
     "id": 474,
-    "name": "Old Bank Hotel - Lion Roars Hotels \u0026 Lodges",
+    "name": "Old Bank Hotel - Lion Roars Hotels & Lodges",
     "address": "1 Marais Rd, Sea Point, Cape Town, 8005, South Africa",
     "phone": "+27214303400"
   },
   {
     "id": 475,
-    "name": "Steenberg Hotel \u0026 Spa",
+    "name": "Steenberg Hotel & Spa",
     "address": "57 Heerengracht St, Cape Town City Centre, Cape Town, 8001, South Africa",
     "phone": "+27212056699"
   },
@@ -2870,19 +2870,19 @@
   {
     "id": 479,
     "name": "Rutland Lodge",
-    "address": "No. 6, Silo, Silo Square, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "No. 6, Silo, Silo Square, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27870861578"
   },
   {
     "id": 480,
-    "name": "O on Kloof Boutique Hotel \u0026 Spa",
+    "name": "O on Kloof Boutique Hotel & Spa",
     "address": "Convention Square, Lower Long St, Cape Town, 8000, South Africa",
     "phone": "+27214129999"
   },
   {
     "id": 481,
     "name": "StayEasy Cape Town City Bowl",
-    "address": "One\u0026Only Cape Town, Dock Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "One&Only Cape Town, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214315888"
   },
   {
@@ -2905,7 +2905,7 @@
   },
   {
     "id": 485,
-    "name": "Grub \u0026 Vine",
+    "name": "Grub & Vine",
     "address": "Silvermist Wine Estate, Main Road, Constantia Nek, Cape Town, 7806, South Africa",
     "phone": "+27217942390"
   },
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 491,
-    "name": "SeaBreeze Fish \u0026 Shell",
+    "name": "SeaBreeze Fish & Shell",
     "address": "57A Somerset Rd, Green Point, Cape Town, 8051, South Africa",
     "phone": "+27214214848"
   },
@@ -2995,19 +2995,19 @@
   },
   {
     "id": 500,
-    "name": "Mozambik V \u0026 A Waterfront",
-    "address": "Quay, 4 Dock Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "name": "Mozambik V & A Waterfront",
+    "address": "Quay, 4 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214192008"
   },
   {
     "id": 501,
     "name": "Dash Restaurant Cape Town",
-    "address": "Kloof Nek Rd \u0026, Burnside Rd, Gardens, Cape Town, 8001, South Africa",
+    "address": "Kloof Nek Rd &, Burnside Rd, Gardens, Cape Town, 8001, South Africa",
     "phone": "+27214260795"
   },
   {
     "id": 502,
-    "name": "Clarke's Bar \u0026 Dining Room",
+    "name": "Clarke's Bar & Dining Room",
     "address": "1 Wale St, St Georges Mall, Cape Town City Centre, Cape Town, South Africa",
     "phone": "+27218192000"
   },
@@ -3026,7 +3026,7 @@
   {
     "id": 505,
     "name": "NV-80",
-    "address": "Cnr Kenilworth \u0026 Wessel Roads, 51 Kenilworth Rd, Kenilworth, Cape Town, 7708, South Africa",
+    "address": "Cnr Kenilworth & Wessel Roads, 51 Kenilworth Rd, Kenilworth, Cape Town, 7708, South Africa",
     "phone": "+27216831423"
   },
   {
@@ -3044,12 +3044,12 @@
   {
     "id": 508,
     "name": "Thali Restaurant",
-    "address": "Shop 155, 19 Breakwater Blvd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Shop 155, 19 Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "155198001"
   },
   {
     "id": 509,
-    "name": "Tjing Tjing House (Rooftop Bar, Torii Restaurant, Momiji Restaurant \u0026 Lounge, Mochi Mochi)",
+    "name": "Tjing Tjing House (Rooftop Bar, Torii Restaurant, Momiji Restaurant & Lounge, Mochi Mochi)",
     "address": "100 Shortmarket St, Cape Town City Centre, Cape Town, 8000, South Africa",
     "phone": ""
   },
@@ -3098,7 +3098,7 @@
   {
     "id": 517,
     "name": "Beyond Restaurant",
-    "address": "One\u0026Only Cape Town, Dock Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "One&Only Cape Town, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214315888"
   },
   {
@@ -3134,13 +3134,13 @@
   {
     "id": 523,
     "name": "Cafe Sante (Bar - Restaurant)",
-    "address": "2 Wale St \u0026 Pentz St Bo-Kaap, Schotsche Kloof, Cape Town, 8000, South Africa",
+    "address": "2 Wale St & Pentz St Bo-Kaap, Schotsche Kloof, Cape Town, 8000, South Africa",
     "phone": "+27214230850"
   },
   {
     "id": 524,
     "name": "Tryn",
-    "address": "V\u0026A Waterfront, 9 Breakwater Blvd, Victoria \u0026 Alfred Waterfront, Cape Town, 7764, South Africa",
+    "address": "V&A Waterfront, 9 Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 7764, South Africa",
     "phone": "+27218796329"
   },
   {
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "Gigi Rooftop Restaurant \u0026 Bar at the Gorgeous George Hotel",
+    "name": "Gigi Rooftop Restaurant & Bar at the Gorgeous George Hotel",
     "address": "Groot Constantia Wine Estate, Groot Constantia Rd, Constantia, Cape Town, 7806, South Africa",
     "phone": "+27217941143"
   },
@@ -3164,7 +3164,7 @@
   {
     "id": 528,
     "name": "La Perla Restaurant Cape Town",
-    "address": "Shop 156 Breakwater Blvd, Victoria \u0026 Alfred Waterfront, Cape Town, 8002, South Africa",
+    "address": "Shop 156 Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8002, South Africa",
     "phone": "+27214217005"
   },
   {
@@ -3265,7 +3265,7 @@
   },
   {
     "id": 545,
-    "name": "La Boheme Wine Bar \u0026 Bistro",
+    "name": "La Boheme Wine Bar & Bistro",
     "address": "289 Long St, Cape Town City Centre, Cape Town, 8000, South Africa",
     "phone": "+27788463656"
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "id": 553,
-    "name": "Vigour \u0026 Verve Cape Town",
+    "name": "Vigour & Verve Cape Town",
     "address": "20 Cobern St, De Waterkant, Cape Town, 8001, South Africa",
     "phone": "+27214181462"
   },
@@ -3332,13 +3332,13 @@
   {
     "id": 556,
     "name": "Blanko",
-    "address": "Shop G01 Clocktower Building, S Arm Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "Shop G01 Clocktower Building, S Arm Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27664303391"
   },
   {
     "id": 557,
     "name": "Simon's Restaurant",
-    "address": "1st Floor, Cruise Terminal, Duncan Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "1st Floor, Cruise Terminal, Duncan Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214182948"
   },
   {
@@ -3361,7 +3361,7 @@
   },
   {
     "id": 561,
-    "name": "Dunes Beach Restaurant \u0026 Bar",
+    "name": "Dunes Beach Restaurant & Bar",
     "address": "Steenberg Rd, Tokai, Cape Town, 7945, South Africa",
     "phone": "+27217137178"
   },
@@ -3373,7 +3373,7 @@
   },
   {
     "id": 563,
-    "name": "Burger \u0026 Lobster",
+    "name": "Burger & Lobster",
     "address": "70 Keerom St, Cape Town City Centre, Cape Town, 8000, South Africa",
     "phone": "+27214243460"
   },
@@ -3464,31 +3464,31 @@
   {
     "id": 578,
     "name": "Rick's Cafe Americain",
-    "address": "1 Dock Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "1 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214183003"
   },
   {
     "id": 579,
     "name": "Ninety One - Indian Restaurant",
-    "address": "1 Dock Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "address": "1 Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214183003"
   },
   {
     "id": 580,
-    "name": "Mint Restaurant \u0026 Terrace",
+    "name": "Mint Restaurant & Terrace",
     "address": "133 Bree St, Cape Town City Centre, Cape Town, 8001, South Africa",
     "phone": "+27874700165"
   },
   {
     "id": 581,
-    "name": "JARRYDS Brunch \u0026 Bistro",
-    "address": "W Quay Rd, Victoria \u0026 Alfred Waterfront, Cape Town, 8001, South Africa",
+    "name": "JARRYDS Brunch & Bistro",
+    "address": "W Quay Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
     "phone": "+27214107100"
   },
   {
     "id": 582,
     "name": "Beleza Restaurant (Casa Patrão Beleza)",
-    "address": "Moorings 5 \u0026 Portswood Ridge, 5 Portswood Rd, Cape Town, 8001, South Africa",
+    "address": "Moorings 5 & Portswood Ridge, 5 Portswood Rd, Cape Town, 8001, South Africa",
     "phone": "+27214181466"
   },
   {
@@ -3500,7 +3500,7 @@
   {
     "id": 584,
     "name": "Veranda Restaurant/M Cafe (Cape Town)",
-    "address": "Shop 8, Quay 5, V \u0026 A Waterfront, Dock Rd, Waterfront, Cape Town, 8002, South Africa",
+    "address": "Shop 8, Quay 5, V & A Waterfront, Dock Rd, Waterfront, Cape Town, 8002, South Africa",
     "phone": "+27210230345"
   },
   {
@@ -3517,7 +3517,7 @@
   },
   {
     "id": 587,
-    "name": "Southern Sun Elangeni \u0026 Maharani",
+    "name": "Southern Sun Elangeni & Maharani",
     "address": "73 Marine Parade, South Beach, Durban, 4001, South Africa",
     "phone": "+27313372231"
   },
@@ -3727,7 +3727,7 @@
   },
   {
     "id": 622,
-    "name": "Mandalay Bed \u0026 Breakfast and Conference",
+    "name": "Mandalay Bed & Breakfast and Conference",
     "address": "441 Marine Dr, Ocean View, Bluff, 4052, South Africa",
     "phone": "+27314670556"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "id": 628,
-    "name": "All Seasons B\u0026B",
+    "name": "All Seasons B&B",
     "address": "Ambassador House, 55 Monty Naicker Rd, South Beach, Durban, 4001, South Africa",
     "phone": "+27729970284"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "id": 640,
-    "name": "African Peninsula Guest House \u0026 Restaurant",
+    "name": "African Peninsula Guest House & Restaurant",
     "address": "108 West St, South Beach, Durban, 4001, South Africa",
     "phone": "+27313320531"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "id": 656,
-    "name": "Bentley Lodge \u0026 Lifestyle Centre",
+    "name": "Bentley Lodge & Lifestyle Centre",
     "address": "211 Marine Parade, South Beach, Durban, 4001, South Africa",
     "phone": "+27317019999"
   },
@@ -3956,7 +3956,7 @@
   {
     "id": 660,
     "name": "FJ's place",
-    "address": "Braam Fischer \u0026, KE Masinga Rd, Durban Central, Durban, 4056, South Africa",
+    "address": "Braam Fischer &, KE Masinga Rd, Durban Central, Durban, 4056, South Africa",
     "phone": "+27313048202"
   },
   {
@@ -3973,7 +3973,7 @@
   },
   {
     "id": 663,
-    "name": "from R590/room Acorn B \u0026 B in Durban",
+    "name": "from R590/room Acorn B & B in Durban",
     "address": "630 Stephen Dlamini Rd, Essenwood, Durban, 4001, South Africa",
     "phone": "+27814467836"
   },
@@ -3991,7 +3991,7 @@
   },
   {
     "id": 666,
-    "name": "Beechwood B\u0026B",
+    "name": "Beechwood B&B",
     "address": "201 10th Ave, Windermere, Durban, 4001, South Africa",
     "phone": "201104001"
   },
@@ -4003,19 +4003,19 @@
   },
   {
     "id": 668,
-    "name": "A Place of Grace B\u0026B and Self-Catering",
+    "name": "A Place of Grace B&B and Self-Catering",
     "address": "8 Tudor Pl, Musgrave, Durban, 4001, South Africa",
     "phone": "+27813228963"
   },
   {
     "id": 669,
-    "name": "Goble Palms Guest Lodge \u0026 Urban Retreat",
+    "name": "Goble Palms Guest Lodge & Urban Retreat",
     "address": "16 Erskine Terrace, Point, Durban, 4001, South Africa",
     "phone": "+27313321140"
   },
   {
     "id": 670,
-    "name": "Singatha Guesthouse \u0026 Conference Centre",
+    "name": "Singatha Guesthouse & Conference Centre",
     "address": "85 Marine Parade, South Beach, Durban, 4001, South Africa",
     "phone": "+27313681511"
   },
@@ -4051,7 +4051,7 @@
   },
   {
     "id": 676,
-    "name": "Ridgeview Lodge - Bed \u0026 Breakfast",
+    "name": "Ridgeview Lodge - Bed & Breakfast",
     "address": "11 8th Ave, Windermere, Durban, 4001, South Africa",
     "phone": "+27313034991"
   },
@@ -4093,7 +4093,7 @@
   },
   {
     "id": 683,
-    "name": "Sica's Musgrave Bed \u0026 Breakfast",
+    "name": "Sica's Musgrave Bed & Breakfast",
     "address": "5 Mahatma Gandhi Rd, Point, Durban, 4001, South Africa",
     "phone": "+27828172957"
   },
@@ -4106,7 +4106,7 @@
   {
     "id": 685,
     "name": "Pastel Guest house bed and breakfast self catering",
-    "address": "191 O R Tambo Parade \u0026, Marine Parade, North Beach, Durban, 4056, South Africa",
+    "address": "191 O R Tambo Parade &, Marine Parade, North Beach, Durban, 4056, South Africa",
     "phone": "+27313374565"
   },
   {
@@ -4136,7 +4136,7 @@
   {
     "id": 690,
     "name": "9th Avenue Waterside",
-    "address": "Southern Sun Elangeni \u0026 Maharani, 63 Snell Parade, North Beach, Durban, 4001, South Africa",
+    "address": "Southern Sun Elangeni & Maharani, 63 Snell Parade, North Beach, Durban, 4001, South Africa",
     "phone": "+27313621300"
   },
   {
@@ -4153,7 +4153,7 @@
   },
   {
     "id": 693,
-    "name": "Dukkah Restaurant \u0026 Bar",
+    "name": "Dukkah Restaurant & Bar",
     "address": "1 King Shaka Ave, Point, Durban, 4001, South Africa",
     "phone": "+27313288037"
   },
@@ -4183,7 +4183,7 @@
   },
   {
     "id": 698,
-    "name": "Vigour \u0026 Verve Durban",
+    "name": "Vigour & Verve Durban",
     "address": "Shop 4 Silvervause Centre, Silverton Rd, Berea, Durban, 4001, South Africa",
     "phone": "+27312026182"
   },
@@ -4291,7 +4291,7 @@
   },
   {
     "id": 716,
-    "name": "Gounden's Restaurant \u0026 Take Away",
+    "name": "Gounden's Restaurant & Take Away",
     "address": "124 Florida Rd, Morningside, Durban, 4001, South Africa",
     "phone": "+27313032846"
   },
@@ -4357,7 +4357,7 @@
   },
   {
     "id": 727,
-    "name": "007 African Bar \u0026 Restaurant",
+    "name": "007 African Bar & Restaurant",
     "address": "1 Snell Parade, North Beach, Durban, 4063, South Africa",
     "phone": "+27313377700"
   },
@@ -4393,7 +4393,7 @@
   },
   {
     "id": 733,
-    "name": "AuthentiQ Bar\u0026 Restaurant",
+    "name": "AuthentiQ Bar& Restaurant",
     "address": "Shop No.15, Whilsons Whaft Craft Market, 14-18 Boatmans Rd, Albert Park, Durban, 4000, South Africa",
     "phone": "1514184000"
   },
@@ -4429,8 +4429,8 @@
   },
   {
     "id": 739,
-    "name": "Amsterdam Bar \u0026 Grill",
-    "address": "Overport City, Shop 46, 47 \u0026 48, The Atrium, 430 Peter Mokaba Ridge, Berea, Durban, 4001, South Africa",
+    "name": "Amsterdam Bar & Grill",
+    "address": "Overport City, Shop 46, 47 & 48, The Atrium, 430 Peter Mokaba Ridge, Berea, Durban, 4001, South Africa",
     "phone": "4647484304001"
   },
   {
@@ -4441,7 +4441,7 @@
   },
   {
     "id": 741,
-    "name": "Unity Bar \u0026 Brasserie",
+    "name": "Unity Bar & Brasserie",
     "address": "213 Musgrave Rd, Musgrave, Durban, 4001, South Africa",
     "phone": "+27835546475"
   },
@@ -4489,7 +4489,7 @@
   },
   {
     "id": 749,
-    "name": "Clippers Bar \u0026 Restaurant",
+    "name": "Clippers Bar & Restaurant",
     "address": "29 Lennox Rd, Windermere, Berea, 4001, South Africa",
     "phone": "+27786558754"
   },
@@ -4586,7 +4586,7 @@
   {
     "id": 765,
     "name": "Durban Tikka",
-    "address": "Southern Sun Elangeni \u0026 Maharani, 63 Snell Parade, Durban, 4001, South Africa",
+    "address": "Southern Sun Elangeni & Maharani, 63 Snell Parade, Durban, 4001, South Africa",
     "phone": "+27313621300"
   },
   {
@@ -4615,14 +4615,14 @@
   },
   {
     "id": 770,
-    "name": "Bird \u0026 Co. Florida Road",
+    "name": "Bird & Co. Florida Road",
     "address": "56 Lilian Ngoyi Rd, Windermere, Berea, 4001, South Africa",
     "phone": "+27312010194"
   },
   {
     "id": 771,
     "name": "Ocean Basket uShaka Island",
-    "address": "520 Umbilo Rd \u0026, Deodar Ave, Glenwood, Durban, 4001, South Africa",
+    "address": "520 Umbilo Rd &, Deodar Ave, Glenwood, Durban, 4001, South Africa",
     "phone": "+27312055363"
   },
   {
@@ -4652,7 +4652,7 @@
   {
     "id": 776,
     "name": "Coconut Groove",
-    "address": "Southern Sun Elangeni \u0026 Maharani, 63 Snell Parade, North Beach, Durban, 4001, South Africa",
+    "address": "Southern Sun Elangeni & Maharani, 63 Snell Parade, North Beach, Durban, 4001, South Africa",
     "phone": "+27313621300"
   },
   {
@@ -4754,7 +4754,7 @@
   {
     "id": 793,
     "name": "Westwood Mall",
-    "address": "Moore Grove \u0026 Hunt Rd, Glenwood, Durban, 4083, South Africa",
+    "address": "Moore Grove & Hunt Rd, Glenwood, Durban, 4083, South Africa",
     "phone": "+27312010137"
   },
   {
@@ -5132,7 +5132,7 @@
   {
     "id": 856,
     "name": "Croftdene Shopping Centre",
-    "address": "Hinton Place \u0026, Hinton Grove, Virginia, Durban North, South Africa",
+    "address": "Hinton Place &, Hinton Grove, Virginia, Durban North, South Africa",
     "phone": ""
   },
   {
@@ -5504,7 +5504,7 @@
   {
     "id": 918,
     "name": "Dairy Beach",
-    "address": "Cnr. Epsom Rd \u0026 Derby St, Greyville, Durban, 4001, South Africa",
+    "address": "Cnr. Epsom Rd & Derby St, Greyville, Durban, 4001, South Africa",
     "phone": "+27313097559"
   },
   {
@@ -5635,7 +5635,7 @@
   },
   {
     "id": 940,
-    "name": "Tim Brown Tours - Durban Safaris \u0026 Durban Tours",
+    "name": "Tim Brown Tours - Durban Safaris & Durban Tours",
     "address": "Bayhead, Durban, South Africa",
     "phone": ""
   },
@@ -5665,7 +5665,7 @@
   },
   {
     "id": 945,
-    "name": "Umhlanga KZN Sharks Board \u0026 Conference Centre.",
+    "name": "Umhlanga KZN Sharks Board & Conference Centre.",
     "address": "Premier Business Lounge (Station Rooftop, Stamford Hill, Durban, 4001, South Africa",
     "phone": "+27827304917"
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "id": 952,
-    "name": "Durban Cultural \u0026 Documentation Centre",
+    "name": "Durban Cultural & Documentation Centre",
     "address": "North Beach, Durban, South Africa",
     "phone": ""
   },
@@ -5857,13 +5857,13 @@
   },
   {
     "id": 977,
-    "name": "SU CASA B\u0026B",
-    "address": "Nelson Mandela Bay, Marine Dr, Summerstrand, 9th Ave, \u0026, Gqeberha, 6001, South Africa",
+    "name": "SU CASA B&B",
+    "address": "Nelson Mandela Bay, Marine Dr, Summerstrand, 9th Ave, &, Gqeberha, 6001, South Africa",
     "phone": "+27415095000"
   },
   {
     "id": 978,
-    "name": "Beachway B\u0026B",
+    "name": "Beachway B&B",
     "address": "Beach Rd, Summerstrand, Gqeberha, 6019, South Africa",
     "phone": "+27415077777"
   },
@@ -5936,7 +5936,7 @@
   {
     "id": 990,
     "name": "Road Lodge Port Elizabeth",
-    "address": "The Willows Resort \u0026 Conference Centre, Marine Dr, Schoenmakerskop, Gqeberha, 6229, South Africa",
+    "address": "The Willows Resort & Conference Centre, Marine Dr, Schoenmakerskop, Gqeberha, 6229, South Africa",
     "phone": "+27413962000"
   },
   {
@@ -5953,7 +5953,7 @@
   },
   {
     "id": 993,
-    "name": "Singa Lodge - Lion Roars Hotels \u0026 Lodges",
+    "name": "Singa Lodge - Lion Roars Hotels & Lodges",
     "address": "55 Heugh Rd, Walmer, Gqeberha, 6065, South Africa",
     "phone": "+27415818225"
   },
@@ -6025,7 +6025,7 @@
   },
   {
     "id": 1005,
-    "name": "Africa Beach B\u0026B",
+    "name": "Africa Beach B&B",
     "address": "27 La Roche Dr, Humewood, Gqeberha, 6001, South Africa",
     "phone": "+27415859407"
   },
@@ -6037,19 +6037,19 @@
   },
   {
     "id": 1007,
-    "name": "Beachwalk Bed \u0026 Breakfast",
+    "name": "Beachwalk Bed & Breakfast",
     "address": "22 Newton St, Newton Park, Gqeberha, 6055, South Africa",
     "phone": "+27413642322"
   },
   {
     "id": 1008,
-    "name": "The Farmhouse B\u0026B",
+    "name": "The Farmhouse B&B",
     "address": "211 Villiers Rd, Walmer, Gqeberha, 6070, South Africa",
     "phone": "+27640692176"
   },
   {
     "id": 1009,
-    "name": "PineLodge Resort \u0026 Conference Centre",
+    "name": "PineLodge Resort & Conference Centre",
     "address": "29 Millard Cres, Summerstrand, Gqeberha, 6001, South Africa",
     "phone": "+27415833979"
   },
@@ -6163,13 +6163,13 @@
   },
   {
     "id": 1028,
-    "name": "Beachway B\u0026B",
+    "name": "Beachway B&B",
     "address": "10 Cape Rd, Port Elizabeth Central, Gqeberha, 6001, South Africa",
     "phone": "+27413730027"
   },
   {
     "id": 1029,
-    "name": "On the Bay B \u0026 B",
+    "name": "On the Bay B & B",
     "address": "1 Tiran Rd, Summerstrand, Gqeberha, 6019, South Africa",
     "phone": "+27415831361"
   },
@@ -6271,7 +6271,7 @@
   },
   {
     "id": 1046,
-    "name": "African Sightings Adventure Tours \u0026 Safaris",
+    "name": "African Sightings Adventure Tours & Safaris",
     "address": "44 Albert Rd, Walmer, Gqeberha, 6075, South Africa",
     "phone": "+27415810147"
   },
@@ -6307,7 +6307,7 @@
   },
   {
     "id": 1052,
-    "name": "Algoa Bay Bed \u0026 Breakfast",
+    "name": "Algoa Bay Bed & Breakfast",
     "address": "No.8 7th Ave, Summerstrand, Gqeberha, 6001, South Africa",
     "phone": "+27415833666"
   },
@@ -6361,7 +6361,7 @@
   },
   {
     "id": 1061,
-    "name": "A\u0026A Guesthouse",
+    "name": "A&A Guesthouse",
     "address": "1 2nd Ave, Summerstrand, Gqeberha, 1601, South Africa",
     "phone": "+27415833594"
   },
@@ -6422,13 +6422,13 @@
   {
     "id": 1071,
     "name": "5 Third Avenue Guesthouse",
-    "address": "La Roche Dr \u0026, Beach Rd, Humewood, Gqeberha, 6013, South Africa",
+    "address": "La Roche Dr &, Beach Rd, Humewood, Gqeberha, 6013, South Africa",
     "phone": "+27415856380"
   },
   {
     "id": 1072,
     "name": "Field's Rest",
-    "address": "La Roche Dr \u0026, Beach Rd, Humewood, Gqeberha, 6013, South Africa",
+    "address": "La Roche Dr &, Beach Rd, Humewood, Gqeberha, 6013, South Africa",
     "phone": "+27415856380"
   },
   {
@@ -6451,19 +6451,19 @@
   },
   {
     "id": 1076,
-    "name": "The Willows Resort \u0026 Conference Centre",
+    "name": "The Willows Resort & Conference Centre",
     "address": "15 Scarborough St, Summerstrand, Gqeberha, 6001, South Africa",
     "phone": "+27214241530"
   },
   {
     "id": 1077,
-    "name": "Ballina Ga El B\u0026B",
+    "name": "Ballina Ga El B&B",
     "address": "13 Newcon St, Humerail, Gqeberha, 6001, South Africa",
     "phone": "+27415822377"
   },
   {
     "id": 1078,
-    "name": "Opi-See Self Catering (Beach \u0026 Sea View)",
+    "name": "Opi-See Self Catering (Beach & Sea View)",
     "address": "La Roche Dr, Humewood, Gqeberha, 6013, South Africa",
     "phone": "+27415823720"
   },
@@ -6500,12 +6500,12 @@
   {
     "id": 1084,
     "name": "Natti's Thai Kitchen",
-    "address": "Stanley St \u0026, Moffat St, Port Elizabeth Central, Gqeberha, 6001, South Africa",
+    "address": "Stanley St &, Moffat St, Port Elizabeth Central, Gqeberha, 6001, South Africa",
     "phone": "+27415821378"
   },
   {
     "id": 1085,
-    "name": "SUKI Sushi \u0026 Asian Cuisine",
+    "name": "SUKI Sushi & Asian Cuisine",
     "address": "55 Prospect Rd, Walmer, Gqeberha, 6065, South Africa",
     "phone": "+27415811111"
   },
@@ -6548,13 +6548,13 @@
   {
     "id": 1092,
     "name": "The Coachman Restaurant",
-    "address": "17 \u0026 19 Harold Rd, Broadwood, Gqeberha, 6070, South Africa",
+    "address": "17 & 19 Harold Rd, Broadwood, Gqeberha, 6070, South Africa",
     "phone": "17196070"
   },
   {
     "id": 1093,
     "name": "The DockSide PE Habour",
-    "address": "Walmer Gardens Centre Corner of Heugh road \u0026, 8th Ave, Walmer, Gqeberha, 6070, South Africa",
+    "address": "Walmer Gardens Centre Corner of Heugh road &, 8th Ave, Walmer, Gqeberha, 6070, South Africa",
     "phone": "+27415817221"
   },
   {
@@ -6583,13 +6583,13 @@
   },
   {
     "id": 1098,
-    "name": "TORO Sushi, Teppanyaki \u0026 Seafood",
+    "name": "TORO Sushi, Teppanyaki & Seafood",
     "address": "1 Westview Dr, Mill Park, Gqeberha, 6001, South Africa",
     "phone": "+27413737093"
   },
   {
     "id": 1099,
-    "name": "TORO Sushi, Teppanyaki \u0026 Seafood",
+    "name": "TORO Sushi, Teppanyaki & Seafood",
     "address": "20 Stanley St, Richmond Hill St, Gqeberha, 6001, South Africa",
     "phone": "+27415822081"
   },
@@ -6613,7 +6613,7 @@
   },
   {
     "id": 1103,
-    "name": "Finnezz Restaurant \u0026 Cocktail Cafe",
+    "name": "Finnezz Restaurant & Cocktail Cafe",
     "address": "1 Bridge St, South End, Gqeberha, 6001, South Africa",
     "phone": "+27415810361"
   },
@@ -6631,7 +6631,7 @@
   },
   {
     "id": 1106,
-    "name": "Barn \u0026 Barrel",
+    "name": "Barn & Barrel",
     "address": "Sydenham, Gqeberha, 6001, South Africa",
     "phone": "+27837542768"
   },
@@ -6691,7 +6691,7 @@
   },
   {
     "id": 1116,
-    "name": "Baobab Juice \u0026 Smoothie Bar",
+    "name": "Baobab Juice & Smoothie Bar",
     "address": "24 Durban Rd, Korsten, Gqeberha, 6020, South Africa",
     "phone": "+27414535012"
   },
@@ -6703,7 +6703,7 @@
   },
   {
     "id": 1118,
-    "name": "San Fernando's Grillhouse \u0026 Woodfired Pizzeria",
+    "name": "San Fernando's Grillhouse & Woodfired Pizzeria",
     "address": "539 Cape Rd, Linton Grange, Gqeberha, 6025, South Africa",
     "phone": "+27413603561"
   },
@@ -6787,7 +6787,7 @@
   },
   {
     "id": 1132,
-    "name": "Bocadillos Restaurant \u0026 Bakery",
+    "name": "Bocadillos Restaurant & Bakery",
     "address": "10 Boshof St, Westering, Gqeberha, 6025, South Africa",
     "phone": "+27737191359"
   },
@@ -6799,7 +6799,7 @@
   },
   {
     "id": 1134,
-    "name": "Hello It’s Me | Kitchen \u0026 Bar",
+    "name": "Hello It’s Me | Kitchen & Bar",
     "address": "Port Elizabeth Central, Gqeberha, 6001, South Africa",
     "phone": ""
   },
@@ -6901,7 +6901,7 @@
   },
   {
     "id": 1151,
-    "name": "Charlie's Pizza \u0026 Pasta",
+    "name": "Charlie's Pizza & Pasta",
     "address": "16 Lower Valley Rd, Humewood extension, Gqeberha, 6001, South Africa",
     "phone": "+27714641105"
   },
@@ -6937,7 +6937,7 @@
   },
   {
     "id": 1157,
-    "name": "Sizzlers Ribs \u0026 Quality Fast Food",
+    "name": "Sizzlers Ribs & Quality Fast Food",
     "address": "11 Moffat Street, Richmond Hill St, Gqeberha, 6006, South Africa",
     "phone": "+27415824636"
   },
@@ -6973,7 +6973,7 @@
   },
   {
     "id": 1163,
-    "name": "MATHEWS SEA FLIGHT TAKE AWAY \u0026 INDIAN CUISINE",
+    "name": "MATHEWS SEA FLIGHT TAKE AWAY & INDIAN CUISINE",
     "address": "16 Lower Valley Rd, Port Elizabeth Central, Gqeberha, 6001, South Africa",
     "phone": "+27415822161"
   },
@@ -7045,7 +7045,7 @@
   },
   {
     "id": 1175,
-    "name": "Westvill Deli | Port Elizabeth | Game \u0026 Ostrich Specialist",
+    "name": "Westvill Deli | Port Elizabeth | Game & Ostrich Specialist",
     "address": "Shop 22, King's Court, Buffelsfontein Rd, Walmer Heights, Gqeberha, 6070, South Africa",
     "phone": "+27413681666"
   },
@@ -7106,7 +7106,7 @@
   {
     "id": 1185,
     "name": "Walmer Park Shopping Centre",
-    "address": "\u0026, Stanford Rd \u0026, Norman Middleton Rd, Gqeberha, 6059, South Africa",
+    "address": "&, Stanford Rd &, Norman Middleton Rd, Gqeberha, 6059, South Africa",
     "phone": "+27414820079"
   },
   {
@@ -7171,8 +7171,8 @@
   },
   {
     "id": 1196,
-    "name": "Kings Court Centre \u0026 Apartments",
-    "address": "Cnr Nyara \u0026, Tynira St, Motherwell 4, Motherwell, 6211, South Africa",
+    "name": "Kings Court Centre & Apartments",
+    "address": "Cnr Nyara &, Tynira St, Motherwell 4, Motherwell, 6211, South Africa",
     "phone": "+27414622008"
   },
   {
@@ -7184,7 +7184,7 @@
   {
     "id": 1198,
     "name": "Walker Drive Shopping Centre",
-    "address": "The Bridge, Cnr C J Langenhoven Dr \u0026, Pickering Street, Newton Park, Gqeberha, 6057, South Africa",
+    "address": "The Bridge, Cnr C J Langenhoven Dr &, Pickering Street, Newton Park, Gqeberha, 6057, South Africa",
     "phone": "+27861426075"
   },
   {
@@ -7220,7 +7220,7 @@
   {
     "id": 1204,
     "name": "Walmer Link Shopping Complex",
-    "address": "Metlife Mall Shopping Centre Cnr Samantha \u0026 Kabega Rds, Kabega Park, Gqeberha, 6025, South Africa",
+    "address": "Metlife Mall Shopping Centre Cnr Samantha & Kabega Rds, Kabega Park, Gqeberha, 6025, South Africa",
     "phone": "+27413604100"
   },
   {
@@ -7268,7 +7268,7 @@
   {
     "id": 1212,
     "name": "Kabega Centre",
-    "address": "8th Avenue \u0026, Marine Dr, Summerstrand, 6001, South Africa",
+    "address": "8th Avenue &, Marine Dr, Summerstrand, 6001, South Africa",
     "phone": "+27415834052"
   },
   {
@@ -7292,7 +7292,7 @@
   {
     "id": 1216,
     "name": "Lindt Shop Walmer Park",
-    "address": "C/o Lungilo Mlandu \u0026, Victoria Dr, Gqeberha, South Africa",
+    "address": "C/o Lungilo Mlandu &, Victoria Dr, Gqeberha, South Africa",
     "phone": "+27780164290"
   },
   {
@@ -7304,7 +7304,7 @@
   {
     "id": 1218,
     "name": "pick n pay",
-    "address": "Cnr \u0026, Circular Dr \u0026 Willow Rd, Lorraine, Gqeberha, 6070, South Africa",
+    "address": "Cnr &, Circular Dr & Willow Rd, Lorraine, Gqeberha, 6070, South Africa",
     "phone": "+27414871185"
   },
   {
@@ -7430,7 +7430,7 @@
   {
     "id": 1239,
     "name": "South End Museum",
-    "address": "Walmer Blvd \u0026 Humewood Road, South End, Gqeberha, 6001, South Africa",
+    "address": "Walmer Blvd & Humewood Road, South End, Gqeberha, 6001, South Africa",
     "phone": ""
   },
   {
@@ -7472,13 +7472,13 @@
   {
     "id": 1246,
     "name": "Cape Recife Lighthouse (Est. 1849)",
-    "address": "Cnr William Moffett Expy \u0026 Oak Rd Shop 1, Martime Retail Park, Overbaakens, Gqeberha, 6001, South Africa",
+    "address": "Cnr William Moffett Expy & Oak Rd Shop 1, Martime Retail Park, Overbaakens, Gqeberha, 6001, South Africa",
     "phone": "+27413682831"
   },
   {
     "id": 1247,
     "name": "Holmeleigh Farmyard",
-    "address": "The Bridge, Cnr C J Langenhoven Dr \u0026, Pickering Street, Newton Park, Gqeberha, 6057, South Africa",
+    "address": "The Bridge, Cnr C J Langenhoven Dr &, Pickering Street, Newton Park, Gqeberha, 6057, South Africa",
     "phone": "+27861426075"
   },
   {
@@ -7663,7 +7663,7 @@
   },
   {
     "id": 1278,
-    "name": "Nitro Park Video Ten-pin Bowling \u0026 Video Arcade",
+    "name": "Nitro Park Video Ten-pin Bowling & Video Arcade",
     "address": "15 Channer St, Janssendal, Kariega, 6229, South Africa",
     "phone": "+27734712546"
   },
@@ -7730,7 +7730,7 @@
   {
     "id": 1289,
     "name": "Nelson Mandela Bay Metropolitan Municipality",
-    "address": "A Taste Of Africa Restaurant Corner Darling \u0026 Jetty St, Colchester, 6175, South Africa",
+    "address": "A Taste Of Africa Restaurant Corner Darling & Jetty St, Colchester, 6175, South Africa",
     "phone": "+27414922355"
   },
   {
@@ -7771,7 +7771,7 @@
   },
   {
     "id": 1296,
-    "name": "PineLodge Resort \u0026 Conference Centre",
+    "name": "PineLodge Resort & Conference Centre",
     "address": "M9, Uitenhage Farms, Gqeberha, South Africa",
     "phone": ""
   },
@@ -7897,7 +7897,7 @@
   },
   {
     "id": 1317,
-    "name": "Protea Hotel Fire \u0026 Ice! Pretoria Menlyn",
+    "name": "Protea Hotel Fire & Ice! Pretoria Menlyn",
     "address": "Corner Steve Biko Road and, Trevenna St, Sunnyside, Pretoria, 0002, South Africa",
     "phone": "+27124441000"
   },
@@ -7933,7 +7933,7 @@
   },
   {
     "id": 1323,
-    "name": "Apogee Boutique Hotel \u0026 Spa",
+    "name": "Apogee Boutique Hotel & Spa",
     "address": "1246 Breyer Avenue, Waverley, Pretoria, 0186, South Africa",
     "phone": "12460186"
   },
@@ -8162,7 +8162,7 @@
   {
     "id": 1361,
     "name": "Bed and Breakfast in Hatfield",
-    "address": "50 Atterbury Rd \u0026, Klarinet Rd, Menlo Park, Pretoria, 0102, South Africa",
+    "address": "50 Atterbury Rd &, Klarinet Rd, Menlo Park, Pretoria, 0102, South Africa",
     "phone": "+27123482711"
   },
   {
@@ -8180,7 +8180,7 @@
   {
     "id": 1364,
     "name": "Touch of Class Guest House",
-    "address": "Cnr Willem Botha \u0026, Wierda Rd, Eldoraigne, Centurion, 0157, South Africa",
+    "address": "Cnr Willem Botha &, Wierda Rd, Eldoraigne, Centurion, 0157, South Africa",
     "phone": "+27126588000"
   },
   {
@@ -8239,13 +8239,13 @@
   },
   {
     "id": 1374,
-    "name": "Royal Elephant Hotel \u0026 Conference Centre",
+    "name": "Royal Elephant Hotel & Conference Centre",
     "address": "26 Nicolson St, Bailey`s Muckleneuk, Pretoria, 0181, South Africa",
     "phone": "+27123462798"
   },
   {
     "id": 1375,
-    "name": "The Palace Guesthouse \u0026 Garden Restaurant",
+    "name": "The Palace Guesthouse & Garden Restaurant",
     "address": "1265 Arcadia St, Hatfield, Pretoria, 0028, South Africa",
     "phone": "12650028"
   },
@@ -8311,7 +8311,7 @@
   },
   {
     "id": 1386,
-    "name": "Lily Rose Bed \u0026 Breakfast",
+    "name": "Lily Rose Bed & Breakfast",
     "address": "81-85 Pretorius St, Pretoria Central, Pretoria, 0002, South Africa",
     "phone": "81850002"
   },
@@ -8323,7 +8323,7 @@
   },
   {
     "id": 1388,
-    "name": "Centurion Guest House \u0026 Lodge",
+    "name": "Centurion Guest House & Lodge",
     "address": "327 Visagie St, Pretoria Central, Pretoria, 0001, South Africa",
     "phone": "+27124420600"
   },
@@ -8371,7 +8371,7 @@
   },
   {
     "id": 1396,
-    "name": "Berghaan B\u0026B Pretoria Guesthouse",
+    "name": "Berghaan B&B Pretoria Guesthouse",
     "address": "440 Fehrsen St, Brooklyn, Pretoria, 0011, South Africa",
     "phone": "+27824588751"
   },
@@ -8395,7 +8395,7 @@
   },
   {
     "id": 1400,
-    "name": "B\u0026B 464 on 22nd Ave",
+    "name": "B&B 464 on 22nd Ave",
     "address": "1141 Burnett St, Hatfield, Pretoria, 8001, South Africa",
     "phone": "11418001"
   },
@@ -8426,7 +8426,7 @@
   {
     "id": 1405,
     "name": "At 98 on Lynburn Guest House",
-    "address": "Cnr Francis Baard \u0026, Beckett St, Arcadia, Pretoria, 0007, South Africa",
+    "address": "Cnr Francis Baard &, Beckett St, Arcadia, Pretoria, 0007, South Africa",
     "phone": "+27123444420"
   },
   {
@@ -8510,7 +8510,7 @@
   {
     "id": 1419,
     "name": "AS GREEK AS IT GETS - Menlo Park, Pretoria",
-    "address": "46 Selati St \u0026, Garsfontein Rd, Alphen Park, Pretoria, 0081, South Africa",
+    "address": "46 Selati St &, Garsfontein Rd, Alphen Park, Pretoria, 0081, South Africa",
     "phone": "+27123463181"
   },
   {
@@ -8533,7 +8533,7 @@
   },
   {
     "id": 1423,
-    "name": "Wood \u0026 Fire",
+    "name": "Wood & Fire",
     "address": "4 Graham Rd, Silver Lakes, Pretoria, 0084, South Africa",
     "phone": "+27125740471"
   },
@@ -8581,7 +8581,7 @@
   },
   {
     "id": 1431,
-    "name": "RELISH RESTAURANT \u0026 BAR",
+    "name": "RELISH RESTAURANT & BAR",
     "address": "362 Rossouw St, Murrayfield, Pretoria, 0184, South Africa",
     "phone": "+27649461103"
   },
@@ -8618,7 +8618,7 @@
   {
     "id": 1437,
     "name": "Prosopa Restaurant",
-    "address": "Cnr Atterbury \u0026 Lois ave, Menlyn Park, Pretoria, 0063, South Africa",
+    "address": "Cnr Atterbury & Lois ave, Menlyn Park, Pretoria, 0063, South Africa",
     "phone": "+27124720020"
   },
   {
@@ -8648,7 +8648,7 @@
   {
     "id": 1442,
     "name": "Fringe's Restaurant",
-    "address": "Cnr Soutpansberg Rd \u0026 Stead Ave Queens Corner Centre, Queenswood, Pretoria, 0186, South Africa",
+    "address": "Cnr Soutpansberg Rd & Stead Ave Queens Corner Centre, Queenswood, Pretoria, 0186, South Africa",
     "phone": "+27638607981"
   },
   {
@@ -8666,7 +8666,7 @@
   {
     "id": 1445,
     "name": "Hinterland Restaurant",
-    "address": "Atterbury Road \u0026 Lois Avenue, Shop G167, Menlyn Park Shopping Centre, Pretoria, 0081, South Africa",
+    "address": "Atterbury Road & Lois Avenue, Shop G167, Menlyn Park Shopping Centre, Pretoria, 0081, South Africa",
     "phone": "+27120038078"
   },
   {
@@ -8732,7 +8732,7 @@
   {
     "id": 1456,
     "name": "Jasmine Palace",
-    "address": "Shop 26 Brooklyn Square Cnr Veale \u0026 Middle Street, Brooklyn, Pretoria, 0181, South Africa",
+    "address": "Shop 26 Brooklyn Square Cnr Veale & Middle Street, Brooklyn, Pretoria, 0181, South Africa",
     "phone": "+27123464119"
   },
   {
@@ -8755,7 +8755,7 @@
   },
   {
     "id": 1460,
-    "name": "Diep in die Berg Restaurant, Conference \u0026 Function Venue",
+    "name": "Diep in die Berg Restaurant, Conference & Function Venue",
     "address": "197 Paul Kruger St, Salvokop, Pretoria, 0001, South Africa",
     "phone": "+27127706914"
   },
@@ -8767,14 +8767,14 @@
   },
   {
     "id": 1462,
-    "name": "L\u0026J Restaurant",
+    "name": "L&J Restaurant",
     "address": "Shop Bo6, Loftus Park, 416 Kirkness St, Arcadia, Pretoria, 0007, South Africa",
     "phone": "64160007"
   },
   {
     "id": 1463,
     "name": "Mesa Portuguesa Restaurant",
-    "address": "Waterglen Shopping Centre, Garstfontein Rd \u0026, January Masilela Dr, Waterkloof Glen, Pretoria, 0001, South Africa",
+    "address": "Waterglen Shopping Centre, Garstfontein Rd &, January Masilela Dr, Waterkloof Glen, Pretoria, 0001, South Africa",
     "phone": "+27129931333"
   },
   {
@@ -8798,19 +8798,19 @@
   {
     "id": 1467,
     "name": "Parrots",
-    "address": "Wolwespruit Bike \u0026 Trail Park, 501 Jochemus St, Erasmuskloof, Pretoria, 0048, South Africa",
+    "address": "Wolwespruit Bike & Trail Park, 501 Jochemus St, Erasmuskloof, Pretoria, 0048, South Africa",
     "phone": "+27120015394"
   },
   {
     "id": 1468,
-    "name": "Die Bos Restaurant \u0026 Function Venue",
+    "name": "Die Bos Restaurant & Function Venue",
     "address": "314 Church St, Pretoria Central, Pretoria, 0002, South Africa",
     "phone": ""
   },
   {
     "id": 1469,
     "name": "Cosmopolitan Restaurant",
-    "address": "Ben Swart St \u0026, 10th Ave, Gezina, Pretoria, 0084, South Africa",
+    "address": "Ben Swart St &, 10th Ave, Gezina, Pretoria, 0084, South Africa",
     "phone": "+27123351601"
   },
   {
@@ -8822,7 +8822,7 @@
   {
     "id": 1471,
     "name": "L'épis Doré",
-    "address": "Moreleta Kloof Nature Reserve, Cnr Helios \u0026 Palmiet Street, Moreletapark, Pretoria, 0044, South Africa",
+    "address": "Moreleta Kloof Nature Reserve, Cnr Helios & Palmiet Street, Moreletapark, Pretoria, 0044, South Africa",
     "phone": "+27825703784"
   },
   {
@@ -8894,18 +8894,18 @@
   {
     "id": 1483,
     "name": "PortuGalo Brooklyn Square",
-    "address": "31 Middle Street \u0026 Middle Street, Brooklyn, Pretoria, 0181, South Africa",
+    "address": "31 Middle Street & Middle Street, Brooklyn, Pretoria, 0181, South Africa",
     "phone": "+27123468888"
   },
   {
     "id": 1484,
     "name": "ENZO'S TAKE-AWAY AND RESTAURANT",
-    "address": "\u0026, Niesewand Street, 3 Duvernoy St, Constantia Park, Pretoria, 0010, South Africa",
+    "address": "&, Niesewand Street, 3 Duvernoy St, Constantia Park, Pretoria, 0010, South Africa",
     "phone": "+27129986233"
   },
   {
     "id": 1485,
-    "name": "Ndaheni Restaurant \u0026 Bar \"Always a Vibe\"",
+    "name": "Ndaheni Restaurant & Bar \"Always a Vibe\"",
     "address": "78 George Storrar Dr, Groenkloof, Pretoria, 0027, South Africa",
     "phone": "+27824557437"
   },
@@ -8959,14 +8959,14 @@
   },
   {
     "id": 1494,
-    "name": "Jarr Bar \u0026 Restaurant",
-    "address": "1st Floor, Food Court, 344 Francis Baard Street Shop 81 E\u0026T Container Market, Pretoria Central, Pretoria, 0002, South Africa",
+    "name": "Jarr Bar & Restaurant",
+    "address": "1st Floor, Food Court, 344 Francis Baard Street Shop 81 E&T Container Market, Pretoria Central, Pretoria, 0002, South Africa",
     "phone": "1344810002"
   },
   {
     "id": 1495,
-    "name": "Baobab Cafe \u0026 Grill",
-    "address": "107, The Club Shopping Center, 147 Pinaster Ave \u0026 18th Street, Hazelwood, Pretoria, 0081, South Africa",
+    "name": "Baobab Cafe & Grill",
+    "address": "107, The Club Shopping Center, 147 Pinaster Ave & 18th Street, Hazelwood, Pretoria, 0081, South Africa",
     "phone": "107147180081"
   },
   {
@@ -9019,7 +9019,7 @@
   },
   {
     "id": 1504,
-    "name": "Salsa Mexican Restaurant \u0026 Tequilaria Loftus",
+    "name": "Salsa Mexican Restaurant & Tequilaria Loftus",
     "address": "5th Floor, Protea Hotel by Marriott Loftus Park, 416 Kirkness St, Arcadia, Pretoria, 0083, South Africa",
     "phone": "54160083"
   },
@@ -9038,7 +9038,7 @@
   {
     "id": 1507,
     "name": "Lone Hawk Spur Steak Ranch",
-    "address": "Cnr. Firwood Avenue \u0026, 16th St, Hazelwood, Pretoria, 0081, South Africa",
+    "address": "Cnr. Firwood Avenue &, 16th St, Hazelwood, Pretoria, 0081, South Africa",
     "phone": "+27718524170"
   },
   {
@@ -9050,7 +9050,7 @@
   {
     "id": 1509,
     "name": "Oasis Restaurant",
-    "address": "Lynnwood Galleries, Shop No. 6 , Cnr Rosemary \u0026, Diana Rd, Lynnwood, Pretoria, 0081, South Africa",
+    "address": "Lynnwood Galleries, Shop No. 6 , Cnr Rosemary &, Diana Rd, Lynnwood, Pretoria, 0081, South Africa",
     "phone": "+27123483359"
   },
   {
@@ -9062,7 +9062,7 @@
   {
     "id": 1511,
     "name": "Ocean Basket Hatfield",
-    "address": "Grosvenor St \u0026 Pretorius St, Hatfield, Hatfield, Pretoria, 0002, South Africa",
+    "address": "Grosvenor St & Pretorius St, Hatfield, Hatfield, Pretoria, 0002, South Africa",
     "phone": "+27615109242"
   },
   {
@@ -9074,7 +9074,7 @@
   {
     "id": 1513,
     "name": "Woodlands Boulevard Shopping Complex",
-    "address": "Cnr Lynnwood Rd \u0026, Daventry St, Lynnwood Manor, Pretoria, 0081, South Africa",
+    "address": "Cnr Lynnwood Rd &, Daventry St, Lynnwood Manor, Pretoria, 0081, South Africa",
     "phone": "+27120103538"
   },
   {
@@ -9098,7 +9098,7 @@
   {
     "id": 1517,
     "name": "Menlyn Park Shopping Centre",
-    "address": "Cnr Garsfontein Rd \u0026, De Villebois Mareuil Dr, Pretoriuspark, Pretoria, 0081, South Africa",
+    "address": "Cnr Garsfontein Rd &, De Villebois Mareuil Dr, Pretoriuspark, Pretoria, 0081, South Africa",
     "phone": "+27129979460"
   },
   {
@@ -9128,7 +9128,7 @@
   {
     "id": 1522,
     "name": "Glenfair Boulevard",
-    "address": "Simon Vermooten Rd \u0026, Lynnwood Rd, Die Wilgers, Pretoria, South Africa",
+    "address": "Simon Vermooten Rd &, Lynnwood Rd, Die Wilgers, Pretoria, South Africa",
     "phone": "+27128070963"
   },
   {
@@ -9146,7 +9146,7 @@
   {
     "id": 1525,
     "name": "Lynnridge Mall",
-    "address": "128 Letwaba Street, Maphalla St, Boundary Dr \u0026, Charles Leyds Ave, Mamelodi West, Pretoria, 0122, South Africa",
+    "address": "128 Letwaba Street, Maphalla St, Boundary Dr &, Charles Leyds Ave, Mamelodi West, Pretoria, 0122, South Africa",
     "phone": ""
   },
   {
@@ -9158,7 +9158,7 @@
   {
     "id": 1527,
     "name": "Global world",
-    "address": "Tsamaya Avenue \u0026, J Maleleku Dr, Mahube Valley, Pretoria, South Africa",
+    "address": "Tsamaya Avenue &, J Maleleku Dr, Mahube Valley, Pretoria, South Africa",
     "phone": "+27872100906"
   },
   {
@@ -9188,13 +9188,13 @@
   {
     "id": 1532,
     "name": "Castle Gate Shopping Centre",
-    "address": "Cnr. Dr Swanepoel Rd \u0026, Sefako Makgatho Dr, Montana, Pretoria, 0186, South Africa",
+    "address": "Cnr. Dr Swanepoel Rd &, Sefako Makgatho Dr, Montana, Pretoria, 0186, South Africa",
     "phone": "+27124708660"
   },
   {
     "id": 1533,
     "name": "Atterbury Boulevard Centre",
-    "address": "Corner Lois Ave \u0026, Garsfontein Rd, Newlands, Pretoria, 0181, South Africa",
+    "address": "Corner Lois Ave &, Garsfontein Rd, Newlands, Pretoria, 0181, South Africa",
     "phone": "+27603267552"
   },
   {
@@ -9212,7 +9212,7 @@
   {
     "id": 1536,
     "name": "Eastside Plaza",
-    "address": "Breed St \u0026 Cnr, Zambezi Dr, Montana Park, Pretoria, 0159, South Africa",
+    "address": "Breed St & Cnr, Zambezi Dr, Montana Park, Pretoria, 0159, South Africa",
     "phone": ""
   },
   {
@@ -9260,7 +9260,7 @@
   {
     "id": 1544,
     "name": "Karoo Lifestyle Centre",
-    "address": "526 Cnr Jan Shoba \u0026, Prospect St, Hatfield, Pretoria, 0002, South Africa",
+    "address": "526 Cnr Jan Shoba &, Prospect St, Hatfield, Pretoria, 0002, South Africa",
     "phone": "+27769496811"
   },
   {
@@ -9272,7 +9272,7 @@
   {
     "id": 1546,
     "name": "Old Farm Shopping Centre",
-    "address": "Cnr Rigel Avenue \u0026, Buffelsdrift St, Erasmusrand, Pretoria, 0181, South Africa",
+    "address": "Cnr Rigel Avenue &, Buffelsdrift St, Erasmusrand, Pretoria, 0181, South Africa",
     "phone": "+27123479199"
   },
   {
@@ -9356,7 +9356,7 @@
   {
     "id": 1560,
     "name": "Tshwane Shopping Mall",
-    "address": "Mayville, Cnr Van Rensburg Street \u0026, Nienaber Ave, Mayville, Pretoria, 0038, South Africa",
+    "address": "Mayville, Cnr Van Rensburg Street &, Nienaber Ave, Mayville, Pretoria, 0038, South Africa",
     "phone": ""
   },
   {
@@ -9374,7 +9374,7 @@
   {
     "id": 1563,
     "name": "Equestria Gateway Centre",
-    "address": "Kirkia St \u0026, Onida Ave, Val-De-Grace, Pretoria, South Africa",
+    "address": "Kirkia St &, Onida Ave, Val-De-Grace, Pretoria, South Africa",
     "phone": ""
   },
   {
@@ -9500,7 +9500,7 @@
   {
     "id": 1584,
     "name": "Rebecca centre",
-    "address": "Cnr Garsfontein \u0026, Rubenstein Dr, Moreleta Park, Pretoria, 0181, South Africa",
+    "address": "Cnr Garsfontein &, Rubenstein Dr, Moreleta Park, Pretoria, 0181, South Africa",
     "phone": "+27120361040"
   },
   {
@@ -9554,7 +9554,7 @@
   {
     "id": 1593,
     "name": "Metro Lifestyle Centre",
-    "address": "Cnr Brits Road \u0026, Heinrich Ave, Karenpark, Pretoria, 0118, South Africa",
+    "address": "Cnr Brits Road &, Heinrich Ave, Karenpark, Pretoria, 0118, South Africa",
     "phone": "+27125491690"
   },
   {
@@ -9566,7 +9566,7 @@
   {
     "id": 1595,
     "name": "Waterkloof Rand Centre",
-    "address": "Lynnwood Rd \u0026, Daventry St, Lynnwood Glen, Pretoria, South Africa",
+    "address": "Lynnwood Rd &, Daventry St, Lynnwood Glen, Pretoria, South Africa",
     "phone": "+27120103538"
   },
   {
@@ -9596,13 +9596,13 @@
   {
     "id": 1600,
     "name": "Forest Walk",
-    "address": "Albeth Street \u0026, Lynnwood Rd, Die Wilgers, Pretoria, South Africa",
+    "address": "Albeth Street &, Lynnwood Rd, Die Wilgers, Pretoria, South Africa",
     "phone": "+27114414149"
   },
   {
     "id": 1601,
     "name": "Evans Centre",
-    "address": "Cnr Garsfontein \u0026, Rubenstein Dr, Moreleta Park, Pretoria, 0181, South Africa",
+    "address": "Cnr Garsfontein &, Rubenstein Dr, Moreleta Park, Pretoria, 0181, South Africa",
     "phone": "+27126568957"
   },
   {
@@ -9620,7 +9620,7 @@
   {
     "id": 1604,
     "name": "Clubview Centre",
-    "address": "218 Bloed Street Corner Bloed \u0026, Lilian Ngoyi St, Pretoria, 0002, South Africa",
+    "address": "218 Bloed Street Corner Bloed &, Lilian Ngoyi St, Pretoria, 0002, South Africa",
     "phone": "+27123231261"
   },
   {
@@ -9632,13 +9632,13 @@
   {
     "id": 1606,
     "name": "Sinoville Centre",
-    "address": "Simon Vermooten Rd \u0026 Rossouw St, Die Wilgers, Pretoria, 0041, South Africa",
+    "address": "Simon Vermooten Rd & Rossouw St, Die Wilgers, Pretoria, 0041, South Africa",
     "phone": "+27118942553"
   },
   {
     "id": 1607,
     "name": "Menlyn Retail Park",
-    "address": "Boeing St \u0026 Piering Rd, Rietvalleirand, Pretoria, 0181, South Africa",
+    "address": "Boeing St & Piering Rd, Rietvalleirand, Pretoria, 0181, South Africa",
     "phone": ""
   },
   {
@@ -9674,7 +9674,7 @@
   {
     "id": 1613,
     "name": "National Zoological Gardens of South Africa",
-    "address": "koch st \u0026, 7th Ave, Salvokop, Pretoria, 0002, South Africa",
+    "address": "koch st &, 7th Ave, Salvokop, Pretoria, 0002, South Africa",
     "phone": "+27123364000"
   },
   {
@@ -9703,7 +9703,7 @@
   },
   {
     "id": 1618,
-    "name": "Freedom Park Heritage Site \u0026 Museum",
+    "name": "Freedom Park Heritage Site & Museum",
     "address": "Christina De Wit Ave, Road, Pretoria, 0027, South Africa",
     "phone": "+27123581757"
   },
@@ -9740,7 +9740,7 @@
   {
     "id": 1624,
     "name": "Austin Roberts Bird Sanctuary",
-    "address": "Lynnwood Rd \u0026, Simon Vermooten Rd, Lynnwood Ridge, Pretoria, 0184, South Africa",
+    "address": "Lynnwood Rd &, Simon Vermooten Rd, Lynnwood Ridge, Pretoria, 0184, South Africa",
     "phone": "+27128073060"
   },
   {
@@ -9896,7 +9896,7 @@
   {
     "id": 1650,
     "name": "Tina Skukan Gallery",
-    "address": "Thabo Sehume St \u0026 Jacob Maré Streets, Pretoria Central, Pretoria, 0001, South Africa",
+    "address": "Thabo Sehume St & Jacob Maré Streets, Pretoria Central, Pretoria, 0001, South Africa",
     "phone": "+27123580524"
   },
   {
@@ -9931,13 +9931,13 @@
   },
   {
     "id": 1656,
-    "name": "Hennops Hiking Trail \u0026 Mtb Trail",
+    "name": "Hennops Hiking Trail & Mtb Trail",
     "address": "308 Eridanus St, Waterkloof Ridge, Pretoria, 0181, South Africa",
     "phone": "+27769608874"
   },
   {
     "id": 1657,
-    "name": "Wolwespruit Bike \u0026 Trail Park",
+    "name": "Wolwespruit Bike & Trail Park",
     "address": "61 Innes Rd, Lynnwood Glen, Pretoria, 0081, South Africa",
     "phone": "+27123581510"
   },
@@ -9986,7 +9986,7 @@
   {
     "id": 1665,
     "name": "Mapungubwe Collection",
-    "address": "Achilles Rd \u0026, Ajax Rd, Olympus AH, Pretoria, 0081, South Africa",
+    "address": "Achilles Rd &, Ajax Rd, Olympus AH, Pretoria, 0081, South Africa",
     "phone": "+27825520955"
   },
   {
@@ -10004,7 +10004,7 @@
   {
     "id": 1668,
     "name": "Centurion Society of Model Engineers - Registered as a Non-Profit Organization #275-273 NPO",
-    "address": "Bosman St \u0026 Visagie St, Pretoria Central, Pretoria, 0002, South Africa",
+    "address": "Bosman St & Visagie St, Pretoria Central, Pretoria, 0002, South Africa",
     "phone": "+27123246082"
   },
   {
@@ -10046,7 +10046,7 @@
   {
     "id": 1675,
     "name": "Hazeldean Valley",
-    "address": "Corner and, Wenning St \u0026 Broderick St, Groenkloof, Pretoria, 0027, South Africa",
+    "address": "Corner and, Wenning St & Broderick St, Groenkloof, Pretoria, 0027, South Africa",
     "phone": ""
   },
   {
@@ -10064,7 +10064,7 @@
   {
     "id": 1678,
     "name": "Equestria",
-    "address": "Corner of and, Roper St \u0026 Boshoff St, Muckleneuk, Pretoria, South Africa",
+    "address": "Corner of and, Roper St & Boshoff St, Muckleneuk, Pretoria, South Africa",
     "phone": "+27124408316"
   },
   {
@@ -10076,7 +10076,7 @@
   {
     "id": 1680,
     "name": "Grove Ice Rink",
-    "address": "Queen Wilhelmina Drive \u0026 University Rd, Bailey's Muckleneuk, Pretoria, 0002, South Africa",
+    "address": "Queen Wilhelmina Drive & University Rd, Bailey's Muckleneuk, Pretoria, 0002, South Africa",
     "phone": "+27123580495"
   },
   {

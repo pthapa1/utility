@@ -25,7 +25,7 @@
   },
   {
     "id": 5,
-    "name": "Savoy Hotel \u0026 Bar",
+    "name": "Savoy Hotel & Bar",
     "address": "Kalvebod Brygge 53, 1560 København V, Denmark",
     "phone": "+4533389600"
   },
@@ -625,13 +625,13 @@
   },
   {
     "id": 105,
-    "name": "The Olive Kitchen \u0026 Bar",
+    "name": "The Olive Kitchen & Bar",
     "address": "Toldbodgade 24-28, 1253 København K, Denmark",
     "phone": "24281253"
   },
   {
     "id": 106,
-    "name": "Marv \u0026 Ben",
+    "name": "Marv & Ben",
     "address": "Refshalevej 96, 1432 København K, Denmark",
     "phone": "+4532963297"
   },
@@ -781,7 +781,7 @@
   },
   {
     "id": 131,
-    "name": "Pizzeria MaMeMi \u0026 Wine Bar",
+    "name": "Pizzeria MaMeMi & Wine Bar",
     "address": "Vesterbrogade 19, 1620 København V, Denmark",
     "phone": "+4531332414"
   },
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 171,
-    "name": "H15 Food \u0026 Culture",
+    "name": "H15 Food & Culture",
     "address": "Borgergade 2, 1300 København K, Denmark",
     "phone": "+4588169995"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 178,
-    "name": "Zio \u0026 Nonna",
+    "name": "Zio & Nonna",
     "address": "Rådhuspladsen 45/47, 1550 Copenhagen V, Denmark",
     "phone": "45471550"
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "id": 264,
-    "name": "Welcome Giftshop \u0026 Souvenirs",
+    "name": "Welcome Giftshop & Souvenirs",
     "address": "Greve Midtby Center 14, 1, 2670 Greve, Denmark",
     "phone": "+4553879898"
   },
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 274,
-    "name": "H\u0026M HOME",
+    "name": "H&M HOME",
     "address": "Gammel Strand 34, 1202 København K, Denmark",
     "phone": ""
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "id": 299,
-    "name": "Plaza Ure \u0026 Smykker",
+    "name": "Plaza Ure & Smykker",
     "address": "Laurits Olsensvej 1, 2650 Hvidovre, Denmark",
     "phone": ""
   },
@@ -2545,7 +2545,7 @@
   },
   {
     "id": 425,
-    "name": "DBU Hotel \u0026 Conference Center",
+    "name": "DBU Hotel & Conference Center",
     "address": "Beringvej 1, 8361 Hasselager, Denmark",
     "phone": "+4569146777"
   },
@@ -2587,7 +2587,7 @@
   },
   {
     "id": 432,
-    "name": "HORISONT Hotel \u0026 Conference Center",
+    "name": "HORISONT Hotel & Conference Center",
     "address": "Marselisborg Havnevej 20, 8000 Aarhus, Denmark",
     "phone": "+4570225530"
   },
@@ -2623,13 +2623,13 @@
   },
   {
     "id": 438,
-    "name": "Good Morning Bed \u0026 Breakfast",
+    "name": "Good Morning Bed & Breakfast",
     "address": "Hedeager 38, 8200 Aarhus, Denmark",
     "phone": "+4571992994"
   },
   {
     "id": 439,
-    "name": "Beiers B\u0026B",
+    "name": "Beiers B&B",
     "address": "Kannikegade 14, 8000 Aarhus, Denmark",
     "phone": "+4586757000"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "id": 442,
-    "name": "Bo\u0026Balance",
+    "name": "Bo&Balance",
     "address": "Viby Ringvej 4, 8260 Viby J, Denmark",
     "phone": "+4570235635"
   },
@@ -2809,7 +2809,7 @@
   },
   {
     "id": 469,
-    "name": "Langhoff \u0026 Juul",
+    "name": "Langhoff & Juul",
     "address": "Ny Banegårdsgade 53, 8000 Aarhus, Denmark",
     "phone": ""
   },
@@ -2851,7 +2851,7 @@
   },
   {
     "id": 476,
-    "name": "Cafe \u0026 Restaurant Nero",
+    "name": "Cafe & Restaurant Nero",
     "address": "Frederiksgade 52, 8000 Aarhus, Denmark",
     "phone": "+4586188188"
   },
@@ -2887,7 +2887,7 @@
   },
   {
     "id": 482,
-    "name": "Pho C\u0026P",
+    "name": "Pho C&P",
     "address": "Ny Banegårdsgade 53, 8000 Aarhus, Denmark",
     "phone": "+4561727172"
   },
@@ -2911,7 +2911,7 @@
   },
   {
     "id": 486,
-    "name": "Malt - Restaurant \u0026 Lounge",
+    "name": "Malt - Restaurant & Lounge",
     "address": "Åboulevarden 28, 8000 Aarhus, Denmark",
     "phone": ""
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "id": 496,
-    "name": "LULA - Bar \u0026 Restaurant",
+    "name": "LULA - Bar & Restaurant",
     "address": "Sønder Allé 6, 8000 Aarhus, Denmark",
     "phone": "+4586800900"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "id": 512,
-    "name": "Mackies Pizza \u0026 Cantina",
+    "name": "Mackies Pizza & Cantina",
     "address": "Banegårdsgade 33, 8000 Aarhus, Denmark",
     "phone": "+4586194211"
   },
@@ -3391,7 +3391,7 @@
   },
   {
     "id": 566,
-    "name": "Plaza Ure \u0026 Smykker",
+    "name": "Plaza Ure & Smykker",
     "address": "Holmstrupgårdvej 252, 8210 Aarhus V, Denmark",
     "phone": "+4544225040"
   },
@@ -3817,7 +3817,7 @@
   },
   {
     "id": 637,
-    "name": "Aquatic Marine \u0026 Aquashoppen.dk",
+    "name": "Aquatic Marine & Aquashoppen.dk",
     "address": "City Center, Telefontorvet 9, 8000 Aarhus, Denmark",
     "phone": "+4586139899"
   },
@@ -4309,7 +4309,7 @@
   },
   {
     "id": 719,
-    "name": "Kloster Grønt \u0026 Frugt",
+    "name": "Kloster Grønt & Frugt",
     "address": "Skovgaardsgade 3, Indgang 3A, 8000 Aarhus, Denmark",
     "phone": "+4525221210"
   },
@@ -4327,7 +4327,7 @@
   },
   {
     "id": 722,
-    "name": "Erlings Jazz- \u0026 Ølbar",
+    "name": "Erlings Jazz- & Ølbar",
     "address": "Munkevej 8, 8680 Ry, Denmark",
     "phone": "+4586898194"
   },
@@ -4441,7 +4441,7 @@
   },
   {
     "id": 741,
-    "name": "Odense City B \u0026 B",
+    "name": "Odense City B & B",
     "address": "Hans Mules Gade 5, 5000 Odense, Denmark",
     "phone": "+4566121258"
   },
@@ -4495,13 +4495,13 @@
   },
   {
     "id": 750,
-    "name": "Amalie B \u0026 B Odense",
+    "name": "Amalie B & B Odense",
     "address": "Østre Stationsvej 31, 5000 Odense, Denmark",
     "phone": "+4563110425"
   },
   {
     "id": 751,
-    "name": "Fangel Kro \u0026 Hotel",
+    "name": "Fangel Kro & Hotel",
     "address": "Fangelvej 55, 5260 Odense, Denmark",
     "phone": "+4565961011"
   },
@@ -4513,7 +4513,7 @@
   },
   {
     "id": 753,
-    "name": "Billesgade Bed \u0026 Breakfast",
+    "name": "Billesgade Bed & Breakfast",
     "address": "Juelsgade 32, 5000 Odense C, Denmark",
     "phone": "+4520491732"
   },
@@ -4525,13 +4525,13 @@
   },
   {
     "id": 755,
-    "name": "Cityhouse Bed \u0026 Breakfast no. 33",
+    "name": "Cityhouse Bed & Breakfast no. 33",
     "address": "Vindegade 45, 5000 Odense, Denmark",
     "phone": "+4566120652"
   },
   {
     "id": 756,
-    "name": "Kragsbjerggaard Vandrerhjem \u0026 Hotel",
+    "name": "Kragsbjerggaard Vandrerhjem & Hotel",
     "address": "Hunderupgade 2, 5230 Odense, Denmark",
     "phone": "+4563114311"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "id": 760,
-    "name": "Kok \u0026 Vin",
+    "name": "Kok & Vin",
     "address": "Nørregade 29, 5000 Odense, Denmark",
     "phone": "+4564441100"
   },
@@ -4597,7 +4597,7 @@
   },
   {
     "id": 767,
-    "name": "Druen \u0026 Bønnen",
+    "name": "Druen & Bønnen",
     "address": "Billedskærervej 8, 5230 Odense, Denmark",
     "phone": ""
   },
@@ -5125,7 +5125,7 @@
   },
   {
     "id": 855,
-    "name": "Frimurerlogens Restaurant \u0026 Selskabslokaler",
+    "name": "Frimurerlogens Restaurant & Selskabslokaler",
     "address": "Sejerskovvej 20, 5260 Odense S, Denmark",
     "phone": "+4566132826"
   },
@@ -5137,7 +5137,7 @@
   },
   {
     "id": 857,
-    "name": "Grill \u0026 Pizza Huset",
+    "name": "Grill & Pizza Huset",
     "address": "Kongensgade 35, 5000 Odense, Denmark",
     "phone": "+4553545466"
   },
@@ -5167,7 +5167,7 @@
   },
   {
     "id": 862,
-    "name": "Metal's \u0026 Jewels",
+    "name": "Metal's & Jewels",
     "address": "Kongensgade 52, 5000 Odense, Denmark",
     "phone": ""
   },
@@ -5623,7 +5623,7 @@
   },
   {
     "id": 938,
-    "name": "Kragsbjerggaard Vandrerhjem \u0026 Hotel",
+    "name": "Kragsbjerggaard Vandrerhjem & Hotel",
     "address": "Nordatlantisk Promenade 1, 5000 Odense, Denmark",
     "phone": "+4566137085"
   },
@@ -5803,7 +5803,7 @@
   },
   {
     "id": 968,
-    "name": "Mortens Kro Restaurant \u0026 Boutique hotel",
+    "name": "Mortens Kro Restaurant & Boutique hotel",
     "address": "Falstersgade 42, 9000 Aalborg, Denmark",
     "phone": ""
   },
@@ -5875,7 +5875,7 @@
   },
   {
     "id": 980,
-    "name": "Aalborg Camping \u0026 Hytteø",
+    "name": "Aalborg Camping & Hytteø",
     "address": "Anne Maries Vej 12, 9000 Aalborg, Denmark",
     "phone": "+4560507280"
   },
@@ -5923,7 +5923,7 @@
   },
   {
     "id": 988,
-    "name": "Bed \u0026 Breakfast Aalborg",
+    "name": "Bed & Breakfast Aalborg",
     "address": "Rundvejen 1, 9000 Aalborg, Denmark",
     "phone": "+4522902676"
   },
@@ -5947,7 +5947,7 @@
   },
   {
     "id": 992,
-    "name": "Merkurvej Bed \u0026 Breakfast",
+    "name": "Merkurvej Bed & Breakfast",
     "address": "Skydebanevej 50, 9000 Aalborg, Denmark",
     "phone": "+4560116044"
   },
@@ -5959,7 +5959,7 @@
   },
   {
     "id": 994,
-    "name": "Friis Bed \u0026 Bath",
+    "name": "Friis Bed & Bath",
     "address": "Ny Lufthavnsvej 96, 9400 Nørresundby, Denmark",
     "phone": "+4598176000"
   },
@@ -5971,7 +5971,7 @@
   },
   {
     "id": 996,
-    "name": "Gultentorp Bed \u0026 Breakfast",
+    "name": "Gultentorp Bed & Breakfast",
     "address": "Prinsensgade 14, 9000 Aalborg, Denmark",
     "phone": "+4598133733"
   },
@@ -5995,7 +5995,7 @@
   },
   {
     "id": 1000,
-    "name": "Frydendal - Bed \u0026 Bath",
+    "name": "Frydendal - Bed & Bath",
     "address": "Vesterbro 2, 9000 Aalborg, Denmark",
     "phone": "+4598138400"
   },
@@ -6091,7 +6091,7 @@
   },
   {
     "id": 1016,
-    "name": "Mortens Kro Restaurant \u0026 Boutique hotel",
+    "name": "Mortens Kro Restaurant & Boutique hotel",
     "address": "Kastetvej 32, 9000 Aalborg, Denmark",
     "phone": "+4598151600"
   },
@@ -6133,7 +6133,7 @@
   },
   {
     "id": 1023,
-    "name": "Fisk \u0026 Skaldyr",
+    "name": "Fisk & Skaldyr",
     "address": "John F. Kennedys Pl. 3, 9000 Aalborg, Denmark",
     "phone": "+4552903906"
   },
@@ -6325,7 +6325,7 @@
   },
   {
     "id": 1055,
-    "name": "Friends bar \u0026 kitchen",
+    "name": "Friends bar & kitchen",
     "address": "Vesterbro 88, 9000 Aalborg, Denmark",
     "phone": "+4598128312"
   },
@@ -6601,7 +6601,7 @@
   },
   {
     "id": 1101,
-    "name": "Sason Pizza \u0026 Kebab AALBORG",
+    "name": "Sason Pizza & Kebab AALBORG",
     "address": "Bispensgade 31, 9000 Aalborg, Denmark",
     "phone": "+4522405450"
   },
@@ -6679,13 +6679,13 @@
   },
   {
     "id": 1114,
-    "name": "Coco Bed \u0026 Breakfast Aps",
+    "name": "Coco Bed & Breakfast Aps",
     "address": "Torvegade 24, 6700 Esbjerg, Denmark",
     "phone": "+4575130111"
   },
   {
     "id": 1115,
-    "name": "272 Bed \u0026 Breakfast",
+    "name": "272 Bed & Breakfast",
     "address": "Strandpromenaden 1, 6710 Esbjerg Kommune, Denmark",
     "phone": "+4575117000"
   },
@@ -6697,7 +6697,7 @@
   },
   {
     "id": 1117,
-    "name": "Fanø Night \u0026 Stay",
+    "name": "Fanø Night & Stay",
     "address": "Sjelborg Strandvej 11, 6710 Esbjerg Kommune, Denmark",
     "phone": "+4575115432"
   },
@@ -6727,7 +6727,7 @@
   },
   {
     "id": 1122,
-    "name": "Sweet Home Bed \u0026 Breakfast",
+    "name": "Sweet Home Bed & Breakfast",
     "address": "Kildegårdvej 21, 6852 Billum, Denmark",
     "phone": ""
   },
@@ -7003,7 +7003,7 @@
   },
   {
     "id": 1168,
-    "name": "Esbjerg Pizzeria \u0026 Restaurant",
+    "name": "Esbjerg Pizzeria & Restaurant",
     "address": "Torvet 16, 6700 Esbjerg, Denmark",
     "phone": "+4579306700"
   },
@@ -7165,7 +7165,7 @@
   },
   {
     "id": 1195,
-    "name": "New York Pizza \u0026 Grill",
+    "name": "New York Pizza & Grill",
     "address": "Storegade 85, 6700 Esbjerg, Denmark",
     "phone": "+4575131058"
   },
@@ -7183,7 +7183,7 @@
   },
   {
     "id": 1198,
-    "name": "Feng \u0026 Hang",
+    "name": "Feng & Hang",
     "address": "Fanøgade 20, 6700 Esbjerg, Denmark",
     "phone": "+4575128028"
   },
@@ -7213,7 +7213,7 @@
   },
   {
     "id": 1203,
-    "name": "Cafe \u0026 Galleri Patricia",
+    "name": "Cafe & Galleri Patricia",
     "address": "Gl Vardevej 55, 6700 Esbjerg, Denmark",
     "phone": "+4530345888"
   },
@@ -7237,13 +7237,13 @@
   },
   {
     "id": 1207,
-    "name": "Delicious Sandwich \u0026 Juice - Esbjerg",
+    "name": "Delicious Sandwich & Juice - Esbjerg",
     "address": "Skolegade 28, 6700 Esbjerg, Denmark",
     "phone": "+4575453090"
   },
   {
     "id": 1208,
-    "name": "Roma Pizza \u0026 Grillbar",
+    "name": "Roma Pizza & Grillbar",
     "address": "Skolegade 26, 6700 Esbjerg, Denmark",
     "phone": "+4530387777"
   },
@@ -7261,7 +7261,7 @@
   },
   {
     "id": 1211,
-    "name": "Panorama Pizza \u0026 Steakhouse",
+    "name": "Panorama Pizza & Steakhouse",
     "address": "Strandbygade 29, 6700 Esbjerg, Denmark",
     "phone": "+4520595930"
   },
@@ -7273,7 +7273,7 @@
   },
   {
     "id": 1213,
-    "name": "Valentino Pizza \u0026 Grillbar",
+    "name": "Valentino Pizza & Grillbar",
     "address": "Skolegade 20, 6700 Esbjerg, Denmark",
     "phone": ""
   },
@@ -7351,7 +7351,7 @@
   },
   {
     "id": 1226,
-    "name": "Kylling \u0026 Co",
+    "name": "Kylling & Co",
     "address": "Torvet 20, 6700 Esbjerg, Denmark",
     "phone": "+4569136013"
   },
@@ -7483,7 +7483,7 @@
   },
   {
     "id": 1248,
-    "name": "H\u0026M",
+    "name": "H&M",
     "address": "Kongensgade 7C, 6700 Esbjerg, Denmark",
     "phone": "+4570809012"
   },
@@ -7609,7 +7609,7 @@
   },
   {
     "id": 1269,
-    "name": "Ørfjell Watches Gold \u0026 Silver",
+    "name": "Ørfjell Watches Gold & Silver",
     "address": "Gl Vardevej 62, 6700 Esbjerg, Denmark",
     "phone": "+4575459499"
   },
@@ -7633,7 +7633,7 @@
   },
   {
     "id": 1273,
-    "name": "Jill \u0026 Joy",
+    "name": "Jill & Joy",
     "address": "Kjersing Ringvej 30, 6715 Esbjerg, Denmark",
     "phone": "+4570807770"
   },
@@ -7681,7 +7681,7 @@
   },
   {
     "id": 1281,
-    "name": "JACK \u0026 JONES",
+    "name": "JACK & JONES",
     "address": "Skads Blomstervej 6, 6705 Esbjerg Kommune, Denmark",
     "phone": "+4575160255"
   },
@@ -7885,7 +7885,7 @@
   },
   {
     "id": 1315,
-    "name": "Sport \u0026 Event Park Esbjerg",
+    "name": "Sport & Event Park Esbjerg",
     "address": "Kongensgade 68A, 6700 Esbjerg, Denmark",
     "phone": "+4575120288"
   },
@@ -7915,7 +7915,7 @@
   },
   {
     "id": 1320,
-    "name": "Reparation af B\u0026O",
+    "name": "Reparation af B&O",
     "address": "BROEN Shopping, Exnersgade 18, 6700 Esbjerg, Denmark",
     "phone": "+4586125616"
   },
@@ -7963,7 +7963,7 @@
   },
   {
     "id": 1328,
-    "name": "Thiele Glasses \u0026 Contact Lenses",
+    "name": "Thiele Glasses & Contact Lenses",
     "address": "Kongensgade 79, 83, 6700 Esbjerg, Denmark",
     "phone": "79836700"
   },
@@ -8449,7 +8449,7 @@
   },
   {
     "id": 1409,
-    "name": "Esbjerg Spa \u0026 Wellness",
+    "name": "Esbjerg Spa & Wellness",
     "address": "Torvet, 6760 Ribe, Denmark",
     "phone": ""
   },

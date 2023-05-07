@@ -20,7 +20,7 @@
   {
     "id": 4,
     "name": "Breakas Beach Resort",
-    "address": "Warwick Le Lagon Resort \u0026 Spa, Elluk Road, Off Kumul Highway, Erakor Lagoon, Port Vila, Vanuatu",
+    "address": "Warwick Le Lagon Resort & Spa, Elluk Road, Off Kumul Highway, Erakor Lagoon, Port Vila, Vanuatu",
     "phone": "+67822313"
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Warwick Le Lagon - Vanuatu",
-    "address": "Warwick Le Lagon Resort \u0026 Spa, Elluk Road, Off Kumul Highway, Erakor Lagoon, Port Vila, Vanuatu",
+    "address": "Warwick Le Lagon Resort & Spa, Elluk Road, Off Kumul Highway, Erakor Lagoon, Port Vila, Vanuatu",
     "phone": "+67822313"
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "id": 9,
-    "name": "Vila Chaumières Restaurant \u0026 Resort",
+    "name": "Vila Chaumières Restaurant & Resort",
     "address": "Kumul Hwy, Port Vila, Vanuatu",
     "phone": "+67827079"
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": 12,
-    "name": "Hideaway Island \u0026 Marine Sanctuary Resort",
+    "name": "Hideaway Island & Marine Sanctuary Resort",
     "address": "Pango Tops, Port Vila, Vanuatu",
     "phone": ""
   },
@@ -86,7 +86,7 @@
   {
     "id": 15,
     "name": "Kaiviti Motel",
-    "address": "Fare 6 \u0026 7, Breakas Beach Front Resort Pango Road, Port Vila, Vanuatu",
+    "address": "Fare 6 & 7, Breakas Beach Front Resort Pango Road, Port Vila, Vanuatu",
     "phone": "+61408079385"
   },
   {
@@ -319,7 +319,7 @@
   },
   {
     "id": 54,
-    "name": "Blue Bay Resort \u0026 Restaurant",
+    "name": "Blue Bay Resort & Restaurant",
     "address": "Paradise Cove, Pango, Port Vila, Vanuatu",
     "phone": "+6787746173"
   },
@@ -385,7 +385,7 @@
   },
   {
     "id": 65,
-    "name": "The Retreat Seaside Sports Bar \u0026 Resort",
+    "name": "The Retreat Seaside Sports Bar & Resort",
     "address": "Stade Ave / Teoma St, Port Vila, Efate, Vanuatu",
     "phone": "+67828289"
   },
@@ -589,7 +589,7 @@
   },
   {
     "id": 99,
-    "name": "Vila Chaumières Restaurant \u0026 Resort",
+    "name": "Vila Chaumières Restaurant & Resort",
     "address": "Captain Cook Ave, Port Vila, Vanuatu",
     "phone": "+67822303"
   },
@@ -631,7 +631,7 @@
   },
   {
     "id": 106,
-    "name": "Vila Chaumières Restaurant \u0026 Resort",
+    "name": "Vila Chaumières Restaurant & Resort",
     "address": "48 Devil's Point Rd, Burka, Vanuatu",
     "phone": "+61450626321"
   },
@@ -661,7 +661,7 @@
   },
   {
     "id": 111,
-    "name": "Moorings Seaside Bar \u0026 Bistro",
+    "name": "Moorings Seaside Bar & Bistro",
     "address": "Port Vila Bay, Port Vila, Vanuatu",
     "phone": "+6787773397"
   },
@@ -703,7 +703,7 @@
   },
   {
     "id": 118,
-    "name": "Mk restaurant\u0026motel",
+    "name": "Mk restaurant&motel",
     "address": "Mangaliliu North Efate, Port Vila, Vanuatu",
     "phone": "+6787118305"
   },
@@ -817,13 +817,13 @@
   },
   {
     "id": 137,
-    "name": "Sunset Pool Bar \u0026 Grill",
+    "name": "Sunset Pool Bar & Grill",
     "address": "Kumul Hwy, Port Vila, Vanuatu",
     "phone": "+67823841"
   },
   {
     "id": 138,
-    "name": "Azure Restaurant, Infinitely Bar \u0026 Cafe",
+    "name": "Azure Restaurant, Infinitely Bar & Cafe",
     "address": "Kumul Hwy, Port Vila, Vanuatu",
     "phone": ""
   },
@@ -919,7 +919,7 @@
   },
   {
     "id": 154,
-    "name": "The Retreat Seaside Sports Bar \u0026 Resort",
+    "name": "The Retreat Seaside Sports Bar & Resort",
     "address": "Rue Cornwall, Port Vila, Vanuatu",
     "phone": "+67824785"
   },
@@ -997,7 +997,7 @@
   },
   {
     "id": 167,
-    "name": "Blue Bay Resort \u0026 Restaurant",
+    "name": "Blue Bay Resort & Restaurant",
     "address": "Port Vila, Vanuatu",
     "phone": ""
   },
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 188,
-    "name": "Brewery Bar \u0026 Restaurant",
+    "name": "Brewery Bar & Restaurant",
     "address": "Wharf Rd, Port Vila, Vanuatu",
     "phone": "+67826670"
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 261,
-    "name": "Hideaway Island \u0026 Marine Sanctuary Resort",
+    "name": "Hideaway Island & Marine Sanctuary Resort",
     "address": "Samoa Point, Port Havannah, Vanuatu",
     "phone": "+67826400"
   },
@@ -1651,8 +1651,8 @@
   },
   {
     "id": 276,
-    "name": "Vila Chaumières Restaurant \u0026 Resort",
-    "address": "Warwick Le Lagon Resort \u0026 Spa, Elluk Road, Off Kumul Highway, Erakor Lagoon, Port Vila, Vanuatu",
+    "name": "Vila Chaumières Restaurant & Resort",
+    "address": "Warwick Le Lagon Resort & Spa, Elluk Road, Off Kumul Highway, Erakor Lagoon, Port Vila, Vanuatu",
     "phone": "+67822313"
   },
   {
@@ -1687,13 +1687,13 @@
   },
   {
     "id": 282,
-    "name": "The Retreat Seaside Sports Bar \u0026 Resort",
+    "name": "The Retreat Seaside Sports Bar & Resort",
     "address": "Port Vila, Vanuatu",
     "phone": "+67825505"
   },
   {
     "id": 283,
-    "name": "Reefers Restaurant \u0026 Rum Bar",
+    "name": "Reefers Restaurant & Rum Bar",
     "address": "Devil's Point Rd, Port Vila, Vanuatu",
     "phone": "+67823661"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "id": 290,
-    "name": "Brewery Bar \u0026 Restaurant",
+    "name": "Brewery Bar & Restaurant",
     "address": "Teouma Road, Port Vila, Vanuatu",
     "phone": "+6787786714"
   },
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 301,
-    "name": "Black Pearl Resort \u0026 Spa",
+    "name": "Black Pearl Resort & Spa",
     "address": "Main St, Espiritu Santo, Vanuatu",
     "phone": "+67837539"
   },
@@ -1909,7 +1909,7 @@
   },
   {
     "id": 319,
-    "name": "Ratua Island Resort \u0026 Spa",
+    "name": "Ratua Island Resort & Spa",
     "address": "Vanuatu, Luganville, Unnamed Road",
     "phone": "+6785344968"
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "id": 332,
-    "name": "smugglers Seafood Restaurant \u0026 Bar",
+    "name": "smugglers Seafood Restaurant & Bar",
     "address": "Luganville, Vanuatu",
     "phone": "+6785263132"
   },
@@ -2005,13 +2005,13 @@
   },
   {
     "id": 335,
-    "name": "Lily's Restaurant \u0026 Catering Services",
+    "name": "Lily's Restaurant & Catering Services",
     "address": "Luganville, Vanuatu",
     "phone": "+6787616853"
   },
   {
     "id": 336,
-    "name": "Hidden Cafe \u0026 Boutique",
+    "name": "Hidden Cafe & Boutique",
     "address": "Main St, Luganville, Vanuatu",
     "phone": "+6787331297"
   },
@@ -2059,7 +2059,7 @@
   },
   {
     "id": 344,
-    "name": "WW2 Million Dollar Point Bar \u0026 Cafe",
+    "name": "WW2 Million Dollar Point Bar & Cafe",
     "address": "Second Canal Area, Luganville, Vanuatu",
     "phone": ""
   },
@@ -2077,13 +2077,13 @@
   },
   {
     "id": 347,
-    "name": "WW2 Million Dollar Point Bar \u0026 Cafe",
+    "name": "WW2 Million Dollar Point Bar & Cafe",
     "address": "Main St, Luganville, Vanuatu",
     "phone": "+67836811"
   },
   {
     "id": 348,
-    "name": "RK Indian Restaurant \u0026 Bar",
+    "name": "RK Indian Restaurant & Bar",
     "address": "Luganville, Vanuatu",
     "phone": ""
   },
@@ -2263,13 +2263,13 @@
   },
   {
     "id": 378,
-    "name": "Paradise Tours \u0026 Transfers",
+    "name": "Paradise Tours & Transfers",
     "address": "Red Corner, Luganville, Vanuatu",
     "phone": "+67836911"
   },
   {
     "id": 379,
-    "name": "Aore Adventure Sports \u0026 Lodge",
+    "name": "Aore Adventure Sports & Lodge",
     "address": "unknown Road, Luganville, Vanuatu",
     "phone": "+6787747159"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 385,
-    "name": "Noda Bungalows \u0026 Tours",
+    "name": "Noda Bungalows & Tours",
     "address": "F42X+9C9 Southwest Pentecost, Loltong, Vanuatu",
     "phone": "+6787367371"
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "id": 411,
-    "name": "White Grass Ocean Resort \u0026 Spa",
+    "name": "White Grass Ocean Resort & Spa",
     "address": "Tanna Island, Bethel, Vanuatu",
     "phone": "+6787715212"
   },
@@ -2593,7 +2593,7 @@
   },
   {
     "id": 433,
-    "name": "Tanna Upper view \u0026 Volcano Front bungalow",
+    "name": "Tanna Upper view & Volcano Front bungalow",
     "address": "Lenakel, Ipul Bay, Tanna Island, Vanuatu",
     "phone": "+6787747473"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "id": 442,
-    "name": "KAPAN BAKERY SHOP \u0026 RESTAURANT",
+    "name": "KAPAN BAKERY SHOP & RESTAURANT",
     "address": "Lenakel, Vanuatu",
     "phone": "+6787308506"
   },
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 451,
-    "name": "White Grass Ocean Resort \u0026 Spa",
+    "name": "White Grass Ocean Resort & Spa",
     "address": "Saltwater Rd, Lenakel, Vanuatu",
     "phone": "+67830010"
   },

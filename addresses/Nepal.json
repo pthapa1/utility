@@ -73,7 +73,7 @@
   },
   {
     "id": 13,
-    "name": "Hotel Yak \u0026 Yeti",
+    "name": "Hotel Yak & Yeti",
     "address": "narsing chowck, Kathmandu 44600, Nepal",
     "phone": "+97715351720"
   },
@@ -133,7 +133,7 @@
   },
   {
     "id": 23,
-    "name": "Durbar Hotel \u0026 Residence",
+    "name": "Durbar Hotel & Residence",
     "address": "Bagawan Bahal Marg, Kathmandu 44600, Nepal",
     "phone": "+97714524101"
   },
@@ -589,7 +589,7 @@
   },
   {
     "id": 99,
-    "name": "Forest \u0026 Plate",
+    "name": "Forest & Plate",
     "address": "Keshar Mahal Marg, Kathmandu 44600, Nepal",
     "phone": "+97714444125"
   },
@@ -602,7 +602,7 @@
   {
     "id": 101,
     "name": "The Best Kathmandu Kitchen",
-    "address": "Hotel Yak \u0026 Yeti, Durbar Marg, Kathmandu 44600, Nepal",
+    "address": "Hotel Yak & Yeti, Durbar Marg, Kathmandu 44600, Nepal",
     "phone": "+97714248999"
   },
   {
@@ -673,7 +673,7 @@
   },
   {
     "id": 113,
-    "name": "Gaia Restaurant \u0026 Coffee Shop",
+    "name": "Gaia Restaurant & Coffee Shop",
     "address": "Kathmandu, Boudha, Kathmandu 44660, Nepal",
     "phone": "+9779808387000"
   },
@@ -703,7 +703,7 @@
   },
   {
     "id": 118,
-    "name": "Black Water Restro \u0026 Bar",
+    "name": "Black Water Restro & Bar",
     "address": "kathmandu, dharamargh, chabahil 07, Kathmandu, Nepal",
     "phone": "+9779851230474"
   },
@@ -721,7 +721,7 @@
   },
   {
     "id": 121,
-    "name": "Utse Restaurant \u0026 Bar",
+    "name": "Utse Restaurant & Bar",
     "address": "Ganesh Dev Marg, Kathmandu 44600, Nepal",
     "phone": "+97714018563"
   },
@@ -733,7 +733,7 @@
   },
   {
     "id": 123,
-    "name": "Bungalow Bar \u0026 Kitchen",
+    "name": "Bungalow Bar & Kitchen",
     "address": "327/32, Thamel Marg 29, Kathmandu 44600, Nepal",
     "phone": "327322944600"
   },
@@ -775,7 +775,7 @@
   },
   {
     "id": 130,
-    "name": "Bhojan Unlimited Restaurant \u0026 Bar, Kapan",
+    "name": "Bhojan Unlimited Restaurant & Bar, Kapan",
     "address": "Tanka Prasad Ghumti Sadak, Kathmandu 44600, Nepal",
     "phone": "+97715705690"
   },
@@ -787,7 +787,7 @@
   },
   {
     "id": 132,
-    "name": "1905 Suites \u0026 Restaurant",
+    "name": "1905 Suites & Restaurant",
     "address": "Amrit Marg, Kathmandu 44699, Nepal",
     "phone": "+9779813968104"
   },
@@ -823,13 +823,13 @@
   },
   {
     "id": 138,
-    "name": "Yala Cafe \u0026 Coffee Shop",
+    "name": "Yala Cafe & Coffee Shop",
     "address": "Kaldhara Marg, Kathmandu 44600, Nepal",
     "phone": "+97714382773"
   },
   {
     "id": 139,
-    "name": "K-Too Beer \u0026 Steakhouse (Best Restaurants In kathmandu)",
+    "name": "K-Too Beer & Steakhouse (Best Restaurants In kathmandu)",
     "address": "Kathmandu 44600, Nepal",
     "phone": "+97714444899"
   },
@@ -889,7 +889,7 @@
   },
   {
     "id": 149,
-    "name": "Calm Restro \u0026 Bar",
+    "name": "Calm Restro & Bar",
     "address": "House no.339, Musya Bahal, Kathmandu 44600, Nepal",
     "phone": "33944600"
   },
@@ -913,7 +913,7 @@
   },
   {
     "id": 153,
-    "name": "Carnival Restro \u0026 Meetings",
+    "name": "Carnival Restro & Meetings",
     "address": "Lazimpat Rd, Kathmandu 44600, Nepal",
     "phone": "+97714410200"
   },
@@ -955,7 +955,7 @@
   },
   {
     "id": 160,
-    "name": "Yog Rooftop Garden Restaurant \u0026 Bar",
+    "name": "Yog Rooftop Garden Restaurant & Bar",
     "address": "J P Marg, Kathmandu 44600, Nepal",
     "phone": "+97714226066"
   },
@@ -973,7 +973,7 @@
   },
   {
     "id": 163,
-    "name": "Top Ladder View Multi cuisine Restaurant \u0026 Bar",
+    "name": "Top Ladder View Multi cuisine Restaurant & Bar",
     "address": "Lazimpat Rd 27, Kathmandu 44600, Nepal",
     "phone": "+9779841936239"
   },
@@ -985,7 +985,7 @@
   },
   {
     "id": 165,
-    "name": "Walk Inside Cafe \u0026 Restaurant",
+    "name": "Walk Inside Cafe & Restaurant",
     "address": "world trade centre, Kathmandu 44600, Nepal",
     "phone": "+9779801812003"
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "id": 170,
-    "name": "Vinoliva: Multi-Cuisine Restaurant \u0026 Bar in Kathmandu",
+    "name": "Vinoliva: Multi-Cuisine Restaurant & Bar in Kathmandu",
     "address": "Chibahal Club, Kathmandu 44600, Nepal",
     "phone": "+97714215863"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 178,
-    "name": "Lho Hiti Restaurant \u0026 Lounge",
+    "name": "Lho Hiti Restaurant & Lounge",
     "address": "Durbar Marg, Kathmandu 44600, Nepal",
     "phone": "+97714257318"
   },
@@ -2143,7 +2143,7 @@
   },
   {
     "id": 358,
-    "name": "Nepal Pyramids Trekking \u0026 Climbing",
+    "name": "Nepal Pyramids Trekking & Climbing",
     "address": "Tushal-Mahankal Rd, Kathmandu 44600, Nepal",
     "phone": "+97715178321"
   },
@@ -2179,7 +2179,7 @@
   },
   {
     "id": 364,
-    "name": "Temple Tree Resort \u0026 Spa",
+    "name": "Temple Tree Resort & Spa",
     "address": "6th Street, Gaurighat, Lakeside Rd, Pokhara 33700, Nepal",
     "phone": "+97761455819"
   },
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 379,
-    "name": "Glacier Hotel \u0026 Spa Pokhara ,",
+    "name": "Glacier Hotel & Spa Pokhara ,",
     "address": "Lalupate Marg 6, Pokhara 33700, Nepal",
     "phone": "+97761455644"
   },
@@ -2281,7 +2281,7 @@
   },
   {
     "id": 381,
-    "name": "Glacier Hotel \u0026 Spa Pokhara ,",
+    "name": "Glacier Hotel & Spa Pokhara ,",
     "address": "16th Street, Samiko, Patan Marga 6, Pokhara 33700, Nepal",
     "phone": "16633700"
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "id": 384,
-    "name": "Hotel Middle Path \u0026 Spa",
+    "name": "Hotel Middle Path & Spa",
     "address": "Street 08 06, Pokhara 33700, Nepal",
     "phone": "080633700"
   },
@@ -2533,7 +2533,7 @@
   },
   {
     "id": 423,
-    "name": "Gantavya Resort \u0026 Spa",
+    "name": "Gantavya Resort & Spa",
     "address": "Lakeside Rd Chowk, Pokhara 33700, Nepal",
     "phone": "+97761453441"
   },
@@ -2623,7 +2623,7 @@
   },
   {
     "id": 438,
-    "name": "SwapnaBagh Hotel \u0026 Resort",
+    "name": "SwapnaBagh Hotel & Resort",
     "address": "Barahi Street, Lakeside Rd, Pokhara 33700, Nepal",
     "phone": "+97761457657"
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "id": 446,
-    "name": "Lake Mahal Hotel \u0026 Restaurant 黄鹤楼大酒店",
+    "name": "Lake Mahal Hotel & Restaurant 黄鹤楼大酒店",
     "address": "Damside Rd, Pokhara 33700, Nepal",
     "phone": "+9779851223258"
   },
@@ -2779,7 +2779,7 @@
   },
   {
     "id": 464,
-    "name": "Chilly Bar \u0026 Restaurant",
+    "name": "Chilly Bar & Restaurant",
     "address": "Phewa Marga, Pokhara 33700, Nepal",
     "phone": ""
   },
@@ -2809,7 +2809,7 @@
   },
   {
     "id": 469,
-    "name": "Utopia Garden \u0026 Snacks Bar",
+    "name": "Utopia Garden & Snacks Bar",
     "address": "Pokhara 33700, Nepal",
     "phone": "+97761462908"
   },
@@ -2827,7 +2827,7 @@
   },
   {
     "id": 472,
-    "name": "Tagaaro Restaurant \u0026 Bar",
+    "name": "Tagaaro Restaurant & Bar",
     "address": "Pokhara 33700, Nepal",
     "phone": "+97761576290"
   },
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 477,
-    "name": "Charcoal BBQ Restaurant \u0026 Hotel",
+    "name": "Charcoal BBQ Restaurant & Hotel",
     "address": "Pokhara 33700, Nepal",
     "phone": "+97761461301"
   },
@@ -2875,7 +2875,7 @@
   },
   {
     "id": 480,
-    "name": "The Freedom Cafe Restaurant \u0026 Bar",
+    "name": "The Freedom Cafe Restaurant & Bar",
     "address": "Pokhara 33700, Nepal",
     "phone": "+9779846031128"
   },
@@ -2935,13 +2935,13 @@
   },
   {
     "id": 490,
-    "name": "Black \u0026 White Cafe",
+    "name": "Black & White Cafe",
     "address": "0KM, Firke,, Pokhara 33700, Nepal",
     "phone": "+97761530947"
   },
   {
     "id": 491,
-    "name": "Red Apple Restro \u0026 Bar",
+    "name": "Red Apple Restro & Bar",
     "address": "Thado Pasal Path, Pokhara 33700, Nepal",
     "phone": "+9779826104811"
   },
@@ -2959,7 +2959,7 @@
   },
   {
     "id": 494,
-    "name": "CHEAP AND BEST RESTAURANT \u0026BAR",
+    "name": "CHEAP AND BEST RESTAURANT &BAR",
     "address": "Pragati Marga, Pokhara 33700, Nepal",
     "phone": "+97761457184"
   },
@@ -3019,13 +3019,13 @@
   },
   {
     "id": 504,
-    "name": "New Turkish \u0026 Nepali Kitchen Kabap House",
+    "name": "New Turkish & Nepali Kitchen Kabap House",
     "address": "Main Street, Pokhara 33700, Nepal",
     "phone": "+97761590779"
   },
   {
     "id": 505,
-    "name": "Nonion Italian \u0026 Mediterranean cuisine",
+    "name": "Nonion Italian & Mediterranean cuisine",
     "address": "Street#16 Lakeside, Pokhara 33700, Nepal",
     "phone": "+9779801862888"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "id": 512,
-    "name": "The Old Lan Hua Chinese Restaurant \u0026 Bar",
+    "name": "The Old Lan Hua Chinese Restaurant & Bar",
     "address": "Pokhara 33700, Nepal",
     "phone": "+9779846047211"
   },
@@ -3085,13 +3085,13 @@
   },
   {
     "id": 515,
-    "name": "Almond's Cafe \u0026 Restaurant",
+    "name": "Almond's Cafe & Restaurant",
     "address": "Lakeside Rd, Pokhara 33700, Nepal",
     "phone": "+97761457796"
   },
   {
     "id": 516,
-    "name": "Flames lounge \u0026 cafe",
+    "name": "Flames lounge & cafe",
     "address": "Lakeside Rd, Pokhara 33700, Nepal",
     "phone": "+9779803391170"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "Fewa Lake Restaurant \u0026 Bar",
+    "name": "Fewa Lake Restaurant & Bar",
     "address": "Parsyang -5, Pokhara 33700, Nepal",
     "phone": "+9779856086670"
   },
@@ -3163,13 +3163,13 @@
   },
   {
     "id": 528,
-    "name": "Madhushala Restaurant Lounge \u0026 Bar",
+    "name": "Madhushala Restaurant Lounge & Bar",
     "address": "North Lakeside,khahare,street Nmbr 23, Pokhara 33700, Nepal",
     "phone": "+9779819181213"
   },
   {
     "id": 529,
-    "name": "Onion Restro \u0026 Cafe",
+    "name": "Onion Restro & Cafe",
     "address": "street no.15, pahari marga, Da Yatra St, Pokhara 33700, Nepal",
     "phone": "+9779846042078"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "id": 539,
-    "name": "Laxman Restaurant \u0026 Bar",
+    "name": "Laxman Restaurant & Bar",
     "address": "New Pokhara Lodge Rd, Pokhara 33700, Nepal",
     "phone": "+97761581683"
   },
@@ -3241,7 +3241,7 @@
   },
   {
     "id": 541,
-    "name": "You \u0026 Me Restaurant Bar",
+    "name": "You & Me Restaurant Bar",
     "address": "lakeside khahare, Pokhara 00977, Nepal",
     "phone": "+97761465964"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "id": 550,
-    "name": "B \u0026 B Shoping Center",
+    "name": "B & B Shoping Center",
     "address": "New Rd, Pokhara 33700, Nepal",
     "phone": "+97761580885"
   },
@@ -3727,7 +3727,7 @@
   },
   {
     "id": 622,
-    "name": "Dhurba Rice Mill \u0026 Shopping center",
+    "name": "Dhurba Rice Mill & Shopping center",
     "address": "Bishal Marga, Pokhara 33700, Nepal",
     "phone": "+9779846068316"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "id": 628,
-    "name": "Archana Fruit Juice \u0026 Shopping Center",
+    "name": "Archana Fruit Juice & Shopping Center",
     "address": "Baglung Highway, Pokhara 33700, Nepal",
     "phone": "6+74633700"
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "id": 662,
-    "name": "The Mountain House Treks \u0026 expedition Pvt.Ltd.",
+    "name": "The Mountain House Treks & expedition Pvt.Ltd.",
     "address": "साराङकोट रोड, Pokhara 33700, Nepal",
     "phone": "+9779856067928"
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 694,
-    "name": "Temple Tree Resort \u0026 Spa",
+    "name": "Temple Tree Resort & Spa",
     "address": "Lakeside, Baidam Road Hallan Chowk 6, Pokhara 33700, Nepal",
     "phone": "+9779856039350"
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "id": 720,
-    "name": "City Palace - Hotel \u0026 Resort",
+    "name": "City Palace - Hotel & Resort",
     "address": "Biratnagar Kharji, Biratnagar 56613, Nepal",
     "phone": "+9779820726213"
   },
@@ -4405,8 +4405,8 @@
   },
   {
     "id": 735,
-    "name": "SPOT ON 423 Hotel Zamzam \u0026 Restaurant",
-    "address": "Zamzam \u0026 Restaurant, Inrwa, Biratnagar, Inaruwa 56710, Nepal",
+    "name": "SPOT ON 423 Hotel Zamzam & Restaurant",
+    "address": "Zamzam & Restaurant, Inrwa, Biratnagar, Inaruwa 56710, Nepal",
     "phone": "+97714217474"
   },
   {
@@ -4423,7 +4423,7 @@
   },
   {
     "id": 738,
-    "name": "HOTEL ZAMZAM \u0026 RESTAURANT INARUWA",
+    "name": "HOTEL ZAMZAM & RESTAURANT INARUWA",
     "address": "Nawa Jyoti Marg, Biratnagar 56613, Nepal",
     "phone": "+97714217474"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "id": 740,
-    "name": "Feel Good Bar \u0026 Grill",
+    "name": "Feel Good Bar & Grill",
     "address": "Dharmabhakta Marga, Biratnagar 56613, Nepal",
     "phone": "+9779804373032"
   },
@@ -4465,7 +4465,7 @@
   },
   {
     "id": 745,
-    "name": "Bamboo House Family Restro \u0026 Bar",
+    "name": "Bamboo House Family Restro & Bar",
     "address": "Himalaya Road 14, Mahendra Marg chowk, Biratnagar 56613, Nepal",
     "phone": "+9779819366123"
   },
@@ -4477,7 +4477,7 @@
   },
   {
     "id": 747,
-    "name": "Timur Thakali Restaurant \u0026 Bar",
+    "name": "Timur Thakali Restaurant & Bar",
     "address": "Biratnagar 56613, Nepal",
     "phone": "+97721460681"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "id": 751,
-    "name": "Cafe Grill to Chill Restaurant, Cocktails Bar \u0026 Lounge",
+    "name": "Cafe Grill to Chill Restaurant, Cocktails Bar & Lounge",
     "address": "Biratnagar AIC, Airport Rd, Biratnagar 56613, Nepal",
     "phone": ""
   },
@@ -4519,7 +4519,7 @@
   },
   {
     "id": 754,
-    "name": "Unique Fast Food \u0026 Restaurant",
+    "name": "Unique Fast Food & Restaurant",
     "address": "bhrikuti chowk , Biratnagar 05, Biratnagar 00977, Nepal",
     "phone": "+9779851115567"
   },
@@ -4585,7 +4585,7 @@
   },
   {
     "id": 765,
-    "name": "SKY - LOUNGE \u0026 GRILL",
+    "name": "SKY - LOUNGE & GRILL",
     "address": "H08 Airport Chowk, Biratnagar 56613, Nepal",
     "phone": "+97721463857"
   },
@@ -4597,7 +4597,7 @@
   },
   {
     "id": 767,
-    "name": "Angan Sweets \u0026 Vegetarian Family Restaurant",
+    "name": "Angan Sweets & Vegetarian Family Restaurant",
     "address": "Unnamed Road, Biratnagar 56613, Nepal",
     "phone": "+9779823455516"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "id": 769,
-    "name": "Hashtag Food \u0026 Bar",
+    "name": "Hashtag Food & Bar",
     "address": "Sankhadhar Sakhwa Marg, Biratnagar 56613, Nepal",
     "phone": "+9779842187155"
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "id": 771,
-    "name": "Tash Tasha Cafe \u0026 Restaurant",
+    "name": "Tash Tasha Cafe & Restaurant",
     "address": "H08, Biratnagar 56613, Nepal",
     "phone": "7+430856613"
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "id": 788,
-    "name": "tom \u0026 jerry cafe with biryani",
+    "name": "tom & jerry cafe with biryani",
     "address": "Himalaya Rd, Biratnagar 56613, Nepal",
     "phone": "+9779824302429"
   },
@@ -4747,7 +4747,7 @@
   },
   {
     "id": 792,
-    "name": "Cloud 90’s Lounge\u0026bar",
+    "name": "Cloud 90’s Lounge&bar",
     "address": "College Rd, Biratnagar 56613, Nepal",
     "phone": ""
   },
@@ -4783,7 +4783,7 @@
   },
   {
     "id": 798,
-    "name": "Thakali Bhansa Ghar Restaurant \u0026 Bar",
+    "name": "Thakali Bhansa Ghar Restaurant & Bar",
     "address": "Biratnagar 56613, Nepal",
     "phone": "74+99756613"
   },
@@ -4801,7 +4801,7 @@
   },
   {
     "id": 801,
-    "name": "Family Fast Food \u0026 cafe",
+    "name": "Family Fast Food & cafe",
     "address": "Lekhnath Marg, Biratnagar 56613, Nepal",
     "phone": "+9779842046952"
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "id": 822,
-    "name": "Trendz cafe \u0026 longue",
+    "name": "Trendz cafe & longue",
     "address": "Kanchanbari Nobel Road, Biratnagar 56613, Nepal",
     "phone": "+9779816911490"
   },
@@ -4939,7 +4939,7 @@
   },
   {
     "id": 824,
-    "name": "Friend's Corner Restaurant \u0026 Bar",
+    "name": "Friend's Corner Restaurant & Bar",
     "address": "Main Rd (North), Biratnagar 56613, Nepal",
     "phone": "+9779852023404"
   },
@@ -4957,7 +4957,7 @@
   },
   {
     "id": 827,
-    "name": "Treat Up Restaurant \u0026 Bar",
+    "name": "Treat Up Restaurant & Bar",
     "address": "H08, Biratnagar 56613, Nepal",
     "phone": "7+70856613"
   },
@@ -4981,7 +4981,7 @@
   },
   {
     "id": 831,
-    "name": "Hotel Durbar \u0026 lodge",
+    "name": "Hotel Durbar & lodge",
     "address": "H08, Biratnagar 56613, Nepal",
     "phone": "+97721503346"
   },
@@ -5251,7 +5251,7 @@
   },
   {
     "id": 876,
-    "name": "Raja Mobile Center \u0026 Studio",
+    "name": "Raja Mobile Center & Studio",
     "address": "Sankhadhar Sakhwa Marg, Biratnagar 56613, Nepal",
     "phone": "+9779816341760"
   },
@@ -5359,7 +5359,7 @@
   },
   {
     "id": 894,
-    "name": "Anshriya Electronics,Mobile\u0026Tv Re-pering Center",
+    "name": "Anshriya Electronics,Mobile&Tv Re-pering Center",
     "address": "56707, Duhabi Road 5, Duhabi 56707, Nepal",
     "phone": "56707556707"
   },
@@ -5557,7 +5557,7 @@
   },
   {
     "id": 927,
-    "name": "Unique Sweets \u0026 Snacks",
+    "name": "Unique Sweets & Snacks",
     "address": "Sukhia Pokhri Rd, Kharmal Basti, Ghoom, West Bengal 734102, India",
     "phone": ""
   },
@@ -5605,7 +5605,7 @@
   },
   {
     "id": 935,
-    "name": "Angan Sweets \u0026 Vegetarian Family Restaurant",
+    "name": "Angan Sweets & Vegetarian Family Restaurant",
     "address": "Ground Floor, Main Rd (North), Biratnagar 56613, Nepal",
     "phone": "+97721590114"
   },
@@ -5803,7 +5803,7 @@
   },
   {
     "id": 968,
-    "name": "City Guest House \u0026 Family Restaurant",
+    "name": "City Guest House & Family Restaurant",
     "address": "Deshi Line, Dharan 56700, Nepal",
     "phone": "+97725524797"
   },
@@ -5815,7 +5815,7 @@
   },
   {
     "id": 970,
-    "name": "New Dreamland Hotel \u0026 Lodge",
+    "name": "New Dreamland Hotel & Lodge",
     "address": "East - West Highway, Inaruwa 56710, Nepal",
     "phone": "+9779852041100"
   },
@@ -5881,8 +5881,8 @@
   },
   {
     "id": 981,
-    "name": "Hotel Ambassador (Lodge, Restaurant \u0026 Bar)",
-    "address": "Hulak Tole \u0026 Thadobazar Street, Dhankuta 56800, Nepal",
+    "name": "Hotel Ambassador (Lodge, Restaurant & Bar)",
+    "address": "Hulak Tole & Thadobazar Street, Dhankuta 56800, Nepal",
     "phone": ""
   },
   {
@@ -5900,7 +5900,7 @@
   {
     "id": 984,
     "name": "OYO 362 Kabita Hotel",
-    "address": "Zamzam \u0026 Restaurant, Inrwa, Biratnagar, Inaruwa 56710, Nepal",
+    "address": "Zamzam & Restaurant, Inrwa, Biratnagar, Inaruwa 56710, Nepal",
     "phone": "+97714217474"
   },
   {
@@ -5929,7 +5929,7 @@
   },
   {
     "id": 989,
-    "name": "Shisha Lounge Bar \u0026 Guest House",
+    "name": "Shisha Lounge Bar & Guest House",
     "address": "Sangurigadhi, Bhedetar, Dharan, Bhedetar 56804, Nepal",
     "phone": "+97714217474"
   },
@@ -5995,7 +5995,7 @@
   },
   {
     "id": 1000,
-    "name": "SPOT ON 423 Hotel Zamzam \u0026 Restaurant",
+    "name": "SPOT ON 423 Hotel Zamzam & Restaurant",
     "address": "Munal Path, Dharan 56700, Nepal",
     "phone": "+9779810104810"
   },
@@ -6049,7 +6049,7 @@
   },
   {
     "id": 1009,
-    "name": "OYO328 Premier Hotel Lounge \u0026 Restaurant",
+    "name": "OYO328 Premier Hotel Lounge & Restaurant",
     "address": "Munal Path, Dharan 56700, Nepal",
     "phone": "+9779810104810"
   },
@@ -6091,7 +6091,7 @@
   },
   {
     "id": 1016,
-    "name": "HOTEL ZAMZAM \u0026 RESTAURANT INARUWA",
+    "name": "HOTEL ZAMZAM & RESTAURANT INARUWA",
     "address": "Bhedetar - Rajarani - Rabi - Ranke, Bhedetar 56804, Nepal",
     "phone": "+97725400032"
   },
@@ -6127,13 +6127,13 @@
   },
   {
     "id": 1022,
-    "name": "Vibes Restaurant \u0026 Grill House",
+    "name": "Vibes Restaurant & Grill House",
     "address": "Putali line, Dharan 56700, Nepal",
     "phone": "+97725537784"
   },
   {
     "id": 1023,
-    "name": "Bagaicha Restaurant(bar\u0026garden)",
+    "name": "Bagaicha Restaurant(bar&garden)",
     "address": "Himali Marg 8, Dharan 56700, Nepal",
     "phone": "+9779811356710"
   },
@@ -6145,7 +6145,7 @@
   },
   {
     "id": 1025,
-    "name": "Cafe Laring \u0026 restaurant",
+    "name": "Cafe Laring & restaurant",
     "address": "Putali line, Dharan 56700, Nepal",
     "phone": "+97725525376"
   },
@@ -6187,7 +6187,7 @@
   },
   {
     "id": 1032,
-    "name": "Dharan Gurkha Kitchen \u0026 Bar",
+    "name": "Dharan Gurkha Kitchen & Bar",
     "address": "Aacharya Line, Dharan 56700, Nepal",
     "phone": "+97725532480"
   },
@@ -6229,7 +6229,7 @@
   },
   {
     "id": 1039,
-    "name": "D- Mandu Cuisine (Jwaikhana \u0026 Momo House)",
+    "name": "D- Mandu Cuisine (Jwaikhana & Momo House)",
     "address": "Bikash Marg, Dharan 56700, Nepal",
     "phone": "+9779814324276"
   },
@@ -6241,7 +6241,7 @@
   },
   {
     "id": 1041,
-    "name": "Chyabrung Resturant \u0026 Karaoke",
+    "name": "Chyabrung Resturant & Karaoke",
     "address": "Bhanu Marg, Dharan 56700, Nepal",
     "phone": "+9779804096793"
   },
@@ -6295,7 +6295,7 @@
   },
   {
     "id": 1050,
-    "name": "Jason's Restro \u0026 Bar",
+    "name": "Jason's Restro & Bar",
     "address": "Putali line 10, Dharan 56700, Nepal",
     "phone": "+9779862164882"
   },
@@ -6379,7 +6379,7 @@
   },
   {
     "id": 1064,
-    "name": "Speshal food cafe\u0026shop",
+    "name": "Speshal food cafe&shop",
     "address": "Dharan 56700, Nepal",
     "phone": "+9779840750911"
   },
@@ -6457,13 +6457,13 @@
   },
   {
     "id": 1077,
-    "name": "Chef Food Garden Bar \u0026 Restaurant",
+    "name": "Chef Food Garden Bar & Restaurant",
     "address": "Dharan 56700, Nepal",
     "phone": "7+32456700"
   },
   {
     "id": 1078,
-    "name": "Hamro Sekuwa Ghar \u0026 Mo:Mo Center",
+    "name": "Hamro Sekuwa Ghar & Mo:Mo Center",
     "address": "Dasharath Marg, Dharan 56700, Nepal",
     "phone": "+97725521766"
   },
@@ -6535,7 +6535,7 @@
   },
   {
     "id": 1090,
-    "name": "CHOMOLUNG FAST FOOD \u0026 RETAIL SHOP",
+    "name": "CHOMOLUNG FAST FOOD & RETAIL SHOP",
     "address": "H08, Dharan 56700, Nepal",
     "phone": "7+390856700"
   },
@@ -6817,7 +6817,7 @@
   },
   {
     "id": 1137,
-    "name": "Anshriya Electronics,Mobile\u0026Tv Re-pering Center",
+    "name": "Anshriya Electronics,Mobile&Tv Re-pering Center",
     "address": "Chatara Line, Dharan 56700, Nepal",
     "phone": "+97725525706"
   },
@@ -6889,7 +6889,7 @@
   },
   {
     "id": 1149,
-    "name": "Shamsh \u0026 Sons Store",
+    "name": "Shamsh & Sons Store",
     "address": "Sonapur 56707, Nepal",
     "phone": "+9779807353798"
   },
@@ -6955,7 +6955,7 @@
   },
   {
     "id": 1160,
-    "name": "Sweta Beauty Parlor \u0026 Training Center",
+    "name": "Sweta Beauty Parlor & Training Center",
     "address": "Putali line, Dharan 56700, Nepal",
     "phone": "+9779802453252"
   },
@@ -7417,13 +7417,13 @@
   },
   {
     "id": 1237,
-    "name": "SPOT ON 365 Nepaltop Hotel \u0026 Lodge",
+    "name": "SPOT ON 365 Nepaltop Hotel & Lodge",
     "address": "Medical college Road Kohalpur, Nepalgunj, Kohalpur 21904, Nepal",
     "phone": ""
   },
   {
     "id": 1238,
-    "name": "SPOT ON 365 Nepaltop Hotel \u0026 Lodge",
+    "name": "SPOT ON 365 Nepaltop Hotel & Lodge",
     "address": "Bageshwori tole, Surkhet road, ward number 3, Nepalgunj 22900, Nepal",
     "phone": "+918800699823"
   },
@@ -7447,7 +7447,7 @@
   },
   {
     "id": 1242,
-    "name": "Om Shanti Hotel \u0026 Lodge",
+    "name": "Om Shanti Hotel & Lodge",
     "address": "Ratna Rajmarg H12 (Nepalganj-Surkhet Road) 10, Nepalgunj 21900, Nepal",
     "phone": "121021900"
   },
@@ -7543,7 +7543,7 @@
   },
   {
     "id": 1258,
-    "name": "Hot \u0026 Chilly",
+    "name": "Hot & Chilly",
     "address": "Karkando Chowk, Nepalgunj 21900, Nepal",
     "phone": "+9779802538999"
   },
@@ -7567,7 +7567,7 @@
   },
   {
     "id": 1262,
-    "name": "Mauri Restaurant \u0026 Bar",
+    "name": "Mauri Restaurant & Bar",
     "address": "Ratna Rajmarg H12 (Nepalganj-Surkhet Road), Nepalgunj 21900, Nepal",
     "phone": "+97781531644"
   },
@@ -7603,7 +7603,7 @@
   },
   {
     "id": 1268,
-    "name": "Big Bell Cafe \u0026 Restaurant",
+    "name": "Big Bell Cafe & Restaurant",
     "address": "Ratna Rajmarg, H12 16, Nepalgunj 21900, Nepal",
     "phone": "121621900"
   },
@@ -7645,7 +7645,7 @@
   },
   {
     "id": 1275,
-    "name": "D-Edge Restaurant \u0026 Bar",
+    "name": "D-Edge Restaurant & Bar",
     "address": "Nepalgunj 21900, Nepal",
     "phone": "+9779851259778"
   },
@@ -7663,7 +7663,7 @@
   },
   {
     "id": 1278,
-    "name": "Pepe Pizza Restaurant \u0026 Bar",
+    "name": "Pepe Pizza Restaurant & Bar",
     "address": "Ratna Rajmarg H12 (Nepalganj-Surkhet Road), Nepalgunj 21900, Nepal",
     "phone": "369+591221900"
   },
@@ -7681,7 +7681,7 @@
   },
   {
     "id": 1281,
-    "name": "The Beer \u0026 Barbecue",
+    "name": "The Beer & Barbecue",
     "address": "Idgaha Rd, Nepalgunj 21900, Nepal",
     "phone": "35+72621900"
   },
@@ -7729,7 +7729,7 @@
   },
   {
     "id": 1289,
-    "name": "Hungry Restaurant \u0026 Khaja Ghar Nepalgunj Airport",
+    "name": "Hungry Restaurant & Khaja Ghar Nepalgunj Airport",
     "address": "Sadarline-11, Nepalgunj 21900, Nepal",
     "phone": "+9779812438574"
   },
@@ -7837,7 +7837,7 @@
   },
   {
     "id": 1307,
-    "name": "Saathi Krishna Cottage\u0026 Party Palace",
+    "name": "Saathi Krishna Cottage& Party Palace",
     "address": "Ram Leela Rd, Nepalgunj 21900, Nepal",
     "phone": "+9779848046791"
   },
@@ -7849,7 +7849,7 @@
   },
   {
     "id": 1309,
-    "name": "Saathi Krishna Cottage \u0026 Party Place",
+    "name": "Saathi Krishna Cottage & Party Place",
     "address": "Bhrikutinagar Road, Nepalgunj 21900, Nepal",
     "phone": ""
   },
@@ -8041,7 +8041,7 @@
   },
   {
     "id": 1341,
-    "name": "Sanu Taas, Momo \u0026 Sekuwa Corner",
+    "name": "Sanu Taas, Momo & Sekuwa Corner",
     "address": "Airport Rd, Nepalgunj 21900, Nepal",
     "phone": "+9779802548552"
   },
@@ -8221,7 +8221,7 @@
   },
   {
     "id": 1371,
-    "name": "P\u0026p Shoes Center",
+    "name": "P&p Shoes Center",
     "address": "Khajura Road, Nepalgunj 21900, Nepal",
     "phone": "+9779800530644"
   },
@@ -8269,7 +8269,7 @@
   },
   {
     "id": 1379,
-    "name": "Phewa Photo Copy \u0026 Mobile Repairing Center",
+    "name": "Phewa Photo Copy & Mobile Repairing Center",
     "address": "Banke Banke, Ranjha Chowk, Nepalgunj 21900, Nepal",
     "phone": "+9779816556326"
   },
@@ -8347,7 +8347,7 @@
   },
   {
     "id": 1392,
-    "name": "Rasee collection \u0026 money trasfer",
+    "name": "Rasee collection & money trasfer",
     "address": "Block Road, Babaganj, Uttar Pradesh 271881, India",
     "phone": "+919452216418"
   },
@@ -8575,7 +8575,7 @@
   },
   {
     "id": 1430,
-    "name": "Royal Enfield Service Center Nepalgunj - National Parts \u0026 Suppliers",
+    "name": "Royal Enfield Service Center Nepalgunj - National Parts & Suppliers",
     "address": "Ratna Rajmarg H12 (Nepalganj-Surkhet Road) 9, Nepalgunj 21900, Nepal",
     "phone": "37+3512921900"
   },
@@ -8587,7 +8587,7 @@
   },
   {
     "id": 1432,
-    "name": "Princess Beauty Palour \u0026 Cosmetic Center",
+    "name": "Princess Beauty Palour & Cosmetic Center",
     "address": "Nepalgunj Industrial Zone, Nepalgunj 21900, Nepal",
     "phone": ""
   },
@@ -8654,7 +8654,7 @@
   {
     "id": 1443,
     "name": "Mero Planet - Integrated Resort",
-    "address": "Province #05, Mansarovar Amusement Park \u0026 Resort Pvt. Ltd Nepalgunj, Sub Metropolitan Ward #14, Balegau, Nepalgunj, Nepal",
+    "address": "Province #05, Mansarovar Amusement Park & Resort Pvt. Ltd Nepalgunj, Sub Metropolitan Ward #14, Balegau, Nepalgunj, Nepal",
     "phone": "+9779802569924"
   },
   {

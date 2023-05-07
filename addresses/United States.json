@@ -493,7 +493,7 @@
   },
   {
     "id": 83,
-    "name": "Fairfield Inn \u0026 Suites by Marriott New York Manhattan/Central Park",
+    "name": "Fairfield Inn & Suites by Marriott New York Manhattan/Central Park",
     "address": "319 W 48th St, New York, NY 10036",
     "phone": "3194810036"
   },
@@ -619,7 +619,7 @@
   },
   {
     "id": 104,
-    "name": "Dave \u0026 Buster's New York City - Times Square",
+    "name": "Dave & Buster's New York City - Times Square",
     "address": "234 W 42nd St 3rd Floor, New York, NY 10036",
     "phone": "23442310036"
   },
@@ -1039,13 +1039,13 @@
   },
   {
     "id": 174,
-    "name": "Bua Thai Ramen \u0026 Robata Grill",
+    "name": "Bua Thai Ramen & Robata Grill",
     "address": "448 W 33rd St, New York, NY 10001",
     "phone": "4483310001"
   },
   {
     "id": 175,
-    "name": "Mangia 57th - Midtown Italian Food \u0026 Corporate Catering NYC",
+    "name": "Mangia 57th - Midtown Italian Food & Corporate Catering NYC",
     "address": "101 Liberty St 3rd Floor, New York, NY 10007",
     "phone": "101310007"
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 203,
-    "name": "Tommy Bahama Restaurant, Bar \u0026 Store",
+    "name": "Tommy Bahama Restaurant, Bar & Store",
     "address": "75 Thompson St, New York, NY 10012",
     "phone": "6467819183"
   },
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 205,
-    "name": "Warby Parker 80th \u0026 Columbus",
+    "name": "Warby Parker 80th & Columbus",
     "address": "176 Mulberry St, New York, NY 10013",
     "phone": "17610013"
   },
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 305,
-    "name": "Our/New York Bar \u0026 Vodka Distillery",
+    "name": "Our/New York Bar & Vodka Distillery",
     "address": "151 W 26th St, New York, NY 10001",
     "phone": "1512610001"
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 315,
-    "name": "9/11 Memorial \u0026 Museum",
+    "name": "9/11 Memorial & Museum",
     "address": "E 67th St, New York, NY 10022",
     "phone": "2123106600"
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 325,
-    "name": "The Morgan Library \u0026 Museum",
+    "name": "The Morgan Library & Museum",
     "address": "200 Central Park West, New York, NY 10024",
     "phone": "20010024"
   },
@@ -2006,7 +2006,7 @@
   {
     "id": 335,
     "name": "Flatiron Building",
-    "address": "1109 5th Ave \u0026, E 92nd St, New York, 10128",
+    "address": "1109 5th Ave &, E 92nd St, New York, 10128",
     "phone": "110959210128"
   },
   {
@@ -2084,7 +2084,7 @@
   {
     "id": 348,
     "name": "Color Factory New York",
-    "address": "Montague St \u0026, Pierrepont Pl, Brooklyn, NY 11201",
+    "address": "Montague St &, Pierrepont Pl, Brooklyn, NY 11201",
     "phone": "2126399675"
   },
   {
@@ -2204,13 +2204,13 @@
   {
     "id": 368,
     "name": "Brooklyn Heights Promenade",
-    "address": "Mulberry Street \u0026, Baxter St, New York, NY 10013",
+    "address": "Mulberry Street &, Baxter St, New York, NY 10013",
     "phone": "2126399675"
   },
   {
     "id": 369,
     "name": "African Burial Ground National Monument",
-    "address": "Water St \u0026, State St, New York, 10004",
+    "address": "Water St &, State St, New York, 10004",
     "phone": "2123443491"
   },
   {
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 424,
-    "name": "The New York \u0026 Presbyterian Hospital",
+    "name": "The New York & Presbyterian Hospital",
     "address": "1184 5th Ave, New York, NY 10029",
     "phone": "1184510029"
   },
@@ -2767,7 +2767,7 @@
   },
   {
     "id": 462,
-    "name": "New York City Health \u0026 Hospital",
+    "name": "New York City Health & Hospital",
     "address": "W 183rd St, New York, NY 10033",
     "phone": "18310033"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "id": 516,
-    "name": "Silver Lake Pool \u0026 Inn",
+    "name": "Silver Lake Pool & Inn",
     "address": "5250 W El Segundo Blvd, Hawthorne, CA 90250",
     "phone": "525090250"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 526,
-    "name": "Silver Lake Pool \u0026 Inn",
+    "name": "Silver Lake Pool & Inn",
     "address": "201 Broadway, Santa Monica, CA 90401",
     "phone": "20190401"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "id": 534,
-    "name": "Hampton Inn \u0026 Suites Los Angeles/Hollywood",
+    "name": "Hampton Inn & Suites Los Angeles/Hollywood",
     "address": "115 S Fairfax Ave, Los Angeles, CA 90036",
     "phone": "11590036"
   },
@@ -3259,7 +3259,7 @@
   },
   {
     "id": 544,
-    "name": "Hampton Inn \u0026 Suites Los Angeles/Hollywood",
+    "name": "Hampton Inn & Suites Los Angeles/Hollywood",
     "address": "9850 Wilshire Blvd, Beverly Hills, CA 90210",
     "phone": "985090210"
   },
@@ -3391,7 +3391,7 @@
   },
   {
     "id": 566,
-    "name": "BLVD Hotel \u0026 Spa",
+    "name": "BLVD Hotel & Spa",
     "address": "1800 Argyle Ave, Los Angeles, CA 90028",
     "phone": "180090028"
   },
@@ -3469,7 +3469,7 @@
   },
   {
     "id": 579,
-    "name": "Oceana Santa Monica, LXR Hotels \u0026 Resorts",
+    "name": "Oceana Santa Monica, LXR Hotels & Resorts",
     "address": "1150 S Beverly Dr, Los Angeles, CA 90035",
     "phone": "115090035"
   },
@@ -3487,7 +3487,7 @@
   },
   {
     "id": 582,
-    "name": "Ramada Plaza by Wyndham West Hollywood Hotel \u0026 Suites",
+    "name": "Ramada Plaza by Wyndham West Hollywood Hotel & Suites",
     "address": "711 S Hope St, Los Angeles, CA 90017",
     "phone": "71190017"
   },
@@ -3607,7 +3607,7 @@
   },
   {
     "id": 602,
-    "name": "Orsa \u0026 Winston",
+    "name": "Orsa & Winston",
     "address": "1060 S Broadway, Los Angeles, CA 90015",
     "phone": "106090015"
   },
@@ -3733,7 +3733,7 @@
   },
   {
     "id": 623,
-    "name": "République Café Bakery \u0026 République Restaurant",
+    "name": "République Café Bakery & République Restaurant",
     "address": "764 S Western Ave, Los Angeles, CA 90005",
     "phone": "76490005"
   },
@@ -3757,13 +3757,13 @@
   },
   {
     "id": 627,
-    "name": "Noe Restaurant \u0026 Bar",
+    "name": "Noe Restaurant & Bar",
     "address": "4001 W Olympic Blvd, Los Angeles, CA 90019",
     "phone": "400190019"
   },
   {
     "id": 628,
-    "name": "DAMA Fashion District Restaurant \u0026 Bar",
+    "name": "DAMA Fashion District Restaurant & Bar",
     "address": "6500 Selma Ave, Los Angeles, CA 90028",
     "phone": "650090028"
   },
@@ -3949,7 +3949,7 @@
   },
   {
     "id": 659,
-    "name": "Spitz - Los Feliz Restaurant \u0026 Bar - Mediterranean Food \u0026 More - Dine-In or Outdoor Dining",
+    "name": "Spitz - Los Feliz Restaurant & Bar - Mediterranean Food & More - Dine-In or Outdoor Dining",
     "address": "8284 Melrose Ave, Los Angeles, CA 90046",
     "phone": "828490046"
   },
@@ -3961,7 +3961,7 @@
   },
   {
     "id": 661,
-    "name": "Angelo's Pasta \u0026 Grill",
+    "name": "Angelo's Pasta & Grill",
     "address": "W, 1 Olvera St, Los Angeles, CA 90012",
     "phone": "2136287495"
   },
@@ -4021,7 +4021,7 @@
   },
   {
     "id": 671,
-    "name": "Musso \u0026 Frank Grill",
+    "name": "Musso & Frank Grill",
     "address": "707 S Grand Ave, Los Angeles, CA 90017",
     "phone": "70790017"
   },
@@ -4033,7 +4033,7 @@
   },
   {
     "id": 673,
-    "name": "Ivanhoe Restaurant \u0026 Bar",
+    "name": "Ivanhoe Restaurant & Bar",
     "address": "130 E 6th St, Los Angeles, CA 90014",
     "phone": "130690014"
   },
@@ -4603,7 +4603,7 @@
   },
   {
     "id": 768,
-    "name": "EaHo Business \u0026 Apartments Mall",
+    "name": "EaHo Business & Apartments Mall",
     "address": "Second Floor, 3500 W 6th St, Los Angeles, CA 90020",
     "phone": "3500690020"
   },
@@ -5149,7 +5149,7 @@
   },
   {
     "id": 859,
-    "name": "Griffith Park \u0026 Southern Railroad",
+    "name": "Griffith Park & Southern Railroad",
     "address": "6933 Hollywood Blvd, Los Angeles, CA 90028",
     "phone": "693390028"
   },
@@ -5167,7 +5167,7 @@
   },
   {
     "id": 862,
-    "name": "826LA \u0026 The Echo Park Time Travel Mart",
+    "name": "826LA & The Echo Park Time Travel Mart",
     "address": "6901 Hollywood Blvd, Los Angeles, CA 90028",
     "phone": "690190028"
   },
@@ -5713,7 +5713,7 @@
   },
   {
     "id": 953,
-    "name": "Providence Health \u0026 Services",
+    "name": "Providence Health & Services",
     "address": "6850 Sepulveda Blvd UNIT 200, Van Nuys, CA 91405",
     "phone": "685020091405"
   },
@@ -5857,7 +5857,7 @@
   },
   {
     "id": 977,
-    "name": "Los Angeles Treatment \u0026 IMAGIN CENTER",
+    "name": "Los Angeles Treatment & IMAGIN CENTER",
     "address": "6041 Cadillac Ave, Los Angeles, CA 90034",
     "phone": "604190034"
   },
@@ -5917,7 +5917,7 @@
   },
   {
     "id": 987,
-    "name": "Richlife Orthopedic \u0026 Neurosurgery Hospital",
+    "name": "Richlife Orthopedic & Neurosurgery Hospital",
     "address": "700 Wilshire Blvd, Los Angeles, CA 90017",
     "phone": "70090017"
   },
@@ -5965,7 +5965,7 @@
   },
   {
     "id": 995,
-    "name": "The Congress Plaza Hotel \u0026 Convention Center",
+    "name": "The Congress Plaza Hotel & Convention Center",
     "address": "85 E Wacker Dr, Chicago, IL 60601",
     "phone": "3123571200"
   },
@@ -6295,7 +6295,7 @@
   },
   {
     "id": 1050,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham Chicago Downtown",
+    "name": "La Quinta Inn & Suites by Wyndham Chicago Downtown",
     "address": "300 E Ohio St, Chicago, IL 60611",
     "phone": "30060611"
   },
@@ -6337,7 +6337,7 @@
   },
   {
     "id": 1057,
-    "name": "The Chicago Hotel Collection Magnificent Mile Hotel \u0026 Suites",
+    "name": "The Chicago Hotel Collection Magnificent Mile Hotel & Suites",
     "address": "19 E Ohio St, Chicago, IL 60611",
     "phone": "3129403699"
   },
@@ -6493,7 +6493,7 @@
   },
   {
     "id": 1083,
-    "name": "Hampton Inn \u0026 Suites Chicago-Downtown",
+    "name": "Hampton Inn & Suites Chicago-Downtown",
     "address": "676 Michigan Ave, Chicago, IL 60611",
     "phone": "67660611"
   },
@@ -6523,7 +6523,7 @@
   },
   {
     "id": 1088,
-    "name": "Holiday Inn \u0026 Suites Chicago-Downtown, an IHG Hotel",
+    "name": "Holiday Inn & Suites Chicago-Downtown, an IHG Hotel",
     "address": "800 S Michigan Ave, Chicago, IL 60605",
     "phone": "80060605"
   },
@@ -6559,7 +6559,7 @@
   },
   {
     "id": 1094,
-    "name": "Girl \u0026 The Goat",
+    "name": "Girl & The Goat",
     "address": "809 W Randolph St, Chicago, IL 60607",
     "phone": "80960607"
   },
@@ -6601,7 +6601,7 @@
   },
   {
     "id": 1101,
-    "name": "Monteverde Restaurant \u0026 Pastificio",
+    "name": "Monteverde Restaurant & Pastificio",
     "address": "153 E Erie St, Chicago, IL 60611",
     "phone": "15360611"
   },
@@ -6667,7 +6667,7 @@
   },
   {
     "id": 1112,
-    "name": "Gibsons Bar \u0026 Steakhouse",
+    "name": "Gibsons Bar & Steakhouse",
     "address": "564 W Randolph St, Chicago, IL 60661",
     "phone": "56460661"
   },
@@ -6721,13 +6721,13 @@
   },
   {
     "id": 1121,
-    "name": "676 Restaurant \u0026 Bar",
+    "name": "676 Restaurant & Bar",
     "address": "800 S Clark St, Chicago, IL 60605",
     "phone": "80060605"
   },
   {
     "id": 1122,
-    "name": "Venteux Brasserie, Cafe \u0026 Oyster Bar",
+    "name": "Venteux Brasserie, Cafe & Oyster Bar",
     "address": "Urban Space, 15 W Washington St, Chicago, IL 60602",
     "phone": ""
   },
@@ -6739,7 +6739,7 @@
   },
   {
     "id": 1124,
-    "name": "Bavette's Bar \u0026 Boeuf",
+    "name": "Bavette's Bar & Boeuf",
     "address": "71 W Monroe St, Chicago, IL 60603",
     "phone": "3123324040"
   },
@@ -6751,7 +6751,7 @@
   },
   {
     "id": 1126,
-    "name": "Joe's Seafood, Prime Steak \u0026 Stone Crab",
+    "name": "Joe's Seafood, Prime Steak & Stone Crab",
     "address": "231 S La Salle St #108, Chicago, IL 60604",
     "phone": "23110860604"
   },
@@ -6776,12 +6776,12 @@
   {
     "id": 1130,
     "name": "Doc B's Restaurant (River North)",
-    "address": "10\u0026 30, S Wacker Dr, Chicago, IL 60606",
+    "address": "10& 30, S Wacker Dr, Chicago, IL 60606",
     "phone": "103060606"
   },
   {
     "id": 1131,
-    "name": "Lockwood Restaurant \u0026 Bar",
+    "name": "Lockwood Restaurant & Bar",
     "address": "201 E Walton Pl, Chicago, IL 60611",
     "phone": "20160611"
   },
@@ -6853,7 +6853,7 @@
   },
   {
     "id": 1143,
-    "name": "ROOH Chicago Progressive Indian Restaurant \u0026 Cocktail Bar",
+    "name": "ROOH Chicago Progressive Indian Restaurant & Cocktail Bar",
     "address": "2100 N Halsted St, Chicago, IL 60614",
     "phone": "210060614"
   },
@@ -6901,7 +6901,7 @@
   },
   {
     "id": 1151,
-    "name": "Exchequer Restaurant \u0026 Pub",
+    "name": "Exchequer Restaurant & Pub",
     "address": "201 E Grand Ave, Chicago, IL 60611",
     "phone": "20160611"
   },
@@ -6955,13 +6955,13 @@
   },
   {
     "id": 1160,
-    "name": "Staytion Market \u0026 Bar",
+    "name": "Staytion Market & Bar",
     "address": "151 W Adams St, Chicago, IL 60603",
     "phone": "15160603"
   },
   {
     "id": 1161,
-    "name": "Adorn Bar \u0026 Restaurant",
+    "name": "Adorn Bar & Restaurant",
     "address": "444 N Wabash Ave, Chicago, IL 60611",
     "phone": "44460611"
   },
@@ -6973,7 +6973,7 @@
   },
   {
     "id": 1163,
-    "name": "Twin Anchors Restaurant \u0026 Tavern",
+    "name": "Twin Anchors Restaurant & Tavern",
     "address": "905 W Fulton Market, Chicago, IL 60607",
     "phone": "90560607"
   },
@@ -7057,7 +7057,7 @@
   },
   {
     "id": 1177,
-    "name": "90th Meridian Kitchen \u0026 Bar",
+    "name": "90th Meridian Kitchen & Bar",
     "address": "51 W Kinzie St, Chicago, IL 60654",
     "phone": "3125951322"
   },
@@ -7129,7 +7129,7 @@
   },
   {
     "id": 1189,
-    "name": "MEROË Sudanese \u0026 Mediterranean Grill",
+    "name": "MEROË Sudanese & Mediterranean Grill",
     "address": "135 W Madison St, Chicago, IL 60602",
     "phone": "13560602"
   },
@@ -7273,7 +7273,7 @@
   },
   {
     "id": 1213,
-    "name": "Riverside Square \u0026 River's Edge",
+    "name": "Riverside Square & River's Edge",
     "address": "3243 W 115th St, Merrionette Park, IL 60655",
     "phone": "324311560655"
   },
@@ -7525,7 +7525,7 @@
   },
   {
     "id": 1255,
-    "name": "M\u0026R Plaza",
+    "name": "M&R Plaza",
     "address": "30 N La Salle St, Chicago, IL 60602",
     "phone": ""
   },
@@ -7561,7 +7561,7 @@
   },
   {
     "id": 1261,
-    "name": "North \u0026 Sheffield Commons",
+    "name": "North & Sheffield Commons",
     "address": "4636 S Damen Ave, Chicago, IL 60609",
     "phone": "463660609"
   },
@@ -7597,14 +7597,14 @@
   },
   {
     "id": 1267,
-    "name": "Irving \u0026 Kimball plaza",
+    "name": "Irving & Kimball plaza",
     "address": "1410 E 53rd St, Chicago, IL 60615",
     "phone": "14105360615"
   },
   {
     "id": 1268,
     "name": "Coral Plaza Shopping Center",
-    "address": "S Cottage Grove Ave \u0026, E 51st St, Chicago, IL 60615",
+    "address": "S Cottage Grove Ave &, E 51st St, Chicago, IL 60615",
     "phone": "3127020156"
   },
   {
@@ -8215,7 +8215,7 @@
   },
   {
     "id": 1370,
-    "name": "National Museum of Puerto Rican Arts \u0026 Culture",
+    "name": "National Museum of Puerto Rican Arts & Culture",
     "address": "740 E 56th Pl, Chicago, IL 60637",
     "phone": "7405660637"
   },
@@ -8407,7 +8407,7 @@
   },
   {
     "id": 1402,
-    "name": "Jackson Park Hospital \u0026 Medical Center",
+    "name": "Jackson Park Hospital & Medical Center",
     "address": "1835 W Harrison St, Chicago, IL 60612",
     "phone": "183560612"
   },
@@ -8455,7 +8455,7 @@
   },
   {
     "id": 1410,
-    "name": "Ann \u0026 Robert H. Lurie Children’s Hospital of Chicago",
+    "name": "Ann & Robert H. Lurie Children’s Hospital of Chicago",
     "address": "1401 S California Ave, Chicago, IL 60608",
     "phone": "140160608"
   },
@@ -8521,7 +8521,7 @@
   },
   {
     "id": 1421,
-    "name": "Insight Hospital \u0026 Medical Center Chicago",
+    "name": "Insight Hospital & Medical Center Chicago",
     "address": "3810 W 16th St, Chicago, IL 60623",
     "phone": "38101660623"
   },
@@ -8683,7 +8683,7 @@
   },
   {
     "id": 1448,
-    "name": "Ann \u0026 Robert H. Lurie Children's Hospital of Chicago",
+    "name": "Ann & Robert H. Lurie Children's Hospital of Chicago",
     "address": "1500 S Fairfield Ave, Chicago, IL 60608",
     "phone": "150060608"
   },
@@ -8737,7 +8737,7 @@
   },
   {
     "id": 1457,
-    "name": "Ann \u0026 Robert H. Lurie Children's Hospital of Chicago Outpatient Center",
+    "name": "Ann & Robert H. Lurie Children's Hospital of Chicago Outpatient Center",
     "address": "811 S Paulina St, Chicago, IL 60612",
     "phone": "81160612"
   },
@@ -8852,7 +8852,7 @@
   {
     "id": 1476,
     "name": "Schwab Rehab Hospital",
-    "address": "\u0026, S California Ave \u0026 W 15th Pl, Chicago, IL 60608",
+    "address": "&, S California Ave & W 15th Pl, Chicago, IL 60608",
     "phone": "7735222010"
   },
   {
@@ -8887,7 +8887,7 @@
   },
   {
     "id": 1482,
-    "name": "Ann \u0026 Robert H. Lurie Children's Hospital of Chicago Outpatient Center",
+    "name": "Ann & Robert H. Lurie Children's Hospital of Chicago Outpatient Center",
     "address": "2320 E 93rd St, Chicago, IL 60617",
     "phone": "23209360617"
   },
@@ -8911,13 +8911,13 @@
   },
   {
     "id": 1486,
-    "name": "La Quinta Inn \u0026 Suites Houston Bush Intl Airport E",
+    "name": "La Quinta Inn & Suites Houston Bush Intl Airport E",
     "address": "15838 John F Kennedy Blvd, Houston, TX 77032",
     "phone": "1583877032"
   },
   {
     "id": 1487,
-    "name": "Holiday Inn Express \u0026 Suites Houston NW - Cypress Grand Pky, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Houston NW - Cypress Grand Pky, an IHG Hotel",
     "address": "820 Fannin St, Houston, TX 77002",
     "phone": "82077002"
   },
@@ -8953,7 +8953,7 @@
   },
   {
     "id": 1493,
-    "name": "Comfort Inn \u0026 Suites SW Houston Sugarland",
+    "name": "Comfort Inn & Suites SW Houston Sugarland",
     "address": "6 E Greenway Plaza, Houston, TX 77046",
     "phone": "7136291200"
   },
@@ -9235,7 +9235,7 @@
   },
   {
     "id": 1540,
-    "name": "DoubleTree by Hilton Hotel \u0026 Suites Houston by the Galleria",
+    "name": "DoubleTree by Hilton Hotel & Suites Houston by the Galleria",
     "address": "710 Crawford St, Houston, TX 77002",
     "phone": "71077002"
   },
@@ -9253,7 +9253,7 @@
   },
   {
     "id": 1543,
-    "name": "Hampton Inn \u0026 Suites Houston-Bush Intercontinental Aprt",
+    "name": "Hampton Inn & Suites Houston-Bush Intercontinental Aprt",
     "address": "7611 Katy Fwy, Houston, TX 77024",
     "phone": "761177024"
   },
@@ -9313,7 +9313,7 @@
   },
   {
     "id": 1553,
-    "name": "Holiday Inn Express \u0026 Suites Houston Energy Corridor-W Oaks, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Houston Energy Corridor-W Oaks, an IHG Hotel",
     "address": "100 W Cavalcade St, Houston, TX 77009",
     "phone": "10077009"
   },
@@ -9361,7 +9361,7 @@
   },
   {
     "id": 1561,
-    "name": "Holiday Inn Express \u0026 Suites Houston Memorial - City Centre, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Houston Memorial - City Centre, an IHG Hotel",
     "address": "6115 Will Clayton Pkwy, Humble, TX 77338",
     "phone": "611577338"
   },
@@ -9415,7 +9415,7 @@
   },
   {
     "id": 1570,
-    "name": "Scottish Inns \u0026 Suites Gulf Fwy, Houston, TX",
+    "name": "Scottish Inns & Suites Gulf Fwy, Houston, TX",
     "address": "1314 Texas Ave, Houston, TX 77002",
     "phone": "131477002"
   },
@@ -9451,13 +9451,13 @@
   },
   {
     "id": 1576,
-    "name": "The Houstonian Hotel, Club \u0026 Spa",
+    "name": "The Houstonian Hotel, Club & Spa",
     "address": "1121 Walker St, Houston, TX 77002",
     "phone": "112177002"
   },
   {
     "id": 1577,
-    "name": "Drury Inn \u0026 Suites Houston Near the Galleria",
+    "name": "Drury Inn & Suites Houston Near the Galleria",
     "address": "2712 Southwest Fwy, Houston, TX 77098",
     "phone": "271277098"
   },
@@ -9487,7 +9487,7 @@
   },
   {
     "id": 1582,
-    "name": "Best Western Galleria Inn \u0026 Suites",
+    "name": "Best Western Galleria Inn & Suites",
     "address": "1600 Lamar St, Houston, TX 77010",
     "phone": "160077010"
   },
@@ -9499,13 +9499,13 @@
   },
   {
     "id": 1584,
-    "name": "DoubleTree by Hilton Houston Medical Center Hotel \u0026 Suites",
+    "name": "DoubleTree by Hilton Houston Medical Center Hotel & Suites",
     "address": "13210 Katy Fwy, Houston, TX 77079",
     "phone": "1321077079"
   },
   {
     "id": 1585,
-    "name": "Americas Best Value Platinum Inn \u0026 Suites",
+    "name": "Americas Best Value Platinum Inn & Suites",
     "address": "1314 Texas Ave, Houston, TX 77002",
     "phone": "131477002"
   },
@@ -9523,7 +9523,7 @@
   },
   {
     "id": 1588,
-    "name": "Dave \u0026 Buster's Houston - Katy Fwy",
+    "name": "Dave & Buster's Houston - Katy Fwy",
     "address": "4848 Kirby Dr, Houston, TX 77098",
     "phone": "484877098"
   },
@@ -9553,7 +9553,7 @@
   },
   {
     "id": 1593,
-    "name": "Vic \u0026 Anthony's Steakhouse",
+    "name": "Vic & Anthony's Steakhouse",
     "address": "500 Dallas St Suite 100, Houston, TX 77002",
     "phone": "50010077002"
   },
@@ -9679,7 +9679,7 @@
   },
   {
     "id": 1614,
-    "name": "BCN Taste \u0026 Tradition",
+    "name": "BCN Taste & Tradition",
     "address": "3403 Milam St, Houston, TX 77002",
     "phone": "340377002"
   },
@@ -9745,7 +9745,7 @@
   },
   {
     "id": 1625,
-    "name": "Phil \u0026 Derek's Restaurant",
+    "name": "Phil & Derek's Restaurant",
     "address": "1600 Westheimer Rd, Houston, TX 77006",
     "phone": "160077006"
   },
@@ -9907,7 +9907,7 @@
   },
   {
     "id": 1652,
-    "name": "2840 Restaurant \u0026 Bar",
+    "name": "2840 Restaurant & Bar",
     "address": "2808 Caroline St, Houston, TX 77004",
     "phone": "280877004"
   },
@@ -10063,7 +10063,7 @@
   },
   {
     "id": 1678,
-    "name": "B\u0026B Butchers \u0026 Restaurant",
+    "name": "B&B Butchers & Restaurant",
     "address": "1302 Nance St unit a, Houston, TX 77002",
     "phone": "130277002"
   },
@@ -10075,7 +10075,7 @@
   },
   {
     "id": 1680,
-    "name": "Common Bond Brasserie \u0026 Bakery",
+    "name": "Common Bond Brasserie & Bakery",
     "address": "3201 Louisiana St, Houston, TX 77006",
     "phone": "320177006"
   },
@@ -10225,7 +10225,7 @@
   },
   {
     "id": 1705,
-    "name": "Town \u0026 Country Village",
+    "name": "Town & Country Village",
     "address": "10822 North Fwy, Houston, TX 77037",
     "phone": "1082277037"
   },
@@ -10771,14 +10771,14 @@
   },
   {
     "id": 1796,
-    "name": "Houston Arboretum \u0026 Nature Center",
+    "name": "Houston Arboretum & Nature Center",
     "address": "6200 Hermann Park Dr, Houston, TX 77030",
     "phone": "620077030"
   },
   {
     "id": 1797,
     "name": "Space Center Houston",
-    "address": "1800 Allen Pkwy \u0026, Memorial Dr, Houston, TX 77019",
+    "address": "1800 Allen Pkwy &, Memorial Dr, Houston, TX 77019",
     "phone": "180077019"
   },
   {
@@ -11233,7 +11233,7 @@
   },
   {
     "id": 1873,
-    "name": "Sheldon Lake State Park \u0026 Environmental Learning Center",
+    "name": "Sheldon Lake State Park & Environmental Learning Center",
     "address": "415 Barren Springs Dr, Houston, TX 77090",
     "phone": "41577090"
   },
@@ -11678,7 +11678,7 @@
   {
     "id": 1947,
     "name": "Memorial Hermann Northeast Hospital",
-    "address": "corner of and, Judiwood Dr \u0026, Satinwood Dr, Houston, TX 77090",
+    "address": "corner of and, Judiwood Dr &, Satinwood Dr, Houston, TX 77090",
     "phone": ""
   },
   {
@@ -11899,7 +11899,7 @@
   },
   {
     "id": 1984,
-    "name": "Hampton Inn \u0026 Suites Phoenix Downtown",
+    "name": "Hampton Inn & Suites Phoenix Downtown",
     "address": "3037 E Van Buren St, Phoenix, AZ 85008",
     "phone": "303785008"
   },
@@ -11911,7 +11911,7 @@
   },
   {
     "id": 1986,
-    "name": "The Clarendon Hotel \u0026 Spa by GreenTree (Cannabis-Friendly, 21+ only)",
+    "name": "The Clarendon Hotel & Spa by GreenTree (Cannabis-Friendly, 21+ only)",
     "address": "2000 W Westcourt Way, Tempe, AZ 85282",
     "phone": "200085282"
   },
@@ -11977,7 +11977,7 @@
   },
   {
     "id": 1997,
-    "name": "Hampton Inn \u0026 Suites Phoenix Downtown",
+    "name": "Hampton Inn & Suites Phoenix Downtown",
     "address": "3333 E University Dr, Phoenix, AZ 85034",
     "phone": "333385034"
   },
@@ -12019,7 +12019,7 @@
   },
   {
     "id": 2004,
-    "name": "Arizona Grand Resort \u0026 Spa",
+    "name": "Arizona Grand Resort & Spa",
     "address": "5200 E Camelback Rd, Phoenix, AZ 85018",
     "phone": "520085018"
   },
@@ -12049,7 +12049,7 @@
   },
   {
     "id": 2009,
-    "name": "Best Western Plus Chandler Hotel \u0026 Suites",
+    "name": "Best Western Plus Chandler Hotel & Suites",
     "address": "8421 W McDowell Rd, Tolleson, AZ 85353",
     "phone": "842185353"
   },
@@ -12091,7 +12091,7 @@
   },
   {
     "id": 2016,
-    "name": "GreenTree Inn \u0026 Suites Phoenix Sky Harbor",
+    "name": "GreenTree Inn & Suites Phoenix Sky Harbor",
     "address": "7333 N Pima Rd, Scottsdale, AZ 85258",
     "phone": "733385258"
   },
@@ -12103,7 +12103,7 @@
   },
   {
     "id": 2018,
-    "name": "Hampton Inn \u0026 Suites Phoenix Glendale-Westgate",
+    "name": "Hampton Inn & Suites Phoenix Glendale-Westgate",
     "address": "8399 W Lynwood St, Tolleson, AZ 85353",
     "phone": "839985353"
   },
@@ -12115,13 +12115,13 @@
   },
   {
     "id": 2020,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham Phoenix Chandler",
+    "name": "La Quinta Inn & Suites by Wyndham Phoenix Chandler",
     "address": "2435 S 47th St, Phoenix, AZ 85034",
     "phone": "24354785034"
   },
   {
     "id": 2021,
-    "name": "Drury Inn \u0026 Suites Phoenix Happy Valley",
+    "name": "Drury Inn & Suites Phoenix Happy Valley",
     "address": "100 E Rio Salado Pkwy, Tempe, AZ 85281",
     "phone": "10085281"
   },
@@ -12145,7 +12145,7 @@
   },
   {
     "id": 2025,
-    "name": "Drury Inn \u0026 Suites Phoenix Tempe",
+    "name": "Drury Inn & Suites Phoenix Tempe",
     "address": "9455 N Black Cyn Hwy, Phoenix, AZ 85021",
     "phone": "945585021"
   },
@@ -12181,7 +12181,7 @@
   },
   {
     "id": 2031,
-    "name": "Drury Inn \u0026 Suites Phoenix Tempe",
+    "name": "Drury Inn & Suites Phoenix Tempe",
     "address": "202 N Central Ave, Phoenix, AZ 85004",
     "phone": "20285004"
   },
@@ -12193,7 +12193,7 @@
   },
   {
     "id": 2033,
-    "name": "JW Marriott Phoenix Desert Ridge Resort \u0026 Spa",
+    "name": "JW Marriott Phoenix Desert Ridge Resort & Spa",
     "address": "1100 N Central Ave, Phoenix, AZ 85004",
     "phone": "110085004"
   },
@@ -12205,7 +12205,7 @@
   },
   {
     "id": 2035,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham Phoenix I-10 West",
+    "name": "La Quinta Inn & Suites by Wyndham Phoenix I-10 West",
     "address": "1615 E Northern Ave, Phoenix, AZ 85020",
     "phone": "161585020"
   },
@@ -12235,7 +12235,7 @@
   },
   {
     "id": 2040,
-    "name": "Country Inn \u0026 Suites by Radisson, Phoenix Airport, AZ",
+    "name": "Country Inn & Suites by Radisson, Phoenix Airport, AZ",
     "address": "4647 E Francisco Dr, Phoenix, AZ 85044",
     "phone": "464785044"
   },
@@ -12283,7 +12283,7 @@
   },
   {
     "id": 2048,
-    "name": "Best Western Innsuites Phoenix Hotel \u0026 Suites",
+    "name": "Best Western Innsuites Phoenix Hotel & Suites",
     "address": "7707 E McDowell Rd, Scottsdale, AZ 85257",
     "phone": "770785257"
   },
@@ -12307,7 +12307,7 @@
   },
   {
     "id": 2052,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham Phoenix Scottsdale",
+    "name": "La Quinta Inn & Suites by Wyndham Phoenix Scottsdale",
     "address": "5350 E Marriott Dr, Phoenix, AZ 85054",
     "phone": "535085054"
   },
@@ -12337,7 +12337,7 @@
   },
   {
     "id": 2057,
-    "name": "Holiday Inn \u0026 Suites Phoenix Airport North, an IHG Hotel",
+    "name": "Holiday Inn & Suites Phoenix Airport North, an IHG Hotel",
     "address": "7965 E Cavasson Blvd, Scottsdale, AZ 85255",
     "phone": "796585255"
   },
@@ -12397,7 +12397,7 @@
   },
   {
     "id": 2067,
-    "name": "Gila River Resorts \u0026 Casinos - Vee Quiva",
+    "name": "Gila River Resorts & Casinos - Vee Quiva",
     "address": "802 E Van Buren St, Phoenix, AZ 85006",
     "phone": "80285006"
   },
@@ -12415,13 +12415,13 @@
   },
   {
     "id": 2070,
-    "name": "Renaissance Phoenix Glendale Hotel \u0026 Spa",
+    "name": "Renaissance Phoenix Glendale Hotel & Spa",
     "address": "4415 E Paradise Vlg Pkwy S, Phoenix, AZ 85032",
     "phone": "441585032"
   },
   {
     "id": 2071,
-    "name": "Holiday Inn \u0026 Suites Phoenix Airport, an IHG Hotel",
+    "name": "Holiday Inn & Suites Phoenix Airport, an IHG Hotel",
     "address": "2725 N Black Cyn Hwy, Phoenix, AZ 85009",
     "phone": "272585009"
   },
@@ -12439,7 +12439,7 @@
   },
   {
     "id": 2074,
-    "name": "Comfort Inn \u0026 Suites Phoenix North - Deer Valley",
+    "name": "Comfort Inn & Suites Phoenix North - Deer Valley",
     "address": "7101 W Sundust Rd, Chandler, AZ 85226",
     "phone": "710185226"
   },
@@ -12787,7 +12787,7 @@
   },
   {
     "id": 2132,
-    "name": "Wren \u0026 Wolf",
+    "name": "Wren & Wolf",
     "address": "6106 S 32nd St, Phoenix, AZ 85042",
     "phone": "61063285042"
   },
@@ -12883,7 +12883,7 @@
   },
   {
     "id": 2148,
-    "name": "First \u0026 Last",
+    "name": "First & Last",
     "address": "1616 N Central Ave #103, Phoenix, AZ 85004",
     "phone": "161610385004"
   },
@@ -12907,7 +12907,7 @@
   },
   {
     "id": 2152,
-    "name": "El Chullo Peruvian Restaurant \u0026 Bar",
+    "name": "El Chullo Peruvian Restaurant & Bar",
     "address": "1051 E Camelback Rd, Phoenix, AZ 85014",
     "phone": "105185014"
   },
@@ -12925,7 +12925,7 @@
   },
   {
     "id": 2155,
-    "name": "Feeney's Restaurant \u0026 Bar",
+    "name": "Feeney's Restaurant & Bar",
     "address": "1534 E Bethany Home Rd, Phoenix, AZ 85014",
     "phone": "153485014"
   },
@@ -12997,7 +12997,7 @@
   },
   {
     "id": 2167,
-    "name": "The Breadfruit at B\u0026T",
+    "name": "The Breadfruit at B&T",
     "address": "2728 E Thomas Rd, Phoenix, AZ 85016",
     "phone": "272885016"
   },
@@ -13172,13 +13172,13 @@
   {
     "id": 2196,
     "name": "Camelback Colonnade",
-    "address": "Tatum Blvd \u0026, E Greenway Rd, Phoenix, AZ 85032",
+    "address": "Tatum Blvd &, E Greenway Rd, Phoenix, AZ 85032",
     "phone": ""
   },
   {
     "id": 2197,
     "name": "Bell Towne Plaza",
-    "address": "Northern \u0026 59th Ave, Glendale, AZ 85301",
+    "address": "Northern & 59th Ave, Glendale, AZ 85301",
     "phone": "4804935613"
   },
   {
@@ -13316,7 +13316,7 @@
   {
     "id": 2220,
     "name": "Camelback Village Square",
-    "address": "12644 N 28th Dr Suite E\u0026F, Phoenix, AZ 85029",
+    "address": "12644 N 28th Dr Suite E&F, Phoenix, AZ 85029",
     "phone": "126442885029"
   },
   {
@@ -13567,7 +13567,7 @@
   },
   {
     "id": 2262,
-    "name": "F \u0026 R Union Hills Center I, LLC.",
+    "name": "F & R Union Hills Center I, LLC.",
     "address": "14602 N Cave Creek Rd C, Phoenix, AZ 85022",
     "phone": "1460285022"
   },
@@ -13742,12 +13742,12 @@
   {
     "id": 2291,
     "name": "Arizona Capitol Museum",
-    "address": "North 19th Avenue \u0026, McDowell Rd, Phoenix, AZ",
+    "address": "North 19th Avenue &, McDowell Rd, Phoenix, AZ",
     "phone": ""
   },
   {
     "id": 2292,
-    "name": "Heritage \u0026 Science Park/Historic Heritage Square",
+    "name": "Heritage & Science Park/Historic Heritage Square",
     "address": "1425 S 5th Ave, Phoenix, AZ 85003",
     "phone": "1425585003"
   },
@@ -13921,7 +13921,7 @@
   },
   {
     "id": 2321,
-    "name": "Pioneer \u0026 Military Memorial Park",
+    "name": "Pioneer & Military Memorial Park",
     "address": "4925 E McDonald Dr, Phoenix, AZ 85018",
     "phone": "492585018"
   },
@@ -13957,7 +13957,7 @@
   },
   {
     "id": 2327,
-    "name": "Earth \u0026 Space Expedition Center",
+    "name": "Earth & Space Expedition Center",
     "address": "300 E Indian School Rd, Phoenix, AZ 85012",
     "phone": "30085012"
   },
@@ -14011,7 +14011,7 @@
   },
   {
     "id": 2336,
-    "name": "Wildlife World Zoo, Aquarium \u0026 Safari Park",
+    "name": "Wildlife World Zoo, Aquarium & Safari Park",
     "address": "6505 N 20th St, Phoenix, AZ 85016",
     "phone": "65052085016"
   },

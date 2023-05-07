@@ -26,7 +26,7 @@
   {
     "id": 5,
     "name": "Parkway",
-    "address": "10 Main \u0026 Church Street New Amsterdam, Georgetown, Guyana",
+    "address": "10 Main & Church Street New Amsterdam, Georgetown, Guyana",
     "phone": "+5923334050"
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "id": 7,
-    "name": "Classic International Hotel \u0026 Suites",
+    "name": "Classic International Hotel & Suites",
     "address": "4 Main Street, New Amsterdam, Guyana",
     "phone": "+5923333928"
   },
@@ -49,13 +49,13 @@
   },
   {
     "id": 9,
-    "name": "Short or Tall Eatery \u0026 Drink Hall",
+    "name": "Short or Tall Eatery & Drink Hall",
     "address": "Main Street, New Amsterdam, Guyana",
     "phone": "+5923335210"
   },
   {
     "id": 10,
-    "name": "Bigg Daddys Restaurant \u0026 Tavern",
+    "name": "Bigg Daddys Restaurant & Tavern",
     "address": "New Amsterdam, Guyana",
     "phone": "+5923332319"
   },
@@ -121,7 +121,7 @@
   },
   {
     "id": 21,
-    "name": "Love's Restaurant \u0026 Catering Service",
+    "name": "Love's Restaurant & Catering Service",
     "address": "27 6th Avenue, Bartica, Guyana",
     "phone": "+5926607408"
   },
@@ -200,7 +200,7 @@
   {
     "id": 34,
     "name": "Shoba Snackette",
-    "address": "176 Middle \u0026, Waterloo St, Georgetown, Guyana",
+    "address": "176 Middle &, Waterloo St, Georgetown, Guyana",
     "phone": "+5922261684"
   },
   {
@@ -224,7 +224,7 @@
   {
     "id": 38,
     "name": "Terra Mare",
-    "address": "Croal Street \u0026, Sandyman Place, Georgetown, Guyana",
+    "address": "Croal Street &, Sandyman Place, Georgetown, Guyana",
     "phone": "+5922277606"
   },
   {
@@ -253,7 +253,7 @@
   },
   {
     "id": 43,
-    "name": "P\u0026A Bus Service \u0026 Guest House with Restaurant",
+    "name": "P&A Bus Service & Guest House with Restaurant",
     "address": "2 miles from Bartica in the Essequibo River, Poterima, Guyana, Essequibo, Guyana",
     "phone": "+5926171465"
   },
@@ -272,7 +272,7 @@
   {
     "id": 46,
     "name": "Pizza Hut Guyana - Regent Street",
-    "address": "1 \u0026 2 Area M Plantation, Le Ressouvenir, East Coast, Guyana",
+    "address": "1 & 2 Area M Plantation, Le Ressouvenir, East Coast, Guyana",
     "phone": "+5922201091"
   },
   {
@@ -349,7 +349,7 @@
   },
   {
     "id": 59,
-    "name": "Windjammer International Cuisine \u0026 Comfort Inn",
+    "name": "Windjammer International Cuisine & Comfort Inn",
     "address": "7th Avenue, Bartica, Guyana",
     "phone": ""
   },
@@ -391,7 +391,7 @@
   },
   {
     "id": 66,
-    "name": "Bartica Food \u0026 Icecream Parlor",
+    "name": "Bartica Food & Icecream Parlor",
     "address": "2nd Avenue, Bartica, Guyana",
     "phone": "+5924552620"
   },
@@ -535,7 +535,7 @@
   },
   {
     "id": 90,
-    "name": "New Modern Hotel \u0026 Bar",
+    "name": "New Modern Hotel & Bar",
     "address": "Essequibo Islands-West Demerara, Guyana",
     "phone": "+5922541552"
   },

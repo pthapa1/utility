@@ -133,7 +133,7 @@
   },
   {
     "id": 23,
-    "name": "Hotel \u0026 Restaurant BRILANT",
+    "name": "Hotel & Restaurant BRILANT",
     "address": "Boulevard Nena Tereze, 14/6, Prishtina 10000",
     "phone": "14610000"
   },
@@ -163,7 +163,7 @@
   },
   {
     "id": 28,
-    "name": "Home Restaurant \u0026 Lounge Bar",
+    "name": "Home Restaurant & Lounge Bar",
     "address": "Rruga, 10 Xhemajl Mustafa, Prishtina 10000",
     "phone": "+38345777441"
   },
@@ -199,7 +199,7 @@
   },
   {
     "id": 34,
-    "name": "A\u0026A Restaurant",
+    "name": "A&A Restaurant",
     "address": "Hyrja 1, Arbëria 3, Veranda C2.7, Prishtina 10000",
     "phone": "132710000"
   },
@@ -211,7 +211,7 @@
   },
   {
     "id": 36,
-    "name": "Infinit Food \u0026 Drinks",
+    "name": "Infinit Food & Drinks",
     "address": "Rruga Muharrem Fejza 179, 10000 Prishtinë, Kosovë Prishtine XK, 10000",
     "phone": "1791000010000"
   },
@@ -452,7 +452,7 @@
   {
     "id": 76,
     "name": "Archaeological Museum of the Republic of Macedonia",
-    "address": "Ss Cyril \u0026 Methodius 1000, Skopje 1000, North Macedonia",
+    "address": "Ss Cyril & Methodius 1000, Skopje 1000, North Macedonia",
     "phone": "10001000"
   },
   {
@@ -553,7 +553,7 @@
   },
   {
     "id": 93,
-    "name": "Otro Café \u0026 Restaurant",
+    "name": "Otro Café & Restaurant",
     "address": "Innovation and Training Park (ITP, Ukë Bytyqi, Prizren 20000",
     "phone": "+38345216105"
   },
@@ -577,14 +577,14 @@
   },
   {
     "id": 97,
-    "name": "Fry\u0026Fly - Potato Hotpoint.",
+    "name": "Fry&Fly - Potato Hotpoint.",
     "address": "Te Shtrumpfat, Zara, Prizren",
     "phone": ""
   },
   {
     "id": 98,
     "name": "Quick Bar Shisha",
-    "address": "Bon Pizza \u0026 More, XK, Prizren 20000",
+    "address": "Bon Pizza & More, XK, Prizren 20000",
     "phone": "+38349830003"
   },
   {
@@ -613,7 +613,7 @@
   },
   {
     "id": 103,
-    "name": "Yes'Please food\u0026drink",
+    "name": "Yes'Please food&drink",
     "address": "R115 , 20000 Prizren-Reqan Km1, Prizren 20000",
     "phone": "11520000120000"
   },
@@ -661,8 +661,8 @@
   },
   {
     "id": 111,
-    "name": "PONTE Coffee \u0026 More",
-    "address": "A\u0026N Center, Korishe, Prizren 20000",
+    "name": "PONTE Coffee & More",
+    "address": "A&N Center, Korishe, Prizren 20000",
     "phone": "+38348100989"
   },
   {
@@ -740,12 +740,12 @@
   {
     "id": 124,
     "name": "Banjska Monastery",
-    "address": "Ss Cyril \u0026 Methodius 1000, Skopje 1000, North Macedonia",
+    "address": "Ss Cyril & Methodius 1000, Skopje 1000, North Macedonia",
     "phone": "10001000"
   },
   {
     "id": 125,
-    "name": "Fellas Coffee \u0026 Kitchen",
+    "name": "Fellas Coffee & Kitchen",
     "address": "Rruga Nikgjonaj, Qender Theth, Albania",
     "phone": "+355696015771"
   },
@@ -781,7 +781,7 @@
   },
   {
     "id": 131,
-    "name": "Palace Hotel \u0026 SPA",
+    "name": "Palace Hotel & SPA",
     "address": "Vllezrit Ademi, fshati Rashan XK, Mitrovicë 40000",
     "phone": "+38348147459"
   },
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 175,
-    "name": "MISSINI Kitchen \u0026 Sweets",
+    "name": "MISSINI Kitchen & Sweets",
     "address": "Unnamed Road, Grčak Milentija, Brus 37227, Serbia",
     "phone": "+381643716333"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 185,
-    "name": "Milano (Food \u0026 Caffe)",
+    "name": "Milano (Food & Caffe)",
     "address": "Ismail Qemajli, 9 Str, Gjakovë 50000",
     "phone": "+38344129159"
   },
@@ -1159,7 +1159,7 @@
   },
   {
     "id": 194,
-    "name": "Pizza CIMI \u0026 More",
+    "name": "Pizza CIMI & More",
     "address": "Qendra e qytetit,praneKurrizit,Dede Gjon luli, Gjakovë 50000",
     "phone": "+38649807637"
   },
@@ -1243,7 +1243,7 @@
   },
   {
     "id": 208,
-    "name": "Caffe \u0026 Pizzeria Peppino",
+    "name": "Caffe & Pizzeria Peppino",
     "address": "Rruga, 70000 Ahmet Kaçiku, Ferizaj",
     "phone": "+38338711711"
   },
@@ -1262,7 +1262,7 @@
   {
     "id": 211,
     "name": "Pizza Center",
-    "address": "122, Gursel \u0026 Bajram Sylejmani, Ferizaj 70000",
+    "address": "122, Gursel & Bajram Sylejmani, Ferizaj 70000",
     "phone": "12270000"
   },
   {

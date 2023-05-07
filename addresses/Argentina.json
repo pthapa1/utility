@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Ker San Telmo Hotel \u0026 Events",
+    "name": "Ker San Telmo Hotel & Events",
     "address": "Carlos Pellegrini 551, C1009 CABA, Argentina",
     "phone": "+541143485000"
   },
@@ -313,7 +313,7 @@
   },
   {
     "id": 53,
-    "name": "Arc Recoleta Boutique Hotel \u0026 Spa",
+    "name": "Arc Recoleta Boutique Hotel & Spa",
     "address": "Lavalle 560, C1047 AAL, Buenos Aires, Argentina",
     "phone": "+541143934012"
   },
@@ -397,7 +397,7 @@
   },
   {
     "id": 67,
-    "name": "Broadway Hotel \u0026 Suites",
+    "name": "Broadway Hotel & Suites",
     "address": "Av. del Libertador 420, C1001 ABR, Buenos Aires, Argentina",
     "phone": "+541141314000"
   },
@@ -547,7 +547,7 @@
   },
   {
     "id": 92,
-    "name": "Ker San Telmo Hotel \u0026 Events",
+    "name": "Ker San Telmo Hotel & Events",
     "address": "Lima 653, B1073 Buenos Aires, Provincia de Buenos Aires, Argentina",
     "phone": "+548101224656"
   },
@@ -631,7 +631,7 @@
   },
   {
     "id": 106,
-    "name": "Aramburu Relais \u0026 Châteaux",
+    "name": "Aramburu Relais & Châteaux",
     "address": "Fitz Roy 2110, Buenos Aires, Argentina",
     "phone": "+541147780913"
   },
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 175,
-    "name": "Duhau Restaurante \u0026 Vinoteca",
+    "name": "Duhau Restaurante & Vinoteca",
     "address": "Av. Alicia Moreau de Justo 1768, C1107 AFJ, Buenos Aires, Argentina",
     "phone": "17681107"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "id": 392,
-    "name": "MAN Truck \u0026 Bus",
+    "name": "MAN Truck & Bus",
     "address": "Av. Recta Martinolli 7850, X5021 Córdoba, Argentina",
     "phone": "78505021"
   },
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 415,
-    "name": "Ariston Hotel \u0026 Centro de Convenciones",
+    "name": "Ariston Hotel & Centro de Convenciones",
     "address": "Junín 187, S2013 DJC, Santa Fe, Argentina",
     "phone": "+543415274620"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 419,
-    "name": "Urquiza Apart Hotel \u0026 Suites",
+    "name": "Urquiza Apart Hotel & Suites",
     "address": "Entre Ríos 1045, S2000 CRS, Santa Fe, Argentina",
     "phone": "10452000"
   },
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 475,
-    "name": "Lofts \u0026 Suites",
+    "name": "Lofts & Suites",
     "address": "Catamarca 1837, S2000 Rosario, Santa Fe, Argentina",
     "phone": "18372000"
   },
@@ -3085,7 +3085,7 @@
   },
   {
     "id": 515,
-    "name": "Rock\u0026Feller's Bv. Oroño",
+    "name": "Rock&Feller's Bv. Oroño",
     "address": "San Luis 3001, S2002ORQ Rosario, Santa Fe, Argentina",
     "phone": "30012002"
   },
@@ -3205,7 +3205,7 @@
   },
   {
     "id": 535,
-    "name": "BOW Café, Bar \u0026 Bistró",
+    "name": "BOW Café, Bar & Bistró",
     "address": "Italia 219, S2000 Rosario, Santa Fe, Argentina",
     "phone": "+543412973206"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "id": 539,
-    "name": "Rock\u0026Feller's Alto Rosario",
+    "name": "Rock&Feller's Alto Rosario",
     "address": "Alvear 55, S2000 Rosario, Santa Fe, Argentina",
     "phone": "+543414377479"
   },
@@ -3758,7 +3758,7 @@
   {
     "id": 627,
     "name": "Galería Echesortu",
-    "address": "Sarmiento \u0026 9 de Julio, S2000CXY Rosario, Santa Fe, Argentina",
+    "address": "Sarmiento & 9 de Julio, S2000CXY Rosario, Santa Fe, Argentina",
     "phone": "+543416790203"
   },
   {
@@ -3799,7 +3799,7 @@
   },
   {
     "id": 634,
-    "name": "Casa \u0026 Obra Ferreterías Mall Center",
+    "name": "Casa & Obra Ferreterías Mall Center",
     "address": "Ayacucho 1865, S2000 Rosario, Santa Fe, Argentina",
     "phone": "18652000"
   },
@@ -4298,7 +4298,7 @@
   {
     "id": 717,
     "name": "City Center Rosario",
-    "address": "Bv. Oroño, Av. Int. Morcillo \u0026, S2000 Rosario, Santa Fe, Argentina",
+    "address": "Bv. Oroño, Av. Int. Morcillo &, S2000 Rosario, Santa Fe, Argentina",
     "phone": ""
   },
   {
@@ -4423,7 +4423,7 @@
   },
   {
     "id": 738,
-    "name": "Huli B\u0026B",
+    "name": "Huli B&B",
     "address": "Infanta Mercedes de San Martín 48, M5500GDB Mendoza, Argentina",
     "phone": "+542614293055"
   },
@@ -4489,13 +4489,13 @@
   },
   {
     "id": 749,
-    "name": "La Sofia Apart \u0026 Wines",
+    "name": "La Sofia Apart & Wines",
     "address": "Pje. Babilonia 17, M5500 Mendoza, Argentina",
     "phone": "+542614202490"
   },
   {
     "id": 750,
-    "name": "Hotel \u0026 Spa Agua del Corral",
+    "name": "Hotel & Spa Agua del Corral",
     "address": "Gutiérrez 598, M5500 Mendoza, Argentina",
     "phone": "+542614234245"
   },
@@ -4519,7 +4519,7 @@
   },
   {
     "id": 754,
-    "name": "La Casa del Parque B\u0026B",
+    "name": "La Casa del Parque B&B",
     "address": "Granaderos 1245, M5500 Mendoza, Argentina",
     "phone": "12455500"
   },
@@ -4633,13 +4633,13 @@
   },
   {
     "id": 773,
-    "name": "QUINTA \u0026 SUITES APART HOTEL",
+    "name": "QUINTA & SUITES APART HOTEL",
     "address": "Necochea 740, M5500 Mendoza, Argentina",
     "phone": "+542614153114"
   },
   {
     "id": 774,
-    "name": "Las Tintas Bed \u0026 Breakfast",
+    "name": "Las Tintas Bed & Breakfast",
     "address": "Primitivo de la Reta 547, M5500 Mendoza, Argentina",
     "phone": "+542614291110"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "id": 780,
-    "name": "La Rufina B\u0026b",
+    "name": "La Rufina B&b",
     "address": "Avenida Juan B. Justo 67, M5500 Mendoza, Argentina",
     "phone": "+542614230609"
   },
@@ -4753,7 +4753,7 @@
   },
   {
     "id": 793,
-    "name": "Quinta Rufino Bed \u0026 Breakfast",
+    "name": "Quinta Rufino Bed & Breakfast",
     "address": "Gral. Paz 86, M5500 BKQ, Mendoza, Argentina",
     "phone": "+542614381000"
   },
@@ -4819,7 +4819,7 @@
   },
   {
     "id": 804,
-    "name": "Ariosto Hotel \u0026 Suites",
+    "name": "Ariosto Hotel & Suites",
     "address": "Peru 1290, M5500 Mendoza, Argentina",
     "phone": "12905500"
   },
@@ -4963,7 +4963,7 @@
   },
   {
     "id": 828,
-    "name": "Casa Bella Bed \u0026 Breakfast",
+    "name": "Casa Bella Bed & Breakfast",
     "address": "Av. Perú 1065, M5500 Mendoza, Argentina",
     "phone": "10655500"
   },
@@ -5101,7 +5101,7 @@
   },
   {
     "id": 851,
-    "name": "La Barra vinos \u0026 carnes",
+    "name": "La Barra vinos & carnes",
     "address": "Av. Arístides Villanueva 209, M5500 EOU, Mendoza, Argentina",
     "phone": "+542616682021"
   },
@@ -5191,7 +5191,7 @@
   },
   {
     "id": 866,
-    "name": "El Mercadito Friendly \u0026 Fresh (Arístides)",
+    "name": "El Mercadito Friendly & Fresh (Arístides)",
     "address": "Av. Belgrano 1194, M5500CCB Mendoza, Argentina",
     "phone": "11945500"
   },

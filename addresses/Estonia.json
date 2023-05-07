@@ -145,7 +145,7 @@
   },
   {
     "id": 25,
-    "name": "Kalev Spa Hotel \u0026 Water Park",
+    "name": "Kalev Spa Hotel & Water Park",
     "address": "Väike-Karja 1, 10140 Tallinn, Estonia",
     "phone": "+37257810173"
   },
@@ -181,7 +181,7 @@
   },
   {
     "id": 31,
-    "name": "Park Inn by Radisson Meriton Conference \u0026 Spa Hotel Tallinn",
+    "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn",
     "address": "Pae, 11414 Tallinn, Estonia",
     "phone": "+37256201302"
   },
@@ -211,7 +211,7 @@
   },
   {
     "id": 36,
-    "name": "Tallink Spa \u0026 Conference Hotel",
+    "name": "Tallink Spa & Conference Hotel",
     "address": "Pärnu mnt 106, 11312 Tallinn, Estonia",
     "phone": "10611312"
   },
@@ -565,7 +565,7 @@
   },
   {
     "id": 95,
-    "name": "Pirita Beach Apartments \u0026 SPA",
+    "name": "Pirita Beach Apartments & SPA",
     "address": "Dunkri 4-6, 10123 Tallinn, Estonia",
     "phone": "+3726977500"
   },
@@ -691,7 +691,7 @@
   },
   {
     "id": 116,
-    "name": "ANNO, Home restaurant \u0026 Wine Corner",
+    "name": "ANNO, Home restaurant & Wine Corner",
     "address": "Peterburi tee 2, 11415 Tallinn, Estonia",
     "phone": "+3726004777"
   },
@@ -709,7 +709,7 @@
   },
   {
     "id": 119,
-    "name": "BACIO Restoran \u0026 Kohvik",
+    "name": "BACIO Restoran & Kohvik",
     "address": "Rävala pst 3, 10143 Tallinn, Estonia",
     "phone": ""
   },
@@ -721,7 +721,7 @@
   },
   {
     "id": 121,
-    "name": "Parrot Resto \u0026 Bar",
+    "name": "Parrot Resto & Bar",
     "address": "Telliskivi, 10412 Tallinn, Estonia",
     "phone": "+37257450922"
   },
@@ -925,7 +925,7 @@
   },
   {
     "id": 155,
-    "name": "Meat\u0026Wine Steak House Tallinn",
+    "name": "Meat&Wine Steak House Tallinn",
     "address": "Estonia pst 9, 10143 Tallinn, Estonia",
     "phone": "+37251930993"
   },
@@ -961,7 +961,7 @@
   },
   {
     "id": 161,
-    "name": "MEKK Restaurant \u0026 Bar",
+    "name": "MEKK Restaurant & Bar",
     "address": "3 Ravala Street, 10143 Tallinn, Estonia",
     "phone": "+3726823020"
   },
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 169,
-    "name": "Emmeline \u0026 Otto",
+    "name": "Emmeline & Otto",
     "address": "Laeva 1, 10151 Tallinn, Estonia",
     "phone": "+3725527799"
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 193,
-    "name": "Noho Restaurant \u0026 Bar",
+    "name": "Noho Restaurant & Bar",
     "address": "Telliskivi 60a, 10412 Tallinn, Estonia",
     "phone": "+37253226855"
   },
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 274,
-    "name": "Tea \u0026 Coffee Centre",
+    "name": "Tea & Coffee Centre",
     "address": "Peterburi tee 52a, 11415 Tallinn, Estonia",
     "phone": "+3726062220"
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "id": 405,
-    "name": "Kastani B\u0026B",
+    "name": "Kastani B&B",
     "address": "Maakivi 2, Räni, 61713 Tartu maakond, Estonia",
     "phone": ""
   },
@@ -2629,7 +2629,7 @@
   },
   {
     "id": 439,
-    "name": "Hiie Bed \u0026 Breakfast",
+    "name": "Hiie Bed & Breakfast",
     "address": "Tamme puiestee 1, 50403 Tartu, Estonia",
     "phone": "+3727448408"
   },
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 456,
-    "name": "Pepe's Bistro \u0026 Social Club",
+    "name": "Pepe's Bistro & Social Club",
     "address": "Ülikooli 7, 51003 Tartu, Estonia",
     "phone": "+3727440055"
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "id": 459,
-    "name": "Hansa Tall \u0026 Hansa Hoov",
+    "name": "Hansa Tall & Hansa Hoov",
     "address": "Küütri 2, 51007 Tartu, Estonia",
     "phone": "+37253080066"
   },
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 463,
-    "name": "Meat Market Steak \u0026 Cocktail",
+    "name": "Meat Market Steak & Cocktail",
     "address": "Ringtee 75, 50501 Tartu, Estonia",
     "phone": "+37256215066"
   },
@@ -2911,7 +2911,7 @@
   },
   {
     "id": 486,
-    "name": "Willy\u0026Rudy",
+    "name": "Willy&Rudy",
     "address": "Riia 4, 51004 Tartu, Estonia",
     "phone": "+3727451560"
   },
@@ -2929,7 +2929,7 @@
   },
   {
     "id": 489,
-    "name": "BabyBack Ribs \u0026 BBQ, Tasku",
+    "name": "BabyBack Ribs & BBQ, Tasku",
     "address": "Võru 83, 50112 Tartu, Estonia",
     "phone": "+37255671497"
   },
@@ -2965,7 +2965,7 @@
   },
   {
     "id": 495,
-    "name": "Da Vinci Pasta \u0026 Pizza",
+    "name": "Da Vinci Pasta & Pizza",
     "address": "Küüni 7, 51004 Tartu, Estonia",
     "phone": "+37253330023"
   },
@@ -3097,7 +3097,7 @@
   },
   {
     "id": 517,
-    "name": "CHI Restoran \u0026 Take Away",
+    "name": "CHI Restoran & Take Away",
     "address": "Turu 2, 51013 Tartu, Estonia",
     "phone": "+37258541919"
   },
@@ -3379,7 +3379,7 @@
   },
   {
     "id": 564,
-    "name": "Tea \u0026 Coffee Centre",
+    "name": "Tea & Coffee Centre",
     "address": "Ändi tee 18, Tüki küla, Tähtvere hajaasustuse piirkond, Tartu maakond, 61411, Estonia",
     "phone": "+3725529369"
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "id": 651,
-    "name": "Narva-Jõesuu SPA \u0026 Sanatoorium",
+    "name": "Narva-Jõesuu SPA & Sanatoorium",
     "address": "Sergei Lavretsovi 5, 20307 Narva, Estonia",
     "phone": "+3723591333"
   },
@@ -3919,7 +3919,7 @@
   },
   {
     "id": 654,
-    "name": "Meresuu Spa \u0026 Hotel",
+    "name": "Meresuu Spa & Hotel",
     "address": "L. Koidula 13a, Narva-Jõesuu, 29023 Ida-Viru maakond, Estonia",
     "phone": "+3725206073"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "id": 656,
-    "name": "Merepargi ApartHotel \u0026 Cafe",
+    "name": "Merepargi ApartHotel & Cafe",
     "address": "Aia 3, Narva-Jõesuu, 29023 Ida-Viru maakond, Estonia",
     "phone": "+3723599529"
   },
@@ -3949,7 +3949,7 @@
   },
   {
     "id": 659,
-    "name": "Hotel \u0026 Restaurant YES",
+    "name": "Hotel & Restaurant YES",
     "address": "Vambola, Narva-Jõesuu, 29021 Ida-Viru maakond, Estonia",
     "phone": "+3725112739"
   },
@@ -3997,7 +3997,7 @@
   },
   {
     "id": 667,
-    "name": "Hotel Laagna Spa \u0026 Resort",
+    "name": "Hotel Laagna Spa & Resort",
     "address": "Võidu prospekt 17a, 20307 Narva, Estonia",
     "phone": "+37256622729"
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "id": 720,
-    "name": "Pizza\u0026Cafe Kreenholmi 50",
+    "name": "Pizza&Cafe Kreenholmi 50",
     "address": "L. Koidula 21, Narva-Jõesuu, 29023 Ida-Viru maakond, Estonia",
     "phone": "+3723567130"
   },
@@ -4411,7 +4411,7 @@
   },
   {
     "id": 736,
-    "name": "Hotel \u0026 Restaurant YES",
+    "name": "Hotel & Restaurant YES",
     "address": "Sergei Lavretsovi 7, 20307 Narva, Estonia",
     "phone": "+37259072127"
   },
@@ -4483,7 +4483,7 @@
   },
   {
     "id": 748,
-    "name": "BRO grill cafe \u0026 shawarma",
+    "name": "BRO grill cafe & shawarma",
     "address": "Fama põik 10, 20303 Narva, Estonia",
     "phone": "+37253538667"
   },
@@ -4591,7 +4591,7 @@
   },
   {
     "id": 766,
-    "name": "Alex Kohvik \u0026 Catering",
+    "name": "Alex Kohvik & Catering",
     "address": "Fama põik 10, 20303 Narva, Estonia",
     "phone": "+37253033088"
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "id": 771,
-    "name": "Imperial shaurma \u0026 burger",
+    "name": "Imperial shaurma & burger",
     "address": "Peterburi mnt 2, 20308 Narva, Estonia",
     "phone": ""
   },
@@ -4633,7 +4633,7 @@
   },
   {
     "id": 773,
-    "name": "Merepargi ApartHotel \u0026 Cafe",
+    "name": "Merepargi ApartHotel & Cafe",
     "address": "Fama põik 10, 20303 Narva, Estonia",
     "phone": "+37254110550"
   },
@@ -4795,7 +4795,7 @@
   },
   {
     "id": 800,
-    "name": "Meresuu Spa \u0026 Hotel",
+    "name": "Meresuu Spa & Hotel",
     "address": "Toompea 10, 10142 Tallinn, Estonia",
     "phone": "+3726199100"
   },
@@ -5149,7 +5149,7 @@
   },
   {
     "id": 859,
-    "name": "B\u0026B RANDO \u0026 KÄRDI JUURES OÜ",
+    "name": "B&B RANDO & KÄRDI JUURES OÜ",
     "address": "Lepsalu, pühajõe küla Toila vald, Ida-Virumaa, Pühajõe, 41716, Estonia",
     "phone": "+3725225906"
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "id": 861,
-    "name": "B\u0026B RANDO \u0026 KÄRDI JUURES OÜ",
+    "name": "B&B RANDO & KÄRDI JUURES OÜ",
     "address": "Kirikumõisa tee, Lüganuse, 43301 Ida-Viru maakond, Estonia",
     "phone": "+37258039038"
   },
@@ -5599,7 +5599,7 @@
   },
   {
     "id": 934,
-    "name": "Jõhvi Kelder Pub \u0026 Baar",
+    "name": "Jõhvi Kelder Pub & Baar",
     "address": "Kauba 2, Kohtla-Järve, 30331 Ida-Viru maakond, Estonia",
     "phone": "+3723324015"
   },
@@ -6529,13 +6529,13 @@
   },
   {
     "id": 1089,
-    "name": "ESTONIA Resort Hotel \u0026 Spa",
+    "name": "ESTONIA Resort Hotel & Spa",
     "address": "Suvituse 14, Pärnu, 80010 Pärnu maakond, Estonia",
     "phone": "+3724450700"
   },
   {
     "id": 1090,
-    "name": "Hedon SPA \u0026 HOTEL",
+    "name": "Hedon SPA & HOTEL",
     "address": "SPAA- ja KONVERENTSIMAJA, A. H. Tammsaare puiestee 4a (HOTELL ja RESTORAN, A. H. Tammsaare pst 6, Pärnu, 80010, Estonia",
     "phone": "+3724401017"
   },
@@ -6559,7 +6559,7 @@
   },
   {
     "id": 1094,
-    "name": "Tervise Paradiis spaa-hotell \u0026 veekeskus / Spa Hotel \u0026 Water park",
+    "name": "Tervise Paradiis spaa-hotell & veekeskus / Spa Hotel & Water park",
     "address": "Sadama 15, Pärnu, 80012 Pärnu maakond, Estonia",
     "phone": "+3724490505"
   },
@@ -6595,7 +6595,7 @@
   },
   {
     "id": 1100,
-    "name": "ESTONIA Medical Spa \u0026 Hotel",
+    "name": "ESTONIA Medical Spa & Hotel",
     "address": "Karusselli 18, Pärnu, 80015 Pärnu maakond, Estonia",
     "phone": "+3725070173"
   },
@@ -6877,7 +6877,7 @@
   },
   {
     "id": 1147,
-    "name": "Wasa Hotel \u0026 Health Center",
+    "name": "Wasa Hotel & Health Center",
     "address": "Koolimaja tee 19, Pulli, 85005 Pärnu maakond, Estonia",
     "phone": "+3725051268"
   },
@@ -6901,7 +6901,7 @@
   },
   {
     "id": 1151,
-    "name": "Kurgo Villa Hotel \u0026 Restaurant",
+    "name": "Kurgo Villa Hotel & Restaurant",
     "address": "Pärna 12, Pärnu, 80014 Pärnu maakond, Estonia",
     "phone": "+3724476915"
   },
@@ -7183,13 +7183,13 @@
   },
   {
     "id": 1198,
-    "name": "Da Vinci Pasta \u0026 Pizza",
+    "name": "Da Vinci Pasta & Pizza",
     "address": "Metsa 13, Pärnu, 80024 Pärnu maakond, Estonia",
     "phone": "+37255566803"
   },
   {
     "id": 1199,
-    "name": "Vehverments Bar \u0026 Tostadas",
+    "name": "Vehverments Bar & Tostadas",
     "address": "Kuninga 25, Pärnu, 80014 Pärnu maakond, Estonia",
     "phone": "+3724443412"
   },
@@ -7225,7 +7225,7 @@
   },
   {
     "id": 1205,
-    "name": "Restaurant NOOT - ESTONIA Resort Hotel \u0026 Spa",
+    "name": "Restaurant NOOT - ESTONIA Resort Hotel & Spa",
     "address": "Lille 4, Pärnu, 80034 Pärnu maakond, Estonia",
     "phone": "+3725048211"
   },
@@ -7261,7 +7261,7 @@
   },
   {
     "id": 1211,
-    "name": "Ephesus Cafe \u0026 Brasserie",
+    "name": "Ephesus Cafe & Brasserie",
     "address": "Riia mnt 110, Pärnu, 80042 Pärnu maakond, Estonia",
     "phone": "11080042"
   },
@@ -7285,7 +7285,7 @@
   },
   {
     "id": 1215,
-    "name": "Babyback Ribs \u0026 BBQ, Kaubamajaka",
+    "name": "Babyback Ribs & BBQ, Kaubamajaka",
     "address": "Uus 3, Pärnu, 80010 Pärnu maakond, Estonia",
     "phone": "+3724429848"
   },
@@ -7303,7 +7303,7 @@
   },
   {
     "id": 1218,
-    "name": "VoVa Vorstid \u0026 Vahvlid KÖÖK \u0026 BAAR",
+    "name": "VoVa Vorstid & Vahvlid KÖÖK & BAAR",
     "address": "Mere pst 7, Pärnu, 80010 Pärnu maakond, Estonia",
     "phone": "+3724473888"
   },
@@ -7597,7 +7597,7 @@
   },
   {
     "id": 1267,
-    "name": "Kebab \u0026 Pizza",
+    "name": "Kebab & Pizza",
     "address": "Pühavaimu 20, Pärnu, 80011 Pärnu maakond, Estonia",
     "phone": "+3724440444"
   },
@@ -7903,7 +7903,7 @@
   },
   {
     "id": 1318,
-    "name": "Tervise Paradiis spaa-hotell \u0026 veekeskus / Spa Hotel \u0026 Water park",
+    "name": "Tervise Paradiis spaa-hotell & veekeskus / Spa Hotel & Water park",
     "address": "Port Artur, Pärnu, 80010 Pärnu maakond, Estonia",
     "phone": "+3725039899"
   },

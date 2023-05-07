@@ -103,20 +103,20 @@
   },
   {
     "id": 18,
-    "name": "Five Hotel \u0026 Residences",
+    "name": "Five Hotel & Residences",
     "address": "PC59+Q9F, Del Maestro, Asunción, Paraguay",
     "phone": "+595984737644"
   },
   {
     "id": 19,
-    "name": "Paseo La Galeria Hotel \u0026 Suites",
+    "name": "Paseo La Galeria Hotel & Suites",
     "address": "Diego de Silva y Velázquez 957, Asunción 1101, Paraguay",
     "phone": "+595981410886"
   },
   {
     "id": 20,
     "name": "Hotel Los Alpes",
-    "address": "P98X+J9F, esquina, Patria \u0026 Enrique Solano López, Asunción, Paraguay",
+    "address": "P98X+J9F, esquina, Patria & Enrique Solano López, Asunción, Paraguay",
     "phone": "+59521212170"
   },
   {
@@ -517,13 +517,13 @@
   },
   {
     "id": 87,
-    "name": "El Viajero Asuncion Hostel \u0026 Suites",
+    "name": "El Viajero Asuncion Hostel & Suites",
     "address": "Av. Sta. Teresa 2855, Asunción, Paraguay",
     "phone": "+595981552066"
   },
   {
     "id": 88,
-    "name": "Aspen Hotel \u0026 Apart",
+    "name": "Aspen Hotel & Apart",
     "address": "Alfredo Seiferheld 5160, Asunción, Paraguay",
     "phone": "+59521608522"
   },
@@ -662,7 +662,7 @@
   {
     "id": 111,
     "name": "Restaurante Sukiyaki",
-    "address": "MCWM+MXQ, Av. Dr. Guido Boggiani \u0026, Hassler, Asunción, Paraguay",
+    "address": "MCWM+MXQ, Av. Dr. Guido Boggiani &, Hassler, Asunción, Paraguay",
     "phone": "+595992683433"
   },
   {
@@ -686,7 +686,7 @@
   {
     "id": 115,
     "name": "Santa Monica",
-    "address": "P928+C2Q, casi, Estados Unidos \u0026 Av Acuña de Figueroa, Asunción, Paraguay",
+    "address": "P928+C2Q, casi, Estados Unidos & Av Acuña de Figueroa, Asunción, Paraguay",
     "phone": "+59521371539"
   },
   {
@@ -763,7 +763,7 @@
   },
   {
     "id": 128,
-    "name": "il Mangiare Ristorante \u0026 Pizzeria",
+    "name": "il Mangiare Ristorante & Pizzeria",
     "address": "Oliva, Asunción, Paraguay",
     "phone": "+595984500131"
   },
@@ -835,7 +835,7 @@
   },
   {
     "id": 140,
-    "name": "HO'A Waffles \u0026 Crepes",
+    "name": "HO'A Waffles & Crepes",
     "address": "PC4C+PX2, Asunción, Paraguay",
     "phone": "+59521604248"
   },
@@ -859,7 +859,7 @@
   },
   {
     "id": 144,
-    "name": "Munich Bar \u0026 Grill",
+    "name": "Munich Bar & Grill",
     "address": "P987+4X8, Independencia Nacional, Asunción, Paraguay",
     "phone": "+59521494931"
   },
@@ -949,7 +949,7 @@
   },
   {
     "id": 159,
-    "name": "Hattori - Sushi Bar \u0026 Resto",
+    "name": "Hattori - Sushi Bar & Resto",
     "address": "Rca. Francesa 492 c, Asunción, Paraguay",
     "phone": "+595981514618"
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 196,
-    "name": "delSol Shopping \u0026 Lifestyle",
+    "name": "delSol Shopping & Lifestyle",
     "address": "PCM3+73W, Asunción, Paraguay",
     "phone": "+59521281238"
   },
@@ -1580,7 +1580,7 @@
   {
     "id": 264,
     "name": "APR",
-    "address": "Senador Huey Pierce Long \u0026, Teniente Héctor Vera, Asunción, Paraguay",
+    "address": "Senador Huey Pierce Long &, Teniente Héctor Vera, Asunción, Paraguay",
     "phone": "+59521600077"
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "id": 277,
     "name": "Hotel Sur Brasil",
-    "address": "1 de Marzo \u0026 Teniente 1 Facundo Almada, Cd. del Este 7000, Paraguay",
+    "address": "1 de Marzo & Teniente 1 Facundo Almada, Cd. del Este 7000, Paraguay",
     "phone": "+595983414107"
   },
   {
@@ -1669,7 +1669,7 @@
   },
   {
     "id": 279,
-    "name": "Gran Nobile Hotel \u0026 Convention",
+    "name": "Gran Nobile Hotel & Convention",
     "address": "C. Boqueron 305, Cd. del Este, Paraguay",
     "phone": "+595615491000"
   },
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 292,
-    "name": "Hotel \u0026 Restaurante Guarania",
+    "name": "Hotel & Restaurante Guarania",
     "address": "Super Carretera Ypane Presidente Franco, 7700, Paraguay",
     "phone": "+595983809950"
   },
@@ -1795,7 +1795,7 @@
   },
   {
     "id": 300,
-    "name": "Teko Arte Hostel \u0026 Bar",
+    "name": "Teko Arte Hostel & Bar",
     "address": "Calle Arturo Garcete 1964, Cd. del Este 7000, Paraguay",
     "phone": "19647000"
   },
@@ -1826,7 +1826,7 @@
   {
     "id": 305,
     "name": "Palmera Hotel",
-    "address": "Esq., Gral Bernardino Caballero \u0026, Piribebuy, Pdte. Franco, Paraguay",
+    "address": "Esq., Gral Bernardino Caballero &, Piribebuy, Pdte. Franco, Paraguay",
     "phone": "+59561550152"
   },
   {
@@ -2024,7 +2024,7 @@
   {
     "id": 338,
     "name": "Rosa Palace Hotel",
-    "address": "1 de Marzo \u0026 Teniente 1 Facundo Almada, Cd. del Este 7000, Paraguay",
+    "address": "1 de Marzo & Teniente 1 Facundo Almada, Cd. del Este 7000, Paraguay",
     "phone": "+595983414107"
   },
   {
@@ -2131,7 +2131,7 @@
   },
   {
     "id": 356,
-    "name": "B\u0026B Costa Porá",
+    "name": "B&B Costa Porá",
     "address": "Km 6, 5, Cd. del Este, Paraguay",
     "phone": "+595986688200"
   },
@@ -2150,7 +2150,7 @@
   {
     "id": 359,
     "name": "TGI Fridays",
-    "address": "Calle Boqueron \u0026, Av. Adrian Jara, Cd. del Este, Paraguay",
+    "address": "Calle Boqueron &, Av. Adrian Jara, Cd. del Este, Paraguay",
     "phone": "+59561512494"
   },
   {
@@ -2209,7 +2209,7 @@
   },
   {
     "id": 369,
-    "name": "Fratelli Calzone \u0026 Pizza CDE",
+    "name": "Fratelli Calzone & Pizza CDE",
     "address": "Mariscal José F. Estigarribia, Cd. del Este, Paraguay",
     "phone": "+595972300125"
   },
@@ -2239,7 +2239,7 @@
   },
   {
     "id": 374,
-    "name": "Fast Way Gastronomía \u0026 Eventos",
+    "name": "Fast Way Gastronomía & Eventos",
     "address": "Abay, Cd. del Este, Paraguay",
     "phone": "+595973811852"
   },
@@ -2281,13 +2281,13 @@
   },
   {
     "id": 381,
-    "name": "Pizza \u0026 Cia",
+    "name": "Pizza & Cia",
     "address": "F9QP+69M, Pampliega, Cd. del Este, Paraguay",
     "phone": "+59561511881"
   },
   {
     "id": 382,
-    "name": "Fast Way Gastronomía \u0026 Eventos",
+    "name": "Fast Way Gastronomía & Eventos",
     "address": "F9GH+622, Cd. del Este, Paraguay",
     "phone": "+595973252000"
   },
@@ -2317,7 +2317,7 @@
   },
   {
     "id": 387,
-    "name": "Churrasqueria \u0026 Eventos Mara",
+    "name": "Churrasqueria & Eventos Mara",
     "address": "Limoy c/ Choferes del Chaco Ciudad del Este Ciudad del Este, 7000, Paraguay",
     "phone": "+595975815498"
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 401,
-    "name": "ELEVEN RISTO \u0026 GRILL",
+    "name": "ELEVEN RISTO & GRILL",
     "address": "Av. Los Yerbales, cerca del Lago de la República Ciudad del Este, 7000, Paraguay",
     "phone": "+595974504500"
   },
@@ -2462,7 +2462,7 @@
   {
     "id": 411,
     "name": "Restaurante Paraná",
-    "address": "F9P5+M9P, y, Av Mariscal Lopez \u0026, C. 6, Cd. del Este, Paraguay",
+    "address": "F9P5+M9P, y, Av Mariscal Lopez &, C. 6, Cd. del Este, Paraguay",
     "phone": "+595995689999"
   },
   {
@@ -2587,7 +2587,7 @@
   },
   {
     "id": 432,
-    "name": "Caldos \u0026 Cia",
+    "name": "Caldos & Cia",
     "address": "Área 4, Avenida Campo Vía Avenida América Ciudad del Este, 7000, Paraguay",
     "phone": "+595984955858"
   },
@@ -2659,7 +2659,7 @@
   },
   {
     "id": 444,
-    "name": "La Plaza Burger \u0026 Steak",
+    "name": "La Plaza Burger & Steak",
     "address": "Super Carretera - Mcal. Francisco Solano Lopez, Cd. del Este 7000, Paraguay",
     "phone": "+59561574062"
   },
@@ -2707,7 +2707,7 @@
   },
   {
     "id": 452,
-    "name": "New York Café \u0026 Food Ciudad del Este",
+    "name": "New York Café & Food Ciudad del Este",
     "address": "Super Carretera - Mcal. Francisco Solano Lopez, Cd. del Este 7000, Paraguay",
     "phone": "+59561574062"
   },
@@ -2930,7 +2930,7 @@
   {
     "id": 489,
     "name": "Shopping Mirage",
-    "address": "Avenida San Jose \u0026, Juan Martinich, Cd. del Este, Paraguay",
+    "address": "Avenida San Jose &, Juan Martinich, Cd. del Este, Paraguay",
     "phone": "+595962252620"
   },
   {
@@ -3056,7 +3056,7 @@
   {
     "id": 510,
     "name": "Shopping Terra Nova",
-    "address": "F98G+39X, casi, Av Capitán del Puerto \u0026 Acaray Nte, Cd. del Este, Paraguay",
+    "address": "F98G+39X, casi, Av Capitán del Puerto & Acaray Nte, Cd. del Este, Paraguay",
     "phone": "+595985618900"
   },
   {
@@ -3619,7 +3619,7 @@
   },
   {
     "id": 604,
-    "name": "Gran Nobile Hotel \u0026 Convention",
+    "name": "Gran Nobile Hotel & Convention",
     "address": "Av. Adrián Jara e/ Ita Ybate Rubio Ñu y Ciudad del Este, 85867-560, Paraguay",
     "phone": "85867560"
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "id": 607,
-    "name": "Teko Arte Hostel \u0026 Bar",
+    "name": "Teko Arte Hostel & Bar",
     "address": "C. Boqueron 305, Cd. del Este, Paraguay",
     "phone": "+595615491000"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "id": 640,
-    "name": "Paseo La Galeria Hotel \u0026 Suites",
+    "name": "Paseo La Galeria Hotel & Suites",
     "address": "Alberto De Sousa Entre, Rodolfo Zotti y, Asunción 1849, Paraguay",
     "phone": "+595986666035"
   },
@@ -3859,7 +3859,7 @@
   },
   {
     "id": 644,
-    "name": "Paseo La Galeria Hotel \u0026 Suites",
+    "name": "Paseo La Galeria Hotel & Suites",
     "address": "Pizarro 4142, Asunción, Paraguay",
     "phone": ""
   },
@@ -3943,7 +3943,7 @@
   },
   {
     "id": 658,
-    "name": "Five Hotel \u0026 Residences",
+    "name": "Five Hotel & Residences",
     "address": "Caballero 877, Asunción, Paraguay",
     "phone": "+595981889390"
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 694,
-    "name": "Hotel \u0026 Posada La Grappa",
+    "name": "Hotel & Posada La Grappa",
     "address": "Florencio Fernández 642, Av. Santísima Trinidad y, Asunción 1209, Paraguay",
     "phone": "+595991400702"
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "id": 723,
-    "name": "Paseo La Galeria Hotel \u0026 Suites",
+    "name": "Paseo La Galeria Hotel & Suites",
     "address": "P.º del Yacht y Golf Club, Lambaré, Paraguay",
     "phone": "+59521906121"
   },
@@ -4393,7 +4393,7 @@
   },
   {
     "id": 733,
-    "name": "Hotel \u0026 Posada La Grappa",
+    "name": "Hotel & Posada La Grappa",
     "address": "Paraguayo Independiente 821, Asunción 1209, Paraguay",
     "phone": "+595981480500"
   },
@@ -4423,7 +4423,7 @@
   },
   {
     "id": 738,
-    "name": "Paseo La Galeria Hotel \u0026 Suites",
+    "name": "Paseo La Galeria Hotel & Suites",
     "address": "Paraguayo Independiente 813, Asunción, Paraguay",
     "phone": "+595986707000"
   },
@@ -4489,7 +4489,7 @@
   },
   {
     "id": 749,
-    "name": "Five Hotel \u0026 Residences",
+    "name": "Five Hotel & Residences",
     "address": "Colón 415 esquina, Estrella, Asunción, Paraguay",
     "phone": "+59521492151"
   },
@@ -4501,7 +4501,7 @@
   },
   {
     "id": 751,
-    "name": "La Aparecida B\u0026B Hotel",
+    "name": "La Aparecida B&B Hotel",
     "address": "25 De Mayo esquina, Asunción, Paraguay",
     "phone": "+59521215005"
   },
@@ -4621,7 +4621,7 @@
   },
   {
     "id": 771,
-    "name": "Hotel \u0026 Posada La Grappa",
+    "name": "Hotel & Posada La Grappa",
     "address": "Av. España 202 casi, Asunción, Paraguay",
     "phone": "+59521449485"
   },
@@ -4873,7 +4873,7 @@
   },
   {
     "id": 813,
-    "name": "Aromas \u0026 Sabores Ruta 2",
+    "name": "Aromas & Sabores Ruta 2",
     "address": "Ruta 2, Capiatá, Paraguay",
     "phone": "+595992319111"
   },
@@ -4891,7 +4891,7 @@
   },
   {
     "id": 816,
-    "name": "La Cautiva Beer\u0026food",
+    "name": "La Cautiva Beer&food",
     "address": "7015, Capiatá 2560, Paraguay",
     "phone": "70152560"
   },
@@ -5083,7 +5083,7 @@
   },
   {
     "id": 848,
-    "name": "AROMAS \u0026 SABORES",
+    "name": "AROMAS & SABORES",
     "address": "JGWH+7FG, Capiatá, Paraguay",
     "phone": "+595983467121"
   },
@@ -5222,7 +5222,7 @@
   {
     "id": 871,
     "name": "Pizzeria Don Mario",
-    "address": "Porvenir \u0026, Mburucuyá, Capiatá, Paraguay",
+    "address": "Porvenir &, Mburucuyá, Capiatá, Paraguay",
     "phone": "+595984492083"
   },
   {
@@ -5311,7 +5311,7 @@
   },
   {
     "id": 886,
-    "name": "Oasis Pizzas \u0026 Hamburguesas - Capiatá",
+    "name": "Oasis Pizzas & Hamburguesas - Capiatá",
     "address": "MG2F+5Q7, Pje. Castillo, Capiatá, Paraguay",
     "phone": "+595991280807"
   },
@@ -5413,7 +5413,7 @@
   },
   {
     "id": 903,
-    "name": "\"ÑA GUILLE\" - DESPENSA \u0026 LIBRERÍA",
+    "name": "\"ÑA GUILLE\" - DESPENSA & LIBRERÍA",
     "address": "MF8C+H3X, Yvaporundy, San Lorenzo, Paraguay",
     "phone": "+595994761497"
   },
@@ -5431,7 +5431,7 @@
   },
   {
     "id": 906,
-    "name": "DESPENSA \u0026 BODEGA LA CUEVA",
+    "name": "DESPENSA & BODEGA LA CUEVA",
     "address": "HF4P+5PH, Ypané, Paraguay",
     "phone": ""
   },
@@ -5557,7 +5557,7 @@
   },
   {
     "id": 927,
-    "name": "Novedades J\u0026A",
+    "name": "Novedades J&A",
     "address": "JGC5+V2J, San Lorenzo, Paraguay",
     "phone": ""
   },
@@ -5612,7 +5612,7 @@
   {
     "id": 936,
     "name": "Kure Love",
-    "address": "MF5V+895, Avenida Defensores del Chaco \u0026, Saturio Rios, San Lorenzo, Paraguay",
+    "address": "MF5V+895, Avenida Defensores del Chaco &, Saturio Rios, San Lorenzo, Paraguay",
     "phone": ""
   },
   {
@@ -6044,7 +6044,7 @@
   {
     "id": 1008,
     "name": "San Bernardino",
-    "address": "esq., Avenida España \u0026, Santisimo Sacramento, Asunción, Paraguay",
+    "address": "esq., Avenida España &, Santisimo Sacramento, Asunción, Paraguay",
     "phone": "+59521600326"
   },
   {
@@ -6062,7 +6062,7 @@
   {
     "id": 1011,
     "name": "Loma San Jerónimo",
-    "address": "25 De Mayo \u0026 Estrella, Asunción, Paraguay",
+    "address": "25 De Mayo & Estrella, Asunción, Paraguay",
     "phone": "+595972473542"
   },
   {

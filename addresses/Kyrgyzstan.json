@@ -229,7 +229,7 @@
   },
   {
     "id": 39,
-    "name": "281 Hotel \u0026 Hostel",
+    "name": "281 Hotel & Hostel",
     "address": "454 Frunze Street, Bishkek 720010, Kyrgyzstan",
     "phone": "454720010"
   },
@@ -325,7 +325,7 @@
   },
   {
     "id": 55,
-    "name": "White Hotel \u0026 Hostel",
+    "name": "White Hotel & Hostel",
     "address": "40 Abay St, Bishkek 720005, Kyrgyzstan",
     "phone": "40720005"
   },
@@ -457,7 +457,7 @@
   },
   {
     "id": 77,
-    "name": "Garden Hotel \u0026 SPA",
+    "name": "Garden Hotel & SPA",
     "address": "204 Yusup Abdrahmanov St, Bishkek 720040, Kyrgyzstan",
     "phone": "204720040"
   },
@@ -643,7 +643,7 @@
   },
   {
     "id": 108,
-    "name": "Torro Grill \u0026 Bar",
+    "name": "Torro Grill & Bar",
     "address": "Bishkek, Kyrgyzstan",
     "phone": "+996700624902"
   },
@@ -655,7 +655,7 @@
   },
   {
     "id": 110,
-    "name": "Pardes Cafe \u0026 Resturant",
+    "name": "Pardes Cafe & Resturant",
     "address": "Bishkek, Kyrgyzstan",
     "phone": ""
   },
@@ -757,7 +757,7 @@
   },
   {
     "id": 127,
-    "name": "Gandhi Indian Restaurant \u0026 Lounge",
+    "name": "Gandhi Indian Restaurant & Lounge",
     "address": "11 Тоголок молдо28, Bishkek, Kyrgyzstan",
     "phone": "+996312882603"
   },
@@ -859,7 +859,7 @@
   },
   {
     "id": 144,
-    "name": "SIERRA Coffee \u0026 Ristorante - Dushanbinka",
+    "name": "SIERRA Coffee & Ristorante - Dushanbinka",
     "address": "Bishkek, Kyrgyzstan",
     "phone": "+996312424588"
   },
@@ -913,13 +913,13 @@
   },
   {
     "id": 153,
-    "name": "IWA Roof Bar \u0026 Restaurant",
+    "name": "IWA Roof Bar & Restaurant",
     "address": "Bishkek, Kyrgyzstan",
     "phone": "+996700048115"
   },
   {
     "id": 154,
-    "name": "Divine Restaurant \u0026 Bar",
+    "name": "Divine Restaurant & Bar",
     "address": "148B Kievskaya Street Бишкек, 720001, Kyrgyzstan",
     "phone": "148720001"
   },
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 176,
-    "name": "City Cafe \u0026 Restaurant",
+    "name": "City Cafe & Restaurant",
     "address": "1 Yakov Logvinenko St, Bishkek, Kyrgyzstan",
     "phone": "+996500888826"
   },
@@ -1070,7 +1070,7 @@
   {
     "id": 179,
     "name": "Saudi Cuisine",
-    "address": "Erkindik 36 Between Toktogula \u0026 Kievskaya, Bishkek, Kyrgyzstan",
+    "address": "Erkindik 36 Between Toktogula & Kievskaya, Bishkek, Kyrgyzstan",
     "phone": "+996558041111"
   },
   {
@@ -1159,7 +1159,7 @@
   },
   {
     "id": 194,
-    "name": "Mac Burger \u0026 pizza",
+    "name": "Mac Burger & pizza",
     "address": "132 Bokonbayev St, Bishkek, Kyrgyzstan",
     "phone": "+996554400633"
   },
@@ -1526,7 +1526,7 @@
   {
     "id": 255,
     "name": "Issykata",
-    "address": "Erkindik 36 Between Toktogula \u0026 Kievskaya, Bishkek, Kyrgyzstan",
+    "address": "Erkindik 36 Between Toktogula & Kievskaya, Bishkek, Kyrgyzstan",
     "phone": "+996558041111"
   },
   {
@@ -1711,7 +1711,7 @@
   },
   {
     "id": 286,
-    "name": "Holiday Inn \u0026 Suites Denver Tech Center-Centennial, an IHG Hotel",
+    "name": "Holiday Inn & Suites Denver Tech Center-Centennial, an IHG Hotel",
     "address": "200 Inverness Dr W, Englewood, CO 80112",
     "phone": "20080112"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "id": 290,
-    "name": "The Benson Hotel \u0026 Faculty Club",
+    "name": "The Benson Hotel & Faculty Club",
     "address": "1881 Curtis Street, Denver, CO 80202",
     "phone": "188180202"
   },
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 292,
-    "name": "Hampton Inn \u0026 Suites Denver Aurora South",
+    "name": "Hampton Inn & Suites Denver Aurora South",
     "address": "4900 S Syracuse St, Denver, CO 80237",
     "phone": "490080237"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 295,
-    "name": "Best Western Plus Gateway Inn \u0026 Suites",
+    "name": "Best Western Plus Gateway Inn & Suites",
     "address": "4900 S Syracuse St, Denver, CO 80237",
     "phone": "490080237"
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "id": 304,
-    "name": "Sylo Ramada Inn \u0026 Suites Denver Airport",
+    "name": "Sylo Ramada Inn & Suites Denver Airport",
     "address": "1873 S Bellaire St #1020, Denver, CO 80222",
     "phone": "1873102080222"
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 307,
-    "name": "Quality Inn \u0026 Suites Denver Airport - Gateway Park",
+    "name": "Quality Inn & Suites Denver Airport - Gateway Park",
     "address": "3705 Chambers Rd, Aurora, CO 80011",
     "phone": "370580011"
   },
@@ -1855,7 +1855,7 @@
   },
   {
     "id": 310,
-    "name": "La Quinta Inn \u0026 Suites by Wyndham Denver Aurora Medical",
+    "name": "La Quinta Inn & Suites by Wyndham Denver Aurora Medical",
     "address": "14200 E Colfax Ave, Aurora, CO 80011",
     "phone": "1420080011"
   },
@@ -1879,7 +1879,7 @@
   },
   {
     "id": 314,
-    "name": "Holiday Inn Express \u0026 Suites Denver - Aurora Medical Campus, an IHG Hotel",
+    "name": "Holiday Inn Express & Suites Denver - Aurora Medical Campus, an IHG Hotel",
     "address": "2109 Larimer St, Denver, CO 80205",
     "phone": "210980205"
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "id": 326,
-    "name": "Hampton Inn \u0026 Suites Parker",
+    "name": "Hampton Inn & Suites Parker",
     "address": "14071 E Iliff Ave, Aurora, CO 80014",
     "phone": "1407180014"
   },
@@ -1969,7 +1969,7 @@
   },
   {
     "id": 329,
-    "name": "Microtel Inn \u0026 Suites by Wyndham Denver",
+    "name": "Microtel Inn & Suites by Wyndham Denver",
     "address": "800 S Abilene St, Aurora, CO 80012",
     "phone": "80080012"
   },
@@ -1999,7 +1999,7 @@
   },
   {
     "id": 334,
-    "name": "Hampton Inn \u0026 Suites Denver/South-RidgeGate",
+    "name": "Hampton Inn & Suites Denver/South-RidgeGate",
     "address": "13025 E Montview Blvd, Aurora, CO 80045",
     "phone": "1302580045"
   },
@@ -2017,7 +2017,7 @@
   },
   {
     "id": 337,
-    "name": "Metropolitan Bar \u0026 Grill",
+    "name": "Metropolitan Bar & Grill",
     "address": "8325 Park Meadows Center Dr, Lone Tree, CO 80124",
     "phone": "832580124"
   },
@@ -2077,7 +2077,7 @@
   },
   {
     "id": 347,
-    "name": "Mariachi Loco Mexican Grill \u0026 Taqueria",
+    "name": "Mariachi Loco Mexican Grill & Taqueria",
     "address": "12 ул. Алымбекова, Osh, Kyrgyzstan",
     "phone": "+996552781516"
   },
@@ -2167,7 +2167,7 @@
   },
   {
     "id": 362,
-    "name": "Metropolitan Bar \u0026 Grill",
+    "name": "Metropolitan Bar & Grill",
     "address": "Osh, Kyrgyzstan",
     "phone": "+996772166226"
   },
@@ -2197,19 +2197,19 @@
   },
   {
     "id": 367,
-    "name": "The Z! | Family Kitchen \u0026 Dining Hall at CVA",
+    "name": "The Z! | Family Kitchen & Dining Hall at CVA",
     "address": "108a A Shakirova St, Osh, Kyrgyzstan",
     "phone": "+996771111111"
   },
   {
     "id": 368,
-    "name": "Woolley's Grill \u0026 Lounge",
+    "name": "Woolley's Grill & Lounge",
     "address": "Osh, Kyrgyzstan",
     "phone": ""
   },
   {
     "id": 369,
-    "name": "Tin Cup Bar \u0026 Grill - Meadow Hills",
+    "name": "Tin Cup Bar & Grill - Meadow Hills",
     "address": "243/1 Kurmanjan-Datka St, Osh 723500, Kyrgyzstan",
     "phone": "2431723500"
   },
@@ -2227,7 +2227,7 @@
   },
   {
     "id": 372,
-    "name": "Mariachi Loco Mexican Grill \u0026 Taqueria",
+    "name": "Mariachi Loco Mexican Grill & Taqueria",
     "address": "2041 S Koeller St, Oshkosh, WI 54902",
     "phone": "204154902"
   },
@@ -2281,7 +2281,7 @@
   },
   {
     "id": 381,
-    "name": "Nami Ramen \u0026 Poke",
+    "name": "Nami Ramen & Poke",
     "address": "Osh, Kyrgyzstan",
     "phone": ""
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 401,
-    "name": "OSH Restaurant \u0026 Grill",
+    "name": "OSH Restaurant & Grill",
     "address": "19702 E Dorado Ave, Aurora, CO 80015",
     "phone": "1970280015"
   },
@@ -3421,7 +3421,7 @@
   },
   {
     "id": 571,
-    "name": "78 Hotel\u0026Cafe",
+    "name": "78 Hotel&Cafe",
     "address": "277, Toktogula, Karakol 722200, Kyrgyzstan",
     "phone": "277722200"
   },
@@ -3565,7 +3565,7 @@
   },
   {
     "id": 595,
-    "name": "4 season's Guest House \u0026 Hostel",
+    "name": "4 season's Guest House & Hostel",
     "address": "Abdrahmanov, Karakol, Kyrgyzstan",
     "phone": ""
   },
@@ -3715,7 +3715,7 @@
   },
   {
     "id": 620,
-    "name": "Guesthouse Hiker's B\u0026B",
+    "name": "Guesthouse Hiker's B&B",
     "address": "Karasaeva Street 201 Karakol, 722360, Kyrgyzstan",
     "phone": "201722360"
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "id": 648,
-    "name": "B\u0026B at Musaevs Yurt Camp",
+    "name": "B&B at Musaevs Yurt Camp",
     "address": "27 Masaliev St, Karakol 722200, Kyrgyzstan",
     "phone": "27722200"
   },

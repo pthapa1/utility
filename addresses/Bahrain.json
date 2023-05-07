@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "name": "JUFFAIR BOULEVARD HOTEL \u0026 SUITES",
+    "name": "JUFFAIR BOULEVARD HOTEL & SUITES",
     "address": "Building 4672 Road 2468, Manama 324, Bahrain",
     "phone": "46722468324"
   },
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Hilton Bahrain",
-    "address": "ELITE RESORT \u0026 SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
+    "address": "ELITE RESORT & SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
     "phone": "101322+97317313333+97317313344"
   },
   {
@@ -44,12 +44,12 @@
   {
     "id": 8,
     "name": "Gulf Hotel Bahrain",
-    "address": "ELITE RESORT \u0026 SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
+    "address": "ELITE RESORT & SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
     "phone": "101322+97317313333+97317313344"
   },
   {
     "id": 9,
-    "name": "Elite Resort \u0026 Spa",
+    "name": "Elite Resort & Spa",
     "address": "Building 11 Rd No 3801, Manama, Bahrain",
     "phone": "+97317713000"
   },
@@ -133,13 +133,13 @@
   },
   {
     "id": 23,
-    "name": "The Diplomat Radisson Blu Hotel, Residence \u0026 Spa, Manama",
+    "name": "The Diplomat Radisson Blu Hotel, Residence & Spa, Manama",
     "address": "Building 1370، Road No 2423, Manama, Bahrain",
     "phone": "13702423"
   },
   {
     "id": 24,
-    "name": "Reef Resort \u0026 Spa",
+    "name": "Reef Resort & Spa",
     "address": "Building 25, Road 338 Block 339 UMALHASAM, 339, Bahrain",
     "phone": "25338339339"
   },
@@ -325,7 +325,7 @@
   },
   {
     "id": 55,
-    "name": "Meshal Hotel \u0026 Spa",
+    "name": "Meshal Hotel & Spa",
     "address": "406, Shaikh Isa Ave, Road 330, ,Block No 327, Adliya, Manama, Bahrain",
     "phone": "406330327"
   },
@@ -391,7 +391,7 @@
   },
   {
     "id": 66,
-    "name": "Coral Bay Hotel \u0026 Resort",
+    "name": "Coral Bay Hotel & Resort",
     "address": "Block 317, Building، 34 Rd No 1701, Manama, Bahrain",
     "phone": "317341701"
   },
@@ -475,7 +475,7 @@
   },
   {
     "id": 80,
-    "name": "Ramee Grand Hotel \u0026 Spa",
+    "name": "Ramee Grand Hotel & Spa",
     "address": "Building 448 Rd No 2013, Manama, Bahrain",
     "phone": "+97317296699"
   },
@@ -511,7 +511,7 @@
   },
   {
     "id": 86,
-    "name": "Elite Seef Residence \u0026 Hotel",
+    "name": "Elite Seef Residence & Hotel",
     "address": "Al Seef District, Shaikh Khalifa Bin Salman Hwy, Manama, Bahrain",
     "phone": "+97317171000"
   },
@@ -535,7 +535,7 @@
   },
   {
     "id": 90,
-    "name": "Loumage Suites \u0026 Spa Seef",
+    "name": "Loumage Suites & Spa Seef",
     "address": "110 Government Avenue Manama, 110, Bahrain",
     "phone": "+97313119999"
   },
@@ -577,7 +577,7 @@
   },
   {
     "id": 97,
-    "name": "Buffalo Wings \u0026 Rings - Bahrain",
+    "name": "Buffalo Wings & Rings - Bahrain",
     "address": "Rd No 3809, Manama, Bahrain",
     "phone": "+97317742080"
   },
@@ -625,7 +625,7 @@
   },
   {
     "id": 105,
-    "name": "Mirai Restaurant \u0026 Lounge",
+    "name": "Mirai Restaurant & Lounge",
     "address": "Bldg. 670-A, Road 2411, Blk. 324, Manama, Bahrain",
     "phone": "6702411324"
   },
@@ -733,7 +733,7 @@
   },
   {
     "id": 123,
-    "name": "FURN Bistro \u0026 Bakery - The Westin Bahrain City Centre",
+    "name": "FURN Bistro & Bakery - The Westin Bahrain City Centre",
     "address": "Al Mohammediya Building, 308 Municpality Ave, Manama, Bahrain",
     "phone": "+97317214048"
   },
@@ -769,7 +769,7 @@
   },
   {
     "id": 129,
-    "name": "Oliveto Restaurant \u0026 Lounge",
+    "name": "Oliveto Restaurant & Lounge",
     "address": "bldg 1078 road 3832, Manama, Bahrain",
     "phone": "10783832"
   },
@@ -805,7 +805,7 @@
   },
   {
     "id": 135,
-    "name": "KYRO Lounge \u0026 Restaurant",
+    "name": "KYRO Lounge & Restaurant",
     "address": "Rd No 3803, Manama, Bahrain",
     "phone": "+97317712288"
   },
@@ -895,7 +895,7 @@
   },
   {
     "id": 150,
-    "name": "AL KASER GRILLS \u0026 RESTAURANTS",
+    "name": "AL KASER GRILLS & RESTAURANTS",
     "address": "Golden Tulip Hotel,، Manama, Bahrain, Manama, Bahrain",
     "phone": "+97317533450"
   },
@@ -926,7 +926,7 @@
   {
     "id": 155,
     "name": "Sunset Restaurant",
-    "address": "unit 1 \u0026 3, Building 55, Road 3802, Block 338 Manama, Bahrain",
+    "address": "unit 1 & 3, Building 55, Road 3802, Block 338 Manama, Bahrain",
     "phone": "13553802338"
   },
   {
@@ -973,7 +973,7 @@
   },
   {
     "id": 163,
-    "name": "Mahonia Restaurant \u0026 Lounge",
+    "name": "Mahonia Restaurant & Lounge",
     "address": "Adliya، Bldg. 123 Road 3825, Manama, Bahrain",
     "phone": "+97317270241"
   },
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 181,
-    "name": "Danet AlTawawish Restaurant \u0026 Cafe",
+    "name": "Danet AlTawawish Restaurant & Cafe",
     "address": "Rd No 3801, Manama, Bahrain",
     "phone": "+97317746425"
   },
@@ -1375,7 +1375,7 @@
   },
   {
     "id": 230,
-    "name": "AL QASEEM STATIONERY \u0026 COPY CENTRE",
+    "name": "AL QASEEM STATIONERY & COPY CENTRE",
     "address": "Manama, Bahrain",
     "phone": "+97317228077"
   },
@@ -1573,7 +1573,7 @@
   },
   {
     "id": 263,
-    "name": "AlAreen Wildlife Park \u0026 Reserve",
+    "name": "AlAreen Wildlife Park & Reserve",
     "address": "Avenue 28 Building 184 ,Block 410 Sanabis , Manama , Bahrain, Bahrain",
     "phone": "28184410"
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "id": 276,
-    "name": "Funland Centre - Bowling \u0026 Ice Skating",
+    "name": "Funland Centre - Bowling & Ice Skating",
     "address": "Manama, Bahrain",
     "phone": "+97317568114"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "id": 290,
-    "name": "Manama Tours \u0026 Travel",
+    "name": "Manama Tours & Travel",
     "address": "Sh Salman Hwy, Tashan, Bahrain",
     "phone": "+97317298777"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 295,
-    "name": "Sofitel Bahrain Zallaq Thalassa sea \u0026 spa",
+    "name": "Sofitel Bahrain Zallaq Thalassa sea & spa",
     "address": "1288 Rd No 3931, Manama, Bahrain",
     "phone": "12883931"
   },
@@ -1784,7 +1784,7 @@
   {
     "id": 298,
     "name": "Lagoona Beach Resort",
-    "address": "ELITE RESORT \u0026 SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
+    "address": "ELITE RESORT & SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
     "phone": "101322+97317313333+97317313344"
   },
   {
@@ -1795,7 +1795,7 @@
   },
   {
     "id": 300,
-    "name": "Elite Resort \u0026 Spa",
+    "name": "Elite Resort & Spa",
     "address": "Umm Al Saad Venue, Sitra, Bahrain",
     "phone": "+97317701201"
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 307,
-    "name": "Reef Resort \u0026 Spa",
+    "name": "Reef Resort & Spa",
     "address": "324 Building No. 1188, Rd No 2420, Manama, Bahrain",
     "phone": "32411882420"
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 315,
-    "name": "Jaw Resort \u0026 Spa",
+    "name": "Jaw Resort & Spa",
     "address": "building no.1015 road 2417 juffair, Road 2417،, Manama, Bahrain",
     "phone": "101524172417"
   },
@@ -1927,7 +1927,7 @@
   },
   {
     "id": 322,
-    "name": "Ramee Grand Hotel \u0026 Spa",
+    "name": "Ramee Grand Hotel & Spa",
     "address": "Avenue 22, Manama, Bahrain",
     "phone": "+97317811709"
   },
@@ -1975,7 +1975,7 @@
   },
   {
     "id": 330,
-    "name": "The Art Hotel \u0026 Resort",
+    "name": "The Art Hotel & Resort",
     "address": "Building 896, Road 3618, Block 436 Seef Al Seef, 428, Bahrain",
     "phone": "8963618436428"
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "id": 332,
-    "name": "Elite Seef Residence \u0026 Hotel",
+    "name": "Elite Seef Residence & Hotel",
     "address": "11 Zubara Ave, Manama, Bahrain",
     "phone": "+97317293030"
   },
@@ -2095,7 +2095,7 @@
   },
   {
     "id": 350,
-    "name": "The Grove Hotel \u0026 Conference Centre",
+    "name": "The Grove Hotel & Conference Centre",
     "address": "Al Seef District, Shaikh Khalifa Bin Salman Hwy, Manama, Bahrain",
     "phone": "+97317171000"
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 353,
-    "name": "Loumage Suites \u0026 Spa Seef",
+    "name": "Loumage Suites & Spa Seef",
     "address": "2109, Rd No 2825, Seef, Bahrain",
     "phone": "21092825"
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "id": 359,
-    "name": "Ramada Hotel \u0026 Suites by Wyndham Amwaj Islands",
+    "name": "Ramada Hotel & Suites by Wyndham Amwaj Islands",
     "address": "Manama, Bahrain",
     "phone": "+97317211622"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 361,
-    "name": "Coral Bay Hotel \u0026 Resort",
+    "name": "Coral Bay Hotel & Resort",
     "address": "Block 345, Building 262, 40 Awal Ave, Manama, Bahrain",
     "phone": "34526240"
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "id": 365,
-    "name": "Nordic Palace \u0026 Spa",
+    "name": "Nordic Palace & Spa",
     "address": "Al Fanar Avenue Road 5722 Building 2780 Manama, Bahrain، 257, Bahrain",
     "phone": "57222780257"
   },
@@ -2281,7 +2281,7 @@
   },
   {
     "id": 381,
-    "name": "bw Suites \u0026 Spa",
+    "name": "bw Suites & Spa",
     "address": "Diplomatic Area 317, Manama, Bahrain",
     "phone": "+97317531122"
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "id": 383,
-    "name": "Meshal Hotel \u0026 Spa",
+    "name": "Meshal Hotel & Spa",
     "address": "Adliya, Building 59, Road 3601, Block 336, Manama 999, Bahrain",
     "phone": "593601336999"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 385,
-    "name": "The Diplomat Radisson Blu Hotel, Residence \u0026 Spa, Manama",
+    "name": "The Diplomat Radisson Blu Hotel, Residence & Spa, Manama",
     "address": "BLDG 619 Rd No 1011, Sanabis, Bahrain",
     "phone": "+97316679797"
   },
@@ -2407,7 +2407,7 @@
   },
   {
     "id": 402,
-    "name": "Chef \u0026 Dish Restaurant",
+    "name": "Chef & Dish Restaurant",
     "address": "Rd No 1365, Riffa, Bahrain",
     "phone": "+97333774576"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "id": 407,
-    "name": "Chef \u0026 Dish Restaurant",
+    "name": "Chef & Dish Restaurant",
     "address": "Rd No 2702, Riffa, Bahrain",
     "phone": "+97317005459"
   },
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 424,
-    "name": "Tren Tren Riffa Restaurant \u0026 Grills",
+    "name": "Tren Tren Riffa Restaurant & Grills",
     "address": "Rd No 709, Riffa, Bahrain",
     "phone": ""
   },
@@ -2575,7 +2575,7 @@
   },
   {
     "id": 430,
-    "name": "Sumo Sushi \u0026 Bento",
+    "name": "Sumo Sushi & Bento",
     "address": "شارع الشيخ محمد, Riffa, Bahrain",
     "phone": "+97333968339"
   },
@@ -2587,7 +2587,7 @@
   },
   {
     "id": 432,
-    "name": "Alabul Restaurant \u0026 Grills",
+    "name": "Alabul Restaurant & Grills",
     "address": "Riffa, Bahrain",
     "phone": "+97336417629"
   },
@@ -2791,7 +2791,7 @@
   },
   {
     "id": 466,
-    "name": "Mr. Crepe \u0026 Miss. Coffee",
+    "name": "Mr. Crepe & Miss. Coffee",
     "address": "Mashtan Rd, Riffa, Bahrain",
     "phone": "+97317899991"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 547,
-    "name": "Amona Blue Children Toys \u0026 Accessories Center",
+    "name": "Amona Blue Children Toys & Accessories Center",
     "address": "Sanad, Bahrain",
     "phone": "+97317620208"
   },
@@ -3439,7 +3439,7 @@
   },
   {
     "id": 574,
-    "name": "Rashid Equestrian \u0026 Horseracing Club",
+    "name": "Rashid Equestrian & Horseracing Club",
     "address": "Bldg. 514, Road 2810, Block 328,, Manama 684, Bahrain",
     "phone": "5142810328684"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "id": 576,
-    "name": "ALDOY INTERNATIONAL SPORTS \u0026 MARTIAL ARTS CENTRE - DISMAC",
+    "name": "ALDOY INTERNATIONAL SPORTS & MARTIAL ARTS CENTRE - DISMAC",
     "address": "Riffa Views، Avenue 49، Riffa, Bahrain (immediately East of، 924, Awali, Bahrain",
     "phone": "+97317756770"
   },
@@ -3487,14 +3487,14 @@
   },
   {
     "id": 582,
-    "name": "Elite Resort \u0026 Spa",
+    "name": "Elite Resort & Spa",
     "address": "مطار البحرين الدولي, Muharraq, Bahrain",
     "phone": ""
   },
   {
     "id": 583,
     "name": "Mövenpick Bahrain",
-    "address": "ELITE RESORT \u0026 SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
+    "address": "ELITE RESORT & SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
     "phone": "101322+97317313333+97317313344"
   },
   {
@@ -3565,7 +3565,7 @@
   },
   {
     "id": 595,
-    "name": "Reef Resort \u0026 Spa",
+    "name": "Reef Resort & Spa",
     "address": "Building 896, Road 3618, Block 436 Seef Al Seef, 428, Bahrain",
     "phone": "8963618436428"
   },
@@ -3595,13 +3595,13 @@
   },
   {
     "id": 600,
-    "name": "Meshal Hotel \u0026 Spa",
+    "name": "Meshal Hotel & Spa",
     "address": "Building 894, 436 Road No. 3618, Seef, Bahrain",
     "phone": "8944363618"
   },
   {
     "id": 601,
-    "name": "Coral Bay Hotel \u0026 Resort",
+    "name": "Coral Bay Hotel & Resort",
     "address": "Building 448 Rd No 2013, Manama, Bahrain",
     "phone": "+97317296699"
   },
@@ -3673,7 +3673,7 @@
   },
   {
     "id": 613,
-    "name": "Ramada Hotel \u0026 Suites by Wyndham Amwaj Islands",
+    "name": "Ramada Hotel & Suites by Wyndham Amwaj Islands",
     "address": "Block No 304 Road 383 Building No 185, Manama, Bahrain",
     "phone": "304383185"
   },
@@ -3685,7 +3685,7 @@
   },
   {
     "id": 615,
-    "name": "Meshal Hotel \u0026 Spa",
+    "name": "Meshal Hotel & Spa",
     "address": "Building 670, Road 2411, Block 324، Juffair, Manama 324, Bahrain",
     "phone": "6702411324324"
   },
@@ -3697,7 +3697,7 @@
   },
   {
     "id": 617,
-    "name": "Coral Bay Hotel \u0026 Resort",
+    "name": "Coral Bay Hotel & Resort",
     "address": "Avenue 16, الحد،، Bahrain",
     "phone": "+97317000559"
   },
@@ -3733,13 +3733,13 @@
   },
   {
     "id": 623,
-    "name": "Elite Seef Residence \u0026 Hotel",
+    "name": "Elite Seef Residence & Hotel",
     "address": "338 Road#382, Manama, Bahrain",
     "phone": "+97317725000"
   },
   {
     "id": 624,
-    "name": "The Diplomat Radisson Blu Hotel, Residence \u0026 Spa, Manama",
+    "name": "The Diplomat Radisson Blu Hotel, Residence & Spa, Manama",
     "address": "Building 491 Rd No 2407, Manama 973, Bahrain",
     "phone": "4912407973"
   },
@@ -3823,7 +3823,7 @@
   },
   {
     "id": 638,
-    "name": "Ramee Grand Hotel \u0026 Spa",
+    "name": "Ramee Grand Hotel & Spa",
     "address": "Building 185, Rd No. 2005, Manama, Bahrain",
     "phone": ""
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "id": 648,
-    "name": "Loumage Suites \u0026 Spa Seef",
+    "name": "Loumage Suites & Spa Seef",
     "address": "142 Ahmed Al Fateh Road, Manama, Bahrain",
     "phone": "+97316168791"
   },
@@ -3979,7 +3979,7 @@
   },
   {
     "id": 664,
-    "name": "bw Suites \u0026 Spa",
+    "name": "bw Suites & Spa",
     "address": "716 Road 2018, Manama 323, Bahrain",
     "phone": "7162018323"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "id": 680,
-    "name": "Al Jabriya Grills \u0026 Pastries",
+    "name": "Al Jabriya Grills & Pastries",
     "address": "Bldg 288, Road 311, Block 203, Muharraq المحرق, 203, Bahrain",
     "phone": "288311203203"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "id": 682,
-    "name": "Tandoori Tawah Grill \u0026 Restaurant",
+    "name": "Tandoori Tawah Grill & Restaurant",
     "address": "Block 215 Road 1531 Building 1100 Muharraq, 002, Bahrain",
     "phone": "21515311100002"
   },
@@ -4153,13 +4153,13 @@
   },
   {
     "id": 693,
-    "name": "Gujrat Restaurant \u0026 Grill",
+    "name": "Gujrat Restaurant & Grill",
     "address": "Rd No 1633, Muharraq, Bahrain",
     "phone": "+97333229453"
   },
   {
     "id": 694,
-    "name": "Gujrat Restaurant \u0026 Grill",
+    "name": "Gujrat Restaurant & Grill",
     "address": "مجمع سيف المحرق،, Avenue 29, Arad, Bahrain",
     "phone": "+97333242531"
   },
@@ -4237,7 +4237,7 @@
   },
   {
     "id": 707,
-    "name": "Ali Pasha Grills \u0026 Lounge",
+    "name": "Ali Pasha Grills & Lounge",
     "address": "MUHARRAQ BLDG-241,ROAD 507, BLOCK 205 muharraq, Manama, Bahrain",
     "phone": "241507205"
   },
@@ -4484,7 +4484,7 @@
   {
     "id": 748,
     "name": "Our Old House مطعم ومقهى بيتنا القديم",
-    "address": "Shop - 469 \u0026 471 Road - 3, Abdulrahman Al Fadhel Ave, 000, Bahrain",
+    "address": "Shop - 469 & 471 Road - 3, Abdulrahman Al Fadhel Ave, 000, Bahrain",
     "phone": "4694713000"
   },
   {
@@ -4531,7 +4531,7 @@
   },
   {
     "id": 756,
-    "name": "HUZAIFA SWEETS \u0026 RESTURANT",
+    "name": "HUZAIFA SWEETS & RESTURANT",
     "address": "Arad, Bahrain",
     "phone": "+97317276699"
   },
@@ -4730,7 +4730,7 @@
   {
     "id": 789,
     "name": "Mall of Dilmunia",
-    "address": "3 \u0026 4 Gate 18, GLS Compound, Rayya Hwy, Muharraq, Bahrain",
+    "address": "3 & 4 Gate 18, GLS Compound, Rayya Hwy, Muharraq, Bahrain",
     "phone": "+97317330434"
   },
   {
@@ -5119,7 +5119,7 @@
   },
   {
     "id": 854,
-    "name": "mobile shop \u0026 sarvice center",
+    "name": "mobile shop & sarvice center",
     "address": "Manama, Bahrain",
     "phone": "+97317311163"
   },
@@ -5317,7 +5317,7 @@
   },
   {
     "id": 887,
-    "name": "Funland Centre - Bowling \u0026 Ice Skating",
+    "name": "Funland Centre - Bowling & Ice Skating",
     "address": "Manama, Bahrain",
     "phone": "+97317827087"
   },
@@ -5503,7 +5503,7 @@
   },
   {
     "id": 918,
-    "name": "ALREEM POOL 1 \u0026 2",
+    "name": "ALREEM POOL 1 & 2",
     "address": "Resort 256 , Road 0006, block 1010 Al Hamala، 1010, Bahrain",
     "phone": "256000610101010"
   },
@@ -5515,7 +5515,7 @@
   },
   {
     "id": 920,
-    "name": "Sofitel Bahrain Zallaq Thalassa sea \u0026 spa",
+    "name": "Sofitel Bahrain Zallaq Thalassa sea & spa",
     "address": "Villa No 2428, Rd No 2751, كرزكان،, Bahrain",
     "phone": "24282751"
   },
@@ -5588,7 +5588,7 @@
   {
     "id": 932,
     "name": "Matar style restaurant",
-    "address": "307 Souq Waqif, Opposite Batelco \u0026 Zain, Hamad Town, Hamad Town, Bahrain",
+    "address": "307 Souq Waqif, Opposite Batelco & Zain, Hamad Town, Hamad Town, Bahrain",
     "phone": "+97333054142"
   },
   {
@@ -5605,7 +5605,7 @@
   },
   {
     "id": 935,
-    "name": "Blue Beach Restaurant \u0026 Grills",
+    "name": "Blue Beach Restaurant & Grills",
     "address": "Road 309 Madinat Hamad, 1203, Bahrain",
     "phone": "+97317601314"
   },
@@ -5755,7 +5755,7 @@
   },
   {
     "id": 960,
-    "name": "مطعم صلنفة للكباب - Salanfa Coffeeshop \u0026 Grills",
+    "name": "مطعم صلنفة للكباب - Salanfa Coffeeshop & Grills",
     "address": "Lawzi-43/Roundabout 4, Hamad Town, Bahrain",
     "phone": "+97317484645"
   },
@@ -5863,7 +5863,7 @@
   },
   {
     "id": 978,
-    "name": "Ranoosh Foul \u0026 Falafel - فوال رنوش",
+    "name": "Ranoosh Foul & Falafel - فوال رنوش",
     "address": "Hamad Town, Bahrain",
     "phone": "+97337119196"
   },
@@ -6049,7 +6049,7 @@
   },
   {
     "id": 1009,
-    "name": "Tilal al sharq cafe \u0026 bakery مخبز ومقهى تلال الشرق",
+    "name": "Tilal al sharq cafe & bakery مخبز ومقهى تلال الشرق",
     "address": "Hamad Town, Bahrain",
     "phone": "+97317599017"
   },
@@ -6505,7 +6505,7 @@
   },
   {
     "id": 1085,
-    "name": "Dream World Gaming Computer\u0026 Mobile Center",
+    "name": "Dream World Gaming Computer& Mobile Center",
     "address": "Avenue 29, Arad, Bahrain",
     "phone": "+97377911116"
   },
@@ -6691,7 +6691,7 @@
   },
   {
     "id": 1116,
-    "name": "AlAreen Wildlife Park \u0026 Reserve",
+    "name": "AlAreen Wildlife Park & Reserve",
     "address": "892 3618, Karbabad, Bahrain",
     "phone": "+97317567171"
   },
@@ -6745,7 +6745,7 @@
   },
   {
     "id": 1125,
-    "name": "Sofitel Bahrain Zallaq Thalassa sea \u0026 spa",
+    "name": "Sofitel Bahrain Zallaq Thalassa sea & spa",
     "address": "Entrance 26, Avenue، 63, Budaiya, Bahrain",
     "phone": "+97316630000"
   },
@@ -6757,7 +6757,7 @@
   },
   {
     "id": 1127,
-    "name": "Elite Resort \u0026 Spa",
+    "name": "Elite Resort & Spa",
     "address": "Manama, Bahrain",
     "phone": "+97313110110"
   },
@@ -6769,8 +6769,8 @@
   },
   {
     "id": 1129,
-    "name": "Reef Resort \u0026 Spa",
-    "address": "ELITE RESORT \u0026 SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
+    "name": "Reef Resort & Spa",
+    "address": "ELITE RESORT & SPA Bldg. 101, Area 322 Shk. Hamad Causeway Tel. (+973) 17313333 Fax (+973) 17313344, Bahrain",
     "phone": "101322+97317313333+97317313344"
   },
   {
@@ -6805,7 +6805,7 @@
   },
   {
     "id": 1135,
-    "name": "Ramee Grand Hotel \u0026 Spa",
+    "name": "Ramee Grand Hotel & Spa",
     "address": "406, Shaikh Isa Ave, Road 330, ,Block No 327, Adliya, Manama, Bahrain",
     "phone": "406330327"
   },
@@ -6823,7 +6823,7 @@
   },
   {
     "id": 1138,
-    "name": "Elite Seef Residence \u0026 Hotel",
+    "name": "Elite Seef Residence & Hotel",
     "address": "Avenue 22, Manama, Bahrain",
     "phone": "+97317811709"
   },
@@ -6871,7 +6871,7 @@
   },
   {
     "id": 1146,
-    "name": "Loumage Suites \u0026 Spa Seef",
+    "name": "Loumage Suites & Spa Seef",
     "address": "Block 410 Road 1010 Building 459, Manama, Bahrain",
     "phone": "4101010459"
   },
@@ -6949,7 +6949,7 @@
   },
   {
     "id": 1159,
-    "name": "Jaw Resort \u0026 Spa",
+    "name": "Jaw Resort & Spa",
     "address": "Building 2326, Road 2830, Block 428, Al Seef, Manama/Seef, Bahrain",
     "phone": "23262830428"
   },
@@ -6961,7 +6961,7 @@
   },
   {
     "id": 1161,
-    "name": "Al Areen Palace \u0026 Spa by Accor",
+    "name": "Al Areen Palace & Spa by Accor",
     "address": "302 Tijjar Ave, Manama, Bahrain",
     "phone": "+97339415064"
   },
@@ -6985,7 +6985,7 @@
   },
   {
     "id": 1165,
-    "name": "Nordic Palace \u0026 Spa",
+    "name": "Nordic Palace & Spa",
     "address": "Bldg 896 , Road 3618, Block 436 , Alseef , Kingdom of Bahrain Manama Muhafazat al-'Asimah، 180, Bahrain",
     "phone": "8963618436180"
   },
@@ -7117,7 +7117,7 @@
   },
   {
     "id": 1187,
-    "name": "Seef Palace Hotel \u0026 Spa",
+    "name": "Seef Palace Hotel & Spa",
     "address": "Building 896, Road 3618, Block 436 Seef Al Seef, 428, Bahrain",
     "phone": "8963618436428"
   },
@@ -7129,7 +7129,7 @@
   },
   {
     "id": 1189,
-    "name": "The Art Hotel \u0026 Resort",
+    "name": "The Art Hotel & Resort",
     "address": "Building 147, Avenue 22, Block 324,, Juffair, Bahrain",
     "phone": "14722324"
   },
@@ -7171,13 +7171,13 @@
   },
   {
     "id": 1196,
-    "name": "Coral Bay Hotel \u0026 Resort",
+    "name": "Coral Bay Hotel & Resort",
     "address": "Al Seef, Shaikh Khalifa Bin Salman Hwy, Manama, Bahrain",
     "phone": "+97317171000"
   },
   {
     "id": 1197,
-    "name": "The Grove Hotel \u0026 Conference Centre",
+    "name": "The Grove Hotel & Conference Centre",
     "address": "Diplomatic Area 317, Manama, Bahrain",
     "phone": "+97317531122"
   },
@@ -7279,7 +7279,7 @@
   },
   {
     "id": 1214,
-    "name": "Hani Suites \u0026 Spa",
+    "name": "Hani Suites & Spa",
     "address": "Manama, Bahrain",
     "phone": "+97317211622"
   },
@@ -7861,7 +7861,7 @@
   },
   {
     "id": 1311,
-    "name": "The Atrium Mall \u0026 Tower",
+    "name": "The Atrium Mall & Tower",
     "address": "Rd No 2819, Seef, Bahrain",
     "phone": "+97317581000"
   },
