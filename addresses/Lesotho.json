@@ -1,2682 +1,3242 @@
 [
-  {
-    "name": "City Stay Maseru",
-    "address": "Hilton Rd, Maseru 100, Lesotho",
-    "phone": "+26622243000"
-  },
-  {
-    "name": "RIO GUEST HOUSE LS",
-    "address": "344 Taung Rd, Maseru, Lesotho",
-    "phone": "+26658866632"
-  },
-  {
-    "name": "Avani Lesotho Hotel & Casino",
-    "address": "770 Manong Rd, Maseru, Lesotho",
-    "phone": "+26622317700"
-  },
-  {
-    "name": "Noble Hearts Bed & Breakfast",
-    "address": "New Parliament Rd, Maseru, Lesotho",
-    "phone": "+26653305920"
-  },
-  {
-    "name": "Black Swan Guesthouse",
-    "address": "Lower Thetsane, 791 Senqunyane St, Maseru 100, Lesotho",
-    "phone": "+26658883454"
-  },
-  {
-    "name": "GREENLAKE GUESTHOUSE",
-    "address": "New Parliament Rd, Maseru, Lesotho",
-    "phone": "+26653305920"
-  },
-  {
-    "name": "Scenery Guest House Maqalika",
-    "address": "Linakeng, Maseru, Lesotho",
-    "phone": "+26653807041"
-  },
-  {
-    "name": "Avani Maseru Hotel",
-    "address": "12 Orpen Rd, Maseru, Lesotho",
-    "phone": "+26622243000"
-  },
-  {
-    "name": "Reitumetse Guest House",
-    "address": "Nazareth, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Foothills Guesthouse",
-    "address": "Mantsebo, Lesotho",
-    "phone": "+26650920881"
-  },
-  {
-    "name": "Mohalalitoe Bed and Breakfast",
-    "address": "Maseru, Lesotho",
-    "phone": "+26662853523"
-  },
-  {
-    "name": "Road Stay",
-    "address": "12 Thabure Street, Maseru 100, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Tribute Guest House Matala",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622315926"
-  },
-  {
-    "name": "RIO GUEST HOUSE LS",
-    "address": "Unnamed Road, Foso, Lesotho",
-    "phone": "+26662050012"
-  },
-  {
-    "name": "Lion Rock View Guesthouse",
-    "address": "Maseru, Lesotho",
-    "phone": "+27824935862"
-  },
-  {
-    "name": "Horizon View Guest House",
-    "address": "100 Naleli-Sekamaneng Rd, Foso 100, Lesotho",
-    "phone": "+26662000117"
-  },
-  {
-    "name": "Joy Guest House",
-    "address": "Maseru, Lesotho",
-    "phone": "+26662777999"
-  },
-  {
-    "name": "Mpilo Boutique Hotel",
-    "address": "Sehlabeng sa thuathe, Berea Hills 100, Lesotho",
-    "phone": "+26650489517"
-  },
-  {
-    "name": "Maluti Stay",
-    "address": "Thetsane West, Maseru 100, Lesotho",
-    "phone": "+26650265047"
-  },
-  {
-    "name": "ONESI Guest House",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+26662818283"
-  },
-  {
-    "name": "Kubung Guest House",
-    "address": "Nazareth, Ntsi, Lesotho",
-    "phone": "+26622347766"
-  },
-  {
-    "name": "Phomolo Guest House",
-    "address": "Unnamed Road, Roma, Lesotho",
-    "phone": "+26658870077"
-  },
-  {
-    "name": "Maluti Stay",
-    "address": "36 Mabelebele St, Maseru, Lesotho",
-    "phone": "+26662812740"
-  },
-  {
-    "name": "Joy Guest House",
-    "address": "florida no 577 next to Jehovas Witnesses Hoohlo, Maseru 100, Lesotho",
-    "phone": "+26658883764"
-  },
-  {
-    "name": "The Palace Hotel",
-    "address": "Pope John Paul II Road, Maseru Pope John Paul II Road Maseru LS, Pope John Paul II Rd, Maseru, Lesotho",
-    "phone": "+26656902049"
-  },
-  {
-    "name": "Lancer's Inn Hotel Maseru",
-    "address": "Ha Mabote, Main North 1 Road, Maseru, Lesotho",
-    "phone": "+26628332317"
-  },
-  {
-    "name": "Blue Mountain Inn",
-    "address": "Naleli Maseru, 100, Lesotho",
-    "phone": "+26662161616"
-  },
-  {
-    "name": "Lapeng Ha Mamosa",
-    "address": "33 100, Tjobolo St, Maseru, Lesotho",
-    "phone": "+26628328871"
-  },
-  {
-    "name": "Hotel Victoria",
-    "address": "Sea Point, Maseru 100, Lesotho",
-    "phone": "+26659999600"
-  },
-  {
-    "name": "Mohokare Guest House",
-    "address": "Ha Basiane, Roma, Maseru District, Roma 180, Lesotho",
-    "phone": "+26650245001"
-  },
-  {
-    "name": "Thaba Bosiu Cultural Village",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622313646"
-  },
-  {
-    "name": "THE CLAN GUEST HOUSE",
-    "address": "Maseru, Lesotho",
-    "phone": "+27724472866"
-  },
-  {
-    "name": "Mmelesi Lodge",
-    "address": "NTTC Area, Maseru, Lesotho",
-    "phone": "+26622315271"
-  },
-  {
-    "name": "Mohahlaula Boutique Guesthouse",
-    "address": "Maseru, Lesotho",
-    "phone": "+26662559600"
-  },
-  {
-    "name": "Shoeshoe Gardens",
-    "address": "Maseru, Lesotho",
-    "phone": "+26650985223"
-  },
-  {
-    "name": "Lakeview guesthouse",
-    "address": "Ha Abia Road, Matala, Off, Main South 1 Rd, Maseru, Lesotho",
-    "phone": "+26628351979"
-  },
-  {
-    "name": "Maliba Lodge",
-    "address": "Orpen Rd, Maseru, Lesotho",
-    "phone": "+26662314661"
-  },
-  {
-    "name": "Denver Echo: Executive Guest House & Wellness Facility",
-    "address": "Behind Setsoto Stadium Maseru LS, Maseru, Lesotho",
-    "phone": "+26653807042"
-  },
-  {
-    "name": "Khali Hotel",
-    "address": "Main South 1 Rd, Bokatis Store, Lesotho",
-    "phone": "+26662004000"
-  },
-  {
-    "name": "San Antonio",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622326326"
-  },
-  {
-    "name": "Botleng Guest House",
-    "address": "Maqalika Airport Road, Maseru 100, Lesotho",
-    "phone": "+26622336606"
-  },
-  {
-    "name": "Rethabile House",
-    "address": "Thaba Bosiu Rd, Maseru, Lesotho",
-    "phone": "+26652501115"
-  },
-  {
-    "name": "Cyaara Guest House",
-    "address": "No.498, Pope John Paul II Rd, Maseru, Lesotho",
-    "phone": "+26622324190"
-  },
-  {
-    "name": "Karona Guest HOuse & Lodge",
-    "address": "Qalabane Street, Maseru, Lesotho",
-    "phone": "+26622315019"
-  },
-  {
-    "name": "Lakeside Hotel",
-    "address": "Motloang, Lesotho",
-    "phone": "+26627021962"
-  },
-  {
-    "name": "Phokeng Bed and Breakfast",
-    "address": "Foso, Lesotho",
-    "phone": "+26622332008"
-  },
-  {
-    "name": "Roma Trading Post Lodge",
-    "address": "Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": "+26622324215"
-  },
-  {
-    "name": "Haven of Peace Bed and Breakfast",
-    "address": "260 Pioneer Rd, Maseru, Lesotho",
-    "phone": "+26622314442"
-  },
-  {
-    "name": "Blue Crane Guesthouse",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628320707"
-  },
-  {
-    "name": "Joy Guest House Ls",
-    "address": "Ts'oeneng Ha Letsie, Maseru 100, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Boikhutsong Bed and Breakfast",
-    "address": "Kingsway Maseru LS 100, 100 Kingsway, Maseru, Lesotho",
-    "phone": "+26622313687"
-  },
-  {
-    "name": "Global Guest House",
-    "address": "Box 7, Teyateyaneng 200, Lesotho",
-    "phone": "+26622500362"
-  },
-  {
-    "name": "Florida bed n breakfast Solutionz",
-    "address": "Molemane Rd, Teyateyaneng 200, Lesotho",
-    "phone": "+26622501638"
-  },
-  {
-    "name": "Hillside Cottage Guest House",
-    "address": "Road & Kingsway Central Private Bag A 216, Pioneer corner, Maseru 100, Lesotho",
-    "phone": "+26622312114"
-  },
-  {
-    "name": "Seilatsatsi B&B",
-    "address": "5, Maluti Stay Lodge, Ramabanta 5, Maseru 100, Lesotho",
-    "phone": "+26650895429"
-  },
-  {
-    "name": "My Kasi Home BnB",
-    "address": "Main South 1 Rd Maseru (29°22'30.2\"S 27°32'53.0\"E, Main South 1 Rd, Lesotho",
-    "phone": "1292230227325301"
-  },
-  {
-    "name": "Molengoane Lodge",
-    "address": "Unnamed Road, Makhalanyane, Lesotho",
-    "phone": "+26652500113"
-  },
-  {
-    "name": "Da Villa Guest House",
-    "address": "5, Maluti Stay Lodge, Ramabanta 5, Maseru 100, Lesotho",
-    "phone": "+26650895429"
-  },
-  {
-    "name": "Harmony Bed and Breakfast",
-    "address": "Maseru, Lesotho",
-    "phone": "+26659149296"
-  },
-  {
-    "name": "The Stone Guest House",
-    "address": "Naleli-Sekamaneng Rd, Foso, Lesotho",
-    "phone": "+26653229429"
-  },
-  {
-    "name": "The Village Guest House",
-    "address": "Maluti Rd, Maseru, Lesotho",
-    "phone": "+26652203000"
-  },
-  {
-    "name": "The Nest Guest House",
-    "address": "Unnamed Road, Maseru, Lesotho",
-    "phone": "+26658740728"
-  },
-  {
-    "name": "Village Court Guest House",
-    "address": "S 029° 22.412, E 27° 32.862, Lesotho",
-    "phone": "029224122732862"
-  },
-  {
-    "name": "Village Court Guest House",
-    "address": "105 Naleli-Sekamaneng Rd, Foso, Lesotho",
-    "phone": "+26628333046"
-  },
-  {
-    "name": "MDR B&B",
-    "address": "426 Matlaka Rd, Maseru, Lesotho",
-    "phone": "+26622323176"
-  },
-  {
-    "name": "lodge",
-    "address": "121 Maluti Rd, Maseru, Lesotho",
-    "phone": "+26658706566"
-  },
-  {
-    "name": "No.7 Restaurant",
-    "address": "Shop 14, Maseru Mall, Maseru 100, Lesotho",
-    "phone": "+26662757555"
-  },
-  {
-    "name": "Nada",
-    "address": "Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": "+26622326838"
-  },
-  {
-    "name": "The Market",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622325498"
-  },
-  {
-    "name": "Monte Carlo Restaurant",
-    "address": "Maseru, Lesotho",
-    "phone": "+26659042775"
-  },
-  {
-    "name": "The Deck",
-    "address": "Mabekebeke St, Maseru, Lesotho",
-    "phone": "+26652505501"
-  },
-  {
-    "name": "Cappello",
-    "address": "Maseru, Lesotho",
-    "phone": "+26659571470"
-  },
-  {
-    "name": "N'Jays Restaurant",
-    "address": "Orpen Rd, Maseru, Lesotho",
-    "phone": "+26622315892"
-  },
-  {
-    "name": "Galito's Maseru Station",
-    "address": "Moshoeshoe Rd Maseru, 100, Lesotho",
-    "phone": "+26622327464"
-  },
-  {
-    "name": "Delarosa Restaurant",
-    "address": "Kingsway, Foso, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Kingdom Lounge",
-    "address": "Bakubung, Lesotho",
-    "phone": "+26659679167"
-  },
-  {
-    "name": "San Antonio Restaurant",
-    "address": "100 Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Trucha Restaurant",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628331766"
-  },
-  {
-    "name": "Asian Corner",
-    "address": "Foso, Lesotho",
-    "phone": "+26658817436"
-  },
-  {
-    "name": "Nala Cafe",
-    "address": "Moshoeshoe Rd, Foso, Lesotho",
-    "phone": "+26657320524"
-  },
-  {
-    "name": "Mama Rich Cafe & Restaurant",
-    "address": "Foso, Lesotho",
-    "phone": "+26663125558"
-  },
-  {
-    "name": "Big 6 Meat & Chill",
-    "address": "Lesotho Sun Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Wimpy",
-    "address": "Moshoeshoe Road, Sefika Shopping, Centre, Moshoeshoe Rd, Foso, Lesotho",
-    "phone": "+26657044379"
-  },
-  {
-    "name": "Captain DoRegos Maseru Cathedral",
-    "address": "Naleli-Sekamaneng Rd, Foso, Lesotho",
-    "phone": "+26656431743"
-  },
-  {
-    "name": "KFC",
-    "address": "Foso, Lesotho",
-    "phone": "+26659492323"
-  },
-  {
-    "name": "Peace Restaurant和平饭店",
-    "address": "Maseru, Lesotho",
-    "phone": "+26650985223"
-  },
-  {
-    "name": "Bon-Appetite",
-    "address": "Masianokeng Lifestyle Centre, Main South 1 Rd, Maseru, Lesotho",
-    "phone": "+26656194147"
-  },
-  {
-    "name": "Mammas Chicken",
-    "address": "286, 100 Pioneer Rd, Maseru, Lesotho",
-    "phone": "+26622329912"
-  },
-  {
-    "name": "Carnivore ltd",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622316951"
-  },
-  {
-    "name": "jimmy fish & chips",
-    "address": "Foso, Lesotho",
-    "phone": "+26628335820"
-  },
-  {
-    "name": "Domino's Pizza Maseru (Closed)",
-    "address": "Taoana Center, Pela Mokorotlong, Kingsway, Maseru 100, Lesotho",
-    "phone": "+26659756160"
-  },
-  {
-    "name": "DESI DERA halal restaurant",
-    "address": "Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Times Kitchen",
-    "address": "Lekhaloaneng, Maseru 100, Lesotho",
-    "phone": "+26658153413"
-  },
-  {
-    "name": "Captain DoRegos Kingsway Road",
-    "address": "Maseru, Lesotho",
-    "phone": "+26658910099"
-  },
-  {
-    "name": "Studio151",
-    "address": "NRH Shopping Centre, Shop 14, Kingsway, Maseru 149, Lesotho",
-    "phone": "+26622323388"
-  },
-  {
-    "name": "Cloud Cafe",
-    "address": "Khoisan Rd, Maseru, Lesotho",
-    "phone": "+26657432829"
-  },
-  {
-    "name": "Barcelos Pioneer Mall",
-    "address": "MFMR+PF6 NRH Centre, Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Mandefu Chill & Grill",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Victory Centre",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622316380"
-  },
-  {
-    "name": "Onedot Joint",
-    "address": "Maseru, Lesotho",
-    "phone": "+26662444448"
-  },
-  {
-    "name": "Artisan Lesotho",
-    "address": "Qiloane Shopping Complex, Naledi, Maseru, Foso, Lesotho",
-    "phone": "+26659052688"
-  },
-  {
-    "name": "caffè dolce",
-    "address": "Main North 1 Rd, Maseru, Lesotho",
-    "phone": "+26622325496"
-  },
-  {
-    "name": "Liphzo salon",
-    "address": "Khubetsoana, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Phoenix Kota and Fast Foods",
-    "address": "Koffi Annan Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Roman's Pizza Maseru",
-    "address": "Corner of Kofi Annan & Thaba Bosu roads Thetsane Precinct Maseru, 100, Lesotho",
-    "phone": "+26622311732"
-  },
-  {
-    "name": "Kay's Garden",
-    "address": "Naledi Centre, Maseru, Lesotho",
-    "phone": "+26659927717"
-  },
-  {
-    "name": "Gourmet-To-Go",
-    "address": "SHOP 1, BERGERS BUILDING, Kingsway, Maseru, Lesotho",
-    "phone": "+26657924786"
-  },
-  {
-    "name": "Steers",
-    "address": "Naledi Centre, Naledi, Tsosane, Maseru, Lesotho",
-    "phone": "+26622331642"
-  },
-  {
-    "name": "B and G family reatuaradry",
-    "address": "Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "KFC",
-    "address": "Mpilo Boulevard and Pioneer Road, Shop No LG14 Pioneer Mall Corner, Maseru 149, Lesotho",
-    "phone": "+26658853381"
-  },
-  {
-    "name": "Ba-oroa-tsatsi",
-    "address": "2 Phamola Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Lerakong Simple Eats",
-    "address": "1037, 100 Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Lancer's Inn Hotel Maseru",
-    "address": "Maseru, Lesotho",
-    "phone": "+26658811204"
-  },
-  {
-    "name": "Stewart's Lounge",
-    "address": "Maseru Mall, Koffi Annan Rd, Maseru 100, Lesotho",
-    "phone": "+26622310256"
-  },
-  {
-    "name": "Galito's Maseru Kingsway",
-    "address": "Maseru, Lesotho",
-    "phone": "+26658426838"
-  },
-  { "name": "Tip top", "address": "Maseru, Lesotho", "phone": null },
-  {
-    "name": "Honchos Maseru",
-    "address": "Mafafa Centre, Maseru 0100, South Africa",
-    "phone": "+26656537564"
-  },
-  {
-    "name": "Kings & Queens Pizza",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Ifo Grill & Fast Foods Restaurant",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Tructa Et Carne",
-    "address": "Maseru sefika, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Dion",
-    "address": "Pioneer Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Fafatsah Cafe 1803",
-    "address": "103 Orpen Road, Old Europa, TRC, Lesotho",
-    "phone": "+26656154835"
-  },
-  {
-    "name": "Nzee's Pizzeria",
-    "address": "Road & Kingsway Central Private Bag A 216, Pioneer corner, Maseru 100, Lesotho",
-    "phone": "+26622312114"
-  },
-  {
-    "name": "KFC Maseru Mall",
-    "address": "Plot Number 12284-487, Moposo House Kingsway Steet Maseru Central, 100, Lesotho",
-    "phone": "12284487100"
-  },
-  {
-    "name": "Kamran’s Takeaway",
-    "address": "Pioneer Mall, Maseru, Lesotho",
-    "phone": "+26622320322"
-  },
-  {
-    "name": "Debonairs Pizza",
-    "address": "Qiloane St, Maseru 100, Lesotho",
-    "phone": "+26663336980"
-  },
-  {
-    "name": "Captain Doregos",
-    "address": "Maseru, Lesotho",
-    "phone": "+26663857340"
-  },
-  {
-    "name": "Luthers Restaurants and Takeaways",
-    "address": "Maseru, Lesotho",
-    "phone": "+26657219610"
-  },
-  {
-    "name": "Good Chesa Nyama",
-    "address": "Shop LG 15 Pioneer Mall Maseru Cnr Mpilo Boulevard &, Pioneer Rd, Maseru 100, Lesotho",
-    "phone": "+26658857264"
-  },
-  {
-    "name": "Komatsu Lifestyle",
-    "address": "Maseru Hafoso, Maseru, Lesotho",
-    "phone": "+26657748346"
-  },
-  {
-    "name": "KFC Thetsane",
-    "address": "Shop 80, Maseru Mall, LS 105 Maseru, Lesotho",
-    "phone": "+26622310464"
-  },
-  {
-    "name": "Captain DoRegos Naledi",
-    "address": "Lithabaneng, Maseru, Lesotho",
-    "phone": "+26668891448"
-  },
-  {
-    "name": "Envy Lounge",
-    "address": "ha thetsane, 127 Maseru, 100, Lesotho",
-    "phone": "+26658734920"
-  },
-  {
-    "name": "Molach pizza",
-    "address": "Maseru, Lesotho",
-    "phone": "+26659898186"
-  },
-  {
-    "name": "Chiefs Fast Foods",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622320420"
-  },
-  {
-    "name": "Alpha Shopping",
-    "address": "Unnamed Road, Maseru, Lesotho",
-    "phone": "+26651496034"
-  },
-  {
-    "name": "Stadium Fast Foods Main North",
-    "address": "Shop LG03, Pioneer Mall Maseru 100, Lesotho",
-    "phone": "+26652500270"
-  },
-  {
-    "name": "Fish & Chips",
-    "address": "Maseru, Lesotho",
-    "phone": "+26662008766"
-  },
-  {
-    "name": "Hadies Braaiside & Carwash",
-    "address": "Maseru, Lesotho",
-    "phone": "+26662232212"
-  },
-  {
-    "name": "Cristal Food Catering (RN_Vendor)",
-    "address": "Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Sandton mphodumo off sales",
-    "address": "cnr majara and airport road, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "MNM offsales and Lounge",
-    "address": "Border Post, Kingsway Road, Maseru, Lesotho",
-    "phone": "+26628323298"
-  },
-  {
-    "name": "Debonairs Pizza",
-    "address": "Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "The Snack Bite",
-    "address": "Maseru,Mall, Maseru , Lesotho, Lesotho",
-    "phone": "+26622311005"
-  },
-  {
-    "name": "Sakisi's Chesa Nama",
-    "address": "100 Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": "+26657888893"
-  },
-  {
-    "name": "KFC Bus Stop",
-    "address": "Moshoeshoe Rd, Station Off Sales, Maseru 100, Lesotho",
-    "phone": "+26622314481"
-  },
-  {
-    "name": "KFC NRH",
-    "address": "200 Constitution Rd, Maseru, Lesotho",
-    "phone": "+26664905294"
-  },
-  {
-    "name": "Honchos Flame Grilled Goodness",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628315752"
-  },
-  {
-    "name": "Healthy By Choice",
-    "address": "Moshoeshoe Rd, Maseru, Lesotho",
-    "phone": "+26628314003"
-  },
-  {
-    "name": "Pizza Perfect | Lesotho",
-    "address": "Kingsway Road, Hamafafa, Maseru, Lesotho",
-    "phone": "+26622323786"
-  },
-  {
-    "name": "Highlands Trout Fish Market",
-    "address": "Maseru, Lesotho",
-    "phone": "+26657605077"
-  },
-  {
-    "name": "Karona Guest HOuse & Lodge",
-    "address": "Patsa Building, Cathedral, Maseru Main North, First Avenue, Maseru, Lesotho",
-    "phone": "+26622325883"
-  },
-  {
-    "name": "Stadium Fast Foods Kingsway",
-    "address": "Pioneer Mall, Shop UG47, Maseru 149, Lesotho",
-    "phone": "+26622325666"
-  },
-  {
-    "name": "Ha Thetsane",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Leifo Bar",
-    "address": "Maseru, Lesotho",
-    "phone": "+26663061881"
-  },
-  {
-    "name": "El Legado",
-    "address": "Lesotho Sun Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Spetzo's Pizza",
-    "address": "Mall Car Park, Mabelebele St, Maseru, Lesotho",
-    "phone": "+26658368404"
-  },
-  {
-    "name": "Backyard@Lynors",
-    "address": "Pioneer Road Maseru, 100, Lesotho",
-    "phone": "+26622314300"
-  },
-  {
-    "name": "Pioneer Mall Maseru",
-    "address": "Tsenola, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Maseru Mall",
-    "address": "Upper Thamae Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Sefika Shopping Centre",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Moletsane shopping center",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622318221"
-  },
-  {
-    "name": "LNDC Shopping Centre",
-    "address": "Kingsway, Maseru, Lesotho",
-    "phone": "+26622322246"
-  },
-  {
-    "name": "Fairways Plaza",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622310088"
-  },
-  {
-    "name": "Masianokeng Lifestyle Center",
-    "address": "Metcash Complex, Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "DarkPrint Studios",
-    "address": "ShopRite, LNDC Center near, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Lower Thamae Shopping Center",
-    "address": "286 Pioneer Rd, Maseru 100, Lesotho",
-    "phone": "+26658689450"
-  },
-  {
-    "name": "Exact - Pioneer Mall Maseru",
-    "address": "Kingsway, Maseru 100, Lesotho",
-    "phone": "+26622311031"
-  },
-  {
-    "name": "Garden Centre",
-    "address": "Kofi Annan Rd Maseru Mall, Plot 1229-1135 Thetsane, Lesotho",
-    "phone": "12291135"
-  },
-  {
-    "name": "Clicks Pharmacy Pioneer Mall",
-    "address": "Pioneer Rd Shop 50, Pioneer Mall, Lesotho",
-    "phone": "+26622329662"
-  },
-  {
-    "name": "PEP Maseru Masianokeng Lifestyle Centre",
-    "address": "Masianokeng Lifestyle Centre, Main Road, Maseru 100, Lesotho",
-    "phone": "+26627321022"
-  },
-  {
-    "name": "Maseru Book Centre",
-    "address": "Unnamed Road, Maseru, Lesotho",
-    "phone": "+26622316830"
-  },
-  {
-    "name": "Game Maseru",
-    "address": "Pioneer Rd, Maseru, Lesotho",
-    "phone": "+26622329323"
-  },
-  {
-    "name": "West Pack Lifestyle Maseru (Lesotho)",
-    "address": "Kingsway, Maseru, Lesotho",
-    "phone": "+26622322213"
-  },
-  {
-    "name": "Horizon View Guest House",
-    "address": "Unnamed Road, Maseru, Lesotho",
-    "phone": "+27872312036"
-  },
-  {
-    "name": "Kubung Guest House",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "The Lion Rock Mountain",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Basotho Hat",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Nexx square",
-    "address": "Naleli-Sekamaneng Rd, Foso, Lesotho",
-    "phone": "+26653229429"
-  },
-  {
-    "name": "Maseru Downtown Park",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628321422"
-  },
-  {
-    "name": "Banesa Gardens",
-    "address": "Motloang, Lesotho",
-    "phone": "+26627021962"
-  },
-  {
-    "name": "Live Lesotho",
-    "address": "Maseru, Lesotho",
-    "phone": "+26658881944"
-  },
-  {
-    "name": "Maqalika Dam",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622312238"
-  },
-  {
-    "name": "Maseru Mall",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622232309"
-  },
-  {
-    "name": "Kome Caves",
-    "address": "Metolong, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Katse Dam Botanical Gardens & Nursery",
-    "address": "On the R70 between Ficksburg and Rosendal, Ficksburg, 9730, South Africa",
-    "phone": "+27519332220"
-  },
-  {
-    "name": "Setsoto Stadium",
-    "address": "Malealea Village, Malealea, Lesotho",
-    "phone": "+26658839646"
-  },
-  {
-    "name": "Liphofung Cave",
-    "address": "Afriski Mountain Resort, 400, Lesotho",
-    "phone": "+278612374754"
-  },
-  {
-    "name": "Likatola Horse Riding & Adventure",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Qiloane falls",
-    "address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
-    "phone": "+27722892827"
-  },
-  {
-    "name": "Maseru",
-    "address": "Road & Kingsway Central Private Bag A 216, Pioneer corner, Maseru 100, Lesotho",
-    "phone": "+26622312114"
-  },
-  {
-    "name": "Titanic Rock",
-    "address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
-    "phone": "+27582561757"
-  },
-  {
-    "name": "Maluti Mountains",
-    "address": "Qeme, Ha Teko, Maseru, Lesotho",
-    "phone": "+26658772207"
-  },
-  { "name": "Maseru", "address": "Masitise, Lesotho", "phone": null },
-  {
-    "name": "Likatola Horse Riding & Adventure",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Thaba Bosiu",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Semonkong",
-    "address": "Qeme, Ha Teko, Maseru, Lesotho",
-    "phone": "+26658772207"
-  },
-  {
-    "name": "Mountain Highland Retreat",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Afriski Mountain Resort",
-    "address": "Unnamed Road, Lesotho, Bokong, Lesotho",
-    "phone": "+26622910315"
-  },
-  {
-    "name": "Malealea Lodge, Lesotho - Pony Trekking & MTB",
-    "address": "286 Pioneer Rd, Maseru 100, Lesotho",
-    "phone": "+26658689450"
-  },
-  {
-    "name": "Ha Baroana",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622318221"
-  },
-  {
-    "name": "God Help Me Pass",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658547673"
-  },
-  {
-    "name": "The Lehakoe Club and Gym",
-    "address": "Unnamed Road, Lesotho, Malealea, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Moolmanshoek Private Game Reserve",
-    "address": "Church street Box 12, Morija 190, Lesotho",
-    "phone": "+26622360308"
-  },
-  {
-    "name": "Border Posts - Maseru Bridge",
-    "address": "Khukhune, Lesotho",
-    "phone": "+26622460723"
-  },
-  {
-    "name": "Blue Mountain Inn",
-    "address": "5, Maluti Stay Lodge, Ramabanta 5, Maseru 100, Lesotho",
-    "phone": "+26650895429"
-  },
-  {
-    "name": "Ka Pitseng Guest House",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+26662818283"
-  },
-  {
-    "name": "RIO GUEST HOUSE LS",
-    "address": "105 Naleli-Sekamaneng Rd, Foso, Lesotho",
-    "phone": "+26628333046"
-  },
-  {
-    "name": "Maluti Stay Lodge",
-    "address": "New Parliament Rd, Maseru, Lesotho",
-    "phone": "+26653305920"
-  },
-  {
-    "name": "Maluti Stay",
-    "address": "Box 7, Teyateyaneng 200, Lesotho",
-    "phone": "+26622500362"
-  },
-  {
-    "name": "GREENLAKE GUESTHOUSE",
-    "address": "Molemane Rd, Teyateyaneng 200, Lesotho",
-    "phone": "+26622501638"
-  },
-  {
-    "name": "Horizon View Guest House",
-    "address": "Sehlabeng sa thuathe, Berea Hills 100, Lesotho",
-    "phone": "+26650489517"
-  },
-  {
-    "name": "Tribute Guest House Matala",
-    "address": "12 Thabure Street, Maseru 100, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Maliba Lodge",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622315926"
-  },
-  {
-    "name": "Zuikerkop",
-    "address": "S 029° 22.412, E 27° 32.862, Lesotho",
-    "phone": "029224122732862"
-  },
-  {
-    "name": "Hokahanya Inn & Conference Centre",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628320707"
-  },
-  {
-    "name": "Village Court Guest House",
-    "address": "Tandjiesberg Rd, Clocolan, 9735, South Africa",
-    "phone": "+27833890587"
-  },
-  {
-    "name": "Seaba Restaurant",
-    "address": "Moshoeshoe Road, Teyateyaneng, Lesotho",
-    "phone": "+26628843684"
-  },
-  {
-    "name": "Biko's Pub & Grill Teyateyaneng",
-    "address": "Teyateyaneng box 70, Teyateyaneng, Lesotho",
-    "phone": "+26658035577"
-  },
-  {
-    "name": "King Deli Foods",
-    "address": "Mofolo Street, Teyateyaneng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Kome Catering",
-    "address": "Ts'oeu ea Lithebe Street, Teyateyaneng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Capital Catering",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Koti Sphola Restaurant@R2",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Papillon Fish And Chips",
-    "address": "Main North 1 Rd, End Mofolo Street, Ha, Motjoka, Teyateyaneng, Australia",
-    "phone": "+6163003455"
-  },
-  {
-    "name": "Tebang General Cafe",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+26658840333"
-  },
-  {
-    "name": "Chiefs Fast Foods",
-    "address": "Mofolo Road, Teyateyaneng, Lesotho",
-    "phone": "+26622501355"
-  },
-  {
-    "name": "Good Times Valley",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+26650770022"
-  },
-  {
-    "name": "Moletsane shopping center",
-    "address": "Tsenola, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Sefika Shopping Centre",
-    "address": "Shop 1, Mofolo Centre, Main Road, Teyateyaneng 200, Lesotho",
-    "phone": "+26622500435"
-  },
-  {
-    "name": "LNDC Shopping Centre",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Masianokeng Lifestyle Center",
-    "address": "ShopRite, LNDC Center near, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Pioneer Mall Maseru",
-    "address": "Metcash Complex, Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "PEP Teyateyaneng Mofolo Centre",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622318221"
-  },
-  {
-    "name": "Kingsway mall",
-    "address": "Kingsway, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "NRH Mall",
-    "address": "Unnamed 24Road, Hlotse, Lesotho",
-    "phone": "+26658751277"
-  },
-  {
-    "name": "Maseru Mall",
-    "address": "286 Pioneer Rd, Maseru 100, Lesotho",
-    "phone": "+26658689450"
-  },
-  {
-    "name": "DarkPrint Studios",
-    "address": "Masianokeng Lifestyle Centre, Main Road, Maseru 100, Lesotho",
-    "phone": "+26627321022"
-  },
-  {
-    "name": "Fairways Plaza",
-    "address": "Moshoeshoe Road, Teyateyaneng, Lesotho",
-    "phone": "+26653061696"
-  },
-  {
-    "name": "Shopping Centre",
-    "address": "Unnamed Road, Teyateyaneng, Lesotho",
-    "phone": "+26652212368"
-  },
-  {
-    "name": "Lower Thamae Shopping Center",
-    "address": "Pioneer Rd, Maseru, Lesotho",
-    "phone": "+26622329323"
-  },
-  {
-    "name": "Lesotho Mountain Crafts",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Dunns Teyateyaneng",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26622400032"
-  },
-  {
-    "name": "Vodacom Centre",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+27832553626"
-  },
-  {
-    "name": "HA MOTJOKA",
-    "address": "Upper Thamae Rd, Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Exact - Pioneer Mall Maseru",
-    "address": "Shop 3, Mofolo Centre, Main Road, Teyateyaneng 200, Lesotho",
-    "phone": "+26622500430"
-  },
-  {
-    "name": "Leribe Craft Centre",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622310088"
-  },
-  {
-    "name": "Destiny Computer Solutions",
-    "address": "Meqheleng, Ficksburg, 9730, South Africa",
-    "phone": null
-  },
-  {
-    "name": "PEP Maseru Masianokeng Lifestyle Centre",
-    "address": "Kingsway, Maseru, Lesotho",
-    "phone": "+26622322246"
-  },
-  {
-    "name": "The Lion Rock Mountain",
-    "address": "Unnamed Road, Lesotho, Malealea, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Teyateyaneng",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658547673"
-  },
-  {
-    "name": "Kome Caves",
-    "address": "Unnamed Road, Lesotho, Bokong, Lesotho",
-    "phone": "+26622910315"
-  },
-  {
-    "name": "Liphofung Cave",
-    "address": "Church street Box 12, Morija 190, Lesotho",
-    "phone": "+26622360308"
-  },
-  {
-    "name": "Gates of Paradise Pass",
-    "address": "Motloang, Lesotho",
-    "phone": "+26627021962"
-  },
-  {
-    "name": "Katse Dam Botanical Gardens & Nursery",
-    "address": "Khukhune, Lesotho",
-    "phone": "+26622460723"
-  },
-  {
-    "name": "Morija Museum & Archives",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622312238"
-  },
-  {
-    "name": "Leribe Dinosaur Footprints",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Titanic Rock",
-    "address": "P. Burgos St, Cebu City, Cebu, Philippines",
-    "phone": "+63789456321"
-  },
-  {
-    "name": "Lesotho Mountain Crafts",
-    "address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
-    "phone": "+27582230274"
-  },
-  {
-    "name": "Free State National Botanical Garden",
-    "address": "531 Sias Oosthuizen St, Clarens, 9707, South Africa",
-    "phone": "+27582561260"
-  },
-  {
-    "name": "The Stone Guest House",
-    "address": "Die Lande farm, Fouriesburg, 9725, South Africa",
-    "phone": "+27848384110"
-  },
-  {
-    "name": "Boyden Observatory",
-    "address": "R712, Clarens, 9707, South Africa",
-    "phone": "+27718309998"
-  },
-  {
-    "name": "National Museum Bloemfontein",
-    "address": "R70, Ficksburg, 9730, South Africa",
-    "phone": "+27822131299"
-  },
-  {
-    "name": "Ha Baroana",
-    "address": "2-22 Delville Dr, Naval Hill, Bloemfontein, 9305, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Berea",
-    "address": "Die Lande farm, Fouriesburg, 9725, South Africa",
-    "phone": "+27848384110"
-  },
-  {
-    "name": "Meiringskloof Nature Park",
-    "address": "R712, Clarens, 9707, South Africa",
-    "phone": "+27718309998"
-  },
-  {
-    "name": "Clarens kloof dam",
-    "address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
-    "phone": "+27582230274"
-  },
-  {
-    "name": "Bagamoya Wildlife Estate",
-    "address": "531 Sias Oosthuizen St, Clarens, 9707, South Africa",
-    "phone": "+27582561260"
-  },
-  {
-    "name": "De Molen Farm",
-    "address": "2-22 Delville Dr, Naval Hill, Bloemfontein, 9305, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Mountain Highland Retreat",
-    "address": "R70, Ficksburg, 9730, South Africa",
-    "phone": "+27822131299"
-  },
-  {
-    "name": "Malealea Lodge, Lesotho - Pony Trekking & MTB",
-    "address": "R712, Golden Gate Highlands National Park, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Clarens Village Conservancy",
-    "address": "8 President Brand St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
-    "phone": null
-  },
-  {
-    "name": "South African Armour Museum",
-    "address": "Clarens, 9707, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Addy & Hoyle Art Gallery",
-    "address": "23 Voortekker St, Ficksburg, 9736, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Die Nasionale Vrouemonument",
-    "address": "5 President Brand St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
-    "phone": "+27514058470"
-  },
-  {
-    "name": "Major Bell's Tower",
-    "address": "Joachem, van Bruggen steet, Langenhoven Park, Bloemfontein, 9301, South Africa",
-    "phone": "+27849191676"
-  },
-  {
-    "name": "Kings Park Rose Garden",
-    "address": "Berg St, Clarens, 9707, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Thaba Bosiu",
-    "address": "R26, KOMMISSIEPORT Off, Hospitaal Street, Kommissiepoort, Ladybrand, 9745, South Africa",
-    "phone": "+27519245831"
-  },
-  {
-    "name": "Butha Buthe",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  { "name": "Motloang", "address": "Maseru, Lesotho", "phone": null },
-  {
-    "name": "Eingedi Retreat",
-    "address": "Naval Hill, Bloemfontein, 9301, South Africa",
-    "phone": "+27514019751"
-  },
-  {
-    "name": "Hlotse",
-    "address": "Att Horak St, Willows, Bloemfontein, 9301, South Africa",
-    "phone": "+27717756386"
-  },
-  {
-    "name": "Hertzog Square",
-    "address": "Golden Gate Highlands National Park, R712, Clarens, 9701, South Africa",
-    "phone": "+27680624947"
-  },
-  {
-    "name": "Clarens townsquare",
-    "address": "Naval Hill, Bloemfontein, 9301, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Langenhoven Mark / Market",
-    "address": "Tempe Military Base, Bloemfontein, 9301, South Africa",
-    "phone": "+27514021777"
-  },
-  {
-    "name": "Butha-Buthe",
-    "address": "Malealea Village, Malealea, Lesotho",
-    "phone": "+26658839646"
-  },
-  {
-    "name": "Bloemfontein City Hall",
-    "address": "277 Main St, Clarens, 9707, South Africa",
-    "phone": "+27582561875"
-  },
-  {
-    "name": "Maseru",
-    "address": "95 St Georges St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
-    "phone": "+27514479609"
-  },
-  {
-    "name": "Gen Jan Fick Museum",
-    "address": "14 Louw Wepener Straat, Dan Pienaar, Bloemfontein, 9301, South Africa",
-    "phone": "+27658238730"
-  },
-  {
-    "name": "Uithoek Natuurpark Fouriesburg",
-    "address": "1 Hill St, Clarens, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Clocolan",
-    "address": "R70, Rosendal, 9720, South Africa",
-    "phone": "+27829018799"
-  },
-  {
-    "name": "Naval Hill Nature Reserve",
-    "address": "Merriam Makeba St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
-    "phone": "+27514054711"
-  },
-  {
-    "name": "Malealea",
-    "address": "Maselspoort, 9360, South Africa",
-    "phone": "+27824977550"
-  },
-  {
-    "name": "Wyndford Holiday Farm",
-    "address": "16 Harry Smith St, Dan Pienaar, Bloemfontein, 9301, South Africa",
-    "phone": "+27510110525"
-  },
-  {
-    "name": "Affi lande boetiek guestfarm , beer garden & grill, wedding venue",
-    "address": "Metolong, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Roma",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+26663891801"
-  },
-  {
-    "name": "Bokong",
-    "address": "25 Monument Rd, Generaal De Wet, Bloemfontein, 9301, South Africa",
-    "phone": "+27514473447"
-  },
-  {
-    "name": "Naval Hill Nature Reserve",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+26662818283"
-  },
-  {
-    "name": "Golden Gate Highlands National Park",
-    "address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
-    "phone": "+27582561757"
-  },
-  {
-    "name": "Malealea",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+27832553626"
-  },
-  {
-    "name": "Clarens Xtreme Adventure Company",
-    "address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
-    "phone": "+27722892827"
-  },
-  {
-    "name": "BusStop & Bergwoning Guest Farm",
-    "address": "Rayton Rd, Dan Pienaar, Bloemfontein, 9310, South Africa",
-    "phone": "+27514363530"
-  },
-  {
-    "name": "Affi lande boetiek guestfarm , beer garden & grill, wedding venue",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658835143"
-  },
-  {
-    "name": "Modderpoort",
-    "address": "36 Aliwal St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
-    "phone": "+27514479609"
-  },
-  {
-    "name": "Fouriesburg",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628321422"
-  },
-  {
-    "name": "Hobhouse",
-    "address": "Box 7, Teyateyaneng 200, Lesotho",
-    "phone": "+26622500362"
-  },
-  {
-    "name": "Magellan's Cross",
-    "address": "Clarens, 9707, South Africa",
-    "phone": "+27582551000"
-  },
-  {
-    "name": "Ladybrand",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Bird Haven Guesthouse Leribe Lesotho",
-    "address": "Sir Seretse Khama Rd, Maputsoe, Lesotho",
-    "phone": "+26658066972"
-  },
-  {
-    "name": "Mountain View Hotel",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26622400559"
-  },
-  {
-    "name": "Monokotsoaing Guest House",
-    "address": "A1 LISEMENG II HLOTSE, 300, Lesotho",
-    "phone": "+26658794938"
-  },
-  {
-    "name": "Malinakana Guest House",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26628401886"
-  },
-  {
-    "name": "Hae Bed and Breakfast",
-    "address": "A1 opposite Masjid Mosque, Hlotse, Lesotho",
-    "phone": "+26659480814"
-  },
-  {
-    "name": "Green Apple Guest House",
-    "address": "Lisemeng II, Hlotse, Lesotho",
-    "phone": "+26657016886"
-  },
-  {
-    "name": "GREENLAKE GUESTHOUSE",
-    "address": "A1, Butha Buthe, Lesotho",
-    "phone": "+26668880666"
-  },
-  {
-    "name": "Naleli Guest House",
-    "address": "Lisemeng Hlotse, (Opp air stip) Old Butha - Buthe Rd, Linare Road, Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Nala Bed & Breakfast",
-    "address": "Sebothoane, Hlotse 300, Lesotho",
-    "phone": "+26628401769"
-  },
-  {
-    "name": "Empire Bed & Breakfast",
-    "address": "Maseru, Lesotho",
-    "phone": "+26628320707"
-  },
-  {
-    "name": "Aloes Guest House",
-    "address": "Maputsoe, Lesotho",
-    "phone": "+26653253495"
-  },
-  {
-    "name": "Crocodile Inn Hotel",
-    "address": "Unnamed Road, Butha Buthe, Lesotho",
-    "phone": "+26622460223"
-  },
-  {
-    "name": "Refiloe Guesthouse",
-    "address": "Pitseng, Lesotho",
-    "phone": "+26658065622"
-  },
-  {
-    "name": "Hokahanya Inn & Conference Centre",
-    "address": "St Monicas, Hlotse, Lesotho",
-    "phone": "+26657174242"
-  },
-  {
-    "name": "Leribe Fish & Chips",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "kingdom hideout",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26653234892"
-  },
-  {
-    "name": "Thotoane Restaurant",
-    "address": "A25, Hlotse, Lesotho",
-    "phone": "+26658825537"
-  },
-  {
-    "name": "Timberland carwash cocktail and lounge",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Bird Haven Guesthouse Leribe Lesotho",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26659022179"
-  },
-  {
-    "name": "Cucina Fast Foods",
-    "address": "Lisemeng II, Hlotse, Lesotho",
-    "phone": "+26657016886"
-  },
-  {
-    "name": "Grab and Go",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Mossly Fast Foods",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Plush Café",
-    "address": "Hlotse, Lesotho",
-    "phone": "+27728375607"
-  },
-  {
-    "name": "Naleli Guest House",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26622400559"
-  },
-  {
-    "name": "AAA Express",
-    "address": "A1, Hlotse, Lesotho",
-    "phone": "+26622401787"
-  },
-  {
-    "name": "Seasonal car wash and Restaurant",
-    "address": "A25, Lesotho",
-    "phone": "+26659151689"
-  },
-  {
-    "name": "Hot Desires Catering",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26658922891"
-  },
-  {
-    "name": "Mountain View Hotel",
-    "address": "A25, Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Sekali Private Pub",
-    "address": "Lisemeng Hlotse, (Opp air stip) Old Butha - Buthe Rd, Linare Road, Hlotse, Lesotho",
-    "phone": "+26656048200"
-  },
-  {
-    "name": "Khanyane Mall of Leribe Lesotho",
-    "address": "Unnamed 24Road, Hlotse, Lesotho",
-    "phone": "+26658751277"
-  },
-  {
-    "name": "LIKILA SHOPPING MALL.",
-    "address": "Butha Buthe, Lesotho",
-    "phone": "+26663228692"
-  },
-  {
-    "name": "Leribe Craft Centre",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26622400032"
-  },
-  {
-    "name": "Leribe Dinosaur Footprints",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Thaba Bosiu Cultural Village",
-    "address": "Motloang, Lesotho",
-    "phone": "+26627021962"
-  },
-  {
-    "name": "The Lion Rock Mountain",
-    "address": "Unnamed Road, Lesotho, Malealea, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Mafika Lisiu Pass View Point",
-    "address": "Khukhune, Lesotho",
-    "phone": "+26622460723"
-  },
-  {
-    "name": "Major Bell's Tower",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658547673"
-  },
-  {
-    "name": "Kome Caves",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622312238"
-  },
-  {
-    "name": "Tugela Falls",
-    "address": "Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Gates of Paradise Pass",
-    "address": "Royal Natal National Park, Gaints Castle Game Reserve, South Africa",
-    "phone": "+27214241037"
-  },
-  {
-    "name": "Khanyane Mall of Leribe Lesotho",
-    "address": "Sterkfontein Dam, Amanzi Amakhulu Estate, Harrismith, 9880, South Africa",
-    "phone": "+27836400024"
-  },
-  {
-    "name": "Basotho Hat",
-    "address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
-    "phone": "+27582230274"
-  },
-  {
-    "name": "Basotho Cultural Village",
-    "address": "R600 Champagne Valley, Winterton, Kwa-Zulu Natal, 3340, South Africa",
-    "phone": "+27364681221"
-  },
-  {
-    "name": "Golden Gate Highlands National Park",
-    "address": "Die Lande farm, Fouriesburg, 9725, South Africa",
-    "phone": "+27848384110"
-  },
-  {
-    "name": "platberg eco park in harrismith",
-    "address": "D117 Off r74, R74, Bergville, 3550, South Africa",
-    "phone": "11774743550"
-  },
-  {
-    "name": "Leribe Craft Centre",
-    "address": "R394 Cathedral Peak Hotel Ukhahlamba Drakensberg Park Cathedral Peak, 3340, South Africa",
-    "phone": "+27364881888"
-  },
-  {
-    "name": "Khanyane Mall of Leribe Lesotho",
-    "address": "R711 corner of Caledonspoort and Clarens crossing, Fouriesburg, 9725, South Africa",
-    "phone": "+27845125030"
-  },
-  {
-    "name": "Leribe",
-    "address": "District Road D119, End of D119, Northern Drakensberg, Bergville, 3350, South Africa",
-    "phone": "1191193350"
-  },
-  {
-    "name": "Sentinel Car Park",
-    "address": "Clarens, 9707, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Clarens kloof dam",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+27832553626"
-  },
-  {
-    "name": "Mountain Highland Retreat",
-    "address": "Plot 346 Free State, South Africa District, Fouriesburg, 9725, South Africa",
-    "phone": "+27664662106"
-  },
-  {
-    "name": "God Help Me Pass",
-    "address": "End of R57, Phuthaditjhaba, 9870, South Africa",
-    "phone": "+27587136361"
-  },
-  {
-    "name": "Sporekrans Hiking Trail",
-    "address": "R712, Golden Gate Highlands National Park, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Malealea Lodge, Lesotho - Pony Trekking & MTB",
-    "address": "23 Voortekker St, Ficksburg, 9736, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Chain Ladder Route",
-    "address": "R70, Ficksburg, 9730, South Africa",
-    "phone": "+27822131299"
-  },
-  {
-    "name": "Mike's Pass",
-    "address": "Camelroc Guest Farm, The Poplars, Farm: 199, Caledonspoort, Fouriesburg, 9725, South Africa",
-    "phone": "+27582230368"
-  },
-  {
-    "name": "Mountain View Hotel",
-    "address": "Berg St, Clarens, 9707, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Sentinel Peak Hike",
-    "address": "Golden Gate Highlands National Park, R712, Clarens, 9701, South Africa",
-    "phone": "+27680624947"
-  },
-  {
-    "name": "Clarens Waterfall",
-    "address": "Unnamed Road, &nbsp, Clarens, 9707, South Africa",
-    "phone": "+27582561270"
-  },
-  {
-    "name": "Sterkfontein Dam Nature Reserve",
-    "address": "R26, KOMMISSIEPORT Off, Hospitaal Street, Kommissiepoort, Ladybrand, 9745, South Africa",
-    "phone": "+27519245831"
-  },
-  {
-    "name": "Leribe Airport",
-    "address": "Unnamed Road, Harrismith, 9880, South Africa",
-    "phone": "+27840163094"
-  },
-  {
-    "name": "Moolmanshoek Private Game Reserve",
-    "address": "On the R70 between Ficksburg and Rosendal, Ficksburg, 9730, South Africa",
-    "phone": "+27519332220"
-  },
-  {
-    "name": "Zulu Cave",
-    "address": "Unnamed Road, Hlotse, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Phuthaditjhaba Park",
-    "address": "Wostijn No. 2, Portion 10, Cathkin Park, 3340, South Africa",
-    "phone": "+27734816331"
-  },
-  {
-    "name": "Harrismith Botanical Gardens",
-    "address": "Mota Rd, Phuthaditjhaba, 9869, South Africa",
-    "phone": null
-  },
-  {
-    "name": "iKhayalamafu Mountain Hideaway and Private Nature Reserve",
-    "address": "Khetisas, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "GZ Adventures LEAP Kiara Lodge Clarens, Quad Biking, Gorge Swing, Archery",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26622400559"
-  },
-  {
-    "name": "CLARENS GOLF & LEISURE ESTATE",
-    "address": "Close to Sterkfonten resort, Harrismith, South Africa",
-    "phone": "+27586223520"
-  },
-  {
-    "name": "Nandi's Falls",
-    "address": "1 Hill St, Clarens, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Motloang",
-    "address": "277 Main St, Clarens, 9707, South Africa",
-    "phone": "+27582561875"
-  },
-  {
-    "name": "Butha-Buthe",
-    "address": "Afriski Mountain Resort, 400, Lesotho",
-    "phone": "+278612374754"
-  },
-  {
-    "name": "Morija",
-    "address": "Farm Kleinbloemhof, Bethlehem, 9700, South Africa",
-    "phone": "+27583041691"
-  },
-  {
-    "name": "Thaba Bosiu",
-    "address": "Malealea Village, Malealea, Lesotho",
-    "phone": "+26658839646"
-  },
-  {
-    "name": "Gen Jan Fick Museum",
-    "address": "Appin Road, Swinburne, Free State, 9880, South Africa",
-    "phone": "+27785144710"
-  },
-  {
-    "name": "Uithoek Natuurpark Fouriesburg",
-    "address": "7 Muller St, Bethlehem, 9701, South Africa",
-    "phone": "+27583035076"
-  },
-  {
-    "name": "Malealea",
-    "address": "Bergville, 3350, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Lesotho Mountain Crafts",
-    "address": "R70, Rosendal, 9720, South Africa",
-    "phone": "+27829018799"
-  },
-  {
-    "name": "Kestell",
-    "address": "Rosendal, South Africa",
-    "phone": "+27827765540"
-  },
-  {
-    "name": "Clarens townsquare",
-    "address": "Unnamed 24Road, Hlotse, Lesotho",
-    "phone": "+26658751277"
-  },
-  {
-    "name": "The Cavern Drakensberg Resort & Spa",
-    "address": "Chain Ladder Rte, Phuthaditjhaba, 9870, South Africa",
-    "phone": "+27587136361"
-  },
-  {
-    "name": "Koeneng",
-    "address": "A1 opposite Masjid Mosque, Hlotse, Lesotho",
-    "phone": "+26659480814"
-  },
-  {
-    "name": "Berea",
-    "address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
-    "phone": "+27582561757"
-  },
-  {
-    "name": "Maseru",
-    "address": "Hlotse, Lesotho",
-    "phone": "+26622400032"
-  },
-  {
-    "name": "Cathedral Peak Hotel",
-    "address": "King St, Harrismith, 9880, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Hlalanathi Drakensberg Resort",
-    "address": "Unnamed Road, Lesotho, Bokong, Lesotho",
-    "phone": "+26622910315"
-  },
-  {
-    "name": "Alpine View - Yellowwood Trail",
-    "address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
-    "phone": "+27722892827"
-  },
-  {
-    "name": "BergVenture",
-    "address": "Clarens, 9707, South Africa",
-    "phone": "+27582551000"
-  },
-  {
-    "name": "Bethlehem",
-    "address": "Unnamed 24Road, Hlotse, Lesotho",
-    "phone": "+26658751277"
-  },
-  {
-    "name": "Lord Fraser Guesthouse",
-    "address": "Wepner Road, Mafeteng 900, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Lapeng Habo Bantu",
-    "address": "Grace Guest House,Motse Mocha,Thabana Morena Rd, Mafeteng 900, Mafeteng 900, Lesotho",
-    "phone": "+26658863223"
-  },
-  {
-    "name": "Grace Guest House Mafeteng",
-    "address": "Van Jaarsveld St, Wepener, 9944, South Africa",
-    "phone": "+27734871404"
-  },
-  {
-    "name": "Emem Kaza Guesthouse",
-    "address": "10 De Bruin St, Wepener, 9944, South Africa",
-    "phone": "+27515831480"
-  },
-  {
-    "name": "Bastys kitchen",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26659541206"
-  },
-  {
-    "name": "Captain Doregos Mafeteng",
-    "address": "Wepener road, Mafeteng, Lesotho",
-    "phone": "+26658721460"
-  },
-  {
-    "name": "Jankie's",
-    "address": "Shop 1, Thusong Multi Building, Main South 1 Rd, Mafeteng, Lesotho",
-    "phone": "+26622705466"
-  },
-  {
-    "name": "The Hut Diner",
-    "address": "Malumeng, 099, Mafeteng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "The Michi Grill",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26658427871"
-  },
-  {
-    "name": "JALOPY",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26622700307"
-  },
-  {
-    "name": "Econo Foods Mafeteng",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26658020775"
-  },
-  {
-    "name": "KFC Leluma",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26657964997"
-  },
-  {
-    "name": "KFC Mafeteng",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26628326380"
-  },
-  {
-    "name": "JABBY FAST FOOD",
-    "address": "Patsa Centre, Box 675, Mafeteng, Mafeteng, Lesotho",
-    "phone": "+26628700449"
-  },
-  {
-    "name": "Paballong Motse-Mocha",
-    "address": "Mabuti Street,, Mafeteng, Lesotho",
-    "phone": "+26658780174"
-  },
-  {
-    "name": "Dunns Mafeteng",
-    "address": "Mafeteng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Masianokeng Lifestyle Center",
-    "address": "Shop 4, Mafeteng Centre Main Road Mafeteng Lesotho, 123, Lesotho",
-    "phone": "+26622700289"
-  },
-  {
-    "name": "Wheels of Life Bike Shop",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26622700953"
-  },
-  {
-    "name": "Shoprite Mafeteng",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26622700970"
-  },
-  {
-    "name": "Thaba Bosiu Cultural Village",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622312238"
-  },
-  {
-    "name": "Gates of Paradise Pass",
-    "address": "Unnamed Road, Lesotho, Bokong, Lesotho",
-    "phone": "+26622910315"
-  },
-  {
-    "name": "The Lion Rock Mountain",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658547673"
-  },
-  {
-    "name": "Mafeteng",
-    "address": "Clarens, 9707, South Africa",
-    "phone": "+27582551000"
-  },
-  {
-    "name": "Morija Museum & Archives",
-    "address": "Motloang, Lesotho",
-    "phone": "+26627021962"
-  },
-  {
-    "name": "Kome Caves",
-    "address": "Church street Box 12, Morija 190, Lesotho",
-    "phone": "+26622360308"
-  },
-  {
-    "name": "Katse Dam Botanical Gardens & Nursery",
-    "address": "Khukhune, Lesotho",
-    "phone": "+26622460723"
-  },
-  {
-    "name": "Basotho Hat",
-    "address": "Unnamed Road, Lesotho, Malealea, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Golden Gate Highlands National Park",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Lesotho Travel Agency",
-    "address": "5 Eaton Rd, Tweespruit, 9770, South Africa",
-    "phone": "+27519630023"
-  },
-  {
-    "name": "De Molen Farm",
-    "address": "R712, Clarens, 9707, South Africa",
-    "phone": "+27718309998"
-  },
-  {
-    "name": "Malealea Lodge, Lesotho - Pony Trekking & MTB",
-    "address": "Die Lande farm, Fouriesburg, 9725, South Africa",
-    "phone": "+27848384110"
-  },
-  {
-    "name": "Ha-Lepolesa",
-    "address": "531 Sias Oosthuizen St, Clarens, 9707, South Africa",
-    "phone": "+27582561260"
-  },
-  {
-    "name": "Tip Top Guest House",
-    "address": "R711 corner of Caledonspoort and Clarens crossing, Fouriesburg, 9725, South Africa",
-    "phone": "+27845125030"
-  },
-  {
-    "name": "The Michi Grill",
-    "address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
-    "phone": "+27582230274"
-  },
-  {
-    "name": "Teyateyaneng",
-    "address": "Clarens, 9707, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Setsoto Stadium",
-    "address": "Unnamed Road, &nbsp, Clarens, 9707, South Africa",
-    "phone": "+27582561270"
-  },
-  {
-    "name": "Clarens Waterfall",
-    "address": "R711 Old Fouriesburg road, Clarens, 9707, South Africa",
-    "phone": "+27784572504"
-  },
-  {
-    "name": "Clarens Village Conservancy",
-    "address": "R711, Fouriesburg, 9725, South Africa",
-    "phone": "+27846684499"
-  },
-  {
-    "name": "Camelroc Guest Farm",
-    "address": "Ficksburg, 9730, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Ha Kome Caves",
-    "address": "R70, Ficksburg, 9730, South Africa",
-    "phone": "+27822131299"
-  },
-  {
-    "name": "Moolmanshoek Private Game Reserve",
-    "address": "23 Voortekker St, Ficksburg, 9736, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Likatola Horse Riding & Adventure",
-    "address": "Berg St, Clarens, 9707, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Semonkong Lodge",
-    "address": "Clarens, 9707, South Africa",
-    "phone": "+27834859654"
-  },
-  {
-    "name": "Lesotho Mountain Crafts",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+27832553626"
-  },
-  {
-    "name": "Malealea",
-    "address": "R26, KOMMISSIEPORT Off, Hospitaal Street, Kommissiepoort, Ladybrand, 9745, South Africa",
-    "phone": "+27519245831"
-  },
-  {
-    "name": "Cashbuild",
-    "address": "Thabana Morena Rd, Mafeteng 999, Lesotho",
-    "phone": "+26622700292"
-  },
-  {
-    "name": "Border Posts - Maseru Bridge",
-    "address": "Plot 346 Free State, South Africa District, Fouriesburg, 9725, South Africa",
-    "phone": "+27664662106"
-  },
-  {
-    "name": "Quthing",
-    "address": "277 Main St, Clarens, 9707, South Africa",
-    "phone": "+27582561875"
-  },
-  {
-    "name": "Maseru",
-    "address": "Golden Gate Highlands National Park, R712, Clarens, 9701, South Africa",
-    "phone": "+27680624947"
-  },
-  {
-    "name": "Clarens Conservancy",
-    "address": "Semonkong, Lesotho",
-    "phone": "+26627006037"
-  },
-  {
-    "name": "Moteng Pass",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658835143"
-  },
-  {
-    "name": "Imperani Mountain",
-    "address": "Qeme, Ha Teko, Maseru, Lesotho",
-    "phone": "+26658772207"
-  },
-  {
-    "name": "Tempelhof Guest & Game Farm",
-    "address": "On the R70 between Ficksburg and Rosendal, Ficksburg, 9730, South Africa",
-    "phone": "+27519332220"
-  },
-  {
-    "name": "Mafube Mountain Retreat",
-    "address": "1 Hill St, Clarens, South Africa",
-    "phone": null
-  },
-  {
-    "name": "CLARENS GOLF & LEISURE ESTATE",
-    "address": "Camelroc Guest Farm, The Poplars, Farm: 199, Caledonspoort, Fouriesburg, 9725, South Africa",
-    "phone": "+27582230368"
-  },
-  {
-    "name": "Butha Buthe",
-    "address": "Maseru, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Tsikoane",
-    "address": "R712, Golden Gate Highlands National Park, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Clarens townsquare",
-    "address": "Mafeteng, Lesotho",
-    "phone": "+26628326380"
-  },
-  {
-    "name": "Wyndford Holiday Farm",
-    "address": "R70, Rosendal, 9720, South Africa",
-    "phone": "+27829018799"
-  },
-  { "name": "Roma", "address": "Mafeteng, Lesotho", "phone": null },
-  {
-    "name": "Wepener",
-    "address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
-    "phone": "+27582561757"
-  },
-  {
-    "name": "Glen Reenen Rest Camp and Chalets",
-    "address": "Tip top ; Haramokhele, Mafeteng 900, Lesotho",
-    "phone": "+26658549019"
-  },
-  {
-    "name": "JenLee's Country Shop & Kitchen",
-    "address": "Mafeteng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Leribe",
-    "address": "A2 Rd,, Mafeteng, Lesotho",
-    "phone": "+26658555813"
-  },
-  {
-    "name": "Bokong",
-    "address": "Malealea Village, Malealea, Lesotho",
-    "phone": "+26658839646"
-  },
-  {
-    "name": "Affi lande boetiek guestfarm , beer garden & grill, wedding venue",
-    "address": "Main South 1, Thabaneng Mafeteng, 100, Lesotho",
-    "phone": "+26662259057"
-  },
-  {
-    "name": "BusStop & Bergwoning Guest Farm",
-    "address": "Ha- Lepolesa road, Mafeteng, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Butha-Buthe",
-    "address": "Wepener road, Mafeteng, Lesotho",
-    "phone": "+26658721460"
-  },
-  {
-    "name": "Qachas Nek",
-    "address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
-    "phone": "+27722892827"
-  },
-  {
-    "name": "Sterkspruit",
-    "address": "Mafeteng, Lesotho",
-    "phone": null
-  },
-  { "name": "Clocolan", "address": "1231, Mafeteng, Lesotho", "phone": null },
-  {
-    "name": "Kubung Hotel",
-    "address": "Upper Moyeni, Sesoane Rd, Quthing 700, Lesotho",
-    "phone": "+26622750038"
-  },
-  {
-    "name": "DIY RIGHT PRICE HARDWARE",
-    "address": "Upper Moyeni, Quthing, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Quthing",
-    "address": "Alwyns Kop, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Mountain View Country Inn / Lady Grey Hotel",
-    "address": "Quthing, Mount Moorosi, Lesotho",
-    "phone": "+26650329405"
-  },
-  {
-    "name": "Quthing",
-    "address": "Cutting Camp, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Old Hoek Guest House",
-    "address": "LOWER, Quthing, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Mitchells Cafe",
-    "address": "Ha Tsepo,, Old Mohales Hoek, Lesotho",
-    "phone": "+26658883454"
-  },
-  {
-    "name": "Shoreline Resort",
-    "address": "36 Botha St, Lady Grey, 9755, South Africa",
-    "phone": "+27829621999"
-  },
-  {
-    "name": "PEP Quithing Main Road",
-    "address": "Quthing, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Riverside Mall",
-    "address": "Quthing, Lesotho",
-    "phone": "+26656204242"
-  },
-  {
-    "name": "Maseru Mall",
-    "address": "Zastron Street, Sterkspruit, 9762, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Upper Moyeni (Thoteng)",
-    "address": "Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110428"
-  },
-  {
-    "name": "Liphakoe Rd",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622318221"
-  },
-  {
-    "name": "Quthing",
-    "address": "Quthing, Lesotho",
-    "phone": "+26622750257"
-  },
-  {
-    "name": "Fuleng Guest House",
-    "address": "Shop 1, Main Road, Quthing 700, Lesotho",
-    "phone": "+26622750489"
-  },
-  {
-    "name": "Mountainside Hotel",
-    "address": "Box 177, Lower Moyeni 700, Quthing, Lesotho",
-    "phone": "+26622750260"
-  },
-  {
-    "name": "Mall of the North",
-    "address": "R81, Bendor, Polokwane, 0699, South Africa",
-    "phone": "+27152651026"
-  },
-  {
-    "name": "Soshanguve Crossing Mall",
-    "address": "Shop 13, Parkies Plaza, 230 Main Road, Sterkspruit, 9762, South Africa",
-    "phone": "132309762"
-  },
-  {
-    "name": "Standard Lesotho Bank",
-    "address": "Shop 10, Riverside Mall, Zastron Street, Sterkspruit, Eastern Cape, 9762, South Africa",
-    "phone": "+27516110991"
-  },
-  {
-    "name": "Leloaleng",
-    "address": "Shop Number 2, Mashiqa Building, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27860123000"
-  },
-  {
-    "name": "Jubilee Mall",
-    "address": "Sterkspruit Plaza, Shop 45 Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27510117910"
-  },
-  {
-    "name": "Jumbo Parkies Plaza",
-    "address": "Van Tonder St Erf 89, Sterkspruit, 9762, South Africa",
-    "phone": "+27510040115"
-  },
-  {
-    "name": "Ackermans Sterkspruit Plaza",
-    "address": "R392, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110154"
-  },
-  {
-    "name": "Quthing",
-    "address": "Shop 56A, Plaza, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27861235664"
-  },
-  {
-    "name": "Tekkie Town Sterkspruit Plaza",
-    "address": "Shop 7B Boxer Centre, Main Road, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110581"
-  },
-  {
-    "name": "Vic Clothing",
-    "address": "Shop 45 Sterkspruit Plaza, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27510117909"
-  },
-  {
-    "name": "PEP Sterkspruit Parkies Plaza",
-    "address": "GLS Mehlomakulu Building, Main Street, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110050"
-  },
-  {
-    "name": "Street Fever Sterkspruit Plaza",
-    "address": "Parkies Plaza, Shop 21B Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27860102043"
-  },
-  {
-    "name": "PEP Cell Sterkspruit Parkies Plaza",
-    "address": "Cnr Zastron & Voyizana, Roads, Sterkspruit, 9762, South Africa",
-    "phone": "+27516112901"
-  },
-  {
-    "name": "Studio 88",
-    "address": "Parkies Plaza, 230 Main Rd, Pambili, Sterkspruit, 9762, South Africa",
-    "phone": "+27516118000"
-  },
-  {
-    "name": "Ackermans Sterkspruit",
-    "address": "Shop 54, Plaza, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27440010452"
-  },
-  {
-    "name": "Lesotho Mountain Crafts",
-    "address": "Plaza, Cnr Zastron & Herschel Rd Sterkspruit, Sterkspruit, 9762, South Africa",
-    "phone": "+27860999119"
-  },
-  {
-    "name": "Ben DStv shop",
-    "address": "60 Main Rd Shop 2, Boxer Shopping Centre, Erf 1316, Sterkspruit, 9762, South Africa",
-    "phone": "60213169762"
-  },
-  {
-    "name": "Mr Price Sterkspruit",
-    "address": "Shop 1, Parkies Plaza, 230 Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "12309762"
-  },
-  {
-    "name": "Clicks Pharmacy Sterkspruit",
-    "address": "Shop 1 Riverside Mall, 63 Zastron Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110370"
-  },
-  {
-    "name": "Exact - Sterkspruit",
-    "address": "3625 Shaganappi Trail NW, Calgary, AB T3A 0E2, Canada",
-    "phone": "+14032885466"
-  },
-  {
-    "name": "PEP Sterkspruit",
-    "address": "Shop 55, Sterkspruit Plaza Umlami Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27101331855"
-  },
-  {
-    "name": "Umendo Pharmacy",
-    "address": "SHOP 9 STERKSPRUIT PLAZA, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516118090"
-  },
-  {
-    "name": "Sleepmasters Sterkspruit",
-    "address": "Shop 56, Parkies Plaza 230 Umlani Road, Sterkspruit, 9762, South Africa",
-    "phone": "562309762"
-  },
-  {
-    "name": "Sterkspruit 2 Boxer Superstores",
-    "address": "Shop 40, Plaza, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27871090740"
-  },
-  {
-    "name": "Makhetheng",
-    "address": "Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110167"
-  },
-  {
-    "name": "Jet STERKSPRUIT",
-    "address": "Shop 7, Sterkspruit Plaza, Umlamli Road, Sterkspruit, 9762, South Africa",
-    "phone": "+27826904087"
-  },
-  {
-    "name": "Queen Motor Spares",
-    "address": "Shop 3, Mather Mall Main Road, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110297"
-  },
-  {
-    "name": "Bradlows Sterkspruit",
-    "address": "Shop 11 Parkies Plaza, Site No 230 - Umlamli Road, Karoo, Sterkspruit, 9792, South Africa",
-    "phone": "112309792"
-  },
-  {
-    "name": "OK Furniture Sterkspruit",
-    "address": "Zastron road street, Sterkspruit, 9762, South Africa",
-    "phone": "+27789819948"
-  },
-  {
-    "name": "Lewis Sterkspruit",
-    "address": "Shop 12 Parkies Plaza, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110732"
-  },
-  {
-    "name": "CF Market Mall",
-    "address": "Teyateyaneng, Lesotho",
-    "phone": "+27832553626"
-  },
-  {
-    "name": "Best Home & Electric Sterkspruit",
-    "address": "Shop 7, Plaza, Main Rd, Sterkspruit, Wittenberg, 9762, South Africa",
-    "phone": "+27516110062"
-  },
-  {
-    "name": "TymeBank Kiosk Boxer Superstore Sterkspruit 2",
-    "address": "Shop 1 Mather Mall, Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110394"
-  },
-  {
-    "name": "Shoprite LiquorShop Sterkspruit",
-    "address": "Shop 6 Parkies Plaza, 230 Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "62309762"
-  },
-  {
-    "name": "OBC Chicken and Meat Sterkspruit",
-    "address": "Shop 50, Sterkspruit Plaza, Umlami Road, Sterkspruit, 9762, South Africa",
-    "phone": "+27510230011"
-  },
-  {
-    "name": "Assupol Sterkspruit",
-    "address": "Shop 21, Parkies Plaza Umlani Road, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110421"
-  },
-  {
-    "name": "Debonairs Pizza",
-    "address": "Plaza, Shop 46, Sterkspruit, Sterkspruit, 9762, South Africa",
-    "phone": "+27516531718"
-  },
-  {
-    "name": "PEP Sterkspruit Zastron Street",
-    "address": "Parkies Plaza - Shop, 2 Main Rd, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110438"
-  },
-  {
-    "name": "Russells Sterkspruit",
-    "address": "Shop 21, Parkies Plaza Umlani Road, Sterkspruit, 9762, South Africa",
-    "phone": "+27118500000"
-  },
-  {
-    "name": "AutoZone Sterkspruit",
-    "address": "Shop 53 Sterkspruit Plaza Umlami Road, Sterkspruit, 9762, South Africa",
-    "phone": "+27586229006"
-  },
-  {
-    "name": "Steers",
-    "address": "Shop 4 Parkies Plaza, Sterkspruit, 9762, South Africa",
-    "phone": "+27516110404"
-  },
-  {
-    "name": "Build it Sterkspruit",
-    "address": "Quthing, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Standard Bank | Sterkspruit Service Centre",
-    "address": "Liphakoe Rd., Quthing, Lesotho",
-    "phone": "+26622750288"
-  },
-  {
-    "name": "BUCO Sterkspruit",
-    "address": "Jubilee Road, Hammanskraal, 0400, South Africa",
-    "phone": "+27127271241"
-  },
-  {
-    "name": "Hungry Lion Sterkspruit",
-    "address": "Corner Ruth First Road &, Aubrey Matlakala St, Soshanguve, 0164, South Africa",
-    "phone": null
-  },
-  {
-    "name": "Gates of Paradise Pass",
-    "address": "Maseru, Lesotho",
-    "phone": "+26622312238"
-  },
-  {
-    "name": "Quthing",
-    "address": "Qachas Nek, Lesotho",
-    "phone": "+26653301880"
-  },
-  {
-    "name": "The Lion Rock Mountain",
-    "address": "Khukhune, Lesotho",
-    "phone": "+26622460723"
-  },
-  {
-    "name": "Liphofung Cave",
-    "address": "Unnamed Road, Blue Gums, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Thaba Bosiu Cultural Village",
-    "address": "30°18'35.3\"S 28°09'54.3\"E, Lesotho Sun Rd, Maseru, Lesotho",
-    "phone": "30183532809543"
-  },
-  {
-    "name": "Qacha's Nek Snake Park",
-    "address": "Motloang, Lesotho",
-    "phone": "+26627021962"
-  },
-  {
-    "name": "Seaka Bridge",
-    "address": "Unnamed Road, Lesotho, Malealea, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Quthing",
-    "address": "Masitise, Lesotho",
-    "phone": null
-  },
-  {
-    "name": "Katse Dam Botanical Gardens & Nursery",
-    "address": "Unnamed Road, Mateka, Lesotho",
-    "phone": "+26658547673"
-  },
-  {
-    "name": "Tiffindell Ski Resort",
-    "address": "Unnamed Road, Lesotho, Bokong, Lesotho",
-    "phone": "+26622910315"
-  },
-  {
-    "name": "Sehlabathebe National Park",
-    "address": "Church street Box 12, Morija 190, Lesotho",
-    "phone": "+26622360308"
-  },
-  {
-    "name": "Kome Caves",
-    "address": "Sehlabathebe, Lesotho",
-    "phone": "+26663821103"
-  },
-  {
-    "name": "Masitise",
-    "address": "Tiffindell Farm, Barkly East, 9786, South Africa",
-    "phone": "+27117812620"
-  }
+ {
+  "id": 1,
+  "name": "City Stay Maseru",
+  "Address": "Hilton Rd, Maseru 100, Lesotho",
+  "phone": "+26622243000"
+ },
+ {
+  "id": 2,
+  "name": "RIO GUEST HOUSE LS",
+  "Address": "344 Taung Rd, Maseru, Lesotho",
+  "phone": "+26658866632"
+ },
+ {
+  "id": 3,
+  "name": "Avani Lesotho Hotel \u0026 Casino",
+  "Address": "770 Manong Rd, Maseru, Lesotho",
+  "phone": "+26622317700"
+ },
+ {
+  "id": 4,
+  "name": "Noble Hearts Bed \u0026 Breakfast",
+  "Address": "New Parliament Rd, Maseru, Lesotho",
+  "phone": "+26653305920"
+ },
+ {
+  "id": 5,
+  "name": "Black Swan Guesthouse",
+  "Address": "Lower Thetsane, 791 Senqunyane St, Maseru 100, Lesotho",
+  "phone": "+26658883454"
+ },
+ {
+  "id": 6,
+  "name": "GREENLAKE GUESTHOUSE",
+  "Address": "New Parliament Rd, Maseru, Lesotho",
+  "phone": "+26653305920"
+ },
+ {
+  "id": 7,
+  "name": "Scenery Guest House Maqalika",
+  "Address": "Linakeng, Maseru, Lesotho",
+  "phone": "+26653807041"
+ },
+ {
+  "id": 8,
+  "name": "Avani Maseru Hotel",
+  "Address": "12 Orpen Rd, Maseru, Lesotho",
+  "phone": "+26622243000"
+ },
+ {
+  "id": 9,
+  "name": "Reitumetse Guest House",
+  "Address": "Nazareth, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 10,
+  "name": "Foothills Guesthouse",
+  "Address": "Mantsebo, Lesotho",
+  "phone": "+26650920881"
+ },
+ {
+  "id": 11,
+  "name": "Mohalalitoe Bed and Breakfast",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26662853523"
+ },
+ {
+  "id": 12,
+  "name": "Road Stay",
+  "Address": "12 Thabure Street, Maseru 100, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 13,
+  "name": "Tribute Guest House Matala",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622315926"
+ },
+ {
+  "id": 14,
+  "name": "RIO GUEST HOUSE LS",
+  "Address": "Unnamed Road, Foso, Lesotho",
+  "phone": "+26662050012"
+ },
+ {
+  "id": 15,
+  "name": "Lion Rock View Guesthouse",
+  "Address": "Maseru, Lesotho",
+  "phone": "+27824935862"
+ },
+ {
+  "id": 16,
+  "name": "Horizon View Guest House",
+  "Address": "100 Naleli-Sekamaneng Rd, Foso 100, Lesotho",
+  "phone": "+26662000117"
+ },
+ {
+  "id": 17,
+  "name": "Joy Guest House",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26662777999"
+ },
+ {
+  "id": 18,
+  "name": "Mpilo Boutique Hotel",
+  "Address": "Sehlabeng sa thuathe, Berea Hills 100, Lesotho",
+  "phone": "+26650489517"
+ },
+ {
+  "id": 19,
+  "name": "Maluti Stay",
+  "Address": "Thetsane West, Maseru 100, Lesotho",
+  "phone": "+26650265047"
+ },
+ {
+  "id": 20,
+  "name": "ONESI Guest House",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+26662818283"
+ },
+ {
+  "id": 21,
+  "name": "Kubung Guest House",
+  "Address": "Nazareth, Ntsi, Lesotho",
+  "phone": "+26622347766"
+ },
+ {
+  "id": 22,
+  "name": "Phomolo Guest House",
+  "Address": "Unnamed Road, Roma, Lesotho",
+  "phone": "+26658870077"
+ },
+ {
+  "id": 23,
+  "name": "Maluti Stay",
+  "Address": "36 Mabelebele St, Maseru, Lesotho",
+  "phone": "+26662812740"
+ },
+ {
+  "id": 24,
+  "name": "Joy Guest House",
+  "Address": "florida no 577 next to Jehovas Witnesses Hoohlo, Maseru 100, Lesotho",
+  "phone": "+26658883764"
+ },
+ {
+  "id": 25,
+  "name": "The Palace Hotel",
+  "Address": "Pope John Paul II Road, Maseru Pope John Paul II Road Maseru LS, Pope John Paul II Rd, Maseru, Lesotho",
+  "phone": "+26656902049"
+ },
+ {
+  "id": 26,
+  "name": "Lancer's Inn Hotel Maseru",
+  "Address": "Ha Mabote, Main North 1 Road, Maseru, Lesotho",
+  "phone": "+26628332317"
+ },
+ {
+  "id": 27,
+  "name": "Blue Mountain Inn",
+  "Address": "Naleli Maseru, 100, Lesotho",
+  "phone": "+26662161616"
+ },
+ {
+  "id": 28,
+  "name": "Lapeng Ha Mamosa",
+  "Address": "33 100, Tjobolo St, Maseru, Lesotho",
+  "phone": "+26628328871"
+ },
+ {
+  "id": 29,
+  "name": "Hotel Victoria",
+  "Address": "Sea Point, Maseru 100, Lesotho",
+  "phone": "+26659999600"
+ },
+ {
+  "id": 30,
+  "name": "Mohokare Guest House",
+  "Address": "Ha Basiane, Roma, Maseru District, Roma 180, Lesotho",
+  "phone": "+26650245001"
+ },
+ {
+  "id": 31,
+  "name": "Thaba Bosiu Cultural Village",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622313646"
+ },
+ {
+  "id": 32,
+  "name": "THE CLAN GUEST HOUSE",
+  "Address": "Maseru, Lesotho",
+  "phone": "+27724472866"
+ },
+ {
+  "id": 33,
+  "name": "Mmelesi Lodge",
+  "Address": "NTTC Area, Maseru, Lesotho",
+  "phone": "+26622315271"
+ },
+ {
+  "id": 34,
+  "name": "Mohahlaula Boutique Guesthouse",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26662559600"
+ },
+ {
+  "id": 35,
+  "name": "Shoeshoe Gardens",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26650985223"
+ },
+ {
+  "id": 36,
+  "name": "Lakeview guesthouse",
+  "Address": "Ha Abia Road, Matala, Off, Main South 1 Rd, Maseru, Lesotho",
+  "phone": "+26628351979"
+ },
+ {
+  "id": 37,
+  "name": "Maliba Lodge",
+  "Address": "Orpen Rd, Maseru, Lesotho",
+  "phone": "+26662314661"
+ },
+ {
+  "id": 38,
+  "name": "Denver Echo: Executive Guest House \u0026 Wellness Facility",
+  "Address": "Behind Setsoto Stadium Maseru LS, Maseru, Lesotho",
+  "phone": "+26653807042"
+ },
+ {
+  "id": 39,
+  "name": "Khali Hotel",
+  "Address": "Main South 1 Rd, Bokatis Store, Lesotho",
+  "phone": "+26662004000"
+ },
+ {
+  "id": 40,
+  "name": "San Antonio",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622326326"
+ },
+ {
+  "id": 41,
+  "name": "Botleng Guest House",
+  "Address": "Maqalika Airport Road, Maseru 100, Lesotho",
+  "phone": "+26622336606"
+ },
+ {
+  "id": 42,
+  "name": "Rethabile House",
+  "Address": "Thaba Bosiu Rd, Maseru, Lesotho",
+  "phone": "+26652501115"
+ },
+ {
+  "id": 43,
+  "name": "Cyaara Guest House",
+  "Address": "No.498, Pope John Paul II Rd, Maseru, Lesotho",
+  "phone": "+26622324190"
+ },
+ {
+  "id": 44,
+  "name": "Karona Guest HOuse \u0026 Lodge",
+  "Address": "Qalabane Street, Maseru, Lesotho",
+  "phone": "+26622315019"
+ },
+ {
+  "id": 45,
+  "name": "Lakeside Hotel",
+  "Address": "Motloang, Lesotho",
+  "phone": "+26627021962"
+ },
+ {
+  "id": 46,
+  "name": "Phokeng Bed and Breakfast",
+  "Address": "Foso, Lesotho",
+  "phone": "+26622332008"
+ },
+ {
+  "id": 47,
+  "name": "Roma Trading Post Lodge",
+  "Address": "Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": "+26622324215"
+ },
+ {
+  "id": 48,
+  "name": "Haven of Peace Bed and Breakfast",
+  "Address": "260 Pioneer Rd, Maseru, Lesotho",
+  "phone": "+26622314442"
+ },
+ {
+  "id": 49,
+  "name": "Blue Crane Guesthouse",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628320707"
+ },
+ {
+  "id": 50,
+  "name": "Joy Guest House Ls",
+  "Address": "Ts'oeneng Ha Letsie, Maseru 100, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 51,
+  "name": "Boikhutsong Bed and Breakfast",
+  "Address": "Kingsway Maseru LS 100, 100 Kingsway, Maseru, Lesotho",
+  "phone": "+26622313687"
+ },
+ {
+  "id": 52,
+  "name": "Global Guest House",
+  "Address": "Box 7, Teyateyaneng 200, Lesotho",
+  "phone": "+26622500362"
+ },
+ {
+  "id": 53,
+  "name": "Florida bed n breakfast Solutionz",
+  "Address": "Molemane Rd, Teyateyaneng 200, Lesotho",
+  "phone": "+26622501638"
+ },
+ {
+  "id": 54,
+  "name": "Hillside Cottage Guest House",
+  "Address": "Road \u0026 Kingsway Central Private Bag A 216, Pioneer corner, Maseru 100, Lesotho",
+  "phone": "+26622312114"
+ },
+ {
+  "id": 55,
+  "name": "Seilatsatsi B\u0026B",
+  "Address": "5, Maluti Stay Lodge, Ramabanta 5, Maseru 100, Lesotho",
+  "phone": "+26650895429"
+ },
+ {
+  "id": 56,
+  "name": "My Kasi Home BnB",
+  "Address": "Main South 1 Rd Maseru (29°22'30.2\"S 27°32'53.0\"E, Main South 1 Rd, Lesotho",
+  "phone": "1292230227325301"
+ },
+ {
+  "id": 57,
+  "name": "Molengoane Lodge",
+  "Address": "Unnamed Road, Makhalanyane, Lesotho",
+  "phone": "+26652500113"
+ },
+ {
+  "id": 58,
+  "name": "Da Villa Guest House",
+  "Address": "5, Maluti Stay Lodge, Ramabanta 5, Maseru 100, Lesotho",
+  "phone": "+26650895429"
+ },
+ {
+  "id": 59,
+  "name": "Harmony Bed and Breakfast",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26659149296"
+ },
+ {
+  "id": 60,
+  "name": "The Stone Guest House",
+  "Address": "Naleli-Sekamaneng Rd, Foso, Lesotho",
+  "phone": "+26653229429"
+ },
+ {
+  "id": 61,
+  "name": "The Village Guest House",
+  "Address": "Maluti Rd, Maseru, Lesotho",
+  "phone": "+26652203000"
+ },
+ {
+  "id": 62,
+  "name": "The Nest Guest House",
+  "Address": "Unnamed Road, Maseru, Lesotho",
+  "phone": "+26658740728"
+ },
+ {
+  "id": 63,
+  "name": "Village Court Guest House",
+  "Address": "S 029° 22.412, E 27° 32.862, Lesotho",
+  "phone": "029224122732862"
+ },
+ {
+  "id": 64,
+  "name": "Village Court Guest House",
+  "Address": "105 Naleli-Sekamaneng Rd, Foso, Lesotho",
+  "phone": "+26628333046"
+ },
+ {
+  "id": 65,
+  "name": "MDR B\u0026B",
+  "Address": "426 Matlaka Rd, Maseru, Lesotho",
+  "phone": "+26622323176"
+ },
+ {
+  "id": 66,
+  "name": "lodge",
+  "Address": "121 Maluti Rd, Maseru, Lesotho",
+  "phone": "+26658706566"
+ },
+ {
+  "id": 67,
+  "name": "No.7 Restaurant",
+  "Address": "Shop 14, Maseru Mall, Maseru 100, Lesotho",
+  "phone": "+26662757555"
+ },
+ {
+  "id": 68,
+  "name": "Nada",
+  "Address": "Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": "+26622326838"
+ },
+ {
+  "id": 69,
+  "name": "The Market",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622325498"
+ },
+ {
+  "id": 70,
+  "name": "Monte Carlo Restaurant",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26659042775"
+ },
+ {
+  "id": 71,
+  "name": "The Deck",
+  "Address": "Mabekebeke St, Maseru, Lesotho",
+  "phone": "+26652505501"
+ },
+ {
+  "id": 72,
+  "name": "Cappello",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26659571470"
+ },
+ {
+  "id": 73,
+  "name": "N'Jays Restaurant",
+  "Address": "Orpen Rd, Maseru, Lesotho",
+  "phone": "+26622315892"
+ },
+ {
+  "id": 74,
+  "name": "Galito's Maseru Station",
+  "Address": "Moshoeshoe Rd Maseru, 100, Lesotho",
+  "phone": "+26622327464"
+ },
+ {
+  "id": 75,
+  "name": "Delarosa Restaurant",
+  "Address": "Kingsway, Foso, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 76,
+  "name": "Kingdom Lounge",
+  "Address": "Bakubung, Lesotho",
+  "phone": "+26659679167"
+ },
+ {
+  "id": 77,
+  "name": "San Antonio Restaurant",
+  "Address": "100 Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 78,
+  "name": "Trucha Restaurant",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628331766"
+ },
+ {
+  "id": 79,
+  "name": "Asian Corner",
+  "Address": "Foso, Lesotho",
+  "phone": "+26658817436"
+ },
+ {
+  "id": 80,
+  "name": "Nala Cafe",
+  "Address": "Moshoeshoe Rd, Foso, Lesotho",
+  "phone": "+26657320524"
+ },
+ {
+  "id": 81,
+  "name": "Mama Rich Cafe \u0026 Restaurant",
+  "Address": "Foso, Lesotho",
+  "phone": "+26663125558"
+ },
+ {
+  "id": 82,
+  "name": "Big 6 Meat \u0026 Chill",
+  "Address": "Lesotho Sun Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 83,
+  "name": "Wimpy",
+  "Address": "Moshoeshoe Road, Sefika Shopping, Centre, Moshoeshoe Rd, Foso, Lesotho",
+  "phone": "+26657044379"
+ },
+ {
+  "id": 84,
+  "name": "Captain DoRegos Maseru Cathedral",
+  "Address": "Naleli-Sekamaneng Rd, Foso, Lesotho",
+  "phone": "+26656431743"
+ },
+ {
+  "id": 85,
+  "name": "KFC",
+  "Address": "Foso, Lesotho",
+  "phone": "+26659492323"
+ },
+ {
+  "id": 86,
+  "name": "Peace Restaurant和平饭店",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26650985223"
+ },
+ {
+  "id": 87,
+  "name": "Bon-Appetite",
+  "Address": "Masianokeng Lifestyle Centre, Main South 1 Rd, Maseru, Lesotho",
+  "phone": "+26656194147"
+ },
+ {
+  "id": 88,
+  "name": "Mammas Chicken",
+  "Address": "286, 100 Pioneer Rd, Maseru, Lesotho",
+  "phone": "+26622329912"
+ },
+ {
+  "id": 89,
+  "name": "Carnivore ltd",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622316951"
+ },
+ {
+  "id": 90,
+  "name": "jimmy fish \u0026 chips",
+  "Address": "Foso, Lesotho",
+  "phone": "+26628335820"
+ },
+ {
+  "id": 91,
+  "name": "Domino's Pizza Maseru (Closed)",
+  "Address": "Taoana Center, Pela Mokorotlong, Kingsway, Maseru 100, Lesotho",
+  "phone": "+26659756160"
+ },
+ {
+  "id": 92,
+  "name": "DESI DERA halal restaurant",
+  "Address": "Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 93,
+  "name": "Times Kitchen",
+  "Address": "Lekhaloaneng, Maseru 100, Lesotho",
+  "phone": "+26658153413"
+ },
+ {
+  "id": 94,
+  "name": "Captain DoRegos Kingsway Road",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26658910099"
+ },
+ {
+  "id": 95,
+  "name": "Studio151",
+  "Address": "NRH Shopping Centre, Shop 14, Kingsway, Maseru 149, Lesotho",
+  "phone": "+26622323388"
+ },
+ {
+  "id": 96,
+  "name": "Cloud Cafe",
+  "Address": "Khoisan Rd, Maseru, Lesotho",
+  "phone": "+26657432829"
+ },
+ {
+  "id": 97,
+  "name": "Barcelos Pioneer Mall",
+  "Address": "MFMR+PF6 NRH Centre, Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 98,
+  "name": "Mandefu Chill \u0026 Grill",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 99,
+  "name": "Victory Centre",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622316380"
+ },
+ {
+  "id": 100,
+  "name": "Onedot Joint",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26662444448"
+ },
+ {
+  "id": 101,
+  "name": "Artisan Lesotho",
+  "Address": "Qiloane Shopping Complex, Naledi, Maseru, Foso, Lesotho",
+  "phone": "+26659052688"
+ },
+ {
+  "id": 102,
+  "name": "caffè dolce",
+  "Address": "Main North 1 Rd, Maseru, Lesotho",
+  "phone": "+26622325496"
+ },
+ {
+  "id": 103,
+  "name": "Liphzo salon",
+  "Address": "Khubetsoana, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 104,
+  "name": "Phoenix Kota and Fast Foods",
+  "Address": "Koffi Annan Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 105,
+  "name": "Roman's Pizza Maseru",
+  "Address": "Corner of Kofi Annan \u0026 Thaba Bosu roads Thetsane Precinct Maseru, 100, Lesotho",
+  "phone": "+26622311732"
+ },
+ {
+  "id": 106,
+  "name": "Kay's Garden",
+  "Address": "Naledi Centre, Maseru, Lesotho",
+  "phone": "+26659927717"
+ },
+ {
+  "id": 107,
+  "name": "Gourmet-To-Go",
+  "Address": "SHOP 1, BERGERS BUILDING, Kingsway, Maseru, Lesotho",
+  "phone": "+26657924786"
+ },
+ {
+  "id": 108,
+  "name": "Steers",
+  "Address": "Naledi Centre, Naledi, Tsosane, Maseru, Lesotho",
+  "phone": "+26622331642"
+ },
+ {
+  "id": 109,
+  "name": "B and G family reatuaradry",
+  "Address": "Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 110,
+  "name": "KFC",
+  "Address": "Mpilo Boulevard and Pioneer Road, Shop No LG14 Pioneer Mall Corner, Maseru 149, Lesotho",
+  "phone": "+26658853381"
+ },
+ {
+  "id": 111,
+  "name": "Ba-oroa-tsatsi",
+  "Address": "2 Phamola Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 112,
+  "name": "Lerakong Simple Eats",
+  "Address": "1037, 100 Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 113,
+  "name": "Lancer's Inn Hotel Maseru",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26658811204"
+ },
+ {
+  "id": 114,
+  "name": "Stewart's Lounge",
+  "Address": "Maseru Mall, Koffi Annan Rd, Maseru 100, Lesotho",
+  "phone": "+26622310256"
+ },
+ {
+  "id": 115,
+  "name": "Galito's Maseru Kingsway",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26658426838"
+ },
+ {
+  "id": 116,
+  "name": "Tip top",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 117,
+  "name": "Honchos Maseru",
+  "Address": "Mafafa Centre, Maseru 0100, South Africa",
+  "phone": "+26656537564"
+ },
+ {
+  "id": 118,
+  "name": "Kings \u0026 Queens Pizza",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 119,
+  "name": "Ifo Grill \u0026 Fast Foods Restaurant",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 120,
+  "name": "Tructa Et Carne",
+  "Address": "Maseru sefika, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 121,
+  "name": "Dion",
+  "Address": "Pioneer Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 122,
+  "name": "Fafatsah Cafe 1803",
+  "Address": "103 Orpen Road, Old Europa, TRC, Lesotho",
+  "phone": "+26656154835"
+ },
+ {
+  "id": 123,
+  "name": "Nzee's Pizzeria",
+  "Address": "Road \u0026 Kingsway Central Private Bag A 216, Pioneer corner, Maseru 100, Lesotho",
+  "phone": "+26622312114"
+ },
+ {
+  "id": 124,
+  "name": "KFC Maseru Mall",
+  "Address": "Plot Number 12284-487, Moposo House Kingsway Steet Maseru Central, 100, Lesotho",
+  "phone": "12284487100"
+ },
+ {
+  "id": 125,
+  "name": "Kamran’s Takeaway",
+  "Address": "Pioneer Mall, Maseru, Lesotho",
+  "phone": "+26622320322"
+ },
+ {
+  "id": 126,
+  "name": "Debonairs Pizza",
+  "Address": "Qiloane St, Maseru 100, Lesotho",
+  "phone": "+26663336980"
+ },
+ {
+  "id": 127,
+  "name": "Captain Doregos",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26663857340"
+ },
+ {
+  "id": 128,
+  "name": "Luthers Restaurants and Takeaways",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26657219610"
+ },
+ {
+  "id": 129,
+  "name": "Good Chesa Nyama",
+  "Address": "Shop LG 15 Pioneer Mall Maseru Cnr Mpilo Boulevard \u0026, Pioneer Rd, Maseru 100, Lesotho",
+  "phone": "+26658857264"
+ },
+ {
+  "id": 130,
+  "name": "Komatsu Lifestyle",
+  "Address": "Maseru Hafoso, Maseru, Lesotho",
+  "phone": "+26657748346"
+ },
+ {
+  "id": 131,
+  "name": "KFC Thetsane",
+  "Address": "Shop 80, Maseru Mall, LS 105 Maseru, Lesotho",
+  "phone": "+26622310464"
+ },
+ {
+  "id": 132,
+  "name": "Captain DoRegos Naledi",
+  "Address": "Lithabaneng, Maseru, Lesotho",
+  "phone": "+26668891448"
+ },
+ {
+  "id": 133,
+  "name": "Envy Lounge",
+  "Address": "ha thetsane, 127 Maseru, 100, Lesotho",
+  "phone": "+26658734920"
+ },
+ {
+  "id": 134,
+  "name": "Molach pizza",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26659898186"
+ },
+ {
+  "id": 135,
+  "name": "Chiefs Fast Foods",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622320420"
+ },
+ {
+  "id": 136,
+  "name": "Alpha Shopping",
+  "Address": "Unnamed Road, Maseru, Lesotho",
+  "phone": "+26651496034"
+ },
+ {
+  "id": 137,
+  "name": "Stadium Fast Foods Main North",
+  "Address": "Shop LG03, Pioneer Mall Maseru 100, Lesotho",
+  "phone": "+26652500270"
+ },
+ {
+  "id": 138,
+  "name": "Fish \u0026 Chips",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26662008766"
+ },
+ {
+  "id": 139,
+  "name": "Hadies Braaiside \u0026 Carwash",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26662232212"
+ },
+ {
+  "id": 140,
+  "name": "Cristal Food Catering (RN_Vendor)",
+  "Address": "Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 141,
+  "name": "Sandton mphodumo off sales",
+  "Address": "cnr majara and airport road, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 142,
+  "name": "MNM offsales and Lounge",
+  "Address": "Border Post, Kingsway Road, Maseru, Lesotho",
+  "phone": "+26628323298"
+ },
+ {
+  "id": 143,
+  "name": "Debonairs Pizza",
+  "Address": "Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 144,
+  "name": "The Snack Bite",
+  "Address": "Maseru,Mall, Maseru , Lesotho, Lesotho",
+  "phone": "+26622311005"
+ },
+ {
+  "id": 145,
+  "name": "Sakisi's Chesa Nama",
+  "Address": "100 Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": "+26657888893"
+ },
+ {
+  "id": 146,
+  "name": "KFC Bus Stop",
+  "Address": "Moshoeshoe Rd, Station Off Sales, Maseru 100, Lesotho",
+  "phone": "+26622314481"
+ },
+ {
+  "id": 147,
+  "name": "KFC NRH",
+  "Address": "200 Constitution Rd, Maseru, Lesotho",
+  "phone": "+26664905294"
+ },
+ {
+  "id": 148,
+  "name": "Honchos Flame Grilled Goodness",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628315752"
+ },
+ {
+  "id": 149,
+  "name": "Healthy By Choice",
+  "Address": "Moshoeshoe Rd, Maseru, Lesotho",
+  "phone": "+26628314003"
+ },
+ {
+  "id": 150,
+  "name": "Pizza Perfect | Lesotho",
+  "Address": "Kingsway Road, Hamafafa, Maseru, Lesotho",
+  "phone": "+26622323786"
+ },
+ {
+  "id": 151,
+  "name": "Highlands Trout Fish Market",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26657605077"
+ },
+ {
+  "id": 152,
+  "name": "Karona Guest HOuse \u0026 Lodge",
+  "Address": "Patsa Building, Cathedral, Maseru Main North, First Avenue, Maseru, Lesotho",
+  "phone": "+26622325883"
+ },
+ {
+  "id": 153,
+  "name": "Stadium Fast Foods Kingsway",
+  "Address": "Pioneer Mall, Shop UG47, Maseru 149, Lesotho",
+  "phone": "+26622325666"
+ },
+ {
+  "id": 154,
+  "name": "Ha Thetsane",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 155,
+  "name": "Leifo Bar",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26663061881"
+ },
+ {
+  "id": 156,
+  "name": "El Legado",
+  "Address": "Lesotho Sun Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 157,
+  "name": "Spetzo's Pizza",
+  "Address": "Mall Car Park, Mabelebele St, Maseru, Lesotho",
+  "phone": "+26658368404"
+ },
+ {
+  "id": 158,
+  "name": "Backyard@Lynors",
+  "Address": "Pioneer Road Maseru, 100, Lesotho",
+  "phone": "+26622314300"
+ },
+ {
+  "id": 159,
+  "name": "Pioneer Mall Maseru",
+  "Address": "Tsenola, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 160,
+  "name": "Maseru Mall",
+  "Address": "Upper Thamae Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 161,
+  "name": "Sefika Shopping Centre",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 162,
+  "name": "Moletsane shopping center",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622318221"
+ },
+ {
+  "id": 163,
+  "name": "LNDC Shopping Centre",
+  "Address": "Kingsway, Maseru, Lesotho",
+  "phone": "+26622322246"
+ },
+ {
+  "id": 164,
+  "name": "Fairways Plaza",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622310088"
+ },
+ {
+  "id": 165,
+  "name": "Masianokeng Lifestyle Center",
+  "Address": "Metcash Complex, Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 166,
+  "name": "DarkPrint Studios",
+  "Address": "ShopRite, LNDC Center near, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 167,
+  "name": "Lower Thamae Shopping Center",
+  "Address": "286 Pioneer Rd, Maseru 100, Lesotho",
+  "phone": "+26658689450"
+ },
+ {
+  "id": 168,
+  "name": "Exact - Pioneer Mall Maseru",
+  "Address": "Kingsway, Maseru 100, Lesotho",
+  "phone": "+26622311031"
+ },
+ {
+  "id": 169,
+  "name": "Garden Centre",
+  "Address": "Kofi Annan Rd Maseru Mall, Plot 1229-1135 Thetsane, Lesotho",
+  "phone": "12291135"
+ },
+ {
+  "id": 170,
+  "name": "Clicks Pharmacy Pioneer Mall",
+  "Address": "Pioneer Rd Shop 50, Pioneer Mall, Lesotho",
+  "phone": "+26622329662"
+ },
+ {
+  "id": 171,
+  "name": "PEP Maseru Masianokeng Lifestyle Centre",
+  "Address": "Masianokeng Lifestyle Centre, Main Road, Maseru 100, Lesotho",
+  "phone": "+26627321022"
+ },
+ {
+  "id": 172,
+  "name": "Maseru Book Centre",
+  "Address": "Unnamed Road, Maseru, Lesotho",
+  "phone": "+26622316830"
+ },
+ {
+  "id": 173,
+  "name": "Game Maseru",
+  "Address": "Pioneer Rd, Maseru, Lesotho",
+  "phone": "+26622329323"
+ },
+ {
+  "id": 174,
+  "name": "West Pack Lifestyle Maseru (Lesotho)",
+  "Address": "Kingsway, Maseru, Lesotho",
+  "phone": "+26622322213"
+ },
+ {
+  "id": 175,
+  "name": "Horizon View Guest House",
+  "Address": "Unnamed Road, Maseru, Lesotho",
+  "phone": "+27872312036"
+ },
+ {
+  "id": 176,
+  "name": "Kubung Guest House",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 177,
+  "name": "The Lion Rock Mountain",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 178,
+  "name": "Basotho Hat",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 179,
+  "name": "Nexx square",
+  "Address": "Naleli-Sekamaneng Rd, Foso, Lesotho",
+  "phone": "+26653229429"
+ },
+ {
+  "id": 180,
+  "name": "Maseru Downtown Park",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628321422"
+ },
+ {
+  "id": 181,
+  "name": "Banesa Gardens",
+  "Address": "Motloang, Lesotho",
+  "phone": "+26627021962"
+ },
+ {
+  "id": 182,
+  "name": "Live Lesotho",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26658881944"
+ },
+ {
+  "id": 183,
+  "name": "Maqalika Dam",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622312238"
+ },
+ {
+  "id": 184,
+  "name": "Maseru Mall",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622232309"
+ },
+ {
+  "id": 185,
+  "name": "Kome Caves",
+  "Address": "Metolong, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 186,
+  "name": "Katse Dam Botanical Gardens \u0026 Nursery",
+  "Address": "On the R70 between Ficksburg and Rosendal, Ficksburg, 9730, South Africa",
+  "phone": "+27519332220"
+ },
+ {
+  "id": 187,
+  "name": "Setsoto Stadium",
+  "Address": "Malealea Village, Malealea, Lesotho",
+  "phone": "+26658839646"
+ },
+ {
+  "id": 188,
+  "name": "Liphofung Cave",
+  "Address": "Afriski Mountain Resort, 400, Lesotho",
+  "phone": "+278612374754"
+ },
+ {
+  "id": 189,
+  "name": "Likatola Horse Riding \u0026 Adventure",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 190,
+  "name": "Qiloane falls",
+  "Address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
+  "phone": "+27722892827"
+ },
+ {
+  "id": 191,
+  "name": "Maseru",
+  "Address": "Road \u0026 Kingsway Central Private Bag A 216, Pioneer corner, Maseru 100, Lesotho",
+  "phone": "+26622312114"
+ },
+ {
+  "id": 192,
+  "name": "Titanic Rock",
+  "Address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
+  "phone": "+27582561757"
+ },
+ {
+  "id": 193,
+  "name": "Maluti Mountains",
+  "Address": "Qeme, Ha Teko, Maseru, Lesotho",
+  "phone": "+26658772207"
+ },
+ {
+  "id": 194,
+  "name": "Maseru",
+  "Address": "Masitise, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 195,
+  "name": "Likatola Horse Riding \u0026 Adventure",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 196,
+  "name": "Thaba Bosiu",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 197,
+  "name": "Semonkong",
+  "Address": "Qeme, Ha Teko, Maseru, Lesotho",
+  "phone": "+26658772207"
+ },
+ {
+  "id": 198,
+  "name": "Mountain Highland Retreat",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 199,
+  "name": "Afriski Mountain Resort",
+  "Address": "Unnamed Road, Lesotho, Bokong, Lesotho",
+  "phone": "+26622910315"
+ },
+ {
+  "id": 200,
+  "name": "Malealea Lodge, Lesotho - Pony Trekking \u0026 MTB",
+  "Address": "286 Pioneer Rd, Maseru 100, Lesotho",
+  "phone": "+26658689450"
+ },
+ {
+  "id": 201,
+  "name": "Ha Baroana",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622318221"
+ },
+ {
+  "id": 202,
+  "name": "God Help Me Pass",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658547673"
+ },
+ {
+  "id": 203,
+  "name": "The Lehakoe Club and Gym",
+  "Address": "Unnamed Road, Lesotho, Malealea, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 204,
+  "name": "Moolmanshoek Private Game Reserve",
+  "Address": "Church street Box 12, Morija 190, Lesotho",
+  "phone": "+26622360308"
+ },
+ {
+  "id": 205,
+  "name": "Border Posts - Maseru Bridge",
+  "Address": "Khukhune, Lesotho",
+  "phone": "+26622460723"
+ },
+ {
+  "id": 206,
+  "name": "Blue Mountain Inn",
+  "Address": "5, Maluti Stay Lodge, Ramabanta 5, Maseru 100, Lesotho",
+  "phone": "+26650895429"
+ },
+ {
+  "id": 207,
+  "name": "Ka Pitseng Guest House",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+26662818283"
+ },
+ {
+  "id": 208,
+  "name": "RIO GUEST HOUSE LS",
+  "Address": "105 Naleli-Sekamaneng Rd, Foso, Lesotho",
+  "phone": "+26628333046"
+ },
+ {
+  "id": 209,
+  "name": "Maluti Stay Lodge",
+  "Address": "New Parliament Rd, Maseru, Lesotho",
+  "phone": "+26653305920"
+ },
+ {
+  "id": 210,
+  "name": "Maluti Stay",
+  "Address": "Box 7, Teyateyaneng 200, Lesotho",
+  "phone": "+26622500362"
+ },
+ {
+  "id": 211,
+  "name": "GREENLAKE GUESTHOUSE",
+  "Address": "Molemane Rd, Teyateyaneng 200, Lesotho",
+  "phone": "+26622501638"
+ },
+ {
+  "id": 212,
+  "name": "Horizon View Guest House",
+  "Address": "Sehlabeng sa thuathe, Berea Hills 100, Lesotho",
+  "phone": "+26650489517"
+ },
+ {
+  "id": 213,
+  "name": "Tribute Guest House Matala",
+  "Address": "12 Thabure Street, Maseru 100, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 214,
+  "name": "Maliba Lodge",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622315926"
+ },
+ {
+  "id": 215,
+  "name": "Zuikerkop",
+  "Address": "S 029° 22.412, E 27° 32.862, Lesotho",
+  "phone": "029224122732862"
+ },
+ {
+  "id": 216,
+  "name": "Hokahanya Inn \u0026 Conference Centre",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628320707"
+ },
+ {
+  "id": 217,
+  "name": "Village Court Guest House",
+  "Address": "Tandjiesberg Rd, Clocolan, 9735, South Africa",
+  "phone": "+27833890587"
+ },
+ {
+  "id": 218,
+  "name": "Seaba Restaurant",
+  "Address": "Moshoeshoe Road, Teyateyaneng, Lesotho",
+  "phone": "+26628843684"
+ },
+ {
+  "id": 219,
+  "name": "Biko's Pub \u0026 Grill Teyateyaneng",
+  "Address": "Teyateyaneng box 70, Teyateyaneng, Lesotho",
+  "phone": "+26658035577"
+ },
+ {
+  "id": 220,
+  "name": "King Deli Foods",
+  "Address": "Mofolo Street, Teyateyaneng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 221,
+  "name": "Kome Catering",
+  "Address": "Ts'oeu ea Lithebe Street, Teyateyaneng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 222,
+  "name": "Capital Catering",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 223,
+  "name": "Koti Sphola Restaurant@R2",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 224,
+  "name": "Papillon Fish And Chips",
+  "Address": "Main North 1 Rd, End Mofolo Street, Ha, Motjoka, Teyateyaneng, Australia",
+  "phone": "+6163003455"
+ },
+ {
+  "id": 225,
+  "name": "Tebang General Cafe",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+26658840333"
+ },
+ {
+  "id": 226,
+  "name": "Chiefs Fast Foods",
+  "Address": "Mofolo Road, Teyateyaneng, Lesotho",
+  "phone": "+26622501355"
+ },
+ {
+  "id": 227,
+  "name": "Good Times Valley",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+26650770022"
+ },
+ {
+  "id": 228,
+  "name": "Moletsane shopping center",
+  "Address": "Tsenola, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 229,
+  "name": "Sefika Shopping Centre",
+  "Address": "Shop 1, Mofolo Centre, Main Road, Teyateyaneng 200, Lesotho",
+  "phone": "+26622500435"
+ },
+ {
+  "id": 230,
+  "name": "LNDC Shopping Centre",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 231,
+  "name": "Masianokeng Lifestyle Center",
+  "Address": "ShopRite, LNDC Center near, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 232,
+  "name": "Pioneer Mall Maseru",
+  "Address": "Metcash Complex, Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 233,
+  "name": "PEP Teyateyaneng Mofolo Centre",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622318221"
+ },
+ {
+  "id": 234,
+  "name": "Kingsway mall",
+  "Address": "Kingsway, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 235,
+  "name": "NRH Mall",
+  "Address": "Unnamed 24Road, Hlotse, Lesotho",
+  "phone": "+26658751277"
+ },
+ {
+  "id": 236,
+  "name": "Maseru Mall",
+  "Address": "286 Pioneer Rd, Maseru 100, Lesotho",
+  "phone": "+26658689450"
+ },
+ {
+  "id": 237,
+  "name": "DarkPrint Studios",
+  "Address": "Masianokeng Lifestyle Centre, Main Road, Maseru 100, Lesotho",
+  "phone": "+26627321022"
+ },
+ {
+  "id": 238,
+  "name": "Fairways Plaza",
+  "Address": "Moshoeshoe Road, Teyateyaneng, Lesotho",
+  "phone": "+26653061696"
+ },
+ {
+  "id": 239,
+  "name": "Shopping Centre",
+  "Address": "Unnamed Road, Teyateyaneng, Lesotho",
+  "phone": "+26652212368"
+ },
+ {
+  "id": 240,
+  "name": "Lower Thamae Shopping Center",
+  "Address": "Pioneer Rd, Maseru, Lesotho",
+  "phone": "+26622329323"
+ },
+ {
+  "id": 241,
+  "name": "Lesotho Mountain Crafts",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 242,
+  "name": "Dunns Teyateyaneng",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26622400032"
+ },
+ {
+  "id": 243,
+  "name": "Vodacom Centre",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+27832553626"
+ },
+ {
+  "id": 244,
+  "name": "HA MOTJOKA",
+  "Address": "Upper Thamae Rd, Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 245,
+  "name": "Exact - Pioneer Mall Maseru",
+  "Address": "Shop 3, Mofolo Centre, Main Road, Teyateyaneng 200, Lesotho",
+  "phone": "+26622500430"
+ },
+ {
+  "id": 246,
+  "name": "Leribe Craft Centre",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622310088"
+ },
+ {
+  "id": 247,
+  "name": "Destiny Computer Solutions",
+  "Address": "Meqheleng, Ficksburg, 9730, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 248,
+  "name": "PEP Maseru Masianokeng Lifestyle Centre",
+  "Address": "Kingsway, Maseru, Lesotho",
+  "phone": "+26622322246"
+ },
+ {
+  "id": 249,
+  "name": "The Lion Rock Mountain",
+  "Address": "Unnamed Road, Lesotho, Malealea, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 250,
+  "name": "Teyateyaneng",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658547673"
+ },
+ {
+  "id": 251,
+  "name": "Kome Caves",
+  "Address": "Unnamed Road, Lesotho, Bokong, Lesotho",
+  "phone": "+26622910315"
+ },
+ {
+  "id": 252,
+  "name": "Liphofung Cave",
+  "Address": "Church street Box 12, Morija 190, Lesotho",
+  "phone": "+26622360308"
+ },
+ {
+  "id": 253,
+  "name": "Gates of Paradise Pass",
+  "Address": "Motloang, Lesotho",
+  "phone": "+26627021962"
+ },
+ {
+  "id": 254,
+  "name": "Katse Dam Botanical Gardens \u0026 Nursery",
+  "Address": "Khukhune, Lesotho",
+  "phone": "+26622460723"
+ },
+ {
+  "id": 255,
+  "name": "Morija Museum \u0026 Archives",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622312238"
+ },
+ {
+  "id": 256,
+  "name": "Leribe Dinosaur Footprints",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 257,
+  "name": "Titanic Rock",
+  "Address": "P. Burgos St, Cebu City, Cebu, Philippines",
+  "phone": "+63789456321"
+ },
+ {
+  "id": 258,
+  "name": "Lesotho Mountain Crafts",
+  "Address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
+  "phone": "+27582230274"
+ },
+ {
+  "id": 259,
+  "name": "Free State National Botanical Garden",
+  "Address": "531 Sias Oosthuizen St, Clarens, 9707, South Africa",
+  "phone": "+27582561260"
+ },
+ {
+  "id": 260,
+  "name": "The Stone Guest House",
+  "Address": "Die Lande farm, Fouriesburg, 9725, South Africa",
+  "phone": "+27848384110"
+ },
+ {
+  "id": 261,
+  "name": "Boyden Observatory",
+  "Address": "R712, Clarens, 9707, South Africa",
+  "phone": "+27718309998"
+ },
+ {
+  "id": 262,
+  "name": "National Museum Bloemfontein",
+  "Address": "R70, Ficksburg, 9730, South Africa",
+  "phone": "+27822131299"
+ },
+ {
+  "id": 263,
+  "name": "Ha Baroana",
+  "Address": "2-22 Delville Dr, Naval Hill, Bloemfontein, 9305, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 264,
+  "name": "Berea",
+  "Address": "Die Lande farm, Fouriesburg, 9725, South Africa",
+  "phone": "+27848384110"
+ },
+ {
+  "id": 265,
+  "name": "Meiringskloof Nature Park",
+  "Address": "R712, Clarens, 9707, South Africa",
+  "phone": "+27718309998"
+ },
+ {
+  "id": 266,
+  "name": "Clarens kloof dam",
+  "Address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
+  "phone": "+27582230274"
+ },
+ {
+  "id": 267,
+  "name": "Bagamoya Wildlife Estate",
+  "Address": "531 Sias Oosthuizen St, Clarens, 9707, South Africa",
+  "phone": "+27582561260"
+ },
+ {
+  "id": 268,
+  "name": "De Molen Farm",
+  "Address": "2-22 Delville Dr, Naval Hill, Bloemfontein, 9305, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 269,
+  "name": "Mountain Highland Retreat",
+  "Address": "R70, Ficksburg, 9730, South Africa",
+  "phone": "+27822131299"
+ },
+ {
+  "id": 270,
+  "name": "Malealea Lodge, Lesotho - Pony Trekking \u0026 MTB",
+  "Address": "R712, Golden Gate Highlands National Park, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 271,
+  "name": "Clarens Village Conservancy",
+  "Address": "8 President Brand St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 272,
+  "name": "South African Armour Museum",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 273,
+  "name": "Addy \u0026 Hoyle Art Gallery",
+  "Address": "23 Voortekker St, Ficksburg, 9736, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 274,
+  "name": "Die Nasionale Vrouemonument",
+  "Address": "5 President Brand St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+  "phone": "+27514058470"
+ },
+ {
+  "id": 275,
+  "name": "Major Bell's Tower",
+  "Address": "Joachem, van Bruggen steet, Langenhoven Park, Bloemfontein, 9301, South Africa",
+  "phone": "+27849191676"
+ },
+ {
+  "id": 276,
+  "name": "Kings Park Rose Garden",
+  "Address": "Berg St, Clarens, 9707, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 277,
+  "name": "Thaba Bosiu",
+  "Address": "R26, KOMMISSIEPORT Off, Hospitaal Street, Kommissiepoort, Ladybrand, 9745, South Africa",
+  "phone": "+27519245831"
+ },
+ {
+  "id": 278,
+  "name": "Butha Buthe",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 279,
+  "name": "Motloang",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 280,
+  "name": "Eingedi Retreat",
+  "Address": "Naval Hill, Bloemfontein, 9301, South Africa",
+  "phone": "+27514019751"
+ },
+ {
+  "id": 281,
+  "name": "Hlotse",
+  "Address": "Att Horak St, Willows, Bloemfontein, 9301, South Africa",
+  "phone": "+27717756386"
+ },
+ {
+  "id": 282,
+  "name": "Hertzog Square",
+  "Address": "Golden Gate Highlands National Park, R712, Clarens, 9701, South Africa",
+  "phone": "+27680624947"
+ },
+ {
+  "id": 283,
+  "name": "Clarens townsquare",
+  "Address": "Naval Hill, Bloemfontein, 9301, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 284,
+  "name": "Langenhoven Mark / Market",
+  "Address": "Tempe Military Base, Bloemfontein, 9301, South Africa",
+  "phone": "+27514021777"
+ },
+ {
+  "id": 285,
+  "name": "Butha-Buthe",
+  "Address": "Malealea Village, Malealea, Lesotho",
+  "phone": "+26658839646"
+ },
+ {
+  "id": 286,
+  "name": "Bloemfontein City Hall",
+  "Address": "277 Main St, Clarens, 9707, South Africa",
+  "phone": "+27582561875"
+ },
+ {
+  "id": 287,
+  "name": "Maseru",
+  "Address": "95 St Georges St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+  "phone": "+27514479609"
+ },
+ {
+  "id": 288,
+  "name": "Gen Jan Fick Museum",
+  "Address": "14 Louw Wepener Straat, Dan Pienaar, Bloemfontein, 9301, South Africa",
+  "phone": "+27658238730"
+ },
+ {
+  "id": 289,
+  "name": "Uithoek Natuurpark Fouriesburg",
+  "Address": "1 Hill St, Clarens, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 290,
+  "name": "Clocolan",
+  "Address": "R70, Rosendal, 9720, South Africa",
+  "phone": "+27829018799"
+ },
+ {
+  "id": 291,
+  "name": "Naval Hill Nature Reserve",
+  "Address": "Merriam Makeba St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+  "phone": "+27514054711"
+ },
+ {
+  "id": 292,
+  "name": "Malealea",
+  "Address": "Maselspoort, 9360, South Africa",
+  "phone": "+27824977550"
+ },
+ {
+  "id": 293,
+  "name": "Wyndford Holiday Farm",
+  "Address": "16 Harry Smith St, Dan Pienaar, Bloemfontein, 9301, South Africa",
+  "phone": "+27510110525"
+ },
+ {
+  "id": 294,
+  "name": "Affi lande boetiek guestfarm , beer garden \u0026 grill, wedding venue",
+  "Address": "Metolong, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 295,
+  "name": "Roma",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+26663891801"
+ },
+ {
+  "id": 296,
+  "name": "Bokong",
+  "Address": "25 Monument Rd, Generaal De Wet, Bloemfontein, 9301, South Africa",
+  "phone": "+27514473447"
+ },
+ {
+  "id": 297,
+  "name": "Naval Hill Nature Reserve",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+26662818283"
+ },
+ {
+  "id": 298,
+  "name": "Golden Gate Highlands National Park",
+  "Address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
+  "phone": "+27582561757"
+ },
+ {
+  "id": 299,
+  "name": "Malealea",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+27832553626"
+ },
+ {
+  "id": 300,
+  "name": "Clarens Xtreme Adventure Company",
+  "Address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
+  "phone": "+27722892827"
+ },
+ {
+  "id": 301,
+  "name": "BusStop \u0026 Bergwoning Guest Farm",
+  "Address": "Rayton Rd, Dan Pienaar, Bloemfontein, 9310, South Africa",
+  "phone": "+27514363530"
+ },
+ {
+  "id": 302,
+  "name": "Affi lande boetiek guestfarm , beer garden \u0026 grill, wedding venue",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658835143"
+ },
+ {
+  "id": 303,
+  "name": "Modderpoort",
+  "Address": "36 Aliwal St, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+  "phone": "+27514479609"
+ },
+ {
+  "id": 304,
+  "name": "Fouriesburg",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628321422"
+ },
+ {
+  "id": 305,
+  "name": "Hobhouse",
+  "Address": "Box 7, Teyateyaneng 200, Lesotho",
+  "phone": "+26622500362"
+ },
+ {
+  "id": 306,
+  "name": "Magellan's Cross",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": "+27582551000"
+ },
+ {
+  "id": 307,
+  "name": "Ladybrand",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 308,
+  "name": "Bird Haven Guesthouse Leribe Lesotho",
+  "Address": "Sir Seretse Khama Rd, Maputsoe, Lesotho",
+  "phone": "+26658066972"
+ },
+ {
+  "id": 309,
+  "name": "Mountain View Hotel",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26622400559"
+ },
+ {
+  "id": 310,
+  "name": "Monokotsoaing Guest House",
+  "Address": "A1 LISEMENG II HLOTSE, 300, Lesotho",
+  "phone": "+26658794938"
+ },
+ {
+  "id": 311,
+  "name": "Malinakana Guest House",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26628401886"
+ },
+ {
+  "id": 312,
+  "name": "Hae Bed and Breakfast",
+  "Address": "A1 opposite Masjid Mosque, Hlotse, Lesotho",
+  "phone": "+26659480814"
+ },
+ {
+  "id": 313,
+  "name": "Green Apple Guest House",
+  "Address": "Lisemeng II, Hlotse, Lesotho",
+  "phone": "+26657016886"
+ },
+ {
+  "id": 314,
+  "name": "GREENLAKE GUESTHOUSE",
+  "Address": "A1, Butha Buthe, Lesotho",
+  "phone": "+26668880666"
+ },
+ {
+  "id": 315,
+  "name": "Naleli Guest House",
+  "Address": "Lisemeng Hlotse, (Opp air stip) Old Butha - Buthe Rd, Linare Road, Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 316,
+  "name": "Nala Bed \u0026 Breakfast",
+  "Address": "Sebothoane, Hlotse 300, Lesotho",
+  "phone": "+26628401769"
+ },
+ {
+  "id": 317,
+  "name": "Empire Bed \u0026 Breakfast",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26628320707"
+ },
+ {
+  "id": 318,
+  "name": "Aloes Guest House",
+  "Address": "Maputsoe, Lesotho",
+  "phone": "+26653253495"
+ },
+ {
+  "id": 319,
+  "name": "Crocodile Inn Hotel",
+  "Address": "Unnamed Road, Butha Buthe, Lesotho",
+  "phone": "+26622460223"
+ },
+ {
+  "id": 320,
+  "name": "Refiloe Guesthouse",
+  "Address": "Pitseng, Lesotho",
+  "phone": "+26658065622"
+ },
+ {
+  "id": 321,
+  "name": "Hokahanya Inn \u0026 Conference Centre",
+  "Address": "St Monicas, Hlotse, Lesotho",
+  "phone": "+26657174242"
+ },
+ {
+  "id": 322,
+  "name": "Leribe Fish \u0026 Chips",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 323,
+  "name": "kingdom hideout",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26653234892"
+ },
+ {
+  "id": 324,
+  "name": "Thotoane Restaurant",
+  "Address": "A25, Hlotse, Lesotho",
+  "phone": "+26658825537"
+ },
+ {
+  "id": 325,
+  "name": "Timberland carwash cocktail and lounge",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 326,
+  "name": "Bird Haven Guesthouse Leribe Lesotho",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26659022179"
+ },
+ {
+  "id": 327,
+  "name": "Cucina Fast Foods",
+  "Address": "Lisemeng II, Hlotse, Lesotho",
+  "phone": "+26657016886"
+ },
+ {
+  "id": 328,
+  "name": "Grab and Go",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 329,
+  "name": "Mossly Fast Foods",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 330,
+  "name": "Plush Café",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+27728375607"
+ },
+ {
+  "id": 331,
+  "name": "Naleli Guest House",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26622400559"
+ },
+ {
+  "id": 332,
+  "name": "AAA Express",
+  "Address": "A1, Hlotse, Lesotho",
+  "phone": "+26622401787"
+ },
+ {
+  "id": 333,
+  "name": "Seasonal car wash and Restaurant",
+  "Address": "A25, Lesotho",
+  "phone": "+26659151689"
+ },
+ {
+  "id": 334,
+  "name": "Hot Desires Catering",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26658922891"
+ },
+ {
+  "id": 335,
+  "name": "Mountain View Hotel",
+  "Address": "A25, Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 336,
+  "name": "Sekali Private Pub",
+  "Address": "Lisemeng Hlotse, (Opp air stip) Old Butha - Buthe Rd, Linare Road, Hlotse, Lesotho",
+  "phone": "+26656048200"
+ },
+ {
+  "id": 337,
+  "name": "Khanyane Mall of Leribe Lesotho",
+  "Address": "Unnamed 24Road, Hlotse, Lesotho",
+  "phone": "+26658751277"
+ },
+ {
+  "id": 338,
+  "name": "LIKILA SHOPPING MALL.",
+  "Address": "Butha Buthe, Lesotho",
+  "phone": "+26663228692"
+ },
+ {
+  "id": 339,
+  "name": "Leribe Craft Centre",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26622400032"
+ },
+ {
+  "id": 340,
+  "name": "Leribe Dinosaur Footprints",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 341,
+  "name": "Thaba Bosiu Cultural Village",
+  "Address": "Motloang, Lesotho",
+  "phone": "+26627021962"
+ },
+ {
+  "id": 342,
+  "name": "The Lion Rock Mountain",
+  "Address": "Unnamed Road, Lesotho, Malealea, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 343,
+  "name": "Mafika Lisiu Pass View Point",
+  "Address": "Khukhune, Lesotho",
+  "phone": "+26622460723"
+ },
+ {
+  "id": 344,
+  "name": "Major Bell's Tower",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658547673"
+ },
+ {
+  "id": 345,
+  "name": "Kome Caves",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622312238"
+ },
+ {
+  "id": 346,
+  "name": "Tugela Falls",
+  "Address": "Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 347,
+  "name": "Gates of Paradise Pass",
+  "Address": "Royal Natal National Park, Gaints Castle Game Reserve, South Africa",
+  "phone": "+27214241037"
+ },
+ {
+  "id": 348,
+  "name": "Khanyane Mall of Leribe Lesotho",
+  "Address": "Sterkfontein Dam, Amanzi Amakhulu Estate, Harrismith, 9880, South Africa",
+  "phone": "+27836400024"
+ },
+ {
+  "id": 349,
+  "name": "Basotho Hat",
+  "Address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
+  "phone": "+27582230274"
+ },
+ {
+  "id": 350,
+  "name": "Basotho Cultural Village",
+  "Address": "R600 Champagne Valley, Winterton, Kwa-Zulu Natal, 3340, South Africa",
+  "phone": "+27364681221"
+ },
+ {
+  "id": 351,
+  "name": "Golden Gate Highlands National Park",
+  "Address": "Die Lande farm, Fouriesburg, 9725, South Africa",
+  "phone": "+27848384110"
+ },
+ {
+  "id": 352,
+  "name": "platberg eco park in harrismith",
+  "Address": "D117 Off r74, R74, Bergville, 3550, South Africa",
+  "phone": "11774743550"
+ },
+ {
+  "id": 353,
+  "name": "Leribe Craft Centre",
+  "Address": "R394 Cathedral Peak Hotel Ukhahlamba Drakensberg Park Cathedral Peak, 3340, South Africa",
+  "phone": "+27364881888"
+ },
+ {
+  "id": 354,
+  "name": "Khanyane Mall of Leribe Lesotho",
+  "Address": "R711 corner of Caledonspoort and Clarens crossing, Fouriesburg, 9725, South Africa",
+  "phone": "+27845125030"
+ },
+ {
+  "id": 355,
+  "name": "Leribe",
+  "Address": "District Road D119, End of D119, Northern Drakensberg, Bergville, 3350, South Africa",
+  "phone": "1191193350"
+ },
+ {
+  "id": 356,
+  "name": "Sentinel Car Park",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 357,
+  "name": "Clarens kloof dam",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+27832553626"
+ },
+ {
+  "id": 358,
+  "name": "Mountain Highland Retreat",
+  "Address": "Plot 346 Free State, South Africa District, Fouriesburg, 9725, South Africa",
+  "phone": "+27664662106"
+ },
+ {
+  "id": 359,
+  "name": "God Help Me Pass",
+  "Address": "End of R57, Phuthaditjhaba, 9870, South Africa",
+  "phone": "+27587136361"
+ },
+ {
+  "id": 360,
+  "name": "Sporekrans Hiking Trail",
+  "Address": "R712, Golden Gate Highlands National Park, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 361,
+  "name": "Malealea Lodge, Lesotho - Pony Trekking \u0026 MTB",
+  "Address": "23 Voortekker St, Ficksburg, 9736, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 362,
+  "name": "Chain Ladder Route",
+  "Address": "R70, Ficksburg, 9730, South Africa",
+  "phone": "+27822131299"
+ },
+ {
+  "id": 363,
+  "name": "Mike's Pass",
+  "Address": "Camelroc Guest Farm, The Poplars, Farm: 199, Caledonspoort, Fouriesburg, 9725, South Africa",
+  "phone": "+27582230368"
+ },
+ {
+  "id": 364,
+  "name": "Mountain View Hotel",
+  "Address": "Berg St, Clarens, 9707, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 365,
+  "name": "Sentinel Peak Hike",
+  "Address": "Golden Gate Highlands National Park, R712, Clarens, 9701, South Africa",
+  "phone": "+27680624947"
+ },
+ {
+  "id": 366,
+  "name": "Clarens Waterfall",
+  "Address": "Unnamed Road, \u0026nbsp, Clarens, 9707, South Africa",
+  "phone": "+27582561270"
+ },
+ {
+  "id": 367,
+  "name": "Sterkfontein Dam Nature Reserve",
+  "Address": "R26, KOMMISSIEPORT Off, Hospitaal Street, Kommissiepoort, Ladybrand, 9745, South Africa",
+  "phone": "+27519245831"
+ },
+ {
+  "id": 368,
+  "name": "Leribe Airport",
+  "Address": "Unnamed Road, Harrismith, 9880, South Africa",
+  "phone": "+27840163094"
+ },
+ {
+  "id": 369,
+  "name": "Moolmanshoek Private Game Reserve",
+  "Address": "On the R70 between Ficksburg and Rosendal, Ficksburg, 9730, South Africa",
+  "phone": "+27519332220"
+ },
+ {
+  "id": 370,
+  "name": "Zulu Cave",
+  "Address": "Unnamed Road, Hlotse, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 371,
+  "name": "Phuthaditjhaba Park",
+  "Address": "Wostijn No. 2, Portion 10, Cathkin Park, 3340, South Africa",
+  "phone": "+27734816331"
+ },
+ {
+  "id": 372,
+  "name": "Harrismith Botanical Gardens",
+  "Address": "Mota Rd, Phuthaditjhaba, 9869, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 373,
+  "name": "iKhayalamafu Mountain Hideaway and Private Nature Reserve",
+  "Address": "Khetisas, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 374,
+  "name": "GZ Adventures LEAP Kiara Lodge Clarens, Quad Biking, Gorge Swing, Archery",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26622400559"
+ },
+ {
+  "id": 375,
+  "name": "CLARENS GOLF \u0026 LEISURE ESTATE",
+  "Address": "Close to Sterkfonten resort, Harrismith, South Africa",
+  "phone": "+27586223520"
+ },
+ {
+  "id": 376,
+  "name": "Nandi's Falls",
+  "Address": "1 Hill St, Clarens, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 377,
+  "name": "Motloang",
+  "Address": "277 Main St, Clarens, 9707, South Africa",
+  "phone": "+27582561875"
+ },
+ {
+  "id": 378,
+  "name": "Butha-Buthe",
+  "Address": "Afriski Mountain Resort, 400, Lesotho",
+  "phone": "+278612374754"
+ },
+ {
+  "id": 379,
+  "name": "Morija",
+  "Address": "Farm Kleinbloemhof, Bethlehem, 9700, South Africa",
+  "phone": "+27583041691"
+ },
+ {
+  "id": 380,
+  "name": "Thaba Bosiu",
+  "Address": "Malealea Village, Malealea, Lesotho",
+  "phone": "+26658839646"
+ },
+ {
+  "id": 381,
+  "name": "Gen Jan Fick Museum",
+  "Address": "Appin Road, Swinburne, Free State, 9880, South Africa",
+  "phone": "+27785144710"
+ },
+ {
+  "id": 382,
+  "name": "Uithoek Natuurpark Fouriesburg",
+  "Address": "7 Muller St, Bethlehem, 9701, South Africa",
+  "phone": "+27583035076"
+ },
+ {
+  "id": 383,
+  "name": "Malealea",
+  "Address": "Bergville, 3350, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 384,
+  "name": "Lesotho Mountain Crafts",
+  "Address": "R70, Rosendal, 9720, South Africa",
+  "phone": "+27829018799"
+ },
+ {
+  "id": 385,
+  "name": "Kestell",
+  "Address": "Rosendal, South Africa",
+  "phone": "+27827765540"
+ },
+ {
+  "id": 386,
+  "name": "Clarens townsquare",
+  "Address": "Unnamed 24Road, Hlotse, Lesotho",
+  "phone": "+26658751277"
+ },
+ {
+  "id": 387,
+  "name": "The Cavern Drakensberg Resort \u0026 Spa",
+  "Address": "Chain Ladder Rte, Phuthaditjhaba, 9870, South Africa",
+  "phone": "+27587136361"
+ },
+ {
+  "id": 388,
+  "name": "Koeneng",
+  "Address": "A1 opposite Masjid Mosque, Hlotse, Lesotho",
+  "phone": "+26659480814"
+ },
+ {
+  "id": 389,
+  "name": "Berea",
+  "Address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
+  "phone": "+27582561757"
+ },
+ {
+  "id": 390,
+  "name": "Maseru",
+  "Address": "Hlotse, Lesotho",
+  "phone": "+26622400032"
+ },
+ {
+  "id": 391,
+  "name": "Cathedral Peak Hotel",
+  "Address": "King St, Harrismith, 9880, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 392,
+  "name": "Hlalanathi Drakensberg Resort",
+  "Address": "Unnamed Road, Lesotho, Bokong, Lesotho",
+  "phone": "+26622910315"
+ },
+ {
+  "id": 393,
+  "name": "Alpine View - Yellowwood Trail",
+  "Address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
+  "phone": "+27722892827"
+ },
+ {
+  "id": 394,
+  "name": "BergVenture",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": "+27582551000"
+ },
+ {
+  "id": 395,
+  "name": "Bethlehem",
+  "Address": "Unnamed 24Road, Hlotse, Lesotho",
+  "phone": "+26658751277"
+ },
+ {
+  "id": 396,
+  "name": "Lord Fraser Guesthouse",
+  "Address": "Wepner Road, Mafeteng 900, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 397,
+  "name": "Lapeng Habo Bantu",
+  "Address": "Grace Guest House,Motse Mocha,Thabana Morena Rd, Mafeteng 900, Mafeteng 900, Lesotho",
+  "phone": "+26658863223"
+ },
+ {
+  "id": 398,
+  "name": "Grace Guest House Mafeteng",
+  "Address": "Van Jaarsveld St, Wepener, 9944, South Africa",
+  "phone": "+27734871404"
+ },
+ {
+  "id": 399,
+  "name": "Emem Kaza Guesthouse",
+  "Address": "10 De Bruin St, Wepener, 9944, South Africa",
+  "phone": "+27515831480"
+ },
+ {
+  "id": 400,
+  "name": "Bastys kitchen",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26659541206"
+ },
+ {
+  "id": 401,
+  "name": "Captain Doregos Mafeteng",
+  "Address": "Wepener road, Mafeteng, Lesotho",
+  "phone": "+26658721460"
+ },
+ {
+  "id": 402,
+  "name": "Jankie's",
+  "Address": "Shop 1, Thusong Multi Building, Main South 1 Rd, Mafeteng, Lesotho",
+  "phone": "+26622705466"
+ },
+ {
+  "id": 403,
+  "name": "The Hut Diner",
+  "Address": "Malumeng, 099, Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 404,
+  "name": "The Michi Grill",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26658427871"
+ },
+ {
+  "id": 405,
+  "name": "JALOPY",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26622700307"
+ },
+ {
+  "id": 406,
+  "name": "Econo Foods Mafeteng",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26658020775"
+ },
+ {
+  "id": 407,
+  "name": "KFC Leluma",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26657964997"
+ },
+ {
+  "id": 408,
+  "name": "KFC Mafeteng",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26628326380"
+ },
+ {
+  "id": 409,
+  "name": "JABBY FAST FOOD",
+  "Address": "Patsa Centre, Box 675, Mafeteng, Mafeteng, Lesotho",
+  "phone": "+26628700449"
+ },
+ {
+  "id": 410,
+  "name": "Paballong Motse-Mocha",
+  "Address": "Mabuti Street,, Mafeteng, Lesotho",
+  "phone": "+26658780174"
+ },
+ {
+  "id": 411,
+  "name": "Dunns Mafeteng",
+  "Address": "Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 412,
+  "name": "Masianokeng Lifestyle Center",
+  "Address": "Shop 4, Mafeteng Centre Main Road Mafeteng Lesotho, 123, Lesotho",
+  "phone": "+26622700289"
+ },
+ {
+  "id": 413,
+  "name": "Wheels of Life Bike Shop",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26622700953"
+ },
+ {
+  "id": 414,
+  "name": "Shoprite Mafeteng",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26622700970"
+ },
+ {
+  "id": 415,
+  "name": "Thaba Bosiu Cultural Village",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622312238"
+ },
+ {
+  "id": 416,
+  "name": "Gates of Paradise Pass",
+  "Address": "Unnamed Road, Lesotho, Bokong, Lesotho",
+  "phone": "+26622910315"
+ },
+ {
+  "id": 417,
+  "name": "The Lion Rock Mountain",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658547673"
+ },
+ {
+  "id": 418,
+  "name": "Mafeteng",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": "+27582551000"
+ },
+ {
+  "id": 419,
+  "name": "Morija Museum \u0026 Archives",
+  "Address": "Motloang, Lesotho",
+  "phone": "+26627021962"
+ },
+ {
+  "id": 420,
+  "name": "Kome Caves",
+  "Address": "Church street Box 12, Morija 190, Lesotho",
+  "phone": "+26622360308"
+ },
+ {
+  "id": 421,
+  "name": "Katse Dam Botanical Gardens \u0026 Nursery",
+  "Address": "Khukhune, Lesotho",
+  "phone": "+26622460723"
+ },
+ {
+  "id": 422,
+  "name": "Basotho Hat",
+  "Address": "Unnamed Road, Lesotho, Malealea, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 423,
+  "name": "Golden Gate Highlands National Park",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 424,
+  "name": "Lesotho Travel Agency",
+  "Address": "5 Eaton Rd, Tweespruit, 9770, South Africa",
+  "phone": "+27519630023"
+ },
+ {
+  "id": 425,
+  "name": "De Molen Farm",
+  "Address": "R712, Clarens, 9707, South Africa",
+  "phone": "+27718309998"
+ },
+ {
+  "id": 426,
+  "name": "Malealea Lodge, Lesotho - Pony Trekking \u0026 MTB",
+  "Address": "Die Lande farm, Fouriesburg, 9725, South Africa",
+  "phone": "+27848384110"
+ },
+ {
+  "id": 427,
+  "name": "Ha-Lepolesa",
+  "Address": "531 Sias Oosthuizen St, Clarens, 9707, South Africa",
+  "phone": "+27582561260"
+ },
+ {
+  "id": 428,
+  "name": "Tip Top Guest House",
+  "Address": "R711 corner of Caledonspoort and Clarens crossing, Fouriesburg, 9725, South Africa",
+  "phone": "+27845125030"
+ },
+ {
+  "id": 429,
+  "name": "The Michi Grill",
+  "Address": "1 Caledonspoort Road, Caledonspoort, Fouriesburg, 9725, South Africa",
+  "phone": "+27582230274"
+ },
+ {
+  "id": 430,
+  "name": "Teyateyaneng",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 431,
+  "name": "Setsoto Stadium",
+  "Address": "Unnamed Road, \u0026nbsp, Clarens, 9707, South Africa",
+  "phone": "+27582561270"
+ },
+ {
+  "id": 432,
+  "name": "Clarens Waterfall",
+  "Address": "R711 Old Fouriesburg road, Clarens, 9707, South Africa",
+  "phone": "+27784572504"
+ },
+ {
+  "id": 433,
+  "name": "Clarens Village Conservancy",
+  "Address": "R711, Fouriesburg, 9725, South Africa",
+  "phone": "+27846684499"
+ },
+ {
+  "id": 434,
+  "name": "Camelroc Guest Farm",
+  "Address": "Ficksburg, 9730, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 435,
+  "name": "Ha Kome Caves",
+  "Address": "R70, Ficksburg, 9730, South Africa",
+  "phone": "+27822131299"
+ },
+ {
+  "id": 436,
+  "name": "Moolmanshoek Private Game Reserve",
+  "Address": "23 Voortekker St, Ficksburg, 9736, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 437,
+  "name": "Likatola Horse Riding \u0026 Adventure",
+  "Address": "Berg St, Clarens, 9707, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 438,
+  "name": "Semonkong Lodge",
+  "Address": "Clarens, 9707, South Africa",
+  "phone": "+27834859654"
+ },
+ {
+  "id": 439,
+  "name": "Lesotho Mountain Crafts",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+27832553626"
+ },
+ {
+  "id": 440,
+  "name": "Malealea",
+  "Address": "R26, KOMMISSIEPORT Off, Hospitaal Street, Kommissiepoort, Ladybrand, 9745, South Africa",
+  "phone": "+27519245831"
+ },
+ {
+  "id": 441,
+  "name": "Cashbuild",
+  "Address": "Thabana Morena Rd, Mafeteng 999, Lesotho",
+  "phone": "+26622700292"
+ },
+ {
+  "id": 442,
+  "name": "Border Posts - Maseru Bridge",
+  "Address": "Plot 346 Free State, South Africa District, Fouriesburg, 9725, South Africa",
+  "phone": "+27664662106"
+ },
+ {
+  "id": 443,
+  "name": "Quthing",
+  "Address": "277 Main St, Clarens, 9707, South Africa",
+  "phone": "+27582561875"
+ },
+ {
+  "id": 444,
+  "name": "Maseru",
+  "Address": "Golden Gate Highlands National Park, R712, Clarens, 9701, South Africa",
+  "phone": "+27680624947"
+ },
+ {
+  "id": 445,
+  "name": "Clarens Conservancy",
+  "Address": "Semonkong, Lesotho",
+  "phone": "+26627006037"
+ },
+ {
+  "id": 446,
+  "name": "Moteng Pass",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658835143"
+ },
+ {
+  "id": 447,
+  "name": "Imperani Mountain",
+  "Address": "Qeme, Ha Teko, Maseru, Lesotho",
+  "phone": "+26658772207"
+ },
+ {
+  "id": 448,
+  "name": "Tempelhof Guest \u0026 Game Farm",
+  "Address": "On the R70 between Ficksburg and Rosendal, Ficksburg, 9730, South Africa",
+  "phone": "+27519332220"
+ },
+ {
+  "id": 449,
+  "name": "Mafube Mountain Retreat",
+  "Address": "1 Hill St, Clarens, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 450,
+  "name": "CLARENS GOLF \u0026 LEISURE ESTATE",
+  "Address": "Camelroc Guest Farm, The Poplars, Farm: 199, Caledonspoort, Fouriesburg, 9725, South Africa",
+  "phone": "+27582230368"
+ },
+ {
+  "id": 451,
+  "name": "Butha Buthe",
+  "Address": "Maseru, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 452,
+  "name": "Tsikoane",
+  "Address": "R712, Golden Gate Highlands National Park, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 453,
+  "name": "Clarens townsquare",
+  "Address": "Mafeteng, Lesotho",
+  "phone": "+26628326380"
+ },
+ {
+  "id": 454,
+  "name": "Wyndford Holiday Farm",
+  "Address": "R70, Rosendal, 9720, South Africa",
+  "phone": "+27829018799"
+ },
+ {
+  "id": 455,
+  "name": "Roma",
+  "Address": "Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 456,
+  "name": "Wepener",
+  "Address": "Windmill Centre, Main Street, Clarens, 9707, South Africa",
+  "phone": "+27582561757"
+ },
+ {
+  "id": 457,
+  "name": "Glen Reenen Rest Camp and Chalets",
+  "Address": "Tip top ; Haramokhele, Mafeteng 900, Lesotho",
+  "phone": "+26658549019"
+ },
+ {
+  "id": 458,
+  "name": "JenLee's Country Shop \u0026 Kitchen",
+  "Address": "Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 459,
+  "name": "Leribe",
+  "Address": "A2 Rd,, Mafeteng, Lesotho",
+  "phone": "+26658555813"
+ },
+ {
+  "id": 460,
+  "name": "Bokong",
+  "Address": "Malealea Village, Malealea, Lesotho",
+  "phone": "+26658839646"
+ },
+ {
+  "id": 461,
+  "name": "Affi lande boetiek guestfarm , beer garden \u0026 grill, wedding venue",
+  "Address": "Main South 1, Thabaneng Mafeteng, 100, Lesotho",
+  "phone": "+26662259057"
+ },
+ {
+  "id": 462,
+  "name": "BusStop \u0026 Bergwoning Guest Farm",
+  "Address": "Ha- Lepolesa road, Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 463,
+  "name": "Butha-Buthe",
+  "Address": "Wepener road, Mafeteng, Lesotho",
+  "phone": "+26658721460"
+ },
+ {
+  "id": 464,
+  "name": "Qachas Nek",
+  "Address": "Bestervlei Valley, S-344 District Road, Fouriesburg, 9725, South Africa",
+  "phone": "+27722892827"
+ },
+ {
+  "id": 465,
+  "name": "Sterkspruit",
+  "Address": "Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 466,
+  "name": "Clocolan",
+  "Address": "1231, Mafeteng, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 467,
+  "name": "Kubung Hotel",
+  "Address": "Upper Moyeni, Sesoane Rd, Quthing 700, Lesotho",
+  "phone": "+26622750038"
+ },
+ {
+  "id": 468,
+  "name": "DIY RIGHT PRICE HARDWARE",
+  "Address": "Upper Moyeni, Quthing, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 469,
+  "name": "Quthing",
+  "Address": "Alwyns Kop, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 470,
+  "name": "Mountain View Country Inn / Lady Grey Hotel",
+  "Address": "Quthing, Mount Moorosi, Lesotho",
+  "phone": "+26650329405"
+ },
+ {
+  "id": 471,
+  "name": "Quthing",
+  "Address": "Cutting Camp, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 472,
+  "name": "Old Hoek Guest House",
+  "Address": "LOWER, Quthing, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 473,
+  "name": "Mitchells Cafe",
+  "Address": "Ha Tsepo,, Old Mohales Hoek, Lesotho",
+  "phone": "+26658883454"
+ },
+ {
+  "id": 474,
+  "name": "Shoreline Resort",
+  "Address": "36 Botha St, Lady Grey, 9755, South Africa",
+  "phone": "+27829621999"
+ },
+ {
+  "id": 475,
+  "name": "PEP Quithing Main Road",
+  "Address": "Quthing, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 476,
+  "name": "Riverside Mall",
+  "Address": "Quthing, Lesotho",
+  "phone": "+26656204242"
+ },
+ {
+  "id": 477,
+  "name": "Maseru Mall",
+  "Address": "Zastron Street, Sterkspruit, 9762, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 478,
+  "name": "Upper Moyeni (Thoteng)",
+  "Address": "Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110428"
+ },
+ {
+  "id": 479,
+  "name": "Liphakoe Rd",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622318221"
+ },
+ {
+  "id": 480,
+  "name": "Quthing",
+  "Address": "Quthing, Lesotho",
+  "phone": "+26622750257"
+ },
+ {
+  "id": 481,
+  "name": "Fuleng Guest House",
+  "Address": "Shop 1, Main Road, Quthing 700, Lesotho",
+  "phone": "+26622750489"
+ },
+ {
+  "id": 482,
+  "name": "Mountainside Hotel",
+  "Address": "Box 177, Lower Moyeni 700, Quthing, Lesotho",
+  "phone": "+26622750260"
+ },
+ {
+  "id": 483,
+  "name": "Mall of the North",
+  "Address": "R81, Bendor, Polokwane, 0699, South Africa",
+  "phone": "+27152651026"
+ },
+ {
+  "id": 484,
+  "name": "Soshanguve Crossing Mall",
+  "Address": "Shop 13, Parkies Plaza, 230 Main Road, Sterkspruit, 9762, South Africa",
+  "phone": "132309762"
+ },
+ {
+  "id": 485,
+  "name": "Standard Lesotho Bank",
+  "Address": "Shop 10, Riverside Mall, Zastron Street, Sterkspruit, Eastern Cape, 9762, South Africa",
+  "phone": "+27516110991"
+ },
+ {
+  "id": 486,
+  "name": "Leloaleng",
+  "Address": "Shop Number 2, Mashiqa Building, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27860123000"
+ },
+ {
+  "id": 487,
+  "name": "Jubilee Mall",
+  "Address": "Sterkspruit Plaza, Shop 45 Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27510117910"
+ },
+ {
+  "id": 488,
+  "name": "Jumbo Parkies Plaza",
+  "Address": "Van Tonder St Erf 89, Sterkspruit, 9762, South Africa",
+  "phone": "+27510040115"
+ },
+ {
+  "id": 489,
+  "name": "Ackermans Sterkspruit Plaza",
+  "Address": "R392, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110154"
+ },
+ {
+  "id": 490,
+  "name": "Quthing",
+  "Address": "Shop 56A, Plaza, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27861235664"
+ },
+ {
+  "id": 491,
+  "name": "Tekkie Town Sterkspruit Plaza",
+  "Address": "Shop 7B Boxer Centre, Main Road, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110581"
+ },
+ {
+  "id": 492,
+  "name": "Vic Clothing",
+  "Address": "Shop 45 Sterkspruit Plaza, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27510117909"
+ },
+ {
+  "id": 493,
+  "name": "PEP Sterkspruit Parkies Plaza",
+  "Address": "GLS Mehlomakulu Building, Main Street, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110050"
+ },
+ {
+  "id": 494,
+  "name": "Street Fever Sterkspruit Plaza",
+  "Address": "Parkies Plaza, Shop 21B Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27860102043"
+ },
+ {
+  "id": 495,
+  "name": "PEP Cell Sterkspruit Parkies Plaza",
+  "Address": "Cnr Zastron \u0026 Voyizana, Roads, Sterkspruit, 9762, South Africa",
+  "phone": "+27516112901"
+ },
+ {
+  "id": 496,
+  "name": "Studio 88",
+  "Address": "Parkies Plaza, 230 Main Rd, Pambili, Sterkspruit, 9762, South Africa",
+  "phone": "+27516118000"
+ },
+ {
+  "id": 497,
+  "name": "Ackermans Sterkspruit",
+  "Address": "Shop 54, Plaza, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27440010452"
+ },
+ {
+  "id": 498,
+  "name": "Lesotho Mountain Crafts",
+  "Address": "Plaza, Cnr Zastron \u0026 Herschel Rd Sterkspruit, Sterkspruit, 9762, South Africa",
+  "phone": "+27860999119"
+ },
+ {
+  "id": 499,
+  "name": "Ben DStv shop",
+  "Address": "60 Main Rd Shop 2, Boxer Shopping Centre, Erf 1316, Sterkspruit, 9762, South Africa",
+  "phone": "60213169762"
+ },
+ {
+  "id": 500,
+  "name": "Mr Price Sterkspruit",
+  "Address": "Shop 1, Parkies Plaza, 230 Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "12309762"
+ },
+ {
+  "id": 501,
+  "name": "Clicks Pharmacy Sterkspruit",
+  "Address": "Shop 1 Riverside Mall, 63 Zastron Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110370"
+ },
+ {
+  "id": 502,
+  "name": "Exact - Sterkspruit",
+  "Address": "3625 Shaganappi Trail NW, Calgary, AB T3A 0E2, Canada",
+  "phone": "+14032885466"
+ },
+ {
+  "id": 503,
+  "name": "PEP Sterkspruit",
+  "Address": "Shop 55, Sterkspruit Plaza Umlami Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27101331855"
+ },
+ {
+  "id": 504,
+  "name": "Umendo Pharmacy",
+  "Address": "SHOP 9 STERKSPRUIT PLAZA, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516118090"
+ },
+ {
+  "id": 505,
+  "name": "Sleepmasters Sterkspruit",
+  "Address": "Shop 56, Parkies Plaza 230 Umlani Road, Sterkspruit, 9762, South Africa",
+  "phone": "562309762"
+ },
+ {
+  "id": 506,
+  "name": "Sterkspruit 2 Boxer Superstores",
+  "Address": "Shop 40, Plaza, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27871090740"
+ },
+ {
+  "id": 507,
+  "name": "Makhetheng",
+  "Address": "Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110167"
+ },
+ {
+  "id": 508,
+  "name": "Jet STERKSPRUIT",
+  "Address": "Shop 7, Sterkspruit Plaza, Umlamli Road, Sterkspruit, 9762, South Africa",
+  "phone": "+27826904087"
+ },
+ {
+  "id": 509,
+  "name": "Queen Motor Spares",
+  "Address": "Shop 3, Mather Mall Main Road, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110297"
+ },
+ {
+  "id": 510,
+  "name": "Bradlows Sterkspruit",
+  "Address": "Shop 11 Parkies Plaza, Site No 230 - Umlamli Road, Karoo, Sterkspruit, 9792, South Africa",
+  "phone": "112309792"
+ },
+ {
+  "id": 511,
+  "name": "OK Furniture Sterkspruit",
+  "Address": "Zastron road street, Sterkspruit, 9762, South Africa",
+  "phone": "+27789819948"
+ },
+ {
+  "id": 512,
+  "name": "Lewis Sterkspruit",
+  "Address": "Shop 12 Parkies Plaza, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110732"
+ },
+ {
+  "id": 513,
+  "name": "CF Market Mall",
+  "Address": "Teyateyaneng, Lesotho",
+  "phone": "+27832553626"
+ },
+ {
+  "id": 514,
+  "name": "Best Home \u0026 Electric Sterkspruit",
+  "Address": "Shop 7, Plaza, Main Rd, Sterkspruit, Wittenberg, 9762, South Africa",
+  "phone": "+27516110062"
+ },
+ {
+  "id": 515,
+  "name": "TymeBank Kiosk Boxer Superstore Sterkspruit 2",
+  "Address": "Shop 1 Mather Mall, Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110394"
+ },
+ {
+  "id": 516,
+  "name": "Shoprite LiquorShop Sterkspruit",
+  "Address": "Shop 6 Parkies Plaza, 230 Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "62309762"
+ },
+ {
+  "id": 517,
+  "name": "OBC Chicken and Meat Sterkspruit",
+  "Address": "Shop 50, Sterkspruit Plaza, Umlami Road, Sterkspruit, 9762, South Africa",
+  "phone": "+27510230011"
+ },
+ {
+  "id": 518,
+  "name": "Assupol Sterkspruit",
+  "Address": "Shop 21, Parkies Plaza Umlani Road, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110421"
+ },
+ {
+  "id": 519,
+  "name": "Debonairs Pizza",
+  "Address": "Plaza, Shop 46, Sterkspruit, Sterkspruit, 9762, South Africa",
+  "phone": "+27516531718"
+ },
+ {
+  "id": 520,
+  "name": "PEP Sterkspruit Zastron Street",
+  "Address": "Parkies Plaza - Shop, 2 Main Rd, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110438"
+ },
+ {
+  "id": 521,
+  "name": "Russells Sterkspruit",
+  "Address": "Shop 21, Parkies Plaza Umlani Road, Sterkspruit, 9762, South Africa",
+  "phone": "+27118500000"
+ },
+ {
+  "id": 522,
+  "name": "AutoZone Sterkspruit",
+  "Address": "Shop 53 Sterkspruit Plaza Umlami Road, Sterkspruit, 9762, South Africa",
+  "phone": "+27586229006"
+ },
+ {
+  "id": 523,
+  "name": "Steers",
+  "Address": "Shop 4 Parkies Plaza, Sterkspruit, 9762, South Africa",
+  "phone": "+27516110404"
+ },
+ {
+  "id": 524,
+  "name": "Build it Sterkspruit",
+  "Address": "Quthing, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 525,
+  "name": "Standard Bank | Sterkspruit Service Centre",
+  "Address": "Liphakoe Rd., Quthing, Lesotho",
+  "phone": "+26622750288"
+ },
+ {
+  "id": 526,
+  "name": "BUCO Sterkspruit",
+  "Address": "Jubilee Road, Hammanskraal, 0400, South Africa",
+  "phone": "+27127271241"
+ },
+ {
+  "id": 527,
+  "name": "Hungry Lion Sterkspruit",
+  "Address": "Corner Ruth First Road \u0026, Aubrey Matlakala St, Soshanguve, 0164, South Africa",
+  "phone": ""
+ },
+ {
+  "id": 528,
+  "name": "Gates of Paradise Pass",
+  "Address": "Maseru, Lesotho",
+  "phone": "+26622312238"
+ },
+ {
+  "id": 529,
+  "name": "Quthing",
+  "Address": "Qachas Nek, Lesotho",
+  "phone": "+26653301880"
+ },
+ {
+  "id": 530,
+  "name": "The Lion Rock Mountain",
+  "Address": "Khukhune, Lesotho",
+  "phone": "+26622460723"
+ },
+ {
+  "id": 531,
+  "name": "Liphofung Cave",
+  "Address": "Unnamed Road, Blue Gums, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 532,
+  "name": "Thaba Bosiu Cultural Village",
+  "Address": "30°18'35.3\"S 28°09'54.3\"E, Lesotho Sun Rd, Maseru, Lesotho",
+  "phone": "30183532809543"
+ },
+ {
+  "id": 533,
+  "name": "Qacha's Nek Snake Park",
+  "Address": "Motloang, Lesotho",
+  "phone": "+26627021962"
+ },
+ {
+  "id": 534,
+  "name": "Seaka Bridge",
+  "Address": "Unnamed Road, Lesotho, Malealea, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 535,
+  "name": "Quthing",
+  "Address": "Masitise, Lesotho",
+  "phone": ""
+ },
+ {
+  "id": 536,
+  "name": "Katse Dam Botanical Gardens \u0026 Nursery",
+  "Address": "Unnamed Road, Mateka, Lesotho",
+  "phone": "+26658547673"
+ },
+ {
+  "id": 537,
+  "name": "Tiffindell Ski Resort",
+  "Address": "Unnamed Road, Lesotho, Bokong, Lesotho",
+  "phone": "+26622910315"
+ },
+ {
+  "id": 538,
+  "name": "Sehlabathebe National Park",
+  "Address": "Church street Box 12, Morija 190, Lesotho",
+  "phone": "+26622360308"
+ },
+ {
+  "id": 539,
+  "name": "Kome Caves",
+  "Address": "Sehlabathebe, Lesotho",
+  "phone": "+26663821103"
+ },
+ {
+  "id": 540,
+  "name": "Masitise",
+  "Address": "Tiffindell Farm, Barkly East, 9786, South Africa",
+  "phone": "+27117812620"
+ }
 ]

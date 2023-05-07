@@ -1,1642 +1,2042 @@
 [
-  {
-    "name": "Soluxe Hotel Niamey",
-    "address": "Gourma Blvd, Niamey, Niger",
-    "phone": "+22796973564"
-  },
-  {
-    "name": "Hotel Tenere",
-    "address": "Niamey, Niger",
-    "phone": "+22720732020"
-  },
-  {
-    "name": "Radisson Blu Hotel & Conference Center, Niamey",
-    "address": "Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22723231111"
-  },
-  {
-    "name": "Bravia Hotel Niamey",
-    "address": "Avenue of Africa, N°1100, Niamey, Niger",
-    "phone": "+22720332222"
-  },
-  {
-    "name": "Noom Hotel Niamey",
-    "address": "Niamey, Niger",
-    "phone": "+22720732692"
-  },
-  {
-    "name": "Hotel Tenere",
-    "address": "Avenue of Africa, N°1100, Niamey, Niger",
-    "phone": "+22720332222"
-  },
-  {
-    "name": "Soluxe Hotel Niamey",
-    "address": "Niamey, Niger",
-    "phone": "+22720732020"
-  },
-  {
-    "name": "Hotel Terminus",
-    "address": "8000 Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22782811218"
-  },
-  {
-    "name": "Niamey Mall & residence",
-    "address": "Direction Générale de la Douane, Avenue de l’Uranium, Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22723023030"
-  },
-  {
-    "name": "Niger Soluxe Hotel",
-    "address": "Quartier Kamedoria, Tillabéri, Niger",
-    "phone": "+22720711320"
-  },
-  {
-    "name": "Les Collines",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Homeland Hotel",
-    "address": "Derriere le Ceg Yantala, Plateau, Niger",
-    "phone": null
-  },
-  {
-    "name": "Le Lézard Vert, Maison d’Affair à Niamey",
-    "address": "166, rue Koara Kano, Sonuci, Goudel, Niger",
-    "phone": null
-  },
-  {
-    "name": "Koira Kano Appartements",
-    "address": "9 Quartier Chateau, Deizeibon, Niger",
-    "phone": null
-  },
-  {
-    "name": "Grand Hôtel du Niger",
-    "address": "B.P. 11 444 Niamey - Quartier Koubya - route Tillabéry, Niamey, Niger",
-    "phone": "+22790104595"
-  },
-  {
-    "name": "Hôtel Gaweye",
-    "address": "Niger, Niamey, 256 rue du grand hotel quartier terminus",
-    "phone": "+22796842282"
-  },
-  {
-    "name": "HOTEL DU CENTRE",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Hotel Sahel",
-    "address": "Rue Maurice Delense Quartier Plateau, Plateau, Niger",
-    "phone": null
-  },
-  {
-    "name": "Oasis Hotel",
-    "address": "Quartier Terminus, Gaweye, Niger",
-    "phone": null
-  },
-  {
-    "name": "Fayel Appart-Hôtel",
-    "address": "Unnamed Road, Niamey, Niger",
-    "phone": "+22720350107"
-  },
-  {
-    "name": "Nikki Hotel",
-    "address": "Niamey, Niger",
-    "phone": "+22720733876"
-  },
-  {
-    "name": "Royal Palace Hotel",
-    "address": "Corniche Yantala route du barrage de Goudel BP855, Niamey, Niamey, Niger",
-    "phone": "+22720723883"
-  },
-  {
-    "name": "Hôtel Dalia",
-    "address": "Niamey Deuxi me Arrondissement, Niamey, Niger",
-    "phone": "+22790358533"
-  },
-  {
-    "name": "Auberge Koirakano",
-    "address": "Quartier Koirakano Boulevard Askia Mohamed, Niamey, Niger",
-    "phone": "+22780394564"
-  },
-  {
-    "name": "Djoliba Lodge",
-    "address": "Niamey, Niger",
-    "phone": "+22720351693"
-  },
-  {
-    "name": "Hotel Résidence Saha Land",
-    "address": "Niamey, Niger",
-    "phone": "+22785537854"
-  },
-  {
-    "name": "River Side Résidence Hôtel",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": "+22720752775"
-  },
-  {
-    "name": "HOTEL LE CAPITOLE",
-    "address": "Niamey, Niger",
-    "phone": "+22720374868"
-  },
-  {
-    "name": "Residence Rue Du Sahel",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": "+22720752775"
-  },
-  {
-    "name": "Residence Kawarem",
-    "address": "Niamey, Niger",
-    "phone": "+22720732431"
-  },
-  {
-    "name": "Hôtel domo",
-    "address": "Niamey, Niger",
-    "phone": "+22720732152"
-  },
-  {
-    "name": "Hotel Venise",
-    "address": "Pharmacie Goudel, Alimentation Mamouchka, 1425, Niger",
-    "phone": "+22720723138"
-  },
-  {
-    "name": "O2 lodge",
-    "address": "Boulevard Askia Mohamed, Niamey, Niger",
-    "phone": "+22797143939"
-  },
-  {
-    "name": "Hotel le Relaxe",
-    "address": "Niamey, Niger",
-    "phone": "+22720722710"
-  },
-  {
-    "name": "Hotel Chateaulet",
-    "address": "H46P+6G3 Cnaf Construction, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Hotel Le Palmier",
-    "address": "Quartier, Niamey, Niger",
-    "phone": "+22720723282"
-  },
-  {
-    "name": "bravia",
-    "address": "Route Torodi Niamey NIM, Niamey, Niger",
-    "phone": "+22721361230"
-  },
-  {
-    "name": "Hotel La Girafe",
-    "address": "1100 Ave de l'Africa, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "ALMINA Restaurant",
-    "address": "Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22723231111"
-  },
-  {
-    "name": "L'assiette DAKAR",
-    "address": "Niamey, Niger",
-    "phone": "+22791553890"
-  },
-  {
-    "name": "Côté Jardin",
-    "address": "Bd du Zarmaganda, Niamey, Niger",
-    "phone": "+22788668020"
-  },
-  {
-    "name": "The Pillar Restaurant",
-    "address": "Niamey, Niger",
-    "phone": "+22720351111"
-  },
-  {
-    "name": "Amandine",
-    "address": "rue de la tapoa, Niamey, Niger",
-    "phone": "+22720724985"
-  },
-  {
-    "name": "Restaurant la Rose",
-    "address": "Route du barrage de Goudel, - BP11816, - Niamey, Niger",
-    "phone": "+22780091111"
-  },
-  {
-    "name": "Cap Banga",
-    "address": "Niamey, Niger",
-    "phone": "+22780040509"
-  },
-  {
-    "name": "La Cabane",
-    "address": "Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22723231111"
-  },
-  {
-    "name": "UMI Hai",
-    "address": "Recasement, Niamey, Niger",
-    "phone": "+22788504040"
-  },
-  {
-    "name": "Restaurant Dragon D'or Niamey",
-    "address": "Union européenne, Niamey près Délégation, Niamey, Niger",
-    "phone": "+22792898256"
-  },
-  {
-    "name": "Restaurant Chez Sunny",
-    "address": "Niamey, Niger",
-    "phone": "+22798889888"
-  },
-  {
-    "name": "Zaxi Rooftop Lounge & Bar",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Aladdin's resto libanais",
-    "address": "705 Av. de Djermakoye, Niamey, Niger",
-    "phone": "+22788404050"
-  },
-  {
-    "name": "Maquis 2000",
-    "address": "Unnamed Road, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Niamey Pizza",
-    "address": "RN6, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Burgerillo",
-    "address": "Niamey, Niger",
-    "phone": "+22796476767"
-  },
-  {
-    "name": "RESTAURANT LA TERRASSE",
-    "address": "Av. de Djermakoye, Niamey, Niger",
-    "phone": "+22792353575"
-  },
-  {
-    "name": "Malabar",
-    "address": "11003, Niamey 8001, Niger",
-    "phone": "110038001"
-  },
-  {
-    "name": "Restaurant 3 Epices",
-    "address": "Niamey, Niger",
-    "phone": "+22791591174"
-  },
-  { "name": "Belissimo", "address": "Niamey, Niger", "phone": null },
-  {
-    "name": "Complexe Le Mafé",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Royal Grill",
-    "address": "Unnamed Road, Niamey, Niger",
-    "phone": "+22789820002"
-  },
-  {
-    "name": "Diamangou",
-    "address": "Niamey, Niger",
-    "phone": "+22796963079"
-  },
-  {
-    "name": "Restaurant Ile de Goree",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Marrakech",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  { "name": "Nora Food", "address": "Niamey, Niger", "phone": null },
-  {
-    "name": "Restaurant MASAKI",
-    "address": "Niamey, Niger",
-    "phone": "+22796762727"
-  },
-  {
-    "name": "Nouveau PAPAYO",
-    "address": "Boulevard de la Liberté, Niamey, Niger",
-    "phone": "+22790231705"
-  },
-  {
-    "name": "Vip Boulevard",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Niamey à Midi",
-    "address": "Quartier Plateau, Bravia Hotel Niamey, Cases Allemandes, Niamey 8001, Niger",
-    "phone": "+22788147572"
-  },
-  {
-    "name": "Maquis Doré",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "FINISTERE",
-    "address": "Niamey, Niger",
-    "phone": "+22790424508"
-  },
-  {
-    "name": "Colline Plus",
-    "address": "10349 Niamey, Niamey, Niger",
-    "phone": "+22788149822"
-  },
-  {
-    "name": "Le SHERIFFIEN",
-    "address": "Recasement, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Byblos",
-    "address": "Niamey, Niger",
-    "phone": "+22799880050"
-  },
-  {
-    "name": "Maquis du centre chez madame PAUL",
-    "address": "Niamey, Niger",
-    "phone": "+22791760978"
-  },
-  {
-    "name": "Restaurant Hadjia Fanta",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": null
-  },
-  { "name": "Fofo Taco", "address": "Niamey, Niger", "phone": null },
-  {
-    "name": "Kabani",
-    "address": "Ave de l'Africa, Niamey, Niger",
-    "phone": "+22796504537"
-  },
-  {
-    "name": "Restaurant Sougrinoma",
-    "address": "Avenue de Djermakoye, Av. de Djermakoye, Niamey, Niger",
-    "phone": null
-  },
-  { "name": "Mujé-Resto", "address": "Niamey, Niger", "phone": null },
-  {
-    "name": "Golden Food",
-    "address": "Niamey, Niger",
-    "phone": "+22790003800"
-  },
-  {
-    "name": "PIZZA CLUB FONDAKAYAN",
-    "address": "Boulevard de la Republique, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Cafe Resto La Bonne Pioche",
-    "address": "Niamey, Niger",
-    "phone": "+22789125606"
-  },
-  {
-    "name": "Restaurant Chez Clarisse",
-    "address": "Orange MB, Niamey, Niger",
-    "phone": "+22792123016"
-  },
-  {
-    "name": "Restaurant Le Baobab",
-    "address": "Av. de la Mairie, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "NAMASTE INDIA Niger",
-    "address": "Niamey, Niger",
-    "phone": "+22791954748"
-  },
-  {
-    "name": "Restaurant Vice versa",
-    "address": "Unnamed Road, Niamey, Niger",
-    "phone": "+22796474577"
-  },
-  {
-    "name": "Restaurant gourmand",
-    "address": "Niamey, Niger",
-    "phone": "+22792283529"
-  },
-  {
-    "name": "Restaurant Le Festin Chez Saly",
-    "address": "G45M+V58 Lycée Mariama, Niamey, Niger",
-    "phone": "+22792806081"
-  },
-  {
-    "name": "Carthage Restaurant",
-    "address": "Niamey, Niger",
-    "phone": "+22790133776"
-  },
-  {
-    "name": "Restaurant La Gaiete",
-    "address": "Niamey, Niger",
-    "phone": "+22798239759"
-  },
-  {
-    "name": "Pyramides",
-    "address": "Niamey, Niger",
-    "phone": "+22795884319"
-  },
-  {
-    "name": "Restaurant Arc-en-ciel",
-    "address": "Maurice delens, Niamey, Niger",
-    "phone": "+22780101045"
-  },
-  {
-    "name": "Divine restaurant",
-    "address": "Niamey, Niger",
-    "phone": "+22791956290"
-  },
-  {
-    "name": "Bab Salam Maurice Delens",
-    "address": "Niamey, Niger",
-    "phone": "+22796507711"
-  },
-  {
-    "name": "Restaurant A&S Battara",
-    "address": "Niamey, Niger",
-    "phone": "+22796633641"
-  },
-  {
-    "name": "Terre de Passion",
-    "address": "RN1, Niamey, Niger",
-    "phone": "+22780696449"
-  },
-  {
-    "name": "Restaurant ALHAMDOULILLAH",
-    "address": "Niamey, Niger",
-    "phone": "+22794888679"
-  },
-  {
-    "name": "Restaurant UAM",
-    "address": "Niamey, Niger",
-    "phone": "+22791555515"
-  },
-  {
-    "name": "Restaurant O'CAFE",
-    "address": "Université Abdou Moumouni de Niamey, Niamey, Niger",
-    "phone": "+22790305255"
-  },
-  {
-    "name": "Le Toulousain",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Chez Caro-Restaurant",
-    "address": "RN6, Niamey, Niger",
-    "phone": "+22790069956"
-  },
-  {
-    "name": "Restaurant",
-    "address": "Kalley-amirou, Niamey, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Africa Hall",
-    "address": "Niamey, Niger",
-    "phone": "+22790811352"
-  },
-  {
-    "name": "The Goût Unique",
-    "address": "N1, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant sénégalais la teranga",
-    "address": "Niamey, Niger",
-    "phone": "+22797359546"
-  },
-  {
-    "name": "attiéké-thon-fumé APF Chez Samychou",
-    "address": "Niamey, Niger",
-    "phone": "+22784109467"
-  },
-  {
-    "name": "Nims and Rice",
-    "address": "Unnamed Road,, Niamey, Niger",
-    "phone": "+22791738420"
-  },
-  {
-    "name": "LEGEND RESTO LOUNGE",
-    "address": "Bd du Zarmaganda, Niamey, Niger",
-    "phone": "+22796298689"
-  },
-  {
-    "name": "Restaurant Koubeyni",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Les retrouvailles",
-    "address": "Rue KK46, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "restaurant Alfari",
-    "address": "Niamey, Niger",
-    "phone": "+22791999991"
-  },
-  {
-    "name": "ALDIOUMA TRAITEUR",
-    "address": "Niamey, Niger",
-    "phone": "+22720722909"
-  },
-  {
-    "name": "TASTE OF TANDOOR & INDIAN MULTI CUISINE RESTAURANT NIGER",
-    "address": "Opp. Ola Station, Boulevard Mali Bero, Niamey 4000, Niger",
-    "phone": "+22788601560"
-  },
-  {
-    "name": "Parc d’Agrema",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": "+22797086868"
-  },
-  {
-    "name": "Nado Établissement",
-    "address": "Niamey, Niger",
-    "phone": "+22793865486"
-  },
-  {
-    "name": "Restoran Galaxy",
-    "address": "Niamey, Niger",
-    "phone": "+22794272764"
-  },
-  {
-    "name": "La Terrasse",
-    "address": "AVENUE DE LA, Niamey, Niger",
-    "phone": "+22796539313"
-  },
-  {
-    "name": "Restaurant de Fac de lettres",
-    "address": "Niamey, Niger",
-    "phone": "+22792801108"
-  },
-  {
-    "name": "La couronne",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": "+22798757073"
-  },
-  {
-    "name": "Restaurant cordon bleu",
-    "address": "Niamey, Niger",
-    "phone": "+22796124207"
-  },
-  {
-    "name": "Restaurant Gosen",
-    "address": "Niamey, Niger",
-    "phone": "+22790194923"
-  },
-  {
-    "name": "Le H24",
-    "address": "Niamey, Niger",
-    "phone": "+22790940405"
-  },
-  {
-    "name": "M'bolo Restaurant",
-    "address": "Boulevard de l'Independance, Niamey, Niger",
-    "phone": "+22798123456"
-  },
-  {
-    "name": "RESTAURANT AFRO GOURMAND",
-    "address": "Niamey, Niger",
-    "phone": "+22720735556"
-  },
-  {
-    "name": "Vendeuse de frites",
-    "address": "RN27, Niamey, Niger",
-    "phone": "+22796857471"
-  },
-  {
-    "name": "SEIF MALL",
-    "address": "quartier francophonie, Niamey, Niger",
-    "phone": "+22791116969"
-  },
-  {
-    "name": "Marché Européen",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": "+22792808216"
-  },
-  {
-    "name": "Ferrail Niamey",
-    "address": "Niamey, Niger",
-    "phone": "+22797024343"
-  },
-  {
-    "name": "A.C.S Business Center",
-    "address": "Bd du Zarmaganda, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Village artisanal Ibrahim Moussa",
-    "address": "Unnamed Road, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Diallo bizness center",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "TITACOM business Center",
-    "address": "Niamey, Niger",
-    "phone": "+22790400351"
-  },
-  {
-    "name": "Orange Niger Company",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "TITACOM business Center",
-    "address": "Niamey, Niger",
-    "phone": "+22792915313"
-  },
-  {
-    "name": "Mobiland",
-    "address": "abdoul098fatt@gmail.com, Niamey, Niger",
-    "phone": "+22791893433"
-  },
-  {
-    "name": "Baby Shop annexe 1",
-    "address": "Av. de Djermakoye, Niamey, Niger",
-    "phone": "+22720353520"
-  },
-  {
-    "name": "Pharmacie Bonkaney",
-    "address": "Niamey, Niger",
-    "phone": "+22797101887"
-  },
-  {
-    "name": "ETS SALEY ET FILS",
-    "address": "Niamey, Niger",
-    "phone": "+22793723332"
-  },
-  {
-    "name": "Niamey Mall & residence",
-    "address": "Niamey, Niger",
-    "phone": "+22790789442"
-  },
-  {
-    "name": "GODIYA Business Center",
-    "address": "Niamey, Niger",
-    "phone": "+22720733958"
-  },
-  {
-    "name": "Grand Market Niamey",
-    "address": "Niamey, Niger",
-    "phone": "+22796521352"
-  },
-  {
-    "name": "SOFIANI APPLE CENTER",
-    "address": "8000 Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22782811218"
-  },
-  {
-    "name": "Market Katako",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Score Groceries",
-    "address": "Unnamed Road, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Ado Boutique",
-    "address": "Niamey, Niger",
-    "phone": "+22796622626"
-  },
-  {
-    "name": "Dépôt SPC Niamey",
-    "address": "e Niamey, Niamey, Niger",
-    "phone": "+22780323214"
-  },
-  {
-    "name": "Saya Business Center NIAMEY NIGER",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Global trade center",
-    "address": "Niamey, Niger",
-    "phone": "+22784316080"
-  },
-  { "name": "CFPM Taya", "address": "Niamey, Niger", "phone": null },
-  {
-    "name": "Boubou Hama National Museum",
-    "address": "Avenue, Niamey 8004, Niger",
-    "phone": "+22781835697"
-  },
-  { "name": "Plage UNGS", "address": "Niamey, Niger", "phone": null },
-  {
-    "name": "Our Lady of Perpertual Help Cathedral",
-    "address": "Niamey Ungs, Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "Grand Market Niamey",
-    "address": "Niamey, Niger",
-    "phone": null
-  },
-  {
-    "name": "CanalOlympia Hippodrome",
-    "address": "Niamey, Niger",
-    "phone": "+22795124288"
-  },
-  {
-    "name": "FERME YOUYOU",
-    "address": "Bod de la Republique Republique Boulevard de la Republique, Niamey, Niger",
-    "phone": "+22720734321"
-  },
-  {
-    "name": "Niamey Urban Community",
-    "address": "e Niamey, Niamey, Niger",
-    "phone": "+22780323214"
-  },
-  {
-    "name": "Niamey",
-    "address": "Niamey, Niger",
-    "phone": "+22790829843"
-  },
-  {
-    "name": "Diori Hamani International Airport",
-    "address": "Niamey, Niger",
-    "phone": "+22791834970"
-  },
-  {
-    "name": "W National Park Benin",
-    "address": "Niamey, Niger",
-    "phone": "+22720732692"
-  },
-  {
-    "name": "The Pillar Restaurant",
-    "address": "Niamey, Niger",
-    "phone": "+22720732152"
-  },
-  {
-    "name": "Cap Banga",
-    "address": "Route Torodi Niamey NIM, Niamey, Niger",
-    "phone": "+22721361230"
-  },
-  {
-    "name": "Bab Salam Maurice Delens",
-    "address": "Niamey, Niger",
-    "phone": "+22720732152"
-  },
-  {
-    "name": "Koure",
-    "address": "Niamey, Niger",
-    "phone": "+22720726035"
-  },
-  {
-    "name": "Grand Hôtel du Niger",
-    "address": "Niamey, Niger",
-    "phone": "+22791954748"
-  },
-  {
-    "name": "Les Collines",
-    "address": "Route du barrage de Goudel, - BP11816, - Niamey, Niger",
-    "phone": "+22780091111"
-  },
-  {
-    "name": "CENTRE NIGERIEN DE PROMOTION TOURISTIQUE",
-    "address": "rue de la tapoa, Niamey, Niger",
-    "phone": "+22720724985"
-  },
-  {
-    "name": "Bravia Hotel Niamey",
-    "address": "Niamey, Niger",
-    "phone": "+22780241414"
-  },
-  {
-    "name": "Hotel General Zinder",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "GAMZAKI DE ZINDER",
-    "address": "Unnamed Rd,, Zinder, Niger",
-    "phone": "+22796492108"
-  },
-  {
-    "name": "Hôtel Bagazam",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Hotel kouran daga",
-    "address": "Unnamed Road, Zinder, Niger",
-    "phone": "+22797902049"
-  },
-  {
-    "name": "hôtel central",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Hotel de Ville",
-    "address": "Zinder, Niger",
-    "phone": "+22796932020"
-  },
-  {
-    "name": "Hôtel Royal",
-    "address": "Zinder, Niger",
-    "phone": "+22799971625"
-  },
-  {
-    "name": "Chougaba@com",
-    "address": "Unnamed Road, Zinder, Niger",
-    "phone": "+22720510640"
-  },
-  {
-    "name": "Auerge Red House",
-    "address": "RN11, Zinder, Niger",
-    "phone": "+22789624664"
-  },
-  {
-    "name": "Hotel Birni House",
-    "address": "Mary Rd, Zinder, Niger",
-    "phone": "+22720512702"
-  },
-  {
-    "name": "Auberge Zindirma",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Villa rouge",
-    "address": "Kouran Daga, Zinder, Niger",
-    "phone": "+22796404422"
-  },
-  {
-    "name": "Djikaloji",
-    "address": "Zinder, Niger",
-    "phone": "+22796174410"
-  },
-  {
-    "name": "Hotel Kuran Dàga",
-    "address": "Zinder, Niger",
-    "phone": "+22796492108"
-  },
-  {
-    "name": "MOURNA",
-    "address": "Zinder, Niger",
-    "phone": "+22796115081"
-  },
-  {
-    "name": "Restaurant Pension SA'",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  { "name": "NUSNAN", "address": "Zinder, Niger", "phone": null },
-  {
-    "name": "Gounga restaurant",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant aboussa",
-    "address": "RX7J+729 N'wala, Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant El NIIMA",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Fatoumata",
-    "address": "Zinder, Niger",
-    "phone": "+22796617421"
-  },
-  {
-    "name": "Pension SA'A Zinder",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Le régal",
-    "address": "Zinder, Niger",
-    "phone": "+22796525025"
-  },
-  {
-    "name": "Restaurant NESKA",
-    "address": "QXFJ+HHW Aéroport international de, Zinder, Niger",
-    "phone": "+22797870008"
-  },
-  {
-    "name": "Restaurant Fast food hight class",
-    "address": "Zinder, Niger",
-    "phone": "+22796582447"
-  },
-  {
-    "name": "Restaurant Lyafa",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Poêle d'or zinder,magaria,bandé,matamaye,dungas",
-    "address": "Zinder, Niger",
-    "phone": "+22792303877"
-  },
-  {
-    "name": "Manman lanwan",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "abdousaadou",
-    "address": "dernière Darido, Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurants alhamdoulilahi",
-    "address": "Zinder, Niger",
-    "phone": "+2348089519852"
-  },
-  {
-    "name": "Hotel Kuran Dàga",
-    "address": "Zinder, Niger",
-    "phone": "+22789491450"
-  },
-  {
-    "name": "Mohamed Abdourahamane",
-    "address": "RN1, Zinder, Niger",
-    "phone": "+22789025045"
-  },
-  {
-    "name": "Hotel Birni House",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Resto foyer Gendarmerie",
-    "address": "Mary Rd, Zinder, Niger",
-    "phone": "+22720512702"
-  },
-  {
-    "name": "SAMINOU MATI",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Sultanat des saveurs",
-    "address": "Zinder, Niger",
-    "phone": "+22790776262"
-  },
-  {
-    "name": "Jardin Cactus",
-    "address": "Zinder, Niger",
-    "phone": null
-  },
-  {
-    "name": "Mountaka Maï Waké",
-    "address": "Zinder, Niger",
-    "phone": "+22796115081"
-  },
-  {
-    "name": "FERME AVICOLE WADATA",
-    "address": "RN11, Zinder, Niger",
-    "phone": "+22798761862"
-  },
-  { "name": "Koleram", "address": "Zinder, Niger", "phone": null },
-  {
-    "name": "Panorama Business Center",
-    "address": "RN11, Zinder, Niger",
-    "phone": "+22791121112"
-  },
-  {
-    "name": "Damagaram Haraka Centre",
-    "address": "RN1, Zinder, Niger",
-    "phone": "+22796621113"
-  },
-  {
-    "name": "HÔTEL HORIZON - MARADI",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "GUEST HOUSE",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Le Prestige Hotel Maradi Ville",
-    "address": "Maradi, Niger",
-    "phone": "+22796273404"
-  },
-  {
-    "name": "Jangorzo",
-    "address": "Hôtel Alheri, Maradi, Niger",
-    "phone": "+22792437474"
-  },
-  {
-    "name": "Hôtel Larewa",
-    "address": "Maradi, Niger",
-    "phone": "+22720410787"
-  },
-  {
-    "name": "Hôtels gao hausse maradi",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  { "name": "Soura", "address": "Maradi, Niger", "phone": null },
-  {
-    "name": "Ets Sani Gonda Abdoulkader",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Résidence Mourna",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": "+22720411622"
-  },
-  {
-    "name": "Maraké Saboua",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": "+22796041966"
-  },
-  {
-    "name": "Hôtel manding",
-    "address": "Maradi Ads, 2456, Niger",
-    "phone": "+22796974626"
-  },
-  {
-    "name": "Auberge La Référence",
-    "address": "Maradi, Niger",
-    "phone": "+22796571381"
-  },
-  {
-    "name": "Hotel Alheri Maradi2",
-    "address": "www: hôtelmanding com, RN9, Maradi, Niger",
-    "phone": "+22797921616"
-  },
-  {
-    "name": "Prince tambari",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "KSG Plaza",
-    "address": "Bp 227, Maradi, Niger",
-    "phone": "+22795550000"
-  },
-  {
-    "name": "Hôtel du sahel",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Eden",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Fara’a",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": "+22796041966"
-  },
-  {
-    "name": "ROSARIO",
-    "address": "Maradi, Niger",
-    "phone": "+22796778480"
-  },
-  { "name": "KSG Plaza", "address": "Maradi, Niger", "phone": null },
-  {
-    "name": "Restaurant Madougoi",
-    "address": "Maradi, Niger",
-    "phone": "+22789990000"
-  },
-  {
-    "name": "Moussa Ahmed",
-    "address": "RN9, Maradi, Niger",
-    "phone": "+22796971228"
-  },
-  {
-    "name": "Restaurant La Teranga",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": "+2348083541253"
-  },
-  {
-    "name": "Boulangerie La Mosquee",
-    "address": "Maradi, Niger",
-    "phone": "+22790760198"
-  },
-  {
-    "name": "Palace Air",
-    "address": "Maradi, Niger",
-    "phone": "+22798998988"
-  },
-  {
-    "name": "Restaurant Café Le Sahel",
-    "address": "Maradi, Niger",
-    "phone": "+22791757530"
-  },
-  {
-    "name": "Niger",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Mai Zabi",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant cheik jafar",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": "+22797003071"
-  },
-  {
-    "name": "Restaurant cheik jafar",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant maquis amazone",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Groupe ROYAL VIP",
-    "address": "Rue de hôpital de référence, Ads, Niger",
-    "phone": null
-  },
-  {
-    "name": "Meilleur Viande de Moutons griée",
-    "address": "Maradi, Niger",
-    "phone": "+22790652263"
-  },
-  { "name": "LOS TALLOS", "address": "Maradi, Niger", "phone": null },
-  {
-    "name": "Facific",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "GUEST HOUSE",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "93 empire",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Femi Food and Drink",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Al Khairat restaurant",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": "+22781497998"
-  },
-  {
-    "name": "Le marché de bétail de maradi",
-    "address": "Unnamed Road ADS, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Kader mai chaï",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Complexe Clotaire Alavo",
-    "address": "Maradi, Niger",
-    "phone": "+22799666576"
-  },
-  {
-    "name": "Résidence Mourna",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Eclair Informatique",
-    "address": "Maradi, Niger",
-    "phone": "+22794242858"
-  },
-  { "name": "MJC", "address": "Maradi, Niger", "phone": null },
-  {
-    "name": "Restaurant Nagabass",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Magasin PAM Maradi",
-    "address": "Maradi, Niger",
-    "phone": "+22796978615"
-  },
-  {
-    "name": "Zamani Business Center",
-    "address": "Unnamed Road, Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Niger commerce",
-    "address": "Maradi, Niger",
-    "phone": "+22796681140"
-  },
-  {
-    "name": "Marché de Sonita",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Bagalam Dan Gao",
-    "address": "RN9, Maradi, Niger",
-    "phone": "+218920201586"
-  },
-  {
-    "name": "Maradi Store",
-    "address": "Maradi, Niger",
-    "phone": "+22799404030"
-  },
-  {
-    "name": "Bouzou City Center",
-    "address": "Maradi, Niger",
-    "phone": null
-  },
-  {
-    "name": "Hotel de la Paix d 'Agadez",
-    "address": "BP277 Auberge d'Azel, Agadez 0001, Niger",
-    "phone": "+22796962700"
-  },
-  {
-    "name": "Auberge d'Azel",
-    "address": "Agadez, Niger",
-    "phone": "+22720440234"
-  },
-  {
-    "name": "Auberge Tellit Rafael Antunes",
-    "address": "Agadez, Niger",
-    "phone": "+22785302680"
-  },
-  {
-    "name": "OMBAETE RESTURANT",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant La Fontaine",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant le pilier Agadez",
-    "address": "Parking lot, Unnamed Road, Agadez, Niger",
-    "phone": "+22790248887"
-  },
-  {
-    "name": "Degui",
-    "address": "Unnamed Road, Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Sahara Land",
-    "address": "Unnamed Road,, Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Djalaye",
-    "address": "Agadez, Niger",
-    "phone": "+22799352035"
-  },
-  {
-    "name": "Restaurant Hirondelle",
-    "address": "Agadez, Niger",
-    "phone": "+22796237287"
-  },
-  {
-    "name": "Aghazarmadran restuarant",
-    "address": "SAHARA LAND, Agadez, Niger",
-    "phone": "+22788404242"
-  },
-  {
-    "name": "Dal Niger pizza",
-    "address": "Agadez 1005, Niger",
-    "phone": null
-  },
-  {
-    "name": "GRAMIS FOOD",
-    "address": "Agadez, Niger",
-    "phone": "+4915227339862"
-  },
-  {
-    "name": "Restaurant soudanais, cuisine populaire",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Maquis Targuif Agadez",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Place Issoufou Gali",
-    "address": "Agadez, Niger",
-    "phone": "+22785302680"
-  },
-  {
-    "name": "Restaurant Wadata",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Maman Sani",
-    "address": "Agadez, Niger",
-    "phone": "+22790090070"
-  },
-  {
-    "name": "Restaurant la jouvence",
-    "address": "Agadez, Niger",
-    "phone": "+22796775806"
-  },
-  {
-    "name": "Tadek",
-    "address": "Agadez, Niger",
-    "phone": "+22720440234"
-  },
-  {
-    "name": "Restaurant Telit",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Republique du Poulet",
-    "address": "Agadez, Niger",
-    "phone": "+22720440458"
-  },
-  {
-    "name": "MSF_Restaurant_Gama-Gari",
-    "address": "BP277 Auberge d'Azel, Agadez 0001, Niger",
-    "phone": "+22796962700"
-  },
-  { "name": "Fada loki", "address": "Agadez, Niger", "phone": null },
-  {
-    "name": "Restaurant la fontaine",
-    "address": "Avenue Alzouma Kantana Agadez NE Agades Tchirozerine Agadez NE, Agadez, Niger",
-    "phone": "+22796982497"
-  },
-  {
-    "name": "Akim service",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Restaurant le Révolutionnaire",
-    "address": "mène au Commissariat de Police. Dans les anciens, En face de la station Total à côté de (ex Hôpital régional d'Agadez) sur le pavé qui, locaux de la Poste, Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Sani Hachimou 512",
-    "address": "Agadez, Niger",
-    "phone": "+22794339892"
-  },
-  {
-    "name": "Abduol Nasser Amghar",
-    "address": "X2G3+5QQ Sabon gari, Agadez, Niger",
-    "phone": "+22796490800"
-  },
-  {
-    "name": "Cybercafé NTA",
-    "address": "Agadez, Niger",
-    "phone": "+22797104516"
-  },
-  {
-    "name": "Hôtel Zagado",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Imane RAHÁA",
-    "address": "2000, Agadez 2000, Niger",
-    "phone": "20002000"
-  },
-  {
-    "name": "Dawits Kinder missbrauch keller",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "École tilam",
-    "address": "Face MJC, Agadez, Niger",
-    "phone": "+22790193310"
-  },
-  {
-    "name": "Auberge d'Azel",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Hotel Etoile Du Ténéré",
-    "address": "hôtel de la paix, Agadez,face, Agadez, Niger",
-    "phone": "+22795155151"
-  },
-  { "name": "18 Bar", "address": "Agadez, Niger", "phone": null },
-  {
-    "name": "Hotel de la Paix d 'Agadez",
-    "address": "RN25, Agadez, Niger",
-    "phone": "+22774518624"
-  },
-  {
-    "name": "Chicha Hamza",
-    "address": "Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "Auberge Taguelmoust",
-    "address": "Unnamed Road, Agadez, Niger",
-    "phone": "+22781661278"
-  },
-  {
-    "name": "Auberge Tellit Rafael Antunes",
-    "address": "Agadez, Niger",
-    "phone": "+22789642354"
-  },
-  {
-    "name": "Boulangerie Telwa",
-    "address": "Agadez, Niger",
-    "phone": "+22798383535"
-  },
-  { "name": "Cimetière", "address": "Agadez, Niger", "phone": null },
-  {
-    "name": "Marche EST",
-    "address": "Unnamed Road, Agadez, Niger",
-    "phone": null
-  },
-  {
-    "name": "hogrideerrr supercel hq(hotel to slep)",
-    "address": "Unnamed Road, Agadez, Niger",
-    "phone": "+22790838575"
-  },
-  {
-    "name": "Aliance Française D'Agadez",
-    "address": "rue de l'aeroport, Agadez, Niger",
-    "phone": "+22781848975"
-  },
-  {
-    "name": "Les Boutiques Tagbati",
-    "address": "Agadez, Niger",
-    "phone": "+22796566464"
-  },
-  {
-    "name": "ETS KAYASSA",
-    "address": "Agadez, Niger",
-    "phone": "+22796373878"
-  },
-  {
-    "name": "Auberge d'Azel",
-    "address": "BP277 Auberge d'Azel, Agadez 0001, Niger",
-    "phone": "+22796962700"
-  },
-  {
-    "name": "Auberge Taguelmoust",
-    "address": "Agadez, Niger",
-    "phone": "+22720440458"
-  },
-  {
-    "name": "Hotel Etoile Du Ténéré",
-    "address": "Agadez, Niger",
-    "phone": "+22791331016"
-  },
-  {
-    "name": "Mano Dayak Agadez International Airport",
-    "address": "Agadez, Niger",
-    "phone": "+22794339892"
-  },
-  {
-    "name": "Hôtel Etoile Du Ténéré",
-    "address": "Niamey, Niger",
-    "phone": "+22795124288"
-  },
-  {
-    "name": "Agadez Region",
-    "address": "Agadez, Niger",
-    "phone": "+22798237272"
-  },
-  {
-    "name": "Great Mosque of Niamey",
-    "address": "Agadez, Niger",
-    "phone": "+22791410799"
-  },
-  {
-    "name": "Hôtel Temet",
-    "address": "Route Tahoua Arlit, RN25, Agadez, Niger",
-    "phone": "+22720440264"
-  },
-  {
-    "name": "Hôtel Telwa Bungalow",
-    "address": "Arlit, Niger",
-    "phone": "+22796996000"
-  },
-  {
-    "name": "مطعم القارة السمراء السياحي Hotel",
-    "address": "Arlit, Niger",
-    "phone": null
-  },
-  {
-    "name": "RESTAURANT AL-MAHANNA",
-    "address": "Nouveau pavé école quartier, Akokan, Niger",
-    "phone": "+22794101949"
-  },
-  {
-    "name": "Pizzaria Sarho",
-    "address": "Arlit, Niger",
-    "phone": "+22798132959"
-  },
-  {
-    "name": "Restaurant al kawçer",
-    "address": "Arlit, Niger",
-    "phone": null
-  },
-  {
-    "name": "Tsapta fast food",
-    "address": "Arlit, Niger",
-    "phone": "+22797889766"
-  },
-  {
-    "name": "Tout c'est bon",
-    "address": "Arlit, Niger",
-    "phone": "+22795650918"
-  },
-  {
-    "name": "Quartier Corbeille",
-    "address": "Akokan, Niger",
-    "phone": "+22790247374"
-  },
-  {
-    "name": "Csp Tarat",
-    "address": "Arlit, Niger",
-    "phone": "+22780234618"
-  },
-  {
-    "name": "Hôtel Temet",
-    "address": "RN25, Arlit, Niger",
-    "phone": "+22798405344"
-  },
-  {
-    "name": "Studio Alfarma Arlit",
-    "address": "cité Somaïr, Arlit, Niger",
-    "phone": null
-  },
-  {
-    "name": "Marché central d’Arlit",
-    "address": "Arlit, Niger",
-    "phone": "+22791773126"
-  },
-  {
-    "name": "Trakou Marche",
-    "address": "Arlit, Niger",
-    "phone": "+22791271988"
-  },
-  {
-    "name": "¥kZ",
-    "address": "Abdoulaye Laouali Arlit, 8000, Niger",
-    "phone": "+22798806860"
-  },
-  {
-    "name": "Boulangerie Pâtisserie Mani Dan Azoumi",
-    "address": "Unnamed Road, Arlit, Niger",
-    "phone": "+22780198847"
-  },
-  {
-    "name": "BLUE-MARA SERVICES",
-    "address": "RN25, Arlit, Niger",
-    "phone": "+22798381007"
-  },
-  {
-    "name": "Arlit cité somaïr",
-    "address": "Arlit, Niger",
-    "phone": "+22796996000"
-  },
-  {
-    "name": "Sociétè des transforme Nigerienne",
-    "address": "Arlit, Niger",
-    "phone": "+22796675103"
-  },
-  {
-    "name": "Marché central d’Arlit",
-    "address": "Boulevard Mali Bero, Niamey, Niger",
-    "phone": "+22792808216"
-  },
-  {
-    "name": "Stade Somaïr",
-    "address": "Niamey, Niger",
-    "phone": "+22790400351"
-  },
-  {
-    "name": "A.C.S Business Center",
-    "address": "Arlit, Niger",
-    "phone": "+22796675103"
-  },
-  {
-    "name": "Orange Niger Company",
-    "address": "Arlit, Niger",
-    "phone": null
-  }
+ {
+  "id": 1,
+  "name": "Soluxe Hotel Niamey",
+  "Address": "Gourma Blvd, Niamey, Niger",
+  "phone": "+22796973564"
+ },
+ {
+  "id": 2,
+  "name": "Hotel Tenere",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732020"
+ },
+ {
+  "id": 3,
+  "name": "Radisson Blu Hotel \u0026 Conference Center, Niamey",
+  "Address": "Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22723231111"
+ },
+ {
+  "id": 4,
+  "name": "Bravia Hotel Niamey",
+  "Address": "Avenue of Africa, N°1100, Niamey, Niger",
+  "phone": "+22720332222"
+ },
+ {
+  "id": 5,
+  "name": "Noom Hotel Niamey",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732692"
+ },
+ {
+  "id": 6,
+  "name": "Hotel Tenere",
+  "Address": "Avenue of Africa, N°1100, Niamey, Niger",
+  "phone": "+22720332222"
+ },
+ {
+  "id": 7,
+  "name": "Soluxe Hotel Niamey",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732020"
+ },
+ {
+  "id": 8,
+  "name": "Hotel Terminus",
+  "Address": "8000 Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22782811218"
+ },
+ {
+  "id": 9,
+  "name": "Niamey Mall \u0026 residence",
+  "Address": "Direction Générale de la Douane, Avenue de l’Uranium, Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22723023030"
+ },
+ {
+  "id": 10,
+  "name": "Niger Soluxe Hotel",
+  "Address": "Quartier Kamedoria, Tillabéri, Niger",
+  "phone": "+22720711320"
+ },
+ {
+  "id": 11,
+  "name": "Les Collines",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 12,
+  "name": "Homeland Hotel",
+  "Address": "Derriere le Ceg Yantala, Plateau, Niger",
+  "phone": ""
+ },
+ {
+  "id": 13,
+  "name": "Le Lézard Vert, Maison d’Affair à Niamey",
+  "Address": "166, rue Koara Kano, Sonuci, Goudel, Niger",
+  "phone": ""
+ },
+ {
+  "id": 14,
+  "name": "Koira Kano Appartements",
+  "Address": "9 Quartier Chateau, Deizeibon, Niger",
+  "phone": ""
+ },
+ {
+  "id": 15,
+  "name": "Grand Hôtel du Niger",
+  "Address": "B.P. 11 444 Niamey - Quartier Koubya - route Tillabéry, Niamey, Niger",
+  "phone": "+22790104595"
+ },
+ {
+  "id": 16,
+  "name": "Hôtel Gaweye",
+  "Address": "Niger, Niamey, 256 rue du grand hotel quartier terminus",
+  "phone": "+22796842282"
+ },
+ {
+  "id": 17,
+  "name": "HOTEL DU CENTRE",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 18,
+  "name": "Hotel Sahel",
+  "Address": "Rue Maurice Delense Quartier Plateau, Plateau, Niger",
+  "phone": ""
+ },
+ {
+  "id": 19,
+  "name": "Oasis Hotel",
+  "Address": "Quartier Terminus, Gaweye, Niger",
+  "phone": ""
+ },
+ {
+  "id": 20,
+  "name": "Fayel Appart-Hôtel",
+  "Address": "Unnamed Road, Niamey, Niger",
+  "phone": "+22720350107"
+ },
+ {
+  "id": 21,
+  "name": "Nikki Hotel",
+  "Address": "Niamey, Niger",
+  "phone": "+22720733876"
+ },
+ {
+  "id": 22,
+  "name": "Royal Palace Hotel",
+  "Address": "Corniche Yantala route du barrage de Goudel BP855, Niamey, Niamey, Niger",
+  "phone": "+22720723883"
+ },
+ {
+  "id": 23,
+  "name": "Hôtel Dalia",
+  "Address": "Niamey Deuxi me Arrondissement, Niamey, Niger",
+  "phone": "+22790358533"
+ },
+ {
+  "id": 24,
+  "name": "Auberge Koirakano",
+  "Address": "Quartier Koirakano Boulevard Askia Mohamed, Niamey, Niger",
+  "phone": "+22780394564"
+ },
+ {
+  "id": 25,
+  "name": "Djoliba Lodge",
+  "Address": "Niamey, Niger",
+  "phone": "+22720351693"
+ },
+ {
+  "id": 26,
+  "name": "Hotel Résidence Saha Land",
+  "Address": "Niamey, Niger",
+  "phone": "+22785537854"
+ },
+ {
+  "id": 27,
+  "name": "River Side Résidence Hôtel",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": "+22720752775"
+ },
+ {
+  "id": 28,
+  "name": "HOTEL LE CAPITOLE",
+  "Address": "Niamey, Niger",
+  "phone": "+22720374868"
+ },
+ {
+  "id": 29,
+  "name": "Residence Rue Du Sahel",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": "+22720752775"
+ },
+ {
+  "id": 30,
+  "name": "Residence Kawarem",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732431"
+ },
+ {
+  "id": 31,
+  "name": "Hôtel domo",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732152"
+ },
+ {
+  "id": 32,
+  "name": "Hotel Venise",
+  "Address": "Pharmacie Goudel, Alimentation Mamouchka, 1425, Niger",
+  "phone": "+22720723138"
+ },
+ {
+  "id": 33,
+  "name": "O2 lodge",
+  "Address": "Boulevard Askia Mohamed, Niamey, Niger",
+  "phone": "+22797143939"
+ },
+ {
+  "id": 34,
+  "name": "Hotel le Relaxe",
+  "Address": "Niamey, Niger",
+  "phone": "+22720722710"
+ },
+ {
+  "id": 35,
+  "name": "Hotel Chateaulet",
+  "Address": "H46P+6G3 Cnaf Construction, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 36,
+  "name": "Hotel Le Palmier",
+  "Address": "Quartier, Niamey, Niger",
+  "phone": "+22720723282"
+ },
+ {
+  "id": 37,
+  "name": "bravia",
+  "Address": "Route Torodi Niamey NIM, Niamey, Niger",
+  "phone": "+22721361230"
+ },
+ {
+  "id": 38,
+  "name": "Hotel La Girafe",
+  "Address": "1100 Ave de l'Africa, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 39,
+  "name": "ALMINA Restaurant",
+  "Address": "Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22723231111"
+ },
+ {
+  "id": 40,
+  "name": "L'assiette DAKAR",
+  "Address": "Niamey, Niger",
+  "phone": "+22791553890"
+ },
+ {
+  "id": 41,
+  "name": "Côté Jardin",
+  "Address": "Bd du Zarmaganda, Niamey, Niger",
+  "phone": "+22788668020"
+ },
+ {
+  "id": 42,
+  "name": "The Pillar Restaurant",
+  "Address": "Niamey, Niger",
+  "phone": "+22720351111"
+ },
+ {
+  "id": 43,
+  "name": "Amandine",
+  "Address": "rue de la tapoa, Niamey, Niger",
+  "phone": "+22720724985"
+ },
+ {
+  "id": 44,
+  "name": "Restaurant la Rose",
+  "Address": "Route du barrage de Goudel, - BP11816, - Niamey, Niger",
+  "phone": "+22780091111"
+ },
+ {
+  "id": 45,
+  "name": "Cap Banga",
+  "Address": "Niamey, Niger",
+  "phone": "+22780040509"
+ },
+ {
+  "id": 46,
+  "name": "La Cabane",
+  "Address": "Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22723231111"
+ },
+ {
+  "id": 47,
+  "name": "UMI Hai",
+  "Address": "Recasement, Niamey, Niger",
+  "phone": "+22788504040"
+ },
+ {
+  "id": 48,
+  "name": "Restaurant Dragon D'or Niamey",
+  "Address": "Union européenne, Niamey près Délégation, Niamey, Niger",
+  "phone": "+22792898256"
+ },
+ {
+  "id": 49,
+  "name": "Restaurant Chez Sunny",
+  "Address": "Niamey, Niger",
+  "phone": "+22798889888"
+ },
+ {
+  "id": 50,
+  "name": "Zaxi Rooftop Lounge \u0026 Bar",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 51,
+  "name": "Aladdin's resto libanais",
+  "Address": "705 Av. de Djermakoye, Niamey, Niger",
+  "phone": "+22788404050"
+ },
+ {
+  "id": 52,
+  "name": "Maquis 2000",
+  "Address": "Unnamed Road, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 53,
+  "name": "Niamey Pizza",
+  "Address": "RN6, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 54,
+  "name": "Burgerillo",
+  "Address": "Niamey, Niger",
+  "phone": "+22796476767"
+ },
+ {
+  "id": 55,
+  "name": "RESTAURANT LA TERRASSE",
+  "Address": "Av. de Djermakoye, Niamey, Niger",
+  "phone": "+22792353575"
+ },
+ {
+  "id": 56,
+  "name": "Malabar",
+  "Address": "11003, Niamey 8001, Niger",
+  "phone": "110038001"
+ },
+ {
+  "id": 57,
+  "name": "Restaurant 3 Epices",
+  "Address": "Niamey, Niger",
+  "phone": "+22791591174"
+ },
+ {
+  "id": 58,
+  "name": "Belissimo",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 59,
+  "name": "Complexe Le Mafé",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 60,
+  "name": "Royal Grill",
+  "Address": "Unnamed Road, Niamey, Niger",
+  "phone": "+22789820002"
+ },
+ {
+  "id": 61,
+  "name": "Diamangou",
+  "Address": "Niamey, Niger",
+  "phone": "+22796963079"
+ },
+ {
+  "id": 62,
+  "name": "Restaurant Ile de Goree",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 63,
+  "name": "Restaurant Marrakech",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 64,
+  "name": "Nora Food",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 65,
+  "name": "Restaurant MASAKI",
+  "Address": "Niamey, Niger",
+  "phone": "+22796762727"
+ },
+ {
+  "id": 66,
+  "name": "Nouveau PAPAYO",
+  "Address": "Boulevard de la Liberté, Niamey, Niger",
+  "phone": "+22790231705"
+ },
+ {
+  "id": 67,
+  "name": "Vip Boulevard",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 68,
+  "name": "Restaurant Niamey à Midi",
+  "Address": "Quartier Plateau, Bravia Hotel Niamey, Cases Allemandes, Niamey 8001, Niger",
+  "phone": "+22788147572"
+ },
+ {
+  "id": 69,
+  "name": "Maquis Doré",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 70,
+  "name": "FINISTERE",
+  "Address": "Niamey, Niger",
+  "phone": "+22790424508"
+ },
+ {
+  "id": 71,
+  "name": "Colline Plus",
+  "Address": "10349 Niamey, Niamey, Niger",
+  "phone": "+22788149822"
+ },
+ {
+  "id": 72,
+  "name": "Le SHERIFFIEN",
+  "Address": "Recasement, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 73,
+  "name": "Byblos",
+  "Address": "Niamey, Niger",
+  "phone": "+22799880050"
+ },
+ {
+  "id": 74,
+  "name": "Maquis du centre chez madame PAUL",
+  "Address": "Niamey, Niger",
+  "phone": "+22791760978"
+ },
+ {
+  "id": 75,
+  "name": "Restaurant Hadjia Fanta",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 76,
+  "name": "Fofo Taco",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 77,
+  "name": "Kabani",
+  "Address": "Ave de l'Africa, Niamey, Niger",
+  "phone": "+22796504537"
+ },
+ {
+  "id": 78,
+  "name": "Restaurant Sougrinoma",
+  "Address": "Avenue de Djermakoye, Av. de Djermakoye, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 79,
+  "name": "Mujé-Resto",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 80,
+  "name": "Golden Food",
+  "Address": "Niamey, Niger",
+  "phone": "+22790003800"
+ },
+ {
+  "id": 81,
+  "name": "PIZZA CLUB FONDAKAYAN",
+  "Address": "Boulevard de la Republique, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 82,
+  "name": "Cafe Resto La Bonne Pioche",
+  "Address": "Niamey, Niger",
+  "phone": "+22789125606"
+ },
+ {
+  "id": 83,
+  "name": "Restaurant Chez Clarisse",
+  "Address": "Orange MB, Niamey, Niger",
+  "phone": "+22792123016"
+ },
+ {
+  "id": 84,
+  "name": "Restaurant Le Baobab",
+  "Address": "Av. de la Mairie, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 85,
+  "name": "NAMASTE INDIA Niger",
+  "Address": "Niamey, Niger",
+  "phone": "+22791954748"
+ },
+ {
+  "id": 86,
+  "name": "Restaurant Vice versa",
+  "Address": "Unnamed Road, Niamey, Niger",
+  "phone": "+22796474577"
+ },
+ {
+  "id": 87,
+  "name": "Restaurant gourmand",
+  "Address": "Niamey, Niger",
+  "phone": "+22792283529"
+ },
+ {
+  "id": 88,
+  "name": "Restaurant Le Festin Chez Saly",
+  "Address": "G45M+V58 Lycée Mariama, Niamey, Niger",
+  "phone": "+22792806081"
+ },
+ {
+  "id": 89,
+  "name": "Carthage Restaurant",
+  "Address": "Niamey, Niger",
+  "phone": "+22790133776"
+ },
+ {
+  "id": 90,
+  "name": "Restaurant La Gaiete",
+  "Address": "Niamey, Niger",
+  "phone": "+22798239759"
+ },
+ {
+  "id": 91,
+  "name": "Pyramides",
+  "Address": "Niamey, Niger",
+  "phone": "+22795884319"
+ },
+ {
+  "id": 92,
+  "name": "Restaurant Arc-en-ciel",
+  "Address": "Maurice delens, Niamey, Niger",
+  "phone": "+22780101045"
+ },
+ {
+  "id": 93,
+  "name": "Divine restaurant",
+  "Address": "Niamey, Niger",
+  "phone": "+22791956290"
+ },
+ {
+  "id": 94,
+  "name": "Bab Salam Maurice Delens",
+  "Address": "Niamey, Niger",
+  "phone": "+22796507711"
+ },
+ {
+  "id": 95,
+  "name": "Restaurant A\u0026S Battara",
+  "Address": "Niamey, Niger",
+  "phone": "+22796633641"
+ },
+ {
+  "id": 96,
+  "name": "Terre de Passion",
+  "Address": "RN1, Niamey, Niger",
+  "phone": "+22780696449"
+ },
+ {
+  "id": 97,
+  "name": "Restaurant ALHAMDOULILLAH",
+  "Address": "Niamey, Niger",
+  "phone": "+22794888679"
+ },
+ {
+  "id": 98,
+  "name": "Restaurant UAM",
+  "Address": "Niamey, Niger",
+  "phone": "+22791555515"
+ },
+ {
+  "id": 99,
+  "name": "Restaurant O'CAFE",
+  "Address": "Université Abdou Moumouni de Niamey, Niamey, Niger",
+  "phone": "+22790305255"
+ },
+ {
+  "id": 100,
+  "name": "Le Toulousain",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 101,
+  "name": "Chez Caro-Restaurant",
+  "Address": "RN6, Niamey, Niger",
+  "phone": "+22790069956"
+ },
+ {
+  "id": 102,
+  "name": "Restaurant",
+  "Address": "Kalley-amirou, Niamey, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 103,
+  "name": "Africa Hall",
+  "Address": "Niamey, Niger",
+  "phone": "+22790811352"
+ },
+ {
+  "id": 104,
+  "name": "The Goût Unique",
+  "Address": "N1, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 105,
+  "name": "Restaurant sénégalais la teranga",
+  "Address": "Niamey, Niger",
+  "phone": "+22797359546"
+ },
+ {
+  "id": 106,
+  "name": "attiéké-thon-fumé APF Chez Samychou",
+  "Address": "Niamey, Niger",
+  "phone": "+22784109467"
+ },
+ {
+  "id": 107,
+  "name": "Nims and Rice",
+  "Address": "Unnamed Road,, Niamey, Niger",
+  "phone": "+22791738420"
+ },
+ {
+  "id": 108,
+  "name": "LEGEND RESTO LOUNGE",
+  "Address": "Bd du Zarmaganda, Niamey, Niger",
+  "phone": "+22796298689"
+ },
+ {
+  "id": 109,
+  "name": "Restaurant Koubeyni",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 110,
+  "name": "Restaurant Les retrouvailles",
+  "Address": "Rue KK46, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 111,
+  "name": "restaurant Alfari",
+  "Address": "Niamey, Niger",
+  "phone": "+22791999991"
+ },
+ {
+  "id": 112,
+  "name": "ALDIOUMA TRAITEUR",
+  "Address": "Niamey, Niger",
+  "phone": "+22720722909"
+ },
+ {
+  "id": 113,
+  "name": "TASTE OF TANDOOR \u0026 INDIAN MULTI CUISINE RESTAURANT NIGER",
+  "Address": "Opp. Ola Station, Boulevard Mali Bero, Niamey 4000, Niger",
+  "phone": "+22788601560"
+ },
+ {
+  "id": 114,
+  "name": "Parc d’Agrema",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": "+22797086868"
+ },
+ {
+  "id": 115,
+  "name": "Nado Établissement",
+  "Address": "Niamey, Niger",
+  "phone": "+22793865486"
+ },
+ {
+  "id": 116,
+  "name": "Restoran Galaxy",
+  "Address": "Niamey, Niger",
+  "phone": "+22794272764"
+ },
+ {
+  "id": 117,
+  "name": "La Terrasse",
+  "Address": "AVENUE DE LA, Niamey, Niger",
+  "phone": "+22796539313"
+ },
+ {
+  "id": 118,
+  "name": "Restaurant de Fac de lettres",
+  "Address": "Niamey, Niger",
+  "phone": "+22792801108"
+ },
+ {
+  "id": 119,
+  "name": "La couronne",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": "+22798757073"
+ },
+ {
+  "id": 120,
+  "name": "Restaurant cordon bleu",
+  "Address": "Niamey, Niger",
+  "phone": "+22796124207"
+ },
+ {
+  "id": 121,
+  "name": "Restaurant Gosen",
+  "Address": "Niamey, Niger",
+  "phone": "+22790194923"
+ },
+ {
+  "id": 122,
+  "name": "Le H24",
+  "Address": "Niamey, Niger",
+  "phone": "+22790940405"
+ },
+ {
+  "id": 123,
+  "name": "M'bolo Restaurant",
+  "Address": "Boulevard de l'Independance, Niamey, Niger",
+  "phone": "+22798123456"
+ },
+ {
+  "id": 124,
+  "name": "RESTAURANT AFRO GOURMAND",
+  "Address": "Niamey, Niger",
+  "phone": "+22720735556"
+ },
+ {
+  "id": 125,
+  "name": "Vendeuse de frites",
+  "Address": "RN27, Niamey, Niger",
+  "phone": "+22796857471"
+ },
+ {
+  "id": 126,
+  "name": "SEIF MALL",
+  "Address": "quartier francophonie, Niamey, Niger",
+  "phone": "+22791116969"
+ },
+ {
+  "id": 127,
+  "name": "Marché Européen",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": "+22792808216"
+ },
+ {
+  "id": 128,
+  "name": "Ferrail Niamey",
+  "Address": "Niamey, Niger",
+  "phone": "+22797024343"
+ },
+ {
+  "id": 129,
+  "name": "A.C.S Business Center",
+  "Address": "Bd du Zarmaganda, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 130,
+  "name": "Village artisanal Ibrahim Moussa",
+  "Address": "Unnamed Road, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 131,
+  "name": "Diallo bizness center",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 132,
+  "name": "TITACOM business Center",
+  "Address": "Niamey, Niger",
+  "phone": "+22790400351"
+ },
+ {
+  "id": 133,
+  "name": "Orange Niger Company",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 134,
+  "name": "TITACOM business Center",
+  "Address": "Niamey, Niger",
+  "phone": "+22792915313"
+ },
+ {
+  "id": 135,
+  "name": "Mobiland",
+  "Address": "abdoul098fatt@gmail.com, Niamey, Niger",
+  "phone": "+22791893433"
+ },
+ {
+  "id": 136,
+  "name": "Baby Shop annexe 1",
+  "Address": "Av. de Djermakoye, Niamey, Niger",
+  "phone": "+22720353520"
+ },
+ {
+  "id": 137,
+  "name": "Pharmacie Bonkaney",
+  "Address": "Niamey, Niger",
+  "phone": "+22797101887"
+ },
+ {
+  "id": 138,
+  "name": "ETS SALEY ET FILS",
+  "Address": "Niamey, Niger",
+  "phone": "+22793723332"
+ },
+ {
+  "id": 139,
+  "name": "Niamey Mall \u0026 residence",
+  "Address": "Niamey, Niger",
+  "phone": "+22790789442"
+ },
+ {
+  "id": 140,
+  "name": "GODIYA Business Center",
+  "Address": "Niamey, Niger",
+  "phone": "+22720733958"
+ },
+ {
+  "id": 141,
+  "name": "Grand Market Niamey",
+  "Address": "Niamey, Niger",
+  "phone": "+22796521352"
+ },
+ {
+  "id": 142,
+  "name": "SOFIANI APPLE CENTER",
+  "Address": "8000 Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22782811218"
+ },
+ {
+  "id": 143,
+  "name": "Market Katako",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 144,
+  "name": "Score Groceries",
+  "Address": "Unnamed Road, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 145,
+  "name": "Ado Boutique",
+  "Address": "Niamey, Niger",
+  "phone": "+22796622626"
+ },
+ {
+  "id": 146,
+  "name": "Dépôt SPC Niamey",
+  "Address": "e Niamey, Niamey, Niger",
+  "phone": "+22780323214"
+ },
+ {
+  "id": 147,
+  "name": "Saya Business Center NIAMEY NIGER",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 148,
+  "name": "Global trade center",
+  "Address": "Niamey, Niger",
+  "phone": "+22784316080"
+ },
+ {
+  "id": 149,
+  "name": "CFPM Taya",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 150,
+  "name": "Boubou Hama National Museum",
+  "Address": "Avenue, Niamey 8004, Niger",
+  "phone": "+22781835697"
+ },
+ {
+  "id": 151,
+  "name": "Plage UNGS",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 152,
+  "name": "Our Lady of Perpertual Help Cathedral",
+  "Address": "Niamey Ungs, Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 153,
+  "name": "Grand Market Niamey",
+  "Address": "Niamey, Niger",
+  "phone": ""
+ },
+ {
+  "id": 154,
+  "name": "CanalOlympia Hippodrome",
+  "Address": "Niamey, Niger",
+  "phone": "+22795124288"
+ },
+ {
+  "id": 155,
+  "name": "FERME YOUYOU",
+  "Address": "Bod de la Republique Republique Boulevard de la Republique, Niamey, Niger",
+  "phone": "+22720734321"
+ },
+ {
+  "id": 156,
+  "name": "Niamey Urban Community",
+  "Address": "e Niamey, Niamey, Niger",
+  "phone": "+22780323214"
+ },
+ {
+  "id": 157,
+  "name": "Niamey",
+  "Address": "Niamey, Niger",
+  "phone": "+22790829843"
+ },
+ {
+  "id": 158,
+  "name": "Diori Hamani International Airport",
+  "Address": "Niamey, Niger",
+  "phone": "+22791834970"
+ },
+ {
+  "id": 159,
+  "name": "W National Park Benin",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732692"
+ },
+ {
+  "id": 160,
+  "name": "The Pillar Restaurant",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732152"
+ },
+ {
+  "id": 161,
+  "name": "Cap Banga",
+  "Address": "Route Torodi Niamey NIM, Niamey, Niger",
+  "phone": "+22721361230"
+ },
+ {
+  "id": 162,
+  "name": "Bab Salam Maurice Delens",
+  "Address": "Niamey, Niger",
+  "phone": "+22720732152"
+ },
+ {
+  "id": 163,
+  "name": "Koure",
+  "Address": "Niamey, Niger",
+  "phone": "+22720726035"
+ },
+ {
+  "id": 164,
+  "name": "Grand Hôtel du Niger",
+  "Address": "Niamey, Niger",
+  "phone": "+22791954748"
+ },
+ {
+  "id": 165,
+  "name": "Les Collines",
+  "Address": "Route du barrage de Goudel, - BP11816, - Niamey, Niger",
+  "phone": "+22780091111"
+ },
+ {
+  "id": 166,
+  "name": "CENTRE NIGERIEN DE PROMOTION TOURISTIQUE",
+  "Address": "rue de la tapoa, Niamey, Niger",
+  "phone": "+22720724985"
+ },
+ {
+  "id": 167,
+  "name": "Bravia Hotel Niamey",
+  "Address": "Niamey, Niger",
+  "phone": "+22780241414"
+ },
+ {
+  "id": 168,
+  "name": "Hotel General Zinder",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 169,
+  "name": "GAMZAKI DE ZINDER",
+  "Address": "Unnamed Rd,, Zinder, Niger",
+  "phone": "+22796492108"
+ },
+ {
+  "id": 170,
+  "name": "Hôtel Bagazam",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 171,
+  "name": "Hotel kouran daga",
+  "Address": "Unnamed Road, Zinder, Niger",
+  "phone": "+22797902049"
+ },
+ {
+  "id": 172,
+  "name": "hôtel central",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 173,
+  "name": "Hotel de Ville",
+  "Address": "Zinder, Niger",
+  "phone": "+22796932020"
+ },
+ {
+  "id": 174,
+  "name": "Hôtel Royal",
+  "Address": "Zinder, Niger",
+  "phone": "+22799971625"
+ },
+ {
+  "id": 175,
+  "name": "Chougaba@com",
+  "Address": "Unnamed Road, Zinder, Niger",
+  "phone": "+22720510640"
+ },
+ {
+  "id": 176,
+  "name": "Auerge Red House",
+  "Address": "RN11, Zinder, Niger",
+  "phone": "+22789624664"
+ },
+ {
+  "id": 177,
+  "name": "Hotel Birni House",
+  "Address": "Mary Rd, Zinder, Niger",
+  "phone": "+22720512702"
+ },
+ {
+  "id": 178,
+  "name": "Auberge Zindirma",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 179,
+  "name": "Villa rouge",
+  "Address": "Kouran Daga, Zinder, Niger",
+  "phone": "+22796404422"
+ },
+ {
+  "id": 180,
+  "name": "Djikaloji",
+  "Address": "Zinder, Niger",
+  "phone": "+22796174410"
+ },
+ {
+  "id": 181,
+  "name": "Hotel Kuran Dàga",
+  "Address": "Zinder, Niger",
+  "phone": "+22796492108"
+ },
+ {
+  "id": 182,
+  "name": "MOURNA",
+  "Address": "Zinder, Niger",
+  "phone": "+22796115081"
+ },
+ {
+  "id": 183,
+  "name": "Restaurant Pension SA'",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 184,
+  "name": "NUSNAN",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 185,
+  "name": "Gounga restaurant",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 186,
+  "name": "Restaurant aboussa",
+  "Address": "RX7J+729 N'wala, Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 187,
+  "name": "Restaurant El NIIMA",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 188,
+  "name": "Restaurant Fatoumata",
+  "Address": "Zinder, Niger",
+  "phone": "+22796617421"
+ },
+ {
+  "id": 189,
+  "name": "Pension SA'A Zinder",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 190,
+  "name": "Le régal",
+  "Address": "Zinder, Niger",
+  "phone": "+22796525025"
+ },
+ {
+  "id": 191,
+  "name": "Restaurant NESKA",
+  "Address": "QXFJ+HHW Aéroport international de, Zinder, Niger",
+  "phone": "+22797870008"
+ },
+ {
+  "id": 192,
+  "name": "Restaurant Fast food hight class",
+  "Address": "Zinder, Niger",
+  "phone": "+22796582447"
+ },
+ {
+  "id": 193,
+  "name": "Restaurant Lyafa",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 194,
+  "name": "Poêle d'or zinder,magaria,bandé,matamaye,dungas",
+  "Address": "Zinder, Niger",
+  "phone": "+22792303877"
+ },
+ {
+  "id": 195,
+  "name": "Manman lanwan",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 196,
+  "name": "abdousaadou",
+  "Address": "dernière Darido, Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 197,
+  "name": "Restaurants alhamdoulilahi",
+  "Address": "Zinder, Niger",
+  "phone": "+2348089519852"
+ },
+ {
+  "id": 198,
+  "name": "Hotel Kuran Dàga",
+  "Address": "Zinder, Niger",
+  "phone": "+22789491450"
+ },
+ {
+  "id": 199,
+  "name": "Mohamed Abdourahamane",
+  "Address": "RN1, Zinder, Niger",
+  "phone": "+22789025045"
+ },
+ {
+  "id": 200,
+  "name": "Hotel Birni House",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 201,
+  "name": "Resto foyer Gendarmerie",
+  "Address": "Mary Rd, Zinder, Niger",
+  "phone": "+22720512702"
+ },
+ {
+  "id": 202,
+  "name": "SAMINOU MATI",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 203,
+  "name": "Sultanat des saveurs",
+  "Address": "Zinder, Niger",
+  "phone": "+22790776262"
+ },
+ {
+  "id": 204,
+  "name": "Jardin Cactus",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 205,
+  "name": "Mountaka Maï Waké",
+  "Address": "Zinder, Niger",
+  "phone": "+22796115081"
+ },
+ {
+  "id": 206,
+  "name": "FERME AVICOLE WADATA",
+  "Address": "RN11, Zinder, Niger",
+  "phone": "+22798761862"
+ },
+ {
+  "id": 207,
+  "name": "Koleram",
+  "Address": "Zinder, Niger",
+  "phone": ""
+ },
+ {
+  "id": 208,
+  "name": "Panorama Business Center",
+  "Address": "RN11, Zinder, Niger",
+  "phone": "+22791121112"
+ },
+ {
+  "id": 209,
+  "name": "Damagaram Haraka Centre",
+  "Address": "RN1, Zinder, Niger",
+  "phone": "+22796621113"
+ },
+ {
+  "id": 210,
+  "name": "HÔTEL HORIZON - MARADI",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 211,
+  "name": "GUEST HOUSE",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 212,
+  "name": "Le Prestige Hotel Maradi Ville",
+  "Address": "Maradi, Niger",
+  "phone": "+22796273404"
+ },
+ {
+  "id": 213,
+  "name": "Jangorzo",
+  "Address": "Hôtel Alheri, Maradi, Niger",
+  "phone": "+22792437474"
+ },
+ {
+  "id": 214,
+  "name": "Hôtel Larewa",
+  "Address": "Maradi, Niger",
+  "phone": "+22720410787"
+ },
+ {
+  "id": 215,
+  "name": "Hôtels gao hausse maradi",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 216,
+  "name": "Soura",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 217,
+  "name": "Ets Sani Gonda Abdoulkader",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 218,
+  "name": "Résidence Mourna",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": "+22720411622"
+ },
+ {
+  "id": 219,
+  "name": "Maraké Saboua",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": "+22796041966"
+ },
+ {
+  "id": 220,
+  "name": "Hôtel manding",
+  "Address": "Maradi Ads, 2456, Niger",
+  "phone": "+22796974626"
+ },
+ {
+  "id": 221,
+  "name": "Auberge La Référence",
+  "Address": "Maradi, Niger",
+  "phone": "+22796571381"
+ },
+ {
+  "id": 222,
+  "name": "Hotel Alheri Maradi2",
+  "Address": "www: hôtelmanding com, RN9, Maradi, Niger",
+  "phone": "+22797921616"
+ },
+ {
+  "id": 223,
+  "name": "Prince tambari",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 224,
+  "name": "KSG Plaza",
+  "Address": "Bp 227, Maradi, Niger",
+  "phone": "+22795550000"
+ },
+ {
+  "id": 225,
+  "name": "Hôtel du sahel",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 226,
+  "name": "Restaurant Eden",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 227,
+  "name": "Restaurant Fara’a",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": "+22796041966"
+ },
+ {
+  "id": 228,
+  "name": "ROSARIO",
+  "Address": "Maradi, Niger",
+  "phone": "+22796778480"
+ },
+ {
+  "id": 229,
+  "name": "KSG Plaza",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 230,
+  "name": "Restaurant Madougoi",
+  "Address": "Maradi, Niger",
+  "phone": "+22789990000"
+ },
+ {
+  "id": 231,
+  "name": "Moussa Ahmed",
+  "Address": "RN9, Maradi, Niger",
+  "phone": "+22796971228"
+ },
+ {
+  "id": 232,
+  "name": "Restaurant La Teranga",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": "+2348083541253"
+ },
+ {
+  "id": 233,
+  "name": "Boulangerie La Mosquee",
+  "Address": "Maradi, Niger",
+  "phone": "+22790760198"
+ },
+ {
+  "id": 234,
+  "name": "Palace Air",
+  "Address": "Maradi, Niger",
+  "phone": "+22798998988"
+ },
+ {
+  "id": 235,
+  "name": "Restaurant Café Le Sahel",
+  "Address": "Maradi, Niger",
+  "phone": "+22791757530"
+ },
+ {
+  "id": 236,
+  "name": "Niger",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 237,
+  "name": "Mai Zabi",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 238,
+  "name": "Restaurant cheik jafar",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": "+22797003071"
+ },
+ {
+  "id": 239,
+  "name": "Restaurant cheik jafar",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 240,
+  "name": "Restaurant maquis amazone",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 241,
+  "name": "Groupe ROYAL VIP",
+  "Address": "Rue de hôpital de référence, Ads, Niger",
+  "phone": ""
+ },
+ {
+  "id": 242,
+  "name": "Meilleur Viande de Moutons griée",
+  "Address": "Maradi, Niger",
+  "phone": "+22790652263"
+ },
+ {
+  "id": 243,
+  "name": "LOS TALLOS",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 244,
+  "name": "Facific",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 245,
+  "name": "GUEST HOUSE",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 246,
+  "name": "93 empire",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 247,
+  "name": "Femi Food and Drink",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 248,
+  "name": "Al Khairat restaurant",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": "+22781497998"
+ },
+ {
+  "id": 249,
+  "name": "Le marché de bétail de maradi",
+  "Address": "Unnamed Road ADS, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 250,
+  "name": "Kader mai chaï",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 251,
+  "name": "Complexe Clotaire Alavo",
+  "Address": "Maradi, Niger",
+  "phone": "+22799666576"
+ },
+ {
+  "id": 252,
+  "name": "Résidence Mourna",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 253,
+  "name": "Eclair Informatique",
+  "Address": "Maradi, Niger",
+  "phone": "+22794242858"
+ },
+ {
+  "id": 254,
+  "name": "MJC",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 255,
+  "name": "Restaurant Nagabass",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 256,
+  "name": "Magasin PAM Maradi",
+  "Address": "Maradi, Niger",
+  "phone": "+22796978615"
+ },
+ {
+  "id": 257,
+  "name": "Zamani Business Center",
+  "Address": "Unnamed Road, Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 258,
+  "name": "Niger commerce",
+  "Address": "Maradi, Niger",
+  "phone": "+22796681140"
+ },
+ {
+  "id": 259,
+  "name": "Marché de Sonita",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 260,
+  "name": "Bagalam Dan Gao",
+  "Address": "RN9, Maradi, Niger",
+  "phone": "+218920201586"
+ },
+ {
+  "id": 261,
+  "name": "Maradi Store",
+  "Address": "Maradi, Niger",
+  "phone": "+22799404030"
+ },
+ {
+  "id": 262,
+  "name": "Bouzou City Center",
+  "Address": "Maradi, Niger",
+  "phone": ""
+ },
+ {
+  "id": 263,
+  "name": "Hotel de la Paix d 'Agadez",
+  "Address": "BP277 Auberge d'Azel, Agadez 0001, Niger",
+  "phone": "+22796962700"
+ },
+ {
+  "id": 264,
+  "name": "Auberge d'Azel",
+  "Address": "Agadez, Niger",
+  "phone": "+22720440234"
+ },
+ {
+  "id": 265,
+  "name": "Auberge Tellit Rafael Antunes",
+  "Address": "Agadez, Niger",
+  "phone": "+22785302680"
+ },
+ {
+  "id": 266,
+  "name": "OMBAETE RESTURANT",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 267,
+  "name": "Restaurant La Fontaine",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 268,
+  "name": "Restaurant le pilier Agadez",
+  "Address": "Parking lot, Unnamed Road, Agadez, Niger",
+  "phone": "+22790248887"
+ },
+ {
+  "id": 269,
+  "name": "Degui",
+  "Address": "Unnamed Road, Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 270,
+  "name": "Sahara Land",
+  "Address": "Unnamed Road,, Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 271,
+  "name": "Restaurant Djalaye",
+  "Address": "Agadez, Niger",
+  "phone": "+22799352035"
+ },
+ {
+  "id": 272,
+  "name": "Restaurant Hirondelle",
+  "Address": "Agadez, Niger",
+  "phone": "+22796237287"
+ },
+ {
+  "id": 273,
+  "name": "Aghazarmadran restuarant",
+  "Address": "SAHARA LAND, Agadez, Niger",
+  "phone": "+22788404242"
+ },
+ {
+  "id": 274,
+  "name": "Dal Niger pizza",
+  "Address": "Agadez 1005, Niger",
+  "phone": ""
+ },
+ {
+  "id": 275,
+  "name": "GRAMIS FOOD",
+  "Address": "Agadez, Niger",
+  "phone": "+4915227339862"
+ },
+ {
+  "id": 276,
+  "name": "Restaurant soudanais, cuisine populaire",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 277,
+  "name": "Maquis Targuif Agadez",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 278,
+  "name": "Place Issoufou Gali",
+  "Address": "Agadez, Niger",
+  "phone": "+22785302680"
+ },
+ {
+  "id": 279,
+  "name": "Restaurant Wadata",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 280,
+  "name": "Maman Sani",
+  "Address": "Agadez, Niger",
+  "phone": "+22790090070"
+ },
+ {
+  "id": 281,
+  "name": "Restaurant la jouvence",
+  "Address": "Agadez, Niger",
+  "phone": "+22796775806"
+ },
+ {
+  "id": 282,
+  "name": "Tadek",
+  "Address": "Agadez, Niger",
+  "phone": "+22720440234"
+ },
+ {
+  "id": 283,
+  "name": "Restaurant Telit",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 284,
+  "name": "Republique du Poulet",
+  "Address": "Agadez, Niger",
+  "phone": "+22720440458"
+ },
+ {
+  "id": 285,
+  "name": "MSF_Restaurant_Gama-Gari",
+  "Address": "BP277 Auberge d'Azel, Agadez 0001, Niger",
+  "phone": "+22796962700"
+ },
+ {
+  "id": 286,
+  "name": "Fada loki",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 287,
+  "name": "Restaurant la fontaine",
+  "Address": "Avenue Alzouma Kantana Agadez NE Agades Tchirozerine Agadez NE, Agadez, Niger",
+  "phone": "+22796982497"
+ },
+ {
+  "id": 288,
+  "name": "Akim service",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 289,
+  "name": "Restaurant le Révolutionnaire",
+  "Address": "mène au Commissariat de Police. Dans les anciens, En face de la station Total à côté de (ex Hôpital régional d'Agadez) sur le pavé qui, locaux de la Poste, Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 290,
+  "name": "Sani Hachimou 512",
+  "Address": "Agadez, Niger",
+  "phone": "+22794339892"
+ },
+ {
+  "id": 291,
+  "name": "Abduol Nasser Amghar",
+  "Address": "X2G3+5QQ Sabon gari, Agadez, Niger",
+  "phone": "+22796490800"
+ },
+ {
+  "id": 292,
+  "name": "Cybercafé NTA",
+  "Address": "Agadez, Niger",
+  "phone": "+22797104516"
+ },
+ {
+  "id": 293,
+  "name": "Hôtel Zagado",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 294,
+  "name": "Imane RAHÁA",
+  "Address": "2000, Agadez 2000, Niger",
+  "phone": "20002000"
+ },
+ {
+  "id": 295,
+  "name": "Dawits Kinder missbrauch keller",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 296,
+  "name": "École tilam",
+  "Address": "Face MJC, Agadez, Niger",
+  "phone": "+22790193310"
+ },
+ {
+  "id": 297,
+  "name": "Auberge d'Azel",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 298,
+  "name": "Hotel Etoile Du Ténéré",
+  "Address": "hôtel de la paix, Agadez,face, Agadez, Niger",
+  "phone": "+22795155151"
+ },
+ {
+  "id": 299,
+  "name": "18 Bar",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 300,
+  "name": "Hotel de la Paix d 'Agadez",
+  "Address": "RN25, Agadez, Niger",
+  "phone": "+22774518624"
+ },
+ {
+  "id": 301,
+  "name": "Chicha Hamza",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 302,
+  "name": "Auberge Taguelmoust",
+  "Address": "Unnamed Road, Agadez, Niger",
+  "phone": "+22781661278"
+ },
+ {
+  "id": 303,
+  "name": "Auberge Tellit Rafael Antunes",
+  "Address": "Agadez, Niger",
+  "phone": "+22789642354"
+ },
+ {
+  "id": 304,
+  "name": "Boulangerie Telwa",
+  "Address": "Agadez, Niger",
+  "phone": "+22798383535"
+ },
+ {
+  "id": 305,
+  "name": "Cimetière",
+  "Address": "Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 306,
+  "name": "Marche EST",
+  "Address": "Unnamed Road, Agadez, Niger",
+  "phone": ""
+ },
+ {
+  "id": 307,
+  "name": "hogrideerrr supercel hq(hotel to slep)",
+  "Address": "Unnamed Road, Agadez, Niger",
+  "phone": "+22790838575"
+ },
+ {
+  "id": 308,
+  "name": "Aliance Française D'Agadez",
+  "Address": "rue de l'aeroport, Agadez, Niger",
+  "phone": "+22781848975"
+ },
+ {
+  "id": 309,
+  "name": "Les Boutiques Tagbati",
+  "Address": "Agadez, Niger",
+  "phone": "+22796566464"
+ },
+ {
+  "id": 310,
+  "name": "ETS KAYASSA",
+  "Address": "Agadez, Niger",
+  "phone": "+22796373878"
+ },
+ {
+  "id": 311,
+  "name": "Auberge d'Azel",
+  "Address": "BP277 Auberge d'Azel, Agadez 0001, Niger",
+  "phone": "+22796962700"
+ },
+ {
+  "id": 312,
+  "name": "Auberge Taguelmoust",
+  "Address": "Agadez, Niger",
+  "phone": "+22720440458"
+ },
+ {
+  "id": 313,
+  "name": "Hotel Etoile Du Ténéré",
+  "Address": "Agadez, Niger",
+  "phone": "+22791331016"
+ },
+ {
+  "id": 314,
+  "name": "Mano Dayak Agadez International Airport",
+  "Address": "Agadez, Niger",
+  "phone": "+22794339892"
+ },
+ {
+  "id": 315,
+  "name": "Hôtel Etoile Du Ténéré",
+  "Address": "Niamey, Niger",
+  "phone": "+22795124288"
+ },
+ {
+  "id": 316,
+  "name": "Agadez Region",
+  "Address": "Agadez, Niger",
+  "phone": "+22798237272"
+ },
+ {
+  "id": 317,
+  "name": "Great Mosque of Niamey",
+  "Address": "Agadez, Niger",
+  "phone": "+22791410799"
+ },
+ {
+  "id": 318,
+  "name": "Hôtel Temet",
+  "Address": "Route Tahoua Arlit, RN25, Agadez, Niger",
+  "phone": "+22720440264"
+ },
+ {
+  "id": 319,
+  "name": "Hôtel Telwa Bungalow",
+  "Address": "Arlit, Niger",
+  "phone": "+22796996000"
+ },
+ {
+  "id": 320,
+  "name": "مطعم القارة السمراء السياحي Hotel",
+  "Address": "Arlit, Niger",
+  "phone": ""
+ },
+ {
+  "id": 321,
+  "name": "RESTAURANT AL-MAHANNA",
+  "Address": "Nouveau pavé école quartier, Akokan, Niger",
+  "phone": "+22794101949"
+ },
+ {
+  "id": 322,
+  "name": "Pizzaria Sarho",
+  "Address": "Arlit, Niger",
+  "phone": "+22798132959"
+ },
+ {
+  "id": 323,
+  "name": "Restaurant al kawçer",
+  "Address": "Arlit, Niger",
+  "phone": ""
+ },
+ {
+  "id": 324,
+  "name": "Tsapta fast food",
+  "Address": "Arlit, Niger",
+  "phone": "+22797889766"
+ },
+ {
+  "id": 325,
+  "name": "Tout c'est bon",
+  "Address": "Arlit, Niger",
+  "phone": "+22795650918"
+ },
+ {
+  "id": 326,
+  "name": "Quartier Corbeille",
+  "Address": "Akokan, Niger",
+  "phone": "+22790247374"
+ },
+ {
+  "id": 327,
+  "name": "Csp Tarat",
+  "Address": "Arlit, Niger",
+  "phone": "+22780234618"
+ },
+ {
+  "id": 328,
+  "name": "Hôtel Temet",
+  "Address": "RN25, Arlit, Niger",
+  "phone": "+22798405344"
+ },
+ {
+  "id": 329,
+  "name": "Studio Alfarma Arlit",
+  "Address": "cité Somaïr, Arlit, Niger",
+  "phone": ""
+ },
+ {
+  "id": 330,
+  "name": "Marché central d’Arlit",
+  "Address": "Arlit, Niger",
+  "phone": "+22791773126"
+ },
+ {
+  "id": 331,
+  "name": "Trakou Marche",
+  "Address": "Arlit, Niger",
+  "phone": "+22791271988"
+ },
+ {
+  "id": 332,
+  "name": "¥kZ",
+  "Address": "Abdoulaye Laouali Arlit, 8000, Niger",
+  "phone": "+22798806860"
+ },
+ {
+  "id": 333,
+  "name": "Boulangerie Pâtisserie Mani Dan Azoumi",
+  "Address": "Unnamed Road, Arlit, Niger",
+  "phone": "+22780198847"
+ },
+ {
+  "id": 334,
+  "name": "BLUE-MARA SERVICES",
+  "Address": "RN25, Arlit, Niger",
+  "phone": "+22798381007"
+ },
+ {
+  "id": 335,
+  "name": "Arlit cité somaïr",
+  "Address": "Arlit, Niger",
+  "phone": "+22796996000"
+ },
+ {
+  "id": 336,
+  "name": "Sociétè des transforme Nigerienne",
+  "Address": "Arlit, Niger",
+  "phone": "+22796675103"
+ },
+ {
+  "id": 337,
+  "name": "Marché central d’Arlit",
+  "Address": "Boulevard Mali Bero, Niamey, Niger",
+  "phone": "+22792808216"
+ },
+ {
+  "id": 338,
+  "name": "Stade Somaïr",
+  "Address": "Niamey, Niger",
+  "phone": "+22790400351"
+ },
+ {
+  "id": 339,
+  "name": "A.C.S Business Center",
+  "Address": "Arlit, Niger",
+  "phone": "+22796675103"
+ },
+ {
+  "id": 340,
+  "name": "Orange Niger Company",
+  "Address": "Arlit, Niger",
+  "phone": ""
+ }
 ]

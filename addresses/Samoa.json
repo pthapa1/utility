@@ -1,888 +1,1070 @@
 [
-  {
-    "name": "Tanoa Tusitala Hotel",
-    "address": "Matautu St, Apia, Samoa",
-    "phone": "+68561000"
-  },
-  {
-    "name": "Taumeasina Island Resort",
-    "address": "Falealili St, Apia, Samoa",
-    "phone": "+68520272"
-  },
-  {
-    "name": "Lava Hotel Apia",
-    "address": "Matautu St, Apia, Samoa",
-    "phone": "+68561000"
-  },
-  {
-    "name": "Samoan Outrigger Hotel",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68521122"
-  },
-  {
-    "name": "Le Manumea Hotel",
-    "address": "Main Beach Road, Apia, Samoa",
-    "phone": "+6858445282"
-  },
-  {
-    "name": "Karl's Getaway Hotel & Tours",
-    "address": "The Cross Island Road, Apia, Samoa",
-    "phone": "+6857578542"
-  },
-  {
-    "name": "Talofa Inn",
-    "address": "Vaea St, Apia, Samoa",
-    "phone": "+68525755"
-  },
-  {
-    "name": "Moatoga Hotel",
-    "address": "Main Beach Road, Apia, Samoa",
-    "phone": "+6858445282"
-  },
-  {
-    "name": "Insel Fehmarn Hotel",
-    "address": "Tafatafa, Tai, Samoa",
-    "phone": "+6857614256"
-  },
-  {
-    "name": "Lynn's Getaway Samoa",
-    "address": "South East Coast Road, Lalomanu, Samoa",
-    "phone": "+68547800"
-  },
-  {
-    "name": "Olivias Accommodation",
-    "address": "Edens Edge, Togafu'afu'a Rd, Apia, Samoa",
-    "phone": "+68526202"
-  },
-  {
-    "name": "Sheraton Samoa Aggie Grey's Hotel & Bungalows",
-    "address": "Olosega, Manu'a District, American Samoa",
-    "phone": "+16846551164"
-  },
-  {
-    "name": "Saletoga Sands Resort & Spa",
-    "address": "Main South Coast Rd, Savaia, Samoa",
-    "phone": "+6857587294"
-  },
-  {
-    "name": "Leuaina Beach Resort",
-    "address": "Samoa, Faleolo, Main West Coast Rd",
-    "phone": null
-  },
-  {
-    "name": "Coconuts Beach Club Resort & Spa",
-    "address": "Vaiusu Rd, Vaitele, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Return to Paradise Resort",
-    "address": "Tafuna, Western District 96799, American Samoa",
-    "phone": "+16846996333"
-  },
-  {
-    "name": "Sina PJ Fales & Surf",
-    "address": "Matareva Beach, Salamumu, Samoa",
-    "phone": "+6858400552"
-  },
-  {
-    "name": "Vaiula Beach Fales",
-    "address": "Utulei 3222, Pago Pago, 96799, American Samoa",
-    "phone": "322296799"
-  },
-  {
-    "name": "Skyview Hotel Tiapapata",
-    "address": "Beach Rd, Maninoa, Samoa",
-    "phone": "+6857281009"
-  },
-  {
-    "name": "Le Alaimoana Hotel",
-    "address": "Ili Ili, Western District, American Samoa",
-    "phone": "+16846998517"
-  },
-  {
-    "name": "The White House Hotel - Apia Samoa",
-    "address": "Nelson Road, Apia, Samoa",
-    "phone": "+6857570866"
-  },
-  {
-    "name": "Samoana Boutique Hotel",
-    "address": "-14.033827, -171.610023, Unamed Road, Samoa, Samoa",
-    "phone": "14033827171610023"
-  },
-  {
-    "name": "Vaea Hotel Samoa",
-    "address": "North Coast Road, Lalomalava, Samoa",
-    "phone": "+68551296"
-  },
-  {
-    "name": "Le Sanita Hotel",
-    "address": "Vaitele St, Apia, Samoa",
-    "phone": "+6857504582"
-  },
-  {
-    "name": "Alec's Hotel",
-    "address": "Fugalei St, Apia, Samoa",
-    "phone": "+68526829"
-  },
-  {
-    "name": "The St Therese Samoa Retreat and Accommodation",
-    "address": "Ili Ili Fogagogo, 96799, American Samoa",
-    "phone": "+16847826624"
-  },
-  {
-    "name": "Pasefika Inn",
-    "address": "Matautu Lefaga Before Return To Paradise Resort, Matautu Lefaga, Apia, Samoa",
-    "phone": "+6857535198"
-  },
-  {
-    "name": "Amau Apartments",
-    "address": "Fugalei St, Apia, Samoa",
-    "phone": "+6858400007"
-  },
-  {
-    "name": "Lotopa Lodge",
-    "address": "APAULA HEIGHTS, MT. VAEA, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Ulalei Accomodation Bar & Restaurant",
-    "address": "Satui Rd Fasitoo-uta WS, Fasito'outa, Samoa",
-    "phone": "+6857251061"
-  },
-  {
-    "name": "Moanalisa Hotel",
-    "address": "Fugalei St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Samoan Village Hostel",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": "+6857771222"
-  },
-  {
-    "name": "Aniva's Place B&B",
-    "address": "Main South Coast Road, Salamumu Beach, Samoa",
-    "phone": "+6857672843"
-  },
-  {
-    "name": "Vailima Hillside Apartments",
-    "address": "101 Vini Road, Apia, Samoa",
-    "phone": "+6857722232"
-  },
-  {
-    "name": "Sa'Moana Beach Bungalows",
-    "address": "Main North Coast Road, Main West Coast Rd, Vaitele, Samoa",
-    "phone": "+68521421"
-  },
-  {
-    "name": "Valentines Motel",
-    "address": "Savalalo Rd, Apia, Samoa",
-    "phone": "+68522399"
-  },
-  {
-    "name": "Le Aura Inn",
-    "address": "Tanumapua Village Alafaalava Road, Alafa'alava Rd, Aleisa, Apia, Samoa",
-    "phone": "+68529136"
-  },
-  {
-    "name": "Golden island motel",
-    "address": "Saleufi St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Maliu Mai Beach Resort",
-    "address": "Lotopa, Lotopa Rd, Apia, Samoa",
-    "phone": "+68530367"
-  },
-  {
-    "name": "Tatiana Motel Fugalei",
-    "address": "Beach Road, Apia, Samoa",
-    "phone": "+68522202"
-  },
-  {
-    "name": "Apaula Heights Lounge",
-    "address": "Leauva'a, Main West Coast Road, Apia, Samoa",
-    "phone": "+68542412"
-  },
-  {
-    "name": "Talanoa Fales Accommodation",
-    "address": "Salanesa Rd, Apia, Samoa",
-    "phone": "+68528303"
-  },
-  {
-    "name": "Samoa Sport Lodge",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68533007"
-  },
-  {
-    "name": "Faimafili Village Resort",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68521116"
-  },
-  {
-    "name": "Vicky's Motel",
-    "address": "Matautu St, Apia, Samoa",
-    "phone": "+68520971"
-  },
-  {
-    "name": "The Savaiian Hotel",
-    "address": "Togafu'afu'a Rd, Lalovaea, Samoa",
-    "phone": "+68522714"
-  },
-  {
-    "name": "Sesilia Apartments At Vailoa",
-    "address": "Ululoloa Heights, Apia, Samoa",
-    "phone": "+68525699"
-  },
-  {
-    "name": "Salani Surf Resort",
-    "address": "Apia Park Street, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Moana O Sina",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": "+6858436666"
-  },
-  {
-    "name": "Galusina Village Resort",
-    "address": "Matautu St, Apia, Samoa",
-    "phone": "+68520392"
-  },
-  {
-    "name": "Bougainville Suites",
-    "address": "Vaitele St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Sadie's Hotels",
-    "address": "JT's, Fugalei St, Apia, Samoa",
-    "phone": "+6857741881"
-  },
-  {
-    "name": "Fiafia Family Lodge",
-    "address": "X86Q+2PR Vaiula Beach Fales, Tafatafa, Samoa",
-    "phone": "+6857792754"
-  },
-  {
-    "name": "Matareva Beach Fales",
-    "address": "Tafitoala Tai Tafitoala, POB 271, Apia, Samoa",
-    "phone": "+6857287694"
-  },
-  {
-    "name": "Lupe's Beach Fale and Resort",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68527889"
-  },
-  {
-    "name": "Tiavi Mt. Escape",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68528286"
-  },
-  {
-    "name": "Faimafili Village Resort",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68527889"
-  },
-  {
-    "name": "Pago Airport Inn",
-    "address": "Lefaga, Matautu, Samoa",
-    "phone": "+68535055"
-  },
-  {
-    "name": "Global Motel",
-    "address": "Faleapuna, Apia, Samoa",
-    "phone": "+68540270"
-  },
-  {
-    "name": "Transit Motel (airport)",
-    "address": "Siumu Village, Maninoa, Samoa",
-    "phone": "+68525191"
-  },
-  {
-    "name": "Le Valasi's Beach Fales",
-    "address": "Tapatapao, Aleisa East, Apia, Apia, Samoa",
-    "phone": "+68528899"
-  },
-  {
-    "name": "Asaga Inn",
-    "address": "Matautu St, Apia, Samoa",
-    "phone": "+6857592457"
-  },
-  {
-    "name": "The Mangrove Garden",
-    "address": "Main Beach Road, Apia, Samoa",
-    "phone": "+6858462800"
-  },
-  {
-    "name": "Vacation Beach Fales",
-    "address": "Falealili St, Apia, Samoa",
-    "phone": "+68523301"
-  },
-  {
-    "name": "Edens Edge Hotel",
-    "address": "120 Moamoa Road, Apia, Samoa",
-    "phone": "+6857291783"
-  },
-  {
-    "name": "Bistro Tatau Restaurant",
-    "address": "Fugalei St, Apia, Samoa",
-    "phone": "+68529604"
-  },
-  {
-    "name": "Paddles Restaurant",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68520628"
-  },
-  {
-    "name": "Mi Amor Restaurant",
-    "address": "Ififi St, Apia, Samoa",
-    "phone": "+68520992"
-  },
-  {
-    "name": "Island Grill - Steak & Seafood",
-    "address": "Ififi St, Apia, Samoa",
-    "phone": "+6857718104"
-  },
-  {
-    "name": "Kokobanana Bar & Grill",
-    "address": "Corner Beach Road and, Fugalei St, Apia, Samoa",
-    "phone": "+68522727"
-  },
-  {
-    "name": "Roko's Restaurant",
-    "address": "Falealili St, Apia, Samoa",
-    "phone": "+68536720"
-  },
-  {
-    "name": "Scalini's Restaurant",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68525962"
-  },
-  {
-    "name": "Tifaimoana Indian Restaurant",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68521819"
-  },
-  {
-    "name": "Sails Restaurant & Bar",
-    "address": "Saleufi St, Apia, Samoa",
-    "phone": "+6857593154"
-  },
-  {
-    "name": "Italiano's Pizza",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68527889"
-  },
-  {
-    "name": "Mari's Restaurant",
-    "address": "ACC Building, Convent St, Apia, Samoa",
-    "phone": "+68520584"
-  },
-  {
-    "name": "The Curry House Restaurant",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+6857679250"
-  },
-  {
-    "name": "Georgies Pizza",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68533311"
-  },
-  {
-    "name": "Pinati Restaurant",
-    "address": "Papaseea Rd, Vaitele, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Justus Seafood Spot, Gatae Street, Vaitele-Uta, Apia, Samoa.",
-    "address": "Matautu Street, Apia, Samoa",
-    "phone": "+685600171"
-  },
-  {
-    "name": "Rosy’s Burgers",
-    "address": "Main East Coast Rd, Apia, Samoa",
-    "phone": "+6858485086"
-  },
-  {
-    "name": "Amanaki Restaurant",
-    "address": "The Cross Island Road, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Taumeasina Restaurant & Bar",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+6858400602"
-  },
-  {
-    "name": "Apia Yacht Club Bar and Restaurant",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": "+6857174864"
-  },
-  {
-    "name": "TEN BELOW SHACK",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "S&S Island Restaurant 海島餐館",
-    "address": "Togafu'afu'a Rd, Apia, Samoa",
-    "phone": null
-  },
-  { "name": "Phat Burger", "address": "Ififi St, Apia, Samoa", "phone": null },
-  {
-    "name": "Bella's Kitchen",
-    "address": "Saleufi St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Treasure Garden Restaurant",
-    "address": "Maugafolau Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Olina's Kitchen",
-    "address": "Savalalo Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Mandarin Palace",
-    "address": "Vaitele St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Skippy's Restaurant",
-    "address": "Papaseea Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Lynn's Restaurant",
-    "address": "SNPF Plaza, 1st Floor SNPF Plaza Mulinu'u Road Apia, Convent St, Apia, Samoa",
-    "phone": "+68533313"
-  },
-  {
-    "name": "Lupe's Catering",
-    "address": "Vaea St, Apia, Samoa",
-    "phone": "+68533666"
-  },
-  {
-    "name": "Taj Mahal Indian Restaurant",
-    "address": "Vaitele Fou, Apia, Samoa",
-    "phone": "+6857206301"
-  },
-  {
-    "name": "R&M Restaurant",
-    "address": "Vaitele St, Apia, Samoa",
-    "phone": "+6857141012"
-  },
-  {
-    "name": "Amani's Restaurant",
-    "address": "Togafu'afu'a Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Feast",
-    "address": "Frankie, Opposite, Samoa",
-    "phone": "+6857557096"
-  },
-  {
-    "name": "LA - Le Alley",
-    "address": "Fugalei Street, P.O.Box 3, Apia, Samoa",
-    "phone": "+68523337"
-  },
-  {
-    "name": "Olasina Catering",
-    "address": "Treasure Garden, Fugalei St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Mama Janes",
-    "address": "Saleufi St, Apia, Samoa",
-    "phone": "+6857222281"
-  },
-  {
-    "name": "South Indian Restaurant",
-    "address": "Vaitele St, Apia, Samoa",
-    "phone": "+68525021"
-  },
-  {
-    "name": "Gabalasti Restaurante",
-    "address": "Convent St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Adodo Hauz Atbp.",
-    "address": "Ififi St, Apia, Samoa",
-    "phone": "+6857133665"
-  },
-  {
-    "name": "Laterano Takeaway n Minimart",
-    "address": "Falealili St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Olliz Takeaways",
-    "address": "Lotopa Rd, Apia, Samoa",
-    "phone": "+6857702014"
-  },
-  {
-    "name": "Izzy's Restaurant",
-    "address": "Michelle's Store & Restaurant, Main East Coast Rd, Apia, Samoa",
-    "phone": "+6858464023"
-  },
-  {
-    "name": "JOJOs DINER",
-    "address": "Unnamed Road, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Kala’s and Tui’s",
-    "address": "Fugalei St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Chinese Restaurant - Vaimea",
-    "address": "3722 Gatae Street, Vaitele-Uta, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "EnT's Cafe",
-    "address": "Tamanu St Vaitele Tai, Apia, Samoa",
-    "phone": "+6858424177"
-  },
-  {
-    "name": "Maroons Boys Corner BBQ",
-    "address": "Mall, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Totoka Takeaways",
-    "address": "Main Beach Road, Apia, Samoa",
-    "phone": "+68522880"
-  },
-  {
-    "name": "Student Pizza",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68521116"
-  },
-  {
-    "name": "Spice House Restaurant",
-    "address": "Convent Street, Apia, Samoa",
-    "phone": "+6857604352"
-  },
-  {
-    "name": "Alaisa Restaurant",
-    "address": "Togafu'afu'a Rd, Apia, Samoa",
-    "phone": "+68524056"
-  },
-  {
-    "name": "Mr Chippy Takeaways & Restaurant",
-    "address": "Fugalei St, Apia, Samoa",
-    "phone": "+68525363"
-  },
-  {
-    "name": "More Restaurant Samoa",
-    "address": "Sinamoga Uta Road, Apia, Samoa",
-    "phone": "+6857726187"
-  },
-  {
-    "name": "H.K Restaurant & Take Away",
-    "address": "Togafu'afu'a Rd, Apia, Samoa",
-    "phone": "+6857701394"
-  },
-  {
-    "name": "RAYMIN",
-    "address": "Salenesa Road, Apia, Samoa",
-    "phone": "+68520275"
-  },
-  {
-    "name": "Chick-a-licious",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68525050"
-  },
-  {
-    "name": "DMC Plaza",
-    "address": "Vaea St, Apia, Samoa",
-    "phone": "+68521996"
-  },
-  {
-    "name": "Uncle Georgie's Takeaway",
-    "address": "TTM Hospital, Motootua, Opposite, Apia, Samoa",
-    "phone": "+6857129147"
-  },
-  {
-    "name": "Kung Pao noodles",
-    "address": "Savalalo Rd, Apia, Samoa",
-    "phone": "+68522586"
-  },
-  {
-    "name": "Bessie Rental Fish n Chips",
-    "address": "Chinese Restaurant, Togafu'afu'a Rd, Apia, Samoa",
-    "phone": "+6857599836"
-  },
-  {
-    "name": "Robert Louis ⁰9⁶ⁿ Museum",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": "+6857224260"
-  },
-  {
-    "name": "RIVAIV CAFE Tanugamanono",
-    "address": "Lotopa Rd, Apia, Samoa",
-    "phone": "+6857596042"
-  },
-  {
-    "name": "Penny and Malama",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+6857520628"
-  },
-  {
-    "name": "Kardenia'z-Takeaway, Catering,Car Wash and Laundromat",
-    "address": "Taumeasina Drive, Apia, Samoa",
-    "phone": "+6857599619"
-  },
-  {
-    "name": "DMC Motootua",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "SMDA Takeaway and Restaurant",
-    "address": "Vaitele-Uta, Gatae Street, Apia, Lesa ma Penn, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "LnJ's Takeaways (Moataa) Fish & Chips",
-    "address": "Fugalei Street, Fugalei St, Apia, Samoa",
-    "phone": "+6857741881"
-  },
-  {
-    "name": "Denzel Catering",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68527979"
-  },
-  {
-    "name": "Bek's Restaurant",
-    "address": "Vaea St, Apia, Samoa",
-    "phone": "+68523781"
-  },
-  {
-    "name": "Tauese Seaview Hotel",
-    "address": "Togafu'afu'a Rd, Apia, Samoa",
-    "phone": "+68524248"
-  },
-  {
-    "name": "Chan Complex",
-    "address": "Cross Island Road, Papaloloa, Apia, Samoa",
-    "phone": "+6857701904"
-  },
-  {
-    "name": "Farmers Shopping Center",
-    "address": "NPF Plaza, Apia, Samoa",
-    "phone": "+6858424385"
-  },
-  {
-    "name": "Frankie Mall Supermarket",
-    "address": "Saleufi St, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Pacific Jewell Gift Shop & Garden Café",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Plantation House",
-    "address": "Lotemau Mall, 2nd, Vaea St, Apia, Samoa",
-    "phone": "+68523371"
-  },
-  {
-    "name": "Flea Market",
-    "address": "Market - Fugalei, Saleufi St, Apia, Samoa",
-    "phone": "+68522925"
-  },
-  {
-    "name": "Janet's at Tanoa Tusitala Hotel",
-    "address": "Flea Market, Mulinu'u Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Chan Mow Supermarket and Department Store",
-    "address": "Levili Blvd, Apia, Samoa",
-    "phone": "+68532888"
-  },
-  {
-    "name": "Janet's at Sheraton Aggie Grey's Hotel",
-    "address": "Main West Coast Rd, Afega, Samoa",
-    "phone": null
-  },
-  {
-    "name": "New Chan Mow Supermarket Complex",
-    "address": "Vaea St, Apia, Samoa",
-    "phone": "+68522615"
-  },
-  {
-    "name": "Distribution Services",
-    "address": "Building, SNPF Plaza, Convent St, Apia, Samoa",
-    "phone": "+6857720000"
-  },
-  {
-    "name": "Digicel Samoa Mobile Switching Center",
-    "address": "Vaitele St, Apia, Samoa",
-    "phone": "+68564169"
-  },
-  {
-    "name": "Apia Town Clock Tower",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": "+68520798"
-  },
-  {
-    "name": "Robert Louis Stevenson Museum",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68563521"
-  },
-  {
-    "name": "The Vanya Taule'alo Gallery",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Papaseea Sliding Rocks",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Papapapaitai Falls",
-    "address": "Kelsey Way, Tiapapata,, Apia, Samoa",
-    "phone": "+6857519273"
-  },
-  {
-    "name": "Baha'i House of Worship Samoa",
-    "address": "Savai'i, Matavai, Samoa",
-    "phone": null
-  },
-  {
-    "name": "O Le Pupu-Pue National Park Ma Tree Carpark",
-    "address": "ACC Building, Convent St, Apia, Samoa",
-    "phone": "+68520584"
-  },
-  {
-    "name": "Falefa Falls",
-    "address": "Togafu'afu'a Rd, Apia, Samoa",
-    "phone": "+68524056"
-  },
-  {
-    "name": "EFKS Fine Art Museum",
-    "address": "The Cross Island Road, Apia, Samoa",
-    "phone": "+6857578542"
-  },
-  {
-    "name": "Apia General Supplies",
-    "address": "Tanoa Tusitala Hotel, Mulinu'u Rd, Apia, Samoa",
-    "phone": "+6857603454"
-  },
-  {
-    "name": "Giant Clam Sanctuary",
-    "address": "Main Beach Road, Apia, Samoa",
-    "phone": "+6858462800"
-  },
-  {
-    "name": "Sopo'aga Falls Viewpoint",
-    "address": "Mulinu'u Rd, Apia, Samoa",
-    "phone": "+68527889"
-  },
-  {
-    "name": "Togitogiga Waterfall",
-    "address": "Road 001, Utulei, Eastern District, American Samoa",
-    "phone": null
-  },
-  {
-    "name": "Salamumu Beach",
-    "address": "Tafuna, Western District 96799, American Samoa",
-    "phone": null
-  },
-  {
-    "name": "Samoan Highland/Island Adventures",
-    "address": "Lefaga, Matautu, Samoa",
-    "phone": "+68535055"
-  },
-  {
-    "name": "Alofaaga Blowholes",
-    "address": "Main West Coast Rd, Mulifanua, Samoa",
-    "phone": "+6449745214"
-  },
-  {
-    "name": "Apia",
-    "address": "South Coast Road, Siumu Village, Siumu Village, Samoa",
-    "phone": "+6857770007"
-  },
-  {
-    "name": "Plantation House",
-    "address": "Matautu St, Apia, Samoa",
-    "phone": "+68561000"
-  },
-  {
-    "name": "Upolu",
-    "address": "Fagatogo, Eastern District 96799, American Samoa",
-    "phone": "+16846334347"
-  },
-  {
-    "name": "Mu Pagoa Waterfall",
-    "address": "Falealili St, Apia, Samoa",
-    "phone": "+68520272"
-  },
-  {
-    "name": "To Sua Ocean Trench",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68520935"
-  },
-  {
-    "name": "Swimming With Turtles",
-    "address": "Siumu Village, Maninoa, Samoa",
-    "phone": "+68525191"
-  },
-  {
-    "name": "Samoa scenic tour",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68521122"
-  },
-  {
-    "name": "Apia Bay",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68520869"
-  },
-  {
-    "name": "Fugalei Fresh Produce Market",
-    "address": "Beach Rd, Apia, Samoa",
-    "phone": "+68521819"
-  },
-  {
-    "name": "Sinalei Reef Resort & Spa",
-    "address": "Paia, Savaii, Samoa",
-    "phone": "+685601563"
-  },
-  {
-    "name": "Vavau Beach Fales",
-    "address": "Levili Blvd, Apia, Samoa",
-    "phone": "+68532888"
-  },
-  {
-    "name": "Savalalo",
-    "address": "The Booking Hub Apia Marina, Apia, Samoa",
-    "phone": "+6857774744"
-  },
-  {
-    "name": "Tia Seu Lupe",
-    "address": "Lotemau Mall, 2nd, Vaea St, Apia, Samoa",
-    "phone": "+68523371"
-  },
-  {
-    "name": "Paia",
-    "address": "South Stand, Levili Blvd, Apia, Samoa",
-    "phone": null
-  },
-  {
-    "name": "Paia Dwarfs Cave",
-    "address": "Cross Island Rd, Apia, Samoa",
-    "phone": "+68520385"
-  }
+ {
+  "id": 1,
+  "name": "Tanoa Tusitala Hotel",
+  "Address": "Matautu St, Apia, Samoa",
+  "phone": "+68561000"
+ },
+ {
+  "id": 2,
+  "name": "Taumeasina Island Resort",
+  "Address": "Falealili St, Apia, Samoa",
+  "phone": "+68520272"
+ },
+ {
+  "id": 3,
+  "name": "Lava Hotel Apia",
+  "Address": "Matautu St, Apia, Samoa",
+  "phone": "+68561000"
+ },
+ {
+  "id": 4,
+  "name": "Samoan Outrigger Hotel",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68521122"
+ },
+ {
+  "id": 5,
+  "name": "Le Manumea Hotel",
+  "Address": "Main Beach Road, Apia, Samoa",
+  "phone": "+6858445282"
+ },
+ {
+  "id": 6,
+  "name": "Karl's Getaway Hotel \u0026 Tours",
+  "Address": "The Cross Island Road, Apia, Samoa",
+  "phone": "+6857578542"
+ },
+ {
+  "id": 7,
+  "name": "Talofa Inn",
+  "Address": "Vaea St, Apia, Samoa",
+  "phone": "+68525755"
+ },
+ {
+  "id": 8,
+  "name": "Moatoga Hotel",
+  "Address": "Main Beach Road, Apia, Samoa",
+  "phone": "+6858445282"
+ },
+ {
+  "id": 9,
+  "name": "Insel Fehmarn Hotel",
+  "Address": "Tafatafa, Tai, Samoa",
+  "phone": "+6857614256"
+ },
+ {
+  "id": 10,
+  "name": "Lynn's Getaway Samoa",
+  "Address": "South East Coast Road, Lalomanu, Samoa",
+  "phone": "+68547800"
+ },
+ {
+  "id": 11,
+  "name": "Olivias Accommodation",
+  "Address": "Edens Edge, Togafu'afu'a Rd, Apia, Samoa",
+  "phone": "+68526202"
+ },
+ {
+  "id": 12,
+  "name": "Sheraton Samoa Aggie Grey's Hotel \u0026 Bungalows",
+  "Address": "Olosega, Manu'a District, American Samoa",
+  "phone": "+16846551164"
+ },
+ {
+  "id": 13,
+  "name": "Saletoga Sands Resort \u0026 Spa",
+  "Address": "Main South Coast Rd, Savaia, Samoa",
+  "phone": "+6857587294"
+ },
+ {
+  "id": 14,
+  "name": "Leuaina Beach Resort",
+  "Address": "Samoa, Faleolo, Main West Coast Rd",
+  "phone": ""
+ },
+ {
+  "id": 15,
+  "name": "Coconuts Beach Club Resort \u0026 Spa",
+  "Address": "Vaiusu Rd, Vaitele, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 16,
+  "name": "Return to Paradise Resort",
+  "Address": "Tafuna, Western District 96799, American Samoa",
+  "phone": "+16846996333"
+ },
+ {
+  "id": 17,
+  "name": "Sina PJ Fales \u0026 Surf",
+  "Address": "Matareva Beach, Salamumu, Samoa",
+  "phone": "+6858400552"
+ },
+ {
+  "id": 18,
+  "name": "Vaiula Beach Fales",
+  "Address": "Utulei 3222, Pago Pago, 96799, American Samoa",
+  "phone": "322296799"
+ },
+ {
+  "id": 19,
+  "name": "Skyview Hotel Tiapapata",
+  "Address": "Beach Rd, Maninoa, Samoa",
+  "phone": "+6857281009"
+ },
+ {
+  "id": 20,
+  "name": "Le Alaimoana Hotel",
+  "Address": "Ili Ili, Western District, American Samoa",
+  "phone": "+16846998517"
+ },
+ {
+  "id": 21,
+  "name": "The White House Hotel - Apia Samoa",
+  "Address": "Nelson Road, Apia, Samoa",
+  "phone": "+6857570866"
+ },
+ {
+  "id": 22,
+  "name": "Samoana Boutique Hotel",
+  "Address": "-14.033827, -171.610023, Unamed Road, Samoa, Samoa",
+  "phone": "14033827171610023"
+ },
+ {
+  "id": 23,
+  "name": "Vaea Hotel Samoa",
+  "Address": "North Coast Road, Lalomalava, Samoa",
+  "phone": "+68551296"
+ },
+ {
+  "id": 24,
+  "name": "Le Sanita Hotel",
+  "Address": "Vaitele St, Apia, Samoa",
+  "phone": "+6857504582"
+ },
+ {
+  "id": 25,
+  "name": "Alec's Hotel",
+  "Address": "Fugalei St, Apia, Samoa",
+  "phone": "+68526829"
+ },
+ {
+  "id": 26,
+  "name": "The St Therese Samoa Retreat and Accommodation",
+  "Address": "Ili Ili Fogagogo, 96799, American Samoa",
+  "phone": "+16847826624"
+ },
+ {
+  "id": 27,
+  "name": "Pasefika Inn",
+  "Address": "Matautu Lefaga Before Return To Paradise Resort, Matautu Lefaga, Apia, Samoa",
+  "phone": "+6857535198"
+ },
+ {
+  "id": 28,
+  "name": "Amau Apartments",
+  "Address": "Fugalei St, Apia, Samoa",
+  "phone": "+6858400007"
+ },
+ {
+  "id": 29,
+  "name": "Lotopa Lodge",
+  "Address": "APAULA HEIGHTS, MT. VAEA, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 30,
+  "name": "Ulalei Accomodation Bar \u0026 Restaurant",
+  "Address": "Satui Rd Fasitoo-uta WS, Fasito'outa, Samoa",
+  "phone": "+6857251061"
+ },
+ {
+  "id": 31,
+  "name": "Moanalisa Hotel",
+  "Address": "Fugalei St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 32,
+  "name": "Samoan Village Hostel",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": "+6857771222"
+ },
+ {
+  "id": 33,
+  "name": "Aniva's Place B\u0026B",
+  "Address": "Main South Coast Road, Salamumu Beach, Samoa",
+  "phone": "+6857672843"
+ },
+ {
+  "id": 34,
+  "name": "Vailima Hillside Apartments",
+  "Address": "101 Vini Road, Apia, Samoa",
+  "phone": "+6857722232"
+ },
+ {
+  "id": 35,
+  "name": "Sa'Moana Beach Bungalows",
+  "Address": "Main North Coast Road, Main West Coast Rd, Vaitele, Samoa",
+  "phone": "+68521421"
+ },
+ {
+  "id": 36,
+  "name": "Valentines Motel",
+  "Address": "Savalalo Rd, Apia, Samoa",
+  "phone": "+68522399"
+ },
+ {
+  "id": 37,
+  "name": "Le Aura Inn",
+  "Address": "Tanumapua Village Alafaalava Road, Alafa'alava Rd, Aleisa, Apia, Samoa",
+  "phone": "+68529136"
+ },
+ {
+  "id": 38,
+  "name": "Golden island motel",
+  "Address": "Saleufi St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 39,
+  "name": "Maliu Mai Beach Resort",
+  "Address": "Lotopa, Lotopa Rd, Apia, Samoa",
+  "phone": "+68530367"
+ },
+ {
+  "id": 40,
+  "name": "Tatiana Motel Fugalei",
+  "Address": "Beach Road, Apia, Samoa",
+  "phone": "+68522202"
+ },
+ {
+  "id": 41,
+  "name": "Apaula Heights Lounge",
+  "Address": "Leauva'a, Main West Coast Road, Apia, Samoa",
+  "phone": "+68542412"
+ },
+ {
+  "id": 42,
+  "name": "Talanoa Fales Accommodation",
+  "Address": "Salanesa Rd, Apia, Samoa",
+  "phone": "+68528303"
+ },
+ {
+  "id": 43,
+  "name": "Samoa Sport Lodge",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68533007"
+ },
+ {
+  "id": 44,
+  "name": "Faimafili Village Resort",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68521116"
+ },
+ {
+  "id": 45,
+  "name": "Vicky's Motel",
+  "Address": "Matautu St, Apia, Samoa",
+  "phone": "+68520971"
+ },
+ {
+  "id": 46,
+  "name": "The Savaiian Hotel",
+  "Address": "Togafu'afu'a Rd, Lalovaea, Samoa",
+  "phone": "+68522714"
+ },
+ {
+  "id": 47,
+  "name": "Sesilia Apartments At Vailoa",
+  "Address": "Ululoloa Heights, Apia, Samoa",
+  "phone": "+68525699"
+ },
+ {
+  "id": 48,
+  "name": "Salani Surf Resort",
+  "Address": "Apia Park Street, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 49,
+  "name": "Moana O Sina",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": "+6858436666"
+ },
+ {
+  "id": 50,
+  "name": "Galusina Village Resort",
+  "Address": "Matautu St, Apia, Samoa",
+  "phone": "+68520392"
+ },
+ {
+  "id": 51,
+  "name": "Bougainville Suites",
+  "Address": "Vaitele St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 52,
+  "name": "Sadie's Hotels",
+  "Address": "JT's, Fugalei St, Apia, Samoa",
+  "phone": "+6857741881"
+ },
+ {
+  "id": 53,
+  "name": "Fiafia Family Lodge",
+  "Address": "X86Q+2PR Vaiula Beach Fales, Tafatafa, Samoa",
+  "phone": "+6857792754"
+ },
+ {
+  "id": 54,
+  "name": "Matareva Beach Fales",
+  "Address": "Tafitoala Tai Tafitoala, POB 271, Apia, Samoa",
+  "phone": "+6857287694"
+ },
+ {
+  "id": 55,
+  "name": "Lupe's Beach Fale and Resort",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68527889"
+ },
+ {
+  "id": 56,
+  "name": "Tiavi Mt. Escape",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68528286"
+ },
+ {
+  "id": 57,
+  "name": "Faimafili Village Resort",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68527889"
+ },
+ {
+  "id": 58,
+  "name": "Pago Airport Inn",
+  "Address": "Lefaga, Matautu, Samoa",
+  "phone": "+68535055"
+ },
+ {
+  "id": 59,
+  "name": "Global Motel",
+  "Address": "Faleapuna, Apia, Samoa",
+  "phone": "+68540270"
+ },
+ {
+  "id": 60,
+  "name": "Transit Motel (airport)",
+  "Address": "Siumu Village, Maninoa, Samoa",
+  "phone": "+68525191"
+ },
+ {
+  "id": 61,
+  "name": "Le Valasi's Beach Fales",
+  "Address": "Tapatapao, Aleisa East, Apia, Apia, Samoa",
+  "phone": "+68528899"
+ },
+ {
+  "id": 62,
+  "name": "Asaga Inn",
+  "Address": "Matautu St, Apia, Samoa",
+  "phone": "+6857592457"
+ },
+ {
+  "id": 63,
+  "name": "The Mangrove Garden",
+  "Address": "Main Beach Road, Apia, Samoa",
+  "phone": "+6858462800"
+ },
+ {
+  "id": 64,
+  "name": "Vacation Beach Fales",
+  "Address": "Falealili St, Apia, Samoa",
+  "phone": "+68523301"
+ },
+ {
+  "id": 65,
+  "name": "Edens Edge Hotel",
+  "Address": "120 Moamoa Road, Apia, Samoa",
+  "phone": "+6857291783"
+ },
+ {
+  "id": 66,
+  "name": "Bistro Tatau Restaurant",
+  "Address": "Fugalei St, Apia, Samoa",
+  "phone": "+68529604"
+ },
+ {
+  "id": 67,
+  "name": "Paddles Restaurant",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68520628"
+ },
+ {
+  "id": 68,
+  "name": "Mi Amor Restaurant",
+  "Address": "Ififi St, Apia, Samoa",
+  "phone": "+68520992"
+ },
+ {
+  "id": 69,
+  "name": "Island Grill - Steak \u0026 Seafood",
+  "Address": "Ififi St, Apia, Samoa",
+  "phone": "+6857718104"
+ },
+ {
+  "id": 70,
+  "name": "Kokobanana Bar \u0026 Grill",
+  "Address": "Corner Beach Road and, Fugalei St, Apia, Samoa",
+  "phone": "+68522727"
+ },
+ {
+  "id": 71,
+  "name": "Roko's Restaurant",
+  "Address": "Falealili St, Apia, Samoa",
+  "phone": "+68536720"
+ },
+ {
+  "id": 72,
+  "name": "Scalini's Restaurant",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68525962"
+ },
+ {
+  "id": 73,
+  "name": "Tifaimoana Indian Restaurant",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68521819"
+ },
+ {
+  "id": 74,
+  "name": "Sails Restaurant \u0026 Bar",
+  "Address": "Saleufi St, Apia, Samoa",
+  "phone": "+6857593154"
+ },
+ {
+  "id": 75,
+  "name": "Italiano's Pizza",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68527889"
+ },
+ {
+  "id": 76,
+  "name": "Mari's Restaurant",
+  "Address": "ACC Building, Convent St, Apia, Samoa",
+  "phone": "+68520584"
+ },
+ {
+  "id": 77,
+  "name": "The Curry House Restaurant",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+6857679250"
+ },
+ {
+  "id": 78,
+  "name": "Georgies Pizza",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68533311"
+ },
+ {
+  "id": 79,
+  "name": "Pinati Restaurant",
+  "Address": "Papaseea Rd, Vaitele, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 80,
+  "name": "Justus Seafood Spot, Gatae Street, Vaitele-Uta, Apia, Samoa.",
+  "Address": "Matautu Street, Apia, Samoa",
+  "phone": "+685600171"
+ },
+ {
+  "id": 81,
+  "name": "Rosy’s Burgers",
+  "Address": "Main East Coast Rd, Apia, Samoa",
+  "phone": "+6858485086"
+ },
+ {
+  "id": 82,
+  "name": "Amanaki Restaurant",
+  "Address": "The Cross Island Road, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 83,
+  "name": "Taumeasina Restaurant \u0026 Bar",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+6858400602"
+ },
+ {
+  "id": 84,
+  "name": "Apia Yacht Club Bar and Restaurant",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": "+6857174864"
+ },
+ {
+  "id": 85,
+  "name": "TEN BELOW SHACK",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 86,
+  "name": "S\u0026S Island Restaurant 海島餐館",
+  "Address": "Togafu'afu'a Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 87,
+  "name": "Phat Burger",
+  "Address": "Ififi St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 88,
+  "name": "Bella's Kitchen",
+  "Address": "Saleufi St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 89,
+  "name": "Treasure Garden Restaurant",
+  "Address": "Maugafolau Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 90,
+  "name": "Olina's Kitchen",
+  "Address": "Savalalo Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 91,
+  "name": "Mandarin Palace",
+  "Address": "Vaitele St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 92,
+  "name": "Skippy's Restaurant",
+  "Address": "Papaseea Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 93,
+  "name": "Lynn's Restaurant",
+  "Address": "SNPF Plaza, 1st Floor SNPF Plaza Mulinu'u Road Apia, Convent St, Apia, Samoa",
+  "phone": "+68533313"
+ },
+ {
+  "id": 94,
+  "name": "Lupe's Catering",
+  "Address": "Vaea St, Apia, Samoa",
+  "phone": "+68533666"
+ },
+ {
+  "id": 95,
+  "name": "Taj Mahal Indian Restaurant",
+  "Address": "Vaitele Fou, Apia, Samoa",
+  "phone": "+6857206301"
+ },
+ {
+  "id": 96,
+  "name": "R\u0026M Restaurant",
+  "Address": "Vaitele St, Apia, Samoa",
+  "phone": "+6857141012"
+ },
+ {
+  "id": 97,
+  "name": "Amani's Restaurant",
+  "Address": "Togafu'afu'a Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 98,
+  "name": "Feast",
+  "Address": "Frankie, Opposite, Samoa",
+  "phone": "+6857557096"
+ },
+ {
+  "id": 99,
+  "name": "LA - Le Alley",
+  "Address": "Fugalei Street, P.O.Box 3, Apia, Samoa",
+  "phone": "+68523337"
+ },
+ {
+  "id": 100,
+  "name": "Olasina Catering",
+  "Address": "Treasure Garden, Fugalei St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 101,
+  "name": "Mama Janes",
+  "Address": "Saleufi St, Apia, Samoa",
+  "phone": "+6857222281"
+ },
+ {
+  "id": 102,
+  "name": "South Indian Restaurant",
+  "Address": "Vaitele St, Apia, Samoa",
+  "phone": "+68525021"
+ },
+ {
+  "id": 103,
+  "name": "Gabalasti Restaurante",
+  "Address": "Convent St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 104,
+  "name": "Adodo Hauz Atbp.",
+  "Address": "Ififi St, Apia, Samoa",
+  "phone": "+6857133665"
+ },
+ {
+  "id": 105,
+  "name": "Laterano Takeaway n Minimart",
+  "Address": "Falealili St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 106,
+  "name": "Olliz Takeaways",
+  "Address": "Lotopa Rd, Apia, Samoa",
+  "phone": "+6857702014"
+ },
+ {
+  "id": 107,
+  "name": "Izzy's Restaurant",
+  "Address": "Michelle's Store \u0026 Restaurant, Main East Coast Rd, Apia, Samoa",
+  "phone": "+6858464023"
+ },
+ {
+  "id": 108,
+  "name": "JOJOs DINER",
+  "Address": "Unnamed Road, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 109,
+  "name": "Kala’s and Tui’s",
+  "Address": "Fugalei St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 110,
+  "name": "Chinese Restaurant - Vaimea",
+  "Address": "3722 Gatae Street, Vaitele-Uta, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 111,
+  "name": "EnT's Cafe",
+  "Address": "Tamanu St Vaitele Tai, Apia, Samoa",
+  "phone": "+6858424177"
+ },
+ {
+  "id": 112,
+  "name": "Maroons Boys Corner BBQ",
+  "Address": "Mall, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 113,
+  "name": "Totoka Takeaways",
+  "Address": "Main Beach Road, Apia, Samoa",
+  "phone": "+68522880"
+ },
+ {
+  "id": 114,
+  "name": "Student Pizza",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68521116"
+ },
+ {
+  "id": 115,
+  "name": "Spice House Restaurant",
+  "Address": "Convent Street, Apia, Samoa",
+  "phone": "+6857604352"
+ },
+ {
+  "id": 116,
+  "name": "Alaisa Restaurant",
+  "Address": "Togafu'afu'a Rd, Apia, Samoa",
+  "phone": "+68524056"
+ },
+ {
+  "id": 117,
+  "name": "Mr Chippy Takeaways \u0026 Restaurant",
+  "Address": "Fugalei St, Apia, Samoa",
+  "phone": "+68525363"
+ },
+ {
+  "id": 118,
+  "name": "More Restaurant Samoa",
+  "Address": "Sinamoga Uta Road, Apia, Samoa",
+  "phone": "+6857726187"
+ },
+ {
+  "id": 119,
+  "name": "H.K Restaurant \u0026 Take Away",
+  "Address": "Togafu'afu'a Rd, Apia, Samoa",
+  "phone": "+6857701394"
+ },
+ {
+  "id": 120,
+  "name": "RAYMIN",
+  "Address": "Salenesa Road, Apia, Samoa",
+  "phone": "+68520275"
+ },
+ {
+  "id": 121,
+  "name": "Chick-a-licious",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68525050"
+ },
+ {
+  "id": 122,
+  "name": "DMC Plaza",
+  "Address": "Vaea St, Apia, Samoa",
+  "phone": "+68521996"
+ },
+ {
+  "id": 123,
+  "name": "Uncle Georgie's Takeaway",
+  "Address": "TTM Hospital, Motootua, Opposite, Apia, Samoa",
+  "phone": "+6857129147"
+ },
+ {
+  "id": 124,
+  "name": "Kung Pao noodles",
+  "Address": "Savalalo Rd, Apia, Samoa",
+  "phone": "+68522586"
+ },
+ {
+  "id": 125,
+  "name": "Bessie Rental Fish n Chips",
+  "Address": "Chinese Restaurant, Togafu'afu'a Rd, Apia, Samoa",
+  "phone": "+6857599836"
+ },
+ {
+  "id": 126,
+  "name": "Robert Louis ⁰9⁶ⁿ Museum",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": "+6857224260"
+ },
+ {
+  "id": 127,
+  "name": "RIVAIV CAFE Tanugamanono",
+  "Address": "Lotopa Rd, Apia, Samoa",
+  "phone": "+6857596042"
+ },
+ {
+  "id": 128,
+  "name": "Penny and Malama",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+6857520628"
+ },
+ {
+  "id": 129,
+  "name": "Kardenia'z-Takeaway, Catering,Car Wash and Laundromat",
+  "Address": "Taumeasina Drive, Apia, Samoa",
+  "phone": "+6857599619"
+ },
+ {
+  "id": 130,
+  "name": "DMC Motootua",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 131,
+  "name": "SMDA Takeaway and Restaurant",
+  "Address": "Vaitele-Uta, Gatae Street, Apia, Lesa ma Penn, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 132,
+  "name": "LnJ's Takeaways (Moataa) Fish \u0026 Chips",
+  "Address": "Fugalei Street, Fugalei St, Apia, Samoa",
+  "phone": "+6857741881"
+ },
+ {
+  "id": 133,
+  "name": "Denzel Catering",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68527979"
+ },
+ {
+  "id": 134,
+  "name": "Bek's Restaurant",
+  "Address": "Vaea St, Apia, Samoa",
+  "phone": "+68523781"
+ },
+ {
+  "id": 135,
+  "name": "Tauese Seaview Hotel",
+  "Address": "Togafu'afu'a Rd, Apia, Samoa",
+  "phone": "+68524248"
+ },
+ {
+  "id": 136,
+  "name": "Chan Complex",
+  "Address": "Cross Island Road, Papaloloa, Apia, Samoa",
+  "phone": "+6857701904"
+ },
+ {
+  "id": 137,
+  "name": "Farmers Shopping Center",
+  "Address": "NPF Plaza, Apia, Samoa",
+  "phone": "+6858424385"
+ },
+ {
+  "id": 138,
+  "name": "Frankie Mall Supermarket",
+  "Address": "Saleufi St, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 139,
+  "name": "Pacific Jewell Gift Shop \u0026 Garden Café",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 140,
+  "name": "Plantation House",
+  "Address": "Lotemau Mall, 2nd, Vaea St, Apia, Samoa",
+  "phone": "+68523371"
+ },
+ {
+  "id": 141,
+  "name": "Flea Market",
+  "Address": "Market - Fugalei, Saleufi St, Apia, Samoa",
+  "phone": "+68522925"
+ },
+ {
+  "id": 142,
+  "name": "Janet's at Tanoa Tusitala Hotel",
+  "Address": "Flea Market, Mulinu'u Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 143,
+  "name": "Chan Mow Supermarket and Department Store",
+  "Address": "Levili Blvd, Apia, Samoa",
+  "phone": "+68532888"
+ },
+ {
+  "id": 144,
+  "name": "Janet's at Sheraton Aggie Grey's Hotel",
+  "Address": "Main West Coast Rd, Afega, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 145,
+  "name": "New Chan Mow Supermarket Complex",
+  "Address": "Vaea St, Apia, Samoa",
+  "phone": "+68522615"
+ },
+ {
+  "id": 146,
+  "name": "Distribution Services",
+  "Address": "Building, SNPF Plaza, Convent St, Apia, Samoa",
+  "phone": "+6857720000"
+ },
+ {
+  "id": 147,
+  "name": "Digicel Samoa Mobile Switching Center",
+  "Address": "Vaitele St, Apia, Samoa",
+  "phone": "+68564169"
+ },
+ {
+  "id": 148,
+  "name": "Apia Town Clock Tower",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": "+68520798"
+ },
+ {
+  "id": 149,
+  "name": "Robert Louis Stevenson Museum",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68563521"
+ },
+ {
+  "id": 150,
+  "name": "The Vanya Taule'alo Gallery",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 151,
+  "name": "Papaseea Sliding Rocks",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 152,
+  "name": "Papapapaitai Falls",
+  "Address": "Kelsey Way, Tiapapata,, Apia, Samoa",
+  "phone": "+6857519273"
+ },
+ {
+  "id": 153,
+  "name": "Baha'i House of Worship Samoa",
+  "Address": "Savai'i, Matavai, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 154,
+  "name": "O Le Pupu-Pue National Park Ma Tree Carpark",
+  "Address": "ACC Building, Convent St, Apia, Samoa",
+  "phone": "+68520584"
+ },
+ {
+  "id": 155,
+  "name": "Falefa Falls",
+  "Address": "Togafu'afu'a Rd, Apia, Samoa",
+  "phone": "+68524056"
+ },
+ {
+  "id": 156,
+  "name": "EFKS Fine Art Museum",
+  "Address": "The Cross Island Road, Apia, Samoa",
+  "phone": "+6857578542"
+ },
+ {
+  "id": 157,
+  "name": "Apia General Supplies",
+  "Address": "Tanoa Tusitala Hotel, Mulinu'u Rd, Apia, Samoa",
+  "phone": "+6857603454"
+ },
+ {
+  "id": 158,
+  "name": "Giant Clam Sanctuary",
+  "Address": "Main Beach Road, Apia, Samoa",
+  "phone": "+6858462800"
+ },
+ {
+  "id": 159,
+  "name": "Sopo'aga Falls Viewpoint",
+  "Address": "Mulinu'u Rd, Apia, Samoa",
+  "phone": "+68527889"
+ },
+ {
+  "id": 160,
+  "name": "Togitogiga Waterfall",
+  "Address": "Road 001, Utulei, Eastern District, American Samoa",
+  "phone": ""
+ },
+ {
+  "id": 161,
+  "name": "Salamumu Beach",
+  "Address": "Tafuna, Western District 96799, American Samoa",
+  "phone": ""
+ },
+ {
+  "id": 162,
+  "name": "Samoan Highland/Island Adventures",
+  "Address": "Lefaga, Matautu, Samoa",
+  "phone": "+68535055"
+ },
+ {
+  "id": 163,
+  "name": "Alofaaga Blowholes",
+  "Address": "Main West Coast Rd, Mulifanua, Samoa",
+  "phone": "+6449745214"
+ },
+ {
+  "id": 164,
+  "name": "Apia",
+  "Address": "South Coast Road, Siumu Village, Siumu Village, Samoa",
+  "phone": "+6857770007"
+ },
+ {
+  "id": 165,
+  "name": "Plantation House",
+  "Address": "Matautu St, Apia, Samoa",
+  "phone": "+68561000"
+ },
+ {
+  "id": 166,
+  "name": "Upolu",
+  "Address": "Fagatogo, Eastern District 96799, American Samoa",
+  "phone": "+16846334347"
+ },
+ {
+  "id": 167,
+  "name": "Mu Pagoa Waterfall",
+  "Address": "Falealili St, Apia, Samoa",
+  "phone": "+68520272"
+ },
+ {
+  "id": 168,
+  "name": "To Sua Ocean Trench",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68520935"
+ },
+ {
+  "id": 169,
+  "name": "Swimming With Turtles",
+  "Address": "Siumu Village, Maninoa, Samoa",
+  "phone": "+68525191"
+ },
+ {
+  "id": 170,
+  "name": "Samoa scenic tour",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68521122"
+ },
+ {
+  "id": 171,
+  "name": "Apia Bay",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68520869"
+ },
+ {
+  "id": 172,
+  "name": "Fugalei Fresh Produce Market",
+  "Address": "Beach Rd, Apia, Samoa",
+  "phone": "+68521819"
+ },
+ {
+  "id": 173,
+  "name": "Sinalei Reef Resort \u0026 Spa",
+  "Address": "Paia, Savaii, Samoa",
+  "phone": "+685601563"
+ },
+ {
+  "id": 174,
+  "name": "Vavau Beach Fales",
+  "Address": "Levili Blvd, Apia, Samoa",
+  "phone": "+68532888"
+ },
+ {
+  "id": 175,
+  "name": "Savalalo",
+  "Address": "The Booking Hub Apia Marina, Apia, Samoa",
+  "phone": "+6857774744"
+ },
+ {
+  "id": 176,
+  "name": "Tia Seu Lupe",
+  "Address": "Lotemau Mall, 2nd, Vaea St, Apia, Samoa",
+  "phone": "+68523371"
+ },
+ {
+  "id": 177,
+  "name": "Paia",
+  "Address": "South Stand, Levili Blvd, Apia, Samoa",
+  "phone": ""
+ },
+ {
+  "id": 178,
+  "name": "Paia Dwarfs Cave",
+  "Address": "Cross Island Rd, Apia, Samoa",
+  "phone": "+68520385"
+ }
 ]

@@ -1,782 +1,938 @@
 [
-  {
-    "name": "Heritage Park Hotel",
-    "address": "1298 Kukum Highway, Honiara, Solomon Islands",
-    "phone": "+67725201"
-  },
-  {
-    "name": "Solomon Kitano Mendana Hotel",
-    "address": "Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67724007"
-  },
-  {
-    "name": "Coral Sea Resort & Casino",
-    "address": "Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67724007"
-  },
-  {
-    "name": "Heritage Park Hotel",
-    "address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67720071"
-  },
-  {
-    "name": "Solomon Kitano Mendana Hotel",
-    "address": "Panatina Ridge street, Honiara 677, Solomon Islands",
-    "phone": "+67739218"
-  },
-  {
-    "name": "King Solomon Hotel",
-    "address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67720071"
-  },
-  {
-    "name": "Pacific Casino Hotel",
-    "address": "Ngossi Valley Road, Honiara, Solomon Islands",
-    "phone": "+6777426319"
-  },
-  {
-    "name": "T R Apartments",
-    "address": "H283+X69, Abira Road, Honiara, Solomon Islands",
-    "phone": "+6777716623"
-  },
-  {
-    "name": "Sanalae Apartment",
-    "address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
-    "phone": "+67721205"
-  },
-  {
-    "name": "Prestige Apartments",
-    "address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "Access Units",
-    "address": "VRVW+M3P, Police Estate Street, Gizo, Solomon Islands",
-    "phone": "+67760274"
-  },
-  {
-    "name": "Iron Bottom Sound Monarch Hotel",
-    "address": "HX86+4H2, Honiara, Solomon Islands",
-    "phone": "+67727785"
-  },
-  {
-    "name": "Honiara Hotel",
-    "address": "HX86+5C7, Lekamboli Lane, Lower Vavaya Ridge, Honiara, Solomon Islands",
-    "phone": "+67721082"
-  },
-  {
-    "name": "Red Mansion Comfort Inn",
-    "address": "HX86+F4R, Lower Vavaya Ridge, Honiara, Solomon Islands",
-    "phone": "+67725222"
-  },
-  {
-    "name": "Tanuli Royal Plains Motel",
-    "address": "HX92+5P8, Hibiscus Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Rock Haven Inn",
-    "address": "HX85+M78, Honiara, Solomon Islands",
-    "phone": "+6777489189"
-  },
-  {
-    "name": "Rekona Flourish Lodge",
-    "address": "H293+PHQ, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hibiscus Apartments",
-    "address": "PO Box 308, Honiara, Solomon Islands",
-    "phone": "+67720203"
-  },
-  {
-    "name": "Chester Rest House / Hotel",
-    "address": "Aruligho, N/W Guadalcanal, Guadalcanal Province, Solomon Is, Email: dolphinview.beach@gmail.com, Honiara, Solomon Islands",
-    "phone": "+6778627704"
-  },
-  {
-    "name": "St Anges mothers union transit house",
-    "address": "HX68+37P, Honiara, Solomon Islands",
-    "phone": "+67721737"
-  },
-  {
-    "name": "Dolphin View Beach",
-    "address": "H2MX+4QP, Ramsi st, lugga, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Naqua Motel",
-    "address": "HWCW+48X, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67728633"
-  },
-  {
-    "name": "Haydn's Steakhouse",
-    "address": "HX94+86C, Prince Philip Hwy, Honiara, Solomon Islands",
-    "phone": "+6777105858"
-  },
-  {
-    "name": "Cowboy's Grill",
-    "address": "HXC2+CHH, Honiara, Solomon Islands",
-    "phone": "+67727288"
-  },
-  {
-    "name": "Tenkai Sushi Cafe",
-    "address": "HX9H+5RR, Honiara, Solomon Islands",
-    "phone": "+6777273008"
-  },
-  {
-    "name": "Club Havanah",
-    "address": "HWCW+58R, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67724300"
-  },
-  {
-    "name": "Dynasty",
-    "address": "H2CF+X6M, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Tohoma Pizza & Kai haus",
-    "address": "H2C2+573, Lunga Point, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Golden Corner",
-    "address": "HX85+QWM, Cluck St, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Ghasaeli Food Tavern",
-    "address": "HX68+47Q, Chung Wah Rd, Honiara, Solomon Islands",
-    "phone": "+6778715151"
-  },
-  {
-    "name": "Taste & Traditions",
-    "address": "Central Plaza, Shop 360, Honiara, Solomon Islands",
-    "phone": "+6778411146"
-  },
-  {
-    "name": "A & F Restaurant",
-    "address": "HWCX+936, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "Saika Sushi and Teppan Bar",
-    "address": "HX3M+WHR, Unnamed Road, Honiara, Honiara, Solomon Islands",
-    "phone": "+6777250396"
-  },
-  {
-    "name": "Moo Ji Gae (Korean Restaurant)",
-    "address": "HX78+MJR Mataniko River Plaza, Honiara, Solomon Islands",
-    "phone": "+6777148185"
-  },
-  {
-    "name": "Monarch",
-    "address": "HX68+M83, Chung Wah Rd, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Fish Restaurant",
-    "address": "HX85+VVM, Honiara, Solomon Islands",
-    "phone": "+67730023"
-  },
-  {
-    "name": "Season Restaurant",
-    "address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "Local Fusion Cafe & Bar",
-    "address": "HWFM+79V, Tandai Highway, West, Honiara, Solomon Islands",
-    "phone": "+67728822"
-  },
-  {
-    "name": "Mr Grill Fast Food & Noodle Haus",
-    "address": "HX93+W5V, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67725333"
-  },
-  {
-    "name": "Mai Grills",
-    "address": "HXCX+4VH, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": "+67730300"
-  },
-  {
-    "name": "The Terrace",
-    "address": "HX67+676 New Chinatown, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hotel Honiara restaurant",
-    "address": "HXC3+3JX, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Xiao qingdao restaurant",
-    "address": "HX78+RWM, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Pacific Seafood Restaurant",
-    "address": "HX9P+CG6, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hong Kong Palace",
-    "address": "H2CH+XV6 Behind the Market, Kukum Hwy, Lungga, Solomon Islands",
-    "phone": "+6778769340"
-  },
-  {
-    "name": "Nicky's Fast Food",
-    "address": "HXC3+7G8, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67723442"
-  },
-  {
-    "name": "Main Kitchen - Main Caterers",
-    "address": "HXC3+3JX, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "J3C Restaurant",
-    "address": "HXCW+3JV, Honiara, Solomon Islands",
-    "phone": "+6777901111"
-  },
-  {
-    "name": "Harbour Restaurant",
-    "address": "H2CF+X6M, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Injoy Restaurant",
-    "address": "HX9M+CPM, Honiara, Solomon Islands",
-    "phone": "+6778939777"
-  },
-  {
-    "name": "in honiara",
-    "address": "HXCW+3HQ, Prince Philip Highway Plaza, Ranadi, Honiara, Solomon Islands",
-    "phone": "+6777373135"
-  },
-  {
-    "name": "Mix Channel",
-    "address": "HX3F+P5Q, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "New Pavillion",
-    "address": "HX9V+GG8, Panatina, Honiara, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Capitana",
-    "address": "HX92+64W, Honiara, Solomon Islands",
-    "phone": "+67726555"
-  },
-  {
-    "name": "Harry Valea",
-    "address": "HX94+2VX, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Cooler Kaibar",
-    "address": "H2F7+HH5, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hakubai",
-    "address": "1298 Kukum Highway, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Breakwater Cafe",
-    "address": "HXC3+72C, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "River House",
-    "address": "HW9X+XM4, Honiara, Solomon Islands",
-    "phone": "+6778883999"
-  },
-  {
-    "name": "Kare Fast Food",
-    "address": "HX9H+2J5, Honiara, Solomon Islands",
-    "phone": "+67725009"
-  },
-  {
-    "name": "Island BBQ Ltd",
-    "address": "HXC2+CRR, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "The Coffee Bar",
-    "address": "HX8H+XR7, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": "+67722289"
-  },
-  {
-    "name": "Palm Sugar",
-    "address": "HX68+37P, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Red Cross Cafe",
-    "address": "Grand Plaza, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Coral Sea Resort & Casino",
-    "address": "HX9H+5H3, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Cafe Bliss",
-    "address": "HX9M+CQ2, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Frangipani Ice Cream",
-    "address": "HX9Q+6PP, Kukum Hwy, Honiara, Solomon Islands",
-    "phone": "+67730136"
-  },
-  {
-    "name": "Mambo Juice!",
-    "address": "HWCW+87M, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67724300"
-  },
-  {
-    "name": "Aron bako",
-    "address": "HX9H+5RF, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Dong Fang Restaurant",
-    "address": "HX9M+6JV, Honiara, Solomon Islands",
-    "phone": "+67724623"
-  },
-  {
-    "name": "Panatina Plaza Shopping Centre",
-    "address": "HX86+MFV, Honiara, Solomon Islands",
-    "phone": "+67720501"
-  },
-  {
-    "name": "Mokolo Mall",
-    "address": "HX78+PXF, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Central Plaza",
-    "address": "HX68+PHH, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hyundai Mall",
-    "address": "HX78+PH2, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "NPF Plaza",
-    "address": "HW9W+WQV, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Matakino River Plaza",
-    "address": "HX95+768, Mendana Ave, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Point Cruz Centre",
-    "address": "HX9M+7QG, Kukum, Highway, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Chinatown Plaza",
-    "address": "HX94+937, Hibiscus Ave, Honiara, Solomon Islands",
-    "phone": "+67721410"
-  },
-  {
-    "name": "Pacific Ace Plaza",
-    "address": "HX86+V7F, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67722954"
-  },
-  {
-    "name": "Grand Plaza",
-    "address": "HX9V+GG8, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "AJ CITY MALL",
-    "address": "Kukum Hwy, Lungga, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Solomon Kitano Mendana Hotel",
-    "address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67720071"
-  },
-  {
-    "name": "King Solomon Hotel",
-    "address": "GXVJ+Q3M, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Solomon Peace Memorial Park (Japanese war memorial)",
-    "address": "HX93+PVX, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67722442"
-  },
-  {
-    "name": "Solomon Scouts & Coastwatchers Monument",
-    "address": "Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67720137"
-  },
-  {
-    "name": "Solomon Islands National Museum",
-    "address": "HX86+MPR, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+6778787404"
-  },
-  {
-    "name": "S.I. Visitors Bureau",
-    "address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
-    "phone": "+67721205"
-  },
-  {
-    "name": "Guadalcanal Memorial",
-    "address": "Rove, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Honiara Central Market",
-    "address": "HX45+W3W, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Vilu Military Museum",
-    "address": "HXC5+32P, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Holy Cross Cathedral",
-    "address": "Solomon Islands, Lungga, ソロモン諸島",
-    "phone": null
-  },
-  {
-    "name": "Bilikiki Cruises",
-    "address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
-    "phone": "+67721205"
-  },
-  {
-    "name": "Tulagi Dive",
-    "address": "HX85+M78, Honiara, Solomon Islands",
-    "phone": "+6777489189"
-  },
-  {
-    "name": "Honiara",
-    "address": "HX6C+942, Honiara, Solomon Islands",
-    "phone": "+67721124"
-  },
-  {
-    "name": "Jings Spa and Beauty",
-    "address": "HX68+37P, Honiara, Solomon Islands",
-    "phone": "+67721737"
-  },
-  {
-    "name": "Coral Sea Resort & Casino",
-    "address": "H6F7+3W2, Unnamed Road, Ghorambau,, Ghorambau, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Mbonege Beach",
-    "address": "HX9V+GG8, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Heritage Park Hotel",
-    "address": "Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67724007"
-  },
-  {
-    "name": "Panatina Plaza Shopping Centre",
-    "address": "MR3P+WH2, Ruaniu, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Tetere Beach",
-    "address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "Honiara Hotel",
-    "address": "HX7F+H7J, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "King Solomon Hotel",
-    "address": "Mendana Avenue, Honiara, Solomon Islands",
-    "phone": "8006635363"
-  },
-  {
-    "name": "Chester Rest House / Hotel",
-    "address": "HX9M+CQ2, Honiara, Solomon Islands",
-    "phone": "+6777203308"
-  },
-  {
-    "name": "Forum Fisheries Agency",
-    "address": "HX93+VXC, Point Cruz Yacht Club, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67725700"
-  },
-  {
-    "name": "Honiara International Airport",
-    "address": "Holy Cross Catholic Communication, Honiara, Solomon Islands",
-    "phone": "+67721943"
-  },
-  {
-    "name": "Auki Lodge",
-    "address": "Langa Langa Lagoon, Auki, Solomon Islands",
-    "phone": "+6777472344"
-  },
-  {
-    "name": "The Hilltop Guesthouse & Training Centre",
-    "address": "6MPX+3CC, Unnamed Road, Auki, Solomon Islands",
-    "phone": "+6777768334"
-  },
-  {
-    "name": "Rarasu Motel",
-    "address": "6MHX+M4W, Auki, Solomon Islands",
-    "phone": "+6777473934"
-  },
-  {
-    "name": "Serah's Lagoon Hideaway",
-    "address": "6PG2+Q3R, Auki, Solomon Islands",
-    "phone": "+67740454"
-  },
-  {
-    "name": "Restaurant Walls",
-    "address": "HX9H+5RR, Honiara, Solomon Islands",
-    "phone": "+6777273008"
-  },
-  {
-    "name": "Kiisa",
-    "address": "HWCX+936, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "namnam.",
-    "address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "Restaurant Kilim",
-    "address": "HX9M+CVC, Pacific Ace Plaza, Kukum, Hwy, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Auki old market",
-    "address": "Langa Langa Lagoon, Auki, Solomon Islands",
-    "phone": "+6777472344"
-  },
-  {
-    "name": "Auki Lodge",
-    "address": "6MHX+M4W, Auki, Solomon Islands",
-    "phone": "+6777473934"
-  },
-  {
-    "name": "Serah's Lagoon Hideaway",
-    "address": "6MGX+Q37, Auki, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Rarasu Motel",
-    "address": "6PG2+Q3R, Auki, Solomon Islands",
-    "phone": "+67740454"
-  },
-  {
-    "name": "Seurasaari Open-Air Museum",
-    "address": "H6F7+3W2, Unnamed Road, Ghorambau,, Ghorambau, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hvitträsk",
-    "address": "Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67720137"
-  },
-  {
-    "name": "Rekona Lodge",
-    "address": "VRVP+P23 Babanga Island, Gizo, Solomon Islands",
-    "phone": "+6777871313"
-  },
-  {
-    "name": "Fatboys Resort",
-    "address": "VRVW+M3P, Police Estate Street, Gizo, Solomon Islands",
-    "phone": "+67760274"
-  },
-  {
-    "name": "Imagination Island",
-    "address": "VVPH+237, New Georgia Group, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Gizo Hotel",
-    "address": "VRWV+CP4, Gizo, Solomon Islands",
-    "phone": "+67760199"
-  },
-  {
-    "name": "Sanbis Resort",
-    "address": "Gizo hilltop, Gizo 677, Solomon Islands",
-    "phone": "+67760498"
-  },
-  {
-    "name": "Oravae Cottage",
-    "address": "VRWR+M4H Rekona Lodge Street, Gizo, Solomon Islands",
-    "phone": "+67760368"
-  },
-  {
-    "name": "Leleana Lodge",
-    "address": "WRWC+PWP, Gizo, Solomon Islands",
-    "phone": "+6777400774"
-  },
-  {
-    "name": "Naqua Motel",
-    "address": "WVC6+5Q9، Imagination Island, Gizo, Solomon Islands",
-    "phone": "+6777747774"
-  },
-  {
-    "name": "Naqs",
-    "address": "VRVP+P23, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "La Masa",
-    "address": "VRWR+WCG, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "PT 109 Restaurant",
-    "address": "VRWV+M2C, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Shan Cafe",
-    "address": "VRVP+Q83, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Shan Cafe",
-    "address": "VRWR+PQC China town, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Gizo Waterfront",
-    "address": "VRXR+J2P, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Fatboys Resort",
-    "address": "C PO BOX 13, Gizo, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Coffee Station",
-    "address": "VRXQ+J68, Gizo, Solomon Islands",
-    "phone": "+67760257"
-  },
-  {
-    "name": "Orchid",
-    "address": "VH4R+66W, Buala, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Fera Getaway",
-    "address": "VHQG+GV4, Santa Isabel Island, Fupukuna, Solomon Islands",
-    "phone": "+6777519132"
-  },
-  {
-    "name": "Panatina Plaza Shopping Centre",
-    "address": "HX9V+GG8, Honiara, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Hyundai Mall",
-    "address": "HX86+V7F, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67722954"
-  },
-  {
-    "name": "Fatboys Resort",
-    "address": "667J+2GV, Peava Village, Gatokae Island, Peava, Solomon Islands",
-    "phone": null
-  },
-  {
-    "name": "Imagination Island",
-    "address": "VRWV+CP4, Gizo, Solomon Islands",
-    "phone": "+67760199"
-  },
-  {
-    "name": "Titiru Eco Lodge",
-    "address": "H9CR+575, Ughele, Rendova Island, Munda, Solomon Islands",
-    "phone": "+6778593230"
-  },
-  {
-    "name": "Ropiko Beach Resort",
-    "address": "7648+52M, Gaktokae Island, Mbekambeka, Solomon Islands",
-    "phone": "+67723226"
-  },
-  {
-    "name": "The Wilderness Lodge",
-    "address": "WVC6+5Q9، Imagination Island, Gizo, Solomon Islands",
-    "phone": "+6777747774"
-  },
-  {
-    "name": "Rekona Lodge",
-    "address": "HX68+37P, Honiara, Solomon Islands",
-    "phone": "+67721737"
-  },
-  {
-    "name": "Oravae Cottage",
-    "address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67720071"
-  },
-  {
-    "name": "Honiara Hotel",
-    "address": "Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67724007"
-  },
-  {
-    "name": "Pacific Casino Hotel",
-    "address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
-    "phone": "+67726288"
-  },
-  {
-    "name": "Coral Sea Resort & Casino",
-    "address": "VRWR+M4H Rekona Lodge Street, Gizo, Solomon Islands",
-    "phone": "+67760368"
-  },
-  {
-    "name": "Heritage Park Hotel",
-    "address": "1298 Kukum Highway, Honiara, Solomon Islands",
-    "phone": "+67725201"
-  },
-  {
-    "name": "King Solomon Hotel",
-    "address": "WRWC+PWP, Gizo, Solomon Islands",
-    "phone": "+6777400774"
-  },
-  {
-    "name": "Solomon Kitano Mendana Hotel",
-    "address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
-    "phone": "+67721205"
-  },
-  {
-    "name": "Qua Roviana Motel",
-    "address": "M7CC+458, Munda Western Province, Munda, Solomon Islands",
-    "phone": "+6777472472"
-  },
-  {
-    "name": "Taro Island",
-    "address": "HX9H+5RR, Honiara, Solomon Islands",
-    "phone": "+6777273008"
-  },
-  {
-    "name": "Panatina Plaza Shopping Centre",
-    "address": "HX86+V7F, Mendana Ave, Honiara, Solomon Islands",
-    "phone": "+67722954"
-  },
-  {
-    "name": "Hyundai Mall",
-    "address": "HX9V+GG8, Honiara, Solomon Islands",
-    "phone": null
-  }
+ {
+  "id": 1,
+  "name": "Heritage Park Hotel",
+  "Address": "1298 Kukum Highway, Honiara, Solomon Islands",
+  "phone": "+67725201"
+ },
+ {
+  "id": 2,
+  "name": "Solomon Kitano Mendana Hotel",
+  "Address": "Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67724007"
+ },
+ {
+  "id": 3,
+  "name": "Coral Sea Resort \u0026 Casino",
+  "Address": "Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67724007"
+ },
+ {
+  "id": 4,
+  "name": "Heritage Park Hotel",
+  "Address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67720071"
+ },
+ {
+  "id": 5,
+  "name": "Solomon Kitano Mendana Hotel",
+  "Address": "Panatina Ridge street, Honiara 677, Solomon Islands",
+  "phone": "+67739218"
+ },
+ {
+  "id": 6,
+  "name": "King Solomon Hotel",
+  "Address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67720071"
+ },
+ {
+  "id": 7,
+  "name": "Pacific Casino Hotel",
+  "Address": "Ngossi Valley Road, Honiara, Solomon Islands",
+  "phone": "+6777426319"
+ },
+ {
+  "id": 8,
+  "name": "T R Apartments",
+  "Address": "H283+X69, Abira Road, Honiara, Solomon Islands",
+  "phone": "+6777716623"
+ },
+ {
+  "id": 9,
+  "name": "Sanalae Apartment",
+  "Address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
+  "phone": "+67721205"
+ },
+ {
+  "id": 10,
+  "name": "Prestige Apartments",
+  "Address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 11,
+  "name": "Access Units",
+  "Address": "VRVW+M3P, Police Estate Street, Gizo, Solomon Islands",
+  "phone": "+67760274"
+ },
+ {
+  "id": 12,
+  "name": "Iron Bottom Sound Monarch Hotel",
+  "Address": "HX86+4H2, Honiara, Solomon Islands",
+  "phone": "+67727785"
+ },
+ {
+  "id": 13,
+  "name": "Honiara Hotel",
+  "Address": "HX86+5C7, Lekamboli Lane, Lower Vavaya Ridge, Honiara, Solomon Islands",
+  "phone": "+67721082"
+ },
+ {
+  "id": 14,
+  "name": "Red Mansion Comfort Inn",
+  "Address": "HX86+F4R, Lower Vavaya Ridge, Honiara, Solomon Islands",
+  "phone": "+67725222"
+ },
+ {
+  "id": 15,
+  "name": "Tanuli Royal Plains Motel",
+  "Address": "HX92+5P8, Hibiscus Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 16,
+  "name": "Rock Haven Inn",
+  "Address": "HX85+M78, Honiara, Solomon Islands",
+  "phone": "+6777489189"
+ },
+ {
+  "id": 17,
+  "name": "Rekona Flourish Lodge",
+  "Address": "H293+PHQ, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 18,
+  "name": "Hibiscus Apartments",
+  "Address": "PO Box 308, Honiara, Solomon Islands",
+  "phone": "+67720203"
+ },
+ {
+  "id": 19,
+  "name": "Chester Rest House / Hotel",
+  "Address": "Aruligho, N/W Guadalcanal, Guadalcanal Province, Solomon Is, Email: dolphinview.beach@gmail.com, Honiara, Solomon Islands",
+  "phone": "+6778627704"
+ },
+ {
+  "id": 20,
+  "name": "St Anges mothers union transit house",
+  "Address": "HX68+37P, Honiara, Solomon Islands",
+  "phone": "+67721737"
+ },
+ {
+  "id": 21,
+  "name": "Dolphin View Beach",
+  "Address": "H2MX+4QP, Ramsi st, lugga, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 22,
+  "name": "Naqua Motel",
+  "Address": "HWCW+48X, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67728633"
+ },
+ {
+  "id": 23,
+  "name": "Haydn's Steakhouse",
+  "Address": "HX94+86C, Prince Philip Hwy, Honiara, Solomon Islands",
+  "phone": "+6777105858"
+ },
+ {
+  "id": 24,
+  "name": "Cowboy's Grill",
+  "Address": "HXC2+CHH, Honiara, Solomon Islands",
+  "phone": "+67727288"
+ },
+ {
+  "id": 25,
+  "name": "Tenkai Sushi Cafe",
+  "Address": "HX9H+5RR, Honiara, Solomon Islands",
+  "phone": "+6777273008"
+ },
+ {
+  "id": 26,
+  "name": "Club Havanah",
+  "Address": "HWCW+58R, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67724300"
+ },
+ {
+  "id": 27,
+  "name": "Dynasty",
+  "Address": "H2CF+X6M, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 28,
+  "name": "Tohoma Pizza \u0026 Kai haus",
+  "Address": "H2C2+573, Lunga Point, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 29,
+  "name": "Golden Corner",
+  "Address": "HX85+QWM, Cluck St, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 30,
+  "name": "Ghasaeli Food Tavern",
+  "Address": "HX68+47Q, Chung Wah Rd, Honiara, Solomon Islands",
+  "phone": "+6778715151"
+ },
+ {
+  "id": 31,
+  "name": "Taste \u0026 Traditions",
+  "Address": "Central Plaza, Shop 360, Honiara, Solomon Islands",
+  "phone": "+6778411146"
+ },
+ {
+  "id": 32,
+  "name": "A \u0026 F Restaurant",
+  "Address": "HWCX+936, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 33,
+  "name": "Saika Sushi and Teppan Bar",
+  "Address": "HX3M+WHR, Unnamed Road, Honiara, Honiara, Solomon Islands",
+  "phone": "+6777250396"
+ },
+ {
+  "id": 34,
+  "name": "Moo Ji Gae (Korean Restaurant)",
+  "Address": "HX78+MJR Mataniko River Plaza, Honiara, Solomon Islands",
+  "phone": "+6777148185"
+ },
+ {
+  "id": 35,
+  "name": "Monarch",
+  "Address": "HX68+M83, Chung Wah Rd, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 36,
+  "name": "Fish Restaurant",
+  "Address": "HX85+VVM, Honiara, Solomon Islands",
+  "phone": "+67730023"
+ },
+ {
+  "id": 37,
+  "name": "Season Restaurant",
+  "Address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 38,
+  "name": "Local Fusion Cafe \u0026 Bar",
+  "Address": "HWFM+79V, Tandai Highway, West, Honiara, Solomon Islands",
+  "phone": "+67728822"
+ },
+ {
+  "id": 39,
+  "name": "Mr Grill Fast Food \u0026 Noodle Haus",
+  "Address": "HX93+W5V, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67725333"
+ },
+ {
+  "id": 40,
+  "name": "Mai Grills",
+  "Address": "HXCX+4VH, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": "+67730300"
+ },
+ {
+  "id": 41,
+  "name": "The Terrace",
+  "Address": "HX67+676 New Chinatown, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 42,
+  "name": "Hotel Honiara restaurant",
+  "Address": "HXC3+3JX, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 43,
+  "name": "Xiao qingdao restaurant",
+  "Address": "HX78+RWM, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 44,
+  "name": "Pacific Seafood Restaurant",
+  "Address": "HX9P+CG6, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 45,
+  "name": "Hong Kong Palace",
+  "Address": "H2CH+XV6 Behind the Market, Kukum Hwy, Lungga, Solomon Islands",
+  "phone": "+6778769340"
+ },
+ {
+  "id": 46,
+  "name": "Nicky's Fast Food",
+  "Address": "HXC3+7G8, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67723442"
+ },
+ {
+  "id": 47,
+  "name": "Main Kitchen - Main Caterers",
+  "Address": "HXC3+3JX, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 48,
+  "name": "J3C Restaurant",
+  "Address": "HXCW+3JV, Honiara, Solomon Islands",
+  "phone": "+6777901111"
+ },
+ {
+  "id": 49,
+  "name": "Harbour Restaurant",
+  "Address": "H2CF+X6M, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 50,
+  "name": "Injoy Restaurant",
+  "Address": "HX9M+CPM, Honiara, Solomon Islands",
+  "phone": "+6778939777"
+ },
+ {
+  "id": 51,
+  "name": "in honiara",
+  "Address": "HXCW+3HQ, Prince Philip Highway Plaza, Ranadi, Honiara, Solomon Islands",
+  "phone": "+6777373135"
+ },
+ {
+  "id": 52,
+  "name": "Mix Channel",
+  "Address": "HX3F+P5Q, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 53,
+  "name": "New Pavillion",
+  "Address": "HX9V+GG8, Panatina, Honiara, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 54,
+  "name": "Capitana",
+  "Address": "HX92+64W, Honiara, Solomon Islands",
+  "phone": "+67726555"
+ },
+ {
+  "id": 55,
+  "name": "Harry Valea",
+  "Address": "HX94+2VX, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 56,
+  "name": "Cooler Kaibar",
+  "Address": "H2F7+HH5, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 57,
+  "name": "Hakubai",
+  "Address": "1298 Kukum Highway, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 58,
+  "name": "Breakwater Cafe",
+  "Address": "HXC3+72C, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 59,
+  "name": "River House",
+  "Address": "HW9X+XM4, Honiara, Solomon Islands",
+  "phone": "+6778883999"
+ },
+ {
+  "id": 60,
+  "name": "Kare Fast Food",
+  "Address": "HX9H+2J5, Honiara, Solomon Islands",
+  "phone": "+67725009"
+ },
+ {
+  "id": 61,
+  "name": "Island BBQ Ltd",
+  "Address": "HXC2+CRR, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 62,
+  "name": "The Coffee Bar",
+  "Address": "HX8H+XR7, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": "+67722289"
+ },
+ {
+  "id": 63,
+  "name": "Palm Sugar",
+  "Address": "HX68+37P, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 64,
+  "name": "Red Cross Cafe",
+  "Address": "Grand Plaza, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 65,
+  "name": "Coral Sea Resort \u0026 Casino",
+  "Address": "HX9H+5H3, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 66,
+  "name": "Cafe Bliss",
+  "Address": "HX9M+CQ2, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 67,
+  "name": "Frangipani Ice Cream",
+  "Address": "HX9Q+6PP, Kukum Hwy, Honiara, Solomon Islands",
+  "phone": "+67730136"
+ },
+ {
+  "id": 68,
+  "name": "Mambo Juice!",
+  "Address": "HWCW+87M, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67724300"
+ },
+ {
+  "id": 69,
+  "name": "Aron bako",
+  "Address": "HX9H+5RF, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 70,
+  "name": "Dong Fang Restaurant",
+  "Address": "HX9M+6JV, Honiara, Solomon Islands",
+  "phone": "+67724623"
+ },
+ {
+  "id": 71,
+  "name": "Panatina Plaza Shopping Centre",
+  "Address": "HX86+MFV, Honiara, Solomon Islands",
+  "phone": "+67720501"
+ },
+ {
+  "id": 72,
+  "name": "Mokolo Mall",
+  "Address": "HX78+PXF, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 73,
+  "name": "Central Plaza",
+  "Address": "HX68+PHH, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 74,
+  "name": "Hyundai Mall",
+  "Address": "HX78+PH2, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 75,
+  "name": "NPF Plaza",
+  "Address": "HW9W+WQV, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 76,
+  "name": "Matakino River Plaza",
+  "Address": "HX95+768, Mendana Ave, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 77,
+  "name": "Point Cruz Centre",
+  "Address": "HX9M+7QG, Kukum, Highway, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 78,
+  "name": "Chinatown Plaza",
+  "Address": "HX94+937, Hibiscus Ave, Honiara, Solomon Islands",
+  "phone": "+67721410"
+ },
+ {
+  "id": 79,
+  "name": "Pacific Ace Plaza",
+  "Address": "HX86+V7F, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67722954"
+ },
+ {
+  "id": 80,
+  "name": "Grand Plaza",
+  "Address": "HX9V+GG8, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 81,
+  "name": "AJ CITY MALL",
+  "Address": "Kukum Hwy, Lungga, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 82,
+  "name": "Solomon Kitano Mendana Hotel",
+  "Address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67720071"
+ },
+ {
+  "id": 83,
+  "name": "King Solomon Hotel",
+  "Address": "GXVJ+Q3M, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 84,
+  "name": "Solomon Peace Memorial Park (Japanese war memorial)",
+  "Address": "HX93+PVX, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67722442"
+ },
+ {
+  "id": 85,
+  "name": "Solomon Scouts \u0026 Coastwatchers Monument",
+  "Address": "Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67720137"
+ },
+ {
+  "id": 86,
+  "name": "Solomon Islands National Museum",
+  "Address": "HX86+MPR, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+6778787404"
+ },
+ {
+  "id": 87,
+  "name": "S.I. Visitors Bureau",
+  "Address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
+  "phone": "+67721205"
+ },
+ {
+  "id": 88,
+  "name": "Guadalcanal Memorial",
+  "Address": "Rove, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 89,
+  "name": "Honiara Central Market",
+  "Address": "HX45+W3W, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 90,
+  "name": "Vilu Military Museum",
+  "Address": "HXC5+32P, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 91,
+  "name": "Holy Cross Cathedral",
+  "Address": "Solomon Islands, Lungga, ソロモン諸島",
+  "phone": ""
+ },
+ {
+  "id": 92,
+  "name": "Bilikiki Cruises",
+  "Address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
+  "phone": "+67721205"
+ },
+ {
+  "id": 93,
+  "name": "Tulagi Dive",
+  "Address": "HX85+M78, Honiara, Solomon Islands",
+  "phone": "+6777489189"
+ },
+ {
+  "id": 94,
+  "name": "Honiara",
+  "Address": "HX6C+942, Honiara, Solomon Islands",
+  "phone": "+67721124"
+ },
+ {
+  "id": 95,
+  "name": "Jings Spa and Beauty",
+  "Address": "HX68+37P, Honiara, Solomon Islands",
+  "phone": "+67721737"
+ },
+ {
+  "id": 96,
+  "name": "Coral Sea Resort \u0026 Casino",
+  "Address": "H6F7+3W2, Unnamed Road, Ghorambau,, Ghorambau, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 97,
+  "name": "Mbonege Beach",
+  "Address": "HX9V+GG8, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 98,
+  "name": "Heritage Park Hotel",
+  "Address": "Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67724007"
+ },
+ {
+  "id": 99,
+  "name": "Panatina Plaza Shopping Centre",
+  "Address": "MR3P+WH2, Ruaniu, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 100,
+  "name": "Tetere Beach",
+  "Address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 101,
+  "name": "Honiara Hotel",
+  "Address": "HX7F+H7J, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 102,
+  "name": "King Solomon Hotel",
+  "Address": "Mendana Avenue, Honiara, Solomon Islands",
+  "phone": "8006635363"
+ },
+ {
+  "id": 103,
+  "name": "Chester Rest House / Hotel",
+  "Address": "HX9M+CQ2, Honiara, Solomon Islands",
+  "phone": "+6777203308"
+ },
+ {
+  "id": 104,
+  "name": "Forum Fisheries Agency",
+  "Address": "HX93+VXC, Point Cruz Yacht Club, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67725700"
+ },
+ {
+  "id": 105,
+  "name": "Honiara International Airport",
+  "Address": "Holy Cross Catholic Communication, Honiara, Solomon Islands",
+  "phone": "+67721943"
+ },
+ {
+  "id": 106,
+  "name": "Auki Lodge",
+  "Address": "Langa Langa Lagoon, Auki, Solomon Islands",
+  "phone": "+6777472344"
+ },
+ {
+  "id": 107,
+  "name": "The Hilltop Guesthouse \u0026 Training Centre",
+  "Address": "6MPX+3CC, Unnamed Road, Auki, Solomon Islands",
+  "phone": "+6777768334"
+ },
+ {
+  "id": 108,
+  "name": "Rarasu Motel",
+  "Address": "6MHX+M4W, Auki, Solomon Islands",
+  "phone": "+6777473934"
+ },
+ {
+  "id": 109,
+  "name": "Serah's Lagoon Hideaway",
+  "Address": "6PG2+Q3R, Auki, Solomon Islands",
+  "phone": "+67740454"
+ },
+ {
+  "id": 110,
+  "name": "Restaurant Walls",
+  "Address": "HX9H+5RR, Honiara, Solomon Islands",
+  "phone": "+6777273008"
+ },
+ {
+  "id": 111,
+  "name": "Kiisa",
+  "Address": "HWCX+936, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 112,
+  "name": "namnam.",
+  "Address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 113,
+  "name": "Restaurant Kilim",
+  "Address": "HX9M+CVC, Pacific Ace Plaza, Kukum, Hwy, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 114,
+  "name": "Auki old market",
+  "Address": "Langa Langa Lagoon, Auki, Solomon Islands",
+  "phone": "+6777472344"
+ },
+ {
+  "id": 115,
+  "name": "Auki Lodge",
+  "Address": "6MHX+M4W, Auki, Solomon Islands",
+  "phone": "+6777473934"
+ },
+ {
+  "id": 116,
+  "name": "Serah's Lagoon Hideaway",
+  "Address": "6MGX+Q37, Auki, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 117,
+  "name": "Rarasu Motel",
+  "Address": "6PG2+Q3R, Auki, Solomon Islands",
+  "phone": "+67740454"
+ },
+ {
+  "id": 118,
+  "name": "Seurasaari Open-Air Museum",
+  "Address": "H6F7+3W2, Unnamed Road, Ghorambau,, Ghorambau, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 119,
+  "name": "Hvitträsk",
+  "Address": "Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67720137"
+ },
+ {
+  "id": 120,
+  "name": "Rekona Lodge",
+  "Address": "VRVP+P23 Babanga Island, Gizo, Solomon Islands",
+  "phone": "+6777871313"
+ },
+ {
+  "id": 121,
+  "name": "Fatboys Resort",
+  "Address": "VRVW+M3P, Police Estate Street, Gizo, Solomon Islands",
+  "phone": "+67760274"
+ },
+ {
+  "id": 122,
+  "name": "Imagination Island",
+  "Address": "VVPH+237, New Georgia Group, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 123,
+  "name": "Gizo Hotel",
+  "Address": "VRWV+CP4, Gizo, Solomon Islands",
+  "phone": "+67760199"
+ },
+ {
+  "id": 124,
+  "name": "Sanbis Resort",
+  "Address": "Gizo hilltop, Gizo 677, Solomon Islands",
+  "phone": "+67760498"
+ },
+ {
+  "id": 125,
+  "name": "Oravae Cottage",
+  "Address": "VRWR+M4H Rekona Lodge Street, Gizo, Solomon Islands",
+  "phone": "+67760368"
+ },
+ {
+  "id": 126,
+  "name": "Leleana Lodge",
+  "Address": "WRWC+PWP, Gizo, Solomon Islands",
+  "phone": "+6777400774"
+ },
+ {
+  "id": 127,
+  "name": "Naqua Motel",
+  "Address": "WVC6+5Q9، Imagination Island, Gizo, Solomon Islands",
+  "phone": "+6777747774"
+ },
+ {
+  "id": 128,
+  "name": "Naqs",
+  "Address": "VRVP+P23, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 129,
+  "name": "La Masa",
+  "Address": "VRWR+WCG, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 130,
+  "name": "PT 109 Restaurant",
+  "Address": "VRWV+M2C, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 131,
+  "name": "Shan Cafe",
+  "Address": "VRVP+Q83, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 132,
+  "name": "Shan Cafe",
+  "Address": "VRWR+PQC China town, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 133,
+  "name": "Gizo Waterfront",
+  "Address": "VRXR+J2P, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 134,
+  "name": "Fatboys Resort",
+  "Address": "C PO BOX 13, Gizo, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 135,
+  "name": "Coffee Station",
+  "Address": "VRXQ+J68, Gizo, Solomon Islands",
+  "phone": "+67760257"
+ },
+ {
+  "id": 136,
+  "name": "Orchid",
+  "Address": "VH4R+66W, Buala, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 137,
+  "name": "Fera Getaway",
+  "Address": "VHQG+GV4, Santa Isabel Island, Fupukuna, Solomon Islands",
+  "phone": "+6777519132"
+ },
+ {
+  "id": 138,
+  "name": "Panatina Plaza Shopping Centre",
+  "Address": "HX9V+GG8, Honiara, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 139,
+  "name": "Hyundai Mall",
+  "Address": "HX86+V7F, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67722954"
+ },
+ {
+  "id": 140,
+  "name": "Fatboys Resort",
+  "Address": "667J+2GV, Peava Village, Gatokae Island, Peava, Solomon Islands",
+  "phone": ""
+ },
+ {
+  "id": 141,
+  "name": "Imagination Island",
+  "Address": "VRWV+CP4, Gizo, Solomon Islands",
+  "phone": "+67760199"
+ },
+ {
+  "id": 142,
+  "name": "Titiru Eco Lodge",
+  "Address": "H9CR+575, Ughele, Rendova Island, Munda, Solomon Islands",
+  "phone": "+6778593230"
+ },
+ {
+  "id": 143,
+  "name": "Ropiko Beach Resort",
+  "Address": "7648+52M, Gaktokae Island, Mbekambeka, Solomon Islands",
+  "phone": "+67723226"
+ },
+ {
+  "id": 144,
+  "name": "The Wilderness Lodge",
+  "Address": "WVC6+5Q9، Imagination Island, Gizo, Solomon Islands",
+  "phone": "+6777747774"
+ },
+ {
+  "id": 145,
+  "name": "Rekona Lodge",
+  "Address": "HX68+37P, Honiara, Solomon Islands",
+  "phone": "+67721737"
+ },
+ {
+  "id": 146,
+  "name": "Oravae Cottage",
+  "Address": "HX93+XJF, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67720071"
+ },
+ {
+  "id": 147,
+  "name": "Honiara Hotel",
+  "Address": "Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67724007"
+ },
+ {
+  "id": 148,
+  "name": "Pacific Casino Hotel",
+  "Address": "Tandai Highway, Town Ground, Honiara, Solomon Islands",
+  "phone": "+67726288"
+ },
+ {
+  "id": 149,
+  "name": "Coral Sea Resort \u0026 Casino",
+  "Address": "VRWR+M4H Rekona Lodge Street, Gizo, Solomon Islands",
+  "phone": "+67760368"
+ },
+ {
+  "id": 150,
+  "name": "Heritage Park Hotel",
+  "Address": "1298 Kukum Highway, Honiara, Solomon Islands",
+  "phone": "+67725201"
+ },
+ {
+  "id": 151,
+  "name": "King Solomon Hotel",
+  "Address": "WRWC+PWP, Gizo, Solomon Islands",
+  "phone": "+6777400774"
+ },
+ {
+  "id": 152,
+  "name": "Solomon Kitano Mendana Hotel",
+  "Address": "HX93+43C, Hibiscus Ave, Honiara, Solomon Islands",
+  "phone": "+67721205"
+ },
+ {
+  "id": 153,
+  "name": "Qua Roviana Motel",
+  "Address": "M7CC+458, Munda Western Province, Munda, Solomon Islands",
+  "phone": "+6777472472"
+ },
+ {
+  "id": 154,
+  "name": "Taro Island",
+  "Address": "HX9H+5RR, Honiara, Solomon Islands",
+  "phone": "+6777273008"
+ },
+ {
+  "id": 155,
+  "name": "Panatina Plaza Shopping Centre",
+  "Address": "HX86+V7F, Mendana Ave, Honiara, Solomon Islands",
+  "phone": "+67722954"
+ },
+ {
+  "id": 156,
+  "name": "Hyundai Mall",
+  "Address": "HX9V+GG8, Honiara, Solomon Islands",
+  "phone": ""
+ }
 ]

@@ -1,1775 +1,2144 @@
 [
-  {
-    "name": "Radisson Blu Hotel Juba",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "Pyramid Continental Hotel",
-    "address": "Plot No. 241, Block No. BXVI, HaiMatar, CES, Juba, 337 Juba, South Sudan",
-    "phone": "+211911007799"
-  },
-  {
-    "name": "Crown Hotel",
-    "address": "Konyyonyo, Riverside Plot No., Juba, South Sudan",
-    "phone": "+211922007261"
-  },
-  {
-    "name": "Tulip Inn Juba",
-    "address": "Juba, South Sudan",
-    "phone": "+211922007260"
-  },
-  {
-    "name": "ROYAL PALACE HOTEL - JUBA",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211925800200"
-  },
-  {
-    "name": "Juba Landmark Hotel",
-    "address": "Juba, Hai Cinema Juba, South Sudan",
-    "phone": "+211917777660"
-  },
-  {
-    "name": "Acacia Village",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Royal Palace Hotel",
-    "address": "Mundri Road, Acacia Village, Juba, South Sudan",
-    "phone": "+211911252613"
-  },
-  {
-    "name": "Quality Hotel Juba",
-    "address": "Hai Cinema Road, Juba, South Sudan",
-    "phone": "+211916729719"
-  },
-  {
-    "name": "Panorama Portico Hotel",
-    "address": "Hay Matar, Block xvi, plot 29, Juba, South Sudan",
-    "phone": "+211911500500"
-  },
-  {
-    "name": "Royal Hotel",
-    "address": "Mboro St, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hotel Eastern Plaza",
-    "address": "Off May Street, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Regency Hotel",
-    "address": "Near Juba Bridge, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Rainbow hotel",
-    "address": "Muluk Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Grand Hotel",
-    "address": "Hai Thoura West, Buluk Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nimule Resort Ltd",
-    "address": "Haiyo Mayo, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Transit Hotel",
-    "address": "Atlabra, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "RiverCamp (by AFEX)",
-    "address": "Hai sowra, plot 39, Block 1, University Road, Juba, South Sudan",
-    "phone": "+211921247222"
-  },
-  {
-    "name": "Aron International Hotel",
-    "address": "Atta Baiz, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Dembesh Hotel",
-    "address": "Riverside, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Bibi's Empire",
-    "address": "Ministry Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Palm Africa Hotel",
-    "address": "Nimra Talata Haimai Juba-Mboro Street, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hotel Panorama Plaza Juba",
-    "address": "Off Unity Avenue, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Keren Hotel",
-    "address": "Hai-coast Area, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Aron International Hotel",
-    "address": "Jebel Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Dembesh Hotel",
-    "address": "Hai-Thoura, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hotel Intra Africa",
-    "address": "Juba, South Sudan",
-    "phone": "+211912933000"
-  },
-  {
-    "name": "Juba Raha Hotel",
-    "address": "Main road of Hai Suk, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Concord Hotel",
-    "address": "RJW7+8J4 Hai Thoura, Juba, South Sudan",
-    "phone": "+211956933242"
-  },
-  {
-    "name": "Juba Continental Hotel",
-    "address": "Mboro St, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Crown Hotel",
-    "address": "Allabara Jebel Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Paradiso Hotel",
-    "address": "Hai Thoura, buluk road, near Juba university, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Amsterdam Hotel - Juba",
-    "address": "Atlabara, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Shalom Hotel",
-    "address": "Tumbura Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Rainbow hotel",
-    "address": "Off A43 road, Juba, South Sudan",
-    "phone": "+211924245561"
-  },
-  {
-    "name": "Da Vinci Lodge",
-    "address": "Hai Amarat, Airport Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nile River Hotel",
-    "address": "Airport Rd, Juba, South Sudan",
-    "phone": "+212625465893"
-  },
-  {
-    "name": "Riviera Hotel",
-    "address": "Airport Rd, Juba, South Sudan",
-    "phone": "+211956094440"
-  },
-  {
-    "name": "Amarat Classic Hotel",
-    "address": "Jebel Road, Juba, South Sudan",
-    "phone": "+211925000299"
-  },
-  {
-    "name": "Hotel Intra Africa",
-    "address": "Airport Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nile Beach Hotel",
-    "address": "Hai Amarat, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "La Corte Toscana Hotel & Resort Juba",
-    "address": "Airport Road, Wau, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Oasis Juba",
-    "address": "Nimra Talata Plot 29, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hotel Panorama Plaza",
-    "address": "MDD Benny Blvd, Juba, South Sudan",
-    "phone": "+254789300000"
-  },
-  {
-    "name": "Rockshield International Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hotel Yes Juba",
-    "address": "Hai Makaia, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Aida International Hotel Juba",
-    "address": "Yellow School Bus Rd, Juba, South Sudan",
-    "phone": "+211911949596"
-  },
-  {
-    "name": "Star Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "TM Lion",
-    "address": "Jebel Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hamza Inn",
-    "address": "Five Minutes Away From Juba International Airport, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Oscar hotel",
-    "address": "Kees Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Plains Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Aryam Hotel",
-    "address": "Theo Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Venus Hotel",
-    "address": "Muluk Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Link House 2",
-    "address": "Juba, South Sudan",
-    "phone": "+211955094202"
-  },
-  {
-    "name": "Land Mark Hotel",
-    "address": "Blook Road, Hai Thovra, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Elim Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211922722755"
-  },
-  {
-    "name": "James Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211955300196"
-  },
-  {
-    "name": "Family Hotel Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Friendship Guesthouse",
-    "address": "Airport Rd, Juba, South Sudan",
-    "phone": "+254789300000"
-  },
-  {
-    "name": "Afro Oriental Guest House",
-    "address": "Australia St, Juba, South Sudan",
-    "phone": "+211912100100"
-  },
-  {
-    "name": "Ambassador Hotel",
-    "address": "Near Juba Airport, Close to UNMISS, Juba, South Sudan",
-    "phone": "+211955305441"
-  },
-  {
-    "name": "Barcot Guest house",
-    "address": "Plot 127 UNimiss Road, Airport Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Royal Hotel",
-    "address": "Norfolk St, Juba, South Sudan",
-    "phone": "+211917109797"
-  },
-  {
-    "name": "Victoria Hotel",
-    "address": "Bowker Blvd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Abyei Hotel",
-    "address": "rainbow stadium, Thongping ,bilpham road, Juba, South Sudan",
-    "phone": "+211922996630"
-  },
-  {
-    "name": "Ambassador Resort Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211926335558"
-  },
-  {
-    "name": "Juba Bridge Hotel",
-    "address": "May St, Juba, South Sudan",
-    "phone": "+211910444670"
-  },
-  {
-    "name": "Airport Plaza Hotel",
-    "address": "Halmalakal, Riverside area, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Kendel Hotel",
-    "address": "Behind UNmiss, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "James Hotel",
-    "address": "Nile Plot 19/20, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Blue Nile Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Valley Park Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211916338935"
-  },
-  {
-    "name": "Dahlak Hotel, Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Red Sea Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Dream Palace",
-    "address": "By The Nile, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Olympic Hotel",
-    "address": "VH4P+7Q9 american embessy, Juba, South Sudan",
-    "phone": "+211911883355"
-  },
-  {
-    "name": "Sahara Resort Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211916259572"
-  },
-  {
-    "name": "Henok Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Palm Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Heaven Hotel",
-    "address": "VH7X+WV5 UNMISS Road, Juba, South Sudan",
-    "phone": "+254789300000"
-  },
-  {
-    "name": "Imatong Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Lion Hotel",
-    "address": "Juba Nabari, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Sina Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Base Accomodation & Entertainment",
-    "address": "Hai Suk, Next to J.I.T Supermarket, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "El-Shaddai Guest House",
-    "address": "Juba, South Sudan",
-    "phone": "+211918212563"
-  },
-  {
-    "name": "Royal Gardens Hotel",
-    "address": "RJX2+X2V Konyo Konyo-Juba Port, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nyala Lodge",
-    "address": "Canada Blvd, Juba, South Sudan",
-    "phone": "+211918416471"
-  },
-  {
-    "name": "Zebra Hotel",
-    "address": "Hai Mission, Juba, South Sudan",
-    "phone": "+211916004001"
-  },
-  {
-    "name": "Family Guest House",
-    "address": "Juba, South Sudan",
-    "phone": "+211920500155"
-  },
-  {
-    "name": "Piccadilly Hotel",
-    "address": "Country offices, VIP residential area of Juba, in between the UNICEF and UNDP, Juba, South Sudan",
-    "phone": "+211926934199"
-  },
-  {
-    "name": "Soira International LTD",
-    "address": "Country offices, VIP residential area of Juba, in between the UNICEF and UNDP, Juba, South Sudan",
-    "phone": "+211926934199"
-  },
-  {
-    "name": "Harmony Hotel",
-    "address": "Hai Mission, Juba, South Sudan",
-    "phone": "+211916004001"
-  },
-  {
-    "name": "Lidya Hotel",
-    "address": "RJX6+4G9، Building A rooftop Twin Towers Hai Cinema, Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Woodlands Courts",
-    "address": "Juba, South Sudan",
-    "phone": "+211956727832"
-  },
-  {
-    "name": "Metearia Guest House",
-    "address": "Darren Lockyer Road, Juba, South Sudan",
-    "phone": "+211955126644"
-  },
-  {
-    "name": "Boston Hotel",
-    "address": "VH4P+7Q9 american embessy, Juba, South Sudan",
-    "phone": "+211911883355"
-  },
-  {
-    "name": "Notos Lounge Bar & Grill",
-    "address": "HiCinima, Juba, South Sudan",
-    "phone": "+211923888471"
-  },
-  {
-    "name": "Nomad Restobar",
-    "address": "Airport Rd, Juba, South Sudan",
-    "phone": "+211920222804"
-  },
-  {
-    "name": "Road House lounge and grill Juba",
-    "address": "Munuki Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nubian Cafeteria",
-    "address": "Hai Thora, behind university of Juba, Juba, CEs, Juba, South Sudan",
-    "phone": "+211987788989"
-  },
-  {
-    "name": "Popinn Bar and Restaurant South Sudan",
-    "address": "Norfolk St, Juba, South Sudan",
-    "phone": "+211921666623"
-  },
-  {
-    "name": "Mama's Kitchen",
-    "address": "Jebel Rock City road Suku Marmour Center Juba, Juba, South Sudan",
-    "phone": "+211922399082"
-  },
-  {
-    "name": "Mama Africa Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211922818128"
-  },
-  {
-    "name": "Chicken Inn Juba",
-    "address": "Juba Market Notos Drive Juba SS, Notos Drive, Juba, South Sudan",
-    "phone": "+211911800600"
-  },
-  {
-    "name": "The Chicken Shack Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Mama Zahra",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Pizza Inn Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hunters Pub and Restaurant",
-    "address": "Florian Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "chicken 4u",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Baho's Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Afrique Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Jenaz Haven",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  { "name": "Hamza", "address": "Juba, South Sudan", "phone": null },
-  {
-    "name": "ARKK PLACE CAFE-RESTAURANT",
-    "address": "Hai Jalaba Juba SS, Juba, South Sudan",
-    "phone": "+211924522522"
-  },
-  {
-    "name": "ARKK PLACE CAFE-RESTAURANT",
-    "address": "Mundria roundabout, Juba, South Sudan",
-    "phone": "+211923255155"
-  },
-  {
-    "name": "Vicky’s restaurant and lounge",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Lili's Café and Restaurant",
-    "address": "A43, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Bridge Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Comfort Village Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "DIGI CAFE JUBA",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juice Connor",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "Staff Club Bar, Grill & Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Indian",
-    "address": "Munuki Juba, Juba, South Sudan",
-    "phone": "+211926085606"
-  },
-  {
-    "name": "5G restaurant & Café",
-    "address": "Unnamed Road, Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "palacina",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Jamra Restaurant",
-    "address": "Unity Ave, Juba, South Sudan",
-    "phone": "+211926290006"
-  },
-  {
-    "name": "Queen of Sheba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "De 'Havana Lounge",
-    "address": "Munuki 107 Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Mint & Mustard Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Last Thing Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211916685922"
-  },
-  {
-    "name": "Dut malual wol",
-    "address": "Hai Cinema, Opposite Juba One Boys’ Primary School-Juba:South Sudan, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Da Vinci's Restaurant",
-    "address": "Ministries Road Juba, Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "C&B Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Sky Garden , Juba Super Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211921631119"
-  },
-  {
-    "name": "C! Blue Cave",
-    "address": "behind phanicia, Ministries road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "H&S Sports Bar and Restaurant",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "Mama Africa",
-    "address": "Suk Libya Rd, Juba, South Sudan",
-    "phone": "+211954035390"
-  },
-  {
-    "name": "Jacob S’s South Sudan Bistro",
-    "address": "A43, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "DIGI CAFE JUBA",
-    "address": "South Sudan, Juba, 巴 南 蘇丹",
-    "phone": null
-  },
-  {
-    "name": "Digicafe Juba",
-    "address": "RJP3+822، Atla-Bara B, جوبا، Juba دولة, Juba, South Sudan",
-    "phone": "+211913352222"
-  },
-  {
-    "name": "London Cafeteria",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "HEAVY TASTY FOODS",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Notos Cafe,",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "LANY Restaurant/Coffee House",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Um El Kul Resturant",
-    "address": "Akobo, Juba, South Sudan",
-    "phone": "+211921296195"
-  },
-  {
-    "name": "Mizizi Restaurant",
-    "address": "Buluk, جوبا،, Juba, South Sudan",
-    "phone": "+211926611331"
-  },
-  {
-    "name": "Jay Gardens",
-    "address": "Ministries Road Equatoria inn Near ECHO Bank Juba, Juba, South Sudan",
-    "phone": "+211928901444"
-  },
-  {
-    "name": "Comrades Co. Restaurant",
-    "address": "Exit Gate, Juba International Airport (Next to, Juba, South Sudan",
-    "phone": "+447448408366"
-  },
-  {
-    "name": "The Larder",
-    "address": "Abyei Rd, Juba, South Sudan",
-    "phone": "+211921141141"
-  },
-  {
-    "name": "Hai-Mauna",
-    "address": "Old semetry Road, Juba, Juba, South Sudan",
-    "phone": "+211925666347"
-  },
-  {
-    "name": "Kenya",
-    "address": "Hai Cinema, Addis Ababa Rd, Juba, South Sudan",
-    "phone": "+211988330077"
-  },
-  {
-    "name": "Juba Rokon Restaurant",
-    "address": "SS, Juba, South Sudan",
-    "phone": "+211980134852"
-  },
-  {
-    "name": "Staff Club University Of Juba",
-    "address": "Juba, South Sudan",
-    "phone": "+211922883881"
-  },
-  {
-    "name": "Nancy's Ice and Burger",
-    "address": "Hai Neem Behind UAP Towers, Juba, South Sudan",
-    "phone": "+211929554741"
-  },
-  {
-    "name": "Bertarelli Ristorante",
-    "address": "Petrol Station, Jebel Opposite Longman, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "مطعم قصر سي چوان",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211928822224"
-  },
-  {
-    "name": "MI Fantastic Restaurant",
-    "address": "100 Gudele Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "samhi general company",
-    "address": "A43, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba",
-    "address": "Adjacent Central Bank, Opposite Taxi Park, Bari Community Centre, Juba, South Sudan",
-    "phone": "+211924647469"
-  },
-  {
-    "name": "Phoenix Bar &Restaurant",
-    "address": "Building B rooftop Twin Towers Hai Cinema, Juba, South Sudan",
-    "phone": "+211927002525"
-  },
-  {
-    "name": "Châteaux la Josman",
-    "address": "CPA Ave, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Looli cafeteria",
-    "address": "Hai sowra, plot 39, Block 1, University Road, Juba, South Sudan",
-    "phone": "+211924516423"
-  },
-  {
-    "name": "resteront south sudan oil company burger spoon",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Notos Mega",
-    "address": "Airport Road, Juba, South Sudan",
-    "phone": "+211920232023"
-  },
-  {
-    "name": "London Restaurant",
-    "address": "Juba Bypass, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Egypt",
-    "address": "Juba, South Sudan",
-    "phone": "+211921881000"
-  },
-  {
-    "name": "Curry & Hurry",
-    "address": "Kees Rd, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "One stop Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Ocean Blue Restruant",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211923584660"
-  },
-  {
-    "name": "Tik-Tak Fast Food",
-    "address": "Juba, South Sudan",
-    "phone": "+211957321218"
-  },
-  {
-    "name": "Margie sweets",
-    "address": "A43, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hai Cinema Staff House",
-    "address": "University of Juba Roundabout Hai Thoura Road Juba, Juba, South Sudan",
-    "phone": "+211911747007"
-  },
-  {
-    "name": "BEAGLE POINT",
-    "address": "River Side Near Juba Football Stadium, Juba, CES, Juba, South Sudan",
-    "phone": "+211980192117"
-  },
-  {
-    "name": "Pool Bar & Grill",
-    "address": "Plot 43, Block 4, Hai Negli Residential Area Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Paradiso Hotel",
-    "address": "Hai Neem Behind UAP Towers, Juba, South Sudan",
-    "phone": "+211929554741"
-  },
-  {
-    "name": "Ethiopian",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211928508887"
-  },
-  {
-    "name": "Wad Algadarif Supermarket and Restaurant",
-    "address": "May St, Juba, South Sudan",
-    "phone": "+211921394761"
-  },
-  {
-    "name": "Juber Foods Bar & Restaurant",
-    "address": "munuki new side road juba, Juba, South Sudan",
-    "phone": null
-  },
-  { "name": "Ajoy", "address": "Juba, South Sudan", "phone": null },
-  {
-    "name": "University Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211923555731"
-  },
-  {
-    "name": "Laziz Cafeteria",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Standard Bar and Restaurant",
-    "address": "JIT Supermarket, Ministries road, Kololo Near, Juba, South Sudan",
-    "phone": "+211920000562"
-  },
-  {
-    "name": "Milan Bistro Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Uptown Café & Lounge",
-    "address": "Juba, South Sudan",
-    "phone": "+211956015505"
-  },
-  {
-    "name": "comrade hotel",
-    "address": "Haineem, Juba, South Sudan",
-    "phone": "+211925956767"
-  },
-  {
-    "name": "Hidden Chinese",
-    "address": "Haineem, Juba, South Sudan",
-    "phone": "+211925956767"
-  },
-  {
-    "name": "Juba Safari",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Healthnet",
-    "address": "HAI JEBEL, ROCK CITY JUBA, Juba, South Sudan",
-    "phone": "+211913331144"
-  },
-  {
-    "name": "Juba Mall Supermarket",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Afri Shopping Centre",
-    "address": "Juba, South Sudan",
-    "phone": "+211956844555"
-  },
-  {
-    "name": "New Times Shopping Plaza",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Sara Shop Kabaat",
-    "address": "Juba, South Sudan",
-    "phone": "+211924000609"
-  },
-  {
-    "name": "SQS Offices",
-    "address": "Nyiggilo St, Juba, South Sudan",
-    "phone": "+211922330531"
-  },
-  {
-    "name": "Barir Book Shoop",
-    "address": "Juba, South Sudan",
-    "phone": "+211925706610"
-  },
-  {
-    "name": "Shiraz Travel & Tourism",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Timan center",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Tranquil centre",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Malekda business center",
-    "address": "Hallie Selassie Road Opposite Juba Raha, Juba, South Sudan",
-    "phone": "+211959336699"
-  },
-  {
-    "name": "Tea plaza",
-    "address": "RHVJ+PVX Malekda mall, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba center market",
-    "address": "Munuki - Suk Melishia, Juba, Juba, Juba, South Sudan",
-    "phone": "+211923771986"
-  },
-  {
-    "name": "JIT Mart - Juba Town Branch",
-    "address": "Juba center, Juba, South Sudan",
-    "phone": "+211928341889"
-  },
-  {
-    "name": "Mumin shop",
-    "address": "A43, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Har Hara",
-    "address": "Unnamed Road, Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "yalthok Brongdit for phones",
-    "address": "Juba, South Sudan",
-    "phone": "+211956179030"
-  },
-  {
-    "name": "All Saints Cathedral",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Main Mosque",
-    "address": "1ST FLOOR LUKAK BUILDING, MALAKIA JUBA, South Sudan",
-    "phone": "+211924570483"
-  },
-  {
-    "name": "St. Joseph's Catholic Church",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Konyo Konyo Market",
-    "address": "Bus Psrk, Off Nimule Hwy, Opposite Bor, Shirikat, Juba, South Sudan",
-    "phone": "+211922998444"
-  },
-  {
-    "name": "BomaHills Tourism Limited.",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211925800200"
-  },
-  {
-    "name": "Juba",
-    "address": "Unity Ave, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Football Stadium",
-    "address": "Juba, South Sudan",
-    "phone": "+211922600640"
-  },
-  {
-    "name": "Metro Safaris (SS) Limited",
-    "address": "Juba university, staff House, Juba, South Sudan",
-    "phone": "+211916368888"
-  },
-  {
-    "name": "Pyramid Continental Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211951432876"
-  },
-  {
-    "name": "Juba Town",
-    "address": "Plot No. 241, Block No. BXVI, HaiMatar, CES, Juba, 337 Juba, South Sudan",
-    "phone": "+211911007799"
-  },
-  {
-    "name": "Southern National Park",
-    "address": "Jur, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Tulip Inn Juba",
-    "address": "Hay Matar, Block xvi, plot 29, Juba, South Sudan",
-    "phone": "+211911500500"
-  },
-  {
-    "name": "Boma National Park",
-    "address": "Mboro St, Juba, South Sudan",
-    "phone": "+256777293086"
-  },
-  {
-    "name": "Panorama Portico Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nimule",
-    "address": "Hai Atlabara B, Malakia road, Juba, South Sudan",
-    "phone": "+211925887399"
-  },
-  {
-    "name": "Central Equatoria",
-    "address": "Juba, Hai Cinema Juba, South Sudan",
-    "phone": "+211917777660"
-  },
-  {
-    "name": "Royal castle Hotel wau, South Sudan",
-    "address": "Daraja, Wau, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Emilros Hotel",
-    "address": "Wau Daraja, Wau, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Amarula Lodge and Restaurant",
-    "address": "Darja, Wau, South Sudan",
-    "phone": "+211923395933"
-  },
-  {
-    "name": "Bahr Gazhal Hotel",
-    "address": "Daraja Wau, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Safari Park Hotel",
-    "address": "Airport Road, Wau, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Sawa Lodge",
-    "address": "Daraja Area, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hotel Africana",
-    "address": "PX6R+4H8 Family Hotel and Wau Grand Hotel, Wau, South Sudan",
-    "phone": "+211924728058"
-  },
-  {
-    "name": "Bubbles Hotel",
-    "address": "7.714410,27.960294, Wau, South Sudan",
-    "phone": "771441027960294"
-  },
-  {
-    "name": "Hotel Mombasa",
-    "address": "Daraja WAU South Sudan Daraja, Wau, South Sudan",
-    "phone": "+211929600096"
-  },
-  {
-    "name": "City Park Hotel",
-    "address": "Wau, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Gazelle",
-    "address": "Off A 43 Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Nile Palace Hotel",
-    "address": "Nyiggilo St, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Malakal Port",
-    "address": "Hai Thoura, buluk road, near Juba university, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Malakia Play Ground",
-    "address": "Riverside, Juba, South Sudan",
-    "phone": "+211915850944"
-  },
-  {
-    "name": "La mer inn Hotel",
-    "address": "Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Imatong Hotel",
-    "address": "Off Nyiggilo Street, Atla Bara B, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Kush Hotel Resort",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Smret Guest House",
-    "address": "Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Royal Palace Hotel",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211929505011"
-  },
-  {
-    "name": "Concord Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211922007260"
-  },
-  {
-    "name": "Palm Africa Hotel",
-    "address": "Norfolk St, Juba, South Sudan",
-    "phone": "+211917109797"
-  },
-  {
-    "name": "James Hotel",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "Ambassador Hotel Wau",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211924853451"
-  },
-  {
-    "name": "James Hotel",
-    "address": "Hai Mission, Juba, South Sudan",
-    "phone": "+211916004001"
-  },
-  {
-    "name": "Nyala Lodge",
-    "address": "Hai Cinema Road, Juba, South Sudan",
-    "phone": "+211916729719"
-  },
-  {
-    "name": "Ambassador Resort Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Lidya Hotel",
-    "address": "459, Juba, South Sudan",
-    "phone": "+211955026142"
-  },
-  {
-    "name": "Juba Landmark Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+249919575484"
-  },
-  {
-    "name": "Keren Hotel",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211925800200"
-  },
-  {
-    "name": "Manghati 209",
-    "address": "Atta Baiz, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Grand Hotel",
-    "address": "Juba, Hai Cinema Juba, South Sudan",
-    "phone": "+211917777660"
-  },
-  {
-    "name": "Nile River Hotel",
-    "address": "RJW7+8J4 Hai Thoura, Juba, South Sudan",
-    "phone": "+211956933242"
-  },
-  {
-    "name": "Dembesh Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Quality Hotel Juba",
-    "address": "Juba, South Sudan",
-    "phone": "+211922722755"
-  },
-  {
-    "name": "Palm guest House",
-    "address": "Hi-Malakal, Wau, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Radisson Blu Hotel Juba",
-    "address": "Hai Makaia, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Oscar hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211920500155"
-  },
-  {
-    "name": "AROP MAKEI CHUOI",
-    "address": "MALAKAL RENK, Juba, South Sudan",
-    "phone": "+211915919186"
-  },
-  {
-    "name": "the nile queen restaurant",
-    "address": "Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Takeout",
-    "address": "Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "UNMISS Base Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Sudo Baffet",
-    "address": "Malakal, South Sudan",
-    "phone": "+211911234567"
-  },
-  {
-    "name": "South Sudanese Local Restaurant",
-    "address": "Debalo, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hard Rock Malakal",
-    "address": "Debalo, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Malakal",
-    "address": "Debalo, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Kengeles Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Looli restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "مطعم القضارف",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "The Larder",
-    "address": "Unnamed Road, Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Wad Algadarif Supermarket and Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211923397050"
-  },
-  {
-    "name": "Golden Crown Hotel Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Mint & Mustard Restaurant",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "Jamra Restaurant",
-    "address": "Unity Ave, Juba, South Sudan",
-    "phone": "+211926290006"
-  },
-  {
-    "name": "Lili's Café and Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211955300196"
-  },
-  {
-    "name": "La Familia Bar &Grill",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211928508887"
-  },
-  {
-    "name": "Pan Afric Lounge",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Spicey Herbs",
-    "address": "HiCinima, Juba, South Sudan",
-    "phone": "+211923888471"
-  },
-  {
-    "name": "Bertarelli Ristorante",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211928822224"
-  },
-  {
-    "name": "Nubian Cafeteria",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "C&B Restaurant",
-    "address": "Building B rooftop Twin Towers Hai Cinema, Juba, South Sudan",
-    "phone": "+211927002525"
-  },
-  {
-    "name": "Mama's Kitchen",
-    "address": "Juba, South Sudan",
-    "phone": "+211928601411"
-  },
-  {
-    "name": "Afrique Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": "+211922818128"
-  },
-  {
-    "name": "Sonami Restaurant",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": "+211923584660"
-  },
-  {
-    "name": "Queen of Sheba",
-    "address": "Juba, South Sudan",
-    "phone": "+211923555731"
-  },
-  {
-    "name": "Land Mark Hotel",
-    "address": "Hai Neem Behind UAP Towers, Juba, South Sudan",
-    "phone": "+211929554741"
-  },
-  {
-    "name": "Tik-Tak Fast Food",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Pool Bar & Grill",
-    "address": "Juba, South Sudan",
-    "phone": "+211921881000"
-  },
-  {
-    "name": "LuuL Bar & Grill",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Hai Cinema Staff House",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Admas Kindu",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "The Sports Bar",
-    "address": "Juba, South Sudan",
-    "phone": "+211954819006"
-  },
-  {
-    "name": "Pan Afric Lounge",
-    "address": "Lanya St, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "City Mall",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Barir Book Shoop",
-    "address": "Juba, South Sudan",
-    "phone": "+211956179030"
-  },
-  {
-    "name": "Shiraz Travel & Tourism",
-    "address": "Nyiggilo St, Juba, South Sudan",
-    "phone": "+211922330531"
-  },
-  {
-    "name": "Juba Mall Supermarket",
-    "address": "Juba, South Sudan",
-    "phone": "+211925706610"
-  },
-  {
-    "name": "Malakal",
-    "address": "Juba university, staff House, Juba, South Sudan",
-    "phone": "+211916368888"
-  },
-  {
-    "name": "Malakia Complex",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Unity House",
-    "address": "Juba center, Juba, South Sudan",
-    "phone": "+211928341889"
-  },
-  {
-    "name": "Tecno Center",
-    "address": "Juba, South Sudan",
-    "phone": "+211956276524"
-  },
-  {
-    "name": "Juba center market",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Konyo Konyo Market",
-    "address": "كونج كنجو, Juba, South Sudan",
-    "phone": "+211913777776"
-  },
-  {
-    "name": "Malakal",
-    "address": "Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Malakal Stadium",
-    "address": "malakia mosque, Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "All Saints Cathedral",
-    "address": "Malakal, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Malakal airport",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Max Hotel",
-    "address": "Juba, South Sudan",
-    "phone": "+211922007260"
-  },
-  {
-    "name": "Juba Regency Hotel",
-    "address": "VH4M+8C8 Doctor John Garang International School, Kololo Area, Off Airport Road, Close to, Juba, South Sudan",
-    "phone": "+211928822870"
-  },
-  {
-    "name": "Pyramid Continental Hotel",
-    "address": "Yellow School Bus Rd, Juba, South Sudan",
-    "phone": "+211911949596"
-  },
-  {
-    "name": "Airport Plaza Hotel",
-    "address": "Plot No. 241, Block No. BXVI, HaiMatar, CES, Juba, 337 Juba, South Sudan",
-    "phone": "+211911007799"
-  },
-  {
-    "name": "Yam Hotel",
-    "address": "459, Juba, South Sudan",
-    "phone": "+211955026142"
-  },
-  {
-    "name": "Juba Grand Hotel",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211925800200"
-  },
-  {
-    "name": "Crown Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Acacia Village",
-    "address": "Hai Cinema Road, Juba, South Sudan",
-    "phone": "+211916729719"
-  },
-  {
-    "name": "Nile Beach Hotel",
-    "address": "Hay Matar, Block xvi, plot 29, Juba, South Sudan",
-    "phone": "+211911500500"
-  },
-  {
-    "name": "Jebel Lodge",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211921988000"
-  },
-  {
-    "name": "Radisson Blu Hotel Juba",
-    "address": "Juba, Hai Cinema Juba, South Sudan",
-    "phone": "+211917777660"
-  },
-  {
-    "name": "Juba Landmark Hotel",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Imperial Plaza Hotel Juba",
-    "address": "Mundri Road, Acacia Village, Juba, South Sudan",
-    "phone": "+211911252613"
-  },
-  {
-    "name": "Quality Hotel Juba",
-    "address": "Nimule St, Juba, South Sudan",
-    "phone": "+211929252777"
-  },
-  {
-    "name": "Pajok",
-    "address": "Caigon Boma, Pajok, South Sudan",
-    "phone": "+211920537592"
-  },
-  {
-    "name": "Afri Shopping Centre",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Barir Book Shoop",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Tranquil centre",
-    "address": "Juba, South Sudan",
-    "phone": "+211956276524"
-  },
-  {
-    "name": "Malakia Complex",
-    "address": "Nyiggilo St, Juba, South Sudan",
-    "phone": "+211922330531"
-  },
-  {
-    "name": "Unity House",
-    "address": "Juba, South Sudan",
-    "phone": "+211925706610"
-  },
-  {
-    "name": "Quality House Masia",
-    "address": "Kurungo Road Juba, Yambio, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Landmark Hotel",
-    "address": "Haiyo Mayo, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Quality Hotel Juba",
-    "address": "Yambio, South Sudan",
-    "phone": "+211955114441"
-  },
-  {
-    "name": "Naivasha Hotel",
-    "address": "Muluk Road, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Peti Baba Lodge",
-    "address": "Yambio Juba, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Amsterdam Hotel - Juba",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Continental Hotel",
-    "address": "Juba Nabari, Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "TZ Hotel",
-    "address": "Hai Cinema Road, Juba, South Sudan",
-    "phone": "+211916729719"
-  },
-  {
-    "name": "Family Hotel Juba",
-    "address": "Juba, Hai Cinema Juba, South Sudan",
-    "phone": "+211917777660"
-  },
-  {
-    "name": "Tourist Hotel",
-    "address": "RJP3+822، Atla-Bara B, جوبا، Juba دولة, Juba, South Sudan",
-    "phone": "+211913352222"
-  },
-  {
-    "name": "Notos Lounge Bar & Grill",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Baho's Restaurant",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Juba Bridge Restaurant",
-    "address": "JIT Supermarket, Ministries road, Kololo Near, Juba, South Sudan",
-    "phone": "+211920000562"
-  },
-  {
-    "name": "Vicky’s restaurant and lounge",
-    "address": "11 Wellington St, Yambio, South Sudan",
-    "phone": "+211955168755"
-  },
-  {
-    "name": "Da Vinci's Restaurant",
-    "address": "Kees Rd, Juba, South Sudan",
-    "phone": "+211917114490"
-  },
-  {
-    "name": "Phenicia",
-    "address": "Juba Market Notos Drive Juba SS, Notos Drive, Juba, South Sudan",
-    "phone": "+211911800600"
-  },
-  {
-    "name": "Yambio Bar And Restaurant",
-    "address": "Kololo, Airport Road Goshen House Building, Ground Floor Juba, South Sudan",
-    "phone": "+211910389999"
-  },
-  {
-    "name": "Westyat Shopping Centre",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "New Times Shopping Plaza",
-    "address": "Juba, South Sudan",
-    "phone": "+211956179030"
-  },
-  {
-    "name": "Juba Mall Supermarket",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "City Mall",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "SQS Offices",
-    "address": "Juba, South Sudan",
-    "phone": "+211924000609"
-  },
-  {
-    "name": "Sara Shop Kabaat",
-    "address": "Juba, South Sudan",
-    "phone": "+211925706610"
-  },
-  {
-    "name": "Barir Book Shoop",
-    "address": "Nyiggilo St, Juba, South Sudan",
-    "phone": "+211922330531"
-  },
-  {
-    "name": "Tranquil centre",
-    "address": "Juba, South Sudan",
-    "phone": "+211956844555"
-  },
-  { "name": "Yambio", "address": "Juba, South Sudan", "phone": null },
-  {
-    "name": "Natana Plaza",
-    "address": "Juba, South Sudan",
-    "phone": "+211956276524"
-  },
-  {
-    "name": "Malakia Complex",
-    "address": "Juba, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "yalthok Brongdit for phones",
-    "address": "Wilson St, Yambio, South Sudan",
-    "phone": null
-  },
-  {
-    "name": "Development and Peace Office",
-    "address": "Juba, South Sudan",
-    "phone": null
-  }
+ {
+  "id": 1,
+  "name": "Radisson Blu Hotel Juba",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 2,
+  "name": "Pyramid Continental Hotel",
+  "Address": "Plot No. 241, Block No. BXVI, HaiMatar, CES, Juba, 337 Juba, South Sudan",
+  "phone": "+211911007799"
+ },
+ {
+  "id": 3,
+  "name": "Crown Hotel",
+  "Address": "Konyyonyo, Riverside Plot No., Juba, South Sudan",
+  "phone": "+211922007261"
+ },
+ {
+  "id": 4,
+  "name": "Tulip Inn Juba",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922007260"
+ },
+ {
+  "id": 5,
+  "name": "ROYAL PALACE HOTEL - JUBA",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211925800200"
+ },
+ {
+  "id": 6,
+  "name": "Juba Landmark Hotel",
+  "Address": "Juba, Hai Cinema Juba, South Sudan",
+  "phone": "+211917777660"
+ },
+ {
+  "id": 7,
+  "name": "Acacia Village",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 8,
+  "name": "Royal Palace Hotel",
+  "Address": "Mundri Road, Acacia Village, Juba, South Sudan",
+  "phone": "+211911252613"
+ },
+ {
+  "id": 9,
+  "name": "Quality Hotel Juba",
+  "Address": "Hai Cinema Road, Juba, South Sudan",
+  "phone": "+211916729719"
+ },
+ {
+  "id": 10,
+  "name": "Panorama Portico Hotel",
+  "Address": "Hay Matar, Block xvi, plot 29, Juba, South Sudan",
+  "phone": "+211911500500"
+ },
+ {
+  "id": 11,
+  "name": "Royal Hotel",
+  "Address": "Mboro St, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 12,
+  "name": "Hotel Eastern Plaza",
+  "Address": "Off May Street, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 13,
+  "name": "Juba Regency Hotel",
+  "Address": "Near Juba Bridge, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 14,
+  "name": "Rainbow hotel",
+  "Address": "Muluk Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 15,
+  "name": "Juba Grand Hotel",
+  "Address": "Hai Thoura West, Buluk Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 16,
+  "name": "Nimule Resort Ltd",
+  "Address": "Haiyo Mayo, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 17,
+  "name": "Juba Transit Hotel",
+  "Address": "Atlabra, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 18,
+  "name": "RiverCamp (by AFEX)",
+  "Address": "Hai sowra, plot 39, Block 1, University Road, Juba, South Sudan",
+  "phone": "+211921247222"
+ },
+ {
+  "id": 19,
+  "name": "Aron International Hotel",
+  "Address": "Atta Baiz, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 20,
+  "name": "Dembesh Hotel",
+  "Address": "Riverside, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 21,
+  "name": "Bibi's Empire",
+  "Address": "Ministry Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 22,
+  "name": "Palm Africa Hotel",
+  "Address": "Nimra Talata Haimai Juba-Mboro Street, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 23,
+  "name": "Hotel Panorama Plaza Juba",
+  "Address": "Off Unity Avenue, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 24,
+  "name": "Keren Hotel",
+  "Address": "Hai-coast Area, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 25,
+  "name": "Aron International Hotel",
+  "Address": "Jebel Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 26,
+  "name": "Dembesh Hotel",
+  "Address": "Hai-Thoura, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 27,
+  "name": "Hotel Intra Africa",
+  "Address": "Juba, South Sudan",
+  "phone": "+211912933000"
+ },
+ {
+  "id": 28,
+  "name": "Juba Raha Hotel",
+  "Address": "Main road of Hai Suk, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 29,
+  "name": "Concord Hotel",
+  "Address": "RJW7+8J4 Hai Thoura, Juba, South Sudan",
+  "phone": "+211956933242"
+ },
+ {
+  "id": 30,
+  "name": "Juba Continental Hotel",
+  "Address": "Mboro St, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 31,
+  "name": "Juba Crown Hotel",
+  "Address": "Allabara Jebel Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 32,
+  "name": "Paradiso Hotel",
+  "Address": "Hai Thoura, buluk road, near Juba university, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 33,
+  "name": "Amsterdam Hotel - Juba",
+  "Address": "Atlabara, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 34,
+  "name": "Shalom Hotel",
+  "Address": "Tumbura Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 35,
+  "name": "Rainbow hotel",
+  "Address": "Off A43 road, Juba, South Sudan",
+  "phone": "+211924245561"
+ },
+ {
+  "id": 36,
+  "name": "Da Vinci Lodge",
+  "Address": "Hai Amarat, Airport Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 37,
+  "name": "Nile River Hotel",
+  "Address": "Airport Rd, Juba, South Sudan",
+  "phone": "+212625465893"
+ },
+ {
+  "id": 38,
+  "name": "Riviera Hotel",
+  "Address": "Airport Rd, Juba, South Sudan",
+  "phone": "+211956094440"
+ },
+ {
+  "id": 39,
+  "name": "Amarat Classic Hotel",
+  "Address": "Jebel Road, Juba, South Sudan",
+  "phone": "+211925000299"
+ },
+ {
+  "id": 40,
+  "name": "Hotel Intra Africa",
+  "Address": "Airport Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 41,
+  "name": "Nile Beach Hotel",
+  "Address": "Hai Amarat, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 42,
+  "name": "La Corte Toscana Hotel \u0026 Resort Juba",
+  "Address": "Airport Road, Wau, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 43,
+  "name": "Oasis Juba",
+  "Address": "Nimra Talata Plot 29, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 44,
+  "name": "Hotel Panorama Plaza",
+  "Address": "MDD Benny Blvd, Juba, South Sudan",
+  "phone": "+254789300000"
+ },
+ {
+  "id": 45,
+  "name": "Rockshield International Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 46,
+  "name": "Hotel Yes Juba",
+  "Address": "Hai Makaia, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 47,
+  "name": "Aida International Hotel Juba",
+  "Address": "Yellow School Bus Rd, Juba, South Sudan",
+  "phone": "+211911949596"
+ },
+ {
+  "id": 48,
+  "name": "Star Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 49,
+  "name": "TM Lion",
+  "Address": "Jebel Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 50,
+  "name": "Hamza Inn",
+  "Address": "Five Minutes Away From Juba International Airport, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 51,
+  "name": "Oscar hotel",
+  "Address": "Kees Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 52,
+  "name": "Juba Plains Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 53,
+  "name": "Aryam Hotel",
+  "Address": "Theo Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 54,
+  "name": "Venus Hotel",
+  "Address": "Muluk Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 55,
+  "name": "Link House 2",
+  "Address": "Juba, South Sudan",
+  "phone": "+211955094202"
+ },
+ {
+  "id": 56,
+  "name": "Land Mark Hotel",
+  "Address": "Blook Road, Hai Thovra, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 57,
+  "name": "Elim Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922722755"
+ },
+ {
+  "id": 58,
+  "name": "James Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211955300196"
+ },
+ {
+  "id": 59,
+  "name": "Family Hotel Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 60,
+  "name": "Friendship Guesthouse",
+  "Address": "Airport Rd, Juba, South Sudan",
+  "phone": "+254789300000"
+ },
+ {
+  "id": 61,
+  "name": "Afro Oriental Guest House",
+  "Address": "Australia St, Juba, South Sudan",
+  "phone": "+211912100100"
+ },
+ {
+  "id": 62,
+  "name": "Ambassador Hotel",
+  "Address": "Near Juba Airport, Close to UNMISS, Juba, South Sudan",
+  "phone": "+211955305441"
+ },
+ {
+  "id": 63,
+  "name": "Barcot Guest house",
+  "Address": "Plot 127 UNimiss Road, Airport Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 64,
+  "name": "Royal Hotel",
+  "Address": "Norfolk St, Juba, South Sudan",
+  "phone": "+211917109797"
+ },
+ {
+  "id": 65,
+  "name": "Victoria Hotel",
+  "Address": "Bowker Blvd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 66,
+  "name": "Abyei Hotel",
+  "Address": "rainbow stadium, Thongping ,bilpham road, Juba, South Sudan",
+  "phone": "+211922996630"
+ },
+ {
+  "id": 67,
+  "name": "Ambassador Resort Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211926335558"
+ },
+ {
+  "id": 68,
+  "name": "Juba Bridge Hotel",
+  "Address": "May St, Juba, South Sudan",
+  "phone": "+211910444670"
+ },
+ {
+  "id": 69,
+  "name": "Airport Plaza Hotel",
+  "Address": "Halmalakal, Riverside area, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 70,
+  "name": "Kendel Hotel",
+  "Address": "Behind UNmiss, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 71,
+  "name": "James Hotel",
+  "Address": "Nile Plot 19/20, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 72,
+  "name": "Blue Nile Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 73,
+  "name": "Valley Park Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211916338935"
+ },
+ {
+  "id": 74,
+  "name": "Dahlak Hotel, Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 75,
+  "name": "Red Sea Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 76,
+  "name": "Dream Palace",
+  "Address": "By The Nile, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 77,
+  "name": "Olympic Hotel",
+  "Address": "VH4P+7Q9 american embessy, Juba, South Sudan",
+  "phone": "+211911883355"
+ },
+ {
+  "id": 78,
+  "name": "Sahara Resort Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211916259572"
+ },
+ {
+  "id": 79,
+  "name": "Henok Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 80,
+  "name": "Juba Palm Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 81,
+  "name": "Heaven Hotel",
+  "Address": "VH7X+WV5 UNMISS Road, Juba, South Sudan",
+  "phone": "+254789300000"
+ },
+ {
+  "id": 82,
+  "name": "Imatong Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 83,
+  "name": "Lion Hotel",
+  "Address": "Juba Nabari, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 84,
+  "name": "Sina Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 85,
+  "name": "Base Accomodation \u0026 Entertainment",
+  "Address": "Hai Suk, Next to J.I.T Supermarket, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 86,
+  "name": "El-Shaddai Guest House",
+  "Address": "Juba, South Sudan",
+  "phone": "+211918212563"
+ },
+ {
+  "id": 87,
+  "name": "Royal Gardens Hotel",
+  "Address": "RJX2+X2V Konyo Konyo-Juba Port, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 88,
+  "name": "Nyala Lodge",
+  "Address": "Canada Blvd, Juba, South Sudan",
+  "phone": "+211918416471"
+ },
+ {
+  "id": 89,
+  "name": "Zebra Hotel",
+  "Address": "Hai Mission, Juba, South Sudan",
+  "phone": "+211916004001"
+ },
+ {
+  "id": 90,
+  "name": "Family Guest House",
+  "Address": "Juba, South Sudan",
+  "phone": "+211920500155"
+ },
+ {
+  "id": 91,
+  "name": "Piccadilly Hotel",
+  "Address": "Country offices, VIP residential area of Juba, in between the UNICEF and UNDP, Juba, South Sudan",
+  "phone": "+211926934199"
+ },
+ {
+  "id": 92,
+  "name": "Soira International LTD",
+  "Address": "Country offices, VIP residential area of Juba, in between the UNICEF and UNDP, Juba, South Sudan",
+  "phone": "+211926934199"
+ },
+ {
+  "id": 93,
+  "name": "Harmony Hotel",
+  "Address": "Hai Mission, Juba, South Sudan",
+  "phone": "+211916004001"
+ },
+ {
+  "id": 94,
+  "name": "Lidya Hotel",
+  "Address": "RJX6+4G9، Building A rooftop Twin Towers Hai Cinema, Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 95,
+  "name": "Woodlands Courts",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956727832"
+ },
+ {
+  "id": 96,
+  "name": "Metearia Guest House",
+  "Address": "Darren Lockyer Road, Juba, South Sudan",
+  "phone": "+211955126644"
+ },
+ {
+  "id": 97,
+  "name": "Boston Hotel",
+  "Address": "VH4P+7Q9 american embessy, Juba, South Sudan",
+  "phone": "+211911883355"
+ },
+ {
+  "id": 98,
+  "name": "Notos Lounge Bar \u0026 Grill",
+  "Address": "HiCinima, Juba, South Sudan",
+  "phone": "+211923888471"
+ },
+ {
+  "id": 99,
+  "name": "Nomad Restobar",
+  "Address": "Airport Rd, Juba, South Sudan",
+  "phone": "+211920222804"
+ },
+ {
+  "id": 100,
+  "name": "Road House lounge and grill Juba",
+  "Address": "Munuki Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 101,
+  "name": "Nubian Cafeteria",
+  "Address": "Hai Thora, behind university of Juba, Juba, CEs, Juba, South Sudan",
+  "phone": "+211987788989"
+ },
+ {
+  "id": 102,
+  "name": "Popinn Bar and Restaurant South Sudan",
+  "Address": "Norfolk St, Juba, South Sudan",
+  "phone": "+211921666623"
+ },
+ {
+  "id": 103,
+  "name": "Mama's Kitchen",
+  "Address": "Jebel Rock City road Suku Marmour Center Juba, Juba, South Sudan",
+  "phone": "+211922399082"
+ },
+ {
+  "id": 104,
+  "name": "Mama Africa Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922818128"
+ },
+ {
+  "id": 105,
+  "name": "Chicken Inn Juba",
+  "Address": "Juba Market Notos Drive Juba SS, Notos Drive, Juba, South Sudan",
+  "phone": "+211911800600"
+ },
+ {
+  "id": 106,
+  "name": "The Chicken Shack Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 107,
+  "name": "Mama Zahra",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 108,
+  "name": "Pizza Inn Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 109,
+  "name": "Hunters Pub and Restaurant",
+  "Address": "Florian Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 110,
+  "name": "chicken 4u",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 111,
+  "name": "Baho's Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 112,
+  "name": "Afrique Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 113,
+  "name": "Jenaz Haven",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 114,
+  "name": "Hamza",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 115,
+  "name": "ARKK PLACE CAFE-RESTAURANT",
+  "Address": "Hai Jalaba Juba SS, Juba, South Sudan",
+  "phone": "+211924522522"
+ },
+ {
+  "id": 116,
+  "name": "ARKK PLACE CAFE-RESTAURANT",
+  "Address": "Mundria roundabout, Juba, South Sudan",
+  "phone": "+211923255155"
+ },
+ {
+  "id": 117,
+  "name": "Vicky’s restaurant and lounge",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 118,
+  "name": "Lili's Café and Restaurant",
+  "Address": "A43, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 119,
+  "name": "Juba Bridge Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 120,
+  "name": "Comfort Village Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 121,
+  "name": "DIGI CAFE JUBA",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 122,
+  "name": "Juice Connor",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 123,
+  "name": "Staff Club Bar, Grill \u0026 Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 124,
+  "name": "Indian",
+  "Address": "Munuki Juba, Juba, South Sudan",
+  "phone": "+211926085606"
+ },
+ {
+  "id": 125,
+  "name": "5G restaurant \u0026 Café",
+  "Address": "Unnamed Road, Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 126,
+  "name": "palacina",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 127,
+  "name": "Jamra Restaurant",
+  "Address": "Unity Ave, Juba, South Sudan",
+  "phone": "+211926290006"
+ },
+ {
+  "id": 128,
+  "name": "Queen of Sheba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 129,
+  "name": "De 'Havana Lounge",
+  "Address": "Munuki 107 Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 130,
+  "name": "Mint \u0026 Mustard Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 131,
+  "name": "Last Thing Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211916685922"
+ },
+ {
+  "id": 132,
+  "name": "Dut malual wol",
+  "Address": "Hai Cinema, Opposite Juba One Boys’ Primary School-Juba:South Sudan, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 133,
+  "name": "Da Vinci's Restaurant",
+  "Address": "Ministries Road Juba, Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 134,
+  "name": "C\u0026B Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 135,
+  "name": "Sky Garden , Juba Super Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211921631119"
+ },
+ {
+  "id": 136,
+  "name": "C! Blue Cave",
+  "Address": "behind phanicia, Ministries road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 137,
+  "name": "H\u0026S Sports Bar and Restaurant",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 138,
+  "name": "Mama Africa",
+  "Address": "Suk Libya Rd, Juba, South Sudan",
+  "phone": "+211954035390"
+ },
+ {
+  "id": 139,
+  "name": "Jacob S’s South Sudan Bistro",
+  "Address": "A43, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 140,
+  "name": "DIGI CAFE JUBA",
+  "Address": "South Sudan, Juba, 巴 南 蘇丹",
+  "phone": ""
+ },
+ {
+  "id": 141,
+  "name": "Digicafe Juba",
+  "Address": "RJP3+822، Atla-Bara B, جوبا، Juba دولة, Juba, South Sudan",
+  "phone": "+211913352222"
+ },
+ {
+  "id": 142,
+  "name": "London Cafeteria",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 143,
+  "name": "HEAVY TASTY FOODS",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 144,
+  "name": "Notos Cafe,",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 145,
+  "name": "LANY Restaurant/Coffee House",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 146,
+  "name": "Um El Kul Resturant",
+  "Address": "Akobo, Juba, South Sudan",
+  "phone": "+211921296195"
+ },
+ {
+  "id": 147,
+  "name": "Mizizi Restaurant",
+  "Address": "Buluk, جوبا،, Juba, South Sudan",
+  "phone": "+211926611331"
+ },
+ {
+  "id": 148,
+  "name": "Jay Gardens",
+  "Address": "Ministries Road Equatoria inn Near ECHO Bank Juba, Juba, South Sudan",
+  "phone": "+211928901444"
+ },
+ {
+  "id": 149,
+  "name": "Comrades Co. Restaurant",
+  "Address": "Exit Gate, Juba International Airport (Next to, Juba, South Sudan",
+  "phone": "+447448408366"
+ },
+ {
+  "id": 150,
+  "name": "The Larder",
+  "Address": "Abyei Rd, Juba, South Sudan",
+  "phone": "+211921141141"
+ },
+ {
+  "id": 151,
+  "name": "Hai-Mauna",
+  "Address": "Old semetry Road, Juba, Juba, South Sudan",
+  "phone": "+211925666347"
+ },
+ {
+  "id": 152,
+  "name": "Kenya",
+  "Address": "Hai Cinema, Addis Ababa Rd, Juba, South Sudan",
+  "phone": "+211988330077"
+ },
+ {
+  "id": 153,
+  "name": "Juba Rokon Restaurant",
+  "Address": "SS, Juba, South Sudan",
+  "phone": "+211980134852"
+ },
+ {
+  "id": 154,
+  "name": "Staff Club University Of Juba",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922883881"
+ },
+ {
+  "id": 155,
+  "name": "Nancy's Ice and Burger",
+  "Address": "Hai Neem Behind UAP Towers, Juba, South Sudan",
+  "phone": "+211929554741"
+ },
+ {
+  "id": 156,
+  "name": "Bertarelli Ristorante",
+  "Address": "Petrol Station, Jebel Opposite Longman, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 157,
+  "name": "مطعم قصر سي چوان",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211928822224"
+ },
+ {
+  "id": 158,
+  "name": "MI Fantastic Restaurant",
+  "Address": "100 Gudele Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 159,
+  "name": "samhi general company",
+  "Address": "A43, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 160,
+  "name": "Juba",
+  "Address": "Adjacent Central Bank, Opposite Taxi Park, Bari Community Centre, Juba, South Sudan",
+  "phone": "+211924647469"
+ },
+ {
+  "id": 161,
+  "name": "Phoenix Bar \u0026Restaurant",
+  "Address": "Building B rooftop Twin Towers Hai Cinema, Juba, South Sudan",
+  "phone": "+211927002525"
+ },
+ {
+  "id": 162,
+  "name": "Châteaux la Josman",
+  "Address": "CPA Ave, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 163,
+  "name": "Looli cafeteria",
+  "Address": "Hai sowra, plot 39, Block 1, University Road, Juba, South Sudan",
+  "phone": "+211924516423"
+ },
+ {
+  "id": 164,
+  "name": "resteront south sudan oil company burger spoon",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 165,
+  "name": "Notos Mega",
+  "Address": "Airport Road, Juba, South Sudan",
+  "phone": "+211920232023"
+ },
+ {
+  "id": 166,
+  "name": "London Restaurant",
+  "Address": "Juba Bypass, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 167,
+  "name": "Egypt",
+  "Address": "Juba, South Sudan",
+  "phone": "+211921881000"
+ },
+ {
+  "id": 168,
+  "name": "Curry \u0026 Hurry",
+  "Address": "Kees Rd, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 169,
+  "name": "One stop Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 170,
+  "name": "Ocean Blue Restruant",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211923584660"
+ },
+ {
+  "id": 171,
+  "name": "Tik-Tak Fast Food",
+  "Address": "Juba, South Sudan",
+  "phone": "+211957321218"
+ },
+ {
+  "id": 172,
+  "name": "Margie sweets",
+  "Address": "A43, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 173,
+  "name": "Hai Cinema Staff House",
+  "Address": "University of Juba Roundabout Hai Thoura Road Juba, Juba, South Sudan",
+  "phone": "+211911747007"
+ },
+ {
+  "id": 174,
+  "name": "BEAGLE POINT",
+  "Address": "River Side Near Juba Football Stadium, Juba, CES, Juba, South Sudan",
+  "phone": "+211980192117"
+ },
+ {
+  "id": 175,
+  "name": "Pool Bar \u0026 Grill",
+  "Address": "Plot 43, Block 4, Hai Negli Residential Area Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 176,
+  "name": "Paradiso Hotel",
+  "Address": "Hai Neem Behind UAP Towers, Juba, South Sudan",
+  "phone": "+211929554741"
+ },
+ {
+  "id": 177,
+  "name": "Ethiopian",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211928508887"
+ },
+ {
+  "id": 178,
+  "name": "Wad Algadarif Supermarket and Restaurant",
+  "Address": "May St, Juba, South Sudan",
+  "phone": "+211921394761"
+ },
+ {
+  "id": 179,
+  "name": "Juber Foods Bar \u0026 Restaurant",
+  "Address": "munuki new side road juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 180,
+  "name": "Ajoy",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 181,
+  "name": "University Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211923555731"
+ },
+ {
+  "id": 182,
+  "name": "Laziz Cafeteria",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 183,
+  "name": "Standard Bar and Restaurant",
+  "Address": "JIT Supermarket, Ministries road, Kololo Near, Juba, South Sudan",
+  "phone": "+211920000562"
+ },
+ {
+  "id": 184,
+  "name": "Milan Bistro Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 185,
+  "name": "Uptown Café \u0026 Lounge",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956015505"
+ },
+ {
+  "id": 186,
+  "name": "comrade hotel",
+  "Address": "Haineem, Juba, South Sudan",
+  "phone": "+211925956767"
+ },
+ {
+  "id": 187,
+  "name": "Hidden Chinese",
+  "Address": "Haineem, Juba, South Sudan",
+  "phone": "+211925956767"
+ },
+ {
+  "id": 188,
+  "name": "Juba Safari",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 189,
+  "name": "Healthnet",
+  "Address": "HAI JEBEL, ROCK CITY JUBA, Juba, South Sudan",
+  "phone": "+211913331144"
+ },
+ {
+  "id": 190,
+  "name": "Juba Mall Supermarket",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 191,
+  "name": "Afri Shopping Centre",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956844555"
+ },
+ {
+  "id": 192,
+  "name": "New Times Shopping Plaza",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 193,
+  "name": "Sara Shop Kabaat",
+  "Address": "Juba, South Sudan",
+  "phone": "+211924000609"
+ },
+ {
+  "id": 194,
+  "name": "SQS Offices",
+  "Address": "Nyiggilo St, Juba, South Sudan",
+  "phone": "+211922330531"
+ },
+ {
+  "id": 195,
+  "name": "Barir Book Shoop",
+  "Address": "Juba, South Sudan",
+  "phone": "+211925706610"
+ },
+ {
+  "id": 196,
+  "name": "Shiraz Travel \u0026 Tourism",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 197,
+  "name": "Timan center",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 198,
+  "name": "Tranquil centre",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 199,
+  "name": "Malekda business center",
+  "Address": "Hallie Selassie Road Opposite Juba Raha, Juba, South Sudan",
+  "phone": "+211959336699"
+ },
+ {
+  "id": 200,
+  "name": "Tea plaza",
+  "Address": "RHVJ+PVX Malekda mall, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 201,
+  "name": "Juba center market",
+  "Address": "Munuki - Suk Melishia, Juba, Juba, Juba, South Sudan",
+  "phone": "+211923771986"
+ },
+ {
+  "id": 202,
+  "name": "JIT Mart - Juba Town Branch",
+  "Address": "Juba center, Juba, South Sudan",
+  "phone": "+211928341889"
+ },
+ {
+  "id": 203,
+  "name": "Mumin shop",
+  "Address": "A43, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 204,
+  "name": "Har Hara",
+  "Address": "Unnamed Road, Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 205,
+  "name": "yalthok Brongdit for phones",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956179030"
+ },
+ {
+  "id": 206,
+  "name": "All Saints Cathedral",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 207,
+  "name": "Main Mosque",
+  "Address": "1ST FLOOR LUKAK BUILDING, MALAKIA JUBA, South Sudan",
+  "phone": "+211924570483"
+ },
+ {
+  "id": 208,
+  "name": "St. Joseph's Catholic Church",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 209,
+  "name": "Konyo Konyo Market",
+  "Address": "Bus Psrk, Off Nimule Hwy, Opposite Bor, Shirikat, Juba, South Sudan",
+  "phone": "+211922998444"
+ },
+ {
+  "id": 210,
+  "name": "BomaHills Tourism Limited.",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211925800200"
+ },
+ {
+  "id": 211,
+  "name": "Juba",
+  "Address": "Unity Ave, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 212,
+  "name": "Juba Football Stadium",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922600640"
+ },
+ {
+  "id": 213,
+  "name": "Metro Safaris (SS) Limited",
+  "Address": "Juba university, staff House, Juba, South Sudan",
+  "phone": "+211916368888"
+ },
+ {
+  "id": 214,
+  "name": "Pyramid Continental Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211951432876"
+ },
+ {
+  "id": 215,
+  "name": "Juba Town",
+  "Address": "Plot No. 241, Block No. BXVI, HaiMatar, CES, Juba, 337 Juba, South Sudan",
+  "phone": "+211911007799"
+ },
+ {
+  "id": 216,
+  "name": "Southern National Park",
+  "Address": "Jur, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 217,
+  "name": "Tulip Inn Juba",
+  "Address": "Hay Matar, Block xvi, plot 29, Juba, South Sudan",
+  "phone": "+211911500500"
+ },
+ {
+  "id": 218,
+  "name": "Boma National Park",
+  "Address": "Mboro St, Juba, South Sudan",
+  "phone": "+256777293086"
+ },
+ {
+  "id": 219,
+  "name": "Panorama Portico Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 220,
+  "name": "Nimule",
+  "Address": "Hai Atlabara B, Malakia road, Juba, South Sudan",
+  "phone": "+211925887399"
+ },
+ {
+  "id": 221,
+  "name": "Central Equatoria",
+  "Address": "Juba, Hai Cinema Juba, South Sudan",
+  "phone": "+211917777660"
+ },
+ {
+  "id": 222,
+  "name": "Royal castle Hotel wau, South Sudan",
+  "Address": "Daraja, Wau, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 223,
+  "name": "Emilros Hotel",
+  "Address": "Wau Daraja, Wau, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 224,
+  "name": "Amarula Lodge and Restaurant",
+  "Address": "Darja, Wau, South Sudan",
+  "phone": "+211923395933"
+ },
+ {
+  "id": 225,
+  "name": "Bahr Gazhal Hotel",
+  "Address": "Daraja Wau, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 226,
+  "name": "Safari Park Hotel",
+  "Address": "Airport Road, Wau, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 227,
+  "name": "Sawa Lodge",
+  "Address": "Daraja Area, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 228,
+  "name": "Hotel Africana",
+  "Address": "PX6R+4H8 Family Hotel and Wau Grand Hotel, Wau, South Sudan",
+  "phone": "+211924728058"
+ },
+ {
+  "id": 229,
+  "name": "Bubbles Hotel",
+  "Address": "7.714410,27.960294, Wau, South Sudan",
+  "phone": "771441027960294"
+ },
+ {
+  "id": 230,
+  "name": "Hotel Mombasa",
+  "Address": "Daraja WAU South Sudan Daraja, Wau, South Sudan",
+  "phone": "+211929600096"
+ },
+ {
+  "id": 231,
+  "name": "City Park Hotel",
+  "Address": "Wau, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 232,
+  "name": "Gazelle",
+  "Address": "Off A 43 Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 233,
+  "name": "Nile Palace Hotel",
+  "Address": "Nyiggilo St, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 234,
+  "name": "Malakal Port",
+  "Address": "Hai Thoura, buluk road, near Juba university, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 235,
+  "name": "Malakia Play Ground",
+  "Address": "Riverside, Juba, South Sudan",
+  "phone": "+211915850944"
+ },
+ {
+  "id": 236,
+  "name": "La mer inn Hotel",
+  "Address": "Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 237,
+  "name": "Imatong Hotel",
+  "Address": "Off Nyiggilo Street, Atla Bara B, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 238,
+  "name": "Kush Hotel Resort",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 239,
+  "name": "Smret Guest House",
+  "Address": "Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 240,
+  "name": "Royal Palace Hotel",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211929505011"
+ },
+ {
+  "id": 241,
+  "name": "Concord Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922007260"
+ },
+ {
+  "id": 242,
+  "name": "Palm Africa Hotel",
+  "Address": "Norfolk St, Juba, South Sudan",
+  "phone": "+211917109797"
+ },
+ {
+  "id": 243,
+  "name": "James Hotel",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 244,
+  "name": "Ambassador Hotel Wau",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211924853451"
+ },
+ {
+  "id": 245,
+  "name": "James Hotel",
+  "Address": "Hai Mission, Juba, South Sudan",
+  "phone": "+211916004001"
+ },
+ {
+  "id": 246,
+  "name": "Nyala Lodge",
+  "Address": "Hai Cinema Road, Juba, South Sudan",
+  "phone": "+211916729719"
+ },
+ {
+  "id": 247,
+  "name": "Ambassador Resort Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 248,
+  "name": "Lidya Hotel",
+  "Address": "459, Juba, South Sudan",
+  "phone": "+211955026142"
+ },
+ {
+  "id": 249,
+  "name": "Juba Landmark Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+249919575484"
+ },
+ {
+  "id": 250,
+  "name": "Keren Hotel",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211925800200"
+ },
+ {
+  "id": 251,
+  "name": "Manghati 209",
+  "Address": "Atta Baiz, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 252,
+  "name": "Juba Grand Hotel",
+  "Address": "Juba, Hai Cinema Juba, South Sudan",
+  "phone": "+211917777660"
+ },
+ {
+  "id": 253,
+  "name": "Nile River Hotel",
+  "Address": "RJW7+8J4 Hai Thoura, Juba, South Sudan",
+  "phone": "+211956933242"
+ },
+ {
+  "id": 254,
+  "name": "Dembesh Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 255,
+  "name": "Quality Hotel Juba",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922722755"
+ },
+ {
+  "id": 256,
+  "name": "Palm guest House",
+  "Address": "Hi-Malakal, Wau, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 257,
+  "name": "Radisson Blu Hotel Juba",
+  "Address": "Hai Makaia, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 258,
+  "name": "Oscar hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211920500155"
+ },
+ {
+  "id": 259,
+  "name": "AROP MAKEI CHUOI",
+  "Address": "MALAKAL RENK, Juba, South Sudan",
+  "phone": "+211915919186"
+ },
+ {
+  "id": 260,
+  "name": "the nile queen restaurant",
+  "Address": "Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 261,
+  "name": "Takeout",
+  "Address": "Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 262,
+  "name": "UNMISS Base Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 263,
+  "name": "Sudo Baffet",
+  "Address": "Malakal, South Sudan",
+  "phone": "+211911234567"
+ },
+ {
+  "id": 264,
+  "name": "South Sudanese Local Restaurant",
+  "Address": "Debalo, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 265,
+  "name": "Hard Rock Malakal",
+  "Address": "Debalo, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 266,
+  "name": "Malakal",
+  "Address": "Debalo, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 267,
+  "name": "Kengeles Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 268,
+  "name": "Looli restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 269,
+  "name": "مطعم القضارف",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 270,
+  "name": "The Larder",
+  "Address": "Unnamed Road, Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 271,
+  "name": "Wad Algadarif Supermarket and Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211923397050"
+ },
+ {
+  "id": 272,
+  "name": "Golden Crown Hotel Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 273,
+  "name": "Mint \u0026 Mustard Restaurant",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 274,
+  "name": "Jamra Restaurant",
+  "Address": "Unity Ave, Juba, South Sudan",
+  "phone": "+211926290006"
+ },
+ {
+  "id": 275,
+  "name": "Lili's Café and Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211955300196"
+ },
+ {
+  "id": 276,
+  "name": "La Familia Bar \u0026Grill",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211928508887"
+ },
+ {
+  "id": 277,
+  "name": "Pan Afric Lounge",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 278,
+  "name": "Spicey Herbs",
+  "Address": "HiCinima, Juba, South Sudan",
+  "phone": "+211923888471"
+ },
+ {
+  "id": 279,
+  "name": "Bertarelli Ristorante",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211928822224"
+ },
+ {
+  "id": 280,
+  "name": "Nubian Cafeteria",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 281,
+  "name": "C\u0026B Restaurant",
+  "Address": "Building B rooftop Twin Towers Hai Cinema, Juba, South Sudan",
+  "phone": "+211927002525"
+ },
+ {
+  "id": 282,
+  "name": "Mama's Kitchen",
+  "Address": "Juba, South Sudan",
+  "phone": "+211928601411"
+ },
+ {
+  "id": 283,
+  "name": "Afrique Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922818128"
+ },
+ {
+  "id": 284,
+  "name": "Sonami Restaurant",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": "+211923584660"
+ },
+ {
+  "id": 285,
+  "name": "Queen of Sheba",
+  "Address": "Juba, South Sudan",
+  "phone": "+211923555731"
+ },
+ {
+  "id": 286,
+  "name": "Land Mark Hotel",
+  "Address": "Hai Neem Behind UAP Towers, Juba, South Sudan",
+  "phone": "+211929554741"
+ },
+ {
+  "id": 287,
+  "name": "Tik-Tak Fast Food",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 288,
+  "name": "Pool Bar \u0026 Grill",
+  "Address": "Juba, South Sudan",
+  "phone": "+211921881000"
+ },
+ {
+  "id": 289,
+  "name": "LuuL Bar \u0026 Grill",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 290,
+  "name": "Hai Cinema Staff House",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 291,
+  "name": "Admas Kindu",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 292,
+  "name": "The Sports Bar",
+  "Address": "Juba, South Sudan",
+  "phone": "+211954819006"
+ },
+ {
+  "id": 293,
+  "name": "Pan Afric Lounge",
+  "Address": "Lanya St, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 294,
+  "name": "City Mall",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 295,
+  "name": "Barir Book Shoop",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956179030"
+ },
+ {
+  "id": 296,
+  "name": "Shiraz Travel \u0026 Tourism",
+  "Address": "Nyiggilo St, Juba, South Sudan",
+  "phone": "+211922330531"
+ },
+ {
+  "id": 297,
+  "name": "Juba Mall Supermarket",
+  "Address": "Juba, South Sudan",
+  "phone": "+211925706610"
+ },
+ {
+  "id": 298,
+  "name": "Malakal",
+  "Address": "Juba university, staff House, Juba, South Sudan",
+  "phone": "+211916368888"
+ },
+ {
+  "id": 299,
+  "name": "Malakia Complex",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 300,
+  "name": "Unity House",
+  "Address": "Juba center, Juba, South Sudan",
+  "phone": "+211928341889"
+ },
+ {
+  "id": 301,
+  "name": "Tecno Center",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956276524"
+ },
+ {
+  "id": 302,
+  "name": "Juba center market",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 303,
+  "name": "Konyo Konyo Market",
+  "Address": "كونج كنجو, Juba, South Sudan",
+  "phone": "+211913777776"
+ },
+ {
+  "id": 304,
+  "name": "Malakal",
+  "Address": "Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 305,
+  "name": "Malakal Stadium",
+  "Address": "malakia mosque, Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 306,
+  "name": "All Saints Cathedral",
+  "Address": "Malakal, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 307,
+  "name": "Malakal airport",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 308,
+  "name": "Max Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": "+211922007260"
+ },
+ {
+  "id": 309,
+  "name": "Juba Regency Hotel",
+  "Address": "VH4M+8C8 Doctor John Garang International School, Kololo Area, Off Airport Road, Close to, Juba, South Sudan",
+  "phone": "+211928822870"
+ },
+ {
+  "id": 310,
+  "name": "Pyramid Continental Hotel",
+  "Address": "Yellow School Bus Rd, Juba, South Sudan",
+  "phone": "+211911949596"
+ },
+ {
+  "id": 311,
+  "name": "Airport Plaza Hotel",
+  "Address": "Plot No. 241, Block No. BXVI, HaiMatar, CES, Juba, 337 Juba, South Sudan",
+  "phone": "+211911007799"
+ },
+ {
+  "id": 312,
+  "name": "Yam Hotel",
+  "Address": "459, Juba, South Sudan",
+  "phone": "+211955026142"
+ },
+ {
+  "id": 313,
+  "name": "Juba Grand Hotel",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211925800200"
+ },
+ {
+  "id": 314,
+  "name": "Crown Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 315,
+  "name": "Acacia Village",
+  "Address": "Hai Cinema Road, Juba, South Sudan",
+  "phone": "+211916729719"
+ },
+ {
+  "id": 316,
+  "name": "Nile Beach Hotel",
+  "Address": "Hay Matar, Block xvi, plot 29, Juba, South Sudan",
+  "phone": "+211911500500"
+ },
+ {
+  "id": 317,
+  "name": "Jebel Lodge",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211921988000"
+ },
+ {
+  "id": 318,
+  "name": "Radisson Blu Hotel Juba",
+  "Address": "Juba, Hai Cinema Juba, South Sudan",
+  "phone": "+211917777660"
+ },
+ {
+  "id": 319,
+  "name": "Juba Landmark Hotel",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 320,
+  "name": "Imperial Plaza Hotel Juba",
+  "Address": "Mundri Road, Acacia Village, Juba, South Sudan",
+  "phone": "+211911252613"
+ },
+ {
+  "id": 321,
+  "name": "Quality Hotel Juba",
+  "Address": "Nimule St, Juba, South Sudan",
+  "phone": "+211929252777"
+ },
+ {
+  "id": 322,
+  "name": "Pajok",
+  "Address": "Caigon Boma, Pajok, South Sudan",
+  "phone": "+211920537592"
+ },
+ {
+  "id": 323,
+  "name": "Afri Shopping Centre",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 324,
+  "name": "Barir Book Shoop",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 325,
+  "name": "Tranquil centre",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956276524"
+ },
+ {
+  "id": 326,
+  "name": "Malakia Complex",
+  "Address": "Nyiggilo St, Juba, South Sudan",
+  "phone": "+211922330531"
+ },
+ {
+  "id": 327,
+  "name": "Unity House",
+  "Address": "Juba, South Sudan",
+  "phone": "+211925706610"
+ },
+ {
+  "id": 328,
+  "name": "Quality House Masia",
+  "Address": "Kurungo Road Juba, Yambio, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 329,
+  "name": "Juba Landmark Hotel",
+  "Address": "Haiyo Mayo, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 330,
+  "name": "Quality Hotel Juba",
+  "Address": "Yambio, South Sudan",
+  "phone": "+211955114441"
+ },
+ {
+  "id": 331,
+  "name": "Naivasha Hotel",
+  "Address": "Muluk Road, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 332,
+  "name": "Peti Baba Lodge",
+  "Address": "Yambio Juba, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 333,
+  "name": "Amsterdam Hotel - Juba",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 334,
+  "name": "Juba Continental Hotel",
+  "Address": "Juba Nabari, Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 335,
+  "name": "TZ Hotel",
+  "Address": "Hai Cinema Road, Juba, South Sudan",
+  "phone": "+211916729719"
+ },
+ {
+  "id": 336,
+  "name": "Family Hotel Juba",
+  "Address": "Juba, Hai Cinema Juba, South Sudan",
+  "phone": "+211917777660"
+ },
+ {
+  "id": 337,
+  "name": "Tourist Hotel",
+  "Address": "RJP3+822، Atla-Bara B, جوبا، Juba دولة, Juba, South Sudan",
+  "phone": "+211913352222"
+ },
+ {
+  "id": 338,
+  "name": "Notos Lounge Bar \u0026 Grill",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 339,
+  "name": "Baho's Restaurant",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 340,
+  "name": "Juba Bridge Restaurant",
+  "Address": "JIT Supermarket, Ministries road, Kololo Near, Juba, South Sudan",
+  "phone": "+211920000562"
+ },
+ {
+  "id": 341,
+  "name": "Vicky’s restaurant and lounge",
+  "Address": "11 Wellington St, Yambio, South Sudan",
+  "phone": "+211955168755"
+ },
+ {
+  "id": 342,
+  "name": "Da Vinci's Restaurant",
+  "Address": "Kees Rd, Juba, South Sudan",
+  "phone": "+211917114490"
+ },
+ {
+  "id": 343,
+  "name": "Phenicia",
+  "Address": "Juba Market Notos Drive Juba SS, Notos Drive, Juba, South Sudan",
+  "phone": "+211911800600"
+ },
+ {
+  "id": 344,
+  "name": "Yambio Bar And Restaurant",
+  "Address": "Kololo, Airport Road Goshen House Building, Ground Floor Juba, South Sudan",
+  "phone": "+211910389999"
+ },
+ {
+  "id": 345,
+  "name": "Westyat Shopping Centre",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 346,
+  "name": "New Times Shopping Plaza",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956179030"
+ },
+ {
+  "id": 347,
+  "name": "Juba Mall Supermarket",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 348,
+  "name": "City Mall",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 349,
+  "name": "SQS Offices",
+  "Address": "Juba, South Sudan",
+  "phone": "+211924000609"
+ },
+ {
+  "id": 350,
+  "name": "Sara Shop Kabaat",
+  "Address": "Juba, South Sudan",
+  "phone": "+211925706610"
+ },
+ {
+  "id": 351,
+  "name": "Barir Book Shoop",
+  "Address": "Nyiggilo St, Juba, South Sudan",
+  "phone": "+211922330531"
+ },
+ {
+  "id": 352,
+  "name": "Tranquil centre",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956844555"
+ },
+ {
+  "id": 353,
+  "name": "Yambio",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 354,
+  "name": "Natana Plaza",
+  "Address": "Juba, South Sudan",
+  "phone": "+211956276524"
+ },
+ {
+  "id": 355,
+  "name": "Malakia Complex",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 356,
+  "name": "yalthok Brongdit for phones",
+  "Address": "Wilson St, Yambio, South Sudan",
+  "phone": ""
+ },
+ {
+  "id": 357,
+  "name": "Development and Peace Office",
+  "Address": "Juba, South Sudan",
+  "phone": ""
+ }
 ]

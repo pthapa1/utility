@@ -1,2158 +1,2594 @@
 [
-  {
-    "name": "Bintumani Hotel",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23277200202"
-  },
-  {
-    "name": "Medrie International Hotel",
-    "address": "75 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23280222222"
-  },
-  {
-    "name": "Radisson Blu Mammy Yoko Hotel, Freetown",
-    "address": "38 Spur Rd, Freetown, Sierra Leone",
-    "phone": "+23277399399"
-  },
-  {
-    "name": "Atlantic Lumley Hotel",
-    "address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279454000"
-  },
-  {
-    "name": "The Country Lodge Hotel",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23230000120"
-  },
-  {
-    "name": "Home Suites Boutique Hotel",
-    "address": "Cape Rd, Freetown, Sierra Leone",
-    "phone": "+23299100100"
-  },
-  {
-    "name": "Pearl Hotel",
-    "address": "Lumley Beach Road, Freetown, Sierra Leone",
-    "phone": "+23280212121"
-  },
-  {
-    "name": "Sierra Palms Resort",
-    "address": "78A Cape road, Bintumani Drive, Aberdeen, Freetown, Sierra Leone",
-    "phone": "+23230222227"
-  },
-  {
-    "name": "Mamba Point Hotel Restaurant Lagoonda",
-    "address": "HS 51 Hillstation, Freetown, Sierra Leone",
-    "phone": "+23277692000"
-  },
-  {
-    "name": "The Swiss Hotel Freetown",
-    "address": "184 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23277211111"
-  },
-  {
-    "name": "New Brookfields Hotel",
-    "address": "Parsonage St, Waterloo, Sierra Leone",
-    "phone": "+23276616095"
-  },
-  {
-    "name": "The Lead Hotel",
-    "address": "George, Brook Rd, Freetown, Sierra, Leone, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "The Family Kingdom Resort",
-    "address": "19 Murge Farm, off Aberdeen Road, Freetown, Sierra Leone",
-    "phone": "+23279904339"
-  },
-  {
-    "name": "Hotel Barmoi",
-    "address": "Congo Cross, 9 Motor Main Rd, Freetown, Sierra Leone",
-    "phone": "+447952445158"
-  },
-  {
-    "name": "Hotel Cabenda",
-    "address": "4 College Road, Goderich, Freetown, Sierra Leone",
-    "phone": "+23299612128"
-  },
-  {
-    "name": "Bintumani Hotel",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Cole Street Guesthouse",
-    "address": "103, Bo-Kenema Highway, Sierra Leone",
-    "phone": "+23279944444"
-  },
-  {
-    "name": "Medrie International Hotel",
-    "address": "Leigh St, Freetown, Sierra Leone",
-    "phone": "+23278221722"
-  },
-  {
-    "name": "Stafford Lodge",
-    "address": "47 Fort St, Freetown, Sierra Leone",
-    "phone": "+23278882400"
-  },
-  {
-    "name": "REGENT PALACE HOTEL",
-    "address": "12 Dorwaila Avenue, Reservation Area, Kenema, Sierra Leone",
-    "phone": "+23233212121"
-  },
-  {
-    "name": "Ishmajoso Lodge",
-    "address": "Rawdon St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Metro Hotel",
-    "address": "York road Sussex, Town, Sierra Leone",
-    "phone": "+23276541236"
-  },
-  {
-    "name": "SKY INN HOTEL & FITNESS CENTER",
-    "address": "Sierra Leone, Freetown, Unnamed Road",
-    "phone": null
-  },
-  {
-    "name": "Belvoir",
-    "address": "7c Damba Rd, Freetown, Sierra Leone",
-    "phone": "6086223810"
-  },
-  {
-    "name": "Stafford Lodge",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Jam Hotel Lodge",
-    "address": "Off Airport Ferry Road, Tagrin, Lungi, Sierra Leone, Tagrin, Sierra Leone",
-    "phone": "+23279233246"
-  },
-  {
-    "name": "Jennabwa Lodge and Restaurant",
-    "address": "Calabar Town, along Bai Bureh Road, Freetown, Sierra Leone",
-    "phone": "+23278954040"
-  },
-  {
-    "name": "Kings Empire SL",
-    "address": "freetown road wilkinson road, Freetown, Sierra Leone",
-    "phone": "+23277222757"
-  },
-  {
-    "name": "Paradise City Hotel",
-    "address": "34 Rawdon St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "ZUNOX GUEST HOUSE",
-    "address": "York,Main Street, York, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Lungi Airport Hotel",
-    "address": "No.7 Hassan Drive, Juba Hill, Freetown, Sierra Leone",
-    "phone": "+23278103895"
-  },
-  {
-    "name": "Mansholl Luxurious Apartment",
-    "address": "Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279193747"
-  },
-  {
-    "name": "East West Hospitality Wilknston road",
-    "address": "13A Bintumani Drive, Freetown, Sierra Leone",
-    "phone": "2153018919"
-  },
-  {
-    "name": "Lungi Airport Lodge",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23275616122"
-  },
-  {
-    "name": "Tokeh Beach Resort",
-    "address": "Backstreet, Hospital Road, York, Sierra Leone",
-    "phone": "+23288557740"
-  },
-  {
-    "name": "The Hub Hotel",
-    "address": "5A Off Beach Road, Aberdeen, Freetown, Sierra Leone",
-    "phone": "+23276886046"
-  },
-  {
-    "name": "Seaside Suites and Hotel",
-    "address": "Pipe Ln, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Lungi gateway hotel",
-    "address": "1 Dora Way Off Port Loko Road, Lungi, Sierra Leone",
-    "phone": "+23288622622"
-  },
-  {
-    "name": "Chinatown Hotel and Restaurant",
-    "address": "33 Murray Town Rd, Freetown, Sierra Leone",
-    "phone": "+23276605222"
-  },
-  {
-    "name": "Roy Hotel & Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23299355842"
-  },
-  {
-    "name": "The Place Resort",
-    "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
-    "phone": "+23277220220"
-  },
-  {
-    "name": "Golden Tulip Essential Kimbima Hotel",
-    "address": "4B Lordmo Drive, Freetown, Sierra Leone",
-    "phone": "+23279906060"
-  },
-  {
-    "name": "Leone Lodge Freetown",
-    "address": "River No.1 overlooking Tokeh Beach, Tokeh, Sierra Leone",
-    "phone": "+23299000050"
-  },
-  {
-    "name": "Motherland City Beach Residences",
-    "address": "Aberdeen Rd, Freetown, Sierra Leone",
-    "phone": "+23230236385"
-  },
-  {
-    "name": "Florence Resort",
-    "address": "Boyle Ln, Freetown, Sierra Leone",
-    "phone": "+23230241212"
-  },
-  {
-    "name": "High Peak Hotel",
-    "address": "16 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23299111444"
-  },
-  {
-    "name": "Occasions Resort",
-    "address": "137 wilkinson road, Freetown, Sierra Leone",
-    "phone": "+23288808888"
-  },
-  {
-    "name": "The View Hotel, Restaurant & Sky Lounge",
-    "address": "2 Sesay Drive Off Peninsula Highway, Lakka Western Peninsula, Lakka beach, Lakka, Sierra Leone",
-    "phone": "+447448463159"
-  },
-  {
-    "name": "SIERRA BAY HOTEL AND RESIDENCE",
-    "address": "Portersville Private Lodge, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Lomtible Beach Resort",
-    "address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
-    "phone": "+23277700020"
-  },
-  {
-    "name": "Companero Hotel",
-    "address": "34 Signal Hill Rd, Wilberforce, Sierra Leone",
-    "phone": "+23276610439"
-  },
-  {
-    "name": "Lacs Villa",
-    "address": "Sussex, Sierra Leone",
-    "phone": "+23276687823"
-  },
-  {
-    "name": "Hotel De La Joie",
-    "address": "29 Off Cape Road, Lumley Beach, Arberdeen, Freetown, Sierra Leone",
-    "phone": "+23288140316"
-  },
-  {
-    "name": "Fabulous Resort York Village",
-    "address": "86 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23288791010"
-  },
-  {
-    "name": "The Villa 9 at Seaview Estate",
-    "address": "Peninsular Highway, York, Sierra Leone",
-    "phone": "+23278911677"
-  },
-  {
-    "name": "Kololi Hotel & Casino",
-    "address": "30 Off Cape Road, Aberdeen SL, Freetown, Sierra Leone",
-    "phone": "+23288321272"
-  },
-  {
-    "name": "Charm's Beach Hotel",
-    "address": "Seaview Estate, 9 Beach Road, Freetown, Sierra Leone",
-    "phone": "+212673632809"
-  },
-  {
-    "name": "Leisure Lodge Hotel",
-    "address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
-    "phone": "+23276611793"
-  },
-  {
-    "name": "Eco Lodge",
-    "address": "3a Cantonment Road Off, King Harman Rd, Freetown, Sierra Leone",
-    "phone": "+23278215668"
-  },
-  {
-    "name": "De Kona Lodge",
-    "address": "110 Kingston Upon Hall Way, Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23278869828"
-  },
-  {
-    "name": "Hotel Africanus",
-    "address": "Area, Peninsular Highway, York, Sierra Leone",
-    "phone": "+23279666600"
-  },
-  {
-    "name": "Portersville Private Lodge",
-    "address": "Main Road, Lakka, Gbonkobe, Sierra Leone",
-    "phone": "+23278860030"
-  },
-  {
-    "name": "Hill Valley Hotel",
-    "address": "Lakka, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "The Lion Inn Hotel",
-    "address": "17 Wallace Johnson St, Freetown, Sierra Leone",
-    "phone": "+23273332323"
-  },
-  {
-    "name": "JC Guest House",
-    "address": "Sierra Leone, Freetown, Motor Main Rd, 58",
-    "phone": "+23299636072"
-  },
-  {
-    "name": "Hotobah Lodge",
-    "address": "Tokeh Beach Freetown, Tokeh, Sierra Leone",
-    "phone": "+23276531781"
-  },
-  {
-    "name": "Raza Guesthouse",
-    "address": "35 Goderich Rd, Freetown, Sierra Leone",
-    "phone": "+23275745652"
-  },
-  {
-    "name": "catco international hotel",
-    "address": "90 Kingston Upon Hull Way, Freetown, Sierra Leone",
-    "phone": "+23276800300"
-  },
-  {
-    "name": "The Big Bamboo Inn",
-    "address": "Unnamed Rd, Sussex, Sierra Leone",
-    "phone": "+23276744406"
-  },
-  {
-    "name": "Humble African",
-    "address": "Unnamed Road SL, Freetown, Sierra Leone",
-    "phone": "+23279582465"
-  },
-  {
-    "name": "WS Diamond Hotel",
-    "address": "Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279599999"
-  },
-  {
-    "name": "Nimiyama Hotel",
-    "address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279655677"
-  },
-  {
-    "name": "Royal Buckingham Guest Houses",
-    "address": "84 lumley beach rd, Lumley beach, Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23222272796"
-  },
-  {
-    "name": "Pangolin Guesthouse",
-    "address": "Penninsula Road Tokeh Beach, Tokeh, Sierra Leone",
-    "phone": "+23231313131"
-  },
-  {
-    "name": "Royal Buckingham",
-    "address": "6 Regent Road, Wilberforce, Freetown, Sierra Leone",
-    "phone": "+23288112121"
-  },
-  {
-    "name": "Hotel Mariam",
-    "address": "4 Humper st, Lungi-Town, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Elm Jay Lodge",
-    "address": "3A Off Bintumani Drive, Freetown, Sierra Leone",
-    "phone": "+23276224459"
-  },
-  {
-    "name": "Iceville B&B",
-    "address": "Tokeh Beach Resort, Tokeh Beach, Freetown, Sierra Leone",
-    "phone": "+23278911111"
-  },
-  {
-    "name": "Holiday Lodge",
-    "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
-    "phone": "+23277639856"
-  },
-  {
-    "name": "Sweet Mother's Guesthouse",
-    "address": "3 Kebe Drive, Pipe Line Juba Hill, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Oasis Juice Bar & Guesthouse",
-    "address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+27605705800"
-  },
-  {
-    "name": "Mozza Beach Resort",
-    "address": "81 Levuma Beach Road Goderich, Freetown, Sierra Leone",
-    "phone": "+23277714455"
-  },
-  {
-    "name": "York Guesthouse",
-    "address": "Lungi-Town, Sierra Leone",
-    "phone": "+23288755151"
-  },
-  {
-    "name": "Joesal Hotel Freetown",
-    "address": "30 FEMI TURNER DRIVE MARJAY TOWN OFF GODERICH, Freetown, Sierra Leone",
-    "phone": "+23275459244"
-  },
-  {
-    "name": "Hedzazi Hotel",
-    "address": "Peninsular Highway, Freetown, Sierra Leone",
-    "phone": "+23277714455"
-  },
-  {
-    "name": "Harmony Hotel",
-    "address": "Tulun Road, Lungi-Town, Sierra Leone",
-    "phone": "+23288200001"
-  },
-  {
-    "name": "SierraGuesthouse and restuarant",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23232146177"
-  },
-  {
-    "name": "Elna Garden",
-    "address": "86 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23277777063"
-  },
-  {
-    "name": "Wilkinson Road Appartment",
-    "address": "1 Stafford Dr, Freetown, Sierra Leone",
-    "phone": "+23278190515"
-  },
-  {
-    "name": "COMFORT LODGE",
-    "address": "Motor Main Rd, Freetown, Sierra Leone",
-    "phone": "+23279667788"
-  },
-  {
-    "name": "Green Bamboo Lodge & Guest House",
-    "address": "184 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23277211111"
-  },
-  {
-    "name": "Sierra International Hotel",
-    "address": "55 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23278321321"
-  },
-  {
-    "name": "The King’s Lodge",
-    "address": "1 Stafford Dr, Freetown, Sierra Leone",
-    "phone": "+23278190515"
-  },
-  {
-    "name": "Lamrana bah",
-    "address": "Ishmajoso Lodge 15 Graceland, Adonkia, Freetown, Freetown, Sierra Leone",
-    "phone": "+23275383933"
-  },
-  {
-    "name": "Comfort Zone",
-    "address": "117 main regent road, regent, Freetown, Sierra Leone",
-    "phone": "+23279214000"
-  },
-  {
-    "name": "Jam Lodge Apartments",
-    "address": "36 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23277896608"
-  },
-  {
-    "name": "Nic's Inn",
-    "address": "5 Cole St, Freetown, Sierra Leone",
-    "phone": "+23278169930"
-  },
-  {
-    "name": "Swan restaurant & Grill",
-    "address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279655677"
-  },
-  {
-    "name": "Crown Xpress",
-    "address": "75 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23288111100"
-  },
-  {
-    "name": "Crown Bakery",
-    "address": "78A Cape road, Bintumani drive, Aberdeen, Freetown, Sierra Leone",
-    "phone": "+23230222228"
-  },
-  {
-    "name": "Bliss Restaurant",
-    "address": "125 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23277999444"
-  },
-  {
-    "name": "City sandwich",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Papaya Restaurant",
-    "address": "14b Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288963963"
-  },
-  {
-    "name": "Roof Garden Bar & Restaurant",
-    "address": "73 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23276611000"
-  },
-  {
-    "name": "Roy Hotel & Restaurant",
-    "address": "5 Wilberforce St, Freetown, Sierra Leone",
-    "phone": "+23276639349"
-  },
-  {
-    "name": "Basha Bakery & Restaurant",
-    "address": "Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23278609312"
-  },
-  {
-    "name": "Olba Restaurant",
-    "address": "31A Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288003004"
-  },
-  {
-    "name": "D's Bazaar",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Seafood City Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Lily's Restaurant & cafe",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Chicken Town",
-    "address": "50 Adelaide Steet, Freetown, Sierra Leone",
-    "phone": "+23279201212"
-  },
-  {
-    "name": "Hangout Restaurant & Bar",
-    "address": "Dougan St, Freetown, Sierra Leone",
-    "phone": "+23288284913"
-  },
-  {
-    "name": "Brimelia Vegetarian Restaurant",
-    "address": "Mount Aureol, Freetown, Sierra, Leone, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Lumley Restaurant and Fast Food",
-    "address": "37 Circular Rd, Freetown, Sierra Leone",
-    "phone": "+23290779977"
-  },
-  {
-    "name": "Francesca's",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23299885500"
-  },
-  {
-    "name": "Lovetta's Kitchen Sport Bar And Restaurant",
-    "address": "64 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23233000009"
-  },
-  {
-    "name": "Sulaila's Multi Cuisine Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "ARIRANG Restaurant - Korean Barbecue",
-    "address": "29 Upper Brook St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mixed Flavour restaurant",
-    "address": "Lumley Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Chinny\"s restaurant",
-    "address": "49 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23230824490"
-  },
-  {
-    "name": "Lady Sha-Sha' Kitchen",
-    "address": "Lumley Beach Road, Freetown, Sierra Leone",
-    "phone": "+23288674142"
-  },
-  {
-    "name": "The Butcher and The Grill",
-    "address": "Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Rooster Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23278610064"
-  },
-  {
-    "name": "All As One Restaurant",
-    "address": "De La Paix By Samsumana Drive, 79 Rue, Freetown, Sierra Leone",
-    "phone": "+23275223036"
-  },
-  {
-    "name": "Jomat Bar N Lounge",
-    "address": "82 Regent Road, Hill Station, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "SSL TAKE WAY",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23230323333"
-  },
-  {
-    "name": "Pulse Resturant and Bar",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Elfrida's Restaurant",
-    "address": "28 Regent Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mezza & More",
-    "address": "53 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23279534634"
-  },
-  {
-    "name": "B'classic kitchen",
-    "address": "Lumley Beach Rd, Freetown, Sierra, Leone, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mango Peak",
-    "address": "8a Henry St, Freetown, Sierra Leone",
-    "phone": "+23276277456"
-  },
-  {
-    "name": "Bee's Kitchen Bar",
-    "address": "40 Freetown Road, Freetown, Sierra Leone",
-    "phone": "+23275111119"
-  },
-  {
-    "name": "Big Mike's Bar and Restaurant",
-    "address": "15 Charlotte St, Freetown, Sierra Leone",
-    "phone": "+23274800700"
-  },
-  {
-    "name": "Eva Fast Food Bar Restaurant",
-    "address": "Aberdeen Rd, Freetown, Sierra Leone",
-    "phone": "+23279201212"
-  },
-  {
-    "name": "Cravings & Delicacies",
-    "address": "17 Wallace Johnson St, Freetown, Sierra Leone",
-    "phone": "+23273332323"
-  },
-  {
-    "name": "Oryza Food and Bar",
-    "address": "8 Regent Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Yemoris Kitchen - Nigerian Dishes",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23276852536"
-  },
-  {
-    "name": "Cokie's Cookery & Bar",
-    "address": "170 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23278595881"
-  },
-  {
-    "name": "Agenkwa Ghanaian Restaurant",
-    "address": "33 Murray Town Rd, Freetown, Sierra Leone",
-    "phone": "+23276605222"
-  },
-  {
-    "name": "Walla! Beach Bar , Restaurant and Events Venue",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23299396111"
-  },
-  {
-    "name": "Jem’s",
-    "address": "Rokupa, Freetown, Sierra Leone",
-    "phone": "+23278787547"
-  },
-  {
-    "name": "Momoh's place (Naija Restaurant)",
-    "address": "Lumley Mall, 26A Freetown Rd, Freetown, Sierra Leone",
-    "phone": "+23288825668"
-  },
-  {
-    "name": "LimeTree Bar and Restaurant, Freetown, Sierra Leone, West Africa",
-    "address": "Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23288791010"
-  },
-  {
-    "name": "Silver Star Bar and Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "King's Bakery",
-    "address": "10 Lewis St, Freetown, Sierra Leone",
-    "phone": "+23230300500"
-  },
-  {
-    "name": "J'Royals Bar & Restaurant",
-    "address": "1 Beach Road, Freetown, Sierra Leone",
-    "phone": "+23279091900"
-  },
-  {
-    "name": "nalita's bar & restaurant",
-    "address": "23a Cantonment Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Happy Chicken",
-    "address": "21 Howe St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Matteh's Mode",
-    "address": "34 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279462372"
-  },
-  {
-    "name": "Jeskamac Guest House & Restaurant",
-    "address": "No. 16 Red Pump, Kingyama Road, Red Pump No. 33 Kamara Lane, Tree planting, Freetown +232 77 669185, Freetown, Sierra Leone",
-    "phone": "1633+23277669185"
-  },
-  {
-    "name": "Grab a Bite",
-    "address": "13 Goderich Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mommy J Restaurant",
-    "address": "133 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288464646"
-  },
-  {
-    "name": "Yori Yori and Daughter Restaurant",
-    "address": "20 garsssfield, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Glorious Kitchen and restaurant",
-    "address": "Regent Rd, Freetown, Sierra Leone",
-    "phone": "+23278737070"
-  },
-  {
-    "name": "Jaserak Enterprise",
-    "address": "Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "CAFÉ DE LA ROSE",
-    "address": "Rawdon St, Freetown, Sierra Leone",
-    "phone": "+23276280616"
-  },
-  {
-    "name": "DeVillage Beach Bar & Restaurant",
-    "address": "Kennedy St, Freetown, Sierra Leone",
-    "phone": "+23276501155"
-  },
-  {
-    "name": "China House",
-    "address": "Lewis Ln, College Road, Freetown, Sierra, Leone, Sierra Leone",
-    "phone": "+23277333310"
-  },
-  {
-    "name": "Fanta’s Kitchen",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23276318169"
-  },
-  {
-    "name": "Darlene Restaurant & Bar",
-    "address": "177 Main Regent Rd, Hill Station, Freetown, Sierra Leone",
-    "phone": "+23276533655"
-  },
-  {
-    "name": "Home Food Restaurant",
-    "address": "129c Wilkinson Road, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Dee's Delight (D's Bazaar)",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23276431152"
-  },
-  {
-    "name": "Al-Arez Restaurant and Bakery",
-    "address": "Steward St, Freetown, Sierra Leone",
-    "phone": "+23279593967"
-  },
-  {
-    "name": "KOLOLI Bar & Restaurant",
-    "address": "71a Regent Rd, Freetown, Sierra Leone",
-    "phone": "+23234966408"
-  },
-  {
-    "name": "Accra Restaurant Lounge SL",
-    "address": "Peninsular Highway, Freetown, Sierra Leone",
-    "phone": "+23275990990"
-  },
-  {
-    "name": "Downtown Restaurant",
-    "address": "Beccles St, Freetown, Sierra Leone",
-    "phone": "+23279452316"
-  },
-  {
-    "name": "Restaurant",
-    "address": "1 Pademba Rd, Freetown, Sierra Leone",
-    "phone": "+23272161919"
-  },
-  {
-    "name": "Oasis Juice Bar & Guesthouse",
-    "address": "Opposite BIS, 32 Hill Cot Rd, Freetown, Sierra Leone",
-    "phone": "+23276336660"
-  },
-  {
-    "name": "The View Hotel, Restaurant & Sky Lounge",
-    "address": "74 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279153911"
-  },
-  {
-    "name": "Aista's Restaurant",
-    "address": "Concern Road, Off, Cantonment Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "NEW CREATIVE ENTERPRICE (GHANAIAN RESTAURANT)",
-    "address": "133 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288662791"
-  },
-  {
-    "name": "Havana's Dream Bar&Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23276972338"
-  },
-  {
-    "name": "Chicken Town",
-    "address": "133 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23230150150"
-  },
-  {
-    "name": "Tito's Bar and Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23277717717"
-  },
-  {
-    "name": "JANDIS RESTAURANT",
-    "address": "Orange Head office, Hillstation, 26 Regent Road, opposite to, Freetown, Sierra Leone",
-    "phone": "+23279666632"
-  },
-  {
-    "name": "CFC",
-    "address": "82 Regent Rd, Freetown, Sierra Leone",
-    "phone": "+23278585727"
-  },
-  {
-    "name": "ROCK ATM BAR & RESTAURANT",
-    "address": "1c College Rd, Freetown, Sierra Leone",
-    "phone": "+23276900500"
-  },
-  {
-    "name": "McBendu's Coffee and Food",
-    "address": "5 Regent Rd, Freetown, Sierra Leone",
-    "phone": "+23222280539"
-  },
-  {
-    "name": "SSL TAKE WAY",
-    "address": "3 Gloucester St, Freetown, Sierra Leone",
-    "phone": "+23275200020"
-  },
-  {
-    "name": "JM LIN RESTAURANT",
-    "address": "2 Spur Rd, Freetown, Sierra Leone",
-    "phone": "+23288111267"
-  },
-  {
-    "name": "Vyb's",
-    "address": "Freetown Rd, Freetown, Sierra Leone",
-    "phone": "+23277714915"
-  },
-  {
-    "name": "Nouveau chez nous",
-    "address": "Wilkinson Road, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Tito's Bar and Restaurant",
-    "address": "41 Fourah Bay Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "WanWanWan Bar & Restaurant",
-    "address": "Lower Syke St, Freetown, Sierra Leone",
-    "phone": "+23277842424"
-  },
-  {
-    "name": "Gigibontà Ice Cream and Pizzeria",
-    "address": "Gooding Drive, Regent Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Posseh Hotel & Rokama Restaurant",
-    "address": "Aberdeen Rd, Freetown, Sierra Leone",
-    "phone": "+23276691136"
-  },
-  {
-    "name": "Masika's Restaurant and Catering Service",
-    "address": "37 Bathurst St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Newyork pizza",
-    "address": "5 Hill Side By Pass Road, Freetown, Sierra Leone",
-    "phone": "+23276318966"
-  },
-  {
-    "name": "Obelisk Cafe",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23277433000"
-  },
-  {
-    "name": "Aista's Restaurant & Cafe",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23234438219"
-  },
-  {
-    "name": "Beijing Restaurant",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23276415534"
-  },
-  {
-    "name": "CREAM'S DELUXE",
-    "address": "196B Wilkinson Road, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Tees Shopping Center",
-    "address": "George Brook Rd, Freetown, Sierra Leone",
-    "phone": "+23279469100"
-  },
-  {
-    "name": "H.Baydoun & Sons",
-    "address": "31 Wilberforce St, Freetown, Sierra Leone",
-    "phone": "+23279142101"
-  },
-  {
-    "name": "PZ Building",
-    "address": "Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23276110409"
-  },
-  {
-    "name": "Sinko store",
-    "address": "135 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288000007"
-  },
-  {
-    "name": "ADAHASSAN SL Ltd.",
-    "address": "1 Kono Park, Freetown Maisaika, Highway, Sierra, Leone, Sierra Leone",
-    "phone": "+23288559276"
-  },
-  {
-    "name": "Mubarak trading",
-    "address": "Wilberforce St, Freetown, Sierra Leone",
-    "phone": "+23278151224"
-  },
-  {
-    "name": "Viascity Plaza",
-    "address": "169 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23279144569"
-  },
-  {
-    "name": "Freetown Mall",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23277909973"
-  },
-  {
-    "name": "HEMA Trading & Construction CO. ltd",
-    "address": "King Harman Rd, Freetown, Sierra Leone",
-    "phone": "+23278591758"
-  },
-  {
-    "name": "Ishwari Supermarket",
-    "address": "Lumley shopping center, 9 Freetown Rd, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "PLAYSTATION GAME CENTRE",
-    "address": "Mellon Street, Freetown, Sierra Leone",
-    "phone": "+23275892070"
-  },
-  {
-    "name": "Eddie Matthews Plaza",
-    "address": "133 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "LaDeDa Online Plaza",
-    "address": "Kallon Drive Beside Aberdeen Women Center, 2b, off Cape Rd, Aberdeen, Sierra Leone",
-    "phone": "+23231612150"
-  },
-  {
-    "name": "Printing Shop",
-    "address": "676 REGENT RD, IMATT BTW SAINT PAUL DRIVE & JAMES DRIVE FREETOWN, IMATT CITY, Sierra Leone",
-    "phone": "+23276538768"
-  },
-  {
-    "name": "City Plaza",
-    "address": "47 Dougan St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kal hazel fashion Butuique",
-    "address": "Zarra Lane, Freetown, Sierra Leone",
-    "phone": "+23276542910"
-  },
-  {
-    "name": "WINNIFIED PERFUMERY.SL",
-    "address": "93 Bai Bureh Road, Freetown, Sierra Leone",
-    "phone": "+23278642216"
-  },
-  {
-    "name": "PCM Operation Center Sierra Leone",
-    "address": "97 Wilkinson Road SL, Freetown, Sierra Leone",
-    "phone": "+23277365254"
-  },
-  {
-    "name": "Sierra Leone Peace Museum",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23231777777"
-  },
-  {
-    "name": "Tacugama Chimpanzee Sanctuary",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "National Railway Museum",
-    "address": "32 Walpole St, Freetown, Sierra Leone",
-    "phone": "+23278046257"
-  },
-  {
-    "name": "Sierra Leone National Museum",
-    "address": "Lightfoot Boston St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Freetown Central Mosque",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Freetown Amusement Park - Victoria Park",
-    "address": "Unnamed Road, Freetown, Sierra Leone",
-    "phone": "+23275233451"
-  },
-  {
-    "name": "St. John's Maroon Church",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Climb Salone",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23299872103"
-  },
-  {
-    "name": "Cotton Tree",
-    "address": "Jomo Kenyatta Rd, Freetown, Sierra Leone",
-    "phone": "+23276819242"
-  },
-  {
-    "name": "Gola Forest Reserve",
-    "address": "Liverpool St, Freetown, Sierra Leone",
-    "phone": "+23277748376"
-  },
-  {
-    "name": "Outamba Kilimi National Park",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23288442103"
-  },
-  {
-    "name": "Beartown State Forest",
-    "address": "18 Ross Rd, Freetown, Sierra Leone",
-    "phone": "+23276617550"
-  },
-  {
-    "name": "Eastern Point Lighthouse",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Heartland Auto Spare parts",
-    "address": "Wallace Johnson St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Fort Rodman",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Freetown",
-    "address": "Blama, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Ballanta Academy",
-    "address": "Dubaia, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Pilgrim Memorial State Park",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "FreeTown",
-    "address": "31A Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288003004"
-  },
-  {
-    "name": "Lloyd Center for the Environment",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23230000120"
-  },
-  {
-    "name": "Freetown",
-    "address": "Tokeh Beach Resort, Tokeh Beach, Freetown, Sierra Leone",
-    "phone": "+23278911111"
-  },
-  {
-    "name": "Chester-Blandford State Forest",
-    "address": "Kissy Beach, Tasso Island, Pepel, Sierra Leone",
-    "phone": "+23276791281"
-  },
-  {
-    "name": "Borden Flats Lighthouse",
-    "address": "Mobah House, 77 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23299890077"
-  },
-  {
-    "name": "Freetown",
-    "address": "Lumley Beach Road, Freetown, Sierra Leone",
-    "phone": "+23280212121"
-  },
-  {
-    "name": "Freetown",
-    "address": "Kroo Town Rd, Freetown, Sierra Leone",
-    "phone": "+23276669165"
-  },
-  {
-    "name": "Eastern Province",
-    "address": "6 Regent Road, Wilberforce, Freetown, Sierra Leone",
-    "phone": "+23288112121"
-  },
-  {
-    "name": "Fall River Heritage State Park",
-    "address": "38 Spur Rd, Freetown, Sierra Leone",
-    "phone": "+23277399399"
-  },
-  {
-    "name": "Ashland State Park",
-    "address": "11 Man 'O' War Bay, Aberdeen, Freetown, Sierra Leone",
-    "phone": "+23276748407"
-  },
-  {
-    "name": "Freetown",
-    "address": "Campbell street, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Allen C. Haskell Public Gardens",
-    "address": "Lumley Rd, Freetown, Sierra Leone",
-    "phone": "+23234670399"
-  },
-  {
-    "name": "Georgetown-Rowley State Forest",
-    "address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279454000"
-  },
-  {
-    "name": "Children's Museum of Greater Fall River",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Wahconah Falls State Park",
-    "address": "14 Wallace Johnson St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Children's Museum In Easton",
-    "address": "Kailahun, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "PALOMA GUEST HOUSE",
-    "address": "10 Sahara Street, Kenema, Sierra Leone",
-    "phone": "+23276889999"
-  },
-  {
-    "name": "Paloma Guest House & Restaurant",
-    "address": "12 Dorwaila Avenue, Reservation Area, Kenema, Sierra Leone",
-    "phone": "+23233212121"
-  },
-  {
-    "name": "DORWAILA INN & SUITE",
-    "address": "Savage St, Freetown, Sierra Leone",
-    "phone": "4049064001"
-  },
-  {
-    "name": "Hotel Albertson",
-    "address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23279454000"
-  },
-  {
-    "name": "Capitol Hotel",
-    "address": "72a Cape Rd, Freetown, Sierra Leone",
-    "phone": "+23233933333"
-  },
-  {
-    "name": "Radisson Blu Mammy Yoko Hotel, Freetown",
-    "address": "14B Signal Hill Rd, Freetown, Sierra Leone",
-    "phone": "+23278822202"
-  },
-  {
-    "name": "The Family Kingdom Resort",
-    "address": "Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23276777949"
-  },
-  {
-    "name": "HOTEL MALLIKA COMPANY SL",
-    "address": "Kenema, Sierra Leone",
-    "phone": "+23233330934"
-  },
-  {
-    "name": "Hotel Cabenda",
-    "address": "Opposite shopping plaza, Kenema, Sierra Leone",
-    "phone": "+23276889999"
-  },
-  {
-    "name": "SKY INN HOTEL & FITNESS CENTER",
-    "address": "Leigh St, Freetown, Sierra Leone",
-    "phone": "+23278221722"
-  },
-  {
-    "name": "Jennabwa Lodge and Restaurant",
-    "address": "Congo Cross, 9 Motor Main Rd, Freetown, Sierra Leone",
-    "phone": "+447952445158"
-  },
-  {
-    "name": "Home Suites Boutique Hotel",
-    "address": "15, Off Teko Road, Makeni, Sierra Leone",
-    "phone": "+23288839003"
-  },
-  {
-    "name": "Atlantic Lumley Hotel",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "New Brookfields Hotel",
-    "address": "Rawdon St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Metro Hotel",
-    "address": "Calabar Town, along Bai Bureh Road, Freetown, Sierra Leone",
-    "phone": "+23278954040"
-  },
-  {
-    "name": "The Country Lodge Hotel",
-    "address": "7c Damba Rd, Freetown, Sierra Leone",
-    "phone": "6086223810"
-  },
-  {
-    "name": "Kings' Empire hotel bar & restaurant",
-    "address": "5A Off Beach Road, Aberdeen, Freetown, Sierra Leone",
-    "phone": "+23276886046"
-  },
-  {
-    "name": "ZUNOX GUEST HOUSE",
-    "address": "No.7 Hassan Drive, Juba Hill, Freetown, Sierra Leone",
-    "phone": "+23278103895"
-  },
-  {
-    "name": "East West Hospitality Wilknston road",
-    "address": "4B Lordmo Drive, Freetown, Sierra Leone",
-    "phone": "+23279906060"
-  },
-  {
-    "name": "East West Hospitality Wilknston road",
-    "address": "Sierra Leone, Freetown, Unnamed Road",
-    "phone": null
-  },
-  {
-    "name": "Capitol Hotel",
-    "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
-    "phone": "+23277220220"
-  },
-  {
-    "name": "Joesal Hotel Kenema",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23275616122"
-  },
-  {
-    "name": "Dohas Hotel And Restaurant",
-    "address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
-    "phone": "+23278012322"
-  },
-  {
-    "name": "De Kona Lodge",
-    "address": "137 wilkinson road, Freetown, Sierra Leone",
-    "phone": "+23288808888"
-  },
-  {
-    "name": "Kololi Hotel & Casino",
-    "address": "Unnamed Road SL, Freetown, Sierra Leone",
-    "phone": "+23279582465"
-  },
-  {
-    "name": "Diamond Lodge",
-    "address": "Main Road, Lakka, Gbonkobe, Sierra Leone",
-    "phone": "+23278860030"
-  },
-  {
-    "name": "Leisure Lodge Hotel",
-    "address": "5A MAN O WAR BAY BAY, Freetown, Sierra Leone",
-    "phone": "+23277393999"
-  },
-  {
-    "name": "The Lion Inn Hotel",
-    "address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
-    "phone": "+23277700020"
-  },
-  {
-    "name": "Hotel Africanus",
-    "address": "16 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23299111444"
-  },
-  {
-    "name": "Lomtible Beach Resort",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "SIERRA BAY HOTEL AND RESIDENCE",
-    "address": "136, Azzolini Highway, Makeni, Makeni, Sierra Leone",
-    "phone": "+23278573303"
-  },
-  {
-    "name": "Golden Tulip Essential Kimbima Hotel",
-    "address": "30 Off Cape Road, Aberdeen SL, Freetown, Sierra Leone",
-    "phone": "+23288321272"
-  },
-  {
-    "name": "Mena Hills Hotel",
-    "address": "Yengema, Sierra Leone",
-    "phone": "+23231459141"
-  },
-  {
-    "name": "catco international hotel",
-    "address": "86 Lumley Beach Rd, Freetown, Sierra Leone",
-    "phone": "+23288791010"
-  },
-  {
-    "name": "Sahara Hotel",
-    "address": "Waahmann Abu road, Kenema, Kenema, Sierra Leone",
-    "phone": "+23278954040"
-  },
-  {
-    "name": "Conteh U Hotel",
-    "address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
-    "phone": "+23276611793"
-  },
-  {
-    "name": "Holiday Lodge",
-    "address": "103, Bo-Kenema Highway, Sierra Leone",
-    "phone": "+23279944444"
-  },
-  {
-    "name": "SierraGuesthouse and restuarant",
-    "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
-    "phone": "+23277639856"
-  },
-  {
-    "name": "Joesal Hotel Freetown",
-    "address": "30 FEMI TURNER DRIVE MARJAY TOWN OFF GODERICH, Freetown, Sierra Leone",
-    "phone": "+23275459244"
-  },
-  {
-    "name": "WS Diamond Hotel",
-    "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
-    "phone": "+23277639856"
-  },
-  {
-    "name": "Elm Jay Lodge",
-    "address": "Peninsular Highway, Freetown, Sierra Leone",
-    "phone": "+23277714455"
-  },
-  {
-    "name": "Hotel Mariam",
-    "address": "HS 51 Hillstation, Freetown, Sierra Leone",
-    "phone": "+23277692000"
-  },
-  {
-    "name": "COMFORT LODGE",
-    "address": "184 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23277211111"
-  },
-  {
-    "name": "Sierra International Hotel",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23232146177"
-  },
-  {
-    "name": "Lodge Valley Hotel",
-    "address": "Lumley Beach Road, Freetown, Sierra Leone",
-    "phone": "+23280212121"
-  },
-  {
-    "name": "Nic's Inn",
-    "address": "78A Cape road, Bintumani Drive, Aberdeen, Freetown, Sierra Leone",
-    "phone": "+23230222227"
-  },
-  {
-    "name": "Lamrana bah",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23230000120"
-  },
-  {
-    "name": "R & B Hotel",
-    "address": "55 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23278321321"
-  },
-  {
-    "name": "Food Master Restaurant & Bakery",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Unique",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Goat Kingdom",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Bingerville",
-    "address": "Opposite shopping plaza, Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Goat modern",
-    "address": "1 Wesley Street, Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Bintos Bar",
-    "address": "Unnamed Road, Kenema, Sierra Leone",
-    "phone": "+23276467234"
-  },
-  {
-    "name": "Noah Idriss",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "ARMANI Restaurant",
-    "address": "Road Kenema, Karima Gas Station, Blama, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Ericsson Lodge And Restaurant",
-    "address": "10 Sahara Street, Kenema, Sierra Leone",
-    "phone": "+23276889999"
-  },
-  {
-    "name": "Paloma Guest House & Restaurant",
-    "address": "48 Swaray Street, Kenema, Sierra Leone",
-    "phone": "+23276410722"
-  },
-  {
-    "name": "Business",
-    "address": "10 Hangha Road, Kenema, Sierra Leone",
-    "phone": "+23299547672"
-  },
-  {
-    "name": "luawa resort hotel",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "DHL Service Point (TOTALL FUEL STATION)",
-    "address": "Bo-Kenema Highway, Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kenema New Clock Tower",
-    "address": "Blama, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kamboi Hills",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kambui Hills Forest Reserve",
-    "address": "Kailahun, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Gola Rainforest National Park",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23231777777"
-  },
-  {
-    "name": "Tacugama Chimpanzee Sanctuary",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kenema",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Sierra Leone Peace Museum",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kenema Show Field",
-    "address": "Jomo Kenyatta Rd, Freetown, Sierra Leone",
-    "phone": "+23276819242"
-  },
-  {
-    "name": "National Railway Museum",
-    "address": "Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kenema",
-    "address": "Opposite shopping plaza, Kenema, Sierra Leone",
-    "phone": "+23276889999"
-  },
-  {
-    "name": "Kenema",
-    "address": "Kenema, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Capitol Hotel",
-    "address": "Kenema, Sierra Leone",
-    "phone": "+23276755146"
-  },
-  {
-    "name": "PALOMA GUEST HOUSE",
-    "address": "Baoma, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Dohas Hotel And Restaurant",
-    "address": "Bo, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Bo Paramedical",
-    "address": "103, Bo-Kenema Highway, Sierra Leone",
-    "phone": "+23279944444"
-  },
-  {
-    "name": "Restaurat Luz Andina-UNI",
-    "address": "Kissy Town Road, Bo, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kings and Queens",
-    "address": "YMCA Regional Center, 92, Bo, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Ruri's Restaurant",
-    "address": "Tikonko Rd, Bo, Sierra Leone",
-    "phone": "+23276854407"
-  },
-  {
-    "name": "Hancess Bar and Restaurant",
-    "address": "74 Johannes St, Bo, Sierra Leone",
-    "phone": "+23279899354"
-  },
-  {
-    "name": "Nile Sam Steven Street, Bo.",
-    "address": "Bo, Sierra Leone",
-    "phone": "+23299491298"
-  },
-  {
-    "name": "Vicanda Parlour Restaurant",
-    "address": "Unnamed Road, Bo, Sierra Leone",
-    "phone": "+23231014118"
-  },
-  { "name": "Taiama", "address": "Bo, Sierra Leone", "phone": null },
-  {
-    "name": "Mimiko lounge & Restaurant",
-    "address": "Bo, Sierra Leone",
-    "phone": "+23279600600"
-  },
-  {
-    "name": "Growth Center Bo",
-    "address": "4 Fenton Rd, Bo, Sierra Leone",
-    "phone": "+23230505086"
-  },
-  {
-    "name": "Eaty Food",
-    "address": "275 Bo-Kenema Highway, Bo, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Americana Bakery and Cafe",
-    "address": "Dambala Road, Bo, Sierra Leone",
-    "phone": "+23276614440"
-  },
-  {
-    "name": "Phở Bờm, Vietnamese Noodle & Grill",
-    "address": "Tikonko Rd, Bo, Sierra Leone",
-    "phone": "+23276460452"
-  },
-  {
-    "name": "Saigon Bistro",
-    "address": "Bo-Kenema Highway, Bo, Sierra Leone",
-    "phone": "+23277453573"
-  },
-  {
-    "name": "The Palace Complex",
-    "address": "Nr Government Hospital entrance, 4 Fenton Rd, Bo, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Wusum Hotel",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23232146177"
-  },
-  {
-    "name": "SKY INN HOTEL & FITNESS CENTER",
-    "address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
-    "phone": "+23278012322"
-  },
-  {
-    "name": "Royal Hotel Makeni",
-    "address": "136, Azzolini Highway, Makeni, Makeni, Sierra Leone",
-    "phone": "+23278573303"
-  },
-  {
-    "name": "Jennabwa Lodge and Restaurant",
-    "address": "Magburaka Road, Makeni, Sierra Leone",
-    "phone": "+23288722351"
-  },
-  {
-    "name": "Atlantic Lumley Hotel",
-    "address": "Lightfoot Boston Road, Freetown, Sierra Leone",
-    "phone": "+23277639856"
-  },
-  {
-    "name": "The Country Lodge Hotel",
-    "address": "VXJ8+8MR Teko Road, Makeni, Sierra Leone",
-    "phone": "+23274600043"
-  },
-  {
-    "name": "Conteh U Hotel",
-    "address": "55 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23278321321"
-  },
-  {
-    "name": "Mena Hills Hotel",
-    "address": "HS 51 Hillstation, Freetown, Sierra Leone",
-    "phone": "+23277692000"
-  },
-  {
-    "name": "East West Hospitality Wilknston road",
-    "address": "Lumley Beach Road, Freetown, Sierra Leone",
-    "phone": "+23280212121"
-  },
-  {
-    "name": "MADAMNELIS GUEST HOUSE",
-    "address": "19 Magburaka Road, Makeni, Sierra Leone",
-    "phone": "+23275568401"
-  },
-  {
-    "name": "Sahara Hotel",
-    "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
-    "phone": "+23277220220"
-  },
-  {
-    "name": "MVR Makambo",
-    "address": "4B Lordmo Drive, Freetown, Sierra Leone",
-    "phone": "+23279906060"
-  },
-  {
-    "name": "Makama Lodge",
-    "address": "15, Off Teko Road, Makeni, Sierra Leone",
-    "phone": "+23288839003"
-  },
-  {
-    "name": "Joesal Hotel Makeni",
-    "address": "Off Magburaka Highway, Makeni, Makeni, Sierra Leone",
-    "phone": "+23278954040"
-  },
-  {
-    "name": "Multiple Guesthouse",
-    "address": "7 Mathankoh Street, Makeni, Sierra Leone",
-    "phone": "+23277529851"
-  },
-  {
-    "name": "Lodge Valley Hotel",
-    "address": "Kabala Hwy, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "R & B Hotel",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Nimiyama Hotel",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "WS Diamond Hotel",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Global Restaurant and General Enterprise",
-    "address": "Azzolini Highway, Makeni, Sierra Leone",
-    "phone": "+23277719746"
-  },
-  {
-    "name": "Papa's Restaurant & Deco Relaxation",
-    "address": "51 Magburaka Road, Makeni, Sierra Leone",
-    "phone": "+23276226153"
-  },
-  {
-    "name": "Country Friends Bar & Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Millie's Devine Bar & Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23276699903"
-  },
-  {
-    "name": "Syls Kitchen",
-    "address": "7 Barracks Road, Makeni, Sierra Leone",
-    "phone": "+23299778460"
-  },
-  {
-    "name": "Subish Fast Food",
-    "address": "40 Station Road, Makeni, Sierra Leone",
-    "phone": "+23276220169"
-  },
-  {
-    "name": "Paradise Chilling Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Shop 131-Mama Yalie Mini Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Yeanne's Restaurant and Multi Purpose Hall",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23288543892"
-  },
-  {
-    "name": "Kanumasala Kitchen Bar Center",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23288445509"
-  },
-  {
-    "name": "City Bar Restorant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Neneh Haja Wayliya Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Abundant Fast Food Restaurant",
-    "address": "Azzolini Highway, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Syl's Kitchen",
-    "address": "Kabala Hwy, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Jaway & Son Enterprise",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mem's Enterprise",
-    "address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
-    "phone": "+23277208000"
-  },
-  {
-    "name": "Conteh U Hotel",
-    "address": "Magburaka Road, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Church of Jesus Christ of Latter-day Saints",
-    "address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
-    "phone": "+23278012322"
-  },
-  {
-    "name": "The Gold kitchen",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23288382529"
-  },
-  {
-    "name": "INDIAN HUT",
-    "address": "1 Albert Street, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "BHAIYATS BRAAI",
-    "address": "15, Off Teko Road, Makeni, Sierra Leone",
-    "phone": "+23288839003"
-  },
-  {
-    "name": "Pizza Inn",
-    "address": "68 Masuba Road, Makeni, Sierra Leone",
-    "phone": "+23277829575"
-  },
-  {
-    "name": "Panarottis Makeni Mall",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "SADAR'S BRAAI",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mashawi",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Kamikaz",
-    "address": "19 Magburaka Road, Makeni, Sierra Leone",
-    "phone": "+23275568401"
-  },
-  {
-    "name": "K Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Shampalace Restaurant",
-    "address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Texan Pub & Grill Makeni Mall",
-    "address": "VXJ8+8MR Teko Road, Makeni, Sierra Leone",
-    "phone": "+23274600043"
-  },
-  {
-    "name": "McSydney's Restaurant",
-    "address": "12 Mabanta Road, Makeni, Sierra Leone",
-    "phone": "+23273430000"
-  },
-  {
-    "name": "Fleva Foods Restaurant",
-    "address": "108 Freetown Highway, Mathinka Junction, Makeni, Sierra Leone",
-    "phone": "+23230567674"
-  },
-  {
-    "name": "The Grill Shack",
-    "address": "makeni, Freetown, Sierra Leone",
-    "phone": "+23279329467"
-  },
-  {
-    "name": "Food Boss",
-    "address": "Magburaka Road, Makeni, Sierra Leone",
-    "phone": "+23288006712"
-  },
-  {
-    "name": "Nando's Makeni",
-    "address": "Azzolini Highway, Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Rhodes Park Restaurant makeni",
-    "address": "Magburaka Road, Makeni, Sierra Leone",
-    "phone": "+23278207770"
-  },
-  {
-    "name": "KFC | Makeni Mall",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Red Apple Farm Limited",
-    "address": "New Makeni Highway, Lunsar, Sierra Leone",
-    "phone": "+23288695150"
-  },
-  {
-    "name": "Social At Makeni",
-    "address": "Azzolini Highway, Makeni, Sierra Leone",
-    "phone": "+23278339921"
-  },
-  {
-    "name": "Prince Charles Hotel",
-    "address": "4 Samuel st, Makeni, Sierra Leone",
-    "phone": "+23278711704"
-  },
-  {
-    "name": "The Cake Bar - Makeni Mall",
-    "address": "2 Station Road, Makeni, Sierra Leone",
-    "phone": "+23230889595"
-  },
-  {
-    "name": "Montana Restaurant",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Home Affairs Ent. & GM",
-    "address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
-    "phone": "+23288482117"
-  },
-  {
-    "name": "Old Mabanta Road",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "MAKAMA APEX",
-    "address": "Tecko Road, Makeni, Sierra, Leone, Sierra Leone",
-    "phone": "+23279906939"
-  },
-  {
-    "name": "Whereelse",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23288065235"
-  },
-  {
-    "name": "University of Makeni, Sylvanus Koroma Campus, Student's Canteen",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23275223564"
-  },
-  {
-    "name": "Makeni Mall",
-    "address": "Makeni, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Makeni Mall",
-    "address": "Makeni, Sierra Leone",
-    "phone": "+23230612819"
-  },
-  {
-    "name": "WS Diamond Hotel of Kono",
-    "address": "48 Massingbai road 555 Spot, Koidu, Sierra Leone",
-    "phone": "+23277927732"
-  },
-  {
-    "name": "Leisure Lodge Ndambie",
-    "address": "Yengema, Sierra Leone",
-    "phone": "+23231459141"
-  },
-  {
-    "name": "Lion Mountains Hotel (Formerly Uncle Ben's Hotel)",
-    "address": "Sierra Leone, Freetown, Unnamed Road",
-    "phone": null
-  },
-  {
-    "name": "Diamond Lodge",
-    "address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
-    "phone": "+23277700020"
-  },
-  {
-    "name": "Joesal Hotel Kono",
-    "address": "Koidu, Sierra Leone",
-    "phone": "+23278601893"
-  },
-  {
-    "name": "De Kona Lodge",
-    "address": "Koidu, No. 3 Sir George Street, 55 Spot, Koidu, Sierra Leone",
-    "phone": "+23277927732"
-  },
-  {
-    "name": "Hotel Africanus",
-    "address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
-    "phone": "+23277220220"
-  },
-  {
-    "name": "SierraGuesthouse and restuarant",
-    "address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
-    "phone": "+23276611793"
-  },
-  {
-    "name": "Nimiyama Hotel",
-    "address": "1 Moigua St, Koidu Town, Sierra Leone",
-    "phone": "+23279907868"
-  },
-  {
-    "name": "YEANE'S",
-    "address": "Dabundeh St, Koidu, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Premier Sunshine",
-    "address": "44 Main, Kainkordu road, Koidu, Sierra Leone",
-    "phone": "+23276482187"
-  },
-  {
-    "name": "Royal restaurant",
-    "address": "1 Moigua St, Koidu Town, Sierra Leone",
-    "phone": "+23279907868"
-  },
-  {
-    "name": "Average Guest House & Restaurant",
-    "address": "Koidu, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Dabundeh Street Coffehouse",
-    "address": "44 Main Kainkordu Road, Koidu City, Sierra Leone",
-    "phone": "+23276482187"
-  },
-  {
-    "name": "Shine On and Stay Hotel",
-    "address": "Koidu, No. 3 Sir George Street, 55 Spot, Koidu, Sierra Leone",
-    "phone": "+23277927732"
-  },
-  {
-    "name": "Monarch Restaurant",
-    "address": "Koidu, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "WS Diamond Hotel of Kono",
-    "address": "Koidu, Sierra Leone",
-    "phone": "+23279243738"
-  },
-  {
-    "name": "Lion Mountains Hotel (Formerly Uncle Ben's Hotel)",
-    "address": "Koidu, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Elysee bar and relaxation",
-    "address": "Konomanyi St, Koidu, Sierra Leone",
-    "phone": "+23299112618"
-  },
-  {
-    "name": "Matturie Enterprise",
-    "address": "Sorie Lane Kono, 52, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Viascity Plaza",
-    "address": "Yardu Rd, Koidu, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Sinko store",
-    "address": "31 Wilberforce St, Freetown, Sierra Leone",
-    "phone": "+23279142101"
-  },
-  {
-    "name": "H.Baydoun & Sons",
-    "address": "Sanni Abacha St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Mubarak trading",
-    "address": "135 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23288000007"
-  },
-  {
-    "name": "PZ Building",
-    "address": "1 Kono Park, Freetown Maisaika, Highway, Sierra, Leone, Sierra Leone",
-    "phone": "+23288559276"
-  },
-  {
-    "name": "Punjab tarding center",
-    "address": "Wilberforce St, Freetown, Sierra Leone",
-    "phone": "+23278151224"
-  },
-  {
-    "name": "Freetown Mall",
-    "address": "97 Wilkinson Road SL, Freetown, Sierra Leone",
-    "phone": "+23277365254"
-  },
-  {
-    "name": "Kotin Tri",
-    "address": "169 Wilkinson Road, Freetown, Sierra Leone",
-    "phone": "+23279144569"
-  },
-  {
-    "name": "Dada Enterprise",
-    "address": "Freetown, Sierra Leone",
-    "phone": "+23277909973"
-  },
-  {
-    "name": "Ishwari Supermarket",
-    "address": "Pultney St, Freetown, Sierra Leone",
-    "phone": null
-  },
-  {
-    "name": "Koidu New Sembehun City Council",
-    "address": "Koidu, Sierra Leone",
-    "phone": null
-  }
+ {
+  "id": 1,
+  "name": "Bintumani Hotel",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23277200202"
+ },
+ {
+  "id": 2,
+  "name": "Medrie International Hotel",
+  "Address": "75 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23280222222"
+ },
+ {
+  "id": 3,
+  "name": "Radisson Blu Mammy Yoko Hotel, Freetown",
+  "Address": "38 Spur Rd, Freetown, Sierra Leone",
+  "phone": "+23277399399"
+ },
+ {
+  "id": 4,
+  "name": "Atlantic Lumley Hotel",
+  "Address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279454000"
+ },
+ {
+  "id": 5,
+  "name": "The Country Lodge Hotel",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23230000120"
+ },
+ {
+  "id": 6,
+  "name": "Home Suites Boutique Hotel",
+  "Address": "Cape Rd, Freetown, Sierra Leone",
+  "phone": "+23299100100"
+ },
+ {
+  "id": 7,
+  "name": "Pearl Hotel",
+  "Address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121"
+ },
+ {
+  "id": 8,
+  "name": "Sierra Palms Resort",
+  "Address": "78A Cape road, Bintumani Drive, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23230222227"
+ },
+ {
+  "id": 9,
+  "name": "Mamba Point Hotel Restaurant Lagoonda",
+  "Address": "HS 51 Hillstation, Freetown, Sierra Leone",
+  "phone": "+23277692000"
+ },
+ {
+  "id": 10,
+  "name": "The Swiss Hotel Freetown",
+  "Address": "184 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277211111"
+ },
+ {
+  "id": 11,
+  "name": "New Brookfields Hotel",
+  "Address": "Parsonage St, Waterloo, Sierra Leone",
+  "phone": "+23276616095"
+ },
+ {
+  "id": 12,
+  "name": "The Lead Hotel",
+  "Address": "George, Brook Rd, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 13,
+  "name": "The Family Kingdom Resort",
+  "Address": "19 Murge Farm, off Aberdeen Road, Freetown, Sierra Leone",
+  "phone": "+23279904339"
+ },
+ {
+  "id": 14,
+  "name": "Hotel Barmoi",
+  "Address": "Congo Cross, 9 Motor Main Rd, Freetown, Sierra Leone",
+  "phone": "+447952445158"
+ },
+ {
+  "id": 15,
+  "name": "Hotel Cabenda",
+  "Address": "4 College Road, Goderich, Freetown, Sierra Leone",
+  "phone": "+23299612128"
+ },
+ {
+  "id": 16,
+  "name": "Bintumani Hotel",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 17,
+  "name": "Cole Street Guesthouse",
+  "Address": "103, Bo-Kenema Highway, Sierra Leone",
+  "phone": "+23279944444"
+ },
+ {
+  "id": 18,
+  "name": "Medrie International Hotel",
+  "Address": "Leigh St, Freetown, Sierra Leone",
+  "phone": "+23278221722"
+ },
+ {
+  "id": 19,
+  "name": "Stafford Lodge",
+  "Address": "47 Fort St, Freetown, Sierra Leone",
+  "phone": "+23278882400"
+ },
+ {
+  "id": 20,
+  "name": "REGENT PALACE HOTEL",
+  "Address": "12 Dorwaila Avenue, Reservation Area, Kenema, Sierra Leone",
+  "phone": "+23233212121"
+ },
+ {
+  "id": 21,
+  "name": "Ishmajoso Lodge",
+  "Address": "Rawdon St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 22,
+  "name": "Metro Hotel",
+  "Address": "York road Sussex, Town, Sierra Leone",
+  "phone": "+23276541236"
+ },
+ {
+  "id": 23,
+  "name": "SKY INN HOTEL \u0026 FITNESS CENTER",
+  "Address": "Sierra Leone, Freetown, Unnamed Road",
+  "phone": ""
+ },
+ {
+  "id": 24,
+  "name": "Belvoir",
+  "Address": "7c Damba Rd, Freetown, Sierra Leone",
+  "phone": "6086223810"
+ },
+ {
+  "id": 25,
+  "name": "Stafford Lodge",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 26,
+  "name": "Jam Hotel Lodge",
+  "Address": "Off Airport Ferry Road, Tagrin, Lungi, Sierra Leone, Tagrin, Sierra Leone",
+  "phone": "+23279233246"
+ },
+ {
+  "id": 27,
+  "name": "Jennabwa Lodge and Restaurant",
+  "Address": "Calabar Town, along Bai Bureh Road, Freetown, Sierra Leone",
+  "phone": "+23278954040"
+ },
+ {
+  "id": 28,
+  "name": "Kings Empire SL",
+  "Address": "freetown road wilkinson road, Freetown, Sierra Leone",
+  "phone": "+23277222757"
+ },
+ {
+  "id": 29,
+  "name": "Paradise City Hotel",
+  "Address": "34 Rawdon St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 30,
+  "name": "ZUNOX GUEST HOUSE",
+  "Address": "York,Main Street, York, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 31,
+  "name": "Lungi Airport Hotel",
+  "Address": "No.7 Hassan Drive, Juba Hill, Freetown, Sierra Leone",
+  "phone": "+23278103895"
+ },
+ {
+  "id": 32,
+  "name": "Mansholl Luxurious Apartment",
+  "Address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279193747"
+ },
+ {
+  "id": 33,
+  "name": "East West Hospitality Wilknston road",
+  "Address": "13A Bintumani Drive, Freetown, Sierra Leone",
+  "phone": "2153018919"
+ },
+ {
+  "id": 34,
+  "name": "Lungi Airport Lodge",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23275616122"
+ },
+ {
+  "id": 35,
+  "name": "Tokeh Beach Resort",
+  "Address": "Backstreet, Hospital Road, York, Sierra Leone",
+  "phone": "+23288557740"
+ },
+ {
+  "id": 36,
+  "name": "The Hub Hotel",
+  "Address": "5A Off Beach Road, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23276886046"
+ },
+ {
+  "id": 37,
+  "name": "Seaside Suites and Hotel",
+  "Address": "Pipe Ln, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 38,
+  "name": "Lungi gateway hotel",
+  "Address": "1 Dora Way Off Port Loko Road, Lungi, Sierra Leone",
+  "phone": "+23288622622"
+ },
+ {
+  "id": 39,
+  "name": "Chinatown Hotel and Restaurant",
+  "Address": "33 Murray Town Rd, Freetown, Sierra Leone",
+  "phone": "+23276605222"
+ },
+ {
+  "id": 40,
+  "name": "Roy Hotel \u0026 Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23299355842"
+ },
+ {
+  "id": 41,
+  "name": "The Place Resort",
+  "Address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220"
+ },
+ {
+  "id": 42,
+  "name": "Golden Tulip Essential Kimbima Hotel",
+  "Address": "4B Lordmo Drive, Freetown, Sierra Leone",
+  "phone": "+23279906060"
+ },
+ {
+  "id": 43,
+  "name": "Leone Lodge Freetown",
+  "Address": "River No.1 overlooking Tokeh Beach, Tokeh, Sierra Leone",
+  "phone": "+23299000050"
+ },
+ {
+  "id": 44,
+  "name": "Motherland City Beach Residences",
+  "Address": "Aberdeen Rd, Freetown, Sierra Leone",
+  "phone": "+23230236385"
+ },
+ {
+  "id": 45,
+  "name": "Florence Resort",
+  "Address": "Boyle Ln, Freetown, Sierra Leone",
+  "phone": "+23230241212"
+ },
+ {
+  "id": 46,
+  "name": "High Peak Hotel",
+  "Address": "16 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23299111444"
+ },
+ {
+  "id": 47,
+  "name": "Occasions Resort",
+  "Address": "137 wilkinson road, Freetown, Sierra Leone",
+  "phone": "+23288808888"
+ },
+ {
+  "id": 48,
+  "name": "The View Hotel, Restaurant \u0026 Sky Lounge",
+  "Address": "2 Sesay Drive Off Peninsula Highway, Lakka Western Peninsula, Lakka beach, Lakka, Sierra Leone",
+  "phone": "+447448463159"
+ },
+ {
+  "id": 49,
+  "name": "SIERRA BAY HOTEL AND RESIDENCE",
+  "Address": "Portersville Private Lodge, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 50,
+  "name": "Lomtible Beach Resort",
+  "Address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
+  "phone": "+23277700020"
+ },
+ {
+  "id": 51,
+  "name": "Companero Hotel",
+  "Address": "34 Signal Hill Rd, Wilberforce, Sierra Leone",
+  "phone": "+23276610439"
+ },
+ {
+  "id": 52,
+  "name": "Lacs Villa",
+  "Address": "Sussex, Sierra Leone",
+  "phone": "+23276687823"
+ },
+ {
+  "id": 53,
+  "name": "Hotel De La Joie",
+  "Address": "29 Off Cape Road, Lumley Beach, Arberdeen, Freetown, Sierra Leone",
+  "phone": "+23288140316"
+ },
+ {
+  "id": 54,
+  "name": "Fabulous Resort York Village",
+  "Address": "86 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288791010"
+ },
+ {
+  "id": 55,
+  "name": "The Villa 9 at Seaview Estate",
+  "Address": "Peninsular Highway, York, Sierra Leone",
+  "phone": "+23278911677"
+ },
+ {
+  "id": 56,
+  "name": "Kololi Hotel \u0026 Casino",
+  "Address": "30 Off Cape Road, Aberdeen SL, Freetown, Sierra Leone",
+  "phone": "+23288321272"
+ },
+ {
+  "id": 57,
+  "name": "Charm's Beach Hotel",
+  "Address": "Seaview Estate, 9 Beach Road, Freetown, Sierra Leone",
+  "phone": "+212673632809"
+ },
+ {
+  "id": 58,
+  "name": "Leisure Lodge Hotel",
+  "Address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23276611793"
+ },
+ {
+  "id": 59,
+  "name": "Eco Lodge",
+  "Address": "3a Cantonment Road Off, King Harman Rd, Freetown, Sierra Leone",
+  "phone": "+23278215668"
+ },
+ {
+  "id": 60,
+  "name": "De Kona Lodge",
+  "Address": "110 Kingston Upon Hall Way, Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23278869828"
+ },
+ {
+  "id": 61,
+  "name": "Hotel Africanus",
+  "Address": "Area, Peninsular Highway, York, Sierra Leone",
+  "phone": "+23279666600"
+ },
+ {
+  "id": 62,
+  "name": "Portersville Private Lodge",
+  "Address": "Main Road, Lakka, Gbonkobe, Sierra Leone",
+  "phone": "+23278860030"
+ },
+ {
+  "id": 63,
+  "name": "Hill Valley Hotel",
+  "Address": "Lakka, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 64,
+  "name": "The Lion Inn Hotel",
+  "Address": "17 Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": "+23273332323"
+ },
+ {
+  "id": 65,
+  "name": "JC Guest House",
+  "Address": "Sierra Leone, Freetown, Motor Main Rd, 58",
+  "phone": "+23299636072"
+ },
+ {
+  "id": 66,
+  "name": "Hotobah Lodge",
+  "Address": "Tokeh Beach Freetown, Tokeh, Sierra Leone",
+  "phone": "+23276531781"
+ },
+ {
+  "id": 67,
+  "name": "Raza Guesthouse",
+  "Address": "35 Goderich Rd, Freetown, Sierra Leone",
+  "phone": "+23275745652"
+ },
+ {
+  "id": 68,
+  "name": "catco international hotel",
+  "Address": "90 Kingston Upon Hull Way, Freetown, Sierra Leone",
+  "phone": "+23276800300"
+ },
+ {
+  "id": 69,
+  "name": "The Big Bamboo Inn",
+  "Address": "Unnamed Rd, Sussex, Sierra Leone",
+  "phone": "+23276744406"
+ },
+ {
+  "id": 70,
+  "name": "Humble African",
+  "Address": "Unnamed Road SL, Freetown, Sierra Leone",
+  "phone": "+23279582465"
+ },
+ {
+  "id": 71,
+  "name": "WS Diamond Hotel",
+  "Address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279599999"
+ },
+ {
+  "id": 72,
+  "name": "Nimiyama Hotel",
+  "Address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279655677"
+ },
+ {
+  "id": 73,
+  "name": "Royal Buckingham Guest Houses",
+  "Address": "84 lumley beach rd, Lumley beach, Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23222272796"
+ },
+ {
+  "id": 74,
+  "name": "Pangolin Guesthouse",
+  "Address": "Penninsula Road Tokeh Beach, Tokeh, Sierra Leone",
+  "phone": "+23231313131"
+ },
+ {
+  "id": 75,
+  "name": "Royal Buckingham",
+  "Address": "6 Regent Road, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23288112121"
+ },
+ {
+  "id": 76,
+  "name": "Hotel Mariam",
+  "Address": "4 Humper st, Lungi-Town, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 77,
+  "name": "Elm Jay Lodge",
+  "Address": "3A Off Bintumani Drive, Freetown, Sierra Leone",
+  "phone": "+23276224459"
+ },
+ {
+  "id": 78,
+  "name": "Iceville B\u0026B",
+  "Address": "Tokeh Beach Resort, Tokeh Beach, Freetown, Sierra Leone",
+  "phone": "+23278911111"
+ },
+ {
+  "id": 79,
+  "name": "Holiday Lodge",
+  "Address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856"
+ },
+ {
+  "id": 80,
+  "name": "Sweet Mother's Guesthouse",
+  "Address": "3 Kebe Drive, Pipe Line Juba Hill, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 81,
+  "name": "Oasis Juice Bar \u0026 Guesthouse",
+  "Address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+27605705800"
+ },
+ {
+  "id": 82,
+  "name": "Mozza Beach Resort",
+  "Address": "81 Levuma Beach Road Goderich, Freetown, Sierra Leone",
+  "phone": "+23277714455"
+ },
+ {
+  "id": 83,
+  "name": "York Guesthouse",
+  "Address": "Lungi-Town, Sierra Leone",
+  "phone": "+23288755151"
+ },
+ {
+  "id": 84,
+  "name": "Joesal Hotel Freetown",
+  "Address": "30 FEMI TURNER DRIVE MARJAY TOWN OFF GODERICH, Freetown, Sierra Leone",
+  "phone": "+23275459244"
+ },
+ {
+  "id": 85,
+  "name": "Hedzazi Hotel",
+  "Address": "Peninsular Highway, Freetown, Sierra Leone",
+  "phone": "+23277714455"
+ },
+ {
+  "id": 86,
+  "name": "Harmony Hotel",
+  "Address": "Tulun Road, Lungi-Town, Sierra Leone",
+  "phone": "+23288200001"
+ },
+ {
+  "id": 87,
+  "name": "SierraGuesthouse and restuarant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23232146177"
+ },
+ {
+  "id": 88,
+  "name": "Elna Garden",
+  "Address": "86 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277777063"
+ },
+ {
+  "id": 89,
+  "name": "Wilkinson Road Appartment",
+  "Address": "1 Stafford Dr, Freetown, Sierra Leone",
+  "phone": "+23278190515"
+ },
+ {
+  "id": 90,
+  "name": "COMFORT LODGE",
+  "Address": "Motor Main Rd, Freetown, Sierra Leone",
+  "phone": "+23279667788"
+ },
+ {
+  "id": 91,
+  "name": "Green Bamboo Lodge \u0026 Guest House",
+  "Address": "184 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277211111"
+ },
+ {
+  "id": 92,
+  "name": "Sierra International Hotel",
+  "Address": "55 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278321321"
+ },
+ {
+  "id": 93,
+  "name": "The King’s Lodge",
+  "Address": "1 Stafford Dr, Freetown, Sierra Leone",
+  "phone": "+23278190515"
+ },
+ {
+  "id": 94,
+  "name": "Lamrana bah",
+  "Address": "Ishmajoso Lodge 15 Graceland, Adonkia, Freetown, Freetown, Sierra Leone",
+  "phone": "+23275383933"
+ },
+ {
+  "id": 95,
+  "name": "Comfort Zone",
+  "Address": "117 main regent road, regent, Freetown, Sierra Leone",
+  "phone": "+23279214000"
+ },
+ {
+  "id": 96,
+  "name": "Jam Lodge Apartments",
+  "Address": "36 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23277896608"
+ },
+ {
+  "id": 97,
+  "name": "Nic's Inn",
+  "Address": "5 Cole St, Freetown, Sierra Leone",
+  "phone": "+23278169930"
+ },
+ {
+  "id": 98,
+  "name": "Swan restaurant \u0026 Grill",
+  "Address": "54 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279655677"
+ },
+ {
+  "id": 99,
+  "name": "Crown Xpress",
+  "Address": "75 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288111100"
+ },
+ {
+  "id": 100,
+  "name": "Crown Bakery",
+  "Address": "78A Cape road, Bintumani drive, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23230222228"
+ },
+ {
+  "id": 101,
+  "name": "Bliss Restaurant",
+  "Address": "125 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277999444"
+ },
+ {
+  "id": 102,
+  "name": "City sandwich",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 103,
+  "name": "Papaya Restaurant",
+  "Address": "14b Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288963963"
+ },
+ {
+  "id": 104,
+  "name": "Roof Garden Bar \u0026 Restaurant",
+  "Address": "73 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23276611000"
+ },
+ {
+  "id": 105,
+  "name": "Roy Hotel \u0026 Restaurant",
+  "Address": "5 Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23276639349"
+ },
+ {
+  "id": 106,
+  "name": "Basha Bakery \u0026 Restaurant",
+  "Address": "Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278609312"
+ },
+ {
+  "id": 107,
+  "name": "Olba Restaurant",
+  "Address": "31A Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288003004"
+ },
+ {
+  "id": 108,
+  "name": "D's Bazaar",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 109,
+  "name": "Seafood City Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 110,
+  "name": "Lily's Restaurant \u0026 cafe",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 111,
+  "name": "Chicken Town",
+  "Address": "50 Adelaide Steet, Freetown, Sierra Leone",
+  "phone": "+23279201212"
+ },
+ {
+  "id": 112,
+  "name": "Hangout Restaurant \u0026 Bar",
+  "Address": "Dougan St, Freetown, Sierra Leone",
+  "phone": "+23288284913"
+ },
+ {
+  "id": 113,
+  "name": "Brimelia Vegetarian Restaurant",
+  "Address": "Mount Aureol, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 114,
+  "name": "Lumley Restaurant and Fast Food",
+  "Address": "37 Circular Rd, Freetown, Sierra Leone",
+  "phone": "+23290779977"
+ },
+ {
+  "id": 115,
+  "name": "Francesca's",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23299885500"
+ },
+ {
+  "id": 116,
+  "name": "Lovetta's Kitchen Sport Bar And Restaurant",
+  "Address": "64 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23233000009"
+ },
+ {
+  "id": 117,
+  "name": "Sulaila's Multi Cuisine Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 118,
+  "name": "ARIRANG Restaurant - Korean Barbecue",
+  "Address": "29 Upper Brook St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 119,
+  "name": "Mixed Flavour restaurant",
+  "Address": "Lumley Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 120,
+  "name": "Chinny\"s restaurant",
+  "Address": "49 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23230824490"
+ },
+ {
+  "id": 121,
+  "name": "Lady Sha-Sha' Kitchen",
+  "Address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23288674142"
+ },
+ {
+  "id": 122,
+  "name": "The Butcher and The Grill",
+  "Address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 123,
+  "name": "Rooster Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23278610064"
+ },
+ {
+  "id": 124,
+  "name": "All As One Restaurant",
+  "Address": "De La Paix By Samsumana Drive, 79 Rue, Freetown, Sierra Leone",
+  "phone": "+23275223036"
+ },
+ {
+  "id": 125,
+  "name": "Jomat Bar N Lounge",
+  "Address": "82 Regent Road, Hill Station, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 126,
+  "name": "SSL TAKE WAY",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23230323333"
+ },
+ {
+  "id": 127,
+  "name": "Pulse Resturant and Bar",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 128,
+  "name": "Elfrida's Restaurant",
+  "Address": "28 Regent Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 129,
+  "name": "Mezza \u0026 More",
+  "Address": "53 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23279534634"
+ },
+ {
+  "id": 130,
+  "name": "B'classic kitchen",
+  "Address": "Lumley Beach Rd, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 131,
+  "name": "Mango Peak",
+  "Address": "8a Henry St, Freetown, Sierra Leone",
+  "phone": "+23276277456"
+ },
+ {
+  "id": 132,
+  "name": "Bee's Kitchen Bar",
+  "Address": "40 Freetown Road, Freetown, Sierra Leone",
+  "phone": "+23275111119"
+ },
+ {
+  "id": 133,
+  "name": "Big Mike's Bar and Restaurant",
+  "Address": "15 Charlotte St, Freetown, Sierra Leone",
+  "phone": "+23274800700"
+ },
+ {
+  "id": 134,
+  "name": "Eva Fast Food Bar Restaurant",
+  "Address": "Aberdeen Rd, Freetown, Sierra Leone",
+  "phone": "+23279201212"
+ },
+ {
+  "id": 135,
+  "name": "Cravings \u0026 Delicacies",
+  "Address": "17 Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": "+23273332323"
+ },
+ {
+  "id": 136,
+  "name": "Oryza Food and Bar",
+  "Address": "8 Regent Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 137,
+  "name": "Yemoris Kitchen - Nigerian Dishes",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23276852536"
+ },
+ {
+  "id": 138,
+  "name": "Cokie's Cookery \u0026 Bar",
+  "Address": "170 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278595881"
+ },
+ {
+  "id": 139,
+  "name": "Agenkwa Ghanaian Restaurant",
+  "Address": "33 Murray Town Rd, Freetown, Sierra Leone",
+  "phone": "+23276605222"
+ },
+ {
+  "id": 140,
+  "name": "Walla! Beach Bar , Restaurant and Events Venue",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23299396111"
+ },
+ {
+  "id": 141,
+  "name": "Jem’s",
+  "Address": "Rokupa, Freetown, Sierra Leone",
+  "phone": "+23278787547"
+ },
+ {
+  "id": 142,
+  "name": "Momoh's place (Naija Restaurant)",
+  "Address": "Lumley Mall, 26A Freetown Rd, Freetown, Sierra Leone",
+  "phone": "+23288825668"
+ },
+ {
+  "id": 143,
+  "name": "LimeTree Bar and Restaurant, Freetown, Sierra Leone, West Africa",
+  "Address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288791010"
+ },
+ {
+  "id": 144,
+  "name": "Silver Star Bar and Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 145,
+  "name": "King's Bakery",
+  "Address": "10 Lewis St, Freetown, Sierra Leone",
+  "phone": "+23230300500"
+ },
+ {
+  "id": 146,
+  "name": "J'Royals Bar \u0026 Restaurant",
+  "Address": "1 Beach Road, Freetown, Sierra Leone",
+  "phone": "+23279091900"
+ },
+ {
+  "id": 147,
+  "name": "nalita's bar \u0026 restaurant",
+  "Address": "23a Cantonment Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 148,
+  "name": "Happy Chicken",
+  "Address": "21 Howe St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 149,
+  "name": "Matteh's Mode",
+  "Address": "34 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279462372"
+ },
+ {
+  "id": 150,
+  "name": "Jeskamac Guest House \u0026 Restaurant",
+  "Address": "No. 16 Red Pump, Kingyama Road, Red Pump No. 33 Kamara Lane, Tree planting, Freetown +232 77 669185, Freetown, Sierra Leone",
+  "phone": "1633+23277669185"
+ },
+ {
+  "id": 151,
+  "name": "Grab a Bite",
+  "Address": "13 Goderich Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 152,
+  "name": "Mommy J Restaurant",
+  "Address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288464646"
+ },
+ {
+  "id": 153,
+  "name": "Yori Yori and Daughter Restaurant",
+  "Address": "20 garsssfield, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 154,
+  "name": "Glorious Kitchen and restaurant",
+  "Address": "Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23278737070"
+ },
+ {
+  "id": 155,
+  "name": "Jaserak Enterprise",
+  "Address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 156,
+  "name": "CAFÉ DE LA ROSE",
+  "Address": "Rawdon St, Freetown, Sierra Leone",
+  "phone": "+23276280616"
+ },
+ {
+  "id": 157,
+  "name": "DeVillage Beach Bar \u0026 Restaurant",
+  "Address": "Kennedy St, Freetown, Sierra Leone",
+  "phone": "+23276501155"
+ },
+ {
+  "id": 158,
+  "name": "China House",
+  "Address": "Lewis Ln, College Road, Freetown, Sierra, Leone, Sierra Leone",
+  "phone": "+23277333310"
+ },
+ {
+  "id": 159,
+  "name": "Fanta’s Kitchen",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23276318169"
+ },
+ {
+  "id": 160,
+  "name": "Darlene Restaurant \u0026 Bar",
+  "Address": "177 Main Regent Rd, Hill Station, Freetown, Sierra Leone",
+  "phone": "+23276533655"
+ },
+ {
+  "id": 161,
+  "name": "Home Food Restaurant",
+  "Address": "129c Wilkinson Road, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 162,
+  "name": "Dee's Delight (D's Bazaar)",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23276431152"
+ },
+ {
+  "id": 163,
+  "name": "Al-Arez Restaurant and Bakery",
+  "Address": "Steward St, Freetown, Sierra Leone",
+  "phone": "+23279593967"
+ },
+ {
+  "id": 164,
+  "name": "KOLOLI Bar \u0026 Restaurant",
+  "Address": "71a Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23234966408"
+ },
+ {
+  "id": 165,
+  "name": "Accra Restaurant Lounge SL",
+  "Address": "Peninsular Highway, Freetown, Sierra Leone",
+  "phone": "+23275990990"
+ },
+ {
+  "id": 166,
+  "name": "Downtown Restaurant",
+  "Address": "Beccles St, Freetown, Sierra Leone",
+  "phone": "+23279452316"
+ },
+ {
+  "id": 167,
+  "name": "Restaurant",
+  "Address": "1 Pademba Rd, Freetown, Sierra Leone",
+  "phone": "+23272161919"
+ },
+ {
+  "id": 168,
+  "name": "Oasis Juice Bar \u0026 Guesthouse",
+  "Address": "Opposite BIS, 32 Hill Cot Rd, Freetown, Sierra Leone",
+  "phone": "+23276336660"
+ },
+ {
+  "id": 169,
+  "name": "The View Hotel, Restaurant \u0026 Sky Lounge",
+  "Address": "74 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279153911"
+ },
+ {
+  "id": 170,
+  "name": "Aista's Restaurant",
+  "Address": "Concern Road, Off, Cantonment Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 171,
+  "name": "NEW CREATIVE ENTERPRICE (GHANAIAN RESTAURANT)",
+  "Address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288662791"
+ },
+ {
+  "id": 172,
+  "name": "Havana's Dream Bar\u0026Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23276972338"
+ },
+ {
+  "id": 173,
+  "name": "Chicken Town",
+  "Address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23230150150"
+ },
+ {
+  "id": 174,
+  "name": "Tito's Bar and Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23277717717"
+ },
+ {
+  "id": 175,
+  "name": "JANDIS RESTAURANT",
+  "Address": "Orange Head office, Hillstation, 26 Regent Road, opposite to, Freetown, Sierra Leone",
+  "phone": "+23279666632"
+ },
+ {
+  "id": 176,
+  "name": "CFC",
+  "Address": "82 Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23278585727"
+ },
+ {
+  "id": 177,
+  "name": "ROCK ATM BAR \u0026 RESTAURANT",
+  "Address": "1c College Rd, Freetown, Sierra Leone",
+  "phone": "+23276900500"
+ },
+ {
+  "id": 178,
+  "name": "McBendu's Coffee and Food",
+  "Address": "5 Regent Rd, Freetown, Sierra Leone",
+  "phone": "+23222280539"
+ },
+ {
+  "id": 179,
+  "name": "SSL TAKE WAY",
+  "Address": "3 Gloucester St, Freetown, Sierra Leone",
+  "phone": "+23275200020"
+ },
+ {
+  "id": 180,
+  "name": "JM LIN RESTAURANT",
+  "Address": "2 Spur Rd, Freetown, Sierra Leone",
+  "phone": "+23288111267"
+ },
+ {
+  "id": 181,
+  "name": "Vyb's",
+  "Address": "Freetown Rd, Freetown, Sierra Leone",
+  "phone": "+23277714915"
+ },
+ {
+  "id": 182,
+  "name": "Nouveau chez nous",
+  "Address": "Wilkinson Road, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 183,
+  "name": "Tito's Bar and Restaurant",
+  "Address": "41 Fourah Bay Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 184,
+  "name": "WanWanWan Bar \u0026 Restaurant",
+  "Address": "Lower Syke St, Freetown, Sierra Leone",
+  "phone": "+23277842424"
+ },
+ {
+  "id": 185,
+  "name": "Gigibontà Ice Cream and Pizzeria",
+  "Address": "Gooding Drive, Regent Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 186,
+  "name": "Posseh Hotel \u0026 Rokama Restaurant",
+  "Address": "Aberdeen Rd, Freetown, Sierra Leone",
+  "phone": "+23276691136"
+ },
+ {
+  "id": 187,
+  "name": "Masika's Restaurant and Catering Service",
+  "Address": "37 Bathurst St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 188,
+  "name": "Newyork pizza",
+  "Address": "5 Hill Side By Pass Road, Freetown, Sierra Leone",
+  "phone": "+23276318966"
+ },
+ {
+  "id": 189,
+  "name": "Obelisk Cafe",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23277433000"
+ },
+ {
+  "id": 190,
+  "name": "Aista's Restaurant \u0026 Cafe",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23234438219"
+ },
+ {
+  "id": 191,
+  "name": "Beijing Restaurant",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23276415534"
+ },
+ {
+  "id": 192,
+  "name": "CREAM'S DELUXE",
+  "Address": "196B Wilkinson Road, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 193,
+  "name": "Tees Shopping Center",
+  "Address": "George Brook Rd, Freetown, Sierra Leone",
+  "phone": "+23279469100"
+ },
+ {
+  "id": 194,
+  "name": "H.Baydoun \u0026 Sons",
+  "Address": "31 Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23279142101"
+ },
+ {
+  "id": 195,
+  "name": "PZ Building",
+  "Address": "Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23276110409"
+ },
+ {
+  "id": 196,
+  "name": "Sinko store",
+  "Address": "135 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288000007"
+ },
+ {
+  "id": 197,
+  "name": "ADAHASSAN SL Ltd.",
+  "Address": "1 Kono Park, Freetown Maisaika, Highway, Sierra, Leone, Sierra Leone",
+  "phone": "+23288559276"
+ },
+ {
+  "id": 198,
+  "name": "Mubarak trading",
+  "Address": "Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23278151224"
+ },
+ {
+  "id": 199,
+  "name": "Viascity Plaza",
+  "Address": "169 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23279144569"
+ },
+ {
+  "id": 200,
+  "name": "Freetown Mall",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23277909973"
+ },
+ {
+  "id": 201,
+  "name": "HEMA Trading \u0026 Construction CO. ltd",
+  "Address": "King Harman Rd, Freetown, Sierra Leone",
+  "phone": "+23278591758"
+ },
+ {
+  "id": 202,
+  "name": "Ishwari Supermarket",
+  "Address": "Lumley shopping center, 9 Freetown Rd, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 203,
+  "name": "PLAYSTATION GAME CENTRE",
+  "Address": "Mellon Street, Freetown, Sierra Leone",
+  "phone": "+23275892070"
+ },
+ {
+  "id": 204,
+  "name": "Eddie Matthews Plaza",
+  "Address": "133 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 205,
+  "name": "LaDeDa Online Plaza",
+  "Address": "Kallon Drive Beside Aberdeen Women Center, 2b, off Cape Rd, Aberdeen, Sierra Leone",
+  "phone": "+23231612150"
+ },
+ {
+  "id": 206,
+  "name": "Printing Shop",
+  "Address": "676 REGENT RD, IMATT BTW SAINT PAUL DRIVE \u0026 JAMES DRIVE FREETOWN, IMATT CITY, Sierra Leone",
+  "phone": "+23276538768"
+ },
+ {
+  "id": 207,
+  "name": "City Plaza",
+  "Address": "47 Dougan St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 208,
+  "name": "Kal hazel fashion Butuique",
+  "Address": "Zarra Lane, Freetown, Sierra Leone",
+  "phone": "+23276542910"
+ },
+ {
+  "id": 209,
+  "name": "WINNIFIED PERFUMERY.SL",
+  "Address": "93 Bai Bureh Road, Freetown, Sierra Leone",
+  "phone": "+23278642216"
+ },
+ {
+  "id": 210,
+  "name": "PCM Operation Center Sierra Leone",
+  "Address": "97 Wilkinson Road SL, Freetown, Sierra Leone",
+  "phone": "+23277365254"
+ },
+ {
+  "id": 211,
+  "name": "Sierra Leone Peace Museum",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23231777777"
+ },
+ {
+  "id": 212,
+  "name": "Tacugama Chimpanzee Sanctuary",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 213,
+  "name": "National Railway Museum",
+  "Address": "32 Walpole St, Freetown, Sierra Leone",
+  "phone": "+23278046257"
+ },
+ {
+  "id": 214,
+  "name": "Sierra Leone National Museum",
+  "Address": "Lightfoot Boston St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 215,
+  "name": "Freetown Central Mosque",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 216,
+  "name": "Freetown Amusement Park - Victoria Park",
+  "Address": "Unnamed Road, Freetown, Sierra Leone",
+  "phone": "+23275233451"
+ },
+ {
+  "id": 217,
+  "name": "St. John's Maroon Church",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 218,
+  "name": "Climb Salone",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23299872103"
+ },
+ {
+  "id": 219,
+  "name": "Cotton Tree",
+  "Address": "Jomo Kenyatta Rd, Freetown, Sierra Leone",
+  "phone": "+23276819242"
+ },
+ {
+  "id": 220,
+  "name": "Gola Forest Reserve",
+  "Address": "Liverpool St, Freetown, Sierra Leone",
+  "phone": "+23277748376"
+ },
+ {
+  "id": 221,
+  "name": "Outamba Kilimi National Park",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23288442103"
+ },
+ {
+  "id": 222,
+  "name": "Beartown State Forest",
+  "Address": "18 Ross Rd, Freetown, Sierra Leone",
+  "phone": "+23276617550"
+ },
+ {
+  "id": 223,
+  "name": "Eastern Point Lighthouse",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 224,
+  "name": "Heartland Auto Spare parts",
+  "Address": "Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 225,
+  "name": "Fort Rodman",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 226,
+  "name": "Freetown",
+  "Address": "Blama, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 227,
+  "name": "Ballanta Academy",
+  "Address": "Dubaia, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 228,
+  "name": "Pilgrim Memorial State Park",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 229,
+  "name": "FreeTown",
+  "Address": "31A Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288003004"
+ },
+ {
+  "id": 230,
+  "name": "Lloyd Center for the Environment",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23230000120"
+ },
+ {
+  "id": 231,
+  "name": "Freetown",
+  "Address": "Tokeh Beach Resort, Tokeh Beach, Freetown, Sierra Leone",
+  "phone": "+23278911111"
+ },
+ {
+  "id": 232,
+  "name": "Chester-Blandford State Forest",
+  "Address": "Kissy Beach, Tasso Island, Pepel, Sierra Leone",
+  "phone": "+23276791281"
+ },
+ {
+  "id": 233,
+  "name": "Borden Flats Lighthouse",
+  "Address": "Mobah House, 77 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23299890077"
+ },
+ {
+  "id": 234,
+  "name": "Freetown",
+  "Address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121"
+ },
+ {
+  "id": 235,
+  "name": "Freetown",
+  "Address": "Kroo Town Rd, Freetown, Sierra Leone",
+  "phone": "+23276669165"
+ },
+ {
+  "id": 236,
+  "name": "Eastern Province",
+  "Address": "6 Regent Road, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23288112121"
+ },
+ {
+  "id": 237,
+  "name": "Fall River Heritage State Park",
+  "Address": "38 Spur Rd, Freetown, Sierra Leone",
+  "phone": "+23277399399"
+ },
+ {
+  "id": 238,
+  "name": "Ashland State Park",
+  "Address": "11 Man 'O' War Bay, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23276748407"
+ },
+ {
+  "id": 239,
+  "name": "Freetown",
+  "Address": "Campbell street, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 240,
+  "name": "Allen C. Haskell Public Gardens",
+  "Address": "Lumley Rd, Freetown, Sierra Leone",
+  "phone": "+23234670399"
+ },
+ {
+  "id": 241,
+  "name": "Georgetown-Rowley State Forest",
+  "Address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279454000"
+ },
+ {
+  "id": 242,
+  "name": "Children's Museum of Greater Fall River",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 243,
+  "name": "Wahconah Falls State Park",
+  "Address": "14 Wallace Johnson St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 244,
+  "name": "Children's Museum In Easton",
+  "Address": "Kailahun, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 245,
+  "name": "PALOMA GUEST HOUSE",
+  "Address": "10 Sahara Street, Kenema, Sierra Leone",
+  "phone": "+23276889999"
+ },
+ {
+  "id": 246,
+  "name": "Paloma Guest House \u0026 Restaurant",
+  "Address": "12 Dorwaila Avenue, Reservation Area, Kenema, Sierra Leone",
+  "phone": "+23233212121"
+ },
+ {
+  "id": 247,
+  "name": "DORWAILA INN \u0026 SUITE",
+  "Address": "Savage St, Freetown, Sierra Leone",
+  "phone": "4049064001"
+ },
+ {
+  "id": 248,
+  "name": "Hotel Albertson",
+  "Address": "17 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23279454000"
+ },
+ {
+  "id": 249,
+  "name": "Capitol Hotel",
+  "Address": "72a Cape Rd, Freetown, Sierra Leone",
+  "phone": "+23233933333"
+ },
+ {
+  "id": 250,
+  "name": "Radisson Blu Mammy Yoko Hotel, Freetown",
+  "Address": "14B Signal Hill Rd, Freetown, Sierra Leone",
+  "phone": "+23278822202"
+ },
+ {
+  "id": 251,
+  "name": "The Family Kingdom Resort",
+  "Address": "Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23276777949"
+ },
+ {
+  "id": 252,
+  "name": "HOTEL MALLIKA COMPANY SL",
+  "Address": "Kenema, Sierra Leone",
+  "phone": "+23233330934"
+ },
+ {
+  "id": 253,
+  "name": "Hotel Cabenda",
+  "Address": "Opposite shopping plaza, Kenema, Sierra Leone",
+  "phone": "+23276889999"
+ },
+ {
+  "id": 254,
+  "name": "SKY INN HOTEL \u0026 FITNESS CENTER",
+  "Address": "Leigh St, Freetown, Sierra Leone",
+  "phone": "+23278221722"
+ },
+ {
+  "id": 255,
+  "name": "Jennabwa Lodge and Restaurant",
+  "Address": "Congo Cross, 9 Motor Main Rd, Freetown, Sierra Leone",
+  "phone": "+447952445158"
+ },
+ {
+  "id": 256,
+  "name": "Home Suites Boutique Hotel",
+  "Address": "15, Off Teko Road, Makeni, Sierra Leone",
+  "phone": "+23288839003"
+ },
+ {
+  "id": 257,
+  "name": "Atlantic Lumley Hotel",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 258,
+  "name": "New Brookfields Hotel",
+  "Address": "Rawdon St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 259,
+  "name": "Metro Hotel",
+  "Address": "Calabar Town, along Bai Bureh Road, Freetown, Sierra Leone",
+  "phone": "+23278954040"
+ },
+ {
+  "id": 260,
+  "name": "The Country Lodge Hotel",
+  "Address": "7c Damba Rd, Freetown, Sierra Leone",
+  "phone": "6086223810"
+ },
+ {
+  "id": 261,
+  "name": "Kings' Empire hotel bar \u0026 restaurant",
+  "Address": "5A Off Beach Road, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23276886046"
+ },
+ {
+  "id": 262,
+  "name": "ZUNOX GUEST HOUSE",
+  "Address": "No.7 Hassan Drive, Juba Hill, Freetown, Sierra Leone",
+  "phone": "+23278103895"
+ },
+ {
+  "id": 263,
+  "name": "East West Hospitality Wilknston road",
+  "Address": "4B Lordmo Drive, Freetown, Sierra Leone",
+  "phone": "+23279906060"
+ },
+ {
+  "id": 264,
+  "name": "East West Hospitality Wilknston road",
+  "Address": "Sierra Leone, Freetown, Unnamed Road",
+  "phone": ""
+ },
+ {
+  "id": 265,
+  "name": "Capitol Hotel",
+  "Address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220"
+ },
+ {
+  "id": 266,
+  "name": "Joesal Hotel Kenema",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23275616122"
+ },
+ {
+  "id": 267,
+  "name": "Dohas Hotel And Restaurant",
+  "Address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
+  "phone": "+23278012322"
+ },
+ {
+  "id": 268,
+  "name": "De Kona Lodge",
+  "Address": "137 wilkinson road, Freetown, Sierra Leone",
+  "phone": "+23288808888"
+ },
+ {
+  "id": 269,
+  "name": "Kololi Hotel \u0026 Casino",
+  "Address": "Unnamed Road SL, Freetown, Sierra Leone",
+  "phone": "+23279582465"
+ },
+ {
+  "id": 270,
+  "name": "Diamond Lodge",
+  "Address": "Main Road, Lakka, Gbonkobe, Sierra Leone",
+  "phone": "+23278860030"
+ },
+ {
+  "id": 271,
+  "name": "Leisure Lodge Hotel",
+  "Address": "5A MAN O WAR BAY BAY, Freetown, Sierra Leone",
+  "phone": "+23277393999"
+ },
+ {
+  "id": 272,
+  "name": "The Lion Inn Hotel",
+  "Address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
+  "phone": "+23277700020"
+ },
+ {
+  "id": 273,
+  "name": "Hotel Africanus",
+  "Address": "16 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23299111444"
+ },
+ {
+  "id": 274,
+  "name": "Lomtible Beach Resort",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 275,
+  "name": "SIERRA BAY HOTEL AND RESIDENCE",
+  "Address": "136, Azzolini Highway, Makeni, Makeni, Sierra Leone",
+  "phone": "+23278573303"
+ },
+ {
+  "id": 276,
+  "name": "Golden Tulip Essential Kimbima Hotel",
+  "Address": "30 Off Cape Road, Aberdeen SL, Freetown, Sierra Leone",
+  "phone": "+23288321272"
+ },
+ {
+  "id": 277,
+  "name": "Mena Hills Hotel",
+  "Address": "Yengema, Sierra Leone",
+  "phone": "+23231459141"
+ },
+ {
+  "id": 278,
+  "name": "catco international hotel",
+  "Address": "86 Lumley Beach Rd, Freetown, Sierra Leone",
+  "phone": "+23288791010"
+ },
+ {
+  "id": 279,
+  "name": "Sahara Hotel",
+  "Address": "Waahmann Abu road, Kenema, Kenema, Sierra Leone",
+  "phone": "+23278954040"
+ },
+ {
+  "id": 280,
+  "name": "Conteh U Hotel",
+  "Address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23276611793"
+ },
+ {
+  "id": 281,
+  "name": "Holiday Lodge",
+  "Address": "103, Bo-Kenema Highway, Sierra Leone",
+  "phone": "+23279944444"
+ },
+ {
+  "id": 282,
+  "name": "SierraGuesthouse and restuarant",
+  "Address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856"
+ },
+ {
+  "id": 283,
+  "name": "Joesal Hotel Freetown",
+  "Address": "30 FEMI TURNER DRIVE MARJAY TOWN OFF GODERICH, Freetown, Sierra Leone",
+  "phone": "+23275459244"
+ },
+ {
+  "id": 284,
+  "name": "WS Diamond Hotel",
+  "Address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856"
+ },
+ {
+  "id": 285,
+  "name": "Elm Jay Lodge",
+  "Address": "Peninsular Highway, Freetown, Sierra Leone",
+  "phone": "+23277714455"
+ },
+ {
+  "id": 286,
+  "name": "Hotel Mariam",
+  "Address": "HS 51 Hillstation, Freetown, Sierra Leone",
+  "phone": "+23277692000"
+ },
+ {
+  "id": 287,
+  "name": "COMFORT LODGE",
+  "Address": "184 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23277211111"
+ },
+ {
+  "id": 288,
+  "name": "Sierra International Hotel",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23232146177"
+ },
+ {
+  "id": 289,
+  "name": "Lodge Valley Hotel",
+  "Address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121"
+ },
+ {
+  "id": 290,
+  "name": "Nic's Inn",
+  "Address": "78A Cape road, Bintumani Drive, Aberdeen, Freetown, Sierra Leone",
+  "phone": "+23230222227"
+ },
+ {
+  "id": 291,
+  "name": "Lamrana bah",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23230000120"
+ },
+ {
+  "id": 292,
+  "name": "R \u0026 B Hotel",
+  "Address": "55 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278321321"
+ },
+ {
+  "id": 293,
+  "name": "Food Master Restaurant \u0026 Bakery",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 294,
+  "name": "Unique",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 295,
+  "name": "Goat Kingdom",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 296,
+  "name": "Bingerville",
+  "Address": "Opposite shopping plaza, Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 297,
+  "name": "Goat modern",
+  "Address": "1 Wesley Street, Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 298,
+  "name": "Bintos Bar",
+  "Address": "Unnamed Road, Kenema, Sierra Leone",
+  "phone": "+23276467234"
+ },
+ {
+  "id": 299,
+  "name": "Noah Idriss",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 300,
+  "name": "ARMANI Restaurant",
+  "Address": "Road Kenema, Karima Gas Station, Blama, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 301,
+  "name": "Ericsson Lodge And Restaurant",
+  "Address": "10 Sahara Street, Kenema, Sierra Leone",
+  "phone": "+23276889999"
+ },
+ {
+  "id": 302,
+  "name": "Paloma Guest House \u0026 Restaurant",
+  "Address": "48 Swaray Street, Kenema, Sierra Leone",
+  "phone": "+23276410722"
+ },
+ {
+  "id": 303,
+  "name": "Business",
+  "Address": "10 Hangha Road, Kenema, Sierra Leone",
+  "phone": "+23299547672"
+ },
+ {
+  "id": 304,
+  "name": "luawa resort hotel",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 305,
+  "name": "DHL Service Point (TOTALL FUEL STATION)",
+  "Address": "Bo-Kenema Highway, Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 306,
+  "name": "Kenema New Clock Tower",
+  "Address": "Blama, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 307,
+  "name": "Kamboi Hills",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 308,
+  "name": "Kambui Hills Forest Reserve",
+  "Address": "Kailahun, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 309,
+  "name": "Gola Rainforest National Park",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23231777777"
+ },
+ {
+  "id": 310,
+  "name": "Tacugama Chimpanzee Sanctuary",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 311,
+  "name": "Kenema",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 312,
+  "name": "Sierra Leone Peace Museum",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 313,
+  "name": "Kenema Show Field",
+  "Address": "Jomo Kenyatta Rd, Freetown, Sierra Leone",
+  "phone": "+23276819242"
+ },
+ {
+  "id": 314,
+  "name": "National Railway Museum",
+  "Address": "Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 315,
+  "name": "Kenema",
+  "Address": "Opposite shopping plaza, Kenema, Sierra Leone",
+  "phone": "+23276889999"
+ },
+ {
+  "id": 316,
+  "name": "Kenema",
+  "Address": "Kenema, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 317,
+  "name": "Capitol Hotel",
+  "Address": "Kenema, Sierra Leone",
+  "phone": "+23276755146"
+ },
+ {
+  "id": 318,
+  "name": "PALOMA GUEST HOUSE",
+  "Address": "Baoma, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 319,
+  "name": "Dohas Hotel And Restaurant",
+  "Address": "Bo, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 320,
+  "name": "Bo Paramedical",
+  "Address": "103, Bo-Kenema Highway, Sierra Leone",
+  "phone": "+23279944444"
+ },
+ {
+  "id": 321,
+  "name": "Restaurat Luz Andina-UNI",
+  "Address": "Kissy Town Road, Bo, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 322,
+  "name": "Kings and Queens",
+  "Address": "YMCA Regional Center, 92, Bo, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 323,
+  "name": "Ruri's Restaurant",
+  "Address": "Tikonko Rd, Bo, Sierra Leone",
+  "phone": "+23276854407"
+ },
+ {
+  "id": 324,
+  "name": "Hancess Bar and Restaurant",
+  "Address": "74 Johannes St, Bo, Sierra Leone",
+  "phone": "+23279899354"
+ },
+ {
+  "id": 325,
+  "name": "Nile Sam Steven Street, Bo.",
+  "Address": "Bo, Sierra Leone",
+  "phone": "+23299491298"
+ },
+ {
+  "id": 326,
+  "name": "Vicanda Parlour Restaurant",
+  "Address": "Unnamed Road, Bo, Sierra Leone",
+  "phone": "+23231014118"
+ },
+ {
+  "id": 327,
+  "name": "Taiama",
+  "Address": "Bo, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 328,
+  "name": "Mimiko lounge \u0026 Restaurant",
+  "Address": "Bo, Sierra Leone",
+  "phone": "+23279600600"
+ },
+ {
+  "id": 329,
+  "name": "Growth Center Bo",
+  "Address": "4 Fenton Rd, Bo, Sierra Leone",
+  "phone": "+23230505086"
+ },
+ {
+  "id": 330,
+  "name": "Eaty Food",
+  "Address": "275 Bo-Kenema Highway, Bo, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 331,
+  "name": "Americana Bakery and Cafe",
+  "Address": "Dambala Road, Bo, Sierra Leone",
+  "phone": "+23276614440"
+ },
+ {
+  "id": 332,
+  "name": "Phở Bờm, Vietnamese Noodle \u0026 Grill",
+  "Address": "Tikonko Rd, Bo, Sierra Leone",
+  "phone": "+23276460452"
+ },
+ {
+  "id": 333,
+  "name": "Saigon Bistro",
+  "Address": "Bo-Kenema Highway, Bo, Sierra Leone",
+  "phone": "+23277453573"
+ },
+ {
+  "id": 334,
+  "name": "The Palace Complex",
+  "Address": "Nr Government Hospital entrance, 4 Fenton Rd, Bo, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 335,
+  "name": "Wusum Hotel",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23232146177"
+ },
+ {
+  "id": 336,
+  "name": "SKY INN HOTEL \u0026 FITNESS CENTER",
+  "Address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
+  "phone": "+23278012322"
+ },
+ {
+  "id": 337,
+  "name": "Royal Hotel Makeni",
+  "Address": "136, Azzolini Highway, Makeni, Makeni, Sierra Leone",
+  "phone": "+23278573303"
+ },
+ {
+  "id": 338,
+  "name": "Jennabwa Lodge and Restaurant",
+  "Address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23288722351"
+ },
+ {
+  "id": 339,
+  "name": "Atlantic Lumley Hotel",
+  "Address": "Lightfoot Boston Road, Freetown, Sierra Leone",
+  "phone": "+23277639856"
+ },
+ {
+  "id": 340,
+  "name": "The Country Lodge Hotel",
+  "Address": "VXJ8+8MR Teko Road, Makeni, Sierra Leone",
+  "phone": "+23274600043"
+ },
+ {
+  "id": 341,
+  "name": "Conteh U Hotel",
+  "Address": "55 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23278321321"
+ },
+ {
+  "id": 342,
+  "name": "Mena Hills Hotel",
+  "Address": "HS 51 Hillstation, Freetown, Sierra Leone",
+  "phone": "+23277692000"
+ },
+ {
+  "id": 343,
+  "name": "East West Hospitality Wilknston road",
+  "Address": "Lumley Beach Road, Freetown, Sierra Leone",
+  "phone": "+23280212121"
+ },
+ {
+  "id": 344,
+  "name": "MADAMNELIS GUEST HOUSE",
+  "Address": "19 Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23275568401"
+ },
+ {
+  "id": 345,
+  "name": "Sahara Hotel",
+  "Address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220"
+ },
+ {
+  "id": 346,
+  "name": "MVR Makambo",
+  "Address": "4B Lordmo Drive, Freetown, Sierra Leone",
+  "phone": "+23279906060"
+ },
+ {
+  "id": 347,
+  "name": "Makama Lodge",
+  "Address": "15, Off Teko Road, Makeni, Sierra Leone",
+  "phone": "+23288839003"
+ },
+ {
+  "id": 348,
+  "name": "Joesal Hotel Makeni",
+  "Address": "Off Magburaka Highway, Makeni, Makeni, Sierra Leone",
+  "phone": "+23278954040"
+ },
+ {
+  "id": 349,
+  "name": "Multiple Guesthouse",
+  "Address": "7 Mathankoh Street, Makeni, Sierra Leone",
+  "phone": "+23277529851"
+ },
+ {
+  "id": 350,
+  "name": "Lodge Valley Hotel",
+  "Address": "Kabala Hwy, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 351,
+  "name": "R \u0026 B Hotel",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 352,
+  "name": "Nimiyama Hotel",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 353,
+  "name": "WS Diamond Hotel",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 354,
+  "name": "Global Restaurant and General Enterprise",
+  "Address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": "+23277719746"
+ },
+ {
+  "id": 355,
+  "name": "Papa's Restaurant \u0026 Deco Relaxation",
+  "Address": "51 Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23276226153"
+ },
+ {
+  "id": 356,
+  "name": "Country Friends Bar \u0026 Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 357,
+  "name": "Millie's Devine Bar \u0026 Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23276699903"
+ },
+ {
+  "id": 358,
+  "name": "Syls Kitchen",
+  "Address": "7 Barracks Road, Makeni, Sierra Leone",
+  "phone": "+23299778460"
+ },
+ {
+  "id": 359,
+  "name": "Subish Fast Food",
+  "Address": "40 Station Road, Makeni, Sierra Leone",
+  "phone": "+23276220169"
+ },
+ {
+  "id": 360,
+  "name": "Paradise Chilling Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 361,
+  "name": "Shop 131-Mama Yalie Mini Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 362,
+  "name": "Yeanne's Restaurant and Multi Purpose Hall",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23288543892"
+ },
+ {
+  "id": 363,
+  "name": "Kanumasala Kitchen Bar Center",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23288445509"
+ },
+ {
+  "id": 364,
+  "name": "City Bar Restorant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 365,
+  "name": "Neneh Haja Wayliya Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 366,
+  "name": "Abundant Fast Food Restaurant",
+  "Address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 367,
+  "name": "Syl's Kitchen",
+  "Address": "Kabala Hwy, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 368,
+  "name": "Jaway \u0026 Son Enterprise",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 369,
+  "name": "Mem's Enterprise",
+  "Address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
+  "phone": "+23277208000"
+ },
+ {
+  "id": 370,
+  "name": "Conteh U Hotel",
+  "Address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 371,
+  "name": "Church of Jesus Christ of Latter-day Saints",
+  "Address": "No.1 Conteh U drive off Kay Street, Makeni, Sierra Leone",
+  "phone": "+23278012322"
+ },
+ {
+  "id": 372,
+  "name": "The Gold kitchen",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23288382529"
+ },
+ {
+  "id": 373,
+  "name": "INDIAN HUT",
+  "Address": "1 Albert Street, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 374,
+  "name": "BHAIYATS BRAAI",
+  "Address": "15, Off Teko Road, Makeni, Sierra Leone",
+  "phone": "+23288839003"
+ },
+ {
+  "id": 375,
+  "name": "Pizza Inn",
+  "Address": "68 Masuba Road, Makeni, Sierra Leone",
+  "phone": "+23277829575"
+ },
+ {
+  "id": 376,
+  "name": "Panarottis Makeni Mall",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 377,
+  "name": "SADAR'S BRAAI",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 378,
+  "name": "Mashawi",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 379,
+  "name": "Kamikaz",
+  "Address": "19 Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23275568401"
+ },
+ {
+  "id": 380,
+  "name": "K Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 381,
+  "name": "Shampalace Restaurant",
+  "Address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 382,
+  "name": "Texan Pub \u0026 Grill Makeni Mall",
+  "Address": "VXJ8+8MR Teko Road, Makeni, Sierra Leone",
+  "phone": "+23274600043"
+ },
+ {
+  "id": 383,
+  "name": "McSydney's Restaurant",
+  "Address": "12 Mabanta Road, Makeni, Sierra Leone",
+  "phone": "+23273430000"
+ },
+ {
+  "id": 384,
+  "name": "Fleva Foods Restaurant",
+  "Address": "108 Freetown Highway, Mathinka Junction, Makeni, Sierra Leone",
+  "phone": "+23230567674"
+ },
+ {
+  "id": 385,
+  "name": "The Grill Shack",
+  "Address": "makeni, Freetown, Sierra Leone",
+  "phone": "+23279329467"
+ },
+ {
+  "id": 386,
+  "name": "Food Boss",
+  "Address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23288006712"
+ },
+ {
+  "id": 387,
+  "name": "Nando's Makeni",
+  "Address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 388,
+  "name": "Rhodes Park Restaurant makeni",
+  "Address": "Magburaka Road, Makeni, Sierra Leone",
+  "phone": "+23278207770"
+ },
+ {
+  "id": 389,
+  "name": "KFC | Makeni Mall",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 390,
+  "name": "Red Apple Farm Limited",
+  "Address": "New Makeni Highway, Lunsar, Sierra Leone",
+  "phone": "+23288695150"
+ },
+ {
+  "id": 391,
+  "name": "Social At Makeni",
+  "Address": "Azzolini Highway, Makeni, Sierra Leone",
+  "phone": "+23278339921"
+ },
+ {
+  "id": 392,
+  "name": "Prince Charles Hotel",
+  "Address": "4 Samuel st, Makeni, Sierra Leone",
+  "phone": "+23278711704"
+ },
+ {
+  "id": 393,
+  "name": "The Cake Bar - Makeni Mall",
+  "Address": "2 Station Road, Makeni, Sierra Leone",
+  "phone": "+23230889595"
+ },
+ {
+  "id": 394,
+  "name": "Montana Restaurant",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 395,
+  "name": "Home Affairs Ent. \u0026 GM",
+  "Address": "Lunsar-Makeni Highway, Makeni, Sierra Leone",
+  "phone": "+23288482117"
+ },
+ {
+  "id": 396,
+  "name": "Old Mabanta Road",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 397,
+  "name": "MAKAMA APEX",
+  "Address": "Tecko Road, Makeni, Sierra, Leone, Sierra Leone",
+  "phone": "+23279906939"
+ },
+ {
+  "id": 398,
+  "name": "Whereelse",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23288065235"
+ },
+ {
+  "id": 399,
+  "name": "University of Makeni, Sylvanus Koroma Campus, Student's Canteen",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23275223564"
+ },
+ {
+  "id": 400,
+  "name": "Makeni Mall",
+  "Address": "Makeni, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 401,
+  "name": "Makeni Mall",
+  "Address": "Makeni, Sierra Leone",
+  "phone": "+23230612819"
+ },
+ {
+  "id": 402,
+  "name": "WS Diamond Hotel of Kono",
+  "Address": "48 Massingbai road 555 Spot, Koidu, Sierra Leone",
+  "phone": "+23277927732"
+ },
+ {
+  "id": 403,
+  "name": "Leisure Lodge Ndambie",
+  "Address": "Yengema, Sierra Leone",
+  "phone": "+23231459141"
+ },
+ {
+  "id": 404,
+  "name": "Lion Mountains Hotel (Formerly Uncle Ben's Hotel)",
+  "Address": "Sierra Leone, Freetown, Unnamed Road",
+  "phone": ""
+ },
+ {
+  "id": 405,
+  "name": "Diamond Lodge",
+  "Address": "1 Frazer Davies Drive, King St, Freetown, Sierra Leone",
+  "phone": "+23277700020"
+ },
+ {
+  "id": 406,
+  "name": "Joesal Hotel Kono",
+  "Address": "Koidu, Sierra Leone",
+  "phone": "+23278601893"
+ },
+ {
+  "id": 407,
+  "name": "De Kona Lodge",
+  "Address": "Koidu, No. 3 Sir George Street, 55 Spot, Koidu, Sierra Leone",
+  "phone": "+23277927732"
+ },
+ {
+  "id": 408,
+  "name": "Hotel Africanus",
+  "Address": "Rokel Community, 4 Sewah Road, Off Freetown Waterloo Highway, Sierra Leone",
+  "phone": "+23277220220"
+ },
+ {
+  "id": 409,
+  "name": "SierraGuesthouse and restuarant",
+  "Address": "King Street, The Maze, Congo Cross, Wilberforce, Freetown, Sierra Leone",
+  "phone": "+23276611793"
+ },
+ {
+  "id": 410,
+  "name": "Nimiyama Hotel",
+  "Address": "1 Moigua St, Koidu Town, Sierra Leone",
+  "phone": "+23279907868"
+ },
+ {
+  "id": 411,
+  "name": "YEANE'S",
+  "Address": "Dabundeh St, Koidu, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 412,
+  "name": "Premier Sunshine",
+  "Address": "44 Main, Kainkordu road, Koidu, Sierra Leone",
+  "phone": "+23276482187"
+ },
+ {
+  "id": 413,
+  "name": "Royal restaurant",
+  "Address": "1 Moigua St, Koidu Town, Sierra Leone",
+  "phone": "+23279907868"
+ },
+ {
+  "id": 414,
+  "name": "Average Guest House \u0026 Restaurant",
+  "Address": "Koidu, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 415,
+  "name": "Dabundeh Street Coffehouse",
+  "Address": "44 Main Kainkordu Road, Koidu City, Sierra Leone",
+  "phone": "+23276482187"
+ },
+ {
+  "id": 416,
+  "name": "Shine On and Stay Hotel",
+  "Address": "Koidu, No. 3 Sir George Street, 55 Spot, Koidu, Sierra Leone",
+  "phone": "+23277927732"
+ },
+ {
+  "id": 417,
+  "name": "Monarch Restaurant",
+  "Address": "Koidu, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 418,
+  "name": "WS Diamond Hotel of Kono",
+  "Address": "Koidu, Sierra Leone",
+  "phone": "+23279243738"
+ },
+ {
+  "id": 419,
+  "name": "Lion Mountains Hotel (Formerly Uncle Ben's Hotel)",
+  "Address": "Koidu, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 420,
+  "name": "Elysee bar and relaxation",
+  "Address": "Konomanyi St, Koidu, Sierra Leone",
+  "phone": "+23299112618"
+ },
+ {
+  "id": 421,
+  "name": "Matturie Enterprise",
+  "Address": "Sorie Lane Kono, 52, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 422,
+  "name": "Viascity Plaza",
+  "Address": "Yardu Rd, Koidu, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 423,
+  "name": "Sinko store",
+  "Address": "31 Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23279142101"
+ },
+ {
+  "id": 424,
+  "name": "H.Baydoun \u0026 Sons",
+  "Address": "Sanni Abacha St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 425,
+  "name": "Mubarak trading",
+  "Address": "135 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23288000007"
+ },
+ {
+  "id": 426,
+  "name": "PZ Building",
+  "Address": "1 Kono Park, Freetown Maisaika, Highway, Sierra, Leone, Sierra Leone",
+  "phone": "+23288559276"
+ },
+ {
+  "id": 427,
+  "name": "Punjab tarding center",
+  "Address": "Wilberforce St, Freetown, Sierra Leone",
+  "phone": "+23278151224"
+ },
+ {
+  "id": 428,
+  "name": "Freetown Mall",
+  "Address": "97 Wilkinson Road SL, Freetown, Sierra Leone",
+  "phone": "+23277365254"
+ },
+ {
+  "id": 429,
+  "name": "Kotin Tri",
+  "Address": "169 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "+23279144569"
+ },
+ {
+  "id": 430,
+  "name": "Dada Enterprise",
+  "Address": "Freetown, Sierra Leone",
+  "phone": "+23277909973"
+ },
+ {
+  "id": 431,
+  "name": "Ishwari Supermarket",
+  "Address": "Pultney St, Freetown, Sierra Leone",
+  "phone": ""
+ },
+ {
+  "id": 432,
+  "name": "Koidu New Sembehun City Council",
+  "Address": "Koidu, Sierra Leone",
+  "phone": ""
+ }
 ]

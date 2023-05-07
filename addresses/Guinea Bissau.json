@@ -1,1033 +1,1244 @@
 [
-  {
-    "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
-    "address": "GW, Avenida Francisco Mendes, 12 1100, Guinea-Bissau",
-    "phone": "+245956053270"
-  },
-  {
-    "name": "Residencial Coimbra",
-    "address": "Cp 285, Bissau, Guinea-Bissau",
-    "phone": "+2455803004"
-  },
-  {
-    "name": "Hotel CEIBA",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966568526"
-  },
-  {
-    "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245969189292"
-  },
-  {
-    "name": "Hotel Royal Bissau",
-    "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
-  },
-  {
-    "name": "Hala Hotel & Aqua Park",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966568526"
-  },
-  {
-    "name": "Residencial Coimbra",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956602160"
-  },
-  {
-    "name": "Dunia Hôtel Bissau",
-    "address": "Avenue Combatante Libertade Patria, Bissau, Guinea-Bissau",
-    "phone": "+2455650000"
-  },
-  {
-    "name": "Casa Cacheu low cost lodje",
-    "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
-  },
-  {
-    "name": "Hotel Lisboa Bissau",
-    "address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hôtel Império",
-    "address": "Segunda entrada de Fatima, Safim, Guinea-Bissau",
-    "phone": "+41763730126"
-  },
-  {
-    "name": "Embalo Aparthotel",
-    "address": "Bario Ajuda, Manel Yago GW, Bissau 1100, Guinea-Bissau",
-    "phone": "+245966396099"
-  },
-  {
-    "name": "Hotel Sol-Mar",
-    "address": "5-6, Bissau, Guinea-Bissau",
-    "phone": "+2456787117"
-  },
-  {
-    "name": "Hotel Ancar",
-    "address": "R De Bafata, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hôtel Malaika",
-    "address": "Avenida Pansau Na Isna, nº1, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel do Ilheu de Kere",
-    "address": "Avenida Pansau Na Isna, nº1, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hôtel Diarama",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955474777"
-  },
-  {
-    "name": "Pensão Creola",
-    "address": "Avenida Cidade de Lisboa, Bissau, Guinea-Bissau",
-    "phone": "+245955985170"
-  },
-  {
-    "name": "Jordani",
-    "address": "Arquipelago das Bijagos, Ilha de Keré, Guinea-Bissau",
-    "phone": "+245966993827"
-  },
-  {
-    "name": "Aparthotel BADINCA",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956150866"
-  },
-  {
-    "name": "Residencial Monte Alentejano",
-    "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245955651255"
-  },
-  {
-    "name": "Jordani",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955314952"
-  },
-  {
-    "name": "Aparthotel Lobato",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+2456633031"
-  },
-  {
-    "name": "The Safety Place",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel - Residência Proquil",
-    "address": "Entrada Joao, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel Zurich",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+2453206004"
-  },
-  {
-    "name": "Restaurante Papa Loca",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955382004"
-  },
-  {
-    "name": "O Bistro",
-    "address": "R. Eng. José Guedes Quinhones, Bissau, Guinea-Bissau",
-    "phone": "+245955389520"
-  },
-  {
-    "name": "A Padeira Africana",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966131393"
-  },
-  {
-    "name": "Restaurante Dom Bifanas",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955194278"
-  },
-  {
-    "name": "Oasis Restaurante & Churrasqueira",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966604312"
-  },
-  {
-    "name": "Lá Rosa restaurant مطعم لبناني عربي",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966306283"
-  },
-  {
-    "name": "Coqueiros Bissau",
-    "address": "Rua Osvaldo Vieira, Bissau, Guinea-Bissau",
-    "phone": "+245956103559"
-  },
-  {
-    "name": "Almagui Restaurante & Apart-Hotel",
-    "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": "+245966202174"
-  },
-  {
-    "name": "Mia Terra",
-    "address": "Rua Sporting, Bissau, Guinea-Bissau",
-    "phone": "+245955888111"
-  },
-  {
-    "name": "BAR LABA LABAS",
-    "address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "BeniBella Resto&Bar Pub",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Living Restaurant Bar",
-    "address": "Rua 2, Bissau, Guinea-Bissau",
-    "phone": "+245955909559"
-  },
-  {
-    "name": "Pastelaria Imperio",
-    "address": "Prábis, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Gã Mela",
-    "address": "Rua Marien Nguabi Praça Bissau, Bissau, Guinea-Bissau",
-    "phone": "+245955717962"
-  },
-  {
-    "name": "Restaurante Dona Fernanda",
-    "address": "140, Avenida Francisco Mendes, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Plack 2",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Kais Snack & Quick Food",
-    "address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Pastelaria Imperio",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955498276"
-  },
-  {
-    "name": "Restaurante Daru Salam",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245955243730"
-  },
-  {
-    "name": "Restaurante Libanes",
-    "address": "R. Ermelinda Gomes, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "ponto da esfiha",
-    "address": "GW, Bissau 9222, Guinea-Bissau",
-    "phone": "+245955218398"
-  },
-  {
-    "name": "Handi - Taste of indian cuisine",
-    "address": "R9X8+JPG Ponta Neto, Bissau, Guinea-Bissau",
-    "phone": "+245956393039"
-  },
-  {
-    "name": "Restaurante Hugo's",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Ali Baba",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "BFC - Bissau Fried Chicken",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Colete Encarnado",
-    "address": "Bandim 1, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Alentejano",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "245",
-    "address": "GW, Rua de, Bissau 2685, Guinea-Bissau",
-    "phone": "+245955572324"
-  },
-  {
-    "name": "Kintal do Tábuas",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955474777"
-  },
-  {
-    "name": "Rasoi, restaurant and beverages",
-    "address": "Rotunda de Antula, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Casa N'baye",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955638764"
-  },
-  {
-    "name": "Original restaurant, bar & lounge",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Garden Club",
-    "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Adega do Loureiro",
-    "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245955477283"
-  },
-  {
-    "name": "Venezuela",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Bar Feminina",
-    "address": "CASSA BAYE FALL CASSA BAYE FALL 🇬🇼 GW, 7680, Guinea-Bissau",
-    "phone": "+245956393036"
-  },
-  {
-    "name": "Cantinho da Mana Daia",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955288516"
-  },
-  {
-    "name": "Bar NTB",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Sénégal-Bissau",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956413302"
-  },
-  {
-    "name": "Comida local",
-    "address": "5-6, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Bar tabanka",
-    "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Bar Caribenho",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Café Delicioso (Cao de Mansor)",
-    "address": "Avenida Francisco Mendes, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Gmetal Restaurant",
-    "address": "Chez Amina poisson, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Mama Mia",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Gelataria N'Té",
-    "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245955586927"
-  },
-  {
-    "name": "Restaurante Bantaba",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955829362"
-  },
-  {
-    "name": "Local restaurant",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955179838"
-  },
-  {
-    "name": "Casa M'Baye",
-    "address": "Unnamed Road, Bissau, Guinea-Bissau",
-    "phone": "+245955178417"
-  },
-  {
-    "name": "Cantinho Carla",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Café Lisboa",
-    "address": "Rua de Sao Tome, Bissau, Guinea-Bissau",
-    "phone": "+245955385893"
-  },
-  {
-    "name": "Oporto",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Contentor do Zema",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955911510"
-  },
-  {
-    "name": "Restaurante Dona Margarida",
-    "address": "Praça de martires bissau, Bissau, Guinea-Bissau, Bissau, Guinea-Bissau",
-    "phone": "+245955121318"
-  },
-  {
-    "name": "Restaurante Na Tabua",
-    "address": "Avenida Francisco Mendes, Bissau, Guinea-Bissau",
-    "phone": "+245955283674"
-  },
-  {
-    "name": "PETISQUEIRA A MANGUEIRA",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Tá-Mar",
-    "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245955887741"
-  },
-  {
-    "name": "Bar Sagres",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante de Solange",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245956363552"
-  },
-  {
-    "name": "Restauran Peeanan",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Chez Amina poisson GB",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "M@GNIFO",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Dom Luis",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245955274457"
-  },
-  {
-    "name": "Pizzaria ALLI",
-    "address": "Rua de Angola, Bissau, Guinea-Bissau",
-    "phone": "+245955304998"
-  },
-  {
-    "name": "Conqueiros Bar",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956206687"
-  },
-  {
-    "name": "Bar do Zema",
-    "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "apart-hotel nha terra",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": "+245955544449"
-  },
-  {
-    "name": "Restaurante Bar Ferferi",
-    "address": "Unnamed Road, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Bar Samaritana",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "CASA BAYE FALL",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Quintal da Tábua",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": "+245955108609"
-  },
-  {
-    "name": "Rei do Frango",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Banaga Banaga",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955347467"
-  },
-  {
-    "name": "Tagua",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurant universidad",
-    "address": "Rua Osvaldo Vieira, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Oumar",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Aparthotel BADINCA",
-    "address": "Estrada da Granja do Pessube, Bissau, Guinea-Bissau",
-    "phone": "+245955904476"
-  },
-  {
-    "name": "Tarrafe",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955209548"
-  },
-  {
-    "name": "Sweet cultumie's",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956136060"
-  },
-  {
-    "name": "M@GNIFICO",
-    "address": "Avenida Cidade de Lisboa, Bissau, Guinea-Bissau",
-    "phone": "+245955985170"
-  },
-  {
-    "name": "Confeitaria b.b.seide",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956618497"
-  },
-  {
-    "name": "Restaurante Bar Djabante",
-    "address": "Rua de Angola, Bissau, Guinea-Bissau",
-    "phone": "+245956188896"
-  },
-  {
-    "name": "Bar Coimbra",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Padaria E Confitaria Kombe",
-    "address": "praca dez de agosto, Bissau, Guinea-Bissau",
-    "phone": "+245955373763"
-  },
-  {
-    "name": "Lanchonete Cidade de Deus",
-    "address": "Rua Vitorino Costa, Bissau, Guinea-Bissau",
-    "phone": "+245965131775"
-  },
-  {
-    "name": "Insonias restaurante pizzeria discoteca",
-    "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245956786758"
-  },
-  {
-    "name": "Bar Londres",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Orquídea",
-    "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245956053889"
-  },
-  {
-    "name": "Donuts Spot",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Pastelria & Resturante Aissatu",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966606577"
-  },
-  {
-    "name": "Gelataria Gellati",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955764041"
-  },
-  {
-    "name": "Selfservice Ila e Jú",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966604942"
-  },
-  {
-    "name": "Bar Tenta Sorte",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955764041"
-  },
-  {
-    "name": "Motel and restaurant Kaliste",
-    "address": "Rua Marien Nguabi Praça Bissau, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "BODEM",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955318277"
-  },
-  {
-    "name": "Teditronic Guiné-Bissau",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Santy Comercial",
-    "address": "Rua 13, Bissau, Guinea-Bissau",
-    "phone": "+245955731717"
-  },
-  {
-    "name": "Chapa de Bisaau",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Centro Cultural Franco-Bissau-Guineense",
-    "address": "Fort road, Bissau, Rajasthan 331027, India",
-    "phone": null
-  },
-  {
-    "name": "Mercado de Bandim",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966066026"
-  },
-  {
-    "name": "Farmácia Maimuna",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966656000"
-  },
-  {
-    "name": "Centro Artístico Juvenil",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "M.S.FOOTWEAR",
-    "address": "VC23+CM8 Dalas,, marcado de bandim, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Mercado de Caju",
-    "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
-  },
-  {
-    "name": "Bharat Niwar Center",
-    "address": "Bolama, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Centro Comercial Nina",
-    "address": "Bissau, Rajasthan 331027, India",
-    "phone": "+917877065882"
-  },
-  {
-    "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
-    "address": "R. Bissau 55, 2845-069 Amora, Portugal",
-    "phone": "552845069"
-  },
-  {
-    "name": "Centro Artístico Juvenil",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Mercado Artesanal Bissau",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Bissau-Velho",
-    "address": "Fulacunda, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Jornal Nô Pintcha",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955859940"
-  },
-  {
-    "name": "Hôtel Diarama",
-    "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": "+245955494435"
-  },
-  {
-    "name": "España Cultural",
-    "address": "Praia de Bruce Bijagos Islands, Bubaque, Guinea-Bissau",
-    "phone": "+34663177018"
-  },
-  {
-    "name": "Kachikally Crocodile Pool",
-    "address": "arfat masjid, Bissau, India",
-    "phone": null
-  },
-  {
-    "name": "Wele-Nzas",
-    "address": "ILOT DE KÉRÉ ARCHIPEL DES BIJAGOS, Biombo 1000, Guinea-Bissau",
-    "phone": "+245966794965"
-  },
-  {
-    "name": "San Antonio de Palé",
-    "address": "Bissau, Rajasthan 331027, India",
-    "phone": "63+557331027"
-  },
-  {
-    "name": "Ghanghu Fort",
-    "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245955651255"
-  },
-  {
-    "name": "Luba",
-    "address": "V96F+QRJ Bairro da Penha, Bissau, Guinea-Bissau",
-    "phone": "+245966976649"
-  },
-  {
-    "name": "São Vicente",
-    "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
-  },
-  {
-    "name": "Jhunjhunu",
-    "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245955651255"
-  },
-  {
-    "name": "Fatehpur",
-    "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
-  },
-  {
-    "name": "Aparthotel Triton Bafatá",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Apartments CUBURNEL",
-    "address": "Unnamed Road, Bafatá, Guinea-Bissau",
-    "phone": "+245955201838"
-  },
-  {
-    "name": "Hotel Triton",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": "+245955117945"
-  },
-  {
-    "name": "Casa Zita",
-    "address": "Rua Porto, Bafatá, Guinea-Bissau",
-    "phone": "+245966921690"
-  },
-  {
-    "name": "Ponto de Encontro",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Muna",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Ponto de Encontro",
-    "address": "AV-GUIANA, Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Bar Samba",
-    "address": "AV-GUIANA, Bafatá, Guinea-Bissau",
-    "phone": "+245955064458"
-  },
-  {
-    "name": "Restaurante Mana Iva E Braima Zinho",
-    "address": "Av.Brasil, Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Centro Comercial Belsul",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Mampata",
-    "address": "Unnamed Road, Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hôtel Maimuna Capé",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Centro Artístico Juvenil",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Farim",
-    "address": "Unnamed Road, Bafatá, Guinea-Bissau",
-    "phone": "+245955201838"
-  },
-  {
-    "name": "Old Market",
-    "address": "Fulacunda, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Fort São José da Amura",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Sao Domingos",
-    "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": "+245955494435"
-  },
-  {
-    "name": "Hotel karsa",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel Vision",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel CARSA",
-    "address": "Rua de Gabú, Gabú, Guinea-Bissau",
-    "phone": "+245955195050"
-  },
-  {
-    "name": "Apart Hotel Fado",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": "+245966305303"
-  },
-  {
-    "name": "Hotel Karca",
-    "address": "Unnamed Road, Gabú, Gabú, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel Hobbe",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel HBC",
-    "address": "Unnamed Road, Gabú, Guinea-Bissau",
-    "phone": "+245956260469"
-  },
-  {
-    "name": "Restraunt CIJ",
-    "address": "Bafatá, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel HBC",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurante Palma D Ouro",
-    "address": "Sintchan yomba Guinée.bissau région gabu setor, Sonaco, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Gabu",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": "+245966305303"
-  },
-  {
-    "name": "Restaurante Mana Iva E Braima Zinho",
-    "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245956191428"
-  },
-  { "name": "Gabu", "address": "Gabú, Guinea-Bissau", "phone": null },
-  {
-    "name": "Auberge Luzerne Ogo 3643768",
-    "address": "Gabú, Guinea-Bissau",
-    "phone": "+245966241286"
-  },
-  {
-    "name": "Gabu",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Makasutu",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Aparthotel Bagabaga Gemia",
-    "address": "Canchungo, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Aparthotel Napalach",
-    "address": "GW, Rua, Cacheu 1000, Guinea-Bissau",
-    "phone": "+245956233715"
-  },
-  {
-    "name": "Villa Sol",
-    "address": "São Domingos, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Hotel Baruju Ka Sabi",
-    "address": "Canchungo, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "A part Hotel Baga Baga Gémea",
-    "address": "GW, Avenida Francisco Mendes, 12 1100, Guinea-Bissau",
-    "phone": "+245956053270"
-  },
-  {
-    "name": "Casa Cacheu low cost lodje",
-    "address": "Canchungo, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Nô Apartamento",
-    "address": "Unnamed Road, São Domingos, Guinea-Bissau",
-    "phone": "+245966642205"
-  },
-  {
-    "name": "Hotel Pereira",
-    "address": "Rua Titina Sina, Canchungo, Guinea-Bissau",
-    "phone": "+245955597613"
-  },
-  {
-    "name": "Aparthotel Amazônia",
-    "address": "Bairro Pindingulo, Canchungo, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Monaco hôtel",
-    "address": "Bairro novo, Canchungo, Guinea-Bissau",
-    "phone": "+245955974888"
-  },
-  {
-    "name": "Hotel Le Walkunda",
-    "address": "Bario Ajuda, Manel Yago GW, Bissau 1100, Guinea-Bissau",
-    "phone": "+245966396099"
-  },
-  {
-    "name": "LA CASA MANDELA",
-    "address": "Canchungo, Guinea-Bissau",
-    "phone": "+245955234587"
-  },
-  {
-    "name": "cap bay",
-    "address": "São, Domingos, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Résidence Adiamat",
-    "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
-  },
-  {
-    "name": "Cacheu",
-    "address": "São Domingos, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Restaurant Moussa",
-    "address": "Unnamed Road, Canchungo, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "La Kaz A Jo",
-    "address": "São Domingos, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Parc national de Basse Casamance",
-    "address": "Fulacunda, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Sao Domingos",
-    "address": "Cacheu, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Aparthotel Bagabaga Gemia",
-    "address": "Bairro novo, Canchungo, Guinea-Bissau",
-    "phone": "+245955974888"
-  },
-  {
-    "name": "Hotel e Restaurante Mar Azul",
-    "address": "30000, Quinhámel, Guinea-Bissau",
-    "phone": "+245955156467"
-  },
-  {
-    "name": "Casa Canchungo",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Canghungo",
-    "address": "Unnamed Road, Canchungo, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Canchungo",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955318277"
-  },
-  {
-    "name": "Cufada Lagoons Natural Park",
-    "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Centro Artístico Juvenil",
-    "address": "Bissau, Guinea-Bissau",
-    "phone": null
-  },
-  {
-    "name": "Cacheu",
-    "address": "Fulacunda, Guinea-Bissau",
-    "phone": null
-  }
+ {
+  "id": 1,
+  "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
+  "Address": "GW, Avenida Francisco Mendes, 12 1100, Guinea-Bissau",
+  "phone": "+245956053270"
+ },
+ {
+  "id": 2,
+  "name": "Residencial Coimbra",
+  "Address": "Cp 285, Bissau, Guinea-Bissau",
+  "phone": "+2455803004"
+ },
+ {
+  "id": 3,
+  "name": "Hotel CEIBA",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966568526"
+ },
+ {
+  "id": 4,
+  "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245969189292"
+ },
+ {
+  "id": 5,
+  "name": "Hotel Royal Bissau",
+  "Address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
+  "phone": "+245955803000"
+ },
+ {
+  "id": 6,
+  "name": "Hala Hotel \u0026 Aqua Park",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966568526"
+ },
+ {
+  "id": 7,
+  "name": "Residencial Coimbra",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245956602160"
+ },
+ {
+  "id": 8,
+  "name": "Dunia Hôtel Bissau",
+  "Address": "Avenue Combatante Libertade Patria, Bissau, Guinea-Bissau",
+  "phone": "+2455650000"
+ },
+ {
+  "id": 9,
+  "name": "Casa Cacheu low cost lodje",
+  "Address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
+  "phone": "+245955803000"
+ },
+ {
+  "id": 10,
+  "name": "Hotel Lisboa Bissau",
+  "Address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 11,
+  "name": "Hôtel Império",
+  "Address": "Segunda entrada de Fatima, Safim, Guinea-Bissau",
+  "phone": "+41763730126"
+ },
+ {
+  "id": 12,
+  "name": "Embalo Aparthotel",
+  "Address": "Bario Ajuda, Manel Yago GW, Bissau 1100, Guinea-Bissau",
+  "phone": "+245966396099"
+ },
+ {
+  "id": 13,
+  "name": "Hotel Sol-Mar",
+  "Address": "5-6, Bissau, Guinea-Bissau",
+  "phone": "+2456787117"
+ },
+ {
+  "id": 14,
+  "name": "Hotel Ancar",
+  "Address": "R De Bafata, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 15,
+  "name": "Hôtel Malaika",
+  "Address": "Avenida Pansau Na Isna, nº1, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 16,
+  "name": "Hotel do Ilheu de Kere",
+  "Address": "Avenida Pansau Na Isna, nº1, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 17,
+  "name": "Hôtel Diarama",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955474777"
+ },
+ {
+  "id": 18,
+  "name": "Pensão Creola",
+  "Address": "Avenida Cidade de Lisboa, Bissau, Guinea-Bissau",
+  "phone": "+245955985170"
+ },
+ {
+  "id": 19,
+  "name": "Jordani",
+  "Address": "Arquipelago das Bijagos, Ilha de Keré, Guinea-Bissau",
+  "phone": "+245966993827"
+ },
+ {
+  "id": 20,
+  "name": "Aparthotel BADINCA",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245956150866"
+ },
+ {
+  "id": 21,
+  "name": "Residencial Monte Alentejano",
+  "Address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
+  "phone": "+245955651255"
+ },
+ {
+  "id": 22,
+  "name": "Jordani",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955314952"
+ },
+ {
+  "id": 23,
+  "name": "Aparthotel Lobato",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": "+2456633031"
+ },
+ {
+  "id": 24,
+  "name": "The Safety Place",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 25,
+  "name": "Hotel - Residência Proquil",
+  "Address": "Entrada Joao, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 26,
+  "name": "Hotel Zurich",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+2453206004"
+ },
+ {
+  "id": 27,
+  "name": "Restaurante Papa Loca",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955382004"
+ },
+ {
+  "id": 28,
+  "name": "O Bistro",
+  "Address": "R. Eng. José Guedes Quinhones, Bissau, Guinea-Bissau",
+  "phone": "+245955389520"
+ },
+ {
+  "id": 29,
+  "name": "A Padeira Africana",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966131393"
+ },
+ {
+  "id": 30,
+  "name": "Restaurante Dom Bifanas",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955194278"
+ },
+ {
+  "id": 31,
+  "name": "Oasis Restaurante \u0026 Churrasqueira",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966604312"
+ },
+ {
+  "id": 32,
+  "name": "Lá Rosa restaurant مطعم لبناني عربي",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966306283"
+ },
+ {
+  "id": 33,
+  "name": "Coqueiros Bissau",
+  "Address": "Rua Osvaldo Vieira, Bissau, Guinea-Bissau",
+  "phone": "+245956103559"
+ },
+ {
+  "id": 34,
+  "name": "Almagui Restaurante \u0026 Apart-Hotel",
+  "Address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
+  "phone": "+245966202174"
+ },
+ {
+  "id": 35,
+  "name": "Mia Terra",
+  "Address": "Rua Sporting, Bissau, Guinea-Bissau",
+  "phone": "+245955888111"
+ },
+ {
+  "id": 36,
+  "name": "BAR LABA LABAS",
+  "Address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 37,
+  "name": "BeniBella Resto\u0026Bar Pub",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 38,
+  "name": "Living Restaurant Bar",
+  "Address": "Rua 2, Bissau, Guinea-Bissau",
+  "phone": "+245955909559"
+ },
+ {
+  "id": 39,
+  "name": "Pastelaria Imperio",
+  "Address": "Prábis, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 40,
+  "name": "Gã Mela",
+  "Address": "Rua Marien Nguabi Praça Bissau, Bissau, Guinea-Bissau",
+  "phone": "+245955717962"
+ },
+ {
+  "id": 41,
+  "name": "Restaurante Dona Fernanda",
+  "Address": "140, Avenida Francisco Mendes, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 42,
+  "name": "Plack 2",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 43,
+  "name": "Kais Snack \u0026 Quick Food",
+  "Address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 44,
+  "name": "Pastelaria Imperio",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955498276"
+ },
+ {
+  "id": 45,
+  "name": "Restaurante Daru Salam",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": "+245955243730"
+ },
+ {
+  "id": 46,
+  "name": "Restaurante Libanes",
+  "Address": "R. Ermelinda Gomes, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 47,
+  "name": "ponto da esfiha",
+  "Address": "GW, Bissau 9222, Guinea-Bissau",
+  "phone": "+245955218398"
+ },
+ {
+  "id": 48,
+  "name": "Handi - Taste of indian cuisine",
+  "Address": "R9X8+JPG Ponta Neto, Bissau, Guinea-Bissau",
+  "phone": "+245956393039"
+ },
+ {
+  "id": 49,
+  "name": "Restaurante Hugo's",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 50,
+  "name": "Restaurante Ali Baba",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 51,
+  "name": "BFC - Bissau Fried Chicken",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 52,
+  "name": "Restaurante Colete Encarnado",
+  "Address": "Bandim 1, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 53,
+  "name": "Restaurante Alentejano",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 54,
+  "name": "245",
+  "Address": "GW, Rua de, Bissau 2685, Guinea-Bissau",
+  "phone": "+245955572324"
+ },
+ {
+  "id": 55,
+  "name": "Kintal do Tábuas",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955474777"
+ },
+ {
+  "id": 56,
+  "name": "Rasoi, restaurant and beverages",
+  "Address": "Rotunda de Antula, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 57,
+  "name": "Casa N'baye",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955638764"
+ },
+ {
+  "id": 58,
+  "name": "Original restaurant, bar \u0026 lounge",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 59,
+  "name": "Garden Club",
+  "Address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 60,
+  "name": "Adega do Loureiro",
+  "Address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
+  "phone": "+245955477283"
+ },
+ {
+  "id": 61,
+  "name": "Venezuela",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 62,
+  "name": "Bar Feminina",
+  "Address": "CASSA BAYE FALL CASSA BAYE FALL 🇬🇼 GW, 7680, Guinea-Bissau",
+  "phone": "+245956393036"
+ },
+ {
+  "id": 63,
+  "name": "Cantinho da Mana Daia",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955288516"
+ },
+ {
+  "id": 64,
+  "name": "Bar NTB",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 65,
+  "name": "Restaurant Sénégal-Bissau",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245956413302"
+ },
+ {
+  "id": 66,
+  "name": "Comida local",
+  "Address": "5-6, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 67,
+  "name": "Bar tabanka",
+  "Address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 68,
+  "name": "Restaurante Bar Caribenho",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 69,
+  "name": "Café Delicioso (Cao de Mansor)",
+  "Address": "Avenida Francisco Mendes, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 70,
+  "name": "Gmetal Restaurant",
+  "Address": "Chez Amina poisson, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 71,
+  "name": "Mama Mia",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 72,
+  "name": "Gelataria N'Té",
+  "Address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
+  "phone": "+245955586927"
+ },
+ {
+  "id": 73,
+  "name": "Restaurante Bantaba",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955829362"
+ },
+ {
+  "id": 74,
+  "name": "Local restaurant",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955179838"
+ },
+ {
+  "id": 75,
+  "name": "Casa M'Baye",
+  "Address": "Unnamed Road, Bissau, Guinea-Bissau",
+  "phone": "+245955178417"
+ },
+ {
+  "id": 76,
+  "name": "Cantinho Carla",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 77,
+  "name": "Café Lisboa",
+  "Address": "Rua de Sao Tome, Bissau, Guinea-Bissau",
+  "phone": "+245955385893"
+ },
+ {
+  "id": 78,
+  "name": "Oporto",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 79,
+  "name": "Contentor do Zema",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955911510"
+ },
+ {
+  "id": 80,
+  "name": "Restaurante Dona Margarida",
+  "Address": "Praça de martires bissau, Bissau, Guinea-Bissau, Bissau, Guinea-Bissau",
+  "phone": "+245955121318"
+ },
+ {
+  "id": 81,
+  "name": "Restaurante Na Tabua",
+  "Address": "Avenida Francisco Mendes, Bissau, Guinea-Bissau",
+  "phone": "+245955283674"
+ },
+ {
+  "id": 82,
+  "name": "PETISQUEIRA A MANGUEIRA",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 83,
+  "name": "Restaurante Tá-Mar",
+  "Address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
+  "phone": "+245955887741"
+ },
+ {
+  "id": 84,
+  "name": "Bar Sagres",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 85,
+  "name": "Restaurante de Solange",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": "+245956363552"
+ },
+ {
+  "id": 86,
+  "name": "Restauran Peeanan",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 87,
+  "name": "Chez Amina poisson GB",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 88,
+  "name": "M@GNIFO",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 89,
+  "name": "Restaurante Dom Luis",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": "+245955274457"
+ },
+ {
+  "id": 90,
+  "name": "Pizzaria ALLI",
+  "Address": "Rua de Angola, Bissau, Guinea-Bissau",
+  "phone": "+245955304998"
+ },
+ {
+  "id": 91,
+  "name": "Conqueiros Bar",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245956206687"
+ },
+ {
+  "id": 92,
+  "name": "Bar do Zema",
+  "Address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 93,
+  "name": "apart-hotel nha terra",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": "+245955544449"
+ },
+ {
+  "id": 94,
+  "name": "Restaurante Bar Ferferi",
+  "Address": "Unnamed Road, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 95,
+  "name": "Restaurante Bar Samaritana",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 96,
+  "name": "CASA BAYE FALL",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 97,
+  "name": "Quintal da Tábua",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": "+245955108609"
+ },
+ {
+  "id": 98,
+  "name": "Rei do Frango",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 99,
+  "name": "Restaurante Banaga Banaga",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955347467"
+ },
+ {
+  "id": 100,
+  "name": "Tagua",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 101,
+  "name": "Restaurant universidad",
+  "Address": "Rua Osvaldo Vieira, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 102,
+  "name": "Oumar",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 103,
+  "name": "Aparthotel BADINCA",
+  "Address": "Estrada da Granja do Pessube, Bissau, Guinea-Bissau",
+  "phone": "+245955904476"
+ },
+ {
+  "id": 104,
+  "name": "Tarrafe",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955209548"
+ },
+ {
+  "id": 105,
+  "name": "Sweet cultumie's",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245956136060"
+ },
+ {
+  "id": 106,
+  "name": "M@GNIFICO",
+  "Address": "Avenida Cidade de Lisboa, Bissau, Guinea-Bissau",
+  "phone": "+245955985170"
+ },
+ {
+  "id": 107,
+  "name": "Confeitaria b.b.seide",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245956618497"
+ },
+ {
+  "id": 108,
+  "name": "Restaurante Bar Djabante",
+  "Address": "Rua de Angola, Bissau, Guinea-Bissau",
+  "phone": "+245956188896"
+ },
+ {
+  "id": 109,
+  "name": "Bar Coimbra",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 110,
+  "name": "Padaria E Confitaria Kombe",
+  "Address": "praca dez de agosto, Bissau, Guinea-Bissau",
+  "phone": "+245955373763"
+ },
+ {
+  "id": 111,
+  "name": "Lanchonete Cidade de Deus",
+  "Address": "Rua Vitorino Costa, Bissau, Guinea-Bissau",
+  "phone": "+245965131775"
+ },
+ {
+  "id": 112,
+  "name": "Insonias restaurante pizzeria discoteca",
+  "Address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
+  "phone": "+245956786758"
+ },
+ {
+  "id": 113,
+  "name": "Bar Londres",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 114,
+  "name": "Orquídea",
+  "Address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
+  "phone": "+245956053889"
+ },
+ {
+  "id": 115,
+  "name": "Donuts Spot",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 116,
+  "name": "Pastelria \u0026 Resturante Aissatu",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966606577"
+ },
+ {
+  "id": 117,
+  "name": "Gelataria Gellati",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955764041"
+ },
+ {
+  "id": 118,
+  "name": "Selfservice Ila e Jú",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966604942"
+ },
+ {
+  "id": 119,
+  "name": "Bar Tenta Sorte",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955764041"
+ },
+ {
+  "id": 120,
+  "name": "Motel and restaurant Kaliste",
+  "Address": "Rua Marien Nguabi Praça Bissau, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 121,
+  "name": "BODEM",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955318277"
+ },
+ {
+  "id": 122,
+  "name": "Teditronic Guiné-Bissau",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 123,
+  "name": "Santy Comercial",
+  "Address": "Rua 13, Bissau, Guinea-Bissau",
+  "phone": "+245955731717"
+ },
+ {
+  "id": 124,
+  "name": "Chapa de Bisaau",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 125,
+  "name": "Centro Cultural Franco-Bissau-Guineense",
+  "Address": "Fort road, Bissau, Rajasthan 331027, India",
+  "phone": ""
+ },
+ {
+  "id": 126,
+  "name": "Mercado de Bandim",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966066026"
+ },
+ {
+  "id": 127,
+  "name": "Farmácia Maimuna",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245966656000"
+ },
+ {
+  "id": 128,
+  "name": "Centro Artístico Juvenil",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 129,
+  "name": "M.S.FOOTWEAR",
+  "Address": "VC23+CM8 Dalas,, marcado de bandim, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 130,
+  "name": "Mercado de Caju",
+  "Address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
+  "phone": "+245955803000"
+ },
+ {
+  "id": 131,
+  "name": "Bharat Niwar Center",
+  "Address": "Bolama, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 132,
+  "name": "Centro Comercial Nina",
+  "Address": "Bissau, Rajasthan 331027, India",
+  "phone": "+917877065882"
+ },
+ {
+  "id": 133,
+  "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
+  "Address": "R. Bissau 55, 2845-069 Amora, Portugal",
+  "phone": "552845069"
+ },
+ {
+  "id": 134,
+  "name": "Centro Artístico Juvenil",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 135,
+  "name": "Mercado Artesanal Bissau",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 136,
+  "name": "Bissau-Velho",
+  "Address": "Fulacunda, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 137,
+  "name": "Jornal Nô Pintcha",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955859940"
+ },
+ {
+  "id": 138,
+  "name": "Hôtel Diarama",
+  "Address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
+  "phone": "+245955494435"
+ },
+ {
+  "id": 139,
+  "name": "España Cultural",
+  "Address": "Praia de Bruce Bijagos Islands, Bubaque, Guinea-Bissau",
+  "phone": "+34663177018"
+ },
+ {
+  "id": 140,
+  "name": "Kachikally Crocodile Pool",
+  "Address": "arfat masjid, Bissau, India",
+  "phone": ""
+ },
+ {
+  "id": 141,
+  "name": "Wele-Nzas",
+  "Address": "ILOT DE KÉRÉ ARCHIPEL DES BIJAGOS, Biombo 1000, Guinea-Bissau",
+  "phone": "+245966794965"
+ },
+ {
+  "id": 142,
+  "name": "San Antonio de Palé",
+  "Address": "Bissau, Rajasthan 331027, India",
+  "phone": "63+557331027"
+ },
+ {
+  "id": 143,
+  "name": "Ghanghu Fort",
+  "Address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
+  "phone": "+245955651255"
+ },
+ {
+  "id": 144,
+  "name": "Luba",
+  "Address": "V96F+QRJ Bairro da Penha, Bissau, Guinea-Bissau",
+  "phone": "+245966976649"
+ },
+ {
+  "id": 145,
+  "name": "São Vicente",
+  "Address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
+  "phone": "+245955803000"
+ },
+ {
+  "id": 146,
+  "name": "Jhunjhunu",
+  "Address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
+  "phone": "+245955651255"
+ },
+ {
+  "id": 147,
+  "name": "Fatehpur",
+  "Address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
+  "phone": "+245955803000"
+ },
+ {
+  "id": 148,
+  "name": "Aparthotel Triton Bafatá",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 149,
+  "name": "Apartments CUBURNEL",
+  "Address": "Unnamed Road, Bafatá, Guinea-Bissau",
+  "phone": "+245955201838"
+ },
+ {
+  "id": 150,
+  "name": "Hotel Triton",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": "+245955117945"
+ },
+ {
+  "id": 151,
+  "name": "Casa Zita",
+  "Address": "Rua Porto, Bafatá, Guinea-Bissau",
+  "phone": "+245966921690"
+ },
+ {
+  "id": 152,
+  "name": "Ponto de Encontro",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 153,
+  "name": "Restaurant Muna",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 154,
+  "name": "Restaurante Ponto de Encontro",
+  "Address": "AV-GUIANA, Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 155,
+  "name": "Bar Samba",
+  "Address": "AV-GUIANA, Bafatá, Guinea-Bissau",
+  "phone": "+245955064458"
+ },
+ {
+  "id": 156,
+  "name": "Restaurante Mana Iva E Braima Zinho",
+  "Address": "Av.Brasil, Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 157,
+  "name": "Centro Comercial Belsul",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 158,
+  "name": "Mampata",
+  "Address": "Unnamed Road, Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 159,
+  "name": "Hôtel Maimuna Capé",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 160,
+  "name": "Centro Artístico Juvenil",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 161,
+  "name": "Farim",
+  "Address": "Unnamed Road, Bafatá, Guinea-Bissau",
+  "phone": "+245955201838"
+ },
+ {
+  "id": 162,
+  "name": "Old Market",
+  "Address": "Fulacunda, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 163,
+  "name": "Fort São José da Amura",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 164,
+  "name": "Sao Domingos",
+  "Address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
+  "phone": "+245955494435"
+ },
+ {
+  "id": 165,
+  "name": "Hotel karsa",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 166,
+  "name": "Hotel Vision",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 167,
+  "name": "Hotel CARSA",
+  "Address": "Rua de Gabú, Gabú, Guinea-Bissau",
+  "phone": "+245955195050"
+ },
+ {
+  "id": 168,
+  "name": "Apart Hotel Fado",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": "+245966305303"
+ },
+ {
+  "id": 169,
+  "name": "Hotel Karca",
+  "Address": "Unnamed Road, Gabú, Gabú, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 170,
+  "name": "Hotel Hobbe",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 171,
+  "name": "Hotel HBC",
+  "Address": "Unnamed Road, Gabú, Guinea-Bissau",
+  "phone": "+245956260469"
+ },
+ {
+  "id": 172,
+  "name": "Restraunt CIJ",
+  "Address": "Bafatá, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 173,
+  "name": "Hotel HBC",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 174,
+  "name": "Restaurante Palma D Ouro",
+  "Address": "Sintchan yomba Guinée.bissau région gabu setor, Sonaco, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 175,
+  "name": "Gabu",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": "+245966305303"
+ },
+ {
+  "id": 176,
+  "name": "Restaurante Mana Iva E Braima Zinho",
+  "Address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
+  "phone": "+245956191428"
+ },
+ {
+  "id": 177,
+  "name": "Gabu",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 178,
+  "name": "Auberge Luzerne Ogo 3643768",
+  "Address": "Gabú, Guinea-Bissau",
+  "phone": "+245966241286"
+ },
+ {
+  "id": 179,
+  "name": "Gabu",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 180,
+  "name": "Makasutu",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 181,
+  "name": "Aparthotel Bagabaga Gemia",
+  "Address": "Canchungo, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 182,
+  "name": "Aparthotel Napalach",
+  "Address": "GW, Rua, Cacheu 1000, Guinea-Bissau",
+  "phone": "+245956233715"
+ },
+ {
+  "id": 183,
+  "name": "Villa Sol",
+  "Address": "São Domingos, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 184,
+  "name": "Hotel Baruju Ka Sabi",
+  "Address": "Canchungo, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 185,
+  "name": "A part Hotel Baga Baga Gémea",
+  "Address": "GW, Avenida Francisco Mendes, 12 1100, Guinea-Bissau",
+  "phone": "+245956053270"
+ },
+ {
+  "id": 186,
+  "name": "Casa Cacheu low cost lodje",
+  "Address": "Canchungo, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 187,
+  "name": "Nô Apartamento",
+  "Address": "Unnamed Road, São Domingos, Guinea-Bissau",
+  "phone": "+245966642205"
+ },
+ {
+  "id": 188,
+  "name": "Hotel Pereira",
+  "Address": "Rua Titina Sina, Canchungo, Guinea-Bissau",
+  "phone": "+245955597613"
+ },
+ {
+  "id": 189,
+  "name": "Aparthotel Amazônia",
+  "Address": "Bairro Pindingulo, Canchungo, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 190,
+  "name": "Monaco hôtel",
+  "Address": "Bairro novo, Canchungo, Guinea-Bissau",
+  "phone": "+245955974888"
+ },
+ {
+  "id": 191,
+  "name": "Hotel Le Walkunda",
+  "Address": "Bario Ajuda, Manel Yago GW, Bissau 1100, Guinea-Bissau",
+  "phone": "+245966396099"
+ },
+ {
+  "id": 192,
+  "name": "LA CASA MANDELA",
+  "Address": "Canchungo, Guinea-Bissau",
+  "phone": "+245955234587"
+ },
+ {
+  "id": 193,
+  "name": "cap bay",
+  "Address": "São, Domingos, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 194,
+  "name": "Résidence Adiamat",
+  "Address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
+  "phone": "+245955803000"
+ },
+ {
+  "id": 195,
+  "name": "Cacheu",
+  "Address": "São Domingos, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 196,
+  "name": "Restaurant Moussa",
+  "Address": "Unnamed Road, Canchungo, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 197,
+  "name": "La Kaz A Jo",
+  "Address": "São Domingos, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 198,
+  "name": "Parc national de Basse Casamance",
+  "Address": "Fulacunda, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 199,
+  "name": "Sao Domingos",
+  "Address": "Cacheu, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 200,
+  "name": "Aparthotel Bagabaga Gemia",
+  "Address": "Bairro novo, Canchungo, Guinea-Bissau",
+  "phone": "+245955974888"
+ },
+ {
+  "id": 201,
+  "name": "Hotel e Restaurante Mar Azul",
+  "Address": "30000, Quinhámel, Guinea-Bissau",
+  "phone": "+245955156467"
+ },
+ {
+  "id": 202,
+  "name": "Casa Canchungo",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 203,
+  "name": "Canghungo",
+  "Address": "Unnamed Road, Canchungo, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 204,
+  "name": "Canchungo",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": "+245955318277"
+ },
+ {
+  "id": 205,
+  "name": "Cufada Lagoons Natural Park",
+  "Address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 206,
+  "name": "Centro Artístico Juvenil",
+  "Address": "Bissau, Guinea-Bissau",
+  "phone": ""
+ },
+ {
+  "id": 207,
+  "name": "Cacheu",
+  "Address": "Fulacunda, Guinea-Bissau",
+  "phone": ""
+ }
 ]

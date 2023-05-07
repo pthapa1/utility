@@ -1,3678 +1,4490 @@
 [
-  {
-    "name": "Protea by Marriott Hotel Blantyre Ryalls",
-    "address": "Off Chilomoni Ring Road, Namiwawa, Blantyre, Blantyre, Malawi",
-    "phone": "+265993400400"
-  },
-  {
-    "name": "Amaryllis Hotels",
-    "address": "Kabula Hill, Blantyre, Malawi",
-    "phone": "+265996963110"
-  },
-  {
-    "name": "Sunbird Mount Soche",
-    "address": "Malawi, Blantyre, MW 布兰太尔 Kasungu Crescent Road, Chichiri CC1298Chichiri(Adjacent to Blantyre City Assembly",
-    "phone": "+265885999911"
-  },
-  {
-    "name": "Malawi Sun Hotel",
-    "address": "Laws Rd, Blantyre, Malawi",
-    "phone": "+265994833833"
-  },
-  {
-    "name": "InstaHomes by Tru - Garden Suites",
-    "address": "2 Hanover Ave, Blantyre, Malawi",
-    "phone": "+265999971023"
-  },
-  {
-    "name": "Crossroads Hotel, Blantyre",
-    "address": "28 Glyn Jones Rd, Blantyre, Malawi",
-    "phone": "+265111820588"
-  },
-  {
-    "name": "Golden Peacock Hotel Blantyre",
-    "address": "17 Mchonya Road, Blantyre, Malawi",
-    "phone": "+265887081246"
-  },
-  {
-    "name": "Casa Mia Lodge & Restaurant",
-    "address": "5 Robins Road, Blantyre, Malawi",
-    "phone": "+2651830069"
-  },
-  {
-    "name": "Serendib Suites & Conference Centre Hotel",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651828441"
-  },
-  {
-    "name": "Annie's Lodge Blantyre",
-    "address": "Brereton, Blantyre, Malawi",
-    "phone": "+265991127927"
-  },
-  {
-    "name": "Heritage Hotel by Serendib",
-    "address": "Chileka Airport Road, Chileka, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Crossroads Hotel Blantyre",
-    "address": "M2, Namadzi, Malawi",
-    "phone": "+265999271274"
-  },
-  {
-    "name": "The Leslie",
-    "address": "22kms from Blantyre to Lilongwe, M1, Blantyre, Malawi",
-    "phone": "+265982796000"
-  },
-  {
-    "name": "Chinyonga Guest House",
-    "address": "Chikwawa Road, Chikwawa, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kris Star Lodge",
-    "address": "Kameza Roundabout Near Chileka airport, Blantyre, Malawi",
-    "phone": "+265999647993"
-  },
-  {
-    "name": "Mount Pleasant Inn",
-    "address": "Chileka Road, Chileka, Malawi",
-    "phone": "+265888326346"
-  },
-  {
-    "name": "Blue Lagoon Lodge Blantyre",
-    "address": "232 Chikwawa, Chikwawa, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kris Star Lodge",
-    "address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "Top Lodge",
-    "address": "McDonald Road, Close to Limbe Church, Mpingwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Delight Lodge -Malawi",
-    "address": "Zomba Road, Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "Sweet Home Lodge",
-    "address": "Blantyre-Machingiri Road, Blantyre, Malawi",
-    "phone": "+265885105127"
-  },
-  {
-    "name": "Danga Bed and Breakfast",
-    "address": "Mbame Estate, Mirale, M1 Chikwawa Road, Blantyre Rural, Malawi",
-    "phone": "+265888836753"
-  },
-  {
-    "name": "Sunnyside Inn",
-    "address": "Unnamed Road, Blantyre, Malawi",
-    "phone": "+265995274170"
-  },
-  {
-    "name": "Milestones Lodge",
-    "address": "Likubula Road, Blantyre, Malawi",
-    "phone": "+265888532865"
-  },
-  {
-    "name": "Cherrywood Estate",
-    "address": "Machinjiri Road, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Crossroads Hotel And Mall",
-    "address": "Blantyre, Malawi",
-    "phone": "+265111983799"
-  },
-  {
-    "name": "hostellerie de france",
-    "address": "Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "Game Haven Lodge",
-    "address": "M3, Blantyre, Malawi",
-    "phone": "+265996999922"
-  },
-  {
-    "name": "Alendo Hotel",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "InstaHomes by Tru - Villa",
-    "address": "Blantyre, Malawi",
-    "phone": "+265881845128"
-  },
-  {
-    "name": "Palm Valley Lodge",
-    "address": "BE 12, Stephen, Blantyre, Malawi",
-    "phone": "+265888899181"
-  },
-  { "name": "Home Up", "address": "Blantyre, Malawi", "phone": null },
-  {
-    "name": "Blantyre Lodge",
-    "address": "Wright Road, Blantyre, Malawi",
-    "phone": "+265991349643"
-  },
-  {
-    "name": "Chez Maky (hotel and restaraunt)",
-    "address": "Glynn Jones Rd, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mo & Mic Lodge",
-    "address": "Lunzu, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Dorvic Hotel",
-    "address": "St Columba, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kabula Lodge",
-    "address": "P.O Box 1028, Blantyre, Malawi",
-    "phone": "+265885261618"
-  },
-  {
-    "name": "Mijn Kitchen",
-    "address": "Lunzu Road, Nyambadwe, Malawi",
-    "phone": "+265886396281"
-  },
-  {
-    "name": "Ruby's Guest House Nyambadwe",
-    "address": "Chileka Road, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Cletus House",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Home Up Guest Apartments and Lodge",
-    "address": "Viphya Avenue, Chigumula, Limbe, Blantyre, Malawi",
-    "phone": "+265990223020"
-  },
-  {
-    "name": "Goldcard Executive Lodge",
-    "address": "Chigumula Close, Blantyre, Malawi",
-    "phone": "+265881355142"
-  },
-  {
-    "name": "Pedros Lodge",
-    "address": "Unnamed Road, Blantyre, Malawi",
-    "phone": "+265883907555"
-  },
-  {
-    "name": "Catalina Lodge and Botanical Gardens Malawi",
-    "address": "Kanjedza Road, Blantyre, Malawi",
-    "phone": "+265991686339"
-  },
-  {
-    "name": "Chilembwe Lodge",
-    "address": "CHILEKA ROAD P.O BOX 413, Blantyre, Malawi",
-    "phone": "+265888894575"
-  },
-  {
-    "name": "Monarchy Square",
-    "address": "2 Central Avenue, Blantyre, Malawi",
-    "phone": "+265995896014"
-  },
-  {
-    "name": "DMS Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Travelodge",
-    "address": "Victoria aven m1 malawi Ci opposite Southend school, Blantyre, Malawi",
-    "phone": "+265998851096"
-  },
-  {
-    "name": "Village Green",
-    "address": "Lali Lubani, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Lodge Mungo",
-    "address": "Blantyre, Malawi",
-    "phone": "+265881162769"
-  },
-  {
-    "name": "Grace Bandawe Hostel",
-    "address": "M1, Blantyre, Malawi",
-    "phone": "+265997299170"
-  },
-  {
-    "name": "Felicity Suites",
-    "address": "Buhanan, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "GRACE BANDAWE CONFERENCE CENTRE",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Grand Suites - Kanjedza",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Rigra Lodge",
-    "address": "Off, Forbes Road, Blantyre, Malawi",
-    "phone": "+265881969908"
-  },
-  {
-    "name": "Perk Premier Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651833430"
-  },
-  {
-    "name": "Baobab Backpackers Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": "+265998530830"
-  },
-  {
-    "name": "New Nkhwazi Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": "+265999981937"
-  },
-  {
-    "name": "Mkango Hotel & Conference Centre",
-    "address": "Saunders Rd, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Bonifant Lodge",
-    "address": "15°44'59.9\"S 35°00'17., M 3, Blantyre, Malawi",
-    "phone": "15445993500173"
-  },
-  {
-    "name": "Morning Up Lodge",
-    "address": "Hardman Road, Blantyre, Malawi",
-    "phone": "+265991391501"
-  },
-  {
-    "name": "Nkomadzi Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": "+265885413444"
-  },
-  {
-    "name": "Maoni Guest House",
-    "address": "Sunnyside Lodge, Blantyre, Malawi",
-    "phone": "+2651833764"
-  },
-  {
-    "name": "Malawi tourism",
-    "address": "Southend, Blantyre, Blantyre, Malawi",
-    "phone": "+265998530830"
-  },
-  {
-    "name": "14 Mombo",
-    "address": "Blantyre, Malawi",
-    "phone": "+265880713161"
-  },
-  {
-    "name": "Hills Country House",
-    "address": "Nyambadwe Crescent, Blantyre, Malawi",
-    "phone": "+265887081246"
-  },
-  {
-    "name": "Kwacha Cabana",
-    "address": "11 Majete Road, Blantyre, Malawi",
-    "phone": "+265995600213"
-  },
-  {
-    "name": "Soche tourist lodge",
-    "address": "Thyolo Road, Chigumula, Malawi",
-    "phone": "+265882558255"
-  },
-  {
-    "name": "Heritage by Serendib",
-    "address": "Blantyre, Malawi",
-    "phone": "+265995821866"
-  },
-  {
-    "name": "Rubys Guesthouse",
-    "address": "T417 Near Bvumbwe Research Station, Chigumula, Malawi",
-    "phone": "+265999971286"
-  },
-  {
-    "name": "The White Premier Lodge",
-    "address": "Chilomoni Ring Road, Blantyre, Malawi",
-    "phone": "+265888833586"
-  },
-  {
-    "name": "Lissah Hill View Lodge",
-    "address": "Chileka Road, Chileka, Malawi",
-    "phone": "+265992465757"
-  },
-  {
-    "name": "Dika Hotel",
-    "address": "Mandala, Blantyre, Malawi",
-    "phone": "+265888887772"
-  },
-  {
-    "name": "Danga Bed & Breakfast",
-    "address": "Magalasi Road, Chileka, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Motel Paradise",
-    "address": "1 Hanover Ave, Blantyre, Malawi",
-    "phone": "+2651828044"
-  },
-  {
-    "name": "Fisherman's Rest",
-    "address": "3 Smythe Road, Blantyre, Malawi",
-    "phone": "+265986921563"
-  },
-  {
-    "name": "Summerland Mapanga Lodge",
-    "address": "Clapperton road, Off, Hardman Road, Blantyre, Malawi",
-    "phone": "+265888865815"
-  },
-  {
-    "name": "Mpingwe Motel",
-    "address": "Blantyre, Malawi",
-    "phone": "+265888871872"
-  },
-  {
-    "name": "Green Valley Lodge",
-    "address": "Chigumula township, Blue Lagoon Lodge, Blantyre, Malawi",
-    "phone": "+265997463427"
-  },
-  {
-    "name": "Summerland Mapanga Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651878188"
-  },
-  {
-    "name": "Good Life Lodge",
-    "address": "Unnamed Road, Blantyre, Malawi",
-    "phone": "+2651827292"
-  },
-  {
-    "name": "The White Village Countryside Motel",
-    "address": "Chilomoni Ring Rd, Blantyre, Malawi",
-    "phone": "+265999839033"
-  },
-  {
-    "name": "Thawale Lodge",
-    "address": "Unnamed Road, Blantyre, Malawi",
-    "phone": "+2651827292"
-  },
-  {
-    "name": "Good Hope Rest House",
-    "address": "2 Leslie Rd, Box 1744, Malawi",
-    "phone": "+265999828929"
-  },
-  {
-    "name": "Bliss & Honey Conference centre",
-    "address": "35 - B Namiwawa Avenue, Blantyre, Malawi",
-    "phone": "+265996999934"
-  },
-  {
-    "name": "Indaba Executive Lodge",
-    "address": "Kabula Hill, Blantyre, Malawi",
-    "phone": "+2651828444"
-  },
-  {
-    "name": "Vasco Milinyu Lodge",
-    "address": "Lower Scater, Blantyre, Malawi",
-    "phone": "+2651823500"
-  },
-  {
-    "name": "Midway Lodge",
-    "address": "Milward Road, Blantyre, Malawi",
-    "phone": "+265996999922"
-  },
-  {
-    "name": "Carrigan's Blantyre",
-    "address": "242 Glasgow Rd, Blantyre, Glasgow G72 0AB, United Kingdom",
-    "phone": "+447426681347"
-  },
-  {
-    "name": "Red Burn Farm - Dining & Carvery",
-    "address": "Blantyre, Glasgow G72 0XG, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "The Parkville Bar Restaurant & Hotel",
-    "address": "64 Coatshill Ave, Blantyre, Glasgow G72 9LE, United Kingdom",
-    "phone": "+447464447166"
-  },
-  {
-    "name": "Devon's Kitchen",
-    "address": "14 Forrest St, Blantyre, Glasgow G72 0JP, United Kingdom",
-    "phone": "+447493997947"
-  },
-  {
-    "name": "Spice of Life",
-    "address": "296 Glasgow Rd, Blantyre, Glasgow G72 9DG, United Kingdom",
-    "phone": "+441698822861"
-  },
-  {
-    "name": "Madras Cottage",
-    "address": "3 Stonefield Rd, Blantyre, Glasgow G72 9PH, United Kingdom",
-    "phone": "+441698822115"
-  },
-  {
-    "name": "Snack Shack",
-    "address": "251 Glasgow Rd, Blantyre, Glasgow G72 0YS, United Kingdom",
-    "phone": "+441698828620"
-  },
-  {
-    "name": "Roland Fillings Blantyre",
-    "address": "2 Station Rd, Blantyre, Glasgow G72 9AB, United Kingdom",
-    "phone": "+441698823238"
-  },
-  {
-    "name": "Happy Season",
-    "address": "100 Broompark Rd, Blantyre, Glasgow G72 9RN, United Kingdom",
-    "phone": "+441698823123"
-  },
-  {
-    "name": "Stacks Cafe",
-    "address": "East Ave, Blantyre, Glasgow G72 0JB, United Kingdom",
-    "phone": "+441698822712"
-  },
-  {
-    "name": "The Cafe Blantyre Industrial Estate Top Of The Hill",
-    "address": "Bothwell, Glasgow M74, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "Agnew Sandwich Shop",
-    "address": "61 Udston Rd, Hamilton ML3 9HX, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "Shang Hai Wok",
-    "address": "8 Burnbank Rd, Hamilton ML3 9AA, United Kingdom",
-    "phone": "+441698459988"
-  },
-  {
-    "name": "Golden Sea",
-    "address": "139 Quarry St, Hamilton ML3 7DR, United Kingdom",
-    "phone": "+441698285888"
-  },
-  {
-    "name": "Lucky House",
-    "address": "26 Burnbank Rd, Hamilton ML3 9AA, United Kingdom",
-    "phone": "+441698422885"
-  },
-  {
-    "name": "Grade A Sandwiches",
-    "address": "Strathclyde Country Park, Hamilton Road, Bellshill, Motherwell ML1 3RT, United Kingdom",
-    "phone": "+441698642105"
-  },
-  {
-    "name": "Spice Club",
-    "address": "217 Hamilton Rd, Cambuslang, Glasgow G72 7PH, United Kingdom",
-    "phone": "+441413858111"
-  },
-  {
-    "name": "Gino's",
-    "address": "109 Almada St, Hamilton ML3 0EX, United Kingdom",
-    "phone": "+441698657084"
-  },
-  {
-    "name": "Sun House Chinese Takeaway",
-    "address": "154 Almada St, Hamilton ML3 0EW, United Kingdom",
-    "phone": "+441698420076"
-  },
-  {
-    "name": "Good taste",
-    "address": "Unit 2c Hallside Ct, Cambuslang, Glasgow G72 7FB, United Kingdom",
-    "phone": "+441416417170"
-  },
-  {
-    "name": "Grahams Fish & Chips",
-    "address": "3 Margaret Rd, Hamilton ML3 0LB, United Kingdom",
-    "phone": "+441698427772"
-  },
-  {
-    "name": "Club Bombay Indian Takeaway",
-    "address": "114 Main St, Uddingston, Glasgow G71 7HZ, United Kingdom",
-    "phone": "+441698812106"
-  },
-  {
-    "name": "Divito's Chip Shop Blantyre",
-    "address": "8-10 Glasgow Rd, Uddingston, Glasgow G71 7AS, United Kingdom",
-    "phone": "+441698813774"
-  },
-  {
-    "name": "Cut",
-    "address": "109 Low Waters Rd, Hamilton ML3 7QG, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "Brunch Box",
-    "address": "20 Main St, Bothwell, Glasgow G71 8RB, United Kingdom",
-    "phone": "+441698852817"
-  },
-  {
-    "name": "Shanghai Teahouse",
-    "address": "42 Gateside St, Hamilton ML3 7JQ, United Kingdom",
-    "phone": "+441698424042"
-  },
-  {
-    "name": "Riva",
-    "address": "61A Laighstonehall Rd, Hamilton ML3 8PD, United Kingdom",
-    "phone": "+441698458883"
-  },
-  {
-    "name": "Rosso",
-    "address": "18 Woodlands Ave, Bothwell, Glasgow G71 8PY, United Kingdom",
-    "phone": "+441698852777"
-  },
-  {
-    "name": "The Villa Hotel",
-    "address": "10-12 Burnbank Rd, Hamilton ML3 9AA, United Kingdom",
-    "phone": "+441698423423"
-  },
-  {
-    "name": "Leonardo's",
-    "address": "130 Quarry St, Hamilton ML3 6QS, United Kingdom",
-    "phone": "+441698458174"
-  },
-  {
-    "name": "The Kurry Lounge - Indian Restaurant Hamilton",
-    "address": "5-8 Kemp St, Hamilton ML3 6QL, United Kingdom",
-    "phone": "+441698283445"
-  },
-  {
-    "name": "Eddie's",
-    "address": "63 Laighstonehall Rd, Hamilton ML3 8PD, United Kingdom",
-    "phone": "+441698200890"
-  },
-  {
-    "name": "New Good Fortune Chinese (Delivery 5 Miles)",
-    "address": "3 Hillhouse Rd, Hamilton ML3 9TE, United Kingdom",
-    "phone": "+441698285936"
-  },
-  {
-    "name": "Crossbasket Castle",
-    "address": "45 Beckford St, Hamilton ML3 0BT, United Kingdom",
-    "phone": "+441698768686"
-  },
-  {
-    "name": "The Cricklewood",
-    "address": "257 Hamilton Rd, Cambuslang, Glasgow G72 7PH, United Kingdom",
-    "phone": "+441416412111"
-  },
-  {
-    "name": "Cafe Eataliano",
-    "address": "1-3 Main St, Bothwell, Glasgow G71 8RD, United Kingdom",
-    "phone": "+441698850888"
-  },
-  {
-    "name": "Grill & banter Cambuslang",
-    "address": "East Ave, Blantyre, Glasgow G72 0JB, United Kingdom",
-    "phone": "+441698688880"
-  },
-  {
-    "name": "Rocca Ristorante & Bar",
-    "address": "Hamilton Rd, Cambuslang, Glasgow G72 7PG, United Kingdom",
-    "phone": "+441412372090"
-  },
-  {
-    "name": "4 Seasons",
-    "address": "2 Clarkwell Rd, Hamilton ML3 9TQ, United Kingdom",
-    "phone": "+441698827777"
-  },
-  {
-    "name": "Bake N Butty",
-    "address": "Kokki, 21B Gateside St, Hamilton ML3 7HT, United Kingdom",
-    "phone": "+441698767610"
-  },
-  {
-    "name": "HAMILTON",
-    "address": "18-20 Cadzow St, Hamilton ML3 6DG, United Kingdom",
-    "phone": "+441698282603"
-  },
-  {
-    "name": "The Bombay Cottage",
-    "address": "262 Hamilton Rd, Cambuslang, Glasgow G72 7PF, United Kingdom",
-    "phone": "+441416410022"
-  },
-  {
-    "name": "GC Bar & Bistro",
-    "address": "3 Birkhall Road, Hamilton ML3 8BG, United Kingdom",
-    "phone": "+441698285990"
-  },
-  {
-    "name": "Shanghai",
-    "address": "23 Gateside St, Hamilton ML3 7HT, United Kingdom",
-    "phone": "+441698285823"
-  },
-  {
-    "name": "Bravo Fish And Chips",
-    "address": "105 Main St, Uddingston, Glasgow G71 7EW, United Kingdom",
-    "phone": "+441698801383"
-  },
-  {
-    "name": "Bombay Tandoori",
-    "address": "199 Main St, Uddingston, Glasgow G71 7BP, United Kingdom",
-    "phone": "+441698818444"
-  },
-  {
-    "name": "Equi's Restaurant & Ice Cream Parlour",
-    "address": "I C Loans Ltd, 14 Brandon St, Hamilton ML3 6AB, United Kingdom",
-    "phone": "+441698282631"
-  },
-  {
-    "name": "Beefeater Hamilton",
-    "address": "14 Burnbank Centre, Hamilton ML3 0NQ, United Kingdom",
-    "phone": "+441698282982"
-  },
-  {
-    "name": "Gusti D'Italia",
-    "address": "111 Main St, Uddingston, Glasgow G71 7EW, United Kingdom",
-    "phone": "+441414734445"
-  },
-  {
-    "name": "Hot Flame World Buffet Limited",
-    "address": "285 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": "+441698823047"
-  },
-  {
-    "name": "Pietruccio’s",
-    "address": "Unit 5, 72 Hillhouse Rd, Hamilton ML3 9TE, United Kingdom",
-    "phone": "+441698457111"
-  },
-  {
-    "name": "Marini's Fish & Chicken Bar Hamilton",
-    "address": "Strathclyde Country Park, Hamilton Rd, Bellshill, Motherwell ML1 3WB, United Kingdom",
-    "phone": "+441698854715"
-  },
-  {
-    "name": "The Lantern",
-    "address": "37 Burnbank Rd, Hamilton ML3 9AQ, United Kingdom",
-    "phone": "+441698283967"
-  },
-  {
-    "name": "The Chapterhouse Cafe",
-    "address": "2 Silverwells Cres, Bothwell, Glasgow G71 8SE, United Kingdom",
-    "phone": "+441698852722"
-  },
-  {
-    "name": "Oozi's German Donner and Desserts",
-    "address": "20 Bothwell Rd, Hamilton ML3 0AY, United Kingdom",
-    "phone": "+441698477729"
-  },
-  {
-    "name": "Allanshaw Kitchen Snack Box, Hamilton",
-    "address": "17-21 Campbell St, Hamilton ML3 6AS, United Kingdom",
-    "phone": "+441698767900"
-  },
-  {
-    "name": "Marini's",
-    "address": "Allanshaw Industrial Estate Wellhall Rd, 1 Peacock Dr, Hamilton ML3 9FJ, United Kingdom",
-    "phone": "+447713476219"
-  },
-  {
-    "name": "Stefano's Italian Restaurant",
-    "address": "Purdie St, Hamilton ML3 0NF, United Kingdom",
-    "phone": "+441698284277"
-  },
-  {
-    "name": "Daluciano",
-    "address": "84 Main St, Uddingston, Glasgow G71 7LR, United Kingdom",
-    "phone": "+441698816000"
-  },
-  {
-    "name": "Spice Indian Cuisine",
-    "address": "87 Main St, Bothwell, Glasgow G71 8ER, United Kingdom",
-    "phone": "+441698852330"
-  },
-  {
-    "name": "Korner Express",
-    "address": "245 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": "+441698644611"
-  },
-  {
-    "name": "Toby Carvery Strathclyde Park",
-    "address": "58 Alloway Rd, East Kilbride, Glasgow G74 3SD, United Kingdom",
-    "phone": "+441355232068"
-  },
-  {
-    "name": "Twenty One Restaurant",
-    "address": "4 D, Auchingramont Rd, Hamilton ML3 6JT, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "The Manzil",
-    "address": "125 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": "+441698284277"
-  },
-  {
-    "name": "Boh’ cucina",
-    "address": "54 Main St, Bothwell, Glasgow G71 8EX, United Kingdom",
-    "phone": "+441698858566"
-  },
-  {
-    "name": "Spicy Cottage",
-    "address": "30 Campbell St, Hamilton ML3 6AS, United Kingdom",
-    "phone": "+441698540665"
-  },
-  {
-    "name": "Divitos Fish & Chips Burnbank",
-    "address": "2C Hallside Ct, Cambuslang, Glasgow G72 7FB, United Kingdom",
-    "phone": "+441416429459"
-  },
-  {
-    "name": "SmithS Restaurant",
-    "address": "255 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": "+441698712288"
-  },
-  {
-    "name": "Tinto Tapas",
-    "address": "13 Townhead St, Hamilton ML3 7BQ, United Kingdom",
-    "phone": "+441698423950"
-  },
-  {
-    "name": "Jilts Bar",
-    "address": "Townhead St, Hamilton ML3 7BL, United Kingdom",
-    "phone": "+441698756084"
-  },
-  {
-    "name": "Carrigan's Hamilton",
-    "address": "12 Clarkwell Rd, Hamilton ML3 9TQ, United Kingdom",
-    "phone": "+441698828000"
-  },
-  {
-    "name": "Bombay Kitchen",
-    "address": "253 Glasgow Rd, Burnbank Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": "+441698828851"
-  },
-  {
-    "name": "Amran Tandoori",
-    "address": "277a Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "Amran Tandoori",
-    "address": "1-2 Lower Auchingramont Rd, Hamilton ML3 6HW, United Kingdom",
-    "phone": "+441698767050"
-  },
-  {
-    "name": "Gurkha Buffet Cambuslang",
-    "address": "204 Hillhouse Rd, Hillhouse, Hamilton ML3 9NS, United Kingdom",
-    "phone": "+447763233199"
-  },
-  {
-    "name": "Kokki, Contemporary Sushi",
-    "address": "4 Lower Auchingramont Rd, Hamilton ML3 6HW, United Kingdom",
-    "phone": "+441698286957"
-  },
-  {
-    "name": "Jade Palace Restaurant",
-    "address": "31 Bothwell Rd, Hamilton ML3 0AS, United Kingdom",
-    "phone": "+441698283848"
-  },
-  {
-    "name": "Camphill Vaults",
-    "address": "113 Cadzow St, Hamilton ML3 6HN, United Kingdom",
-    "phone": "+441698200502"
-  },
-  {
-    "name": "Snack Shack Spices",
-    "address": "284 Hamilton Rd, Cambuslang, Glasgow G72 7PG, United Kingdom",
-    "phone": "+441412372090"
-  },
-  {
-    "name": "Kerrusts",
-    "address": "55 Almada St, Hamilton ML3 0HQ, United Kingdom",
-    "phone": "+441698427333"
-  },
-  {
-    "name": "Shell",
-    "address": "Crossbasket Castle, Stoneymeadow Rd, East Kilbride, Glasgow G72 9UE, United Kingdom",
-    "phone": "+441698829461"
-  },
-  {
-    "name": "Golden Sea",
-    "address": "58 High Blantyre Rd, Hamilton ML3 9HA, United Kingdom",
-    "phone": "+441698713233"
-  },
-  {
-    "name": "Italian Feast",
-    "address": "263 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
-    "phone": "+441698821155"
-  },
-  {
-    "name": "Yee Hong Restaurant",
-    "address": "78 Brandon St, Hamilton ML3 6AB, United Kingdom",
-    "phone": "+441698284090"
-  },
-  {
-    "name": "Fat Yankees",
-    "address": "4 Barrack St, Hamilton ML3 0DG, United Kingdom",
-    "phone": "+441698284379"
-  },
-  {
-    "name": "Hungry Joe’s",
-    "address": "49-51 Burnbank Rd, Hamilton ML3 9AQ, United Kingdom",
-    "phone": "+441698891777"
-  },
-  {
-    "name": "Masala Takeaway",
-    "address": "25 Main St, Bothwell, Glasgow G71 8RD, United Kingdom",
-    "phone": "+441698850999"
-  },
-  {
-    "name": "Lucky View",
-    "address": "1 Main St, Bothwell, Glasgow G71 8RD, United Kingdom",
-    "phone": "+441698850888"
-  },
-  {
-    "name": "Monterey Jacks",
-    "address": "1 Old Mill Rd, Bothwell, Glasgow G71 8AY, United Kingdom",
-    "phone": "+441698850412"
-  },
-  {
-    "name": "Simply Salads",
-    "address": "54 High Blantyre Rd, Hamilton ML3 9HA, United Kingdom",
-    "phone": "+441698827594"
-  },
-  {
-    "name": "Redstones",
-    "address": "Unit 22 Whistleberry Investment, Blantyre, Hamilton ML3 0ED, United Kingdom",
-    "phone": "+441698652030"
-  },
-  {
-    "name": "Jasmine Takeaway",
-    "address": "487 Glasgow Rd, Blantyre, Glasgow G72 9HP, United Kingdom",
-    "phone": "+441698710145"
-  },
-  {
-    "name": "Golden Leaf",
-    "address": "34 Hamilton Rd, Bothwell, Glasgow G71 8NB, United Kingdom",
-    "phone": "+441698451896"
-  },
-  {
-    "name": "Angels Hotel Bar & Restaurant",
-    "address": "250 Glasgow Rd, Blantyre, Glasgow G72 0AB, United Kingdom",
-    "phone": "+441698327130"
-  },
-  {
-    "name": "Grill & Kebab House",
-    "address": "256 Glasgow Rd, Blantyre, Glasgow G72 0YH, United Kingdom",
-    "phone": "+441698822922"
-  },
-  {
-    "name": "The Hungry Gannet",
-    "address": "253 Glasgow Rd, Blantyre, Glasgow G72 0YS, United Kingdom",
-    "phone": "+441698828988"
-  },
-  {
-    "name": "Piri Chico's",
-    "address": "272 Main St, Blantyre, Glasgow G72 0DH, United Kingdom",
-    "phone": "+441698327131"
-  },
-  {
-    "name": "Forges Line Bar",
-    "address": "250 Main St, Blantyre, Glasgow G72 0DH, United Kingdom",
-    "phone": "+441698723822"
-  },
-  {
-    "name": "Mushtaqs",
-    "address": "256 Main St, Blantyre, Glasgow G72 0DH, United Kingdom",
-    "phone": "+441698825181"
-  },
-  {
-    "name": "Regent Shopping Centre",
-    "address": "M2, Blantyre, Malawi",
-    "phone": "+265999406786"
-  },
-  {
-    "name": "New Cross Centre",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651879667"
-  },
-  {
-    "name": "B&M Home Store with Garden Centre",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Motherwell Shopping Centre",
-    "address": "Whistleberry Retail Park, Blantyre, Glasgow G72 0TH, United Kingdom",
-    "phone": "+448004332274"
-  },
-  {
-    "name": "Cash4Clothes",
-    "address": "Unit 3, Ochil View Court, Blantyre, Lanarkshire G72 0TH, United Kingdom",
-    "phone": "+443308389499"
-  },
-  {
-    "name": "MALIDA SHOPPING CENTER",
-    "address": "New cross Shopping centre, Hamilton ML3 6AH, United Kingdom",
-    "phone": "+441698459296"
-  },
-  {
-    "name": "Pamodzi Shopping Centre",
-    "address": "Brandon Parade South, 28 Brandon Parade S, Motherwell ML1 1RB, United Kingdom",
-    "phone": "+441698265608"
-  },
-  {
-    "name": "China Shopping Centre",
-    "address": "Regent Way, Regent Shopping Centre, Hamilton ML3 7DZ, United Kingdom",
-    "phone": "+441698285947"
-  },
-  {
-    "name": "Mall of Africa",
-    "address": "165 Station Rd, Blantyre, Glasgow G72 9BY, United Kingdom",
-    "phone": "+441413753105"
-  },
-  {
-    "name": "David Livingstone Birthplace",
-    "address": "Livingstone Ave, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pacific Plaza Limbe",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Terminal One Youth Centre",
-    "address": "Livingstone Ave, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Blantyre Library",
-    "address": "Blantyre, Glasgow G72 0JS, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "Pacific Plaza under Sgw Auctioneers",
-    "address": "Blantyre, Malawi",
-    "phone": "+265212326999"
-  },
-  {
-    "name": "Pacific Plaza Market under SGW Auctioneers and Estate Agents",
-    "address": "Blantyre, Malawi",
-    "phone": "+265997639330"
-  },
-  {
-    "name": "Greenhall Country Cafe & Farm Shop",
-    "address": "5 Clyde View Shopping Centre, Blantyre, Glasgow G72 0QD, United Kingdom",
-    "phone": "+441698824365"
-  },
-  {
-    "name": "Optical Express Cataract Surgery & Opticians: Blantyre",
-    "address": "JAK Arcade, Blantyre, Malawi",
-    "phone": "+265211326999"
-  },
-  {
-    "name": "Blantyre Sports Centre",
-    "address": "Hamilton Rd, Blantyre, Glasgow G72 9UD, United Kingdom",
-    "phone": "+441698825598"
-  },
-  {
-    "name": "YUNUR GENERAL TRADING",
-    "address": "Clydeview Shopping Center, 1A Glasgow Rd, Glasgow G72 0QD, United Kingdom",
-    "phone": "+441698823808"
-  },
-  {
-    "name": "Rahima Mall",
-    "address": "Blantyre, Malawi",
-    "phone": "+265884050067"
-  },
-  {
-    "name": "Cyenet Business Centre",
-    "address": "9-11 Logan St, Blantyre, Glasgow G72 0NT, United Kingdom",
-    "phone": "+441698829455"
-  },
-  {
-    "name": "Museum of Malawi",
-    "address": "Behind Wenela Bus Terminal, Blantyre, Malawi",
-    "phone": "+265999569272"
-  },
-  {
-    "name": "Nyasa Adventures",
-    "address": "31 John, Chilembwe Rd, Blantyre, Malawi",
-    "phone": "+265997612297"
-  },
-  {
-    "name": "Majete Wildlife Reserve",
-    "address": "Maganga, Malawi",
-    "phone": null
-  },
-  {
-    "name": "KwaHaraba Art Gallery and Cafe",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "La Caverna",
-    "address": "Blantyre, Malawi",
-    "phone": "+265993801564"
-  },
-  {
-    "name": "Mount Soche",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651873258"
-  },
-  {
-    "name": "Michiru Mountain",
-    "address": "Old Manager’s House National Monument Kaohsiung Road Top, Blantyre, Malawi",
-    "phone": "+265999911781"
-  },
-  {
-    "name": "Liwonde National Park Main Entrance Gate",
-    "address": "Castle Ave, Uddingston, Bothwell, Glasgow G71 8BL, United Kingdom",
-    "phone": "+441698816894"
-  },
-  {
-    "name": "Mulanje Mountain",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "David Livingstone Birthplace",
-    "address": "Priory, Blantyre, Glasgow G72 9UQ, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "H S Winehouse",
-    "address": "Glasgow Rd, Strathaven ML10 6LZ, United Kingdom",
-    "phone": "+441494421417"
-  },
-  {
-    "name": "Chilomoni",
-    "address": "Stadium Road, Blantyre, Malawi",
-    "phone": "+265983705154"
-  },
-  {
-    "name": "Redlees Urban Park",
-    "address": "Dalzell Burn,, Motherwell, United Kingdom",
-    "phone": "+441698402090"
-  },
-  {
-    "name": "St.Michael's and All Angels Church",
-    "address": "Leslie Road, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Blantyre",
-    "address": "2 Glenburn Rd, East Kilbride, Glasgow G74 5BA, United Kingdom",
-    "phone": "+441355223622"
-  },
-  {
-    "name": "The Society of Malawi Library",
-    "address": "Langlands Square, East Kilbride, Glasgow G75 0YY, United Kingdom",
-    "phone": null
-  },
-  {
-    "name": "Lilongwe Wildlife Centre",
-    "address": "Wester Kittochside Philipshill Road East Kilbride, Glasgow G76 9HR, United Kingdom",
-    "phone": "+443001236789"
-  },
-  {
-    "name": "Chikapa Catholic Church",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Millie's Artisan Bakery",
-    "address": "Off Chilomoni Ring Road, Namiwawa, Blantyre, Blantyre, Malawi",
-    "phone": "+265993400400"
-  },
-  {
-    "name": "Anchors Lounge",
-    "address": "M2, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Sunbird Mount Soche",
-    "address": "Chigumula township, Blue Lagoon Lodge, Blantyre, Malawi",
-    "phone": "+265997463427"
-  },
-  {
-    "name": "Orbis DMC",
-    "address": "Lower Scater, Blantyre, Malawi",
-    "phone": "+2651823500"
-  },
-  {
-    "name": "Anna's Car Rental",
-    "address": "Sunnyside Lodge, Blantyre, Malawi",
-    "phone": "+2651833764"
-  },
-  {
-    "name": "Tiyamike Sewing",
-    "address": "Stewartfield Way, East Kilbride, Glasgow G74 5LB, United Kingdom",
-    "phone": "+441355276611"
-  },
-  {
-    "name": "Protea by Marriott Hotel Blantyre Ryalls",
-    "address": "Malawi, Blantyre, MW 布兰太尔 Kasungu Crescent Road, Chichiri CC1298Chichiri(Adjacent to Blantyre City Assembly",
-    "phone": "+265885999911"
-  },
-  {
-    "name": "Amaryllis Hotels",
-    "address": "T417 Near Bvumbwe Research Station, Chigumula, Malawi",
-    "phone": "+265999971286"
-  },
-  {
-    "name": "Heritage Hotel by Serendib",
-    "address": "Blantyre, Malawi",
-    "phone": "+265885413444"
-  },
-  {
-    "name": "Game Stores",
-    "address": "Chilomoni Ring Road, Blantyre, Malawi",
-    "phone": "+265888833586"
-  },
-  {
-    "name": "Sky Lounge Bar",
-    "address": "1 Hanover Ave, Blantyre, Malawi",
-    "phone": "+2651828044"
-  },
-  {
-    "name": "hostellerie de france",
-    "address": "6 Ring Road, Blantyre, Malawi",
-    "phone": "+265992505283"
-  },
-  {
-    "name": "Crossroads Hotel And Mall",
-    "address": "20 Glynn Jones Rd, Blantyre, Malawi",
-    "phone": "+265887240000"
-  },
-  {
-    "name": "Shire Eco Safari Camp",
-    "address": "Balaka, Malawi",
-    "phone": "+265882948486"
-  },
-  {
-    "name": "Le Croissant",
-    "address": "M3, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "SS RENT A CAR",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651870182"
-  },
-  {
-    "name": "Mijn Kitchen",
-    "address": "Milward Road, Blantyre, Malawi",
-    "phone": "+265996999922"
-  },
-  {
-    "name": "Game Haven Lodge",
-    "address": "Laws Rd, Blantyre, Malawi",
-    "phone": "+265994833833"
-  },
-  {
-    "name": "Golden Peacock Hotel Blantyre",
-    "address": "2 Hanover Ave, Blantyre, Malawi",
-    "phone": "+265999971023"
-  },
-  {
-    "name": "James Hamilton Heritage Park",
-    "address": "14 Kidney Crescent, Blantyre, Malawi",
-    "phone": "+265999268571"
-  },
-  {
-    "name": "Wenela Bus Station",
-    "address": "Top Mandala, The Travel Barn, Blantyre, Malawi",
-    "phone": "+265999306631"
-  },
-  {
-    "name": "Hotel Victoria",
-    "address": "Blantyre, Malawi",
-    "phone": "+265999959399"
-  },
-  {
-    "name": "Blue Lagoon Lodge Blantyre",
-    "address": "Blantyre, Malawi",
-    "phone": "+265888128468"
-  },
-  {
-    "name": "Chipiku Plus Blantyre",
-    "address": "28 Glyn Jones Rd, Blantyre, Malawi",
-    "phone": "+265111820588"
-  },
-  {
-    "name": "Petroda Clock Tower Filling Station",
-    "address": "Victoria Ave, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Serendib Suites & Conference Centre Hotel",
-    "address": "Plastico Industry, 8 Kidney Crescent, Blantyre, Malawi",
-    "phone": "+265995326234"
-  },
-  {
-    "name": "National Museum of Rural Life",
-    "address": "Kenyatta, Lilongwe, Malawi",
-    "phone": "+265881788999"
-  },
-  {
-    "name": "Langlands Moss Local Nature Reserve",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chinyonga Guest House",
-    "address": "Mandala, Mandala House, Blantyre, Malawi",
-    "phone": "+2651872617"
-  },
-  {
-    "name": "Dalzell Estate",
-    "address": "Kidney Crescent, Blantyre, Malawi",
-    "phone": "+265999202322"
-  },
-  {
-    "name": "Wonder World Soft Play East Kilbride",
-    "address": "Sokota Road, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kaya Lounge",
-    "address": "Blantyre Farm Rd, Glasgow G72 9UN, United Kingdom",
-    "phone": "+441416417080"
-  },
-  {
-    "name": "Chikwawa",
-    "address": "Blantyre, Malawi",
-    "phone": "+265994646696"
-  },
-  {
-    "name": "Strathaven Park",
-    "address": "165 Station Rd, Blantyre, Glasgow G72 9BY, United Kingdom",
-    "phone": "+441413753105"
-  },
-  {
-    "name": "Blantyre Priory Carvings",
-    "address": "Mulanje, Malawi",
-    "phone": null
-  },
-  {
-    "name": "bearing centre (A.R. Ismail) - Head Office.",
-    "address": "Liwonde, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Umodzi Park Hotel",
-    "address": "43/2/58, Mphonongo, Lilongwe, Malawi",
-    "phone": "+265999975959"
-  },
-  {
-    "name": "Latitude 13 Degrees",
-    "address": "Chilembwe, Lilongwe, Malawi",
-    "phone": "+265111773388"
-  },
-  {
-    "name": "Sunbird Capital Hotel",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265993281760"
-  },
-  {
-    "name": "Sunbird Lilongwe",
-    "address": "Kamuzu Processsion Rd, Lilongwe, Malawi",
-    "phone": "+2651750333"
-  },
-  {
-    "name": "Riverside Hotel & Conference Centre",
-    "address": "Kamuzu Procession Rd, Lilongwe, Malawi",
-    "phone": "+265111756333"
-  },
-  {
-    "name": "Lalibela Boutique Hotel",
-    "address": "Chilembwe, Lilongwe, Malawi",
-    "phone": "+2651789888"
-  },
-  {
-    "name": "Bridgeview Hotel And Conference Centre",
-    "address": "New, Lilongwe, Malawi",
-    "phone": "+265888608771"
-  },
-  {
-    "name": "Annavilla7 Lilongwe Aparthotel",
-    "address": "PAUL KAGAME ROAD, NEAR LINGADZI INN, AREA 32, Lilongwe, Malawi",
-    "phone": "+265992771914"
-  },
-  {
-    "name": "Bamboo Boutique Hotel",
-    "address": "M1, Lilongwe, Malawi",
-    "phone": "+265999839666"
-  },
-  {
-    "name": "Tranquilo Resorts Limited - Lilongwe (Area 10)",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "chilambula lodge",
-    "address": "Nkhamenya Drive - Area 47/4/909, Lilongwe, Malawi",
-    "phone": "+265991825099"
-  },
-  {
-    "name": "Simama Hotel",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Thumbi View - Mabuya Camp",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Ad Lib Executive Lodge",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265995642298"
-  },
-  {
-    "name": "BURLEY HOUSE GUEST HOUSE",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265999481722"
-  },
-  {
-    "name": "Sheila's Lodge",
-    "address": "Budget lodge house, Area 3 market, Lilongwe, Malawi",
-    "phone": "+2651753180"
-  },
-  {
-    "name": "Lonjeta Self-Catering Apartments",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nellys Guest House",
-    "address": "43/2/183 Blantyre Street | Area 43, Lilongwe, Malawi, Area 43, Malawi",
-    "phone": "4321834343"
-  },
-  {
-    "name": "Nellys Guest House",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Barefoot Lodge and Safaris",
-    "address": "Area 47 Glorious Temple, Lilongwe, Malawi",
-    "phone": "+2651762843"
-  },
-  {
-    "name": "Walinase Lodge and Holiday Apartments",
-    "address": "109 Keppel Compton, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Cherries Egul Lodge",
-    "address": "Area 18B, Kapita CCAP road, Lilongwe, Malawi",
-    "phone": "+265999679633"
-  },
-  {
-    "name": "Kumbali Country Lodge",
-    "address": "M1, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Dream Apartments",
-    "address": "Plot no. 43/587 Off, Ufulu Rd, Lilongwe, Malawi",
-    "phone": "+265999274104"
-  },
-  {
-    "name": "Douglas Lodge & Apartments",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265992783288"
-  },
-  {
-    "name": "Avon Garden Apartments Area 25",
-    "address": "Next to Paradice Kitchen 43/383/235 New Area 43, Lilongwe, Malawi",
-    "phone": "4338323543"
-  },
-  {
-    "name": "Golden Peacock Hotel",
-    "address": "po box 30312, Lilongwe, Malawi",
-    "phone": "+265886024176"
-  },
-  {
-    "name": "Ufulu Gardens Hotel And Conference Center",
-    "address": "P.O. Box 31130, Lilongwe 3, Malawi, Lilongwe, Malawi",
-    "phone": "+265885313935"
-  },
-  {
-    "name": "Protea by Marriott Hotel Chipata",
-    "address": "Avon Gardens, Lilongwe, Malawi",
-    "phone": "+265888823416"
-  },
-  {
-    "name": "Chinyonga Guest House",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Woodlands Lilongwe",
-    "address": "Zomba Street, 10/487, Area 10, Lilongwe, Malawi",
-    "phone": "+265888842519"
-  },
-  {
-    "name": "Sanctuary Lodge",
-    "address": "Davie's BnB, Lilongwe, Malawi",
-    "phone": "+265888827758"
-  },
-  {
-    "name": "Heuglin's Lodge Lilongwe",
-    "address": "Malagalanga, Lilongwe, Malawi",
-    "phone": "+265999528329"
-  },
-  {
-    "name": "Lingadzi Inn",
-    "address": "off kaunda road next to gateway mall, Lilongwe, Malawi",
-    "phone": "+265992628238"
-  },
-  {
-    "name": "Douglas Lodge",
-    "address": "Area 47 Sector 3, Off M1 Road, Msokela Road Bwandilo, Passing Total Gas Station turn first left then T junction on Mango Road turn to the left, Malawi",
-    "phone": "+265999510526"
-  },
-  {
-    "name": "Mafumu Hotel",
-    "address": "409 bwanje road area 47 lilongwe, Lilongwe, Malawi",
-    "phone": "+265999838341"
-  },
-  {
-    "name": "Wendels Guest House",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Country Lodge",
-    "address": "Barron Avenue, Lilongwe, Malawi",
-    "phone": "+2651755756"
-  },
-  {
-    "name": "Mitengo House",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Hunters Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Safara House",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265881031057"
-  },
-  {
-    "name": "Kalikuti",
-    "address": "Kawale 2, Lilongwe, Malawi",
-    "phone": "+265991770789"
-  },
-  {
-    "name": "Sunrise Motel, Lilongwe, Malawi",
-    "address": "Crossroads, Area 6, Malawi",
-    "phone": null
-  },
-  {
-    "name": "KASHA PREMIER LODGES",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265888393960"
-  },
-  {
-    "name": "NOVABLANCA SUITES & CONFERENCE",
-    "address": "Youth Dr, Lilongwe, Malawi",
-    "phone": "+265999973911"
-  },
-  {
-    "name": "Wamkulu Palace",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Africa House Malawi",
-    "address": "Livingstone, Lilongwe, Malawi",
-    "phone": "+265998599005"
-  },
-  {
-    "name": "Bridgeview Hotel-City Centre",
-    "address": "Lilongwe, Malawi",
-    "phone": "+2651758971"
-  },
-  {
-    "name": "Malabi Exclusive Lodge",
-    "address": "Area 9, Plot 290B, Lilongwe, Malawi",
-    "phone": "+265995691982"
-  },
-  {
-    "name": "Crystal Apartments",
-    "address": "Plot 3056 Tsiranana Avenue, Area 3,, Lilongwe, Malawi",
-    "phone": "+265884930055"
-  },
-  {
-    "name": "KGL (Korea Garden Lodge)",
-    "address": "African Unity Avenue, Lilongwe, Malawi",
-    "phone": "+265993363666"
-  },
-  {
-    "name": "Cakes lodge",
-    "address": "Off Ufulu road behind Ufulu Gardens, 528, Lilongwe, Malawi",
-    "phone": "+265999912306"
-  },
-  {
-    "name": "Capital Hotel",
-    "address": "Area 6, 348, Lilongwe, Malawi",
-    "phone": "+447477222446"
-  },
-  {
-    "name": "Kortasia Lodge",
-    "address": "Chinula, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Hu Cess Executive Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265992120451"
-  },
-  {
-    "name": "The Hermitage Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Capital City Motel",
-    "address": "Malawi, Lilongwe, Area 49 sector 1 new gulliver",
-    "phone": "+265999803387"
-  },
-  {
-    "name": "Golden pickok",
-    "address": "Crossroads, Lilongwe, Malawi",
-    "phone": "+265998688332"
-  },
-  {
-    "name": "Legacy Suites",
-    "address": "Shire Rd, Lilongwe, Malawi",
-    "phone": "+265991141798"
-  },
-  {
-    "name": "Mama Land Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999940167"
-  },
-  {
-    "name": "Philadephia Guest House",
-    "address": "10/178 Blantyre Street, Lilongwe, Malawi",
-    "phone": "+265999838485"
-  },
-  {
-    "name": "Lucky One Hotel",
-    "address": "Lilongwe, Malawi",
-    "phone": "+2651752833"
-  },
-  {
-    "name": "Tafika Executive Lodge",
-    "address": "Barron Avenue, Lilongwe, Malawi",
-    "phone": "+265994186214"
-  },
-  {
-    "name": "Sol-Farm",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265993667000"
-  },
-  {
-    "name": "Spendwise furnished apartments.",
-    "address": "43/2/154 Off, Blantyre Street, Lilongwe, Malawi",
-    "phone": "+265882089168"
-  },
-  {
-    "name": "Luckyone Hotel",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265998908326"
-  },
-  {
-    "name": "Avon garden",
-    "address": "Youth Dr, Lilongwe, Malawi",
-    "phone": "+265991775203"
-  },
-  {
-    "name": "Symon",
-    "address": "Ufulu Rd, Lilongwe, Malawi",
-    "phone": "+2651794060"
-  },
-  {
-    "name": "Our Place Guest House",
-    "address": "Plot 3126 Great E Rd, Chipata 10101, Zambia",
-    "phone": "312610101"
-  },
-  {
-    "name": "Davie's BnB",
-    "address": "Lilongwe, Malawi",
-    "phone": "+2651776666"
-  },
-  {
-    "name": "White Palace Apart-Hotel",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265888823416"
-  },
-  {
-    "name": "Davie’s BnB",
-    "address": "Avon garden Lodge, Area 25A just after the trading after Chipiku store Lilongwe Area 25A, &apartments, Malawi",
-    "phone": "+265888823416"
-  },
-  {
-    "name": "Smile Lodge & Apartments",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265993785995"
-  },
-  {
-    "name": "Mutheto Lodge",
-    "address": "85 Mitundu Circle, Lilongwe, Malawi",
-    "phone": "+265999565300"
-  },
-  {
-    "name": "MATT Bed & Breakfast",
-    "address": "Daud Complex, Along Kamuzu Procession Road, M1, Lilongwe, Malawi",
-    "phone": "+265998938353"
-  },
-  {
-    "name": "Area 22A",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265881199147"
-  },
-  {
-    "name": "43 House",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265998529538"
-  },
-  {
-    "name": "The 18 Lodge",
-    "address": "Capital Hill Dairy Farm, Plot 9 & 11, Area 44, Lilongwe, Malawi",
-    "phone": "+265999963402"
-  },
-  {
-    "name": "Sosi Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265888823505"
-  },
-  {
-    "name": "Longonot Guest House",
-    "address": "1 Barefoot Road NRC , Chitipi Lilongwe, Malawi",
-    "phone": "+265995196377"
-  },
-  {
-    "name": "Area 3 Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265888823505"
-  },
-  {
-    "name": "Chisale Motel",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999950764"
-  },
-  {
-    "name": "Titanic Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Walani International Lodge",
-    "address": "Mthumthama Drive, Lilongwe, Malawi",
-    "phone": "+265995973212"
-  },
-  {
-    "name": "Mamma Mia Restaurant",
-    "address": "Presidential Way, Lilongwe, Malawi",
-    "phone": "+265998196475"
-  },
-  {
-    "name": "Orchid",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265991629448"
-  },
-  {
-    "name": "Mediterraneo",
-    "address": "Area 10 plot 374, Tobacco Loop, Lilongwe, Malawi",
-    "phone": "+265994000322"
-  },
-  {
-    "name": "La Cantina",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265994287613"
-  },
-  {
-    "name": "Bombay Palace",
-    "address": "city mall, Game complex, Lilongwe, Malawi",
-    "phone": "+265888202202"
-  },
-  {
-    "name": "Noble China Restaurant",
-    "address": "Colby Road, Lilongwe, Malawi",
-    "phone": "+265996998048"
-  },
-  {
-    "name": "Bamboo Restaurant Lilongwe",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265996705984"
-  },
-  {
-    "name": "Seble Ethiopian restaurant",
-    "address": "Lingadzi House, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Causerie Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Blue Ginger Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Veg-Delight Lilongwe",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265994207049"
-  },
-  {
-    "name": "Garden Court Restaurant",
-    "address": "Kenyatta, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chennai Spice",
-    "address": "Kamuzu Procession Rd, Lilongwe, Malawi",
-    "phone": "+265991138022"
-  },
-  {
-    "name": "Copper Pot",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Sana food court",
-    "address": "Selous, Lilongwe, Malawi",
-    "phone": "+265991078692"
-  },
-  {
-    "name": "The Bay",
-    "address": "Mandala Road, Lilongwe, Malawi",
-    "phone": "+265993785995"
-  },
-  {
-    "name": "Coco's at August House",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265888221040"
-  },
-  {
-    "name": "Café Cargo",
-    "address": "Lilongwe, Malawi",
-    "phone": "+2651794580"
-  },
-  {
-    "name": "Vincent's Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Charcoal Restaurant Lilongwe Malawi",
-    "address": "Farm, Plot 9 &10, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "PaZinyama",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265211552770"
-  },
-  {
-    "name": "Fusion Café",
-    "address": "Blantyre Street, Lilongwe, Malawi",
-    "phone": "+265881512747"
-  },
-  {
-    "name": "The Chophouse",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Masamba Gardens and Cafe",
-    "address": "bingu stadium, Opposite, Lilongwe, Malawi",
-    "phone": "+265999827176"
-  },
-  {
-    "name": "Rose Chinese Restaurant",
-    "address": "Muslim Sports Club, Lilongwe, Malawi",
-    "phone": "+265999827176"
-  },
-  {
-    "name": "KIPS RESTAURANT",
-    "address": "M1, Lilongwe, Malawi",
-    "phone": "+265999786244"
-  },
-  {
-    "name": "Cup n Roll",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999803100"
-  },
-  {
-    "name": "Guisseppes Pub",
-    "address": "Laws Avenue, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Garden Court Bar And Restaurant",
-    "address": "Young, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Siesta by Everest",
-    "address": "774 Mazengera Street, Lilongwe, Malawi",
-    "phone": "+265887341961"
-  },
-  {
-    "name": "Lingadzi Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "M'dede Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kina Restaurant",
-    "address": "ShopRite, Lilongwe, Kenyatta drive around, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Akiras Bar and Restaurant",
-    "address": "Msokela, Lilongwe, Malawi",
-    "phone": "+265998777052"
-  },
-  {
-    "name": "Khichini Hub",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Flavours Cafe",
-    "address": "Area 4, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "TsakiTsaki Restaurant",
-    "address": "Sunbird Lilongwe, Lilongwe, Malawi",
-    "phone": "+265888965109"
-  },
-  {
-    "name": "Lalala Food",
-    "address": "Development House, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Angoni restaurant",
-    "address": "New Market, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Flavatos Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Elly B's, Gateway, Lilongwe",
-    "address": "Plot N: 3/811 DC Restraunt, Lilongwe, Malawi",
-    "phone": "+265987731661"
-  },
-  {
-    "name": "ACRES Bar & GRILL",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Cabin Restaurant",
-    "address": "49/3/388 Baghdad, Lilongwe, Malawi",
-    "phone": "+265999532273"
-  },
-  {
-    "name": "Round and Square - RaS",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265212911237"
-  },
-  {
-    "name": "Kips Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265995376518"
-  },
-  {
-    "name": "Chicken Inn",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kitchen delights",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265992958765"
-  },
-  {
-    "name": "Good coffee italian restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Maize Mill",
-    "address": "Presidential Way, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Ritz",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999912788"
-  },
-  {
-    "name": "BAMBU BAR , GRILL AND RESTAURANT",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999666101"
-  },
-  {
-    "name": "The Food Club",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265991078692"
-  },
-  {
-    "name": "Rosevine",
-    "address": "Gateway Mall, Lilongwe, Malawi",
-    "phone": "+265998302000"
-  },
-  {
-    "name": "Pizza Inn",
-    "address": "Selous, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Victoria Gardens",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999136336"
-  },
-  {
-    "name": "Mum's table restaurant",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chinese Food Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pa Mthunzi Lounge",
-    "address": "Off, Convention Drive, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Summer Park",
-    "address": "Selous, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Citadel",
-    "address": "Chilambula Rd, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mlamba Lodge Lilongwe",
-    "address": "Mandala Road, Lilongwe, Malawi",
-    "phone": "+265998378160"
-  },
-  {
-    "name": "Pa Zinziri 49",
-    "address": "central hospital road, Lilongwe, Malawi",
-    "phone": "+265993713626"
-  },
-  {
-    "name": "Havmor Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999921555"
-  },
-  {
-    "name": "Sip, Eat n' Chill",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Area 13 Market",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265992239527"
-  },
-  {
-    "name": "Olive Tree",
-    "address": "Livingstone, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Patio Restaurant",
-    "address": "City Mall, Kamuzu Processsion Rd, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chezg Cafe",
-    "address": "Gulliver Area 49, Lilongwe, Malawi",
-    "phone": "+265999748123"
-  },
-  {
-    "name": "Zikomo Restaurant and Takeaway",
-    "address": "Development House, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nthalo: The Good Food Shop",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Flavourto",
-    "address": "Zomba Street, Lilongwe, Malawi",
-    "phone": "+265981665896"
-  },
-  {
-    "name": "D’s KITCHEN",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Black Pepper",
-    "address": "Kaunda Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Dees restaurant",
-    "address": "Chayamba Drive, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Aunt Memo's Restaurant",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "FoodSpace",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chickenlito's MSC",
-    "address": "Presidential Way, Lilongwe, Malawi",
-    "phone": "+265886024807"
-  },
-  {
-    "name": "Che-mpunga",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nessa's Meats",
-    "address": "Kenyatta, Lilongwe, Malawi",
-    "phone": "+265999748123"
-  },
-  {
-    "name": "Chickenlito's",
-    "address": "Mwanza, Lilongwe, Malawi",
-    "phone": "+265992608596"
-  },
-  {
-    "name": "Dodiya restaurant",
-    "address": "City Mall, Kamuzu Processsion Rd, Lilongwe, Malawi",
-    "phone": "+265992542320"
-  },
-  {
-    "name": "Green House",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Dodiya restaurant",
-    "address": "242 Tsoka Road, Lilongwe, Malawi",
-    "phone": "+265881625588"
-  },
-  {
-    "name": "The Cactus Restaurant",
-    "address": "Paul Kagame Road, Kirk, Lilongwe, Malawi",
-    "phone": "+265995000058"
-  },
-  {
-    "name": "Chicken Land",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pizza Inn",
-    "address": "Old Town Mall, Lilongwe, Malawi",
-    "phone": "+265993858028"
-  },
-  {
-    "name": "The Gateway Mall",
-    "address": "47/2/444, Mchinji Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Queens Mall",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pacific Parade",
-    "address": "M1, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "WATOTO SHOPPING CENTRE",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "City Mall",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kandota Shopping Center",
-    "address": "Area 4, Chilambula Road Next to Road Traffic, Malawi",
-    "phone": "+265999912014"
-  },
-  {
-    "name": "Corporate Mall",
-    "address": "Tsoka Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Maula Mall",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  { "name": "C-PLAZA", "address": "Lilongwe, Malawi", "phone": null },
-  {
-    "name": "The Shofpping Center",
-    "address": "Likuni, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Santa Plaza",
-    "address": "S124, Likuni, Malawi",
-    "phone": null
-  },
-  { "name": "C PLAZA", "address": "Lilongwe, Malawi", "phone": null },
-  {
-    "name": "Vili Shoping Centre",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Accord Center",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Plaza Building",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Tikambe Shopping",
-    "address": "Shire Rd, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Major Shop",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Inshaallah Shopping centre",
-    "address": "Gateway Mall, Kuanda Road, Lilongwe, Malawi",
-    "phone": "+2651751010"
-  },
-  {
-    "name": "Lingadzi Supperate",
-    "address": "M1, Lilongwe, Malawi",
-    "phone": "+2651751394"
-  },
-  {
-    "name": "Craft market",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265993505169"
-  },
-  {
-    "name": "Sana Cash & Carry",
-    "address": "Devil Street, Lilongwe, Malawi",
-    "phone": "+265986808391"
-  },
-  {
-    "name": "New Plaza Shopping Center",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265885471641"
-  },
-  {
-    "name": "Malawi Luxury Inc",
-    "address": "Shop 71. The Gateway Mall, Plot 47/1201, Lilongwe, Malawi, Lilongwe, Lilongwe, Malawi",
-    "phone": "71471201"
-  },
-  {
-    "name": "Galactivale's Tech center",
-    "address": "S124, Likuni, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chigwirizano Trading Center",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265881933857"
-  },
-  {
-    "name": "New Area 43 Shopping Centre",
-    "address": "crossroads, Lilongwe, Malawi",
-    "phone": "+265997542677"
-  },
-  {
-    "name": "Joafrapaya Shopping Center",
-    "address": "Kamuzu Procession Rd, Lilongwe, Malawi",
-    "phone": "+265999234252"
-  },
-  {
-    "name": "TLScontact – Visa Application Centre Lilongwe",
-    "address": "Kenyatta, Lilongwe, Malawi",
-    "phone": "+265999600110"
-  },
-  {
-    "name": "Hayyat Complex",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mama Ts Shopping center",
-    "address": "M1, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Shoprite Gateway Mall",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chatsani Chopping Center",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265999829876"
-  },
-  {
-    "name": "Sempha Shopping Complex",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Cold Drinks Center",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265993944006"
-  },
-  {
-    "name": "Liquor Center , Stocks Of Beer",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Khri Shop",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "2G's Shopping Center",
-    "address": "m1, M1, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "William Shop",
-    "address": "asante gust house, after, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "World War I Memorial",
-    "address": "Kenyatta, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Lilongwe Nature Sanctuary",
-    "address": "Presidential Way, Lilongwe, Malawi",
-    "phone": "+265886024972"
-  },
-  {
-    "name": "FunCity Amusement Park",
-    "address": "Kenyatta, Lilongwe, Malawi",
-    "phone": "+265881788999"
-  },
-  {
-    "name": "Kulemeka Gardens",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kumbali Cultural Village",
-    "address": "Chayamba Drive, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Lizulu Horticulture Market",
-    "address": "Mphonongo, Lilongwe, Malawi",
-    "phone": "+265999836561"
-  },
-  {
-    "name": "Area 4",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999963402"
-  },
-  {
-    "name": "Birds of Malawi",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Lilongwe",
-    "address": "Lilongwe, Malawi",
-    "phone": "+2651755846"
-  },
-  {
-    "name": "Sunbird Mzuzu",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Grand palace hotel",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265111403780"
-  },
-  {
-    "name": "Ilala Crest Lodge",
-    "address": "Unnamed Rd, Chembe, Cape Maclear, Malawi",
-    "phone": "+265995632105"
-  },
-  {
-    "name": "Mzuzu Coffee Suites",
-    "address": "Kabunduli Road, Mzuzu, Malawi",
-    "phone": "+265111612852"
-  },
-  {
-    "name": "Macondo Camp",
-    "address": "Choma Road, Mzuzu, Malawi",
-    "phone": "+265991792311"
-  },
-  {
-    "name": "Mgoza Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265881429030"
-  },
-  {
-    "name": "Mphatso Motel",
-    "address": "Chimaliro Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Emmaculate lodge",
-    "address": "Chiwanja, Mzuzu, Malawi",
-    "phone": "+265997678679"
-  },
-  {
-    "name": "Hill Of Grace",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265995934395"
-  },
-  {
-    "name": "Pine Tree Bed & Breakfast",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Jumac Golden Lodge",
-    "address": "Off The Main Road, Towards The Shore, Nkhotakota, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mzoozoozoo",
-    "address": "Chileka Road, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mzuzu Lodge",
-    "address": "Lister, Lilongwe, Malawi",
-    "phone": "+265888705993"
-  },
-  {
-    "name": "Diamond Lodge",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Tukumphire Guest House",
-    "address": "Opposite The Mzimba Market, Mzimba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Hilltop Garden Lodge",
-    "address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "Dunduzu Guest Lodge",
-    "address": "Glynn Jones Rd, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Wakasanga Lodge",
-    "address": "Lunzu Road, Nyambadwe, Malawi",
-    "phone": "+265886396281"
-  },
-  {
-    "name": "CCAP Williams Koyi Guest House",
-    "address": "Mangochi, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Aaucha Lodge",
-    "address": "M1, Mzuzu, Malawi",
-    "phone": "+265994455285"
-  },
-  {
-    "name": "Diamond Lodge",
-    "address": "Kanjedza Road, Blantyre, Malawi",
-    "phone": "+265991686339"
-  },
-  {
-    "name": "CCAP Williams Koyi Guest House",
-    "address": "Zomba, Malawi",
-    "phone": "+2651820588"
-  },
-  {
-    "name": "Aunt Tina Stone House Lodge",
-    "address": "Opp Chiwanja Airport, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Ngombani Junior 2 Resthouse",
-    "address": "413 Lunyangwa Residential Area, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nyachenda",
-    "address": "Crossroads, Lilongwe, Malawi",
-    "phone": "+265998688332"
-  },
-  {
-    "name": "Chochocho Rest House",
-    "address": "Chiwanja, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kaka Motel",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265882526859"
-  },
-  {
-    "name": "Zulunkhuni River Lodge",
-    "address": "Chimaliro, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Emmaculate Lodge",
-    "address": "Unnamed Road, Mzuzu, Malawi",
-    "phone": "+265888873392"
-  },
-  {
-    "name": "Hillside Lodge",
-    "address": "Unnamed Road, Mzuzu, Malawi",
-    "phone": "+265993191601"
-  },
-  {
-    "name": "Blessed stay guest house",
-    "address": "Dunduzu, Mzuzu, Malawi",
-    "phone": "+265993951720"
-  },
-  {
-    "name": "Chiwavi Lodge",
-    "address": "G2R8+Q3C Sos, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Rayoni Guesthouse B&B",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Tung Gardens Guesthouse",
-    "address": "M1, Mzuzu, Malawi",
-    "phone": "+265888542020"
-  },
-  {
-    "name": "Ennie's Lodge",
-    "address": "Chibavi Road, Mzuzu, Malawi",
-    "phone": "+265884073362"
-  },
-  {
-    "name": "Pakaya Suites",
-    "address": "Mzuzu, Malawi",
-    "phone": "+2651310586"
-  },
-  {
-    "name": "Sunshine Guest House",
-    "address": "Malawi, Mzuzu, M1 road Off my road",
-    "phone": "+265888368203"
-  },
-  {
-    "name": "Lodge De Gaj",
-    "address": "Nkhata Bay, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Green Valley Lodge",
-    "address": "Chibavi Road, Mzuzu, Malawi",
-    "phone": "+265997299405"
-  },
-  {
-    "name": "Moni Lodge",
-    "address": "Chiwanja, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Sunrise Motel, Lilongwe, Malawi",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Sunbird Ku Chawe",
-    "address": "Boardman Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Airport Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Grand Suites - Kanjedza",
-    "address": "Boardman Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Yalumaluba Guest House",
-    "address": "Unnamed Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mkango Hotel & Conference Centre",
-    "address": "M1, Mzuzu, Malawi",
-    "phone": "+265888542020"
-  },
-  {
-    "name": "Mutheto Lodge",
-    "address": "Unnamed Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kamwiro Ufulu Lodge",
-    "address": "Dunduzu roadblock, M1, Mzuzu, Malawi",
-    "phone": "+265997164179"
-  },
-  {
-    "name": "St Annes Guest House",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nkomadzi Lodge",
-    "address": "Chiwanja, Mzuzu, Malawi",
-    "phone": "+265999957405"
-  },
-  {
-    "name": "Kujaliwa Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Khulubvi Lodge",
-    "address": "Orton, Chirwa Drive, Mzuzu, Malawi",
-    "phone": "+265980790964"
-  },
-  {
-    "name": "Green Valley Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mufatsa Inn - Campsite and Lodge",
-    "address": "Jomo Kenyatta Road, Mzuzu, Malawi",
-    "phone": "+265888864493"
-  },
-  {
-    "name": "Manjolo Village",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "A1",
-    "address": "Sunbird Mzuzu, Kabunduli Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Blue Tomato Restaurant",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265888899666"
-  },
-  {
-    "name": "Soul Kitchen",
-    "address": "Unnamed Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nyika Restaurant",
-    "address": "St. Denis, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chickenlito's mzuzu",
-    "address": "Gumede hardware, next to, Mzuzu, Malawi",
-    "phone": "+265999957421"
-  },
-  {
-    "name": "2.9S Restaurant",
-    "address": "St. Denis, Mzuzu, Malawi",
-    "phone": "+265999827176"
-  },
-  {
-    "name": "Macondo Camp",
-    "address": "St. Denis, Mzuzu, Malawi",
-    "phone": "+265995233445"
-  },
-  {
-    "name": "Greenveere RESTAURANT",
-    "address": "Choma Road, Mzuzu, Malawi",
-    "phone": "+265991792311"
-  },
-  {
-    "name": "The EAT Restaurant",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Sugar and Spice",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "KMC Restaurant",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265999688468"
-  },
-  { "name": "Nonhla's", "address": "Mzuzu, Malawi", "phone": null },
-  {
-    "name": "Kwik Foods & Take-Away",
-    "address": "Luwinga Nkhorongo, Mzuzu, Malawi",
-    "phone": "+265999718876"
-  },
-  {
-    "name": "C&S Caterers",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "harawa moses family",
-    "address": "Kanjedza Drive, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kwithu Kitchen Cafè",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265995934395"
-  },
-  {
-    "name": "Blue tomato indian restaurant",
-    "address": "M1, Mzuzu, Malawi",
-    "phone": "+265991905656"
-  },
-  {
-    "name": "Munchiez Restaurant",
-    "address": "M5, Mzuzu, Malawi",
-    "phone": "+265888842011"
-  },
-  {
-    "name": "Umunthu Space & Lodge",
-    "address": "Chimaliro Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Midland fast food",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kips Express",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "McLeans Kitchens",
-    "address": "St. Denis, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Club Love MW",
-    "address": "Mawerera Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Lenah's Kitchen",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Aunt Tiwo Restraunt",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Flavatos",
-    "address": "Luwinga, Mzuzu, Malawi",
-    "phone": "+265888575489"
-  },
-  {
-    "name": "Nature's Lounge",
-    "address": "Luwinga, Mzuzu, Malawi",
-    "phone": "+265999132782"
-  },
-  { "name": "Club Khazy", "address": "Mzuzu, Malawi", "phone": null },
-  {
-    "name": "GreenVee",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265999966186"
-  },
-  {
-    "name": "Balance lounge",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265996634920"
-  },
-  {
-    "name": "Paris Night Club",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Wukani Guest House & Restaurant",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265994373456"
-  },
-  {
-    "name": "Yummies Lodge & Restaurant",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Cool Bean Cafe",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mzuzu Sports Bar",
-    "address": "katoto filling station, Mzuzu, Malawi",
-    "phone": "+265999668679"
-  },
-  {
-    "name": "Pine Tree Bed & Breakfast",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Cecis Food",
-    "address": "Mapale Crescent, Mzuzu, Malawi",
-    "phone": "+265992417916"
-  },
-  {
-    "name": "Aligators pub and grill",
-    "address": "Mzuzu Prison, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Queens Night Club",
-    "address": "Puma Filling Station, Behind Mzuzu, Malawi",
-    "phone": "+265999054874"
-  },
-  {
-    "name": "Awiske & Chakufwa Stop-Over Friends Bar",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  { "name": "Coffee Den", "address": "Mzuzu, Malawi", "phone": null },
-  {
-    "name": "MZUZU YOUTH ASSOCIATION RESTAURANT",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265991163792"
-  },
-  {
-    "name": "Aucha Restaurant and Bar",
-    "address": "Off Mzuni Road, Mzuzu, Malawi",
-    "phone": "+265881814613"
-  },
-  {
-    "name": "Ronald mdukwa",
-    "address": "Mawerera Road, Mzuzu, Malawi",
-    "phone": "+265881355825"
-  },
-  {
-    "name": "Mzuzu Mall",
-    "address": "Kawalazi Estate Company Limited, Mzuzu, Malawi",
-    "phone": "+265998844237"
-  },
-  {
-    "name": "Benson Shop",
-    "address": "Mzuzu, euthin, Katunguwiri, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kampingo shopping center",
-    "address": "Shop 58, Mzuzu Shopping Centre, Lubinga Rd, Mzuzu, Malawi",
-    "phone": "+2651844032"
-  },
-  {
-    "name": "PEP Mzuzu Shoprite Centre",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265994455285"
-  },
-  {
-    "name": "Kentam",
-    "address": "M Mbelwa Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Vwaza Marsh Wildlife Reserve",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  { "name": "Mzuzu", "address": "Mzuzu, Malawi", "phone": null },
-  {
-    "name": "Mzoozoozoo",
-    "address": "Gumede hardware, next to, Mzuzu, Malawi",
-    "phone": "+265999957421"
-  },
-  {
-    "name": "Macondo Camp",
-    "address": "1000 dam road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Manjolo Village",
-    "address": "Jomo Kenyatta Road, Mzuzu, Malawi",
-    "phone": "+265888864493"
-  },
-  {
-    "name": "Nkwadzi Hill",
-    "address": "Choma Road, Mzuzu, Malawi",
-    "phone": "+265991792311"
-  },
-  {
-    "name": "Word Alive Church",
-    "address": "Luwinga, Mzuzu, Malawi",
-    "phone": "+265981939017"
-  },
-  {
-    "name": "Luwawa Forest Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mzuzu University",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Sunbird Mzuzu",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265999963402"
-  },
-  {
-    "name": "Paris Bar",
-    "address": "Off, M Mbelwa Road, Mzuzu, Malawi",
-    "phone": "+2651312833"
-  },
-  { "name": "Paris Bar", "address": "Mzuzu, Malawi", "phone": null },
-  {
-    "name": "Chochocho Rest House",
-    "address": "Chintheche, Malawi",
-    "phone": "+265999283980"
-  },
-  {
-    "name": "Ilala Crest Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Makuzi Beach Lodge",
-    "address": "Main Road, Mzuzu, Malawi",
-    "phone": "+2651312287"
-  },
-  {
-    "name": "Northern Region",
-    "address": "Chimaliro Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mzuzu Airport",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nkhata Bay",
-    "address": "Kabunduli Road, Mzuzu, Malawi",
-    "phone": "+265111612852"
-  },
-  {
-    "name": "Nkhata Bay",
-    "address": "Sunbird Mzuzu, Kabunduli Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Bandawe",
-    "address": "Off M1 Road Road, Area 4, Malivenji Road, Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kumbali Cultural Village",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265111403780"
-  },
-  {
-    "name": "Nkhotakota",
-    "address": "Unnamed Road, Mzuzu, Malawi",
-    "phone": "+2651310056"
-  },
-  {
-    "name": "Senga Bay",
-    "address": "Luwinga, Mzuzu, Malawi",
-    "phone": "+2651320722"
-  },
-  {
-    "name": "Katoto Primary School",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Luwinga Lodge",
-    "address": "Mzuzu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "zigwagwa market",
-    "address": "200 km north of Lilongwe, 10 km off the main M1 road between Lilongwe and Mzuzu, Malawi",
-    "phone": "+265999512645"
-  },
-  {
-    "name": "Sunbird Ku Chawe",
-    "address": "Old Naisi Road, Zomba, Malawi",
-    "phone": "+265888309347"
-  },
-  {
-    "name": "Wadonda Suites",
-    "address": "Off Kufa road, Behind police station, Zomba, Malawi",
-    "phone": "+265882858089"
-  },
-  {
-    "name": "Manja Lodge",
-    "address": "Zomba, Malawi",
-    "phone": "+265999507079"
-  },
-  {
-    "name": "Kefi Hotel Café",
-    "address": "Road, Malawi",
-    "phone": "+265882206666"
-  },
-  {
-    "name": "Annie's Lodge Zomba",
-    "address": "Naisi Spur, Zomba, Malawi",
-    "phone": "+265889540964"
-  },
-  {
-    "name": "T & D GUESTHOUSE",
-    "address": "Zomba Mountain, Zomba, Malawi",
-    "phone": "+265888965141"
-  },
-  {
-    "name": "Villa Kupa",
-    "address": "Macleod Road, Zomba, Malawi",
-    "phone": "+265993906402"
-  },
-  {
-    "name": "Pakachere",
-    "address": "Road, Malawi",
-    "phone": "+265888810439"
-  },
-  {
-    "name": "Zomba Forest Lodge",
-    "address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "Trinity Homes and Treats",
-    "address": "Blantyre-Machingiri Road, Blantyre, Malawi",
-    "phone": "+265885105127"
-  },
-  {
-    "name": "Masuku Lodge",
-    "address": "M2, Namadzi, Malawi",
-    "phone": "+265999271274"
-  },
-  {
-    "name": "Casa Rossa",
-    "address": "Zomba Road, Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "Afrochoc Zomba",
-    "address": "Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Splendor Hotel",
-    "address": "Lunzu Road, Nyambadwe, Malawi",
-    "phone": "+265886396281"
-  },
-  {
-    "name": "Hotel Masongola",
-    "address": "7 Kufa Road, Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Bluegum Avenue Lodge",
-    "address": "Mandala, Blantyre, Malawi",
-    "phone": "+265888887772"
-  },
-  {
-    "name": "Sunbird Ku Chawe",
-    "address": "M3, Zomba, Malawi",
-    "phone": "+265888364873"
-  },
-  {
-    "name": "Paphiri House",
-    "address": "Zomba, Malawi",
-    "phone": "+2651820588"
-  },
-  {
-    "name": "Fair Hills Guest House",
-    "address": "Masache Road, Zomba, Malawi",
-    "phone": "+265983152364"
-  },
-  {
-    "name": "Cherrywood Estate",
-    "address": "Old Naisi Road, Zomba, Malawi",
-    "phone": "+265883688530"
-  },
-  {
-    "name": "Mkango Hotel & Conference Centre",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chilembwe Lodge",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Summerland Mapanga Lodge",
-    "address": "Road, Malawi",
-    "phone": "+2651820588"
-  },
-  {
-    "name": "Midway Lodge",
-    "address": "12th Avenue, Zomba, Malawi",
-    "phone": "+265888604790"
-  },
-  {
-    "name": "The Ayoba Compound Lodge",
-    "address": "Zomba, Malawi",
-    "phone": "+265991184211"
-  },
-  {
-    "name": "Green Valley Lodge",
-    "address": "Old Mountain Road, Old Up Road, Malawi",
-    "phone": "+265888573325"
-  },
-  { "name": "Casa Rossa", "address": "Zomba, Malawi", "phone": null },
-  {
-    "name": "Live Life Take Away",
-    "address": "Zomba Depot, Zomba, Malawi",
-    "phone": "+265999260169"
-  },
-  {
-    "name": "Sangalalani Restaurant",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Domino's Restaurant",
-    "address": "Zomba, Malawi",
-    "phone": "+265884641643"
-  },
-  {
-    "name": "Dalie’s Tasty Bites",
-    "address": "Macleod Road, Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kefi Hotel Café",
-    "address": "Zomba, Malawi",
-    "phone": "+265888313196"
-  },
-  {
-    "name": "Hotels",
-    "address": "Chancellor College, Zomba, Malawi",
-    "phone": "+265997393883"
-  },
-  {
-    "name": "Good morning shop and restaurant",
-    "address": "Road, Malawi",
-    "phone": "+265888810439"
-  },
-  {
-    "name": "Bbq spot mw",
-    "address": "Zomba, Malawi",
-    "phone": "+265991184211"
-  },
-  {
-    "name": "KIPS EXPRESS ZOMBA",
-    "address": "M10, Zomba, Malawi",
-    "phone": "+265995665978"
-  },
-  {
-    "name": "Meet & Greet, Nandolo,Take Away",
-    "address": "M3, Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Checkers Bar & Grill",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pa Gwamba",
-    "address": "12th Avenue, Zomba, Malawi",
-    "phone": "+265888604790"
-  },
-  {
-    "name": "Amigo Restaurant",
-    "address": "Kuchawe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "ONE LOVE - Rasta Restaurant",
-    "address": "Zomba Plateau, Kuchawe, Malawi",
-    "phone": "+265888714443"
-  },
-  {
-    "name": "Onithamala Deli' Café",
-    "address": "Zomba, Malawi",
-    "phone": "+265980706767"
-  },
-  {
-    "name": "Ida's Chip Shop",
-    "address": "Liwonde, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Muzamillu Nkuleya",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pakachere",
-    "address": "Masache Road, Zomba, Malawi",
-    "phone": "+265983152364"
-  },
-  {
-    "name": "Amazing Bakes",
-    "address": "Chancellor College, Zomba, Malawi",
-    "phone": "+265994128171"
-  },
-  {
-    "name": "The Mixed Booze and BBQ",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "African Heritage Culture & Heritage Tours",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "ATAFU Restaurant & Take Away",
-    "address": "Macleod Road, Zomba, Malawi",
-    "phone": "+265993906402"
-  },
-  {
-    "name": "Annie's Lodge Zomba",
-    "address": "Zomba, Malawi",
-    "phone": "+265999507079"
-  },
-  {
-    "name": "Manja Lodge",
-    "address": "Zomba Mountain, Zomba, Malawi",
-    "phone": "+265888965141"
-  },
-  {
-    "name": "Sunbird Ku Chawe",
-    "address": "M3, Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Splendor Hotel",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Hotel Masongola",
-    "address": "Mechno Building, Along M3, Zomba, Malawi",
-    "phone": "+265881403434"
-  },
-  {
-    "name": "Bluegum Avenue Lodge",
-    "address": "Zomba, Malawi",
-    "phone": "+265995762972"
-  },
-  {
-    "name": "Republica Lodge",
-    "address": "Off Kufa road, Behind police station, Zomba, Malawi",
-    "phone": "+265882858089"
-  },
-  {
-    "name": "NutriExpress - T&D",
-    "address": "Zomba Central Hospital, Zomba, Malawi",
-    "phone": "+265888269164"
-  },
-  {
-    "name": "Zomba Steers",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  { "name": "Villa Kupa", "address": "Zomba, Malawi", "phone": null },
-  {
-    "name": "Plateau Stables",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  { "name": "Kuchawe", "address": "Zomba, Malawi", "phone": null },
-  {
-    "name": "Trout Farm Challets",
-    "address": "Zomba, Malawi",
-    "phone": "+265998346252"
-  },
-  { "name": "mimushack", "address": "Zomba, Malawi", "phone": null },
-  {
-    "name": "Trinity Homes and Treats",
-    "address": "M1 Road, Shop 1 Sellies Enterprises, Zomba, Malawi",
-    "phone": "+265888122000"
-  },
-  {
-    "name": "Raika Executive Villa",
-    "address": "Zomba, Malawi",
-    "phone": "+265996316526"
-  },
-  {
-    "name": "Mandevu Farm",
-    "address": "M3, Zomba, Malawi",
-    "phone": "+265996608549"
-  },
-  {
-    "name": "Kalibu-Lek Cafe and Restaurant",
-    "address": "Skinala, 3 ways, Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Skinners",
-    "address": "Veterinary Road, Zomba, Malawi",
-    "phone": "+265999948330"
-  },
-  {
-    "name": "Sanudie's Lodge",
-    "address": "Zomba, Malawi",
-    "phone": "+265883999999"
-  },
-  {
-    "name": "Suman Shopping Center",
-    "address": "S145, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Milepa Trading Centre",
-    "address": "M1 Zomba, Matawale, Malawi",
-    "phone": "+265993458934"
-  },
-  {
-    "name": "Zomba DAPP store",
-    "address": "Zomba, Malawi",
-    "phone": "+265993364179"
-  },
-  {
-    "name": "TNM Service Centre",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Nsanama Trading Center",
-    "address": "Nsanama, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Songani Market",
-    "address": "Domasi, Malawi",
-    "phone": null
-  },
-  {
-    "name": "African Heritage Culture & Heritage Tours",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Dwangwa Trading Center",
-    "address": "M5, Bowa, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Namwera Trading Center",
-    "address": "Zomba, Malawi",
-    "phone": "+265995762972"
-  },
-  {
-    "name": "Bakers Pride",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Shalom's Kitchen",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Emperors View",
-    "address": "Zomba, Malawi",
-    "phone": "+265995361999"
-  },
-  { "name": "Pakachere", "address": "Zomba, Malawi", "phone": null },
-  {
-    "name": "Viva Fitness and gym Zomba",
-    "address": "Off Kufa road, Behind police station, Zomba, Malawi",
-    "phone": "+265882858089"
-  },
-  {
-    "name": "Williams Falls",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Annie's Lodge Zomba",
-    "address": "M1 Road, Shop 1 Sellies Enterprises, Zomba, Malawi",
-    "phone": "+265888122000"
-  },
-  {
-    "name": "Bata Shoe Store",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Williams Falls",
-    "address": "Maganga, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Zomba Massif",
-    "address": "Off Kufa road, Behind police station, Zomba, Malawi",
-    "phone": "+265882858089"
-  },
-  {
-    "name": "Zomba",
-    "address": "Zomba Plateau, Kuchawe, Malawi",
-    "phone": "+265888714443"
-  },
-  {
-    "name": "Floodgates Tours",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  { "name": "Pakachere", "address": "Zomba, Malawi", "phone": null },
-  {
-    "name": "Majete Wildlife Reserve",
-    "address": "Zomba, Malawi",
-    "phone": "+265998377163"
-  },
-  {
-    "name": "Sunbird Ku Chawe",
-    "address": "Blantyre, Malawi",
-    "phone": "+2651873258"
-  },
-  {
-    "name": "Mvuu Camp",
-    "address": "Liwonde, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Zomba Forest Lodge",
-    "address": "Mulanje, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Chilema Tree",
-    "address": "Old Mountain Road, Old Up Road, Malawi",
-    "phone": "+265888573325"
-  },
-  {
-    "name": "Queens View",
-    "address": "Zomba Mountain, Zomba, Malawi",
-    "phone": "+265888965141"
-  },
-  {
-    "name": "Liwonde National Park Main Entrance Gate",
-    "address": "Zomba, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Lake Malawi National Park",
-    "address": "Likwenu, Malawi",
-    "phone": "+27833286102"
-  },
-  {
-    "name": "Wayekha Hotels",
-    "address": "Lunzu Road, Nyambadwe, Malawi",
-    "phone": "+265886396281"
-  },
-  {
-    "name": "Top Lodge",
-    "address": "Kabvunguti, Box 307 Kasungu, Malawi, Kasungu, Malawi",
-    "phone": "+2651253844"
-  },
-  {
-    "name": "Lifupa Conservation Lodge",
-    "address": "Kasungu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kortasia Lodge",
-    "address": "Area 18B, Kapita CCAP road, Lilongwe, Malawi",
-    "phone": "+265999679633"
-  },
-  {
-    "name": "Mkango Hotel & Conference Centre",
-    "address": "Kasungu National Park, Linyangwa, Malawi",
-    "phone": "+31615842100"
-  },
-  {
-    "name": "The 18 Lodge",
-    "address": "Blantyre, Malawi",
-    "phone": "+265888871872"
-  },
-  {
-    "name": "Blantyre Lodge",
-    "address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
-    "phone": "+265991910466"
-  },
-  {
-    "name": "The Grand Suites - Kanjedza",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265999481722"
-  },
-  {
-    "name": "Royal Comfort Lodge",
-    "address": "Blantyre-Machingiri Road, Blantyre, Malawi",
-    "phone": "+265885105127"
-  },
-  {
-    "name": "Nkomadzi Lodge",
-    "address": "Glynn Jones Rd, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Ram's Executive Lodge",
-    "address": "Chileka Road, Blantyre, Malawi",
-    "phone": null
-  },
-  {
-    "name": "The Ayoba Compound Lodge",
-    "address": "Chileka Airport Road, Chileka, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mutheto Lodge",
-    "address": "Kanjedza Road, Blantyre, Malawi",
-    "phone": "+265991686339"
-  },
-  {
-    "name": "Chisale Motel",
-    "address": "Blantyre, Malawi",
-    "phone": "+265880713161"
-  },
-  {
-    "name": "Green Valley Lodge",
-    "address": "M1 Road, Mponela Malawi 31523, Mponela, Malawi",
-    "phone": "+265993899382"
-  },
-  {
-    "name": "FATIZ'S Restaurant",
-    "address": "M1, Kasungu, Malawi",
-    "phone": "+265888121350"
-  },
-  {
-    "name": "Chicken, Pizza Hut Restaurant",
-    "address": "Unnamed Road, Kasungu, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Town Talk Restaurant",
-    "address": "Kasungu, Malawi",
-    "phone": "+265999801767"
-  },
-  {
-    "name": "ZX Sisters Restaurant",
-    "address": "Kasungu, Malawi",
-    "phone": "+265994064140"
-  },
-  {
-    "name": "Backyard J³ Restaurant",
-    "address": "Unnamed Road, Kasungu, Malawi",
-    "phone": "+265992001557"
-  },
-  {
-    "name": "LA FACE CAFE",
-    "address": "PTC Building, Behind Former, Kasungu, Malawi",
-    "phone": "+265999074672"
-  },
-  {
-    "name": "The Gateway Mall",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Shanghai Shopping Mall",
-    "address": "Unnamed Road, Lilongwe, Malawi",
-    "phone": "+265999829876"
-  },
-  {
-    "name": "Tikambe Shopping",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265993505169"
-  },
-  {
-    "name": "Wulian Shopping Mall",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Mzuzu Mall",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Pacific Parade",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Century City Mall",
-    "address": "Tsoka Road, Lilongwe, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Flymax library",
-    "address": "Mzuzu, Malawi",
-    "phone": "+265994455285"
-  },
-  {
-    "name": "Hayyat Complex",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  { "name": "Kasungu", "address": "D98, Malawi", "phone": null },
-  {
-    "name": "Chamama Trading Centre",
-    "address": "T332, Malawi",
-    "phone": "+2651259398"
-  },
-  {
-    "name": "Jenda Market",
-    "address": "Bondo, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kasungu",
-    "address": "Lilongwe, Malawi",
-    "phone": "+265881538168"
-  },
-  {
-    "name": "Weskus Mall",
-    "address": "110 Saldanha Rd, Vredenburg, 7380, South Africa",
-    "phone": "+27227036900"
-  },
-  {
-    "name": "Happy Home Furniture (shop 2 )",
-    "address": "M1, Jenda, Malawi",
-    "phone": null
-  },
-  {
-    "name": "Kasungu",
-    "address": "Kasungu, Malawi",
-    "phone": "+265994265062"
-  },
-  {
-    "name": "Kasungu Hill",
-    "address": "Lilongwe, Malawi",
-    "phone": null
-  },
-  { "name": "Kasungu", "address": "Maganga, Malawi", "phone": null },
-  {
-    "name": "Likhubula Falls (Dziwe la Nkhalamba)",
-    "address": "Mulanje, Malawi",
-    "phone": "+265888551712"
-  }
+ {
+  "id": 1,
+  "name": "Protea by Marriott Hotel Blantyre Ryalls",
+  "Address": "Off Chilomoni Ring Road, Namiwawa, Blantyre, Blantyre, Malawi",
+  "phone": "+265993400400"
+ },
+ {
+  "id": 2,
+  "name": "Amaryllis Hotels",
+  "Address": "Kabula Hill, Blantyre, Malawi",
+  "phone": "+265996963110"
+ },
+ {
+  "id": 3,
+  "name": "Sunbird Mount Soche",
+  "Address": "Malawi, Blantyre, MW 布兰太尔 Kasungu Crescent Road, Chichiri CC1298Chichiri(Adjacent to Blantyre City Assembly",
+  "phone": "+265885999911"
+ },
+ {
+  "id": 4,
+  "name": "Malawi Sun Hotel",
+  "Address": "Laws Rd, Blantyre, Malawi",
+  "phone": "+265994833833"
+ },
+ {
+  "id": 5,
+  "name": "InstaHomes by Tru - Garden Suites",
+  "Address": "2 Hanover Ave, Blantyre, Malawi",
+  "phone": "+265999971023"
+ },
+ {
+  "id": 6,
+  "name": "Crossroads Hotel, Blantyre",
+  "Address": "28 Glyn Jones Rd, Blantyre, Malawi",
+  "phone": "+265111820588"
+ },
+ {
+  "id": 7,
+  "name": "Golden Peacock Hotel Blantyre",
+  "Address": "17 Mchonya Road, Blantyre, Malawi",
+  "phone": "+265887081246"
+ },
+ {
+  "id": 8,
+  "name": "Casa Mia Lodge \u0026 Restaurant",
+  "Address": "5 Robins Road, Blantyre, Malawi",
+  "phone": "+2651830069"
+ },
+ {
+  "id": 9,
+  "name": "Serendib Suites \u0026 Conference Centre Hotel",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651828441"
+ },
+ {
+  "id": 10,
+  "name": "Annie's Lodge Blantyre",
+  "Address": "Brereton, Blantyre, Malawi",
+  "phone": "+265991127927"
+ },
+ {
+  "id": 11,
+  "name": "Heritage Hotel by Serendib",
+  "Address": "Chileka Airport Road, Chileka, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 12,
+  "name": "Crossroads Hotel Blantyre",
+  "Address": "M2, Namadzi, Malawi",
+  "phone": "+265999271274"
+ },
+ {
+  "id": 13,
+  "name": "The Leslie",
+  "Address": "22kms from Blantyre to Lilongwe, M1, Blantyre, Malawi",
+  "phone": "+265982796000"
+ },
+ {
+  "id": 14,
+  "name": "Chinyonga Guest House",
+  "Address": "Chikwawa Road, Chikwawa, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 15,
+  "name": "Kris Star Lodge",
+  "Address": "Kameza Roundabout Near Chileka airport, Blantyre, Malawi",
+  "phone": "+265999647993"
+ },
+ {
+  "id": 16,
+  "name": "Mount Pleasant Inn",
+  "Address": "Chileka Road, Chileka, Malawi",
+  "phone": "+265888326346"
+ },
+ {
+  "id": 17,
+  "name": "Blue Lagoon Lodge Blantyre",
+  "Address": "232 Chikwawa, Chikwawa, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 18,
+  "name": "Kris Star Lodge",
+  "Address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 19,
+  "name": "Top Lodge",
+  "Address": "McDonald Road, Close to Limbe Church, Mpingwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 20,
+  "name": "Delight Lodge -Malawi",
+  "Address": "Zomba Road, Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 21,
+  "name": "Sweet Home Lodge",
+  "Address": "Blantyre-Machingiri Road, Blantyre, Malawi",
+  "phone": "+265885105127"
+ },
+ {
+  "id": 22,
+  "name": "Danga Bed and Breakfast",
+  "Address": "Mbame Estate, Mirale, M1 Chikwawa Road, Blantyre Rural, Malawi",
+  "phone": "+265888836753"
+ },
+ {
+  "id": 23,
+  "name": "Sunnyside Inn",
+  "Address": "Unnamed Road, Blantyre, Malawi",
+  "phone": "+265995274170"
+ },
+ {
+  "id": 24,
+  "name": "Milestones Lodge",
+  "Address": "Likubula Road, Blantyre, Malawi",
+  "phone": "+265888532865"
+ },
+ {
+  "id": 25,
+  "name": "Cherrywood Estate",
+  "Address": "Machinjiri Road, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 26,
+  "name": "Crossroads Hotel And Mall",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265111983799"
+ },
+ {
+  "id": 27,
+  "name": "hostellerie de france",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 28,
+  "name": "Game Haven Lodge",
+  "Address": "M3, Blantyre, Malawi",
+  "phone": "+265996999922"
+ },
+ {
+  "id": 29,
+  "name": "Alendo Hotel",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 30,
+  "name": "InstaHomes by Tru - Villa",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265881845128"
+ },
+ {
+  "id": 31,
+  "name": "Palm Valley Lodge",
+  "Address": "BE 12, Stephen, Blantyre, Malawi",
+  "phone": "+265888899181"
+ },
+ {
+  "id": 32,
+  "name": "Home Up",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 33,
+  "name": "Blantyre Lodge",
+  "Address": "Wright Road, Blantyre, Malawi",
+  "phone": "+265991349643"
+ },
+ {
+  "id": 34,
+  "name": "Chez Maky (hotel and restaraunt)",
+  "Address": "Glynn Jones Rd, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 35,
+  "name": "Mo \u0026 Mic Lodge",
+  "Address": "Lunzu, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 36,
+  "name": "Dorvic Hotel",
+  "Address": "St Columba, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 37,
+  "name": "Kabula Lodge",
+  "Address": "P.O Box 1028, Blantyre, Malawi",
+  "phone": "+265885261618"
+ },
+ {
+  "id": 38,
+  "name": "Mijn Kitchen",
+  "Address": "Lunzu Road, Nyambadwe, Malawi",
+  "phone": "+265886396281"
+ },
+ {
+  "id": 39,
+  "name": "Ruby's Guest House Nyambadwe",
+  "Address": "Chileka Road, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 40,
+  "name": "Cletus House",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 41,
+  "name": "Home Up Guest Apartments and Lodge",
+  "Address": "Viphya Avenue, Chigumula, Limbe, Blantyre, Malawi",
+  "phone": "+265990223020"
+ },
+ {
+  "id": 42,
+  "name": "Goldcard Executive Lodge",
+  "Address": "Chigumula Close, Blantyre, Malawi",
+  "phone": "+265881355142"
+ },
+ {
+  "id": 43,
+  "name": "Pedros Lodge",
+  "Address": "Unnamed Road, Blantyre, Malawi",
+  "phone": "+265883907555"
+ },
+ {
+  "id": 44,
+  "name": "Catalina Lodge and Botanical Gardens Malawi",
+  "Address": "Kanjedza Road, Blantyre, Malawi",
+  "phone": "+265991686339"
+ },
+ {
+  "id": 45,
+  "name": "Chilembwe Lodge",
+  "Address": "CHILEKA ROAD P.O BOX 413, Blantyre, Malawi",
+  "phone": "+265888894575"
+ },
+ {
+  "id": 46,
+  "name": "Monarchy Square",
+  "Address": "2 Central Avenue, Blantyre, Malawi",
+  "phone": "+265995896014"
+ },
+ {
+  "id": 47,
+  "name": "DMS Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 48,
+  "name": "Travelodge",
+  "Address": "Victoria aven m1 malawi Ci opposite Southend school, Blantyre, Malawi",
+  "phone": "+265998851096"
+ },
+ {
+  "id": 49,
+  "name": "Village Green",
+  "Address": "Lali Lubani, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 50,
+  "name": "Lodge Mungo",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265881162769"
+ },
+ {
+  "id": 51,
+  "name": "Grace Bandawe Hostel",
+  "Address": "M1, Blantyre, Malawi",
+  "phone": "+265997299170"
+ },
+ {
+  "id": 52,
+  "name": "Felicity Suites",
+  "Address": "Buhanan, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 53,
+  "name": "GRACE BANDAWE CONFERENCE CENTRE",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 54,
+  "name": "The Grand Suites - Kanjedza",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 55,
+  "name": "Rigra Lodge",
+  "Address": "Off, Forbes Road, Blantyre, Malawi",
+  "phone": "+265881969908"
+ },
+ {
+  "id": 56,
+  "name": "Perk Premier Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651833430"
+ },
+ {
+  "id": 57,
+  "name": "Baobab Backpackers Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265998530830"
+ },
+ {
+  "id": 58,
+  "name": "New Nkhwazi Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265999981937"
+ },
+ {
+  "id": 59,
+  "name": "Mkango Hotel \u0026 Conference Centre",
+  "Address": "Saunders Rd, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 60,
+  "name": "Bonifant Lodge",
+  "Address": "15°44'59.9\"S 35°00'17., M 3, Blantyre, Malawi",
+  "phone": "15445993500173"
+ },
+ {
+  "id": 61,
+  "name": "Morning Up Lodge",
+  "Address": "Hardman Road, Blantyre, Malawi",
+  "phone": "+265991391501"
+ },
+ {
+  "id": 62,
+  "name": "Nkomadzi Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265885413444"
+ },
+ {
+  "id": 63,
+  "name": "Maoni Guest House",
+  "Address": "Sunnyside Lodge, Blantyre, Malawi",
+  "phone": "+2651833764"
+ },
+ {
+  "id": 64,
+  "name": "Malawi tourism",
+  "Address": "Southend, Blantyre, Blantyre, Malawi",
+  "phone": "+265998530830"
+ },
+ {
+  "id": 65,
+  "name": "14 Mombo",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265880713161"
+ },
+ {
+  "id": 66,
+  "name": "Hills Country House",
+  "Address": "Nyambadwe Crescent, Blantyre, Malawi",
+  "phone": "+265887081246"
+ },
+ {
+  "id": 67,
+  "name": "Kwacha Cabana",
+  "Address": "11 Majete Road, Blantyre, Malawi",
+  "phone": "+265995600213"
+ },
+ {
+  "id": 68,
+  "name": "Soche tourist lodge",
+  "Address": "Thyolo Road, Chigumula, Malawi",
+  "phone": "+265882558255"
+ },
+ {
+  "id": 69,
+  "name": "Heritage by Serendib",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265995821866"
+ },
+ {
+  "id": 70,
+  "name": "Rubys Guesthouse",
+  "Address": "T417 Near Bvumbwe Research Station, Chigumula, Malawi",
+  "phone": "+265999971286"
+ },
+ {
+  "id": 71,
+  "name": "The White Premier Lodge",
+  "Address": "Chilomoni Ring Road, Blantyre, Malawi",
+  "phone": "+265888833586"
+ },
+ {
+  "id": 72,
+  "name": "Lissah Hill View Lodge",
+  "Address": "Chileka Road, Chileka, Malawi",
+  "phone": "+265992465757"
+ },
+ {
+  "id": 73,
+  "name": "Dika Hotel",
+  "Address": "Mandala, Blantyre, Malawi",
+  "phone": "+265888887772"
+ },
+ {
+  "id": 74,
+  "name": "Danga Bed \u0026 Breakfast",
+  "Address": "Magalasi Road, Chileka, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 75,
+  "name": "Motel Paradise",
+  "Address": "1 Hanover Ave, Blantyre, Malawi",
+  "phone": "+2651828044"
+ },
+ {
+  "id": 76,
+  "name": "Fisherman's Rest",
+  "Address": "3 Smythe Road, Blantyre, Malawi",
+  "phone": "+265986921563"
+ },
+ {
+  "id": 77,
+  "name": "Summerland Mapanga Lodge",
+  "Address": "Clapperton road, Off, Hardman Road, Blantyre, Malawi",
+  "phone": "+265888865815"
+ },
+ {
+  "id": 78,
+  "name": "Mpingwe Motel",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265888871872"
+ },
+ {
+  "id": 79,
+  "name": "Green Valley Lodge",
+  "Address": "Chigumula township, Blue Lagoon Lodge, Blantyre, Malawi",
+  "phone": "+265997463427"
+ },
+ {
+  "id": 80,
+  "name": "Summerland Mapanga Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651878188"
+ },
+ {
+  "id": 81,
+  "name": "Good Life Lodge",
+  "Address": "Unnamed Road, Blantyre, Malawi",
+  "phone": "+2651827292"
+ },
+ {
+  "id": 82,
+  "name": "The White Village Countryside Motel",
+  "Address": "Chilomoni Ring Rd, Blantyre, Malawi",
+  "phone": "+265999839033"
+ },
+ {
+  "id": 83,
+  "name": "Thawale Lodge",
+  "Address": "Unnamed Road, Blantyre, Malawi",
+  "phone": "+2651827292"
+ },
+ {
+  "id": 84,
+  "name": "Good Hope Rest House",
+  "Address": "2 Leslie Rd, Box 1744, Malawi",
+  "phone": "+265999828929"
+ },
+ {
+  "id": 85,
+  "name": "Bliss \u0026 Honey Conference centre",
+  "Address": "35 - B Namiwawa Avenue, Blantyre, Malawi",
+  "phone": "+265996999934"
+ },
+ {
+  "id": 86,
+  "name": "Indaba Executive Lodge",
+  "Address": "Kabula Hill, Blantyre, Malawi",
+  "phone": "+2651828444"
+ },
+ {
+  "id": 87,
+  "name": "Vasco Milinyu Lodge",
+  "Address": "Lower Scater, Blantyre, Malawi",
+  "phone": "+2651823500"
+ },
+ {
+  "id": 88,
+  "name": "Midway Lodge",
+  "Address": "Milward Road, Blantyre, Malawi",
+  "phone": "+265996999922"
+ },
+ {
+  "id": 89,
+  "name": "Carrigan's Blantyre",
+  "Address": "242 Glasgow Rd, Blantyre, Glasgow G72 0AB, United Kingdom",
+  "phone": "+447426681347"
+ },
+ {
+  "id": 90,
+  "name": "Red Burn Farm - Dining \u0026 Carvery",
+  "Address": "Blantyre, Glasgow G72 0XG, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 91,
+  "name": "The Parkville Bar Restaurant \u0026 Hotel",
+  "Address": "64 Coatshill Ave, Blantyre, Glasgow G72 9LE, United Kingdom",
+  "phone": "+447464447166"
+ },
+ {
+  "id": 92,
+  "name": "Devon's Kitchen",
+  "Address": "14 Forrest St, Blantyre, Glasgow G72 0JP, United Kingdom",
+  "phone": "+447493997947"
+ },
+ {
+  "id": 93,
+  "name": "Spice of Life",
+  "Address": "296 Glasgow Rd, Blantyre, Glasgow G72 9DG, United Kingdom",
+  "phone": "+441698822861"
+ },
+ {
+  "id": 94,
+  "name": "Madras Cottage",
+  "Address": "3 Stonefield Rd, Blantyre, Glasgow G72 9PH, United Kingdom",
+  "phone": "+441698822115"
+ },
+ {
+  "id": 95,
+  "name": "Snack Shack",
+  "Address": "251 Glasgow Rd, Blantyre, Glasgow G72 0YS, United Kingdom",
+  "phone": "+441698828620"
+ },
+ {
+  "id": 96,
+  "name": "Roland Fillings Blantyre",
+  "Address": "2 Station Rd, Blantyre, Glasgow G72 9AB, United Kingdom",
+  "phone": "+441698823238"
+ },
+ {
+  "id": 97,
+  "name": "Happy Season",
+  "Address": "100 Broompark Rd, Blantyre, Glasgow G72 9RN, United Kingdom",
+  "phone": "+441698823123"
+ },
+ {
+  "id": 98,
+  "name": "Stacks Cafe",
+  "Address": "East Ave, Blantyre, Glasgow G72 0JB, United Kingdom",
+  "phone": "+441698822712"
+ },
+ {
+  "id": 99,
+  "name": "The Cafe Blantyre Industrial Estate Top Of The Hill",
+  "Address": "Bothwell, Glasgow M74, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 100,
+  "name": "Agnew Sandwich Shop",
+  "Address": "61 Udston Rd, Hamilton ML3 9HX, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 101,
+  "name": "Shang Hai Wok",
+  "Address": "8 Burnbank Rd, Hamilton ML3 9AA, United Kingdom",
+  "phone": "+441698459988"
+ },
+ {
+  "id": 102,
+  "name": "Golden Sea",
+  "Address": "139 Quarry St, Hamilton ML3 7DR, United Kingdom",
+  "phone": "+441698285888"
+ },
+ {
+  "id": 103,
+  "name": "Lucky House",
+  "Address": "26 Burnbank Rd, Hamilton ML3 9AA, United Kingdom",
+  "phone": "+441698422885"
+ },
+ {
+  "id": 104,
+  "name": "Grade A Sandwiches",
+  "Address": "Strathclyde Country Park, Hamilton Road, Bellshill, Motherwell ML1 3RT, United Kingdom",
+  "phone": "+441698642105"
+ },
+ {
+  "id": 105,
+  "name": "Spice Club",
+  "Address": "217 Hamilton Rd, Cambuslang, Glasgow G72 7PH, United Kingdom",
+  "phone": "+441413858111"
+ },
+ {
+  "id": 106,
+  "name": "Gino's",
+  "Address": "109 Almada St, Hamilton ML3 0EX, United Kingdom",
+  "phone": "+441698657084"
+ },
+ {
+  "id": 107,
+  "name": "Sun House Chinese Takeaway",
+  "Address": "154 Almada St, Hamilton ML3 0EW, United Kingdom",
+  "phone": "+441698420076"
+ },
+ {
+  "id": 108,
+  "name": "Good taste",
+  "Address": "Unit 2c Hallside Ct, Cambuslang, Glasgow G72 7FB, United Kingdom",
+  "phone": "+441416417170"
+ },
+ {
+  "id": 109,
+  "name": "Grahams Fish \u0026 Chips",
+  "Address": "3 Margaret Rd, Hamilton ML3 0LB, United Kingdom",
+  "phone": "+441698427772"
+ },
+ {
+  "id": 110,
+  "name": "Club Bombay Indian Takeaway",
+  "Address": "114 Main St, Uddingston, Glasgow G71 7HZ, United Kingdom",
+  "phone": "+441698812106"
+ },
+ {
+  "id": 111,
+  "name": "Divito's Chip Shop Blantyre",
+  "Address": "8-10 Glasgow Rd, Uddingston, Glasgow G71 7AS, United Kingdom",
+  "phone": "+441698813774"
+ },
+ {
+  "id": 112,
+  "name": "Cut",
+  "Address": "109 Low Waters Rd, Hamilton ML3 7QG, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 113,
+  "name": "Brunch Box",
+  "Address": "20 Main St, Bothwell, Glasgow G71 8RB, United Kingdom",
+  "phone": "+441698852817"
+ },
+ {
+  "id": 114,
+  "name": "Shanghai Teahouse",
+  "Address": "42 Gateside St, Hamilton ML3 7JQ, United Kingdom",
+  "phone": "+441698424042"
+ },
+ {
+  "id": 115,
+  "name": "Riva",
+  "Address": "61A Laighstonehall Rd, Hamilton ML3 8PD, United Kingdom",
+  "phone": "+441698458883"
+ },
+ {
+  "id": 116,
+  "name": "Rosso",
+  "Address": "18 Woodlands Ave, Bothwell, Glasgow G71 8PY, United Kingdom",
+  "phone": "+441698852777"
+ },
+ {
+  "id": 117,
+  "name": "The Villa Hotel",
+  "Address": "10-12 Burnbank Rd, Hamilton ML3 9AA, United Kingdom",
+  "phone": "+441698423423"
+ },
+ {
+  "id": 118,
+  "name": "Leonardo's",
+  "Address": "130 Quarry St, Hamilton ML3 6QS, United Kingdom",
+  "phone": "+441698458174"
+ },
+ {
+  "id": 119,
+  "name": "The Kurry Lounge - Indian Restaurant Hamilton",
+  "Address": "5-8 Kemp St, Hamilton ML3 6QL, United Kingdom",
+  "phone": "+441698283445"
+ },
+ {
+  "id": 120,
+  "name": "Eddie's",
+  "Address": "63 Laighstonehall Rd, Hamilton ML3 8PD, United Kingdom",
+  "phone": "+441698200890"
+ },
+ {
+  "id": 121,
+  "name": "New Good Fortune Chinese (Delivery 5 Miles)",
+  "Address": "3 Hillhouse Rd, Hamilton ML3 9TE, United Kingdom",
+  "phone": "+441698285936"
+ },
+ {
+  "id": 122,
+  "name": "Crossbasket Castle",
+  "Address": "45 Beckford St, Hamilton ML3 0BT, United Kingdom",
+  "phone": "+441698768686"
+ },
+ {
+  "id": 123,
+  "name": "The Cricklewood",
+  "Address": "257 Hamilton Rd, Cambuslang, Glasgow G72 7PH, United Kingdom",
+  "phone": "+441416412111"
+ },
+ {
+  "id": 124,
+  "name": "Cafe Eataliano",
+  "Address": "1-3 Main St, Bothwell, Glasgow G71 8RD, United Kingdom",
+  "phone": "+441698850888"
+ },
+ {
+  "id": 125,
+  "name": "Grill \u0026 banter Cambuslang",
+  "Address": "East Ave, Blantyre, Glasgow G72 0JB, United Kingdom",
+  "phone": "+441698688880"
+ },
+ {
+  "id": 126,
+  "name": "Rocca Ristorante \u0026 Bar",
+  "Address": "Hamilton Rd, Cambuslang, Glasgow G72 7PG, United Kingdom",
+  "phone": "+441412372090"
+ },
+ {
+  "id": 127,
+  "name": "4 Seasons",
+  "Address": "2 Clarkwell Rd, Hamilton ML3 9TQ, United Kingdom",
+  "phone": "+441698827777"
+ },
+ {
+  "id": 128,
+  "name": "Bake N Butty",
+  "Address": "Kokki, 21B Gateside St, Hamilton ML3 7HT, United Kingdom",
+  "phone": "+441698767610"
+ },
+ {
+  "id": 129,
+  "name": "HAMILTON",
+  "Address": "18-20 Cadzow St, Hamilton ML3 6DG, United Kingdom",
+  "phone": "+441698282603"
+ },
+ {
+  "id": 130,
+  "name": "The Bombay Cottage",
+  "Address": "262 Hamilton Rd, Cambuslang, Glasgow G72 7PF, United Kingdom",
+  "phone": "+441416410022"
+ },
+ {
+  "id": 131,
+  "name": "GC Bar \u0026 Bistro",
+  "Address": "3 Birkhall Road, Hamilton ML3 8BG, United Kingdom",
+  "phone": "+441698285990"
+ },
+ {
+  "id": 132,
+  "name": "Shanghai",
+  "Address": "23 Gateside St, Hamilton ML3 7HT, United Kingdom",
+  "phone": "+441698285823"
+ },
+ {
+  "id": 133,
+  "name": "Bravo Fish And Chips",
+  "Address": "105 Main St, Uddingston, Glasgow G71 7EW, United Kingdom",
+  "phone": "+441698801383"
+ },
+ {
+  "id": 134,
+  "name": "Bombay Tandoori",
+  "Address": "199 Main St, Uddingston, Glasgow G71 7BP, United Kingdom",
+  "phone": "+441698818444"
+ },
+ {
+  "id": 135,
+  "name": "Equi's Restaurant \u0026 Ice Cream Parlour",
+  "Address": "I C Loans Ltd, 14 Brandon St, Hamilton ML3 6AB, United Kingdom",
+  "phone": "+441698282631"
+ },
+ {
+  "id": 136,
+  "name": "Beefeater Hamilton",
+  "Address": "14 Burnbank Centre, Hamilton ML3 0NQ, United Kingdom",
+  "phone": "+441698282982"
+ },
+ {
+  "id": 137,
+  "name": "Gusti D'Italia",
+  "Address": "111 Main St, Uddingston, Glasgow G71 7EW, United Kingdom",
+  "phone": "+441414734445"
+ },
+ {
+  "id": 138,
+  "name": "Hot Flame World Buffet Limited",
+  "Address": "285 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": "+441698823047"
+ },
+ {
+  "id": 139,
+  "name": "Pietruccio’s",
+  "Address": "Unit 5, 72 Hillhouse Rd, Hamilton ML3 9TE, United Kingdom",
+  "phone": "+441698457111"
+ },
+ {
+  "id": 140,
+  "name": "Marini's Fish \u0026 Chicken Bar Hamilton",
+  "Address": "Strathclyde Country Park, Hamilton Rd, Bellshill, Motherwell ML1 3WB, United Kingdom",
+  "phone": "+441698854715"
+ },
+ {
+  "id": 141,
+  "name": "The Lantern",
+  "Address": "37 Burnbank Rd, Hamilton ML3 9AQ, United Kingdom",
+  "phone": "+441698283967"
+ },
+ {
+  "id": 142,
+  "name": "The Chapterhouse Cafe",
+  "Address": "2 Silverwells Cres, Bothwell, Glasgow G71 8SE, United Kingdom",
+  "phone": "+441698852722"
+ },
+ {
+  "id": 143,
+  "name": "Oozi's German Donner and Desserts",
+  "Address": "20 Bothwell Rd, Hamilton ML3 0AY, United Kingdom",
+  "phone": "+441698477729"
+ },
+ {
+  "id": 144,
+  "name": "Allanshaw Kitchen Snack Box, Hamilton",
+  "Address": "17-21 Campbell St, Hamilton ML3 6AS, United Kingdom",
+  "phone": "+441698767900"
+ },
+ {
+  "id": 145,
+  "name": "Marini's",
+  "Address": "Allanshaw Industrial Estate Wellhall Rd, 1 Peacock Dr, Hamilton ML3 9FJ, United Kingdom",
+  "phone": "+447713476219"
+ },
+ {
+  "id": 146,
+  "name": "Stefano's Italian Restaurant",
+  "Address": "Purdie St, Hamilton ML3 0NF, United Kingdom",
+  "phone": "+441698284277"
+ },
+ {
+  "id": 147,
+  "name": "Daluciano",
+  "Address": "84 Main St, Uddingston, Glasgow G71 7LR, United Kingdom",
+  "phone": "+441698816000"
+ },
+ {
+  "id": 148,
+  "name": "Spice Indian Cuisine",
+  "Address": "87 Main St, Bothwell, Glasgow G71 8ER, United Kingdom",
+  "phone": "+441698852330"
+ },
+ {
+  "id": 149,
+  "name": "Korner Express",
+  "Address": "245 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": "+441698644611"
+ },
+ {
+  "id": 150,
+  "name": "Toby Carvery Strathclyde Park",
+  "Address": "58 Alloway Rd, East Kilbride, Glasgow G74 3SD, United Kingdom",
+  "phone": "+441355232068"
+ },
+ {
+  "id": 151,
+  "name": "Twenty One Restaurant",
+  "Address": "4 D, Auchingramont Rd, Hamilton ML3 6JT, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 152,
+  "name": "The Manzil",
+  "Address": "125 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": "+441698284277"
+ },
+ {
+  "id": 153,
+  "name": "Boh’ cucina",
+  "Address": "54 Main St, Bothwell, Glasgow G71 8EX, United Kingdom",
+  "phone": "+441698858566"
+ },
+ {
+  "id": 154,
+  "name": "Spicy Cottage",
+  "Address": "30 Campbell St, Hamilton ML3 6AS, United Kingdom",
+  "phone": "+441698540665"
+ },
+ {
+  "id": 155,
+  "name": "Divitos Fish \u0026 Chips Burnbank",
+  "Address": "2C Hallside Ct, Cambuslang, Glasgow G72 7FB, United Kingdom",
+  "phone": "+441416429459"
+ },
+ {
+  "id": 156,
+  "name": "SmithS Restaurant",
+  "Address": "255 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": "+441698712288"
+ },
+ {
+  "id": 157,
+  "name": "Tinto Tapas",
+  "Address": "13 Townhead St, Hamilton ML3 7BQ, United Kingdom",
+  "phone": "+441698423950"
+ },
+ {
+  "id": 158,
+  "name": "Jilts Bar",
+  "Address": "Townhead St, Hamilton ML3 7BL, United Kingdom",
+  "phone": "+441698756084"
+ },
+ {
+  "id": 159,
+  "name": "Carrigan's Hamilton",
+  "Address": "12 Clarkwell Rd, Hamilton ML3 9TQ, United Kingdom",
+  "phone": "+441698828000"
+ },
+ {
+  "id": 160,
+  "name": "Bombay Kitchen",
+  "Address": "253 Glasgow Rd, Burnbank Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": "+441698828851"
+ },
+ {
+  "id": 161,
+  "name": "Amran Tandoori",
+  "Address": "277a Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 162,
+  "name": "Amran Tandoori",
+  "Address": "1-2 Lower Auchingramont Rd, Hamilton ML3 6HW, United Kingdom",
+  "phone": "+441698767050"
+ },
+ {
+  "id": 163,
+  "name": "Gurkha Buffet Cambuslang",
+  "Address": "204 Hillhouse Rd, Hillhouse, Hamilton ML3 9NS, United Kingdom",
+  "phone": "+447763233199"
+ },
+ {
+  "id": 164,
+  "name": "Kokki, Contemporary Sushi",
+  "Address": "4 Lower Auchingramont Rd, Hamilton ML3 6HW, United Kingdom",
+  "phone": "+441698286957"
+ },
+ {
+  "id": 165,
+  "name": "Jade Palace Restaurant",
+  "Address": "31 Bothwell Rd, Hamilton ML3 0AS, United Kingdom",
+  "phone": "+441698283848"
+ },
+ {
+  "id": 166,
+  "name": "Camphill Vaults",
+  "Address": "113 Cadzow St, Hamilton ML3 6HN, United Kingdom",
+  "phone": "+441698200502"
+ },
+ {
+  "id": 167,
+  "name": "Snack Shack Spices",
+  "Address": "284 Hamilton Rd, Cambuslang, Glasgow G72 7PG, United Kingdom",
+  "phone": "+441412372090"
+ },
+ {
+  "id": 168,
+  "name": "Kerrusts",
+  "Address": "55 Almada St, Hamilton ML3 0HQ, United Kingdom",
+  "phone": "+441698427333"
+ },
+ {
+  "id": 169,
+  "name": "Shell",
+  "Address": "Crossbasket Castle, Stoneymeadow Rd, East Kilbride, Glasgow G72 9UE, United Kingdom",
+  "phone": "+441698829461"
+ },
+ {
+  "id": 170,
+  "name": "Golden Sea",
+  "Address": "58 High Blantyre Rd, Hamilton ML3 9HA, United Kingdom",
+  "phone": "+441698713233"
+ },
+ {
+  "id": 171,
+  "name": "Italian Feast",
+  "Address": "263 Glasgow Rd, Hamilton ML3 0QG, United Kingdom",
+  "phone": "+441698821155"
+ },
+ {
+  "id": 172,
+  "name": "Yee Hong Restaurant",
+  "Address": "78 Brandon St, Hamilton ML3 6AB, United Kingdom",
+  "phone": "+441698284090"
+ },
+ {
+  "id": 173,
+  "name": "Fat Yankees",
+  "Address": "4 Barrack St, Hamilton ML3 0DG, United Kingdom",
+  "phone": "+441698284379"
+ },
+ {
+  "id": 174,
+  "name": "Hungry Joe’s",
+  "Address": "49-51 Burnbank Rd, Hamilton ML3 9AQ, United Kingdom",
+  "phone": "+441698891777"
+ },
+ {
+  "id": 175,
+  "name": "Masala Takeaway",
+  "Address": "25 Main St, Bothwell, Glasgow G71 8RD, United Kingdom",
+  "phone": "+441698850999"
+ },
+ {
+  "id": 176,
+  "name": "Lucky View",
+  "Address": "1 Main St, Bothwell, Glasgow G71 8RD, United Kingdom",
+  "phone": "+441698850888"
+ },
+ {
+  "id": 177,
+  "name": "Monterey Jacks",
+  "Address": "1 Old Mill Rd, Bothwell, Glasgow G71 8AY, United Kingdom",
+  "phone": "+441698850412"
+ },
+ {
+  "id": 178,
+  "name": "Simply Salads",
+  "Address": "54 High Blantyre Rd, Hamilton ML3 9HA, United Kingdom",
+  "phone": "+441698827594"
+ },
+ {
+  "id": 179,
+  "name": "Redstones",
+  "Address": "Unit 22 Whistleberry Investment, Blantyre, Hamilton ML3 0ED, United Kingdom",
+  "phone": "+441698652030"
+ },
+ {
+  "id": 180,
+  "name": "Jasmine Takeaway",
+  "Address": "487 Glasgow Rd, Blantyre, Glasgow G72 9HP, United Kingdom",
+  "phone": "+441698710145"
+ },
+ {
+  "id": 181,
+  "name": "Golden Leaf",
+  "Address": "34 Hamilton Rd, Bothwell, Glasgow G71 8NB, United Kingdom",
+  "phone": "+441698451896"
+ },
+ {
+  "id": 182,
+  "name": "Angels Hotel Bar \u0026 Restaurant",
+  "Address": "250 Glasgow Rd, Blantyre, Glasgow G72 0AB, United Kingdom",
+  "phone": "+441698327130"
+ },
+ {
+  "id": 183,
+  "name": "Grill \u0026 Kebab House",
+  "Address": "256 Glasgow Rd, Blantyre, Glasgow G72 0YH, United Kingdom",
+  "phone": "+441698822922"
+ },
+ {
+  "id": 184,
+  "name": "The Hungry Gannet",
+  "Address": "253 Glasgow Rd, Blantyre, Glasgow G72 0YS, United Kingdom",
+  "phone": "+441698828988"
+ },
+ {
+  "id": 185,
+  "name": "Piri Chico's",
+  "Address": "272 Main St, Blantyre, Glasgow G72 0DH, United Kingdom",
+  "phone": "+441698327131"
+ },
+ {
+  "id": 186,
+  "name": "Forges Line Bar",
+  "Address": "250 Main St, Blantyre, Glasgow G72 0DH, United Kingdom",
+  "phone": "+441698723822"
+ },
+ {
+  "id": 187,
+  "name": "Mushtaqs",
+  "Address": "256 Main St, Blantyre, Glasgow G72 0DH, United Kingdom",
+  "phone": "+441698825181"
+ },
+ {
+  "id": 188,
+  "name": "Regent Shopping Centre",
+  "Address": "M2, Blantyre, Malawi",
+  "phone": "+265999406786"
+ },
+ {
+  "id": 189,
+  "name": "New Cross Centre",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651879667"
+ },
+ {
+  "id": 190,
+  "name": "B\u0026M Home Store with Garden Centre",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 191,
+  "name": "Motherwell Shopping Centre",
+  "Address": "Whistleberry Retail Park, Blantyre, Glasgow G72 0TH, United Kingdom",
+  "phone": "+448004332274"
+ },
+ {
+  "id": 192,
+  "name": "Cash4Clothes",
+  "Address": "Unit 3, Ochil View Court, Blantyre, Lanarkshire G72 0TH, United Kingdom",
+  "phone": "+443308389499"
+ },
+ {
+  "id": 193,
+  "name": "MALIDA SHOPPING CENTER",
+  "Address": "New cross Shopping centre, Hamilton ML3 6AH, United Kingdom",
+  "phone": "+441698459296"
+ },
+ {
+  "id": 194,
+  "name": "Pamodzi Shopping Centre",
+  "Address": "Brandon Parade South, 28 Brandon Parade S, Motherwell ML1 1RB, United Kingdom",
+  "phone": "+441698265608"
+ },
+ {
+  "id": 195,
+  "name": "China Shopping Centre",
+  "Address": "Regent Way, Regent Shopping Centre, Hamilton ML3 7DZ, United Kingdom",
+  "phone": "+441698285947"
+ },
+ {
+  "id": 196,
+  "name": "Mall of Africa",
+  "Address": "165 Station Rd, Blantyre, Glasgow G72 9BY, United Kingdom",
+  "phone": "+441413753105"
+ },
+ {
+  "id": 197,
+  "name": "David Livingstone Birthplace",
+  "Address": "Livingstone Ave, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 198,
+  "name": "Pacific Plaza Limbe",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 199,
+  "name": "Terminal One Youth Centre",
+  "Address": "Livingstone Ave, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 200,
+  "name": "Blantyre Library",
+  "Address": "Blantyre, Glasgow G72 0JS, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 201,
+  "name": "Pacific Plaza under Sgw Auctioneers",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265212326999"
+ },
+ {
+  "id": 202,
+  "name": "Pacific Plaza Market under SGW Auctioneers and Estate Agents",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265997639330"
+ },
+ {
+  "id": 203,
+  "name": "Greenhall Country Cafe \u0026 Farm Shop",
+  "Address": "5 Clyde View Shopping Centre, Blantyre, Glasgow G72 0QD, United Kingdom",
+  "phone": "+441698824365"
+ },
+ {
+  "id": 204,
+  "name": "Optical Express Cataract Surgery \u0026 Opticians: Blantyre",
+  "Address": "JAK Arcade, Blantyre, Malawi",
+  "phone": "+265211326999"
+ },
+ {
+  "id": 205,
+  "name": "Blantyre Sports Centre",
+  "Address": "Hamilton Rd, Blantyre, Glasgow G72 9UD, United Kingdom",
+  "phone": "+441698825598"
+ },
+ {
+  "id": 206,
+  "name": "YUNUR GENERAL TRADING",
+  "Address": "Clydeview Shopping Center, 1A Glasgow Rd, Glasgow G72 0QD, United Kingdom",
+  "phone": "+441698823808"
+ },
+ {
+  "id": 207,
+  "name": "Rahima Mall",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265884050067"
+ },
+ {
+  "id": 208,
+  "name": "Cyenet Business Centre",
+  "Address": "9-11 Logan St, Blantyre, Glasgow G72 0NT, United Kingdom",
+  "phone": "+441698829455"
+ },
+ {
+  "id": 209,
+  "name": "Museum of Malawi",
+  "Address": "Behind Wenela Bus Terminal, Blantyre, Malawi",
+  "phone": "+265999569272"
+ },
+ {
+  "id": 210,
+  "name": "Nyasa Adventures",
+  "Address": "31 John, Chilembwe Rd, Blantyre, Malawi",
+  "phone": "+265997612297"
+ },
+ {
+  "id": 211,
+  "name": "Majete Wildlife Reserve",
+  "Address": "Maganga, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 212,
+  "name": "KwaHaraba Art Gallery and Cafe",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 213,
+  "name": "La Caverna",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265993801564"
+ },
+ {
+  "id": 214,
+  "name": "Mount Soche",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651873258"
+ },
+ {
+  "id": 215,
+  "name": "Michiru Mountain",
+  "Address": "Old Manager’s House National Monument Kaohsiung Road Top, Blantyre, Malawi",
+  "phone": "+265999911781"
+ },
+ {
+  "id": 216,
+  "name": "Liwonde National Park Main Entrance Gate",
+  "Address": "Castle Ave, Uddingston, Bothwell, Glasgow G71 8BL, United Kingdom",
+  "phone": "+441698816894"
+ },
+ {
+  "id": 217,
+  "name": "Mulanje Mountain",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 218,
+  "name": "David Livingstone Birthplace",
+  "Address": "Priory, Blantyre, Glasgow G72 9UQ, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 219,
+  "name": "H S Winehouse",
+  "Address": "Glasgow Rd, Strathaven ML10 6LZ, United Kingdom",
+  "phone": "+441494421417"
+ },
+ {
+  "id": 220,
+  "name": "Chilomoni",
+  "Address": "Stadium Road, Blantyre, Malawi",
+  "phone": "+265983705154"
+ },
+ {
+  "id": 221,
+  "name": "Redlees Urban Park",
+  "Address": "Dalzell Burn,, Motherwell, United Kingdom",
+  "phone": "+441698402090"
+ },
+ {
+  "id": 222,
+  "name": "St.Michael's and All Angels Church",
+  "Address": "Leslie Road, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 223,
+  "name": "Blantyre",
+  "Address": "2 Glenburn Rd, East Kilbride, Glasgow G74 5BA, United Kingdom",
+  "phone": "+441355223622"
+ },
+ {
+  "id": 224,
+  "name": "The Society of Malawi Library",
+  "Address": "Langlands Square, East Kilbride, Glasgow G75 0YY, United Kingdom",
+  "phone": ""
+ },
+ {
+  "id": 225,
+  "name": "Lilongwe Wildlife Centre",
+  "Address": "Wester Kittochside Philipshill Road East Kilbride, Glasgow G76 9HR, United Kingdom",
+  "phone": "+443001236789"
+ },
+ {
+  "id": 226,
+  "name": "Chikapa Catholic Church",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 227,
+  "name": "Millie's Artisan Bakery",
+  "Address": "Off Chilomoni Ring Road, Namiwawa, Blantyre, Blantyre, Malawi",
+  "phone": "+265993400400"
+ },
+ {
+  "id": 228,
+  "name": "Anchors Lounge",
+  "Address": "M2, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 229,
+  "name": "Sunbird Mount Soche",
+  "Address": "Chigumula township, Blue Lagoon Lodge, Blantyre, Malawi",
+  "phone": "+265997463427"
+ },
+ {
+  "id": 230,
+  "name": "Orbis DMC",
+  "Address": "Lower Scater, Blantyre, Malawi",
+  "phone": "+2651823500"
+ },
+ {
+  "id": 231,
+  "name": "Anna's Car Rental",
+  "Address": "Sunnyside Lodge, Blantyre, Malawi",
+  "phone": "+2651833764"
+ },
+ {
+  "id": 232,
+  "name": "Tiyamike Sewing",
+  "Address": "Stewartfield Way, East Kilbride, Glasgow G74 5LB, United Kingdom",
+  "phone": "+441355276611"
+ },
+ {
+  "id": 233,
+  "name": "Protea by Marriott Hotel Blantyre Ryalls",
+  "Address": "Malawi, Blantyre, MW 布兰太尔 Kasungu Crescent Road, Chichiri CC1298Chichiri(Adjacent to Blantyre City Assembly",
+  "phone": "+265885999911"
+ },
+ {
+  "id": 234,
+  "name": "Amaryllis Hotels",
+  "Address": "T417 Near Bvumbwe Research Station, Chigumula, Malawi",
+  "phone": "+265999971286"
+ },
+ {
+  "id": 235,
+  "name": "Heritage Hotel by Serendib",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265885413444"
+ },
+ {
+  "id": 236,
+  "name": "Game Stores",
+  "Address": "Chilomoni Ring Road, Blantyre, Malawi",
+  "phone": "+265888833586"
+ },
+ {
+  "id": 237,
+  "name": "Sky Lounge Bar",
+  "Address": "1 Hanover Ave, Blantyre, Malawi",
+  "phone": "+2651828044"
+ },
+ {
+  "id": 238,
+  "name": "hostellerie de france",
+  "Address": "6 Ring Road, Blantyre, Malawi",
+  "phone": "+265992505283"
+ },
+ {
+  "id": 239,
+  "name": "Crossroads Hotel And Mall",
+  "Address": "20 Glynn Jones Rd, Blantyre, Malawi",
+  "phone": "+265887240000"
+ },
+ {
+  "id": 240,
+  "name": "Shire Eco Safari Camp",
+  "Address": "Balaka, Malawi",
+  "phone": "+265882948486"
+ },
+ {
+  "id": 241,
+  "name": "Le Croissant",
+  "Address": "M3, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 242,
+  "name": "SS RENT A CAR",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651870182"
+ },
+ {
+  "id": 243,
+  "name": "Mijn Kitchen",
+  "Address": "Milward Road, Blantyre, Malawi",
+  "phone": "+265996999922"
+ },
+ {
+  "id": 244,
+  "name": "Game Haven Lodge",
+  "Address": "Laws Rd, Blantyre, Malawi",
+  "phone": "+265994833833"
+ },
+ {
+  "id": 245,
+  "name": "Golden Peacock Hotel Blantyre",
+  "Address": "2 Hanover Ave, Blantyre, Malawi",
+  "phone": "+265999971023"
+ },
+ {
+  "id": 246,
+  "name": "James Hamilton Heritage Park",
+  "Address": "14 Kidney Crescent, Blantyre, Malawi",
+  "phone": "+265999268571"
+ },
+ {
+  "id": 247,
+  "name": "Wenela Bus Station",
+  "Address": "Top Mandala, The Travel Barn, Blantyre, Malawi",
+  "phone": "+265999306631"
+ },
+ {
+  "id": 248,
+  "name": "Hotel Victoria",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265999959399"
+ },
+ {
+  "id": 249,
+  "name": "Blue Lagoon Lodge Blantyre",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265888128468"
+ },
+ {
+  "id": 250,
+  "name": "Chipiku Plus Blantyre",
+  "Address": "28 Glyn Jones Rd, Blantyre, Malawi",
+  "phone": "+265111820588"
+ },
+ {
+  "id": 251,
+  "name": "Petroda Clock Tower Filling Station",
+  "Address": "Victoria Ave, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 252,
+  "name": "Serendib Suites \u0026 Conference Centre Hotel",
+  "Address": "Plastico Industry, 8 Kidney Crescent, Blantyre, Malawi",
+  "phone": "+265995326234"
+ },
+ {
+  "id": 253,
+  "name": "National Museum of Rural Life",
+  "Address": "Kenyatta, Lilongwe, Malawi",
+  "phone": "+265881788999"
+ },
+ {
+  "id": 254,
+  "name": "Langlands Moss Local Nature Reserve",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 255,
+  "name": "Chinyonga Guest House",
+  "Address": "Mandala, Mandala House, Blantyre, Malawi",
+  "phone": "+2651872617"
+ },
+ {
+  "id": 256,
+  "name": "Dalzell Estate",
+  "Address": "Kidney Crescent, Blantyre, Malawi",
+  "phone": "+265999202322"
+ },
+ {
+  "id": 257,
+  "name": "Wonder World Soft Play East Kilbride",
+  "Address": "Sokota Road, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 258,
+  "name": "Kaya Lounge",
+  "Address": "Blantyre Farm Rd, Glasgow G72 9UN, United Kingdom",
+  "phone": "+441416417080"
+ },
+ {
+  "id": 259,
+  "name": "Chikwawa",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265994646696"
+ },
+ {
+  "id": 260,
+  "name": "Strathaven Park",
+  "Address": "165 Station Rd, Blantyre, Glasgow G72 9BY, United Kingdom",
+  "phone": "+441413753105"
+ },
+ {
+  "id": 261,
+  "name": "Blantyre Priory Carvings",
+  "Address": "Mulanje, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 262,
+  "name": "bearing centre (A.R. Ismail) - Head Office.",
+  "Address": "Liwonde, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 263,
+  "name": "Umodzi Park Hotel",
+  "Address": "43/2/58, Mphonongo, Lilongwe, Malawi",
+  "phone": "+265999975959"
+ },
+ {
+  "id": 264,
+  "name": "Latitude 13 Degrees",
+  "Address": "Chilembwe, Lilongwe, Malawi",
+  "phone": "+265111773388"
+ },
+ {
+  "id": 265,
+  "name": "Sunbird Capital Hotel",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265993281760"
+ },
+ {
+  "id": 266,
+  "name": "Sunbird Lilongwe",
+  "Address": "Kamuzu Processsion Rd, Lilongwe, Malawi",
+  "phone": "+2651750333"
+ },
+ {
+  "id": 267,
+  "name": "Riverside Hotel \u0026 Conference Centre",
+  "Address": "Kamuzu Procession Rd, Lilongwe, Malawi",
+  "phone": "+265111756333"
+ },
+ {
+  "id": 268,
+  "name": "Lalibela Boutique Hotel",
+  "Address": "Chilembwe, Lilongwe, Malawi",
+  "phone": "+2651789888"
+ },
+ {
+  "id": 269,
+  "name": "Bridgeview Hotel And Conference Centre",
+  "Address": "New, Lilongwe, Malawi",
+  "phone": "+265888608771"
+ },
+ {
+  "id": 270,
+  "name": "Annavilla7 Lilongwe Aparthotel",
+  "Address": "PAUL KAGAME ROAD, NEAR LINGADZI INN, AREA 32, Lilongwe, Malawi",
+  "phone": "+265992771914"
+ },
+ {
+  "id": 271,
+  "name": "Bamboo Boutique Hotel",
+  "Address": "M1, Lilongwe, Malawi",
+  "phone": "+265999839666"
+ },
+ {
+  "id": 272,
+  "name": "Tranquilo Resorts Limited - Lilongwe (Area 10)",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 273,
+  "name": "chilambula lodge",
+  "Address": "Nkhamenya Drive - Area 47/4/909, Lilongwe, Malawi",
+  "phone": "+265991825099"
+ },
+ {
+  "id": 274,
+  "name": "Simama Hotel",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 275,
+  "name": "Thumbi View - Mabuya Camp",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 276,
+  "name": "Ad Lib Executive Lodge",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265995642298"
+ },
+ {
+  "id": 277,
+  "name": "BURLEY HOUSE GUEST HOUSE",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265999481722"
+ },
+ {
+  "id": 278,
+  "name": "Sheila's Lodge",
+  "Address": "Budget lodge house, Area 3 market, Lilongwe, Malawi",
+  "phone": "+2651753180"
+ },
+ {
+  "id": 279,
+  "name": "Lonjeta Self-Catering Apartments",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 280,
+  "name": "Nellys Guest House",
+  "Address": "43/2/183 Blantyre Street | Area 43, Lilongwe, Malawi, Area 43, Malawi",
+  "phone": "4321834343"
+ },
+ {
+  "id": 281,
+  "name": "Nellys Guest House",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 282,
+  "name": "Barefoot Lodge and Safaris",
+  "Address": "Area 47 Glorious Temple, Lilongwe, Malawi",
+  "phone": "+2651762843"
+ },
+ {
+  "id": 283,
+  "name": "Walinase Lodge and Holiday Apartments",
+  "Address": "109 Keppel Compton, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 284,
+  "name": "Cherries Egul Lodge",
+  "Address": "Area 18B, Kapita CCAP road, Lilongwe, Malawi",
+  "phone": "+265999679633"
+ },
+ {
+  "id": 285,
+  "name": "Kumbali Country Lodge",
+  "Address": "M1, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 286,
+  "name": "Dream Apartments",
+  "Address": "Plot no. 43/587 Off, Ufulu Rd, Lilongwe, Malawi",
+  "phone": "+265999274104"
+ },
+ {
+  "id": 287,
+  "name": "Douglas Lodge \u0026 Apartments",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265992783288"
+ },
+ {
+  "id": 288,
+  "name": "Avon Garden Apartments Area 25",
+  "Address": "Next to Paradice Kitchen 43/383/235 New Area 43, Lilongwe, Malawi",
+  "phone": "4338323543"
+ },
+ {
+  "id": 289,
+  "name": "Golden Peacock Hotel",
+  "Address": "po box 30312, Lilongwe, Malawi",
+  "phone": "+265886024176"
+ },
+ {
+  "id": 290,
+  "name": "Ufulu Gardens Hotel And Conference Center",
+  "Address": "P.O. Box 31130, Lilongwe 3, Malawi, Lilongwe, Malawi",
+  "phone": "+265885313935"
+ },
+ {
+  "id": 291,
+  "name": "Protea by Marriott Hotel Chipata",
+  "Address": "Avon Gardens, Lilongwe, Malawi",
+  "phone": "+265888823416"
+ },
+ {
+  "id": 292,
+  "name": "Chinyonga Guest House",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 293,
+  "name": "Woodlands Lilongwe",
+  "Address": "Zomba Street, 10/487, Area 10, Lilongwe, Malawi",
+  "phone": "+265888842519"
+ },
+ {
+  "id": 294,
+  "name": "Sanctuary Lodge",
+  "Address": "Davie's BnB, Lilongwe, Malawi",
+  "phone": "+265888827758"
+ },
+ {
+  "id": 295,
+  "name": "Heuglin's Lodge Lilongwe",
+  "Address": "Malagalanga, Lilongwe, Malawi",
+  "phone": "+265999528329"
+ },
+ {
+  "id": 296,
+  "name": "Lingadzi Inn",
+  "Address": "off kaunda road next to gateway mall, Lilongwe, Malawi",
+  "phone": "+265992628238"
+ },
+ {
+  "id": 297,
+  "name": "Douglas Lodge",
+  "Address": "Area 47 Sector 3, Off M1 Road, Msokela Road Bwandilo, Passing Total Gas Station turn first left then T junction on Mango Road turn to the left, Malawi",
+  "phone": "+265999510526"
+ },
+ {
+  "id": 298,
+  "name": "Mafumu Hotel",
+  "Address": "409 bwanje road area 47 lilongwe, Lilongwe, Malawi",
+  "phone": "+265999838341"
+ },
+ {
+  "id": 299,
+  "name": "Wendels Guest House",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 300,
+  "name": "Country Lodge",
+  "Address": "Barron Avenue, Lilongwe, Malawi",
+  "phone": "+2651755756"
+ },
+ {
+  "id": 301,
+  "name": "Mitengo House",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 302,
+  "name": "Hunters Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 303,
+  "name": "Safara House",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265881031057"
+ },
+ {
+  "id": 304,
+  "name": "Kalikuti",
+  "Address": "Kawale 2, Lilongwe, Malawi",
+  "phone": "+265991770789"
+ },
+ {
+  "id": 305,
+  "name": "Sunrise Motel, Lilongwe, Malawi",
+  "Address": "Crossroads, Area 6, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 306,
+  "name": "KASHA PREMIER LODGES",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265888393960"
+ },
+ {
+  "id": 307,
+  "name": "NOVABLANCA SUITES \u0026 CONFERENCE",
+  "Address": "Youth Dr, Lilongwe, Malawi",
+  "phone": "+265999973911"
+ },
+ {
+  "id": 308,
+  "name": "Wamkulu Palace",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 309,
+  "name": "Africa House Malawi",
+  "Address": "Livingstone, Lilongwe, Malawi",
+  "phone": "+265998599005"
+ },
+ {
+  "id": 310,
+  "name": "Bridgeview Hotel-City Centre",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+2651758971"
+ },
+ {
+  "id": 311,
+  "name": "Malabi Exclusive Lodge",
+  "Address": "Area 9, Plot 290B, Lilongwe, Malawi",
+  "phone": "+265995691982"
+ },
+ {
+  "id": 312,
+  "name": "Crystal Apartments",
+  "Address": "Plot 3056 Tsiranana Avenue, Area 3,, Lilongwe, Malawi",
+  "phone": "+265884930055"
+ },
+ {
+  "id": 313,
+  "name": "KGL (Korea Garden Lodge)",
+  "Address": "African Unity Avenue, Lilongwe, Malawi",
+  "phone": "+265993363666"
+ },
+ {
+  "id": 314,
+  "name": "Cakes lodge",
+  "Address": "Off Ufulu road behind Ufulu Gardens, 528, Lilongwe, Malawi",
+  "phone": "+265999912306"
+ },
+ {
+  "id": 315,
+  "name": "Capital Hotel",
+  "Address": "Area 6, 348, Lilongwe, Malawi",
+  "phone": "+447477222446"
+ },
+ {
+  "id": 316,
+  "name": "Kortasia Lodge",
+  "Address": "Chinula, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 317,
+  "name": "Hu Cess Executive Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265992120451"
+ },
+ {
+  "id": 318,
+  "name": "The Hermitage Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 319,
+  "name": "Capital City Motel",
+  "Address": "Malawi, Lilongwe, Area 49 sector 1 new gulliver",
+  "phone": "+265999803387"
+ },
+ {
+  "id": 320,
+  "name": "Golden pickok",
+  "Address": "Crossroads, Lilongwe, Malawi",
+  "phone": "+265998688332"
+ },
+ {
+  "id": 321,
+  "name": "Legacy Suites",
+  "Address": "Shire Rd, Lilongwe, Malawi",
+  "phone": "+265991141798"
+ },
+ {
+  "id": 322,
+  "name": "Mama Land Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999940167"
+ },
+ {
+  "id": 323,
+  "name": "Philadephia Guest House",
+  "Address": "10/178 Blantyre Street, Lilongwe, Malawi",
+  "phone": "+265999838485"
+ },
+ {
+  "id": 324,
+  "name": "Lucky One Hotel",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+2651752833"
+ },
+ {
+  "id": 325,
+  "name": "Tafika Executive Lodge",
+  "Address": "Barron Avenue, Lilongwe, Malawi",
+  "phone": "+265994186214"
+ },
+ {
+  "id": 326,
+  "name": "Sol-Farm",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265993667000"
+ },
+ {
+  "id": 327,
+  "name": "Spendwise furnished apartments.",
+  "Address": "43/2/154 Off, Blantyre Street, Lilongwe, Malawi",
+  "phone": "+265882089168"
+ },
+ {
+  "id": 328,
+  "name": "Luckyone Hotel",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265998908326"
+ },
+ {
+  "id": 329,
+  "name": "Avon garden",
+  "Address": "Youth Dr, Lilongwe, Malawi",
+  "phone": "+265991775203"
+ },
+ {
+  "id": 330,
+  "name": "Symon",
+  "Address": "Ufulu Rd, Lilongwe, Malawi",
+  "phone": "+2651794060"
+ },
+ {
+  "id": 331,
+  "name": "Our Place Guest House",
+  "Address": "Plot 3126 Great E Rd, Chipata 10101, Zambia",
+  "phone": "312610101"
+ },
+ {
+  "id": 332,
+  "name": "Davie's BnB",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+2651776666"
+ },
+ {
+  "id": 333,
+  "name": "White Palace Apart-Hotel",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265888823416"
+ },
+ {
+  "id": 334,
+  "name": "Davie’s BnB",
+  "Address": "Avon garden Lodge, Area 25A just after the trading after Chipiku store Lilongwe Area 25A, \u0026apartments, Malawi",
+  "phone": "+265888823416"
+ },
+ {
+  "id": 335,
+  "name": "Smile Lodge \u0026 Apartments",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265993785995"
+ },
+ {
+  "id": 336,
+  "name": "Mutheto Lodge",
+  "Address": "85 Mitundu Circle, Lilongwe, Malawi",
+  "phone": "+265999565300"
+ },
+ {
+  "id": 337,
+  "name": "MATT Bed \u0026 Breakfast",
+  "Address": "Daud Complex, Along Kamuzu Procession Road, M1, Lilongwe, Malawi",
+  "phone": "+265998938353"
+ },
+ {
+  "id": 338,
+  "name": "Area 22A",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265881199147"
+ },
+ {
+  "id": 339,
+  "name": "43 House",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265998529538"
+ },
+ {
+  "id": 340,
+  "name": "The 18 Lodge",
+  "Address": "Capital Hill Dairy Farm, Plot 9 \u0026 11, Area 44, Lilongwe, Malawi",
+  "phone": "+265999963402"
+ },
+ {
+  "id": 341,
+  "name": "Sosi Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265888823505"
+ },
+ {
+  "id": 342,
+  "name": "Longonot Guest House",
+  "Address": "1 Barefoot Road NRC , Chitipi Lilongwe, Malawi",
+  "phone": "+265995196377"
+ },
+ {
+  "id": 343,
+  "name": "Area 3 Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265888823505"
+ },
+ {
+  "id": 344,
+  "name": "Chisale Motel",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999950764"
+ },
+ {
+  "id": 345,
+  "name": "Titanic Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 346,
+  "name": "Walani International Lodge",
+  "Address": "Mthumthama Drive, Lilongwe, Malawi",
+  "phone": "+265995973212"
+ },
+ {
+  "id": 347,
+  "name": "Mamma Mia Restaurant",
+  "Address": "Presidential Way, Lilongwe, Malawi",
+  "phone": "+265998196475"
+ },
+ {
+  "id": 348,
+  "name": "Orchid",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265991629448"
+ },
+ {
+  "id": 349,
+  "name": "Mediterraneo",
+  "Address": "Area 10 plot 374, Tobacco Loop, Lilongwe, Malawi",
+  "phone": "+265994000322"
+ },
+ {
+  "id": 350,
+  "name": "La Cantina",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265994287613"
+ },
+ {
+  "id": 351,
+  "name": "Bombay Palace",
+  "Address": "city mall, Game complex, Lilongwe, Malawi",
+  "phone": "+265888202202"
+ },
+ {
+  "id": 352,
+  "name": "Noble China Restaurant",
+  "Address": "Colby Road, Lilongwe, Malawi",
+  "phone": "+265996998048"
+ },
+ {
+  "id": 353,
+  "name": "Bamboo Restaurant Lilongwe",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265996705984"
+ },
+ {
+  "id": 354,
+  "name": "Seble Ethiopian restaurant",
+  "Address": "Lingadzi House, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 355,
+  "name": "The Causerie Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 356,
+  "name": "Blue Ginger Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 357,
+  "name": "Veg-Delight Lilongwe",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265994207049"
+ },
+ {
+  "id": 358,
+  "name": "Garden Court Restaurant",
+  "Address": "Kenyatta, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 359,
+  "name": "Chennai Spice",
+  "Address": "Kamuzu Procession Rd, Lilongwe, Malawi",
+  "phone": "+265991138022"
+ },
+ {
+  "id": 360,
+  "name": "Copper Pot",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 361,
+  "name": "Sana food court",
+  "Address": "Selous, Lilongwe, Malawi",
+  "phone": "+265991078692"
+ },
+ {
+  "id": 362,
+  "name": "The Bay",
+  "Address": "Mandala Road, Lilongwe, Malawi",
+  "phone": "+265993785995"
+ },
+ {
+  "id": 363,
+  "name": "Coco's at August House",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265888221040"
+ },
+ {
+  "id": 364,
+  "name": "Café Cargo",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+2651794580"
+ },
+ {
+  "id": 365,
+  "name": "Vincent's Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 366,
+  "name": "Charcoal Restaurant Lilongwe Malawi",
+  "Address": "Farm, Plot 9 \u002610, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 367,
+  "name": "PaZinyama",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265211552770"
+ },
+ {
+  "id": 368,
+  "name": "Fusion Café",
+  "Address": "Blantyre Street, Lilongwe, Malawi",
+  "phone": "+265881512747"
+ },
+ {
+  "id": 369,
+  "name": "The Chophouse",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 370,
+  "name": "Masamba Gardens and Cafe",
+  "Address": "bingu stadium, Opposite, Lilongwe, Malawi",
+  "phone": "+265999827176"
+ },
+ {
+  "id": 371,
+  "name": "Rose Chinese Restaurant",
+  "Address": "Muslim Sports Club, Lilongwe, Malawi",
+  "phone": "+265999827176"
+ },
+ {
+  "id": 372,
+  "name": "KIPS RESTAURANT",
+  "Address": "M1, Lilongwe, Malawi",
+  "phone": "+265999786244"
+ },
+ {
+  "id": 373,
+  "name": "Cup n Roll",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999803100"
+ },
+ {
+  "id": 374,
+  "name": "Guisseppes Pub",
+  "Address": "Laws Avenue, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 375,
+  "name": "Garden Court Bar And Restaurant",
+  "Address": "Young, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 376,
+  "name": "Siesta by Everest",
+  "Address": "774 Mazengera Street, Lilongwe, Malawi",
+  "phone": "+265887341961"
+ },
+ {
+  "id": 377,
+  "name": "Lingadzi Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 378,
+  "name": "M'dede Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 379,
+  "name": "Kina Restaurant",
+  "Address": "ShopRite, Lilongwe, Kenyatta drive around, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 380,
+  "name": "Akiras Bar and Restaurant",
+  "Address": "Msokela, Lilongwe, Malawi",
+  "phone": "+265998777052"
+ },
+ {
+  "id": 381,
+  "name": "Khichini Hub",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 382,
+  "name": "Flavours Cafe",
+  "Address": "Area 4, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 383,
+  "name": "TsakiTsaki Restaurant",
+  "Address": "Sunbird Lilongwe, Lilongwe, Malawi",
+  "phone": "+265888965109"
+ },
+ {
+  "id": 384,
+  "name": "Lalala Food",
+  "Address": "Development House, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 385,
+  "name": "Angoni restaurant",
+  "Address": "New Market, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 386,
+  "name": "Flavatos Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 387,
+  "name": "Elly B's, Gateway, Lilongwe",
+  "Address": "Plot N: 3/811 DC Restraunt, Lilongwe, Malawi",
+  "phone": "+265987731661"
+ },
+ {
+  "id": 388,
+  "name": "ACRES Bar \u0026 GRILL",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 389,
+  "name": "The Cabin Restaurant",
+  "Address": "49/3/388 Baghdad, Lilongwe, Malawi",
+  "phone": "+265999532273"
+ },
+ {
+  "id": 390,
+  "name": "Round and Square - RaS",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265212911237"
+ },
+ {
+  "id": 391,
+  "name": "Kips Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265995376518"
+ },
+ {
+  "id": 392,
+  "name": "Chicken Inn",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 393,
+  "name": "Kitchen delights",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265992958765"
+ },
+ {
+  "id": 394,
+  "name": "Good coffee italian restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 395,
+  "name": "Maize Mill",
+  "Address": "Presidential Way, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 396,
+  "name": "The Ritz",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999912788"
+ },
+ {
+  "id": 397,
+  "name": "BAMBU BAR , GRILL AND RESTAURANT",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999666101"
+ },
+ {
+  "id": 398,
+  "name": "The Food Club",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265991078692"
+ },
+ {
+  "id": 399,
+  "name": "Rosevine",
+  "Address": "Gateway Mall, Lilongwe, Malawi",
+  "phone": "+265998302000"
+ },
+ {
+  "id": 400,
+  "name": "Pizza Inn",
+  "Address": "Selous, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 401,
+  "name": "Victoria Gardens",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999136336"
+ },
+ {
+  "id": 402,
+  "name": "Mum's table restaurant",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 403,
+  "name": "Chinese Food Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 404,
+  "name": "Pa Mthunzi Lounge",
+  "Address": "Off, Convention Drive, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 405,
+  "name": "Summer Park",
+  "Address": "Selous, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 406,
+  "name": "Citadel",
+  "Address": "Chilambula Rd, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 407,
+  "name": "Mlamba Lodge Lilongwe",
+  "Address": "Mandala Road, Lilongwe, Malawi",
+  "phone": "+265998378160"
+ },
+ {
+  "id": 408,
+  "name": "Pa Zinziri 49",
+  "Address": "central hospital road, Lilongwe, Malawi",
+  "phone": "+265993713626"
+ },
+ {
+  "id": 409,
+  "name": "Havmor Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999921555"
+ },
+ {
+  "id": 410,
+  "name": "Sip, Eat n' Chill",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 411,
+  "name": "Area 13 Market",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265992239527"
+ },
+ {
+  "id": 412,
+  "name": "Olive Tree",
+  "Address": "Livingstone, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 413,
+  "name": "Patio Restaurant",
+  "Address": "City Mall, Kamuzu Processsion Rd, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 414,
+  "name": "Chezg Cafe",
+  "Address": "Gulliver Area 49, Lilongwe, Malawi",
+  "phone": "+265999748123"
+ },
+ {
+  "id": 415,
+  "name": "Zikomo Restaurant and Takeaway",
+  "Address": "Development House, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 416,
+  "name": "Nthalo: The Good Food Shop",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 417,
+  "name": "Flavourto",
+  "Address": "Zomba Street, Lilongwe, Malawi",
+  "phone": "+265981665896"
+ },
+ {
+  "id": 418,
+  "name": "D’s KITCHEN",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 419,
+  "name": "Black Pepper",
+  "Address": "Kaunda Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 420,
+  "name": "Dees restaurant",
+  "Address": "Chayamba Drive, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 421,
+  "name": "Aunt Memo's Restaurant",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 422,
+  "name": "FoodSpace",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 423,
+  "name": "Chickenlito's MSC",
+  "Address": "Presidential Way, Lilongwe, Malawi",
+  "phone": "+265886024807"
+ },
+ {
+  "id": 424,
+  "name": "Che-mpunga",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 425,
+  "name": "Nessa's Meats",
+  "Address": "Kenyatta, Lilongwe, Malawi",
+  "phone": "+265999748123"
+ },
+ {
+  "id": 426,
+  "name": "Chickenlito's",
+  "Address": "Mwanza, Lilongwe, Malawi",
+  "phone": "+265992608596"
+ },
+ {
+  "id": 427,
+  "name": "Dodiya restaurant",
+  "Address": "City Mall, Kamuzu Processsion Rd, Lilongwe, Malawi",
+  "phone": "+265992542320"
+ },
+ {
+  "id": 428,
+  "name": "Green House",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 429,
+  "name": "Dodiya restaurant",
+  "Address": "242 Tsoka Road, Lilongwe, Malawi",
+  "phone": "+265881625588"
+ },
+ {
+  "id": 430,
+  "name": "The Cactus Restaurant",
+  "Address": "Paul Kagame Road, Kirk, Lilongwe, Malawi",
+  "phone": "+265995000058"
+ },
+ {
+  "id": 431,
+  "name": "Chicken Land",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 432,
+  "name": "Pizza Inn",
+  "Address": "Old Town Mall, Lilongwe, Malawi",
+  "phone": "+265993858028"
+ },
+ {
+  "id": 433,
+  "name": "The Gateway Mall",
+  "Address": "47/2/444, Mchinji Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 434,
+  "name": "Queens Mall",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 435,
+  "name": "Pacific Parade",
+  "Address": "M1, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 436,
+  "name": "WATOTO SHOPPING CENTRE",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 437,
+  "name": "City Mall",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 438,
+  "name": "Kandota Shopping Center",
+  "Address": "Area 4, Chilambula Road Next to Road Traffic, Malawi",
+  "phone": "+265999912014"
+ },
+ {
+  "id": 439,
+  "name": "Corporate Mall",
+  "Address": "Tsoka Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 440,
+  "name": "Maula Mall",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 441,
+  "name": "C-PLAZA",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 442,
+  "name": "The Shofpping Center",
+  "Address": "Likuni, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 443,
+  "name": "Santa Plaza",
+  "Address": "S124, Likuni, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 444,
+  "name": "C PLAZA",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 445,
+  "name": "Vili Shoping Centre",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 446,
+  "name": "Accord Center",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 447,
+  "name": "Plaza Building",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 448,
+  "name": "Tikambe Shopping",
+  "Address": "Shire Rd, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 449,
+  "name": "Major Shop",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 450,
+  "name": "Inshaallah Shopping centre",
+  "Address": "Gateway Mall, Kuanda Road, Lilongwe, Malawi",
+  "phone": "+2651751010"
+ },
+ {
+  "id": 451,
+  "name": "Lingadzi Supperate",
+  "Address": "M1, Lilongwe, Malawi",
+  "phone": "+2651751394"
+ },
+ {
+  "id": 452,
+  "name": "Craft market",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265993505169"
+ },
+ {
+  "id": 453,
+  "name": "Sana Cash \u0026 Carry",
+  "Address": "Devil Street, Lilongwe, Malawi",
+  "phone": "+265986808391"
+ },
+ {
+  "id": 454,
+  "name": "New Plaza Shopping Center",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265885471641"
+ },
+ {
+  "id": 455,
+  "name": "Malawi Luxury Inc",
+  "Address": "Shop 71. The Gateway Mall, Plot 47/1201, Lilongwe, Malawi, Lilongwe, Lilongwe, Malawi",
+  "phone": "71471201"
+ },
+ {
+  "id": 456,
+  "name": "Galactivale's Tech center",
+  "Address": "S124, Likuni, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 457,
+  "name": "Chigwirizano Trading Center",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265881933857"
+ },
+ {
+  "id": 458,
+  "name": "New Area 43 Shopping Centre",
+  "Address": "crossroads, Lilongwe, Malawi",
+  "phone": "+265997542677"
+ },
+ {
+  "id": 459,
+  "name": "Joafrapaya Shopping Center",
+  "Address": "Kamuzu Procession Rd, Lilongwe, Malawi",
+  "phone": "+265999234252"
+ },
+ {
+  "id": 460,
+  "name": "TLScontact – Visa Application Centre Lilongwe",
+  "Address": "Kenyatta, Lilongwe, Malawi",
+  "phone": "+265999600110"
+ },
+ {
+  "id": 461,
+  "name": "Hayyat Complex",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 462,
+  "name": "Mama Ts Shopping center",
+  "Address": "M1, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 463,
+  "name": "Shoprite Gateway Mall",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 464,
+  "name": "Chatsani Chopping Center",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265999829876"
+ },
+ {
+  "id": 465,
+  "name": "Sempha Shopping Complex",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 466,
+  "name": "Cold Drinks Center",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265993944006"
+ },
+ {
+  "id": 467,
+  "name": "Liquor Center , Stocks Of Beer",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 468,
+  "name": "Khri Shop",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 469,
+  "name": "2G's Shopping Center",
+  "Address": "m1, M1, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 470,
+  "name": "William Shop",
+  "Address": "asante gust house, after, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 471,
+  "name": "World War I Memorial",
+  "Address": "Kenyatta, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 472,
+  "name": "Lilongwe Nature Sanctuary",
+  "Address": "Presidential Way, Lilongwe, Malawi",
+  "phone": "+265886024972"
+ },
+ {
+  "id": 473,
+  "name": "FunCity Amusement Park",
+  "Address": "Kenyatta, Lilongwe, Malawi",
+  "phone": "+265881788999"
+ },
+ {
+  "id": 474,
+  "name": "Kulemeka Gardens",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 475,
+  "name": "Kumbali Cultural Village",
+  "Address": "Chayamba Drive, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 476,
+  "name": "Lizulu Horticulture Market",
+  "Address": "Mphonongo, Lilongwe, Malawi",
+  "phone": "+265999836561"
+ },
+ {
+  "id": 477,
+  "name": "Area 4",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999963402"
+ },
+ {
+  "id": 478,
+  "name": "Birds of Malawi",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 479,
+  "name": "Lilongwe",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+2651755846"
+ },
+ {
+  "id": 480,
+  "name": "Sunbird Mzuzu",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 481,
+  "name": "Grand palace hotel",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265111403780"
+ },
+ {
+  "id": 482,
+  "name": "Ilala Crest Lodge",
+  "Address": "Unnamed Rd, Chembe, Cape Maclear, Malawi",
+  "phone": "+265995632105"
+ },
+ {
+  "id": 483,
+  "name": "Mzuzu Coffee Suites",
+  "Address": "Kabunduli Road, Mzuzu, Malawi",
+  "phone": "+265111612852"
+ },
+ {
+  "id": 484,
+  "name": "Macondo Camp",
+  "Address": "Choma Road, Mzuzu, Malawi",
+  "phone": "+265991792311"
+ },
+ {
+  "id": 485,
+  "name": "Mgoza Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265881429030"
+ },
+ {
+  "id": 486,
+  "name": "Mphatso Motel",
+  "Address": "Chimaliro Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 487,
+  "name": "Emmaculate lodge",
+  "Address": "Chiwanja, Mzuzu, Malawi",
+  "phone": "+265997678679"
+ },
+ {
+  "id": 488,
+  "name": "Hill Of Grace",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265995934395"
+ },
+ {
+  "id": 489,
+  "name": "Pine Tree Bed \u0026 Breakfast",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 490,
+  "name": "Jumac Golden Lodge",
+  "Address": "Off The Main Road, Towards The Shore, Nkhotakota, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 491,
+  "name": "Mzoozoozoo",
+  "Address": "Chileka Road, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 492,
+  "name": "Mzuzu Lodge",
+  "Address": "Lister, Lilongwe, Malawi",
+  "phone": "+265888705993"
+ },
+ {
+  "id": 493,
+  "name": "Diamond Lodge",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 494,
+  "name": "Tukumphire Guest House",
+  "Address": "Opposite The Mzimba Market, Mzimba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 495,
+  "name": "Hilltop Garden Lodge",
+  "Address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 496,
+  "name": "Dunduzu Guest Lodge",
+  "Address": "Glynn Jones Rd, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 497,
+  "name": "Wakasanga Lodge",
+  "Address": "Lunzu Road, Nyambadwe, Malawi",
+  "phone": "+265886396281"
+ },
+ {
+  "id": 498,
+  "name": "CCAP Williams Koyi Guest House",
+  "Address": "Mangochi, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 499,
+  "name": "Aaucha Lodge",
+  "Address": "M1, Mzuzu, Malawi",
+  "phone": "+265994455285"
+ },
+ {
+  "id": 500,
+  "name": "Diamond Lodge",
+  "Address": "Kanjedza Road, Blantyre, Malawi",
+  "phone": "+265991686339"
+ },
+ {
+  "id": 501,
+  "name": "CCAP Williams Koyi Guest House",
+  "Address": "Zomba, Malawi",
+  "phone": "+2651820588"
+ },
+ {
+  "id": 502,
+  "name": "Aunt Tina Stone House Lodge",
+  "Address": "Opp Chiwanja Airport, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 503,
+  "name": "Ngombani Junior 2 Resthouse",
+  "Address": "413 Lunyangwa Residential Area, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 504,
+  "name": "Nyachenda",
+  "Address": "Crossroads, Lilongwe, Malawi",
+  "phone": "+265998688332"
+ },
+ {
+  "id": 505,
+  "name": "Chochocho Rest House",
+  "Address": "Chiwanja, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 506,
+  "name": "Kaka Motel",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265882526859"
+ },
+ {
+  "id": 507,
+  "name": "Zulunkhuni River Lodge",
+  "Address": "Chimaliro, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 508,
+  "name": "Emmaculate Lodge",
+  "Address": "Unnamed Road, Mzuzu, Malawi",
+  "phone": "+265888873392"
+ },
+ {
+  "id": 509,
+  "name": "Hillside Lodge",
+  "Address": "Unnamed Road, Mzuzu, Malawi",
+  "phone": "+265993191601"
+ },
+ {
+  "id": 510,
+  "name": "Blessed stay guest house",
+  "Address": "Dunduzu, Mzuzu, Malawi",
+  "phone": "+265993951720"
+ },
+ {
+  "id": 511,
+  "name": "Chiwavi Lodge",
+  "Address": "G2R8+Q3C Sos, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 512,
+  "name": "Rayoni Guesthouse B\u0026B",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 513,
+  "name": "Tung Gardens Guesthouse",
+  "Address": "M1, Mzuzu, Malawi",
+  "phone": "+265888542020"
+ },
+ {
+  "id": 514,
+  "name": "Ennie's Lodge",
+  "Address": "Chibavi Road, Mzuzu, Malawi",
+  "phone": "+265884073362"
+ },
+ {
+  "id": 515,
+  "name": "Pakaya Suites",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+2651310586"
+ },
+ {
+  "id": 516,
+  "name": "Sunshine Guest House",
+  "Address": "Malawi, Mzuzu, M1 road Off my road",
+  "phone": "+265888368203"
+ },
+ {
+  "id": 517,
+  "name": "Lodge De Gaj",
+  "Address": "Nkhata Bay, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 518,
+  "name": "Green Valley Lodge",
+  "Address": "Chibavi Road, Mzuzu, Malawi",
+  "phone": "+265997299405"
+ },
+ {
+  "id": 519,
+  "name": "Moni Lodge",
+  "Address": "Chiwanja, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 520,
+  "name": "Sunrise Motel, Lilongwe, Malawi",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 521,
+  "name": "Sunbird Ku Chawe",
+  "Address": "Boardman Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 522,
+  "name": "The Airport Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 523,
+  "name": "The Grand Suites - Kanjedza",
+  "Address": "Boardman Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 524,
+  "name": "Yalumaluba Guest House",
+  "Address": "Unnamed Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 525,
+  "name": "Mkango Hotel \u0026 Conference Centre",
+  "Address": "M1, Mzuzu, Malawi",
+  "phone": "+265888542020"
+ },
+ {
+  "id": 526,
+  "name": "Mutheto Lodge",
+  "Address": "Unnamed Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 527,
+  "name": "Kamwiro Ufulu Lodge",
+  "Address": "Dunduzu roadblock, M1, Mzuzu, Malawi",
+  "phone": "+265997164179"
+ },
+ {
+  "id": 528,
+  "name": "St Annes Guest House",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 529,
+  "name": "Nkomadzi Lodge",
+  "Address": "Chiwanja, Mzuzu, Malawi",
+  "phone": "+265999957405"
+ },
+ {
+  "id": 530,
+  "name": "Kujaliwa Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 531,
+  "name": "Khulubvi Lodge",
+  "Address": "Orton, Chirwa Drive, Mzuzu, Malawi",
+  "phone": "+265980790964"
+ },
+ {
+  "id": 532,
+  "name": "Green Valley Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 533,
+  "name": "Mufatsa Inn - Campsite and Lodge",
+  "Address": "Jomo Kenyatta Road, Mzuzu, Malawi",
+  "phone": "+265888864493"
+ },
+ {
+  "id": 534,
+  "name": "Manjolo Village",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 535,
+  "name": "A1",
+  "Address": "Sunbird Mzuzu, Kabunduli Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 536,
+  "name": "Blue Tomato Restaurant",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265888899666"
+ },
+ {
+  "id": 537,
+  "name": "Soul Kitchen",
+  "Address": "Unnamed Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 538,
+  "name": "Nyika Restaurant",
+  "Address": "St. Denis, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 539,
+  "name": "Chickenlito's mzuzu",
+  "Address": "Gumede hardware, next to, Mzuzu, Malawi",
+  "phone": "+265999957421"
+ },
+ {
+  "id": 540,
+  "name": "2.9S Restaurant",
+  "Address": "St. Denis, Mzuzu, Malawi",
+  "phone": "+265999827176"
+ },
+ {
+  "id": 541,
+  "name": "Macondo Camp",
+  "Address": "St. Denis, Mzuzu, Malawi",
+  "phone": "+265995233445"
+ },
+ {
+  "id": 542,
+  "name": "Greenveere RESTAURANT",
+  "Address": "Choma Road, Mzuzu, Malawi",
+  "phone": "+265991792311"
+ },
+ {
+  "id": 543,
+  "name": "The EAT Restaurant",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 544,
+  "name": "Sugar and Spice",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 545,
+  "name": "KMC Restaurant",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265999688468"
+ },
+ {
+  "id": 546,
+  "name": "Nonhla's",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 547,
+  "name": "Kwik Foods \u0026 Take-Away",
+  "Address": "Luwinga Nkhorongo, Mzuzu, Malawi",
+  "phone": "+265999718876"
+ },
+ {
+  "id": 548,
+  "name": "C\u0026S Caterers",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 549,
+  "name": "harawa moses family",
+  "Address": "Kanjedza Drive, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 550,
+  "name": "Kwithu Kitchen Cafè",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265995934395"
+ },
+ {
+  "id": 551,
+  "name": "Blue tomato indian restaurant",
+  "Address": "M1, Mzuzu, Malawi",
+  "phone": "+265991905656"
+ },
+ {
+  "id": 552,
+  "name": "Munchiez Restaurant",
+  "Address": "M5, Mzuzu, Malawi",
+  "phone": "+265888842011"
+ },
+ {
+  "id": 553,
+  "name": "Umunthu Space \u0026 Lodge",
+  "Address": "Chimaliro Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 554,
+  "name": "Midland fast food",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 555,
+  "name": "Kips Express",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 556,
+  "name": "McLeans Kitchens",
+  "Address": "St. Denis, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 557,
+  "name": "Club Love MW",
+  "Address": "Mawerera Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 558,
+  "name": "Lenah's Kitchen",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 559,
+  "name": "Aunt Tiwo Restraunt",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 560,
+  "name": "Flavatos",
+  "Address": "Luwinga, Mzuzu, Malawi",
+  "phone": "+265888575489"
+ },
+ {
+  "id": 561,
+  "name": "Nature's Lounge",
+  "Address": "Luwinga, Mzuzu, Malawi",
+  "phone": "+265999132782"
+ },
+ {
+  "id": 562,
+  "name": "Club Khazy",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 563,
+  "name": "GreenVee",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265999966186"
+ },
+ {
+  "id": 564,
+  "name": "Balance lounge",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265996634920"
+ },
+ {
+  "id": 565,
+  "name": "Paris Night Club",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 566,
+  "name": "Wukani Guest House \u0026 Restaurant",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265994373456"
+ },
+ {
+  "id": 567,
+  "name": "Yummies Lodge \u0026 Restaurant",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 568,
+  "name": "Cool Bean Cafe",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 569,
+  "name": "Mzuzu Sports Bar",
+  "Address": "katoto filling station, Mzuzu, Malawi",
+  "phone": "+265999668679"
+ },
+ {
+  "id": 570,
+  "name": "Pine Tree Bed \u0026 Breakfast",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 571,
+  "name": "Cecis Food",
+  "Address": "Mapale Crescent, Mzuzu, Malawi",
+  "phone": "+265992417916"
+ },
+ {
+  "id": 572,
+  "name": "Aligators pub and grill",
+  "Address": "Mzuzu Prison, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 573,
+  "name": "Queens Night Club",
+  "Address": "Puma Filling Station, Behind Mzuzu, Malawi",
+  "phone": "+265999054874"
+ },
+ {
+  "id": 574,
+  "name": "Awiske \u0026 Chakufwa Stop-Over Friends Bar",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 575,
+  "name": "Coffee Den",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 576,
+  "name": "MZUZU YOUTH ASSOCIATION RESTAURANT",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265991163792"
+ },
+ {
+  "id": 577,
+  "name": "Aucha Restaurant and Bar",
+  "Address": "Off Mzuni Road, Mzuzu, Malawi",
+  "phone": "+265881814613"
+ },
+ {
+  "id": 578,
+  "name": "Ronald mdukwa",
+  "Address": "Mawerera Road, Mzuzu, Malawi",
+  "phone": "+265881355825"
+ },
+ {
+  "id": 579,
+  "name": "Mzuzu Mall",
+  "Address": "Kawalazi Estate Company Limited, Mzuzu, Malawi",
+  "phone": "+265998844237"
+ },
+ {
+  "id": 580,
+  "name": "Benson Shop",
+  "Address": "Mzuzu, euthin, Katunguwiri, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 581,
+  "name": "Kampingo shopping center",
+  "Address": "Shop 58, Mzuzu Shopping Centre, Lubinga Rd, Mzuzu, Malawi",
+  "phone": "+2651844032"
+ },
+ {
+  "id": 582,
+  "name": "PEP Mzuzu Shoprite Centre",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265994455285"
+ },
+ {
+  "id": 583,
+  "name": "Kentam",
+  "Address": "M Mbelwa Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 584,
+  "name": "Vwaza Marsh Wildlife Reserve",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 585,
+  "name": "Mzuzu",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 586,
+  "name": "Mzoozoozoo",
+  "Address": "Gumede hardware, next to, Mzuzu, Malawi",
+  "phone": "+265999957421"
+ },
+ {
+  "id": 587,
+  "name": "Macondo Camp",
+  "Address": "1000 dam road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 588,
+  "name": "Manjolo Village",
+  "Address": "Jomo Kenyatta Road, Mzuzu, Malawi",
+  "phone": "+265888864493"
+ },
+ {
+  "id": 589,
+  "name": "Nkwadzi Hill",
+  "Address": "Choma Road, Mzuzu, Malawi",
+  "phone": "+265991792311"
+ },
+ {
+  "id": 590,
+  "name": "Word Alive Church",
+  "Address": "Luwinga, Mzuzu, Malawi",
+  "phone": "+265981939017"
+ },
+ {
+  "id": 591,
+  "name": "Luwawa Forest Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 592,
+  "name": "Mzuzu University",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 593,
+  "name": "Sunbird Mzuzu",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265999963402"
+ },
+ {
+  "id": 594,
+  "name": "Paris Bar",
+  "Address": "Off, M Mbelwa Road, Mzuzu, Malawi",
+  "phone": "+2651312833"
+ },
+ {
+  "id": 595,
+  "name": "Paris Bar",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 596,
+  "name": "Chochocho Rest House",
+  "Address": "Chintheche, Malawi",
+  "phone": "+265999283980"
+ },
+ {
+  "id": 597,
+  "name": "Ilala Crest Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 598,
+  "name": "Makuzi Beach Lodge",
+  "Address": "Main Road, Mzuzu, Malawi",
+  "phone": "+2651312287"
+ },
+ {
+  "id": 599,
+  "name": "Northern Region",
+  "Address": "Chimaliro Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 600,
+  "name": "Mzuzu Airport",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 601,
+  "name": "Nkhata Bay",
+  "Address": "Kabunduli Road, Mzuzu, Malawi",
+  "phone": "+265111612852"
+ },
+ {
+  "id": 602,
+  "name": "Nkhata Bay",
+  "Address": "Sunbird Mzuzu, Kabunduli Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 603,
+  "name": "Bandawe",
+  "Address": "Off M1 Road Road, Area 4, Malivenji Road, Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 604,
+  "name": "Kumbali Cultural Village",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265111403780"
+ },
+ {
+  "id": 605,
+  "name": "Nkhotakota",
+  "Address": "Unnamed Road, Mzuzu, Malawi",
+  "phone": "+2651310056"
+ },
+ {
+  "id": 606,
+  "name": "Senga Bay",
+  "Address": "Luwinga, Mzuzu, Malawi",
+  "phone": "+2651320722"
+ },
+ {
+  "id": 607,
+  "name": "Katoto Primary School",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 608,
+  "name": "Luwinga Lodge",
+  "Address": "Mzuzu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 609,
+  "name": "zigwagwa market",
+  "Address": "200 km north of Lilongwe, 10 km off the main M1 road between Lilongwe and Mzuzu, Malawi",
+  "phone": "+265999512645"
+ },
+ {
+  "id": 610,
+  "name": "Sunbird Ku Chawe",
+  "Address": "Old Naisi Road, Zomba, Malawi",
+  "phone": "+265888309347"
+ },
+ {
+  "id": 611,
+  "name": "Wadonda Suites",
+  "Address": "Off Kufa road, Behind police station, Zomba, Malawi",
+  "phone": "+265882858089"
+ },
+ {
+  "id": 612,
+  "name": "Manja Lodge",
+  "Address": "Zomba, Malawi",
+  "phone": "+265999507079"
+ },
+ {
+  "id": 613,
+  "name": "Kefi Hotel Café",
+  "Address": "Road, Malawi",
+  "phone": "+265882206666"
+ },
+ {
+  "id": 614,
+  "name": "Annie's Lodge Zomba",
+  "Address": "Naisi Spur, Zomba, Malawi",
+  "phone": "+265889540964"
+ },
+ {
+  "id": 615,
+  "name": "T \u0026 D GUESTHOUSE",
+  "Address": "Zomba Mountain, Zomba, Malawi",
+  "phone": "+265888965141"
+ },
+ {
+  "id": 616,
+  "name": "Villa Kupa",
+  "Address": "Macleod Road, Zomba, Malawi",
+  "phone": "+265993906402"
+ },
+ {
+  "id": 617,
+  "name": "Pakachere",
+  "Address": "Road, Malawi",
+  "phone": "+265888810439"
+ },
+ {
+  "id": 618,
+  "name": "Zomba Forest Lodge",
+  "Address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 619,
+  "name": "Trinity Homes and Treats",
+  "Address": "Blantyre-Machingiri Road, Blantyre, Malawi",
+  "phone": "+265885105127"
+ },
+ {
+  "id": 620,
+  "name": "Masuku Lodge",
+  "Address": "M2, Namadzi, Malawi",
+  "phone": "+265999271274"
+ },
+ {
+  "id": 621,
+  "name": "Casa Rossa",
+  "Address": "Zomba Road, Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 622,
+  "name": "Afrochoc Zomba",
+  "Address": "Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 623,
+  "name": "Splendor Hotel",
+  "Address": "Lunzu Road, Nyambadwe, Malawi",
+  "phone": "+265886396281"
+ },
+ {
+  "id": 624,
+  "name": "Hotel Masongola",
+  "Address": "7 Kufa Road, Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 625,
+  "name": "Bluegum Avenue Lodge",
+  "Address": "Mandala, Blantyre, Malawi",
+  "phone": "+265888887772"
+ },
+ {
+  "id": 626,
+  "name": "Sunbird Ku Chawe",
+  "Address": "M3, Zomba, Malawi",
+  "phone": "+265888364873"
+ },
+ {
+  "id": 627,
+  "name": "Paphiri House",
+  "Address": "Zomba, Malawi",
+  "phone": "+2651820588"
+ },
+ {
+  "id": 628,
+  "name": "Fair Hills Guest House",
+  "Address": "Masache Road, Zomba, Malawi",
+  "phone": "+265983152364"
+ },
+ {
+  "id": 629,
+  "name": "Cherrywood Estate",
+  "Address": "Old Naisi Road, Zomba, Malawi",
+  "phone": "+265883688530"
+ },
+ {
+  "id": 630,
+  "name": "Mkango Hotel \u0026 Conference Centre",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 631,
+  "name": "Chilembwe Lodge",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 632,
+  "name": "Summerland Mapanga Lodge",
+  "Address": "Road, Malawi",
+  "phone": "+2651820588"
+ },
+ {
+  "id": 633,
+  "name": "Midway Lodge",
+  "Address": "12th Avenue, Zomba, Malawi",
+  "phone": "+265888604790"
+ },
+ {
+  "id": 634,
+  "name": "The Ayoba Compound Lodge",
+  "Address": "Zomba, Malawi",
+  "phone": "+265991184211"
+ },
+ {
+  "id": 635,
+  "name": "Green Valley Lodge",
+  "Address": "Old Mountain Road, Old Up Road, Malawi",
+  "phone": "+265888573325"
+ },
+ {
+  "id": 636,
+  "name": "Casa Rossa",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 637,
+  "name": "Live Life Take Away",
+  "Address": "Zomba Depot, Zomba, Malawi",
+  "phone": "+265999260169"
+ },
+ {
+  "id": 638,
+  "name": "Sangalalani Restaurant",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 639,
+  "name": "Domino's Restaurant",
+  "Address": "Zomba, Malawi",
+  "phone": "+265884641643"
+ },
+ {
+  "id": 640,
+  "name": "Dalie’s Tasty Bites",
+  "Address": "Macleod Road, Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 641,
+  "name": "Kefi Hotel Café",
+  "Address": "Zomba, Malawi",
+  "phone": "+265888313196"
+ },
+ {
+  "id": 642,
+  "name": "Hotels",
+  "Address": "Chancellor College, Zomba, Malawi",
+  "phone": "+265997393883"
+ },
+ {
+  "id": 643,
+  "name": "Good morning shop and restaurant",
+  "Address": "Road, Malawi",
+  "phone": "+265888810439"
+ },
+ {
+  "id": 644,
+  "name": "Bbq spot mw",
+  "Address": "Zomba, Malawi",
+  "phone": "+265991184211"
+ },
+ {
+  "id": 645,
+  "name": "KIPS EXPRESS ZOMBA",
+  "Address": "M10, Zomba, Malawi",
+  "phone": "+265995665978"
+ },
+ {
+  "id": 646,
+  "name": "Meet \u0026 Greet, Nandolo,Take Away",
+  "Address": "M3, Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 647,
+  "name": "Checkers Bar \u0026 Grill",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 648,
+  "name": "Pa Gwamba",
+  "Address": "12th Avenue, Zomba, Malawi",
+  "phone": "+265888604790"
+ },
+ {
+  "id": 649,
+  "name": "Amigo Restaurant",
+  "Address": "Kuchawe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 650,
+  "name": "ONE LOVE - Rasta Restaurant",
+  "Address": "Zomba Plateau, Kuchawe, Malawi",
+  "phone": "+265888714443"
+ },
+ {
+  "id": 651,
+  "name": "Onithamala Deli' Café",
+  "Address": "Zomba, Malawi",
+  "phone": "+265980706767"
+ },
+ {
+  "id": 652,
+  "name": "Ida's Chip Shop",
+  "Address": "Liwonde, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 653,
+  "name": "Muzamillu Nkuleya",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 654,
+  "name": "Pakachere",
+  "Address": "Masache Road, Zomba, Malawi",
+  "phone": "+265983152364"
+ },
+ {
+  "id": 655,
+  "name": "Amazing Bakes",
+  "Address": "Chancellor College, Zomba, Malawi",
+  "phone": "+265994128171"
+ },
+ {
+  "id": 656,
+  "name": "The Mixed Booze and BBQ",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 657,
+  "name": "African Heritage Culture \u0026 Heritage Tours",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 658,
+  "name": "ATAFU Restaurant \u0026 Take Away",
+  "Address": "Macleod Road, Zomba, Malawi",
+  "phone": "+265993906402"
+ },
+ {
+  "id": 659,
+  "name": "Annie's Lodge Zomba",
+  "Address": "Zomba, Malawi",
+  "phone": "+265999507079"
+ },
+ {
+  "id": 660,
+  "name": "Manja Lodge",
+  "Address": "Zomba Mountain, Zomba, Malawi",
+  "phone": "+265888965141"
+ },
+ {
+  "id": 661,
+  "name": "Sunbird Ku Chawe",
+  "Address": "M3, Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 662,
+  "name": "Splendor Hotel",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 663,
+  "name": "Hotel Masongola",
+  "Address": "Mechno Building, Along M3, Zomba, Malawi",
+  "phone": "+265881403434"
+ },
+ {
+  "id": 664,
+  "name": "Bluegum Avenue Lodge",
+  "Address": "Zomba, Malawi",
+  "phone": "+265995762972"
+ },
+ {
+  "id": 665,
+  "name": "Republica Lodge",
+  "Address": "Off Kufa road, Behind police station, Zomba, Malawi",
+  "phone": "+265882858089"
+ },
+ {
+  "id": 666,
+  "name": "NutriExpress - T\u0026D",
+  "Address": "Zomba Central Hospital, Zomba, Malawi",
+  "phone": "+265888269164"
+ },
+ {
+  "id": 667,
+  "name": "Zomba Steers",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 668,
+  "name": "Villa Kupa",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 669,
+  "name": "Plateau Stables",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 670,
+  "name": "Kuchawe",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 671,
+  "name": "Trout Farm Challets",
+  "Address": "Zomba, Malawi",
+  "phone": "+265998346252"
+ },
+ {
+  "id": 672,
+  "name": "mimushack",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 673,
+  "name": "Trinity Homes and Treats",
+  "Address": "M1 Road, Shop 1 Sellies Enterprises, Zomba, Malawi",
+  "phone": "+265888122000"
+ },
+ {
+  "id": 674,
+  "name": "Raika Executive Villa",
+  "Address": "Zomba, Malawi",
+  "phone": "+265996316526"
+ },
+ {
+  "id": 675,
+  "name": "Mandevu Farm",
+  "Address": "M3, Zomba, Malawi",
+  "phone": "+265996608549"
+ },
+ {
+  "id": 676,
+  "name": "Kalibu-Lek Cafe and Restaurant",
+  "Address": "Skinala, 3 ways, Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 677,
+  "name": "Skinners",
+  "Address": "Veterinary Road, Zomba, Malawi",
+  "phone": "+265999948330"
+ },
+ {
+  "id": 678,
+  "name": "Sanudie's Lodge",
+  "Address": "Zomba, Malawi",
+  "phone": "+265883999999"
+ },
+ {
+  "id": 679,
+  "name": "Suman Shopping Center",
+  "Address": "S145, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 680,
+  "name": "Milepa Trading Centre",
+  "Address": "M1 Zomba, Matawale, Malawi",
+  "phone": "+265993458934"
+ },
+ {
+  "id": 681,
+  "name": "Zomba DAPP store",
+  "Address": "Zomba, Malawi",
+  "phone": "+265993364179"
+ },
+ {
+  "id": 682,
+  "name": "TNM Service Centre",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 683,
+  "name": "Nsanama Trading Center",
+  "Address": "Nsanama, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 684,
+  "name": "Songani Market",
+  "Address": "Domasi, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 685,
+  "name": "African Heritage Culture \u0026 Heritage Tours",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 686,
+  "name": "Dwangwa Trading Center",
+  "Address": "M5, Bowa, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 687,
+  "name": "Namwera Trading Center",
+  "Address": "Zomba, Malawi",
+  "phone": "+265995762972"
+ },
+ {
+  "id": 688,
+  "name": "Bakers Pride",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 689,
+  "name": "Shalom's Kitchen",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 690,
+  "name": "Emperors View",
+  "Address": "Zomba, Malawi",
+  "phone": "+265995361999"
+ },
+ {
+  "id": 691,
+  "name": "Pakachere",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 692,
+  "name": "Viva Fitness and gym Zomba",
+  "Address": "Off Kufa road, Behind police station, Zomba, Malawi",
+  "phone": "+265882858089"
+ },
+ {
+  "id": 693,
+  "name": "Williams Falls",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 694,
+  "name": "Annie's Lodge Zomba",
+  "Address": "M1 Road, Shop 1 Sellies Enterprises, Zomba, Malawi",
+  "phone": "+265888122000"
+ },
+ {
+  "id": 695,
+  "name": "Bata Shoe Store",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 696,
+  "name": "Williams Falls",
+  "Address": "Maganga, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 697,
+  "name": "Zomba Massif",
+  "Address": "Off Kufa road, Behind police station, Zomba, Malawi",
+  "phone": "+265882858089"
+ },
+ {
+  "id": 698,
+  "name": "Zomba",
+  "Address": "Zomba Plateau, Kuchawe, Malawi",
+  "phone": "+265888714443"
+ },
+ {
+  "id": 699,
+  "name": "Floodgates Tours",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 700,
+  "name": "Pakachere",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 701,
+  "name": "Majete Wildlife Reserve",
+  "Address": "Zomba, Malawi",
+  "phone": "+265998377163"
+ },
+ {
+  "id": 702,
+  "name": "Sunbird Ku Chawe",
+  "Address": "Blantyre, Malawi",
+  "phone": "+2651873258"
+ },
+ {
+  "id": 703,
+  "name": "Mvuu Camp",
+  "Address": "Liwonde, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 704,
+  "name": "Zomba Forest Lodge",
+  "Address": "Mulanje, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 705,
+  "name": "Chilema Tree",
+  "Address": "Old Mountain Road, Old Up Road, Malawi",
+  "phone": "+265888573325"
+ },
+ {
+  "id": 706,
+  "name": "Queens View",
+  "Address": "Zomba Mountain, Zomba, Malawi",
+  "phone": "+265888965141"
+ },
+ {
+  "id": 707,
+  "name": "Liwonde National Park Main Entrance Gate",
+  "Address": "Zomba, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 708,
+  "name": "Lake Malawi National Park",
+  "Address": "Likwenu, Malawi",
+  "phone": "+27833286102"
+ },
+ {
+  "id": 709,
+  "name": "Wayekha Hotels",
+  "Address": "Lunzu Road, Nyambadwe, Malawi",
+  "phone": "+265886396281"
+ },
+ {
+  "id": 710,
+  "name": "Top Lodge",
+  "Address": "Kabvunguti, Box 307 Kasungu, Malawi, Kasungu, Malawi",
+  "phone": "+2651253844"
+ },
+ {
+  "id": 711,
+  "name": "Lifupa Conservation Lodge",
+  "Address": "Kasungu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 712,
+  "name": "Kortasia Lodge",
+  "Address": "Area 18B, Kapita CCAP road, Lilongwe, Malawi",
+  "phone": "+265999679633"
+ },
+ {
+  "id": 713,
+  "name": "Mkango Hotel \u0026 Conference Centre",
+  "Address": "Kasungu National Park, Linyangwa, Malawi",
+  "phone": "+31615842100"
+ },
+ {
+  "id": 714,
+  "name": "The 18 Lodge",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265888871872"
+ },
+ {
+  "id": 715,
+  "name": "Blantyre Lodge",
+  "Address": "Robert Mugabe highway Blantyre, Blantyre, Malawi",
+  "phone": "+265991910466"
+ },
+ {
+  "id": 716,
+  "name": "The Grand Suites - Kanjedza",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265999481722"
+ },
+ {
+  "id": 717,
+  "name": "Royal Comfort Lodge",
+  "Address": "Blantyre-Machingiri Road, Blantyre, Malawi",
+  "phone": "+265885105127"
+ },
+ {
+  "id": 718,
+  "name": "Nkomadzi Lodge",
+  "Address": "Glynn Jones Rd, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 719,
+  "name": "Ram's Executive Lodge",
+  "Address": "Chileka Road, Blantyre, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 720,
+  "name": "The Ayoba Compound Lodge",
+  "Address": "Chileka Airport Road, Chileka, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 721,
+  "name": "Mutheto Lodge",
+  "Address": "Kanjedza Road, Blantyre, Malawi",
+  "phone": "+265991686339"
+ },
+ {
+  "id": 722,
+  "name": "Chisale Motel",
+  "Address": "Blantyre, Malawi",
+  "phone": "+265880713161"
+ },
+ {
+  "id": 723,
+  "name": "Green Valley Lodge",
+  "Address": "M1 Road, Mponela Malawi 31523, Mponela, Malawi",
+  "phone": "+265993899382"
+ },
+ {
+  "id": 724,
+  "name": "FATIZ'S Restaurant",
+  "Address": "M1, Kasungu, Malawi",
+  "phone": "+265888121350"
+ },
+ {
+  "id": 725,
+  "name": "Chicken, Pizza Hut Restaurant",
+  "Address": "Unnamed Road, Kasungu, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 726,
+  "name": "Town Talk Restaurant",
+  "Address": "Kasungu, Malawi",
+  "phone": "+265999801767"
+ },
+ {
+  "id": 727,
+  "name": "ZX Sisters Restaurant",
+  "Address": "Kasungu, Malawi",
+  "phone": "+265994064140"
+ },
+ {
+  "id": 728,
+  "name": "Backyard J³ Restaurant",
+  "Address": "Unnamed Road, Kasungu, Malawi",
+  "phone": "+265992001557"
+ },
+ {
+  "id": 729,
+  "name": "LA FACE CAFE",
+  "Address": "PTC Building, Behind Former, Kasungu, Malawi",
+  "phone": "+265999074672"
+ },
+ {
+  "id": 730,
+  "name": "The Gateway Mall",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 731,
+  "name": "Shanghai Shopping Mall",
+  "Address": "Unnamed Road, Lilongwe, Malawi",
+  "phone": "+265999829876"
+ },
+ {
+  "id": 732,
+  "name": "Tikambe Shopping",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265993505169"
+ },
+ {
+  "id": 733,
+  "name": "Wulian Shopping Mall",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 734,
+  "name": "Mzuzu Mall",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 735,
+  "name": "Pacific Parade",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 736,
+  "name": "Century City Mall",
+  "Address": "Tsoka Road, Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 737,
+  "name": "Flymax library",
+  "Address": "Mzuzu, Malawi",
+  "phone": "+265994455285"
+ },
+ {
+  "id": 738,
+  "name": "Hayyat Complex",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 739,
+  "name": "Kasungu",
+  "Address": "D98, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 740,
+  "name": "Chamama Trading Centre",
+  "Address": "T332, Malawi",
+  "phone": "+2651259398"
+ },
+ {
+  "id": 741,
+  "name": "Jenda Market",
+  "Address": "Bondo, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 742,
+  "name": "Kasungu",
+  "Address": "Lilongwe, Malawi",
+  "phone": "+265881538168"
+ },
+ {
+  "id": 743,
+  "name": "Weskus Mall",
+  "Address": "110 Saldanha Rd, Vredenburg, 7380, South Africa",
+  "phone": "+27227036900"
+ },
+ {
+  "id": 744,
+  "name": "Happy Home Furniture (shop 2 )",
+  "Address": "M1, Jenda, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 745,
+  "name": "Kasungu",
+  "Address": "Kasungu, Malawi",
+  "phone": "+265994265062"
+ },
+ {
+  "id": 746,
+  "name": "Kasungu Hill",
+  "Address": "Lilongwe, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 747,
+  "name": "Kasungu",
+  "Address": "Maganga, Malawi",
+  "phone": ""
+ },
+ {
+  "id": 748,
+  "name": "Likhubula Falls (Dziwe la Nkhalamba)",
+  "Address": "Mulanje, Malawi",
+  "phone": "+265888551712"
+ }
 ]
