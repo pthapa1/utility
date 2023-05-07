@@ -1,2978 +1,2978 @@
 [
- {
-  "id": 1,
-  "name": "Roca Golf Hotel",
-  "Address": "32 rue Sororezo, Bujumbura, Burundi",
-  "phone": "+25776193033"
- },
- {
-  "id": 2,
-  "name": "Kiriri Garden Hotel",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 3,
-  "name": "Hotel Club Du Lac Tanganyika",
-  "Address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25775833000"
- },
- {
-  "id": 4,
-  "name": "Roca Golf Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722277100"
- },
- {
-  "id": 5,
-  "name": "Safari Gate Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775653225"
- },
- {
-  "id": 6,
-  "name": "Kangaroo Hotel Bujumbura",
-  "Address": "Avenue Du Princ Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25722277758"
- },
- {
-  "id": 7,
-  "name": "Botanika",
-  "Address": "Av. du Cercle-Nautique, Bujumbura, Burundi",
-  "phone": "+25722214780"
- },
- {
-  "id": 8,
-  "name": "City Hill Hotel",
-  "Address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
-  "phone": "+25722251490"
- },
- {
-  "id": 9,
-  "name": "Kiriri Residence Hotel",
-  "Address": "Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": "+25722277784"
- },
- {
-  "id": 10,
-  "name": "Best Outlook Hotel",
-  "Address": "Shatanya Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 11,
-  "name": "Hotel Dolce Vita Resort",
-  "Address": "Avenue Mwungo, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 12,
-  "name": "Tiger's Appartment Hotel",
-  "Address": "Gitega-Bujumbura Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 13,
-  "name": "Urban Lodge",
-  "Address": "Rn 2 Gitega, Gitega, Burundi",
-  "phone": "+25779493313"
- },
- {
-  "id": 14,
-  "name": "STAR HOTEL",
-  "Address": "Kigwati Road, Makamba Province, Burundi",
-  "phone": ""
- },
- {
-  "id": 15,
-  "name": "Mountain's View Hotel",
-  "Address": "Gitega Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 16,
-  "name": "Goodlife Residence",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 17,
-  "name": "Aparthotel Jardin Tropical Bujumbura",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 18,
-  "name": "Gahahe Hill's Hotel",
-  "Address": "Common Makamba, Makamba Province, Burundi",
-  "phone": ""
- },
- {
-  "id": 19,
-  "name": "Hôtel Emeraude",
-  "Address": "RN 3 , Bujumbura-Rumonge Road, Rumonge, Burundi",
-  "phone": ""
- },
- {
-  "id": 20,
-  "name": "Royal Palace Hotel",
-  "Address": "Quartier Gabiro, Burundi, R.N.15, Ngozi, Burundi",
-  "phone": "+25722302255"
- },
- {
-  "id": 21,
-  "name": "Hôtel Belair Résidence",
-  "Address": "Along Gitega Road, Gitega, Burundi",
-  "phone": "+25767880651"
- },
- {
-  "id": 22,
-  "name": "Hôtel Emeraude",
-  "Address": "Kayanza-Kirema Road, Kayanza, Kayanza, Burundi",
-  "phone": "+25722305109"
- },
- {
-  "id": 23,
-  "name": "Royal Palace Hotel",
-  "Address": "5091 Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 24,
-  "name": "Royal Palm Resort",
-  "Address": "Avenue Du Large, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 25,
-  "name": "Pearl Residence hôtel",
-  "Address": "Nuyinga Road, Gitega, Burundi",
-  "phone": "+25779948080"
- },
- {
-  "id": 26,
-  "name": "Sun Safari Club Hotel",
-  "Address": "Makamba Road, Makamba, Burundi",
-  "phone": ""
- },
- {
-  "id": 27,
-  "name": "Nonara Beach Resort",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722230479"
- },
- {
-  "id": 28,
-  "name": "AMARIA LUXE HOTEL",
-  "Address": "Nyabibuye Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 29,
-  "name": "Havila Residence Hotel",
-  "Address": "kamenge Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 30,
-  "name": "Mount Zion Hotel",
-  "Address": "30 Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 31,
-  "name": "Hotel Residence Ubuntu",
-  "Address": "Makamba Road, Makamba Province, Burundi",
-  "phone": ""
- },
- {
-  "id": 32,
-  "name": "Garden Hotel",
-  "Address": "Bujumbura City Centre, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 33,
-  "name": "Mirador hotel",
-  "Address": "8 Av. de Grèce, Bujumbura, Burundi",
-  "phone": "+25761123456"
- },
- {
-  "id": 34,
-  "name": "Hotel\u0026conference center Yucca",
-  "Address": "Av. Makamba, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 35,
-  "name": "Waterfront Hotel",
-  "Address": "Ngozi Road Near Lycée Burengo, Ngozi, Burundi",
-  "phone": ""
- },
- {
-  "id": 36,
-  "name": "Karera Beach Hotel",
-  "Address": "Carama, Bujumbura, Burundi",
-  "phone": "+25768119324"
- },
- {
-  "id": 37,
-  "name": "La Tulipe Hotel",
-  "Address": "No 8 Avenue Des Palmiers, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 38,
-  "name": "La Perle Hotel",
-  "Address": "Av. de L'Amitié, Bujumbura, Burundi",
-  "phone": "+25722619521"
- },
- {
-  "id": 39,
-  "name": "Hotel Restaurant Tanganyika Lake View",
-  "Address": "Kanyosha Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 40,
-  "name": "Olivia Hotel",
-  "Address": "University Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 41,
-  "name": "Niwakal Hotel agende Muremera",
-  "Address": "1 Av. Musave, Bujumbura, Burundi",
-  "phone": "+25722276666"
- },
- {
-  "id": 42,
-  "name": "Maison d'Accueil Fondation San Filippo Neri",
-  "Address": "B.P. 6954, Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": "+25722236139"
- },
- {
-  "id": 43,
-  "name": "Hotel de la Palmeraie",
-  "Address": "kamenge Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 44,
-  "name": "KANT HOTEL",
-  "Address": "49 Av. Nyankoni, Bujumbura, Burundi",
-  "phone": "+25722237642"
- },
- {
-  "id": 45,
-  "name": "Hôtel Source du Nil",
-  "Address": "Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": "+25722257371"
- },
- {
-  "id": 46,
-  "name": "Village Hotel",
-  "Address": "19 Rue Mwisale, Bujumbura, Burundi",
-  "phone": "+25771869613"
- },
- {
-  "id": 47,
-  "name": "Vaya Apartments",
-  "Address": "Avenue Ruhuhuma, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 48,
-  "name": "Hotel La Palmeraie",
-  "Address": "Avenue Muyinga, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 49,
-  "name": "LE CHANDELIER",
-  "Address": "Boulevard Du Peuple, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 50,
-  "name": "Agasago Hotel",
-  "Address": "R.N.4, Bujumbura, Burundi",
-  "phone": "+25771234401"
- },
- {
-  "id": 51,
-  "name": "Kibunoah Hotel",
-  "Address": "Ave de l'Industrie, Bujumbura, Burundi",
-  "phone": "+25776992191"
- },
- {
-  "id": 52,
-  "name": "Hotel Blue Velvet",
-  "Address": "R.N.4, Bujumbura, Burundi",
-  "phone": "+25768661637"
- },
- {
-  "id": 53,
-  "name": "Paradise Apartment",
-  "Address": "Av. Du Large, Rue Kanzigiri, Bujumbura, Burundi",
-  "phone": "+25722255852"
- },
- {
-  "id": 54,
-  "name": "Alexestel Hotel Rohero",
-  "Address": "R.N.3, Bujumbura, Burundi",
-  "phone": "+25761791009"
- },
- {
-  "id": 55,
-  "name": "Top Hill Residence Kiriri",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 56,
-  "name": "Hôtel Yombe Palace",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25761169292"
- },
- {
-  "id": 57,
-  "name": "Nyabugete Beach",
-  "Address": "Ave Belvedere, Bujumbura, Burundi",
-  "phone": "+25722254378"
- },
- {
-  "id": 58,
-  "name": "VILLA ZEIMET LUXE I",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 59,
-  "name": "Hotel Amahoro",
-  "Address": "Hotel Blue Velvet, Bujumbura, Burundi",
-  "phone": "+25765280906"
- },
- {
-  "id": 60,
-  "name": "Saint Blaise Hotel",
-  "Address": "South Kigobe, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 61,
-  "name": "New Agena Hotel",
-  "Address": "Chaussee du Peuple Murundi, Bujumbura, Burundi",
-  "phone": "+25722277430"
- },
- {
-  "id": 62,
-  "name": "Kiranzira Pahorina Hotel",
-  "Address": "67 Ave Mumirwa, Bujumbura BP 1883, Burundi",
-  "phone": "+25779906906"
- },
- {
-  "id": 63,
-  "name": "Hotel Le Bon Air De Ntahangwa",
-  "Address": "Avenue de Pleuple, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 64,
-  "name": "bedline-hotel",
-  "Address": "Kiriri B.P 1267, A cote du Monument de l'Unite, 127 Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25777426352"
- },
- {
-  "id": 65,
-  "name": "Pahorina Hotel",
-  "Address": "Ave De La J.R.R, Bujumbura, Burundi",
-  "phone": "+25722276804"
- },
- {
-  "id": 66,
-  "name": "Alexestel Hotel 2",
-  "Address": "Avenue Du Large, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 67,
-  "name": "Veritas Motel",
-  "Address": "Ave du Stade, Bujumbura, Burundi",
-  "phone": "+25722225222"
- },
- {
-  "id": 68,
-  "name": "Maketch Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25768332633"
- },
- {
-  "id": 69,
-  "name": "Guest House Mutanga Nord",
-  "Address": "BP 2970, 7 Ave de Bururi, Bujumbura, Burundi",
-  "phone": "+25722244359"
- },
- {
-  "id": 70,
-  "name": "New Parador Residence",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 71,
-  "name": "Hastotel",
-  "Address": "9ème Ave, Bujumbura, Burundi",
-  "phone": "+25722278371"
- },
- {
-  "id": 72,
-  "name": "mirador hotel kigobe",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779738537"
- },
- {
-  "id": 73,
-  "name": "Riviera Lodge",
-  "Address": "Kiriri, Bel air road, number 18, Bujumbura, Burundi",
-  "phone": "+25722254317"
- },
- {
-  "id": 74,
-  "name": "Downtown Hotel 1",
-  "Address": "Avenue de la Plage, Numero 14., A 400 Mètres du port de Bujumbura, Bujumbura, Burundi",
-  "phone": "+25722225744"
- },
- {
-  "id": 75,
-  "name": "Pacific Hotel",
-  "Address": "Mutanga Nord, Boulevard du 28 Novembre., 1 Av. Inkondo, Bujumbura, Burundi",
-  "phone": "+25722278122"
- },
- {
-  "id": 76,
-  "name": "Hotel de l'Amitié",
-  "Address": "R.N.4, Bujumbura, Burundi",
-  "phone": "+25722247818"
- },
- {
-  "id": 77,
-  "name": "Via Tanganyika Hotel",
-  "Address": "17 Chaussee du Peuple Murundi, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 78,
-  "name": "Alexestel Hotel 1",
-  "Address": "Avenue Swaa, Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": "+25775973133"
- },
- {
-  "id": 79,
-  "name": "Joy Guest House",
-  "Address": "chaussee d'Uvira, Bujumbura, Burundi",
-  "phone": "+25779492293"
- },
- {
-  "id": 80,
-  "name": "Niyimpa Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25771231467"
- },
- {
-  "id": 81,
-  "name": "Makamba City Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 82,
-  "name": "Hotel Hibiscus",
-  "Address": "55 Ave de La Plage, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 83,
-  "name": "Shammah Hotel",
-  "Address": "Rohero I, Avenue Mao Tse Toung, N 04, Bujumbura, Burundi",
-  "phone": "+25722210007"
- },
- {
-  "id": 84,
-  "name": "Pahorina Hotel",
-  "Address": "40, Avenue Ntwarante, Bujumbura, Burundi",
-  "phone": "+25772427868"
- },
- {
-  "id": 85,
-  "name": "Sehm Hotel",
-  "Address": "7089, Bujumbura, Burundi",
-  "phone": "+25779904171"
- },
- {
-  "id": 86,
-  "name": "Guest House Mutanga Nord Annexe",
-  "Address": "Chaussée d'Uvira N.23, Bujumbura, Burundi",
-  "phone": "+25722278272"
- },
- {
-  "id": 87,
-  "name": "Maruna Park Apartments",
-  "Address": "Boulevard Mao Tse Toung, Bujumbura, Burundi",
-  "phone": "+25722210007"
- },
- {
-  "id": 88,
-  "name": "Le Printemps",
-  "Address": "8, Avenue du 13 Octobre, Rohero, Av. de La Plage, Bujumbura, Burundi",
-  "phone": "+25722277309"
- },
- {
-  "id": 89,
-  "name": "Le Gradignan",
-  "Address": "R.N.4, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 90,
-  "name": "Accolade Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722275720"
- },
- {
-  "id": 91,
-  "name": "Hôtel Le Paradis",
-  "Address": "17 Av. Kunkiko, Bujumbura, Burundi",
-  "phone": "+25722276550"
- },
- {
-  "id": 92,
-  "name": "Jambo Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722275720"
- },
- {
-  "id": 93,
-  "name": "Hotel Kigobe",
-  "Address": "Kiriri, Bel air road, number 18, Bujumbura, Burundi",
-  "phone": "+25722254317"
- },
- {
-  "id": 94,
-  "name": "Kwetu Guest House",
-  "Address": "17 Av. Kunkiko, Bujumbura, Burundi",
-  "phone": "+25722276550"
- },
- {
-  "id": 95,
-  "name": "East African Hotel",
-  "Address": "Commune Rohero , Quartier Sororezo, Bujumbura, Burundi",
-  "phone": "+25775527813"
- },
- {
-  "id": 96,
-  "name": "Hôtel IWACU Center",
-  "Address": "KinaniraII Rue Des Limbas Ndeg4, Bujumbura, Burundi",
-  "phone": "+25722253000"
- },
- {
-  "id": 97,
-  "name": "Tamotels Hotel",
-  "Address": "Sororezo quarter No.6, Bujumbura, Burundi",
-  "phone": "+25779910675"
- },
- {
-  "id": 98,
-  "name": "Kibuye Guest",
-  "Address": "12 Avenue Buyongwe, Mutanga Sud, Bujumbura, Burundi",
-  "phone": "+25776718975"
- },
- {
-  "id": 99,
-  "name": "KEZAMIA Restaurant",
-  "Address": "1, rohero, 12 Av. des Chênes, Bujumbura, Burundi",
-  "phone": "+25722224220"
- },
- {
-  "id": 100,
-  "name": "Belvedere Restaurant",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25722259626"
- },
- {
-  "id": 101,
-  "name": "Harrys Grill House",
-  "Address": "23 Ave Source du Nil, Bujumbura, Burundi",
-  "phone": "+25768612181"
- },
- {
-  "id": 102,
-  "name": "Restaurant Tanganyika",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25769068000"
- },
- {
-  "id": 103,
-  "name": "Flamboyant Gardens",
-  "Address": "1 Ave de La Plage, Bujumbura, Burundi",
-  "phone": "+25722224433"
- },
- {
-  "id": 104,
-  "name": "Restaurant Chez Orphée",
-  "Address": "14 Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25722223116"
- },
- {
-  "id": 105,
-  "name": "Paparazzi Restaurant",
-  "Address": "Ave Belvedere, Bujumbura, Burundi",
-  "phone": "+25776600600"
- },
- {
-  "id": 106,
-  "name": "Restaurant Oasis",
-  "Address": "40 Av. de l'Université, Bujumbura, Burundi",
-  "phone": "+25761015220"
- },
- {
-  "id": 107,
-  "name": "Maquis",
-  "Address": "6, Avenue de la R.D. Congo Postal adresse : BP2755 Bujumbura Burundi Bujumbura, Burundi",
-  "phone": "+25776399999"
- },
- {
-  "id": 108,
-  "name": "Arena Restaurant Lounge Bar",
-  "Address": "No 17, Ave de Muramvya, Bujumbura, Burundi",
-  "phone": "+25761870505"
- },
- {
-  "id": 109,
-  "name": "Waka Waka",
-  "Address": "Chau. P. L. Rwagasore, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 110,
-  "name": "Vinotheque ZILLIKEN",
-  "Address": "17 Ave de La Justice, Bujumbura, Burundi",
-  "phone": "+25775215000"
- },
- {
-  "id": 111,
-  "name": "Restaurant Ikindi",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 112,
-  "name": "Sitar II Restaurant",
-  "Address": "6 Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": "+25775557557"
- },
- {
-  "id": 113,
-  "name": "Pasta comedia",
-  "Address": "Ubuntu Café, Kinindo Ouest, Avenue du large, 04, Bujumbura, Burundi",
-  "phone": "+25761129000"
- },
- {
-  "id": 114,
-  "name": "Kanowe",
-  "Address": "Avenue Rukonwe (Chez Willy The Bartender Brand outside, Bujumbura, Burundi",
-  "phone": "+25761411622"
- },
- {
-  "id": 115,
-  "name": "Taj Mahal grana parmisiano",
-  "Address": "Ave de Rwegura, Bujumbura, Burundi",
-  "phone": "+25776816000"
- },
- {
-  "id": 116,
-  "name": "Zanzi",
-  "Address": "Department of Bridges and Roads, Bujumbura, Burundi",
-  "phone": "+25761019149"
- },
- {
-  "id": 117,
-  "name": "Restaurant/Bar Saveurs et Délices",
-  "Address": "15ème Ave, Bujumbura, Burundi",
-  "phone": "+25761700857"
- },
- {
-  "id": 118,
-  "name": "Jardin Gourmand",
-  "Address": "Rohero 1, Bujumbura, Burundi",
-  "phone": "+25761151017"
- },
- {
-  "id": 119,
-  "name": "Le Café Gourmand",
-  "Address": "10 Bd De La Liberte, Bujumbura, Burundi",
-  "phone": "+25779305278"
- },
- {
-  "id": 120,
-  "name": "Zanzi",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25771530359"
- },
- {
-  "id": 121,
-  "name": "Asian Restaurant",
-  "Address": "Chaussée du, Chaussee Prince Louis Rwagasore, Burundi",
-  "phone": ""
- },
- {
-  "id": 122,
-  "name": "Chez Andre",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 123,
-  "name": "Amber Grill",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779242143"
- },
- {
-  "id": 124,
-  "name": "Kani Bar",
-  "Address": "Chaussee du Peuple Murundi, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 125,
-  "name": "Baobab",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775399495"
- },
- {
-  "id": 126,
-  "name": "La Pirogue",
-  "Address": "32 Ave du 18 Septembre, Bujumbura 5151, Burundi",
-  "phone": "32185151"
- },
- {
-  "id": 127,
-  "name": "Pacha Club",
-  "Address": "49, Avenue du Large, Bujumbura, Burundi",
-  "phone": "+25775851848"
- },
- {
-  "id": 128,
-  "name": "Restaurant Villa ADE",
-  "Address": "5 Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25761080708"
- },
- {
-  "id": 129,
-  "name": "Nyakeru Bar and Restaurent",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 130,
-  "name": "La Silhouette Cafe",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 131,
-  "name": "L'Archipel Archipel Restaurant",
-  "Address": "Ave du 18 Septembre, Bujumbura, Burundi",
-  "phone": "+25779480882"
- },
- {
-  "id": 132,
-  "name": "Quán tàu / Dynasty - Chinese restaurant",
-  "Address": "13 Rue de la Victoire, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 133,
-  "name": "Vino Garden",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 134,
-  "name": "Restaurant les deux pnateaux",
-  "Address": "Avenue du large, Bujumbura, Burundi",
-  "phone": "+25777764191"
- },
- {
-  "id": 135,
-  "name": "Midtown Bites",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25761111409"
- },
- {
-  "id": 136,
-  "name": "SUPERNOVA RESTAURANT",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775902157"
- },
- {
-  "id": 137,
-  "name": "Tropicana Net Cafe",
-  "Address": "Ave de Muramvya, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 138,
-  "name": "Motsäh",
-  "Address": "Avenue de la Plage, Numero 14., A 400 Mètres du port de Bujumbura, Bujumbura, Burundi",
-  "phone": "+25722225744"
- },
- {
-  "id": 139,
-  "name": "Nobel Kiriri",
-  "Address": "10 Chaussee du Peuple Murundi, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 140,
-  "name": "Chateau 9",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 141,
-  "name": "Milton Bar Restaurant",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 142,
-  "name": "Bismillah",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25777487275"
- },
- {
-  "id": 143,
-  "name": "Chez Maman SOLO",
-  "Address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25765192938"
- },
- {
-  "id": 144,
-  "name": "AKEZA HALL",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779050306"
- },
- {
-  "id": 145,
-  "name": "Les Paillottes",
-  "Address": "27, Avenue hotel Tanganyika Quartier Kabondo, Bujumbura, Burundi",
-  "phone": "+25765007504"
- },
- {
-  "id": 146,
-  "name": "Aura Café",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775663704"
- },
- {
-  "id": 147,
-  "name": "Ikare Bar",
-  "Address": "Ave des Mimosas, Bujumbura, Burundi",
-  "phone": "+25779800247"
- },
- {
-  "id": 148,
-  "name": "Restaurant Snack Bar Arôme",
-  "Address": "Ave des Mimosas, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 149,
-  "name": "La Bamba",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 150,
-  "name": "Chez Marc",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 151,
-  "name": "Chez Bea Traiteur",
-  "Address": "Av. des Hippopotames, Bujumbura, Burundi",
-  "phone": "+25769555555"
- },
- {
-  "id": 152,
-  "name": "LIMVache",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 153,
-  "name": "Restaurant/Boulangerie Hibiscus",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 154,
-  "name": "Restaurant Sénégalais La CASA chez Fatou",
-  "Address": "48, Avenue du large, Bujumbura, Burundi",
-  "phone": "+25768935183"
- },
- {
-  "id": 155,
-  "name": "Hallal Brochett Restaurant",
-  "Address": "Shia Mosque, Asiatique Near Sunni or, Bujumbura, Burundi",
-  "phone": "+25762513046"
- },
- {
-  "id": 156,
-  "name": "Tasty Barbeque",
-  "Address": "73 Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25761485086"
- },
- {
-  "id": 157,
-  "name": "MALIYE",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722242597"
- },
- {
-  "id": 158,
-  "name": "Nagella Kitchen",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 159,
-  "name": "Snack Bar FARASI",
-  "Address": "Rue Kinyinya, Bujumbura, Burundi",
-  "phone": "+25779910330"
- },
- {
-  "id": 160,
-  "name": "Barnacle",
-  "Address": "72 Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 161,
-  "name": "MUTSINDA Bar",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25768222222"
- },
- {
-  "id": 162,
-  "name": "Garden City Burundi",
-  "Address": "Ave De La J.R.R, Bujumbura, Burundi",
-  "phone": "+25779938430"
- },
- {
-  "id": 163,
-  "name": "Zion Beach",
-  "Address": "19 Av. Moso, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 164,
-  "name": "Inyambo Restaurant Bar",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 165,
-  "name": "Safi Beach",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25768886886"
- },
- {
-  "id": 166,
-  "name": "Ku Kamenyi",
-  "Address": "1ere Ave, Bujumbura, Burundi",
-  "phone": "+25779442059"
- },
- {
-  "id": 167,
-  "name": "PORK2DELISH",
-  "Address": "Avenue du Large, Bujumbura, Burundi",
-  "phone": "+25775191973"
- },
- {
-  "id": 168,
-  "name": "Restaurant lili sisco",
-  "Address": "Rue des Swahilis, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 169,
-  "name": "Cup Line",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779959527"
- },
- {
-  "id": 170,
-  "name": "New Kumuganuro",
-  "Address": "Av. du Palmier, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 171,
-  "name": "Eat Yours Resto café Night club",
-  "Address": "Ave Muyinga, Bujumbura, Burundi",
-  "phone": "+25779972513"
- },
- {
-  "id": 172,
-  "name": "Resto-Bar de la Galerie Idéale",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775758581"
- },
- {
-  "id": 173,
-  "name": "Chez Gerard Jardin Publique",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722247756"
- },
- {
-  "id": 174,
-  "name": "Hotel Restaurant Tanganyika Lake View",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 175,
-  "name": "Pick-up Coffee Bujumbura",
-  "Address": "Rue du Progres, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 176,
-  "name": "LA DETENTE",
-  "Address": "Ave du Stade, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 177,
-  "name": "Salama Fast Food",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25768472758"
- },
- {
-  "id": 178,
-  "name": "New Cayor",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779360563"
- },
- {
-  "id": 179,
-  "name": "Apero",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775821937"
- },
- {
-  "id": 180,
-  "name": "Hotel Rossignol",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779337856"
- },
- {
-  "id": 181,
-  "name": "Bwiza Resto Bar Musasa",
-  "Address": "9ème Avenue,Bwiza, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 182,
-  "name": "Beirut restaurant \u0026 lounge bar Bujumbura",
-  "Address": "24, Bujumbura, Burundi",
-  "phone": "+25779281185"
- },
- {
-  "id": 183,
-  "name": "Moon Bar",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25761155508"
- },
- {
-  "id": 184,
-  "name": "Restaurant Bar Hekenya",
-  "Address": "Ave de Muramvya, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 185,
-  "name": "Falcon Grill",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25775997393"
- },
- {
-  "id": 186,
-  "name": "Snack Bar Champions Bar",
-  "Address": "Ave des Patriotes, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 187,
-  "name": "Au Coin D'ixelles",
-  "Address": "PLOT 31 Ave Muyinga, Bujumbura, Burundi",
-  "phone": "+25762002002"
- },
- {
-  "id": 188,
-  "name": "Bujacafe",
-  "Address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25722222267"
- },
- {
-  "id": 189,
-  "name": "HB Restaurant Bar",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25762642626"
- },
- {
-  "id": 190,
-  "name": "Al Qaboos coffee shop",
-  "Address": "6 Rue Kirundo, Bujumbura, Burundi",
-  "phone": "+25779348111"
- },
- {
-  "id": 191,
-  "name": "Maison Cremerie",
-  "Address": "Ave des Peysans, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 192,
-  "name": "Snack Bar Mon Ami",
-  "Address": "Ave De France, Bujumbura, Burundi",
-  "phone": "+25722277245"
- },
- {
-  "id": 193,
-  "name": "Chef kaziuska",
-  "Address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25775982366"
- },
- {
-  "id": 194,
-  "name": "Car wash Coffee",
-  "Address": "Ave des Peysans, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 195,
-  "name": "Chez Willy The Bartender (Ex-Kasuku)",
-  "Address": "Ave Janvier, Bujumbura, Burundi",
-  "phone": "+25779323919"
- },
- {
-  "id": 196,
-  "name": "Aparthotel Jardin Tropical Bujumbura",
-  "Address": "Ave Du Marche, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 197,
-  "name": "Roca Golf Hotel",
-  "Address": "Ave Du Commerce, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 198,
-  "name": "Agora center",
-  "Address": "Ave Des Eucalyptus, Bujumbura, Burundi",
-  "phone": "+25768560830"
- },
- {
-  "id": 199,
-  "name": "Lilian Shopping Center",
-  "Address": "Rue du Progres, Bujumbura, Burundi",
-  "phone": "+25779987805"
- },
- {
-  "id": 200,
-  "name": "MTS Center",
-  "Address": "12 Avenue Buyongwe, Mutanga Sud, Bujumbura, Burundi",
-  "phone": "+25776718975"
- },
- {
-  "id": 201,
-  "name": "Tanganyika Burundi Company",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722222945"
- },
- {
-  "id": 202,
-  "name": "Tokyo Business Center",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722277100"
- },
- {
-  "id": 203,
-  "name": "GALERIE DU PROGRES",
-  "Address": "Avenue de l'OUA, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 204,
-  "name": "Bujastore",
-  "Address": "322, Bujumbura, Burundi",
-  "phone": "+25769159242"
- },
- {
-  "id": 205,
-  "name": "Sans dema",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 206,
-  "name": "vyukusenge shop, saloon,cafétaria",
-  "Address": "Unnamed Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 207,
-  "name": "Kwa Liévin",
-  "Address": "Ave du 18 Septembre, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 208,
-  "name": "Tanganyika Business Company",
-  "Address": "9ème Ave, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 209,
-  "name": "COTEBU Market",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722202000"
- },
- {
-  "id": 210,
-  "name": "SAFINA INDUSTRY COMPANY (SAICO)",
-  "Address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
-  "phone": "+25722251490"
- },
- {
-  "id": 211,
-  "name": "Gift Supermarket Center",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775653225"
- },
- {
-  "id": 212,
-  "name": "Mubeza Wellbeing Center",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 213,
-  "name": "Honey Planet",
-  "Address": "111 Boulevard de l'Uprona, Division A, n。61, Burundi",
-  "phone": ""
- },
- {
-  "id": 214,
-  "name": "istanbul shop",
-  "Address": "Ave De La J.R.R, Bujumbura, Burundi",
-  "phone": "+25722276804"
- },
- {
-  "id": 215,
-  "name": "Rucsa Plaza",
-  "Address": "Av. du Poisson, Bujumbura, Burundi",
-  "phone": "+25779323699"
- },
- {
-  "id": 216,
-  "name": "Gift Supermarket",
-  "Address": "32 Ave du 18 Septembre, Bujumbura 5151, Burundi",
-  "phone": "32185151"
- },
- {
-  "id": 217,
-  "name": "AmeDove Plaza",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775930178"
- },
- {
-  "id": 218,
-  "name": "Marché de Kinindo",
-  "Address": "303, Bujumbura, Burundi",
-  "phone": "+25771129547"
- },
- {
-  "id": 219,
-  "name": "Burundi Shop",
-  "Address": "Avenue Du Princ Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25722277758"
- },
- {
-  "id": 220,
-  "name": "CASINO SUPERMARCHE",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 221,
-  "name": "Tecno Mobile",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775818688"
- },
- {
-  "id": 222,
-  "name": "Yana Tyre Center",
-  "Address": "Numero 16, Tokyo Business Center, Avenue de l'OUA, Bujumbura, Burundi",
-  "phone": "+25761747474"
- },
- {
-  "id": 223,
-  "name": "MINA BelleVille [LUXURY APARTMENTS]",
-  "Address": "Boulevard du 1er Novembre, Bujumbura, Burundi",
-  "phone": "+25722229039"
- },
- {
-  "id": 224,
-  "name": "Muco Shop",
-  "Address": "Ave De France, Bujumbura, Burundi",
-  "phone": "+25722277245"
- },
- {
-  "id": 225,
-  "name": "Clean shop",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25779944944"
- },
- {
-  "id": 226,
-  "name": "Autoline Center Service Center",
-  "Address": "Rue du 13 Octobre, Bujumbura, Burundi",
-  "phone": "+25779450140"
- },
- {
-  "id": 227,
-  "name": "Autoline Center",
-  "Address": "19 Bis Boulevard du 1er Novembre, Bujumbura, Burundi",
-  "phone": "+25761646188"
- },
- {
-  "id": 228,
-  "name": "Espace Médical Ste Marie (EMSM)",
-  "Address": "5 Boulevard du 28 Novembre, Bujumbura, Burundi",
-  "phone": "+25775406000"
- },
- {
-  "id": 229,
-  "name": "Come And See Burundi Village",
-  "Address": "QUARTIER ASIATIQUE,BOULEVARD DE LA MUBARAZI NO.22A. ROUTE PAVEE DE ECOBANK ROHERO, MUKAZA, BUJUMBURA, Burundi",
-  "phone": ""
- },
- {
-  "id": 230,
-  "name": "Pointe de vente Fruito Burundi",
-  "Address": "Bd de l'Indépendance, Bujumbura, Burundi",
-  "phone": "+25775201555"
- },
- {
-  "id": 231,
-  "name": "Pharmacie Plaza",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25722223856"
- },
- {
-  "id": 232,
-  "name": "TwoFiveSeven Arts",
-  "Address": "pharmacie.plaza@gmail.com, BP 1133, Bujumbura, Burundi",
-  "phone": "+25767007000"
- },
- {
-  "id": 233,
-  "name": "'The Whitestone' Building",
-  "Address": "1 Av. Moso, Bujumbura, Burundi",
-  "phone": "+25775275152"
- },
- {
-  "id": 234,
-  "name": "Deco Center",
-  "Address": "Avenue du Large, Kinindo, Bujumbura, Burundi",
-  "phone": "+25722273636"
- },
- {
-  "id": 235,
-  "name": "Trust Car Center",
-  "Address": "Unnamed Road, Bujumbura Bujumbura, Quartier Miroir, Burundi",
-  "phone": "+25768814704"
- },
- {
-  "id": 236,
-  "name": "King's Conference Center",
-  "Address": "2 Ave Du Marche, Bujumbura, Burundi",
-  "phone": "+25779584458"
- },
- {
-  "id": 237,
-  "name": "Truck center Autoparts Burundi",
-  "Address": "Siruco Warehouse, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 238,
-  "name": "So Beautiful",
-  "Address": "Avenue des paysans, 24, Bujumbura, Burundi",
-  "phone": "+25722222590"
- },
- {
-  "id": 239,
-  "name": "IMEX",
-  "Address": "Chaussee du Peuple Murundi, Bujumbura, Burundi",
-  "phone": "+25722279508"
- },
- {
-  "id": 240,
-  "name": "Le Café Gourmand",
-  "Address": "Avenue des paysans, 24, Bujumbura, Burundi",
-  "phone": "+25775598917"
- },
- {
-  "id": 241,
-  "name": "Burundi Bwiza",
-  "Address": "Nyabugete 1, R.N.3, Bujumbura, Burundi",
-  "phone": "+14502301684"
- },
- {
-  "id": 242,
-  "name": "Musée Vivant",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779768826"
- },
- {
-  "id": 243,
-  "name": "DMS Burundi",
-  "Address": "429, Bujumbura, Burundi",
-  "phone": "+25722218127"
- },
- {
-  "id": 244,
-  "name": "Gogiva Garden",
-  "Address": "City Market, E-25 Sioni Market, Bujumbura, Burundi",
-  "phone": "+25779912189"
- },
- {
-  "id": 245,
-  "name": "Best Outlook Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 246,
-  "name": "Party Garden",
-  "Address": "Avenue de l'OUA, Bujumbura, Burundi",
-  "phone": "+25722246418"
- },
- {
-  "id": 247,
-  "name": "Musumba Steel",
-  "Address": "Ave de Buragane, Bujumbura, Burundi",
-  "phone": "+25761250250"
- },
- {
-  "id": 248,
-  "name": "Hotel Club Du Lac",
-  "Address": "Siruco Warehouse, Bujumbura, Burundi",
-  "phone": "+25779520786"
- },
- {
-  "id": 249,
-  "name": "Bujacafe",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25761515162"
- },
- {
-  "id": 250,
-  "name": "Réparation TV",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 251,
-  "name": "LE CHANDELIER",
-  "Address": "buyenzi-mukaza, Bujumbura, Burundi",
-  "phone": "+25775280280"
- },
- {
-  "id": 252,
-  "name": "Kiriri Garden Hotel",
-  "Address": "19 Bd du Japon, Bujumbura, Burundi",
-  "phone": "+25779590497"
- },
- {
-  "id": 253,
-  "name": "UNICEF Burundi",
-  "Address": "Avenue de L'Amitie, Av. de L'Amitié, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 254,
-  "name": "Kangaroo Hotel Bujumbura",
-  "Address": "Av. du Saint-Esprit, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 255,
-  "name": "Hotel Club Du Lac Tanganyika",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 256,
-  "name": "IMC Burundi",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779681482"
- },
- {
-  "id": 257,
-  "name": "WILSON JOEL TUNZE CENTER",
-  "Address": "Bvd. Patrice Lumumba, Bujumbura, Burundi",
-  "phone": "+25776480764"
- },
- {
-  "id": 258,
-  "name": "KIT Center",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25776608111"
- },
- {
-  "id": 259,
-  "name": "HOSANA BUSNESS CENTER-GASENYI",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 260,
-  "name": "Creamy Heaven",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25777741999"
- },
- {
-  "id": 261,
-  "name": "Musée Vivant",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 262,
-  "name": "Rusizi National Park",
-  "Address": "R.N.4, Kinyinya, Burundi",
-  "phone": ""
- },
- {
-  "id": 263,
-  "name": "Livingston-Stanley Monument",
-  "Address": "Ramba, Burundi",
-  "phone": ""
- },
- {
-  "id": 264,
-  "name": "Kibira National Park",
-  "Address": "Busiga, Burundi",
-  "phone": ""
- },
- {
-  "id": 265,
-  "name": "National Museum of Gitega",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 266,
-  "name": "Ruvubu National Park",
-  "Address": "Rue du 13 Octobre, Bujumbura, Burundi",
-  "phone": "+25779450140"
- },
- {
-  "id": 267,
-  "name": "Burundi Discovery Tours",
-  "Address": "R.N.15, Burundi",
-  "phone": "+25779518137"
- },
- {
-  "id": 268,
-  "name": "Bujumbura Rural",
-  "Address": "8, Avenue du 13 Octobre, Rohero, Av. de La Plage, Bujumbura, Burundi",
-  "phone": "+25722277309"
- },
- {
-  "id": 269,
-  "name": "So Beautiful",
-  "Address": "Ave Du Commerce, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 270,
-  "name": "TwoFiveSeven Arts",
-  "Address": "Gikungu, Bujumbura, Burundi",
-  "phone": "+25779957879"
- },
- {
-  "id": 271,
-  "name": "Bujumbura",
-  "Address": "55 Ave de La Plage, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 272,
-  "name": "Maison Cremerie",
-  "Address": "No 17, Ave de Muramvya, Bujumbura, Burundi",
-  "phone": "+25761870505"
- },
- {
-  "id": 273,
-  "name": "Kiriri Garden Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722277100"
- },
- {
-  "id": 274,
-  "name": "Bujacafe",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 275,
-  "name": "Hotel Club Du Lac Tanganyika",
-  "Address": "Avenue du Large, Kinindo, Bujumbura, Burundi",
-  "phone": "+25722273636"
- },
- {
-  "id": 276,
-  "name": "bujumbura",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 277,
-  "name": "Best Outlook Hotel",
-  "Address": "Avenue Du Princ Louis Rwagasore, Bujumbura, Burundi",
-  "phone": "+25722277758"
- },
- {
-  "id": 278,
-  "name": "Bururi",
-  "Address": "32 Ave du 18 Septembre, Bujumbura 5151, Burundi",
-  "phone": "32185151"
- },
- {
-  "id": 279,
-  "name": "Roca Golf Hotel",
-  "Address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
-  "phone": "+25722251490"
- },
- {
-  "id": 280,
-  "name": "Harrys Grill House",
-  "Address": "10 Bd De La Liberte, Bujumbura, Burundi",
-  "phone": "+25779305278"
- },
- {
-  "id": 281,
-  "name": "Munirak su/Host Services",
-  "Address": "1 Av. Moso, Bujumbura, Burundi",
-  "phone": "+25775275152"
- },
- {
-  "id": 282,
-  "name": "Kigwena",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25779944944"
- },
- {
-  "id": 283,
-  "name": "Cankuzo",
-  "Address": "Kiganda, Burundi",
-  "phone": "+25768200845"
- },
- {
-  "id": 284,
-  "name": "Pearl Residence hôtel",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25779944944"
- },
- {
-  "id": 285,
-  "name": "Gishora",
-  "Address": "1 Av. Moso, Bujumbura, Burundi",
-  "phone": "+25775275152"
- },
- {
-  "id": 286,
-  "name": "Hotel Dolce Vita Resort",
-  "Address": "Unnamed Road, Bujumbura Bujumbura, Quartier Miroir, Burundi",
-  "phone": "+25768814704"
- },
- {
-  "id": 287,
-  "name": "Rutana",
-  "Address": "2344, Bvd. Patrice Lumumba, Bujumbura, Burundi",
-  "phone": "+250784845495"
- },
- {
-  "id": 288,
-  "name": "Kirundo",
-  "Address": "R.N.4, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 289,
-  "name": "Busanze",
-  "Address": "Ave de La Jeunesse, Bujumbura, Burundi",
-  "phone": "+25722229423"
- },
- {
-  "id": 290,
-  "name": "Fly Cape Town Tandem Paragliding",
-  "Address": "Burunga, Burundi",
-  "phone": ""
- },
- {
-  "id": 291,
-  "name": "GREEN-HILLS HOTEL",
-  "Address": "Muyinga Road, Muyinga, Burundi",
-  "phone": "+25779932536"
- },
- {
-  "id": 292,
-  "name": "Icizanye Hotel",
-  "Address": "Muyinga Road, Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 293,
-  "name": "Campanil New Guest House",
-  "Address": "Muyinga Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 294,
-  "name": "Guest House Shawala",
-  "Address": "Muyinga Central, Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 295,
-  "name": "Benito Guest House",
-  "Address": "750 MUYINGA BI, Muyinga, Burundi",
-  "phone": "+25779000026"
- },
- {
-  "id": 296,
-  "name": "Bicunda Guest House",
-  "Address": "Bogoye Road, Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 297,
-  "name": "hawa coffee",
-  "Address": "Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 298,
-  "name": "Hotel Restaurant AGAHIMBARE",
-  "Address": "750 MUYINGA BI, Muyinga, Burundi",
-  "phone": "+25779000026"
- },
- {
-  "id": 299,
-  "name": "Sunshine bar and restaurant",
-  "Address": "Muyinga Central, Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 300,
-  "name": "Icizanye Hotel",
-  "Address": "Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 301,
-  "name": "Milton Bar Restaurant",
-  "Address": "Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 302,
-  "name": "Hotel Icizanye",
-  "Address": "1er avenu no18, Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 303,
-  "name": "Amber Grill",
-  "Address": "Ave Muyinga, Bujumbura, Burundi",
-  "phone": "+25779972513"
- },
- {
-  "id": 304,
-  "name": "meat na chips",
-  "Address": "PLOT 31 Ave Muyinga, Bujumbura, Burundi",
-  "phone": "+25762002002"
- },
- {
-  "id": 305,
-  "name": "Mlimani Peak",
-  "Address": "Unnamed Road, Burundi",
-  "phone": "+25731053584"
- },
- {
-  "id": 306,
-  "name": "Tumaini Letu Hotel",
-  "Address": "Chaussee de Gitega, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 307,
-  "name": "SOS Children's Village Muyinga",
-  "Address": "R.N.6, Muyinga 99999999, Burundi",
-  "phone": ""
- },
- {
-  "id": 308,
-  "name": "Muyinga",
-  "Address": "Muyinga Road, Muyinga, Burundi",
-  "phone": "+25779932536"
- },
- {
-  "id": 309,
-  "name": "Muyinga",
-  "Address": "Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 310,
-  "name": "Muyinga",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 311,
-  "name": "Monument du Soldat inconnu",
-  "Address": "Muyinga, Burundi",
-  "phone": ""
- },
- {
-  "id": 312,
-  "name": "Cj Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25776279232"
- },
- {
-  "id": 313,
-  "name": "WASAPE Lodge \u0026 Restaurant",
-  "Address": "R.N.6, Muyinga 99999999, Burundi",
-  "phone": ""
- },
- {
-  "id": 314,
-  "name": "Parador \"El Uruguayo, Muyinga\"",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722242597"
- },
- {
-  "id": 315,
-  "name": "Lobby Grille",
-  "Address": "6, Avenue de la R.D. Congo Postal adresse : BP2755 Bujumbura Burundi Bujumbura, Burundi",
-  "phone": "+25776399999"
- },
- {
-  "id": 316,
-  "name": "MELBA Manukau",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25775399495"
- },
- {
-  "id": 317,
-  "name": "Purple Steer Restaurant",
-  "Address": "Av. des Hippopotames, Bujumbura, Burundi",
-  "phone": "+25769555555"
- },
- {
-  "id": 318,
-  "name": "Purple Steer Restaurant",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25722259626"
- },
- {
-  "id": 319,
-  "name": "Bar Restaurant Kurunani",
-  "Address": "Ave des Mimosas, Bujumbura, Burundi",
-  "phone": "+25779800247"
- },
- {
-  "id": 320,
-  "name": "Ganza Hotel \u0026 Restaurant",
-  "Address": "R.N.15, Ngozi, Burundi",
-  "phone": "+25722277135"
- },
- {
-  "id": 321,
-  "name": "Ruhuka Hotel",
-  "Address": "Quartier Gabiro, Burundi, R.N.15, Ngozi, Burundi",
-  "phone": "+25722302255"
- },
- {
-  "id": 322,
-  "name": "Hotel Kigobe",
-  "Address": "R.N.15, Ngozi, Burundi",
-  "phone": "+25761044009"
- },
- {
-  "id": 323,
-  "name": "Safari Guest House",
-  "Address": "Ngozi-Gitega Road, Ngozi, Burundi",
-  "phone": ""
- },
- {
-  "id": 324,
-  "name": "Hôtel Des Plateaux",
-  "Address": "Ngozi, Burundi",
-  "phone": "+25775998000"
- },
- {
-  "id": 325,
-  "name": "Véro motel Ngozi",
-  "Address": "Gabiro Road, Ngozi, Burundi",
-  "phone": ""
- },
- {
-  "id": 326,
-  "name": "Imperial Guest House",
-  "Address": "Buja Road, Ngozi, Burundi",
-  "phone": ""
- },
- {
-  "id": 327,
-  "name": "La Residence Hotel",
-  "Address": "Quatier Gabiro, Rue Kanyambo, Ngozi, Burundi",
-  "phone": "+25722303184"
- },
- {
-  "id": 328,
-  "name": "Hotel Safari",
-  "Address": "Ngozi, Burundi",
-  "phone": "+25779956690"
- },
- {
-  "id": 329,
-  "name": "Vero Motel",
-  "Address": "Burundi, Ngozi, Buye road Buye",
-  "phone": "+61401939405"
- },
- {
-  "id": 330,
-  "name": "Agape Hotel",
-  "Address": "R.N.6, Ngozi, Burundi",
-  "phone": "+25779321581"
- },
- {
-  "id": 331,
-  "name": "Hotel Rehoboth",
-  "Address": "R.N.15, Ngozi, Burundi",
-  "phone": "+25722257569"
- },
- {
-  "id": 332,
-  "name": "Nyungwe Forest National Park",
-  "Address": "R.N.4, Kinyinya, Burundi",
-  "phone": ""
- },
- {
-  "id": 333,
-  "name": "Kibira National Park",
-  "Address": "Busiga, Burundi",
-  "phone": ""
- },
- {
-  "id": 334,
-  "name": "King's Palace Museum",
-  "Address": "Ramba, Burundi",
-  "phone": ""
- },
- {
-  "id": 335,
-  "name": "Ruvubu National Park",
-  "Address": "Quatier Gabiro, Rue Kanyambo, Ngozi, Burundi",
-  "phone": "+25722303184"
- },
- {
-  "id": 336,
-  "name": "National Museum of Gitega",
-  "Address": "Ngozi, Burundi",
-  "phone": "+25775424354"
- },
- {
-  "id": 337,
-  "name": "Masanganzira",
-  "Address": "R.N.15, Burundi",
-  "phone": "+25779518137"
- },
- {
-  "id": 338,
-  "name": "Gishora Drum Sanctuary",
-  "Address": "Ngozi, Burundi",
-  "phone": ""
- },
- {
-  "id": 339,
-  "name": "Ngosi Crater Lake",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 340,
-  "name": "BELAN Hôtel de Ngozi",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 341,
-  "name": "Tropitel Gitega Hôtel",
-  "Address": "Gitega Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 342,
-  "name": "Accolade Hotel",
-  "Address": "Gitega, Burundi",
-  "phone": "+905544224761"
- },
- {
-  "id": 343,
-  "name": "ISANGO Hôtel",
-  "Address": "Nuyinga Road, Gitega, Burundi",
-  "phone": "+25779948080"
- },
- {
-  "id": 344,
-  "name": "BETHEL Hotel",
-  "Address": "Gitega, Burundi",
-  "phone": "+25722404762"
- },
- {
-  "id": 345,
-  "name": "Helena hotel",
-  "Address": "Commune Rohero , Quartier Sororezo, Bujumbura, Burundi",
-  "phone": "+25775527813"
- },
- {
-  "id": 346,
-  "name": "Motel La Perle",
-  "Address": "gitega Magarama, Bwoga, Burundi",
-  "phone": "+25722404802"
- },
- {
-  "id": 347,
-  "name": "Mountain's View Hotel",
-  "Address": "Sororezo quarter No.6, Bujumbura, Burundi",
-  "phone": "+25779910675"
- },
- {
-  "id": 348,
-  "name": "Hôtel Étoile du Centre",
-  "Address": "Gitega, Burundi",
-  "phone": "+25722402661"
- },
- {
-  "id": 349,
-  "name": "Gahahe Hill's Hotel",
-  "Address": "Quartier Cnar, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 350,
-  "name": "Jambo Hotel",
-  "Address": "Kigwati Road, Makamba Province, Burundi",
-  "phone": ""
- },
- {
-  "id": 351,
-  "name": "Tamotels Hotel",
-  "Address": "R.N.3, Rumonge, Burundi",
-  "phone": ""
- },
- {
-  "id": 352,
-  "name": "My Place Palace",
-  "Address": "kamenge Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 353,
-  "name": "Centre Multifonctionnel de Gitega",
-  "Address": "Bujumbura City Centre, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 354,
-  "name": "Hosanna Motel",
-  "Address": "kamenge Road, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 355,
-  "name": "Hôtel IWACU Center",
-  "Address": "Avenue Mwungo, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 356,
-  "name": "Salvani Hôtel",
-  "Address": "Avenue Ruhuhuma, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 357,
-  "name": "Kwa Riziki Guest House",
-  "Address": "Carama, Bujumbura, Burundi",
-  "phone": "+25768119324"
- },
- {
-  "id": 358,
-  "name": "Motel Kadza",
-  "Address": "19 Rue Mwisale, Bujumbura, Burundi",
-  "phone": "+25771869613"
- },
- {
-  "id": 359,
-  "name": "Mizero Hotel",
-  "Address": "Ave de l'Industrie, Bujumbura, Burundi",
-  "phone": "+25776992191"
- },
- {
-  "id": 360,
-  "name": "Hosanna Motel",
-  "Address": "Boulevard Du Peuple, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 361,
-  "name": "Guest House La Preference",
-  "Address": "RN 3 , Bujumbura-Rumonge Road, Rumonge, Burundi",
-  "phone": ""
- },
- {
-  "id": 362,
-  "name": "Hotel Kigobe",
-  "Address": "49 Av. Nyankoni, Bujumbura, Burundi",
-  "phone": "+25722237642"
- },
- {
-  "id": 363,
-  "name": "Mount Zion Hotel",
-  "Address": "R.N.4, Bujumbura, Burundi",
-  "phone": "+25768661637"
- },
- {
-  "id": 364,
-  "name": "KANT HOTEL",
-  "Address": "Common Makamba, Makamba Province, Burundi",
-  "phone": ""
- },
- {
-  "id": 365,
-  "name": "Hotel Irakoze",
-  "Address": "South Kigobe, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 366,
-  "name": "Kibunoah Hotel",
-  "Address": "RN 15, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 367,
-  "name": "MM Plazza",
-  "Address": "Gitega Shatanya IV Town, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 368,
-  "name": "Kibuye Guest",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25768332633"
- },
- {
-  "id": 369,
-  "name": "Saint Blaise Hotel",
-  "Address": "Rohero I, Avenue Mao Tse Toung, N 04, Bujumbura, Burundi",
-  "phone": "+25722210007"
- },
- {
-  "id": 370,
-  "name": "Guest House Mutanga Nord",
-  "Address": "Muyinga Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 371,
-  "name": "Kwetu Guest House",
-  "Address": "Quartier Gabiro, Burundi, R.N.15, Ngozi, Burundi",
-  "phone": "+25722302255"
- },
- {
-  "id": 372,
-  "name": "Hotel Le Bon Air De Ntahangwa",
-  "Address": "Birohe 02 , Shatanya 2 Gitega, Gitega, Burundi",
-  "phone": "+25779809066"
- },
- {
-  "id": 373,
-  "name": "Hotel Amahoro",
-  "Address": "Magarama Road, No 8 Mbili Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 374,
-  "name": "Maketch Hotel",
-  "Address": "Gitega-Bujumbura Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 375,
-  "name": "Niyimpa Hotel",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 376,
-  "name": "Pahorina Hotel",
-  "Address": "Birohe 02 , Shatanya 2 Gitega, Gitega, Burundi",
-  "phone": "+25779809066"
- },
- {
-  "id": 377,
-  "name": "Veritas Motel",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 378,
-  "name": "Via Tanganyika Hotel",
-  "Address": "R.N.15 Ngozi, Kiremera, Burundi",
-  "phone": "+25779934882"
- },
- {
-  "id": 379,
-  "name": "Agasaro Guest House",
-  "Address": "Shatanya Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 380,
-  "name": "Pahorina Hotel",
-  "Address": "Shatanya IV, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 381,
-  "name": "Fair Amount Hotel",
-  "Address": "Rn 2 Gitega, Gitega, Burundi",
-  "phone": "+25779493313"
- },
- {
-  "id": 382,
-  "name": "Makamba Guest House 2",
-  "Address": "Along Gitega Road, Gitega, Burundi",
-  "phone": "+25767880651"
- },
- {
-  "id": 383,
-  "name": "Paradise Restaurant",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 384,
-  "name": "solange's restaurant",
-  "Address": "R.N.15, Gitega, Burundi",
-  "phone": "+25762333299"
- },
- {
-  "id": 385,
-  "name": "Al Huda Restaurant",
-  "Address": "Unnamed Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 386,
-  "name": "Chez COBRA",
-  "Address": "Quartier musinzira, avenue regideso 01, Burundi",
-  "phone": "+25768445233"
- },
- {
-  "id": 387,
-  "name": "Restaurant",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 388,
-  "name": "Favina Home",
-  "Address": "RN16, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 389,
-  "name": "Chez maman Darcy",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 390,
-  "name": "Chez butumuzi (double service center)",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 391,
-  "name": "Masapta sapta",
-  "Address": "Quartier Rango, Gitega, Burundi",
-  "phone": "+25779588624"
- },
- {
-  "id": 392,
-  "name": "2e avenue Nyamugari",
-  "Address": "Gitega, Burundi",
-  "phone": "+25771461207"
- },
- {
-  "id": 393,
-  "name": "LENOX",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 394,
-  "name": "Jerusalem Business Center JBC",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 395,
-  "name": "Bulgur King",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 396,
-  "name": "ISANGO Hôtel",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 397,
-  "name": "Bar Chez Maximilien",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 398,
-  "name": "Kwizera emery",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 399,
-  "name": "AFRITA",
-  "Address": "Rukobe, Burundi",
-  "phone": "+25769236561"
- },
- {
-  "id": 400,
-  "name": "FICA Burundi",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 401,
-  "name": "Accolade Hotel",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 402,
-  "name": "Dapur Bunda \u0026 Raihan Juice",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 403,
-  "name": "Bwoga 010000",
-  "Address": "Quatier Gabiro, Rue Kanyambo, Ngozi, Burundi",
-  "phone": "+25722303184"
- },
- {
-  "id": 404,
-  "name": "BETHEL Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25768471894"
- },
- {
-  "id": 405,
-  "name": "Tropitel Gitega Hôtel",
-  "Address": "Sororezo quarter No.6, Bujumbura, Burundi",
-  "phone": "+25779910675"
- },
- {
-  "id": 406,
-  "name": "NIVE",
-  "Address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
-  "phone": "+25722251490"
- },
- {
-  "id": 407,
-  "name": "Centre TEREZIYA",
-  "Address": "Chaussee de Gitega, Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 408,
-  "name": "My Place Palace",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25722277100"
- },
- {
-  "id": 409,
-  "name": "Hôtel REHOBOTH",
-  "Address": "Quartier Gabiro Ngozi, Ngozi, Burundi",
-  "phone": "+25769866817"
- },
- {
-  "id": 410,
-  "name": "Shatanya 2",
-  "Address": "R.N.15 Ngozi, Kiremera, Burundi",
-  "phone": "+25779934882"
- },
- {
-  "id": 411,
-  "name": "Helena Hotel",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779959527"
- },
- {
-  "id": 412,
-  "name": "MALIYE",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 413,
-  "name": "Mystic night-club",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 414,
-  "name": "Mizero Hotel",
-  "Address": "Birohe 02 , Shatanya 2 Gitega, Gitega, Burundi",
-  "phone": "+25779809066"
- },
- {
-  "id": 415,
-  "name": "Province Gitega",
-  "Address": "Gitega, Burundi",
-  "phone": "+25762650655"
- },
- {
-  "id": 416,
-  "name": "Taj Mahal grana parmisiano",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25771530359"
- },
- {
-  "id": 417,
-  "name": "Al Qaboos coffee shop",
-  "Address": "Magarama Road, No 8 Mbili Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 418,
-  "name": "Hosanna Motel",
-  "Address": "Gitega, Burundi",
-  "phone": "+25779201530"
- },
- {
-  "id": 419,
-  "name": "Gitega Airport",
-  "Address": "RN16, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 420,
-  "name": "Helena Hotel",
-  "Address": "Kiremera, Burundi",
-  "phone": ""
- },
- {
-  "id": 421,
-  "name": "Nobel Kiriri",
-  "Address": "Av. des Hippopotames, Bujumbura, Burundi",
-  "phone": "+25769555555"
- },
- {
-  "id": 422,
-  "name": "Gitega",
-  "Address": "RN1 Gitega, Gitega, Burundi",
-  "phone": "+25722404626"
- },
- {
-  "id": 423,
-  "name": "Gitega",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 424,
-  "name": "Kimanama",
-  "Address": "Rue, Higiro, Burundi",
-  "phone": ""
- },
- {
-  "id": 425,
-  "name": "Salvani Hôtel",
-  "Address": "Higiro, Burundi",
-  "phone": ""
- },
- {
-  "id": 426,
-  "name": "Hotel Club Du Lac Tanganyika",
-  "Address": "Rn 2 Gitega, Gitega, Burundi",
-  "phone": "+25779493313"
- },
- {
-  "id": 427,
-  "name": "Gitega",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 428,
-  "name": "Gasagara",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 429,
-  "name": "Hôtel Restaurant Bar LaReine",
-  "Address": "Shatanya IV, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 430,
-  "name": "Gitega",
-  "Address": "Muyinga Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 431,
-  "name": "Kumwembe Bar",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 432,
-  "name": "Roca Golf Hotel",
-  "Address": "Gitega Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 433,
-  "name": "Citizen Corner",
-  "Address": "Gitega, Burundi",
-  "phone": "+905544224761"
- },
- {
-  "id": 434,
-  "name": "Monument du Soldat inconnu",
-  "Address": "Gitega, Burundi",
-  "phone": "+25722402041"
- },
- {
-  "id": 435,
-  "name": "Brioche (On-The-Go Nyarugenge)",
-  "Address": "Along Gitega Road, Gitega, Burundi",
-  "phone": "+25767880651"
- },
- {
-  "id": 436,
-  "name": "Lycee mwaro",
-  "Address": "gitega Magarama, Bwoga, Burundi",
-  "phone": "+25722404802"
- },
- {
-  "id": 437,
-  "name": "Kiriri Garden Hotel",
-  "Address": "Chaussee de Gitega, Bujumbura, Burundi",
-  "phone": "+25771374204"
- },
- {
-  "id": 438,
-  "name": "Hôtel Des Plateaux",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 439,
-  "name": "Mountain's View Hotel",
-  "Address": "Gitega, Burundi",
-  "phone": "+25722404762"
- },
- {
-  "id": 440,
-  "name": "Café Resto Nectar",
-  "Address": "B.P 194, Gitega, Burundi",
-  "phone": "+25779593313"
- },
- {
-  "id": 441,
-  "name": "Hotel Dolce Vita Resort",
-  "Address": "Kiremera, Burundi",
-  "phone": "+6285266123066"
- },
- {
-  "id": 442,
-  "name": "Gitega",
-  "Address": "Nuyinga Road, Gitega, Burundi",
-  "phone": "+25779948080"
- },
- {
-  "id": 443,
-  "name": "KAYAGA I",
-  "Address": "Gitega, Burundi",
-  "phone": "+25779341954"
- },
- {
-  "id": 444,
-  "name": "Bar SAGA YOBA",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 445,
-  "name": "Usine à café Songa",
-  "Address": "Nuyinga Road, Gitega, Burundi",
-  "phone": "+25779948080"
- },
- {
-  "id": 446,
-  "name": "Bar Restaurant Happy Hour",
-  "Address": "no 19, Avenue de l'independance, Gitega, Burundi",
-  "phone": "+25779296314"
- },
- {
-  "id": 447,
-  "name": "Usine à Café",
-  "Address": "Unnamed Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 448,
-  "name": "PIT FIT",
-  "Address": "Gitega, Burundi",
-  "phone": "+25771343970"
- },
- {
-  "id": 449,
-  "name": "TABA Adventist",
-  "Address": "AV 1,Magarama, Nyamugari, Burundi",
-  "phone": ""
- },
- {
-  "id": 450,
-  "name": "KWIZERA Jean de Dieu",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 451,
-  "name": "Usine à Café Mubuga",
-  "Address": "RN16, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 452,
-  "name": "Gitega Informatics Center",
-  "Address": "Bd de l'Uprona, Bujumbura, Burundi",
-  "phone": "+25722223856"
- },
- {
-  "id": 453,
-  "name": "National Museum of Gitega",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 454,
-  "name": "Tentmaker Gas Solution ltd",
-  "Address": "RN16, Gitega, Gitega, Burundi",
-  "phone": "+25775118378"
- },
- {
-  "id": 455,
-  "name": "Eugene Superty",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 456,
-  "name": "Gogiva Garden",
-  "Address": "RN16, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 457,
-  "name": "Gitega",
-  "Address": "Higiro, Burundi",
-  "phone": ""
- },
- {
-  "id": 458,
-  "name": "Ingenieur",
-  "Address": "R.N.4, Kinyinya, Burundi",
-  "phone": ""
- },
- {
-  "id": 459,
-  "name": "Livingston-Stanley Monument",
-  "Address": "Ramba, Burundi",
-  "phone": ""
- },
- {
-  "id": 460,
-  "name": "Rusizi National Park",
-  "Address": "R.N.15, Burundi",
-  "phone": "+25779518137"
- },
- {
-  "id": 461,
-  "name": "Gitega",
-  "Address": "Busiga, Burundi",
-  "phone": ""
- },
- {
-  "id": 462,
-  "name": "Kibira National Park",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 463,
-  "name": "Gitega",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 464,
-  "name": "Gishora",
-  "Address": "Rn 2 Gitega, Gitega, Burundi",
-  "phone": "+25779493313"
- },
- {
-  "id": 465,
-  "name": "Gishora",
-  "Address": "B.P 194, Gitega, Burundi",
-  "phone": "+25779593313"
- },
- {
-  "id": 466,
-  "name": "BETHEL Hotel",
-  "Address": "Muyinga Road, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 467,
-  "name": "My Place Palace",
-  "Address": "2344, Bvd. Patrice Lumumba, Bujumbura, Burundi",
-  "phone": "+250784845495"
- },
- {
-  "id": 468,
-  "name": "Gisabo",
-  "Address": "Gitega, Burundi",
-  "phone": "+25779201530"
- },
- {
-  "id": 469,
-  "name": "Province Gitega",
-  "Address": "Shatanya IV, Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 470,
-  "name": "Helena hotel",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 471,
-  "name": "Guest House La Preference",
-  "Address": "Gitega, Burundi",
-  "phone": "+905544224761"
- },
- {
-  "id": 472,
-  "name": "Augustine Tours",
-  "Address": "Gitega, Burundi",
-  "phone": "+25722404762"
- },
- {
-  "id": 473,
-  "name": "Rumonge",
-  "Address": "gitega Magarama, Bwoga, Burundi",
-  "phone": "+25722404802"
- },
- {
-  "id": 474,
-  "name": "Tamotel",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 475,
-  "name": "Rutana",
-  "Address": "Gitega, Burundi",
-  "phone": "+905544224761"
- },
- {
-  "id": 476,
-  "name": "Cankuzo",
-  "Address": "2344, Bvd. Patrice Lumumba, Bujumbura, Burundi",
-  "phone": "+250784845495"
- },
- {
-  "id": 477,
-  "name": "Kanyosha",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 478,
-  "name": "Kigwena",
-  "Address": "Kiganda, Burundi",
-  "phone": "+25768200845"
- },
- {
-  "id": 479,
-  "name": "Bururi",
-  "Address": "Burunga, Burundi",
-  "phone": ""
- },
- {
-  "id": 480,
-  "name": "Kirundo",
-  "Address": "gitega Magarama, Bwoga, Burundi",
-  "phone": "+25722404802"
- },
- {
-  "id": 481,
-  "name": "Busanze",
-  "Address": "Rue du 13 Octobre, Bujumbura, Burundi",
-  "phone": "+25779450140"
- },
- {
-  "id": 482,
-  "name": "Jamaica And African Haze jj071",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25771741859"
- },
- {
-  "id": 483,
-  "name": "Hospital Ruyigi",
-  "Address": "Ruyigi, Burundi",
-  "phone": ""
- },
- {
-  "id": 484,
-  "name": "Quán tàu / Dynasty - Chinese restaurant",
-  "Address": "Ruyigi, Burundi",
-  "phone": ""
- },
- {
-  "id": 485,
-  "name": "MALIYE",
-  "Address": "629, Ruyigi, Burundi",
-  "phone": "+25768133955"
- },
- {
-  "id": 486,
-  "name": "Ruyigi",
-  "Address": "Av. des Hippopotames, Bujumbura, Burundi",
-  "phone": "+25769555555"
- },
- {
-  "id": 487,
-  "name": "Ruyigi",
-  "Address": "Bujumbura, Burundi",
-  "phone": "+25779360563"
- },
- {
-  "id": 488,
-  "name": "Rusizi National Park",
-  "Address": "R.N.4, Kinyinya, Burundi",
-  "phone": ""
- },
- {
-  "id": 489,
-  "name": "Unity Monument",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 490,
-  "name": "Kibira National Park",
-  "Address": "Burunga, Burundi",
-  "phone": ""
- },
- {
-  "id": 491,
-  "name": "Ruyigi",
-  "Address": "R.N.15, Burundi",
-  "phone": "+25779518137"
- },
- {
-  "id": 492,
-  "name": "Ruyigi",
-  "Address": "Busiga, Burundi",
-  "phone": ""
- },
- {
-  "id": 493,
-  "name": "Bururi Forest Nature Reserve",
-  "Address": "Gitega, Burundi",
-  "phone": ""
- },
- {
-  "id": 494,
-  "name": "Musée Vivant",
-  "Address": "Rue du 13 Octobre, Bujumbura, Burundi",
-  "phone": "+25779450140"
- },
- {
-  "id": 495,
-  "name": "Gitega",
-  "Address": "Bujumbura, Burundi",
-  "phone": ""
- },
- {
-  "id": 496,
-  "name": "Bujumbura Mairie",
-  "Address": "Kiganda, Burundi",
-  "phone": "+25768200845"
- }
+  {
+    "id": 1,
+    "name": "Roca Golf Hotel",
+    "address": "32 rue Sororezo, Bujumbura, Burundi",
+    "phone": "+25776193033"
+  },
+  {
+    "id": 2,
+    "name": "Kiriri Garden Hotel",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 3,
+    "name": "Hotel Club Du Lac Tanganyika",
+    "address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25775833000"
+  },
+  {
+    "id": 4,
+    "name": "Roca Golf Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722277100"
+  },
+  {
+    "id": 5,
+    "name": "Safari Gate Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775653225"
+  },
+  {
+    "id": 6,
+    "name": "Kangaroo Hotel Bujumbura",
+    "address": "Avenue Du Princ Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25722277758"
+  },
+  {
+    "id": 7,
+    "name": "Botanika",
+    "address": "Av. du Cercle-Nautique, Bujumbura, Burundi",
+    "phone": "+25722214780"
+  },
+  {
+    "id": 8,
+    "name": "City Hill Hotel",
+    "address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
+    "phone": "+25722251490"
+  },
+  {
+    "id": 9,
+    "name": "Kiriri Residence Hotel",
+    "address": "Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": "+25722277784"
+  },
+  {
+    "id": 10,
+    "name": "Best Outlook Hotel",
+    "address": "Shatanya Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 11,
+    "name": "Hotel Dolce Vita Resort",
+    "address": "Avenue Mwungo, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 12,
+    "name": "Tiger's Appartment Hotel",
+    "address": "Gitega-Bujumbura Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 13,
+    "name": "Urban Lodge",
+    "address": "Rn 2 Gitega, Gitega, Burundi",
+    "phone": "+25779493313"
+  },
+  {
+    "id": 14,
+    "name": "STAR HOTEL",
+    "address": "Kigwati Road, Makamba Province, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 15,
+    "name": "Mountain's View Hotel",
+    "address": "Gitega Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 16,
+    "name": "Goodlife Residence",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 17,
+    "name": "Aparthotel Jardin Tropical Bujumbura",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 18,
+    "name": "Gahahe Hill's Hotel",
+    "address": "Common Makamba, Makamba Province, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 19,
+    "name": "Hôtel Emeraude",
+    "address": "RN 3 , Bujumbura-Rumonge Road, Rumonge, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 20,
+    "name": "Royal Palace Hotel",
+    "address": "Quartier Gabiro, Burundi, R.N.15, Ngozi, Burundi",
+    "phone": "+25722302255"
+  },
+  {
+    "id": 21,
+    "name": "Hôtel Belair Résidence",
+    "address": "Along Gitega Road, Gitega, Burundi",
+    "phone": "+25767880651"
+  },
+  {
+    "id": 22,
+    "name": "Hôtel Emeraude",
+    "address": "Kayanza-Kirema Road, Kayanza, Kayanza, Burundi",
+    "phone": "+25722305109"
+  },
+  {
+    "id": 23,
+    "name": "Royal Palace Hotel",
+    "address": "5091 Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 24,
+    "name": "Royal Palm Resort",
+    "address": "Avenue Du Large, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 25,
+    "name": "Pearl Residence hôtel",
+    "address": "Nuyinga Road, Gitega, Burundi",
+    "phone": "+25779948080"
+  },
+  {
+    "id": 26,
+    "name": "Sun Safari Club Hotel",
+    "address": "Makamba Road, Makamba, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 27,
+    "name": "Nonara Beach Resort",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722230479"
+  },
+  {
+    "id": 28,
+    "name": "AMARIA LUXE HOTEL",
+    "address": "Nyabibuye Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 29,
+    "name": "Havila Residence Hotel",
+    "address": "kamenge Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 30,
+    "name": "Mount Zion Hotel",
+    "address": "30 Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 31,
+    "name": "Hotel Residence Ubuntu",
+    "address": "Makamba Road, Makamba Province, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 32,
+    "name": "Garden Hotel",
+    "address": "Bujumbura City Centre, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 33,
+    "name": "Mirador hotel",
+    "address": "8 Av. de Grèce, Bujumbura, Burundi",
+    "phone": "+25761123456"
+  },
+  {
+    "id": 34,
+    "name": "Hotel\u0026conference center Yucca",
+    "address": "Av. Makamba, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 35,
+    "name": "Waterfront Hotel",
+    "address": "Ngozi Road Near Lycée Burengo, Ngozi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 36,
+    "name": "Karera Beach Hotel",
+    "address": "Carama, Bujumbura, Burundi",
+    "phone": "+25768119324"
+  },
+  {
+    "id": 37,
+    "name": "La Tulipe Hotel",
+    "address": "No 8 Avenue Des Palmiers, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 38,
+    "name": "La Perle Hotel",
+    "address": "Av. de L'Amitié, Bujumbura, Burundi",
+    "phone": "+25722619521"
+  },
+  {
+    "id": 39,
+    "name": "Hotel Restaurant Tanganyika Lake View",
+    "address": "Kanyosha Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 40,
+    "name": "Olivia Hotel",
+    "address": "University Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 41,
+    "name": "Niwakal Hotel agende Muremera",
+    "address": "1 Av. Musave, Bujumbura, Burundi",
+    "phone": "+25722276666"
+  },
+  {
+    "id": 42,
+    "name": "Maison d'Accueil Fondation San Filippo Neri",
+    "address": "B.P. 6954, Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": "+25722236139"
+  },
+  {
+    "id": 43,
+    "name": "Hotel de la Palmeraie",
+    "address": "kamenge Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 44,
+    "name": "KANT HOTEL",
+    "address": "49 Av. Nyankoni, Bujumbura, Burundi",
+    "phone": "+25722237642"
+  },
+  {
+    "id": 45,
+    "name": "Hôtel Source du Nil",
+    "address": "Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": "+25722257371"
+  },
+  {
+    "id": 46,
+    "name": "Village Hotel",
+    "address": "19 Rue Mwisale, Bujumbura, Burundi",
+    "phone": "+25771869613"
+  },
+  {
+    "id": 47,
+    "name": "Vaya Apartments",
+    "address": "Avenue Ruhuhuma, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 48,
+    "name": "Hotel La Palmeraie",
+    "address": "Avenue Muyinga, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 49,
+    "name": "LE CHANDELIER",
+    "address": "Boulevard Du Peuple, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 50,
+    "name": "Agasago Hotel",
+    "address": "R.N.4, Bujumbura, Burundi",
+    "phone": "+25771234401"
+  },
+  {
+    "id": 51,
+    "name": "Kibunoah Hotel",
+    "address": "Ave de l'Industrie, Bujumbura, Burundi",
+    "phone": "+25776992191"
+  },
+  {
+    "id": 52,
+    "name": "Hotel Blue Velvet",
+    "address": "R.N.4, Bujumbura, Burundi",
+    "phone": "+25768661637"
+  },
+  {
+    "id": 53,
+    "name": "Paradise Apartment",
+    "address": "Av. Du Large, Rue Kanzigiri, Bujumbura, Burundi",
+    "phone": "+25722255852"
+  },
+  {
+    "id": 54,
+    "name": "Alexestel Hotel Rohero",
+    "address": "R.N.3, Bujumbura, Burundi",
+    "phone": "+25761791009"
+  },
+  {
+    "id": 55,
+    "name": "Top Hill Residence Kiriri",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 56,
+    "name": "Hôtel Yombe Palace",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25761169292"
+  },
+  {
+    "id": 57,
+    "name": "Nyabugete Beach",
+    "address": "Ave Belvedere, Bujumbura, Burundi",
+    "phone": "+25722254378"
+  },
+  {
+    "id": 58,
+    "name": "VILLA ZEIMET LUXE I",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 59,
+    "name": "Hotel Amahoro",
+    "address": "Hotel Blue Velvet, Bujumbura, Burundi",
+    "phone": "+25765280906"
+  },
+  {
+    "id": 60,
+    "name": "Saint Blaise Hotel",
+    "address": "South Kigobe, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 61,
+    "name": "New Agena Hotel",
+    "address": "Chaussee du Peuple Murundi, Bujumbura, Burundi",
+    "phone": "+25722277430"
+  },
+  {
+    "id": 62,
+    "name": "Kiranzira Pahorina Hotel",
+    "address": "67 Ave Mumirwa, Bujumbura BP 1883, Burundi",
+    "phone": "+25779906906"
+  },
+  {
+    "id": 63,
+    "name": "Hotel Le Bon Air De Ntahangwa",
+    "address": "Avenue de Pleuple, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 64,
+    "name": "bedline-hotel",
+    "address": "Kiriri B.P 1267, A cote du Monument de l'Unite, 127 Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25777426352"
+  },
+  {
+    "id": 65,
+    "name": "Pahorina Hotel",
+    "address": "Ave De La J.R.R, Bujumbura, Burundi",
+    "phone": "+25722276804"
+  },
+  {
+    "id": 66,
+    "name": "Alexestel Hotel 2",
+    "address": "Avenue Du Large, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 67,
+    "name": "Veritas Motel",
+    "address": "Ave du Stade, Bujumbura, Burundi",
+    "phone": "+25722225222"
+  },
+  {
+    "id": 68,
+    "name": "Maketch Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25768332633"
+  },
+  {
+    "id": 69,
+    "name": "Guest House Mutanga Nord",
+    "address": "BP 2970, 7 Ave de Bururi, Bujumbura, Burundi",
+    "phone": "+25722244359"
+  },
+  {
+    "id": 70,
+    "name": "New Parador Residence",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 71,
+    "name": "Hastotel",
+    "address": "9ème Ave, Bujumbura, Burundi",
+    "phone": "+25722278371"
+  },
+  {
+    "id": 72,
+    "name": "mirador hotel kigobe",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779738537"
+  },
+  {
+    "id": 73,
+    "name": "Riviera Lodge",
+    "address": "Kiriri, Bel air road, number 18, Bujumbura, Burundi",
+    "phone": "+25722254317"
+  },
+  {
+    "id": 74,
+    "name": "Downtown Hotel 1",
+    "address": "Avenue de la Plage, Numero 14., A 400 Mètres du port de Bujumbura, Bujumbura, Burundi",
+    "phone": "+25722225744"
+  },
+  {
+    "id": 75,
+    "name": "Pacific Hotel",
+    "address": "Mutanga Nord, Boulevard du 28 Novembre., 1 Av. Inkondo, Bujumbura, Burundi",
+    "phone": "+25722278122"
+  },
+  {
+    "id": 76,
+    "name": "Hotel de l'Amitié",
+    "address": "R.N.4, Bujumbura, Burundi",
+    "phone": "+25722247818"
+  },
+  {
+    "id": 77,
+    "name": "Via Tanganyika Hotel",
+    "address": "17 Chaussee du Peuple Murundi, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 78,
+    "name": "Alexestel Hotel 1",
+    "address": "Avenue Swaa, Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": "+25775973133"
+  },
+  {
+    "id": 79,
+    "name": "Joy Guest House",
+    "address": "chaussee d'Uvira, Bujumbura, Burundi",
+    "phone": "+25779492293"
+  },
+  {
+    "id": 80,
+    "name": "Niyimpa Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25771231467"
+  },
+  {
+    "id": 81,
+    "name": "Makamba City Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 82,
+    "name": "Hotel Hibiscus",
+    "address": "55 Ave de La Plage, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 83,
+    "name": "Shammah Hotel",
+    "address": "Rohero I, Avenue Mao Tse Toung, N 04, Bujumbura, Burundi",
+    "phone": "+25722210007"
+  },
+  {
+    "id": 84,
+    "name": "Pahorina Hotel",
+    "address": "40, Avenue Ntwarante, Bujumbura, Burundi",
+    "phone": "+25772427868"
+  },
+  {
+    "id": 85,
+    "name": "Sehm Hotel",
+    "address": "7089, Bujumbura, Burundi",
+    "phone": "+25779904171"
+  },
+  {
+    "id": 86,
+    "name": "Guest House Mutanga Nord Annexe",
+    "address": "Chaussée d'Uvira N.23, Bujumbura, Burundi",
+    "phone": "+25722278272"
+  },
+  {
+    "id": 87,
+    "name": "Maruna Park Apartments",
+    "address": "Boulevard Mao Tse Toung, Bujumbura, Burundi",
+    "phone": "+25722210007"
+  },
+  {
+    "id": 88,
+    "name": "Le Printemps",
+    "address": "8, Avenue du 13 Octobre, Rohero, Av. de La Plage, Bujumbura, Burundi",
+    "phone": "+25722277309"
+  },
+  {
+    "id": 89,
+    "name": "Le Gradignan",
+    "address": "R.N.4, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 90,
+    "name": "Accolade Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722275720"
+  },
+  {
+    "id": 91,
+    "name": "Hôtel Le Paradis",
+    "address": "17 Av. Kunkiko, Bujumbura, Burundi",
+    "phone": "+25722276550"
+  },
+  {
+    "id": 92,
+    "name": "Jambo Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722275720"
+  },
+  {
+    "id": 93,
+    "name": "Hotel Kigobe",
+    "address": "Kiriri, Bel air road, number 18, Bujumbura, Burundi",
+    "phone": "+25722254317"
+  },
+  {
+    "id": 94,
+    "name": "Kwetu Guest House",
+    "address": "17 Av. Kunkiko, Bujumbura, Burundi",
+    "phone": "+25722276550"
+  },
+  {
+    "id": 95,
+    "name": "East African Hotel",
+    "address": "Commune Rohero , Quartier Sororezo, Bujumbura, Burundi",
+    "phone": "+25775527813"
+  },
+  {
+    "id": 96,
+    "name": "Hôtel IWACU Center",
+    "address": "KinaniraII Rue Des Limbas Ndeg4, Bujumbura, Burundi",
+    "phone": "+25722253000"
+  },
+  {
+    "id": 97,
+    "name": "Tamotels Hotel",
+    "address": "Sororezo quarter No.6, Bujumbura, Burundi",
+    "phone": "+25779910675"
+  },
+  {
+    "id": 98,
+    "name": "Kibuye Guest",
+    "address": "12 Avenue Buyongwe, Mutanga Sud, Bujumbura, Burundi",
+    "phone": "+25776718975"
+  },
+  {
+    "id": 99,
+    "name": "KEZAMIA Restaurant",
+    "address": "1, rohero, 12 Av. des Chênes, Bujumbura, Burundi",
+    "phone": "+25722224220"
+  },
+  {
+    "id": 100,
+    "name": "Belvedere Restaurant",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25722259626"
+  },
+  {
+    "id": 101,
+    "name": "Harrys Grill House",
+    "address": "23 Ave Source du Nil, Bujumbura, Burundi",
+    "phone": "+25768612181"
+  },
+  {
+    "id": 102,
+    "name": "Restaurant Tanganyika",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25769068000"
+  },
+  {
+    "id": 103,
+    "name": "Flamboyant Gardens",
+    "address": "1 Ave de La Plage, Bujumbura, Burundi",
+    "phone": "+25722224433"
+  },
+  {
+    "id": 104,
+    "name": "Restaurant Chez Orphée",
+    "address": "14 Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25722223116"
+  },
+  {
+    "id": 105,
+    "name": "Paparazzi Restaurant",
+    "address": "Ave Belvedere, Bujumbura, Burundi",
+    "phone": "+25776600600"
+  },
+  {
+    "id": 106,
+    "name": "Restaurant Oasis",
+    "address": "40 Av. de l'Université, Bujumbura, Burundi",
+    "phone": "+25761015220"
+  },
+  {
+    "id": 107,
+    "name": "Maquis",
+    "address": "6, Avenue de la R.D. Congo Postal adresse : BP2755 Bujumbura Burundi Bujumbura, Burundi",
+    "phone": "+25776399999"
+  },
+  {
+    "id": 108,
+    "name": "Arena Restaurant Lounge Bar",
+    "address": "No 17, Ave de Muramvya, Bujumbura, Burundi",
+    "phone": "+25761870505"
+  },
+  {
+    "id": 109,
+    "name": "Waka Waka",
+    "address": "Chau. P. L. Rwagasore, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 110,
+    "name": "Vinotheque ZILLIKEN",
+    "address": "17 Ave de La Justice, Bujumbura, Burundi",
+    "phone": "+25775215000"
+  },
+  {
+    "id": 111,
+    "name": "Restaurant Ikindi",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 112,
+    "name": "Sitar II Restaurant",
+    "address": "6 Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": "+25775557557"
+  },
+  {
+    "id": 113,
+    "name": "Pasta comedia",
+    "address": "Ubuntu Café, Kinindo Ouest, Avenue du large, 04, Bujumbura, Burundi",
+    "phone": "+25761129000"
+  },
+  {
+    "id": 114,
+    "name": "Kanowe",
+    "address": "Avenue Rukonwe (Chez Willy The Bartender Brand outside, Bujumbura, Burundi",
+    "phone": "+25761411622"
+  },
+  {
+    "id": 115,
+    "name": "Taj Mahal grana parmisiano",
+    "address": "Ave de Rwegura, Bujumbura, Burundi",
+    "phone": "+25776816000"
+  },
+  {
+    "id": 116,
+    "name": "Zanzi",
+    "address": "Department of Bridges and Roads, Bujumbura, Burundi",
+    "phone": "+25761019149"
+  },
+  {
+    "id": 117,
+    "name": "Restaurant/Bar Saveurs et Délices",
+    "address": "15ème Ave, Bujumbura, Burundi",
+    "phone": "+25761700857"
+  },
+  {
+    "id": 118,
+    "name": "Jardin Gourmand",
+    "address": "Rohero 1, Bujumbura, Burundi",
+    "phone": "+25761151017"
+  },
+  {
+    "id": 119,
+    "name": "Le Café Gourmand",
+    "address": "10 Bd De La Liberte, Bujumbura, Burundi",
+    "phone": "+25779305278"
+  },
+  {
+    "id": 120,
+    "name": "Zanzi",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25771530359"
+  },
+  {
+    "id": 121,
+    "name": "Asian Restaurant",
+    "address": "Chaussée du, Chaussee Prince Louis Rwagasore, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 122,
+    "name": "Chez Andre",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 123,
+    "name": "Amber Grill",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779242143"
+  },
+  {
+    "id": 124,
+    "name": "Kani Bar",
+    "address": "Chaussee du Peuple Murundi, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 125,
+    "name": "Baobab",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775399495"
+  },
+  {
+    "id": 126,
+    "name": "La Pirogue",
+    "address": "32 Ave du 18 Septembre, Bujumbura 5151, Burundi",
+    "phone": "32185151"
+  },
+  {
+    "id": 127,
+    "name": "Pacha Club",
+    "address": "49, Avenue du Large, Bujumbura, Burundi",
+    "phone": "+25775851848"
+  },
+  {
+    "id": 128,
+    "name": "Restaurant Villa ADE",
+    "address": "5 Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25761080708"
+  },
+  {
+    "id": 129,
+    "name": "Nyakeru Bar and Restaurent",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 130,
+    "name": "La Silhouette Cafe",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 131,
+    "name": "L'Archipel Archipel Restaurant",
+    "address": "Ave du 18 Septembre, Bujumbura, Burundi",
+    "phone": "+25779480882"
+  },
+  {
+    "id": 132,
+    "name": "Quán tàu / Dynasty - Chinese restaurant",
+    "address": "13 Rue de la Victoire, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 133,
+    "name": "Vino Garden",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 134,
+    "name": "Restaurant les deux pnateaux",
+    "address": "Avenue du large, Bujumbura, Burundi",
+    "phone": "+25777764191"
+  },
+  {
+    "id": 135,
+    "name": "Midtown Bites",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25761111409"
+  },
+  {
+    "id": 136,
+    "name": "SUPERNOVA RESTAURANT",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775902157"
+  },
+  {
+    "id": 137,
+    "name": "Tropicana Net Cafe",
+    "address": "Ave de Muramvya, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 138,
+    "name": "Motsäh",
+    "address": "Avenue de la Plage, Numero 14., A 400 Mètres du port de Bujumbura, Bujumbura, Burundi",
+    "phone": "+25722225744"
+  },
+  {
+    "id": 139,
+    "name": "Nobel Kiriri",
+    "address": "10 Chaussee du Peuple Murundi, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 140,
+    "name": "Chateau 9",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 141,
+    "name": "Milton Bar Restaurant",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 142,
+    "name": "Bismillah",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25777487275"
+  },
+  {
+    "id": 143,
+    "name": "Chez Maman SOLO",
+    "address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25765192938"
+  },
+  {
+    "id": 144,
+    "name": "AKEZA HALL",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779050306"
+  },
+  {
+    "id": 145,
+    "name": "Les Paillottes",
+    "address": "27, Avenue hotel Tanganyika Quartier Kabondo, Bujumbura, Burundi",
+    "phone": "+25765007504"
+  },
+  {
+    "id": 146,
+    "name": "Aura Café",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775663704"
+  },
+  {
+    "id": 147,
+    "name": "Ikare Bar",
+    "address": "Ave des Mimosas, Bujumbura, Burundi",
+    "phone": "+25779800247"
+  },
+  {
+    "id": 148,
+    "name": "Restaurant Snack Bar Arôme",
+    "address": "Ave des Mimosas, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 149,
+    "name": "La Bamba",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 150,
+    "name": "Chez Marc",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 151,
+    "name": "Chez Bea Traiteur",
+    "address": "Av. des Hippopotames, Bujumbura, Burundi",
+    "phone": "+25769555555"
+  },
+  {
+    "id": 152,
+    "name": "LIMVache",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 153,
+    "name": "Restaurant/Boulangerie Hibiscus",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 154,
+    "name": "Restaurant Sénégalais La CASA chez Fatou",
+    "address": "48, Avenue du large, Bujumbura, Burundi",
+    "phone": "+25768935183"
+  },
+  {
+    "id": 155,
+    "name": "Hallal Brochett Restaurant",
+    "address": "Shia Mosque, Asiatique Near Sunni or, Bujumbura, Burundi",
+    "phone": "+25762513046"
+  },
+  {
+    "id": 156,
+    "name": "Tasty Barbeque",
+    "address": "73 Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25761485086"
+  },
+  {
+    "id": 157,
+    "name": "MALIYE",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722242597"
+  },
+  {
+    "id": 158,
+    "name": "Nagella Kitchen",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 159,
+    "name": "Snack Bar FARASI",
+    "address": "Rue Kinyinya, Bujumbura, Burundi",
+    "phone": "+25779910330"
+  },
+  {
+    "id": 160,
+    "name": "Barnacle",
+    "address": "72 Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 161,
+    "name": "MUTSINDA Bar",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25768222222"
+  },
+  {
+    "id": 162,
+    "name": "Garden City Burundi",
+    "address": "Ave De La J.R.R, Bujumbura, Burundi",
+    "phone": "+25779938430"
+  },
+  {
+    "id": 163,
+    "name": "Zion Beach",
+    "address": "19 Av. Moso, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 164,
+    "name": "Inyambo Restaurant Bar",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 165,
+    "name": "Safi Beach",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25768886886"
+  },
+  {
+    "id": 166,
+    "name": "Ku Kamenyi",
+    "address": "1ere Ave, Bujumbura, Burundi",
+    "phone": "+25779442059"
+  },
+  {
+    "id": 167,
+    "name": "PORK2DELISH",
+    "address": "Avenue du Large, Bujumbura, Burundi",
+    "phone": "+25775191973"
+  },
+  {
+    "id": 168,
+    "name": "Restaurant lili sisco",
+    "address": "Rue des Swahilis, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 169,
+    "name": "Cup Line",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779959527"
+  },
+  {
+    "id": 170,
+    "name": "New Kumuganuro",
+    "address": "Av. du Palmier, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 171,
+    "name": "Eat Yours Resto café Night club",
+    "address": "Ave Muyinga, Bujumbura, Burundi",
+    "phone": "+25779972513"
+  },
+  {
+    "id": 172,
+    "name": "Resto-Bar de la Galerie Idéale",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775758581"
+  },
+  {
+    "id": 173,
+    "name": "Chez Gerard Jardin Publique",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722247756"
+  },
+  {
+    "id": 174,
+    "name": "Hotel Restaurant Tanganyika Lake View",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 175,
+    "name": "Pick-up Coffee Bujumbura",
+    "address": "Rue du Progres, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 176,
+    "name": "LA DETENTE",
+    "address": "Ave du Stade, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 177,
+    "name": "Salama Fast Food",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25768472758"
+  },
+  {
+    "id": 178,
+    "name": "New Cayor",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779360563"
+  },
+  {
+    "id": 179,
+    "name": "Apero",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775821937"
+  },
+  {
+    "id": 180,
+    "name": "Hotel Rossignol",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779337856"
+  },
+  {
+    "id": 181,
+    "name": "Bwiza Resto Bar Musasa",
+    "address": "9ème Avenue,Bwiza, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 182,
+    "name": "Beirut restaurant \u0026 lounge bar Bujumbura",
+    "address": "24, Bujumbura, Burundi",
+    "phone": "+25779281185"
+  },
+  {
+    "id": 183,
+    "name": "Moon Bar",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25761155508"
+  },
+  {
+    "id": 184,
+    "name": "Restaurant Bar Hekenya",
+    "address": "Ave de Muramvya, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 185,
+    "name": "Falcon Grill",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25775997393"
+  },
+  {
+    "id": 186,
+    "name": "Snack Bar Champions Bar",
+    "address": "Ave des Patriotes, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 187,
+    "name": "Au Coin D'ixelles",
+    "address": "PLOT 31 Ave Muyinga, Bujumbura, Burundi",
+    "phone": "+25762002002"
+  },
+  {
+    "id": 188,
+    "name": "Bujacafe",
+    "address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25722222267"
+  },
+  {
+    "id": 189,
+    "name": "HB Restaurant Bar",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25762642626"
+  },
+  {
+    "id": 190,
+    "name": "Al Qaboos coffee shop",
+    "address": "6 Rue Kirundo, Bujumbura, Burundi",
+    "phone": "+25779348111"
+  },
+  {
+    "id": 191,
+    "name": "Maison Cremerie",
+    "address": "Ave des Peysans, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 192,
+    "name": "Snack Bar Mon Ami",
+    "address": "Ave De France, Bujumbura, Burundi",
+    "phone": "+25722277245"
+  },
+  {
+    "id": 193,
+    "name": "Chef kaziuska",
+    "address": "Chaussee Prince Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25775982366"
+  },
+  {
+    "id": 194,
+    "name": "Car wash Coffee",
+    "address": "Ave des Peysans, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 195,
+    "name": "Chez Willy The Bartender (Ex-Kasuku)",
+    "address": "Ave Janvier, Bujumbura, Burundi",
+    "phone": "+25779323919"
+  },
+  {
+    "id": 196,
+    "name": "Aparthotel Jardin Tropical Bujumbura",
+    "address": "Ave Du Marche, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 197,
+    "name": "Roca Golf Hotel",
+    "address": "Ave Du Commerce, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 198,
+    "name": "Agora center",
+    "address": "Ave Des Eucalyptus, Bujumbura, Burundi",
+    "phone": "+25768560830"
+  },
+  {
+    "id": 199,
+    "name": "Lilian Shopping Center",
+    "address": "Rue du Progres, Bujumbura, Burundi",
+    "phone": "+25779987805"
+  },
+  {
+    "id": 200,
+    "name": "MTS Center",
+    "address": "12 Avenue Buyongwe, Mutanga Sud, Bujumbura, Burundi",
+    "phone": "+25776718975"
+  },
+  {
+    "id": 201,
+    "name": "Tanganyika Burundi Company",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722222945"
+  },
+  {
+    "id": 202,
+    "name": "Tokyo Business Center",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722277100"
+  },
+  {
+    "id": 203,
+    "name": "GALERIE DU PROGRES",
+    "address": "Avenue de l'OUA, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 204,
+    "name": "Bujastore",
+    "address": "322, Bujumbura, Burundi",
+    "phone": "+25769159242"
+  },
+  {
+    "id": 205,
+    "name": "Sans dema",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 206,
+    "name": "vyukusenge shop, saloon,cafétaria",
+    "address": "Unnamed Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 207,
+    "name": "Kwa Liévin",
+    "address": "Ave du 18 Septembre, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 208,
+    "name": "Tanganyika Business Company",
+    "address": "9ème Ave, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 209,
+    "name": "COTEBU Market",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722202000"
+  },
+  {
+    "id": 210,
+    "name": "SAFINA INDUSTRY COMPANY (SAICO)",
+    "address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
+    "phone": "+25722251490"
+  },
+  {
+    "id": 211,
+    "name": "Gift Supermarket Center",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775653225"
+  },
+  {
+    "id": 212,
+    "name": "Mubeza Wellbeing Center",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 213,
+    "name": "Honey Planet",
+    "address": "111 Boulevard de l'Uprona, Division A, n。61, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 214,
+    "name": "istanbul shop",
+    "address": "Ave De La J.R.R, Bujumbura, Burundi",
+    "phone": "+25722276804"
+  },
+  {
+    "id": 215,
+    "name": "Rucsa Plaza",
+    "address": "Av. du Poisson, Bujumbura, Burundi",
+    "phone": "+25779323699"
+  },
+  {
+    "id": 216,
+    "name": "Gift Supermarket",
+    "address": "32 Ave du 18 Septembre, Bujumbura 5151, Burundi",
+    "phone": "32185151"
+  },
+  {
+    "id": 217,
+    "name": "AmeDove Plaza",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775930178"
+  },
+  {
+    "id": 218,
+    "name": "Marché de Kinindo",
+    "address": "303, Bujumbura, Burundi",
+    "phone": "+25771129547"
+  },
+  {
+    "id": 219,
+    "name": "Burundi Shop",
+    "address": "Avenue Du Princ Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25722277758"
+  },
+  {
+    "id": 220,
+    "name": "CASINO SUPERMARCHE",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 221,
+    "name": "Tecno Mobile",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775818688"
+  },
+  {
+    "id": 222,
+    "name": "Yana Tyre Center",
+    "address": "Numero 16, Tokyo Business Center, Avenue de l'OUA, Bujumbura, Burundi",
+    "phone": "+25761747474"
+  },
+  {
+    "id": 223,
+    "name": "MINA BelleVille [LUXURY APARTMENTS]",
+    "address": "Boulevard du 1er Novembre, Bujumbura, Burundi",
+    "phone": "+25722229039"
+  },
+  {
+    "id": 224,
+    "name": "Muco Shop",
+    "address": "Ave De France, Bujumbura, Burundi",
+    "phone": "+25722277245"
+  },
+  {
+    "id": 225,
+    "name": "Clean shop",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25779944944"
+  },
+  {
+    "id": 226,
+    "name": "Autoline Center Service Center",
+    "address": "Rue du 13 Octobre, Bujumbura, Burundi",
+    "phone": "+25779450140"
+  },
+  {
+    "id": 227,
+    "name": "Autoline Center",
+    "address": "19 Bis Boulevard du 1er Novembre, Bujumbura, Burundi",
+    "phone": "+25761646188"
+  },
+  {
+    "id": 228,
+    "name": "Espace Médical Ste Marie (EMSM)",
+    "address": "5 Boulevard du 28 Novembre, Bujumbura, Burundi",
+    "phone": "+25775406000"
+  },
+  {
+    "id": 229,
+    "name": "Come And See Burundi Village",
+    "address": "QUARTIER ASIATIQUE,BOULEVARD DE LA MUBARAZI NO.22A. ROUTE PAVEE DE ECOBANK ROHERO, MUKAZA, BUJUMBURA, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 230,
+    "name": "Pointe de vente Fruito Burundi",
+    "address": "Bd de l'Indépendance, Bujumbura, Burundi",
+    "phone": "+25775201555"
+  },
+  {
+    "id": 231,
+    "name": "Pharmacie Plaza",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25722223856"
+  },
+  {
+    "id": 232,
+    "name": "TwoFiveSeven Arts",
+    "address": "pharmacie.plaza@gmail.com, BP 1133, Bujumbura, Burundi",
+    "phone": "+25767007000"
+  },
+  {
+    "id": 233,
+    "name": "'The Whitestone' Building",
+    "address": "1 Av. Moso, Bujumbura, Burundi",
+    "phone": "+25775275152"
+  },
+  {
+    "id": 234,
+    "name": "Deco Center",
+    "address": "Avenue du Large, Kinindo, Bujumbura, Burundi",
+    "phone": "+25722273636"
+  },
+  {
+    "id": 235,
+    "name": "Trust Car Center",
+    "address": "Unnamed Road, Bujumbura Bujumbura, Quartier Miroir, Burundi",
+    "phone": "+25768814704"
+  },
+  {
+    "id": 236,
+    "name": "King's Conference Center",
+    "address": "2 Ave Du Marche, Bujumbura, Burundi",
+    "phone": "+25779584458"
+  },
+  {
+    "id": 237,
+    "name": "Truck center Autoparts Burundi",
+    "address": "Siruco Warehouse, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 238,
+    "name": "So Beautiful",
+    "address": "Avenue des paysans, 24, Bujumbura, Burundi",
+    "phone": "+25722222590"
+  },
+  {
+    "id": 239,
+    "name": "IMEX",
+    "address": "Chaussee du Peuple Murundi, Bujumbura, Burundi",
+    "phone": "+25722279508"
+  },
+  {
+    "id": 240,
+    "name": "Le Café Gourmand",
+    "address": "Avenue des paysans, 24, Bujumbura, Burundi",
+    "phone": "+25775598917"
+  },
+  {
+    "id": 241,
+    "name": "Burundi Bwiza",
+    "address": "Nyabugete 1, R.N.3, Bujumbura, Burundi",
+    "phone": "+14502301684"
+  },
+  {
+    "id": 242,
+    "name": "Musée Vivant",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779768826"
+  },
+  {
+    "id": 243,
+    "name": "DMS Burundi",
+    "address": "429, Bujumbura, Burundi",
+    "phone": "+25722218127"
+  },
+  {
+    "id": 244,
+    "name": "Gogiva Garden",
+    "address": "City Market, E-25 Sioni Market, Bujumbura, Burundi",
+    "phone": "+25779912189"
+  },
+  {
+    "id": 245,
+    "name": "Best Outlook Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 246,
+    "name": "Party Garden",
+    "address": "Avenue de l'OUA, Bujumbura, Burundi",
+    "phone": "+25722246418"
+  },
+  {
+    "id": 247,
+    "name": "Musumba Steel",
+    "address": "Ave de Buragane, Bujumbura, Burundi",
+    "phone": "+25761250250"
+  },
+  {
+    "id": 248,
+    "name": "Hotel Club Du Lac",
+    "address": "Siruco Warehouse, Bujumbura, Burundi",
+    "phone": "+25779520786"
+  },
+  {
+    "id": 249,
+    "name": "Bujacafe",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25761515162"
+  },
+  {
+    "id": 250,
+    "name": "Réparation TV",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 251,
+    "name": "LE CHANDELIER",
+    "address": "buyenzi-mukaza, Bujumbura, Burundi",
+    "phone": "+25775280280"
+  },
+  {
+    "id": 252,
+    "name": "Kiriri Garden Hotel",
+    "address": "19 Bd du Japon, Bujumbura, Burundi",
+    "phone": "+25779590497"
+  },
+  {
+    "id": 253,
+    "name": "UNICEF Burundi",
+    "address": "Avenue de L'Amitie, Av. de L'Amitié, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 254,
+    "name": "Kangaroo Hotel Bujumbura",
+    "address": "Av. du Saint-Esprit, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 255,
+    "name": "Hotel Club Du Lac Tanganyika",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 256,
+    "name": "IMC Burundi",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779681482"
+  },
+  {
+    "id": 257,
+    "name": "WILSON JOEL TUNZE CENTER",
+    "address": "Bvd. Patrice Lumumba, Bujumbura, Burundi",
+    "phone": "+25776480764"
+  },
+  {
+    "id": 258,
+    "name": "KIT Center",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25776608111"
+  },
+  {
+    "id": 259,
+    "name": "HOSANA BUSNESS CENTER-GASENYI",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 260,
+    "name": "Creamy Heaven",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25777741999"
+  },
+  {
+    "id": 261,
+    "name": "Musée Vivant",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 262,
+    "name": "Rusizi National Park",
+    "address": "R.N.4, Kinyinya, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 263,
+    "name": "Livingston-Stanley Monument",
+    "address": "Ramba, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 264,
+    "name": "Kibira National Park",
+    "address": "Busiga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 265,
+    "name": "National Museum of Gitega",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 266,
+    "name": "Ruvubu National Park",
+    "address": "Rue du 13 Octobre, Bujumbura, Burundi",
+    "phone": "+25779450140"
+  },
+  {
+    "id": 267,
+    "name": "Burundi Discovery Tours",
+    "address": "R.N.15, Burundi",
+    "phone": "+25779518137"
+  },
+  {
+    "id": 268,
+    "name": "Bujumbura Rural",
+    "address": "8, Avenue du 13 Octobre, Rohero, Av. de La Plage, Bujumbura, Burundi",
+    "phone": "+25722277309"
+  },
+  {
+    "id": 269,
+    "name": "So Beautiful",
+    "address": "Ave Du Commerce, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 270,
+    "name": "TwoFiveSeven Arts",
+    "address": "Gikungu, Bujumbura, Burundi",
+    "phone": "+25779957879"
+  },
+  {
+    "id": 271,
+    "name": "Bujumbura",
+    "address": "55 Ave de La Plage, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 272,
+    "name": "Maison Cremerie",
+    "address": "No 17, Ave de Muramvya, Bujumbura, Burundi",
+    "phone": "+25761870505"
+  },
+  {
+    "id": 273,
+    "name": "Kiriri Garden Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722277100"
+  },
+  {
+    "id": 274,
+    "name": "Bujacafe",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 275,
+    "name": "Hotel Club Du Lac Tanganyika",
+    "address": "Avenue du Large, Kinindo, Bujumbura, Burundi",
+    "phone": "+25722273636"
+  },
+  {
+    "id": 276,
+    "name": "bujumbura",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 277,
+    "name": "Best Outlook Hotel",
+    "address": "Avenue Du Princ Louis Rwagasore, Bujumbura, Burundi",
+    "phone": "+25722277758"
+  },
+  {
+    "id": 278,
+    "name": "Bururi",
+    "address": "32 Ave du 18 Septembre, Bujumbura 5151, Burundi",
+    "phone": "32185151"
+  },
+  {
+    "id": 279,
+    "name": "Roca Golf Hotel",
+    "address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
+    "phone": "+25722251490"
+  },
+  {
+    "id": 280,
+    "name": "Harrys Grill House",
+    "address": "10 Bd De La Liberte, Bujumbura, Burundi",
+    "phone": "+25779305278"
+  },
+  {
+    "id": 281,
+    "name": "Munirak su/Host Services",
+    "address": "1 Av. Moso, Bujumbura, Burundi",
+    "phone": "+25775275152"
+  },
+  {
+    "id": 282,
+    "name": "Kigwena",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25779944944"
+  },
+  {
+    "id": 283,
+    "name": "Cankuzo",
+    "address": "Kiganda, Burundi",
+    "phone": "+25768200845"
+  },
+  {
+    "id": 284,
+    "name": "Pearl Residence hôtel",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25779944944"
+  },
+  {
+    "id": 285,
+    "name": "Gishora",
+    "address": "1 Av. Moso, Bujumbura, Burundi",
+    "phone": "+25775275152"
+  },
+  {
+    "id": 286,
+    "name": "Hotel Dolce Vita Resort",
+    "address": "Unnamed Road, Bujumbura Bujumbura, Quartier Miroir, Burundi",
+    "phone": "+25768814704"
+  },
+  {
+    "id": 287,
+    "name": "Rutana",
+    "address": "2344, Bvd. Patrice Lumumba, Bujumbura, Burundi",
+    "phone": "+250784845495"
+  },
+  {
+    "id": 288,
+    "name": "Kirundo",
+    "address": "R.N.4, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 289,
+    "name": "Busanze",
+    "address": "Ave de La Jeunesse, Bujumbura, Burundi",
+    "phone": "+25722229423"
+  },
+  {
+    "id": 290,
+    "name": "Fly Cape Town Tandem Paragliding",
+    "address": "Burunga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 291,
+    "name": "GREEN-HILLS HOTEL",
+    "address": "Muyinga Road, Muyinga, Burundi",
+    "phone": "+25779932536"
+  },
+  {
+    "id": 292,
+    "name": "Icizanye Hotel",
+    "address": "Muyinga Road, Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 293,
+    "name": "Campanil New Guest House",
+    "address": "Muyinga Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 294,
+    "name": "Guest House Shawala",
+    "address": "Muyinga Central, Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 295,
+    "name": "Benito Guest House",
+    "address": "750 MUYINGA BI, Muyinga, Burundi",
+    "phone": "+25779000026"
+  },
+  {
+    "id": 296,
+    "name": "Bicunda Guest House",
+    "address": "Bogoye Road, Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 297,
+    "name": "hawa coffee",
+    "address": "Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 298,
+    "name": "Hotel Restaurant AGAHIMBARE",
+    "address": "750 MUYINGA BI, Muyinga, Burundi",
+    "phone": "+25779000026"
+  },
+  {
+    "id": 299,
+    "name": "Sunshine bar and restaurant",
+    "address": "Muyinga Central, Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 300,
+    "name": "Icizanye Hotel",
+    "address": "Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 301,
+    "name": "Milton Bar Restaurant",
+    "address": "Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 302,
+    "name": "Hotel Icizanye",
+    "address": "1er avenu no18, Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 303,
+    "name": "Amber Grill",
+    "address": "Ave Muyinga, Bujumbura, Burundi",
+    "phone": "+25779972513"
+  },
+  {
+    "id": 304,
+    "name": "meat na chips",
+    "address": "PLOT 31 Ave Muyinga, Bujumbura, Burundi",
+    "phone": "+25762002002"
+  },
+  {
+    "id": 305,
+    "name": "Mlimani Peak",
+    "address": "Unnamed Road, Burundi",
+    "phone": "+25731053584"
+  },
+  {
+    "id": 306,
+    "name": "Tumaini Letu Hotel",
+    "address": "Chaussee de Gitega, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 307,
+    "name": "SOS Children's Village Muyinga",
+    "address": "R.N.6, Muyinga 99999999, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 308,
+    "name": "Muyinga",
+    "address": "Muyinga Road, Muyinga, Burundi",
+    "phone": "+25779932536"
+  },
+  {
+    "id": 309,
+    "name": "Muyinga",
+    "address": "Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 310,
+    "name": "Muyinga",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 311,
+    "name": "Monument du Soldat inconnu",
+    "address": "Muyinga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 312,
+    "name": "Cj Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25776279232"
+  },
+  {
+    "id": 313,
+    "name": "WASAPE Lodge \u0026 Restaurant",
+    "address": "R.N.6, Muyinga 99999999, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 314,
+    "name": "Parador \"El Uruguayo, Muyinga\"",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722242597"
+  },
+  {
+    "id": 315,
+    "name": "Lobby Grille",
+    "address": "6, Avenue de la R.D. Congo Postal adresse : BP2755 Bujumbura Burundi Bujumbura, Burundi",
+    "phone": "+25776399999"
+  },
+  {
+    "id": 316,
+    "name": "MELBA Manukau",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25775399495"
+  },
+  {
+    "id": 317,
+    "name": "Purple Steer Restaurant",
+    "address": "Av. des Hippopotames, Bujumbura, Burundi",
+    "phone": "+25769555555"
+  },
+  {
+    "id": 318,
+    "name": "Purple Steer Restaurant",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25722259626"
+  },
+  {
+    "id": 319,
+    "name": "Bar Restaurant Kurunani",
+    "address": "Ave des Mimosas, Bujumbura, Burundi",
+    "phone": "+25779800247"
+  },
+  {
+    "id": 320,
+    "name": "Ganza Hotel \u0026 Restaurant",
+    "address": "R.N.15, Ngozi, Burundi",
+    "phone": "+25722277135"
+  },
+  {
+    "id": 321,
+    "name": "Ruhuka Hotel",
+    "address": "Quartier Gabiro, Burundi, R.N.15, Ngozi, Burundi",
+    "phone": "+25722302255"
+  },
+  {
+    "id": 322,
+    "name": "Hotel Kigobe",
+    "address": "R.N.15, Ngozi, Burundi",
+    "phone": "+25761044009"
+  },
+  {
+    "id": 323,
+    "name": "Safari Guest House",
+    "address": "Ngozi-Gitega Road, Ngozi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 324,
+    "name": "Hôtel Des Plateaux",
+    "address": "Ngozi, Burundi",
+    "phone": "+25775998000"
+  },
+  {
+    "id": 325,
+    "name": "Véro motel Ngozi",
+    "address": "Gabiro Road, Ngozi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 326,
+    "name": "Imperial Guest House",
+    "address": "Buja Road, Ngozi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 327,
+    "name": "La Residence Hotel",
+    "address": "Quatier Gabiro, Rue Kanyambo, Ngozi, Burundi",
+    "phone": "+25722303184"
+  },
+  {
+    "id": 328,
+    "name": "Hotel Safari",
+    "address": "Ngozi, Burundi",
+    "phone": "+25779956690"
+  },
+  {
+    "id": 329,
+    "name": "Vero Motel",
+    "address": "Burundi, Ngozi, Buye road Buye",
+    "phone": "+61401939405"
+  },
+  {
+    "id": 330,
+    "name": "Agape Hotel",
+    "address": "R.N.6, Ngozi, Burundi",
+    "phone": "+25779321581"
+  },
+  {
+    "id": 331,
+    "name": "Hotel Rehoboth",
+    "address": "R.N.15, Ngozi, Burundi",
+    "phone": "+25722257569"
+  },
+  {
+    "id": 332,
+    "name": "Nyungwe Forest National Park",
+    "address": "R.N.4, Kinyinya, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 333,
+    "name": "Kibira National Park",
+    "address": "Busiga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 334,
+    "name": "King's Palace Museum",
+    "address": "Ramba, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 335,
+    "name": "Ruvubu National Park",
+    "address": "Quatier Gabiro, Rue Kanyambo, Ngozi, Burundi",
+    "phone": "+25722303184"
+  },
+  {
+    "id": 336,
+    "name": "National Museum of Gitega",
+    "address": "Ngozi, Burundi",
+    "phone": "+25775424354"
+  },
+  {
+    "id": 337,
+    "name": "Masanganzira",
+    "address": "R.N.15, Burundi",
+    "phone": "+25779518137"
+  },
+  {
+    "id": 338,
+    "name": "Gishora Drum Sanctuary",
+    "address": "Ngozi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 339,
+    "name": "Ngosi Crater Lake",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 340,
+    "name": "BELAN Hôtel de Ngozi",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 341,
+    "name": "Tropitel Gitega Hôtel",
+    "address": "Gitega Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 342,
+    "name": "Accolade Hotel",
+    "address": "Gitega, Burundi",
+    "phone": "+905544224761"
+  },
+  {
+    "id": 343,
+    "name": "ISANGO Hôtel",
+    "address": "Nuyinga Road, Gitega, Burundi",
+    "phone": "+25779948080"
+  },
+  {
+    "id": 344,
+    "name": "BETHEL Hotel",
+    "address": "Gitega, Burundi",
+    "phone": "+25722404762"
+  },
+  {
+    "id": 345,
+    "name": "Helena hotel",
+    "address": "Commune Rohero , Quartier Sororezo, Bujumbura, Burundi",
+    "phone": "+25775527813"
+  },
+  {
+    "id": 346,
+    "name": "Motel La Perle",
+    "address": "gitega Magarama, Bwoga, Burundi",
+    "phone": "+25722404802"
+  },
+  {
+    "id": 347,
+    "name": "Mountain's View Hotel",
+    "address": "Sororezo quarter No.6, Bujumbura, Burundi",
+    "phone": "+25779910675"
+  },
+  {
+    "id": 348,
+    "name": "Hôtel Étoile du Centre",
+    "address": "Gitega, Burundi",
+    "phone": "+25722402661"
+  },
+  {
+    "id": 349,
+    "name": "Gahahe Hill's Hotel",
+    "address": "Quartier Cnar, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 350,
+    "name": "Jambo Hotel",
+    "address": "Kigwati Road, Makamba Province, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 351,
+    "name": "Tamotels Hotel",
+    "address": "R.N.3, Rumonge, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 352,
+    "name": "My Place Palace",
+    "address": "kamenge Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 353,
+    "name": "Centre Multifonctionnel de Gitega",
+    "address": "Bujumbura City Centre, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 354,
+    "name": "Hosanna Motel",
+    "address": "kamenge Road, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 355,
+    "name": "Hôtel IWACU Center",
+    "address": "Avenue Mwungo, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 356,
+    "name": "Salvani Hôtel",
+    "address": "Avenue Ruhuhuma, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 357,
+    "name": "Kwa Riziki Guest House",
+    "address": "Carama, Bujumbura, Burundi",
+    "phone": "+25768119324"
+  },
+  {
+    "id": 358,
+    "name": "Motel Kadza",
+    "address": "19 Rue Mwisale, Bujumbura, Burundi",
+    "phone": "+25771869613"
+  },
+  {
+    "id": 359,
+    "name": "Mizero Hotel",
+    "address": "Ave de l'Industrie, Bujumbura, Burundi",
+    "phone": "+25776992191"
+  },
+  {
+    "id": 360,
+    "name": "Hosanna Motel",
+    "address": "Boulevard Du Peuple, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 361,
+    "name": "Guest House La Preference",
+    "address": "RN 3 , Bujumbura-Rumonge Road, Rumonge, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 362,
+    "name": "Hotel Kigobe",
+    "address": "49 Av. Nyankoni, Bujumbura, Burundi",
+    "phone": "+25722237642"
+  },
+  {
+    "id": 363,
+    "name": "Mount Zion Hotel",
+    "address": "R.N.4, Bujumbura, Burundi",
+    "phone": "+25768661637"
+  },
+  {
+    "id": 364,
+    "name": "KANT HOTEL",
+    "address": "Common Makamba, Makamba Province, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 365,
+    "name": "Hotel Irakoze",
+    "address": "South Kigobe, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 366,
+    "name": "Kibunoah Hotel",
+    "address": "RN 15, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 367,
+    "name": "MM Plazza",
+    "address": "Gitega Shatanya IV Town, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 368,
+    "name": "Kibuye Guest",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25768332633"
+  },
+  {
+    "id": 369,
+    "name": "Saint Blaise Hotel",
+    "address": "Rohero I, Avenue Mao Tse Toung, N 04, Bujumbura, Burundi",
+    "phone": "+25722210007"
+  },
+  {
+    "id": 370,
+    "name": "Guest House Mutanga Nord",
+    "address": "Muyinga Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 371,
+    "name": "Kwetu Guest House",
+    "address": "Quartier Gabiro, Burundi, R.N.15, Ngozi, Burundi",
+    "phone": "+25722302255"
+  },
+  {
+    "id": 372,
+    "name": "Hotel Le Bon Air De Ntahangwa",
+    "address": "Birohe 02 , Shatanya 2 Gitega, Gitega, Burundi",
+    "phone": "+25779809066"
+  },
+  {
+    "id": 373,
+    "name": "Hotel Amahoro",
+    "address": "Magarama Road, No 8 Mbili Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 374,
+    "name": "Maketch Hotel",
+    "address": "Gitega-Bujumbura Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 375,
+    "name": "Niyimpa Hotel",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 376,
+    "name": "Pahorina Hotel",
+    "address": "Birohe 02 , Shatanya 2 Gitega, Gitega, Burundi",
+    "phone": "+25779809066"
+  },
+  {
+    "id": 377,
+    "name": "Veritas Motel",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 378,
+    "name": "Via Tanganyika Hotel",
+    "address": "R.N.15 Ngozi, Kiremera, Burundi",
+    "phone": "+25779934882"
+  },
+  {
+    "id": 379,
+    "name": "Agasaro Guest House",
+    "address": "Shatanya Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 380,
+    "name": "Pahorina Hotel",
+    "address": "Shatanya IV, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 381,
+    "name": "Fair Amount Hotel",
+    "address": "Rn 2 Gitega, Gitega, Burundi",
+    "phone": "+25779493313"
+  },
+  {
+    "id": 382,
+    "name": "Makamba Guest House 2",
+    "address": "Along Gitega Road, Gitega, Burundi",
+    "phone": "+25767880651"
+  },
+  {
+    "id": 383,
+    "name": "Paradise Restaurant",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 384,
+    "name": "solange's restaurant",
+    "address": "R.N.15, Gitega, Burundi",
+    "phone": "+25762333299"
+  },
+  {
+    "id": 385,
+    "name": "Al Huda Restaurant",
+    "address": "Unnamed Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 386,
+    "name": "Chez COBRA",
+    "address": "Quartier musinzira, avenue regideso 01, Burundi",
+    "phone": "+25768445233"
+  },
+  {
+    "id": 387,
+    "name": "Restaurant",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 388,
+    "name": "Favina Home",
+    "address": "RN16, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 389,
+    "name": "Chez maman Darcy",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 390,
+    "name": "Chez butumuzi (double service center)",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 391,
+    "name": "Masapta sapta",
+    "address": "Quartier Rango, Gitega, Burundi",
+    "phone": "+25779588624"
+  },
+  {
+    "id": 392,
+    "name": "2e avenue Nyamugari",
+    "address": "Gitega, Burundi",
+    "phone": "+25771461207"
+  },
+  {
+    "id": 393,
+    "name": "LENOX",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 394,
+    "name": "Jerusalem Business Center JBC",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 395,
+    "name": "Bulgur King",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 396,
+    "name": "ISANGO Hôtel",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 397,
+    "name": "Bar Chez Maximilien",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 398,
+    "name": "Kwizera emery",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 399,
+    "name": "AFRITA",
+    "address": "Rukobe, Burundi",
+    "phone": "+25769236561"
+  },
+  {
+    "id": 400,
+    "name": "FICA Burundi",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 401,
+    "name": "Accolade Hotel",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 402,
+    "name": "Dapur Bunda \u0026 Raihan Juice",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 403,
+    "name": "Bwoga 010000",
+    "address": "Quatier Gabiro, Rue Kanyambo, Ngozi, Burundi",
+    "phone": "+25722303184"
+  },
+  {
+    "id": 404,
+    "name": "BETHEL Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25768471894"
+  },
+  {
+    "id": 405,
+    "name": "Tropitel Gitega Hôtel",
+    "address": "Sororezo quarter No.6, Bujumbura, Burundi",
+    "phone": "+25779910675"
+  },
+  {
+    "id": 406,
+    "name": "NIVE",
+    "address": "avenue Belvedere 12,Kiriri, Bujumbura, Burundi",
+    "phone": "+25722251490"
+  },
+  {
+    "id": 407,
+    "name": "Centre TEREZIYA",
+    "address": "Chaussee de Gitega, Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 408,
+    "name": "My Place Palace",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25722277100"
+  },
+  {
+    "id": 409,
+    "name": "Hôtel REHOBOTH",
+    "address": "Quartier Gabiro Ngozi, Ngozi, Burundi",
+    "phone": "+25769866817"
+  },
+  {
+    "id": 410,
+    "name": "Shatanya 2",
+    "address": "R.N.15 Ngozi, Kiremera, Burundi",
+    "phone": "+25779934882"
+  },
+  {
+    "id": 411,
+    "name": "Helena Hotel",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779959527"
+  },
+  {
+    "id": 412,
+    "name": "MALIYE",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 413,
+    "name": "Mystic night-club",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 414,
+    "name": "Mizero Hotel",
+    "address": "Birohe 02 , Shatanya 2 Gitega, Gitega, Burundi",
+    "phone": "+25779809066"
+  },
+  {
+    "id": 415,
+    "name": "Province Gitega",
+    "address": "Gitega, Burundi",
+    "phone": "+25762650655"
+  },
+  {
+    "id": 416,
+    "name": "Taj Mahal grana parmisiano",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25771530359"
+  },
+  {
+    "id": 417,
+    "name": "Al Qaboos coffee shop",
+    "address": "Magarama Road, No 8 Mbili Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 418,
+    "name": "Hosanna Motel",
+    "address": "Gitega, Burundi",
+    "phone": "+25779201530"
+  },
+  {
+    "id": 419,
+    "name": "Gitega Airport",
+    "address": "RN16, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 420,
+    "name": "Helena Hotel",
+    "address": "Kiremera, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 421,
+    "name": "Nobel Kiriri",
+    "address": "Av. des Hippopotames, Bujumbura, Burundi",
+    "phone": "+25769555555"
+  },
+  {
+    "id": 422,
+    "name": "Gitega",
+    "address": "RN1 Gitega, Gitega, Burundi",
+    "phone": "+25722404626"
+  },
+  {
+    "id": 423,
+    "name": "Gitega",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 424,
+    "name": "Kimanama",
+    "address": "Rue, Higiro, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 425,
+    "name": "Salvani Hôtel",
+    "address": "Higiro, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 426,
+    "name": "Hotel Club Du Lac Tanganyika",
+    "address": "Rn 2 Gitega, Gitega, Burundi",
+    "phone": "+25779493313"
+  },
+  {
+    "id": 427,
+    "name": "Gitega",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 428,
+    "name": "Gasagara",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 429,
+    "name": "Hôtel Restaurant Bar LaReine",
+    "address": "Shatanya IV, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 430,
+    "name": "Gitega",
+    "address": "Muyinga Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 431,
+    "name": "Kumwembe Bar",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 432,
+    "name": "Roca Golf Hotel",
+    "address": "Gitega Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 433,
+    "name": "Citizen Corner",
+    "address": "Gitega, Burundi",
+    "phone": "+905544224761"
+  },
+  {
+    "id": 434,
+    "name": "Monument du Soldat inconnu",
+    "address": "Gitega, Burundi",
+    "phone": "+25722402041"
+  },
+  {
+    "id": 435,
+    "name": "Brioche (On-The-Go Nyarugenge)",
+    "address": "Along Gitega Road, Gitega, Burundi",
+    "phone": "+25767880651"
+  },
+  {
+    "id": 436,
+    "name": "Lycee mwaro",
+    "address": "gitega Magarama, Bwoga, Burundi",
+    "phone": "+25722404802"
+  },
+  {
+    "id": 437,
+    "name": "Kiriri Garden Hotel",
+    "address": "Chaussee de Gitega, Bujumbura, Burundi",
+    "phone": "+25771374204"
+  },
+  {
+    "id": 438,
+    "name": "Hôtel Des Plateaux",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 439,
+    "name": "Mountain's View Hotel",
+    "address": "Gitega, Burundi",
+    "phone": "+25722404762"
+  },
+  {
+    "id": 440,
+    "name": "Café Resto Nectar",
+    "address": "B.P 194, Gitega, Burundi",
+    "phone": "+25779593313"
+  },
+  {
+    "id": 441,
+    "name": "Hotel Dolce Vita Resort",
+    "address": "Kiremera, Burundi",
+    "phone": "+6285266123066"
+  },
+  {
+    "id": 442,
+    "name": "Gitega",
+    "address": "Nuyinga Road, Gitega, Burundi",
+    "phone": "+25779948080"
+  },
+  {
+    "id": 443,
+    "name": "KAYAGA I",
+    "address": "Gitega, Burundi",
+    "phone": "+25779341954"
+  },
+  {
+    "id": 444,
+    "name": "Bar SAGA YOBA",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 445,
+    "name": "Usine à café Songa",
+    "address": "Nuyinga Road, Gitega, Burundi",
+    "phone": "+25779948080"
+  },
+  {
+    "id": 446,
+    "name": "Bar Restaurant Happy Hour",
+    "address": "no 19, Avenue de l'independance, Gitega, Burundi",
+    "phone": "+25779296314"
+  },
+  {
+    "id": 447,
+    "name": "Usine à Café",
+    "address": "Unnamed Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 448,
+    "name": "PIT FIT",
+    "address": "Gitega, Burundi",
+    "phone": "+25771343970"
+  },
+  {
+    "id": 449,
+    "name": "TABA Adventist",
+    "address": "AV 1,Magarama, Nyamugari, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 450,
+    "name": "KWIZERA Jean de Dieu",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 451,
+    "name": "Usine à Café Mubuga",
+    "address": "RN16, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 452,
+    "name": "Gitega Informatics Center",
+    "address": "Bd de l'Uprona, Bujumbura, Burundi",
+    "phone": "+25722223856"
+  },
+  {
+    "id": 453,
+    "name": "National Museum of Gitega",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 454,
+    "name": "Tentmaker Gas Solution ltd",
+    "address": "RN16, Gitega, Gitega, Burundi",
+    "phone": "+25775118378"
+  },
+  {
+    "id": 455,
+    "name": "Eugene Superty",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 456,
+    "name": "Gogiva Garden",
+    "address": "RN16, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 457,
+    "name": "Gitega",
+    "address": "Higiro, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 458,
+    "name": "Ingenieur",
+    "address": "R.N.4, Kinyinya, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 459,
+    "name": "Livingston-Stanley Monument",
+    "address": "Ramba, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 460,
+    "name": "Rusizi National Park",
+    "address": "R.N.15, Burundi",
+    "phone": "+25779518137"
+  },
+  {
+    "id": 461,
+    "name": "Gitega",
+    "address": "Busiga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 462,
+    "name": "Kibira National Park",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 463,
+    "name": "Gitega",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 464,
+    "name": "Gishora",
+    "address": "Rn 2 Gitega, Gitega, Burundi",
+    "phone": "+25779493313"
+  },
+  {
+    "id": 465,
+    "name": "Gishora",
+    "address": "B.P 194, Gitega, Burundi",
+    "phone": "+25779593313"
+  },
+  {
+    "id": 466,
+    "name": "BETHEL Hotel",
+    "address": "Muyinga Road, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 467,
+    "name": "My Place Palace",
+    "address": "2344, Bvd. Patrice Lumumba, Bujumbura, Burundi",
+    "phone": "+250784845495"
+  },
+  {
+    "id": 468,
+    "name": "Gisabo",
+    "address": "Gitega, Burundi",
+    "phone": "+25779201530"
+  },
+  {
+    "id": 469,
+    "name": "Province Gitega",
+    "address": "Shatanya IV, Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 470,
+    "name": "Helena hotel",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 471,
+    "name": "Guest House La Preference",
+    "address": "Gitega, Burundi",
+    "phone": "+905544224761"
+  },
+  {
+    "id": 472,
+    "name": "Augustine Tours",
+    "address": "Gitega, Burundi",
+    "phone": "+25722404762"
+  },
+  {
+    "id": 473,
+    "name": "Rumonge",
+    "address": "gitega Magarama, Bwoga, Burundi",
+    "phone": "+25722404802"
+  },
+  {
+    "id": 474,
+    "name": "Tamotel",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 475,
+    "name": "Rutana",
+    "address": "Gitega, Burundi",
+    "phone": "+905544224761"
+  },
+  {
+    "id": 476,
+    "name": "Cankuzo",
+    "address": "2344, Bvd. Patrice Lumumba, Bujumbura, Burundi",
+    "phone": "+250784845495"
+  },
+  {
+    "id": 477,
+    "name": "Kanyosha",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 478,
+    "name": "Kigwena",
+    "address": "Kiganda, Burundi",
+    "phone": "+25768200845"
+  },
+  {
+    "id": 479,
+    "name": "Bururi",
+    "address": "Burunga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 480,
+    "name": "Kirundo",
+    "address": "gitega Magarama, Bwoga, Burundi",
+    "phone": "+25722404802"
+  },
+  {
+    "id": 481,
+    "name": "Busanze",
+    "address": "Rue du 13 Octobre, Bujumbura, Burundi",
+    "phone": "+25779450140"
+  },
+  {
+    "id": 482,
+    "name": "Jamaica And African Haze jj071",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25771741859"
+  },
+  {
+    "id": 483,
+    "name": "Hospital Ruyigi",
+    "address": "Ruyigi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 484,
+    "name": "Quán tàu / Dynasty - Chinese restaurant",
+    "address": "Ruyigi, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 485,
+    "name": "MALIYE",
+    "address": "629, Ruyigi, Burundi",
+    "phone": "+25768133955"
+  },
+  {
+    "id": 486,
+    "name": "Ruyigi",
+    "address": "Av. des Hippopotames, Bujumbura, Burundi",
+    "phone": "+25769555555"
+  },
+  {
+    "id": 487,
+    "name": "Ruyigi",
+    "address": "Bujumbura, Burundi",
+    "phone": "+25779360563"
+  },
+  {
+    "id": 488,
+    "name": "Rusizi National Park",
+    "address": "R.N.4, Kinyinya, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 489,
+    "name": "Unity Monument",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 490,
+    "name": "Kibira National Park",
+    "address": "Burunga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 491,
+    "name": "Ruyigi",
+    "address": "R.N.15, Burundi",
+    "phone": "+25779518137"
+  },
+  {
+    "id": 492,
+    "name": "Ruyigi",
+    "address": "Busiga, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 493,
+    "name": "Bururi Forest Nature Reserve",
+    "address": "Gitega, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 494,
+    "name": "Musée Vivant",
+    "address": "Rue du 13 Octobre, Bujumbura, Burundi",
+    "phone": "+25779450140"
+  },
+  {
+    "id": 495,
+    "name": "Gitega",
+    "address": "Bujumbura, Burundi",
+    "phone": ""
+  },
+  {
+    "id": 496,
+    "name": "Bujumbura Mairie",
+    "address": "Kiganda, Burundi",
+    "phone": "+25768200845"
+  }
 ]

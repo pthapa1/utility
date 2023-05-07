@@ -1,3746 +1,3746 @@
 [
- {
-  "id": 1,
-  "name": "Hotel Lagon",
-  "Address": "Rte de la Corniche Estate, Dakar, Senegal",
-  "phone": "+221338892525"
- },
- {
-  "id": 2,
-  "name": "ibis Dakar",
-  "Address": "Rte de la Corniche O, Dakar 16868, Senegal",
-  "phone": "+221338693333"
- },
- {
-  "id": 3,
-  "name": "Radisson Blu Hotel, Dakar Sea Plaza",
-  "Address": "Bp 2073, 2073 Av. Abdoulaye Fadiga, Dakar 18524, Senegal",
-  "phone": "2073207318524"
- },
- {
-  "id": 4,
-  "name": "Pullman Dakar Teranga",
-  "Address": "Av. Abdoulaye Fadiga, Dakar 18524, Senegal",
-  "phone": "+221338295959"
- },
- {
-  "id": 5,
-  "name": "Hotel Terrou-Bi",
-  "Address": "27 Rue YF 109, Dakar 99000, Senegal",
-  "phone": "2710999000"
- },
- {
-  "id": 6,
-  "name": "Novotel Dakar",
-  "Address": "Place de l'Independance, 10 Rue PL 29, Dakar 10200, Senegal",
-  "phone": "102910200"
- },
- {
-  "id": 7,
-  "name": "King Fahd Palace Hotel",
-  "Address": "Rte des Almadies, Dakar 16144, Senegal",
-  "phone": "+221338590700"
- },
- {
-  "id": 8,
-  "name": "Yaas Hotel Dakar Almadies",
-  "Address": "Boulevard Martin Luther King Dakar, 11500, Senegal",
-  "phone": "+221338399039"
- },
- {
-  "id": 9,
-  "name": "Hotel Jardin Savana Dakar",
-  "Address": "Corniche Est Dakar Plateau, Dakar, Senegal",
-  "phone": "+221338494242"
- },
- {
-  "id": 10,
-  "name": "Nyéléni maison sahel",
-  "Address": "Rte des Almadies, Dakar, Senegal",
-  "phone": "+221338696969"
- },
- {
-  "id": 11,
-  "name": "Hôtel ganalé",
-  "Address": "Villa 275, A Cité, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 12,
-  "name": "BOMA Lifestyle Hotel",
-  "Address": "179 Rue GT 66, Dakar, Senegal",
-  "phone": "+245955474054"
- },
- {
-  "id": 13,
-  "name": "L'Adresse",
-  "Address": "04 Av. Cheikh Anta Diop, Dakar 12500, Senegal",
-  "phone": ""
- },
- {
-  "id": 14,
-  "name": "Hotel Lagon",
-  "Address": "Plage 2, Villa Keur Bibou, Dakar, Senegal",
-  "phone": "+33688072230"
- },
- {
-  "id": 15,
-  "name": "Hôtel Fleur de Lys Point E",
-  "Address": "17, Yoff Virage Dakar, 12000, Senegal",
-  "phone": "+221772683161"
- },
- {
-  "id": 16,
-  "name": "ONOMO Hotel Dakar",
-  "Address": "lot 58, NGOR 12000, Senegal",
-  "phone": ""
- },
- {
-  "id": 17,
-  "name": "Illiyin Boutique Hôtel",
-  "Address": "Cité Djily Mbaye SN, 00221, Senegal",
-  "phone": "+221779233723"
- },
- {
-  "id": 18,
-  "name": "Le Djoloff",
-  "Address": "Dakar, Senegal",
-  "phone": "+221781063434"
- },
- {
-  "id": 19,
-  "name": "International VDN Hotel Dakar",
-  "Address": "SN, 9 Rue de Thann, Dakar 10000, Senegal",
-  "phone": "+221338222044"
- },
- {
-  "id": 20,
-  "name": "Auberge Keur Diame",
-  "Address": "First Concept, Rue LIB 12, Dakar, Senegal",
-  "phone": "+221338674996"
- },
- {
-  "id": 21,
-  "name": "Hôtel Fleur de Lys Plateau",
-  "Address": "Rue Ziguinchor (ex Bd du Sud) , Villa n°7, Dakar, Senegal",
-  "phone": "+221338642264"
- },
- {
-  "id": 22,
-  "name": "Rysara Hotel",
-  "Address": "Villa N°6 Rue GM 09, Dakar 28813, Senegal",
-  "phone": "60928813"
- },
- {
-  "id": 23,
-  "name": "ONOMO Hotel Dakar",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 24,
-  "name": "Hôtel-Restaurant Saint-Louis Sun DAKAR",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338678707"
- },
- {
-  "id": 25,
-  "name": "Hôtel ganalé",
-  "Address": "Dakar, Senegal",
-  "phone": "+221774181705"
- },
- {
-  "id": 26,
-  "name": "Résidences Mamoune",
-  "Address": "17 Rue Malenfant, Dakar, Senegal",
-  "phone": "+221777247104"
- },
- {
-  "id": 27,
-  "name": "HOTEL DES ALMADIES",
-  "Address": "CSE, 3, yoff 11500, Senegal",
-  "phone": "+221779141294"
- },
- {
-  "id": 28,
-  "name": "Hôtel Al Afifa",
-  "Address": "Rue YF 09, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 29,
-  "name": "Hôtel Fleur de Lys Point E",
-  "Address": "Rte de l'Aeroport, Dakar, Senegal",
-  "phone": "+221338355691"
- },
- {
-  "id": 30,
-  "name": "Hotel Archotel",
-  "Address": "rte du corps de la paix zone 7 Almadies Dakar, 12500, Senegal",
-  "phone": "+221770998733"
- },
- {
-  "id": 31,
-  "name": "Dakar International House",
-  "Address": "Yoff - Cité Biagui Dakar, 12000, Senegal",
-  "phone": "+221776861453"
- },
- {
-  "id": 32,
-  "name": "Le Lodge des Almadies",
-  "Address": "22-B Mamelles Aviation Ouakam, Dakar 17500, Senegal",
-  "phone": "+221777585408"
- },
- {
-  "id": 33,
-  "name": "Hotel du Phare Les Mamelles",
-  "Address": "Cité Djily Mbaye, Diamalaye 1, Yoff, Senegal",
-  "phone": "+221773789549"
- },
- {
-  "id": 34,
-  "name": "Fleur de Lys",
-  "Address": "Cité Siprès 2, Dakar, Senegal",
-  "phone": "+221773757272"
- },
- {
-  "id": 35,
-  "name": "Hôtel du Plateau",
-  "Address": "MJ82+QQ4 Rue saint Charles, Dakar 18251, Senegal",
-  "phone": "+221776464409"
- },
- {
-  "id": 36,
-  "name": "Days Hotel \u0026 Suites Dakar",
-  "Address": "PHPC+QQ2 lot F/44, Dakar, Senegal",
-  "phone": "+221777217421"
- },
- {
-  "id": 37,
-  "name": "Axil Hôtel",
-  "Address": "Cité Keur Gorgui, MERMOZ PYROTECH N96, Dakar 11000, Senegal",
-  "phone": "+221775917676"
- },
- {
-  "id": 38,
-  "name": "Hôtel Ngor Diarama",
-  "Address": "Cité Djily Mbaye, Diamalaye 1, Yoff, Senegal",
-  "phone": "+221773789549"
- },
- {
-  "id": 39,
-  "name": "Le Ndiambour - Hôtel et Résidence Dakar Senegal",
-  "Address": "Almadies, Stade de l'Olympique de Ngor, Enface de, Dakar, Senegal",
-  "phone": "+221773941590"
- },
- {
-  "id": 40,
-  "name": "Jade Guest house",
-  "Address": "villa 448 Yoff Apecsy 2 DAKAR, YOFF 10000, Senegal",
-  "phone": "448210000"
- },
- {
-  "id": 41,
-  "name": "HOTEL COLONIA",
-  "Address": "Rue Woro, Dakar, Senegal",
-  "phone": "+221771059217"
- },
- {
-  "id": 42,
-  "name": "Iris Hotel Ressort Space et Resort",
-  "Address": "GOREE PONTY, Gorée, Dakar 11111, Senegal",
-  "phone": "+221338420032"
- },
- {
-  "id": 43,
-  "name": "RÉSIDENCE HÔTELIÈRE DU MILLENAIRE",
-  "Address": "9116, Dakar 11000, Senegal",
-  "phone": "911611000"
- },
- {
-  "id": 44,
-  "name": "La Voile d'Or",
-  "Address": "Rue Blanchot, Rue de Malavois, Dakar, Senegal",
-  "phone": "+221761238180"
- },
- {
-  "id": 45,
-  "name": "Cafe de Rome",
-  "Address": "Rte des Maristes, Dakar 10500, Senegal",
-  "phone": "+221783079494"
- },
- {
-  "id": 46,
-  "name": "Hotel Al Baraka",
-  "Address": "Rue NG 227 Ngor Virage Derriere Chez Djilly Mbaye Ngor SN dakar, 10200, Senegal",
-  "phone": "22710200"
- },
- {
-  "id": 47,
-  "name": "Résidence Les Maristes",
-  "Address": "Plage N°2, Ile de Ngor, Senegal",
-  "phone": "+221772653166"
- },
- {
-  "id": 48,
-  "name": "La Maison Abaka",
-  "Address": "Rte Ngor Village, Dakar 18888, Senegal",
-  "phone": "+221771915017"
- },
- {
-  "id": 49,
-  "name": "JPAD",
-  "Address": "Rte Ngor Village, Dakar 18888, Senegal",
-  "phone": "+221771915017"
- },
- {
-  "id": 50,
-  "name": "Villa Mermoz",
-  "Address": "Lotissement A, Rte des Almadies, Dakar, Senegal",
-  "phone": "+221338201820"
- },
- {
-  "id": 51,
-  "name": "La Maison de Celine",
-  "Address": "Sotrac Mermoz Villa 87c, MZ 165, Dakar, Senegal",
-  "phone": "+221338650800"
- },
- {
-  "id": 52,
-  "name": "O'Panoramic Maison d’Hôte Restaurant",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338682908"
- },
- {
-  "id": 53,
-  "name": "Le Littoral des Almadies",
-  "Address": "SN, Rte Ngor Village, Dakar 15100, Senegal",
-  "phone": "+221785844019"
- },
- {
-  "id": 54,
-  "name": "Maam Samba",
-  "Address": "43 Rue Dr. Theze, Dakar, Senegal",
-  "phone": "+221338890120"
- },
- {
-  "id": 55,
-  "name": "O'Panoramic Maison d’Hôte Restaurant",
-  "Address": "Plage de N’Gor, Dakar 29662, Senegal",
-  "phone": "+221338206486"
- },
- {
-  "id": 56,
-  "name": "Maam Samba",
-  "Address": "Rue NG 84, Dakar, Senegal",
-  "phone": "+221778356579"
- },
- {
-  "id": 57,
-  "name": "Villa Ty Milyn",
-  "Address": "30, Avenue de la République, Rue J. Gomis, Dakar, Senegal",
-  "phone": "+221338490200"
- },
- {
-  "id": 58,
-  "name": "La Principauté Gorée",
-  "Address": "35 Rue Abdoul Karim Bourgi, Dakar, Senegal",
-  "phone": "+221338225532"
- },
- {
-  "id": 59,
-  "name": "Residence Zeina",
-  "Address": "Plage de Bel air, Dakar 99999, Senegal",
-  "phone": "+221338328648"
- },
- {
-  "id": 60,
-  "name": "Maison Augustin Ly",
-  "Address": "Dakar 12000, Senegal",
-  "phone": "+221338693736"
- },
- {
-  "id": 61,
-  "name": "Hôtel / Centre de Pêche Atlantic Evasion",
-  "Address": "Rue 1 X 12 Médina SN, 1X12 Rue 1, Dakar 21670, Senegal",
-  "phone": "112112121670"
- },
- {
-  "id": 62,
-  "name": "KEUR YAADIKOONE",
-  "Address": "Lot 41, Ancienne route de la corniche Ouest face phare des Mamelles, Route de la Corniche O, Dakar, Senegal",
-  "phone": "+221338204040"
- },
- {
-  "id": 63,
-  "name": "Ba Residence",
-  "Address": "Traversée vers l'ile de Ngor(2eme Plage), Dakar, Senegal",
-  "phone": "+221338200223"
- },
- {
-  "id": 64,
-  "name": "Galle Niwa",
-  "Address": "45347, Dakar, Senegal",
-  "phone": "+221777105150"
- },
- {
-  "id": 65,
-  "name": "Residence Kakatar",
-  "Address": "121 Rue Carnot, Dakar 11000, Senegal",
-  "phone": "12111000"
- },
- {
-  "id": 66,
-  "name": "Residence Rose Kane",
-  "Address": "DAKAR, Toubab Dialao 02875, Senegal",
-  "phone": "+221338362969"
- },
- {
-  "id": 67,
-  "name": "Résidence Astou Yoni",
-  "Address": "51 Rue Vincens, Dakar, Senegal",
-  "phone": "+221338236123"
- },
- {
-  "id": 68,
-  "name": "Residence Djily Mbaye Cap Immo",
-  "Address": "Avenue Faidherbe x, Rue Raffenel, Dakar 13000, Senegal",
-  "phone": "+221339202525"
- },
- {
-  "id": 69,
-  "name": "RESIDENCE FABY",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338201005"
- },
- {
-  "id": 70,
-  "name": "Chez coumbis",
-  "Address": "03 Rue Parent, Dakar, Senegal",
-  "phone": "+221338494449"
- },
- {
-  "id": 71,
-  "name": "Chambre d'hôte Dakar Bienvenue CHEZ VOUS",
-  "Address": "62 Rue Jules Ferry, Dakar 12900, Senegal",
-  "phone": "+221338234420"
- },
- {
-  "id": 72,
-  "name": "Residence Annapurna Dakar",
-  "Address": "Rte des Almadies, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 73,
-  "name": "Residence Djily Mbaye Cap Immo",
-  "Address": "36 Cité des Magistrats, Les Mamelles Dakar 14522, Senegal",
-  "phone": "+221338603000"
- },
- {
-  "id": 74,
-  "name": "Les 5 lanternes",
-  "Address": "SN, Rte des Almadies, Dakar 29339, Senegal",
-  "phone": "+221338690345"
- },
- {
-  "id": 75,
-  "name": "chez ouly",
-  "Address": "POINT E RUE 1 x MAISON DES ECRIVAINS, Dakar, Dakar 02302, Senegal",
-  "phone": "+221338695300"
- },
- {
-  "id": 76,
-  "name": "La maison de celine",
-  "Address": "Scat Urbam, cité kheur Khadim 164, Dakar 30000, Senegal",
-  "phone": "+216430000"
- },
- {
-  "id": 77,
-  "name": "Chez Agnes Hotel Restaurant",
-  "Address": "Av. Abdoulaye Fadiga, Dakar 18524, Senegal",
-  "phone": "+221338295959"
- },
- {
-  "id": 78,
-  "name": "Chez Olivier",
-  "Address": "Rte des Almadies, Dakar, Senegal",
-  "phone": "+221338695454"
- },
- {
-  "id": 79,
-  "name": "Villa Rosa Sénégal",
-  "Address": "Dakar Plateau, Médina, No, 46 Rue Jules Ferry, Dakar, Senegal",
-  "phone": "+221338899090"
- },
- {
-  "id": 80,
-  "name": "RESIDENCE DE L'AMITIE",
-  "Address": "3 villa n°10553, VDN, Dakar, Senegal",
-  "phone": "+221338690710"
- },
- {
-  "id": 81,
-  "name": "Hôtel Provençal",
-  "Address": "38 Rue Amadou Assane Ndoye, Dakar, Senegal",
-  "phone": "+221338894444"
- },
- {
-  "id": 82,
-  "name": "Hôtel du Plateau",
-  "Address": "68 Rue Felix Faure, Dakar, Senegal",
-  "phone": "+221338222570"
- },
- {
-  "id": 83,
-  "name": "Residence Aicha CSE",
-  "Address": "Cité Djily Mbaye 265C, Dakar 12500, Senegal",
-  "phone": "26512500"
- },
- {
-  "id": 84,
-  "name": "Villa Malaka",
-  "Address": "64 Rue Felix Faure, Dakar, Senegal",
-  "phone": "+221338494600"
- },
- {
-  "id": 85,
-  "name": "Dakar Meublé",
-  "Address": "Route de l'Aeroport, Dakar 38233, Senegal",
-  "phone": "+221338690610"
- },
- {
-  "id": 86,
-  "name": "Restaurant BUUMY Dakar point E",
-  "Address": "8 Avenue des Jambaars, 8 Avenue des Jambaars Avenue Borgnis Desbordes, Dakar, Senegal",
-  "phone": "+221338226060"
- },
- {
-  "id": 87,
-  "name": "First concept",
-  "Address": "Cité Djily Mbaye 265C, Dakar 12500, Senegal",
-  "phone": "26512500"
- },
- {
-  "id": 88,
-  "name": "Complexe Yaadikoone",
-  "Address": "Route de l'Aeroport, Dakar 38233, Senegal",
-  "phone": "+221338690610"
- },
- {
-  "id": 89,
-  "name": "Hotel Oceanic",
-  "Address": "Rue Mermoz, Dakar, Senegal",
-  "phone": "+221338262600"
- },
- {
-  "id": 90,
-  "name": "Restaurant Le Lagon 1",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338231909"
- },
- {
-  "id": 91,
-  "name": "La Cabane du Pêcheur",
-  "Address": "Rue Place 18, Dakar, Senegal",
-  "phone": "+221338221500"
- },
- {
-  "id": 92,
-  "name": "La Parrilla",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338225455"
- },
- {
-  "id": 93,
-  "name": "La Fourchette",
-  "Address": "Mohamedalyyoussef@hotmail.fr, Dakar, Senegal",
-  "phone": "+221338427205"
- },
- {
-  "id": 94,
-  "name": "Beluga restaurant",
-  "Address": "Rue Mousse Diop, Dakar, Senegal",
-  "phone": "+221338234040"
- },
- {
-  "id": 95,
-  "name": "Le Jardin Thailandais",
-  "Address": "4 Rue Parent, Dakar, Senegal",
-  "phone": "+221338426666"
- },
- {
-  "id": 96,
-  "name": "La pîazza dakar",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338215322"
- },
- {
-  "id": 97,
-  "name": "Bidew",
-  "Address": "Ndeureuhnou, Dakar, Senegal",
-  "phone": "+221338207675"
- },
- {
-  "id": 98,
-  "name": "Le Coste",
-  "Address": "10 Rue PE 43, Dakar, Senegal",
-  "phone": "+221338255833"
- },
- {
-  "id": 99,
-  "name": "Trattoria da Alex",
-  "Address": "boulevard de l'est, Rue de Kaolack, Dakar, Senegal",
-  "phone": "+221766446404"
- },
- {
-  "id": 100,
-  "name": "Restaurant BUUMY Dakar point E",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 101,
-  "name": "La pampa",
-  "Address": "51 Rue Vincens, Dakar, Senegal",
-  "phone": "+221338236123"
- },
- {
-  "id": 102,
-  "name": "Le Mermoz",
-  "Address": "HLM, 13500 Dakar, Senegal",
-  "phone": "+221775884466"
- },
- {
-  "id": 103,
-  "name": "Le Ryad",
-  "Address": "95 Rue J. Gomis, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 104,
-  "name": "Le Pelican Restaurant",
-  "Address": "Grand Dakar, Dakar, Senegal",
-  "phone": "+221338649292"
- },
- {
-  "id": 105,
-  "name": "Le Cabanon Dakar",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338228283"
- },
- {
-  "id": 106,
-  "name": "Restaurant La Pointe des Almadies",
-  "Address": "Cor des Almadies, Dakar, Senegal",
-  "phone": "+221765253899"
- },
- {
-  "id": 107,
-  "name": "Le Mermoz",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338685362"
- },
- {
-  "id": 108,
-  "name": "Le Ryad",
-  "Address": "Rue de la République, Dakar, Senegal",
-  "phone": "+221773332124"
- },
- {
-  "id": 109,
-  "name": "Reine Margarita",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338422092"
- },
- {
-  "id": 110,
-  "name": "Le Pelican Restaurant",
-  "Address": "347 Rue GD 60, Dakar, Senegal",
-  "phone": "+221773025834"
- },
- {
-  "id": 111,
-  "name": "Duchesse",
-  "Address": "Rue AAB 08, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 112,
-  "name": "Mood Café \u0026 Restaurant",
-  "Address": "123 Ave du President Lamine Gueye, Dakar, Senegal",
-  "phone": "+221338219672"
- },
- {
-  "id": 113,
-  "name": "Le Jardin",
-  "Address": "99 Rue Mousse Diop, Dakar, Senegal",
-  "phone": "+221774546264"
- },
- {
-  "id": 114,
-  "name": "Le Cabanon Dakar",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338601660"
- },
- {
-  "id": 115,
-  "name": "Restaurant La Pointe des Almadies",
-  "Address": "4111 Rue AAB 25, Dakar, Senegal",
-  "phone": "+221338254217"
- },
- {
-  "id": 116,
-  "name": "La Maree Chez Adji",
-  "Address": "Dakar, Senegal",
-  "phone": "+221777353042"
- },
- {
-  "id": 117,
-  "name": "LE DRAGON",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338894444"
- },
- {
-  "id": 118,
-  "name": "Restaurant Le Cocotier",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 119,
-  "name": "Restaurant La Terrasse",
-  "Address": "223, Rue de Kaolack, Dakar, Senegal",
-  "phone": "+221776440362"
- },
- {
-  "id": 120,
-  "name": "Sharky's",
-  "Address": "Rue Sandinieri, Dakar, Senegal",
-  "phone": "+221338220172"
- },
- {
-  "id": 121,
-  "name": "Restaurant Chez Mamy",
-  "Address": "Unnamed Road, Dakar, Senegal",
-  "phone": "+221338202848"
- },
- {
-  "id": 122,
-  "name": "Mawa's Senegalese American Restaurant",
-  "Address": "4 Boulevard El Hadji Djily Mbaye, Dakar, Senegal",
-  "phone": "+221338223571"
- },
- {
-  "id": 123,
-  "name": "LE MISTRAL RESTAURANT",
-  "Address": "66 Rue FA 34, Dakar, Senegal",
-  "phone": "+221774969366"
- },
- {
-  "id": 124,
-  "name": "Restaurant le Kermel",
-  "Address": "8, Route des Pères Maristes, Hann Maristes, Dakar 11500, Senegal",
-  "phone": "+221338329696"
- },
- {
-  "id": 125,
-  "name": "La Maison de Celine",
-  "Address": "129 Rue Carnot, Dakar, Senegal",
-  "phone": "+221338420058"
- },
- {
-  "id": 126,
-  "name": "Restaurant Le Carré Dakar",
-  "Address": "23 Av. G. Pompidou, Dakar, Senegal",
-  "phone": "+221338225297"
- },
- {
-  "id": 127,
-  "name": "La Plancha",
-  "Address": "66 Rue Dr. Theze, Dakar, Senegal",
-  "phone": "+221338221222"
- },
- {
-  "id": 128,
-  "name": "La corvette, Hann Bel Air",
-  "Address": "4 Rue Av. K. Bourgi, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 129,
-  "name": "Restaurant Korean Arisu",
-  "Address": "Victor Hugo, 36 Rue Joseph Gomis Dakar, 17800, Senegal",
-  "phone": "+221338890088"
- },
- {
-  "id": 130,
-  "name": "Andalos by shabat",
-  "Address": "1 Rue Amadou Assane, Ndoye, Senegal",
-  "phone": "+221338421717"
- },
- {
-  "id": 131,
-  "name": "Annapurna Indian Restaurant",
-  "Address": "Rue PE 20, Dakar, Senegal",
-  "phone": "+221771205757"
- },
- {
-  "id": 132,
-  "name": "Chez Éric",
-  "Address": "RUE 41 X 28 FIRST FLOOR MEDINA DAKAR, Dakar 10500, Senegal",
-  "phone": "412810500"
- },
- {
-  "id": 133,
-  "name": "La Plage Dakar",
-  "Address": "Bd du President Habib Bourguiba, Dakar, Senegal",
-  "phone": "+221338241669"
- },
- {
-  "id": 134,
-  "name": "L'Orientale",
-  "Address": "123 Rue J. Gomis, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 135,
-  "name": "Nostra Restaurant",
-  "Address": "29 Av. de la Liberation, Dakar, Senegal",
-  "phone": "+221338490649"
- },
- {
-  "id": 136,
-  "name": "L'Epicerie",
-  "Address": "Rue Victor Hugo, Dakar, Senegal",
-  "phone": "+221338214434"
- },
- {
-  "id": 137,
-  "name": "Noflaye Beach",
-  "Address": "Rte des Almadies, Dakar 12000, Senegal",
-  "phone": "+221338203032"
- },
- {
-  "id": 138,
-  "name": "Quai 19 Restaurant",
-  "Address": "25 Av. du Pr. L. Sedar Senghor, Dakar, Senegal",
-  "phone": "+221776980606"
- },
- {
-  "id": 139,
-  "name": "La Bohême",
-  "Address": "20 22 Rue Felix Faure, Dakar 00221, Senegal",
-  "phone": "202200221"
- },
- {
-  "id": 140,
-  "name": "Mashawi Dakar",
-  "Address": "Cor des Almadies, Dakar 14522, Senegal",
-  "phone": "+221338608826"
- },
- {
-  "id": 141,
-  "name": "Restaurant La Baie D'Along",
-  "Address": "83 Rue Carnot, Dakar, Senegal",
-  "phone": "+221338422172"
- },
- {
-  "id": 142,
-  "name": "Restaurant Oburo",
-  "Address": "collé à l'agence Free, Rte Ngor Village, Dakar, Senegal",
-  "phone": "+221338202220"
- },
- {
-  "id": 143,
-  "name": "Flow Happiness Food",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338682908"
- },
- {
-  "id": 144,
-  "name": "Saveurs d'Asie Centre Ville",
-  "Address": "Cor des Almadies, Dakar, Senegal",
-  "phone": "+221338233326"
- },
- {
-  "id": 145,
-  "name": "Arirang Sushi",
-  "Address": "24 Rue Sandinieri, Dakar, Senegal",
-  "phone": "465317223"
- },
- {
-  "id": 146,
-  "name": "Ali Baba",
-  "Address": "Rte de la Corniche O, Dakar, Senegal",
-  "phone": "+221781842351"
- },
- {
-  "id": 147,
-  "name": "Le bon coin",
-  "Address": "7 Rue Aristide Le Dantec, Dakar, Senegal",
-  "phone": "+221338224970"
- },
- {
-  "id": 148,
-  "name": "DakySushi",
-  "Address": "24 Rue Victor Hugo, Dakar, Senegal",
-  "phone": "+221338483534"
- },
- {
-  "id": 149,
-  "name": "Restaurant du Centre",
-  "Address": "44 rue Wagane Diouf, Dakar, Senegal",
-  "phone": "+221338229489"
- },
- {
-  "id": 150,
-  "name": "Restaurant 333 Specialites Africaines Almadies",
-  "Address": "King Fahd Rd, Dakar, Senegal",
-  "phone": "+221776566560"
- },
- {
-  "id": 151,
-  "name": "Restaurant L'ortolan",
-  "Address": "Rte des Almadies, Dakar, Senegal",
-  "phone": "+221338200911"
- },
- {
-  "id": 152,
-  "name": "Restaurant Le Xalam",
-  "Address": "Cor des Almadies, Dakar, Senegal",
-  "phone": "+221773649033"
- },
- {
-  "id": 153,
-  "name": "Bayékou",
-  "Address": "Almadies Dakar, 12000, Senegal",
-  "phone": "+221338209393"
- },
- {
-  "id": 154,
-  "name": "Chez Paco Beach Restaurant",
-  "Address": "Corniche Ouest Boulevard Martin Luther King Dakar, 91179, Senegal",
-  "phone": "+221338399039"
- },
- {
-  "id": 155,
-  "name": "Caliente Dakar",
-  "Address": "Av. G. Pompidou, Dakar, Senegal",
-  "phone": "+221776336274"
- },
- {
-  "id": 156,
-  "name": "UBUNTU RESTAURANT",
-  "Address": "35 Rue Jules Ferry, Dakar, Senegal",
-  "phone": "+221338216676"
- },
- {
-  "id": 157,
-  "name": "Obeubeu",
-  "Address": "Rte des Almadies, Dakar, Senegal",
-  "phone": "+221338200680"
- },
- {
-  "id": 158,
-  "name": "Shady’s Grill",
-  "Address": "Phare Pointe des Almadies, Dakar 32339, Senegal",
-  "phone": "+221338200140"
- },
- {
-  "id": 159,
-  "name": "Mawouli",
-  "Address": "32339, Dakar, Senegal",
-  "phone": "+221338207703"
- },
- {
-  "id": 160,
-  "name": "Porc au Four Restaurant Bazop Dakar",
-  "Address": "4 Boulevard El Hadji Djily Mbaye, Dakar, Senegal",
-  "phone": "+221338233333"
- },
- {
-  "id": 161,
-  "name": "Le Bristol",
-  "Address": "Cor des Almadies, Dakar, Senegal",
-  "phone": "+221338204300"
- },
- {
-  "id": 162,
-  "name": "Caramel Dakar",
-  "Address": "64 Rue Amadou Assane Ndoye, Dakar, Senegal",
-  "phone": "+221338231733"
- },
- {
-  "id": 163,
-  "name": "Restaurant Chez Ndioufa Terrasse",
-  "Address": "Dakar, Senegal",
-  "phone": "+221776355024"
- },
- {
-  "id": 164,
-  "name": "DIBITERIE HAOUSSA CHEZ ALI",
-  "Address": "38 Rue Amadou Assane Ndoye, Dakar, Senegal",
-  "phone": "+221338229000"
- },
- {
-  "id": 165,
-  "name": "Restaurant le Relais Sportif",
-  "Address": "Rte de l'Aeroport, Dakar, Senegal",
-  "phone": "+221784449955"
- },
- {
-  "id": 166,
-  "name": "UBUNTU RESTAURANT",
-  "Address": "QG33+GWH Rond point du Virage, route de l'aéroport, Dakar, Senegal",
-  "phone": "+221766694817"
- },
- {
-  "id": 167,
-  "name": "Presse Café",
-  "Address": "Av. G. Pompidou, Dakar, Senegal",
-  "phone": "+221338428677"
- },
- {
-  "id": 168,
-  "name": "Le Pompidou",
-  "Address": "Phare Pointe des Almadies, Dakar 32339, Senegal",
-  "phone": "+221338200140"
- },
- {
-  "id": 169,
-  "name": "The Seoul Restaurant 2.0",
-  "Address": "11, Rue Dagorne Marché Kermel BP, Rue Dagorne, Dakar, Senegal",
-  "phone": "+221338257197"
- },
- {
-  "id": 170,
-  "name": "Cote D'or Chinese Food",
-  "Address": "Dakar, Senegal",
-  "phone": "+221776355024"
- },
- {
-  "id": 171,
-  "name": "Touba Restaurant",
-  "Address": "Mermoz Sacre-coeur Dakar, Dakar, Senegal",
-  "phone": "+221338226166"
- },
- {
-  "id": 172,
-  "name": "Restaurant Chez Sarah",
-  "Address": "QG33+GWH Rond point du Virage, route de l'aéroport, Dakar, Senegal",
-  "phone": "+221766694817"
- },
- {
-  "id": 173,
-  "name": "OBendo Burger",
-  "Address": "Rte de l'Aeroport, Dakar, Senegal",
-  "phone": "+221784449955"
- },
- {
-  "id": 174,
-  "name": "Restaurant le BAZOFF",
-  "Address": "Cor des Almadies, Dakar, Senegal",
-  "phone": "+221338204300"
- },
- {
-  "id": 175,
-  "name": "Sea Plaza",
-  "Address": "Rue GY 534, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 176,
-  "name": "Dakar City Mall",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 177,
-  "name": "Sea plaza",
-  "Address": "N°11 B, Rue 3, Dakar, Senegal",
-  "phone": "+221770806555"
- },
- {
-  "id": 178,
-  "name": "Malado plaza",
-  "Address": "Dakar, Senegal",
-  "phone": "+221786339653"
- },
- {
-  "id": 179,
-  "name": "Centre commercial Kermel",
-  "Address": "Allees Seydou Nourou Tall, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 180,
-  "name": "AUCHAN",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 181,
-  "name": "Centre commercial Malick Sy",
-  "Address": "Rue Dagorne, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 182,
-  "name": "Centre Commercial Du Port",
-  "Address": "Rue 14, Dakar, Senegal",
-  "phone": "+221339594863"
- },
- {
-  "id": 183,
-  "name": "Centre Commercial Touba Colobane",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 184,
-  "name": "Shopping",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338598962"
- },
- {
-  "id": 185,
-  "name": "Best Price",
-  "Address": "MHM5+2R Centre commercial les quatre C, Av. Malick Sy, Dakar 10000, Senegal",
-  "phone": "+221774441475"
- },
- {
-  "id": 186,
-  "name": "Fatima Shop",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338237777"
- },
- {
-  "id": 187,
-  "name": "CITY SPORT: PONTY",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338496549"
- },
- {
-  "id": 188,
-  "name": "Sandaga Market",
-  "Address": "Dakar, Senegal",
-  "phone": "+221784959239"
- },
- {
-  "id": 189,
-  "name": "Centre d'appel way2call",
-  "Address": "Dakar, Senegal",
-  "phone": "+221776333883"
- },
- {
-  "id": 190,
-  "name": "Happy Land Dakar",
-  "Address": "Rte de la Corniche Ouest, Dakar, Senegal",
-  "phone": "+221338236242"
- },
- {
-  "id": 191,
-  "name": "EMJ",
-  "Address": "Cité Douane Golf Sud Océan, Dakar, Senegal",
-  "phone": "+221753331326"
- },
- {
-  "id": 192,
-  "name": "Chez Billy Fat-Fat (Fast Agency of Trafic)",
-  "Address": "Dakar, Senegal",
-  "phone": "+221771090988"
- },
- {
-  "id": 193,
-  "name": "Clementine Gift Shop Sea Plaza",
-  "Address": "Senegal, Dakar, 54 Avenue Georges Pompidou",
-  "phone": "+221338212773"
- },
- {
-  "id": 194,
-  "name": "Spa Beauté dakar",
-  "Address": "Dakar, Senegal",
-  "phone": "+221774567771"
- },
- {
-  "id": 195,
-  "name": "ccbm electronics",
-  "Address": "Liberté 6 extension - Route du Camp Pénal Numéro 17 magasin 3, Dakar, Senegal",
-  "phone": "+221770588531"
- },
- {
-  "id": 196,
-  "name": "Central Park Ex 4C",
-  "Address": "Avenue Place 116, Dakar, Senegal",
-  "phone": "+221775369397"
- },
- {
-  "id": 197,
-  "name": "Les Sens de Marrakech Senegal",
-  "Address": "Immeuble Meroue, 3 Av. G. Pompidou, Dakar, Senegal",
-  "phone": "+221338429835"
- },
- {
-  "id": 198,
-  "name": "IFAN Museum of African Arts",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338310101"
- },
- {
-  "id": 199,
-  "name": "House of Slaves",
-  "Address": "Rue Place 18, Dakar, Senegal",
-  "phone": "+221338239268"
- },
- {
-  "id": 200,
-  "name": "Hann Zoological Park",
-  "Address": "75 Boulevard de la République, Dakar, Senegal",
-  "phone": "+221338232467"
- },
- {
-  "id": 201,
-  "name": "Mosque of the Divinity",
-  "Address": "Av. Malick Sy, Dakar, Senegal",
-  "phone": "+201221268200"
- },
- {
-  "id": 202,
-  "name": "Grand Mosque of Dakar",
-  "Address": "Dakar, Senegal",
-  "phone": "+221776493824"
- },
- {
-  "id": 203,
-  "name": "Marché Sandaga",
-  "Address": "Dakar, Senegal",
-  "phone": "+221771221099"
- },
- {
-  "id": 204,
-  "name": "Loman Art House - Art Gallery",
-  "Address": "6 Av. du Pr. L. Sedar Senghor, Dakar, Senegal",
-  "phone": "+221338808080"
- },
- {
-  "id": 205,
-  "name": "Phare des Mamelles",
-  "Address": "Rond point Diakhao, M'bour, Senegal",
-  "phone": "+221339397272"
- },
- {
-  "id": 206,
-  "name": "Galerie Arte",
-  "Address": "Mbour, Senegal",
-  "phone": ""
- },
- {
-  "id": 207,
-  "name": "Lagune de la Somone",
-  "Address": "Immeuble Keur Diaba, rue 81 (ancienne route de la Météo), Mermoz Pyrotechnique, Senegal",
-  "phone": "+221338684530"
- },
- {
-  "id": 208,
-  "name": "Plage du Virage",
-  "Address": "Sindia, Senegal",
-  "phone": "+221775565927"
- },
- {
-  "id": 209,
-  "name": "Plage des mamelles",
-  "Address": "Somone, Senegal",
-  "phone": "+221781629978"
- },
- {
-  "id": 210,
-  "name": "Casino Terrou Saly",
-  "Address": "Mamelles, Rte de l'Aeroport, Dakar, Senegal",
-  "phone": "+221773437272"
- },
- {
-  "id": 211,
-  "name": "Plage de Yoff",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 212,
-  "name": "accrobaobab adventure",
-  "Address": "Dakar, Senegal",
-  "phone": "+22376023855"
- },
- {
-  "id": 213,
-  "name": "Ile de Madeleine",
-  "Address": "villa no. 1 rue de pharmacy Atlantic Mamelles Dakar, 12500, Senegal",
-  "phone": "+221778481579"
- },
- {
-  "id": 214,
-  "name": "Ile de Ngor",
-  "Address": "89 rue Joseph Gomis, Dakar, Senegal",
-  "phone": "+221338230320"
- },
- {
-  "id": 215,
-  "name": "Le Grand Hôtel de Thiés",
-  "Address": "Grand Standing, derriere station EDK Rue 47, Thies 21000, Senegal",
-  "phone": "+221775416911"
- },
- {
-  "id": 216,
-  "name": "EKSIL HOTEL",
-  "Address": "Rue Hophouet Boigny, Thies, Senegal",
-  "phone": "+221339512551"
- },
- {
-  "id": 217,
-  "name": "Hôtel Thiès - Le Square",
-  "Address": "Street, M'bour, Senegal",
-  "phone": ""
- },
- {
-  "id": 218,
-  "name": "Annexe Hôtel Le Croissant Magique",
-  "Address": "RÉSIDENCE SENGHOR, Thiès, Senegal",
-  "phone": "+221776792957"
- },
- {
-  "id": 219,
-  "name": "Villa Gandigal",
-  "Address": "Mbind Siga, Mbodiene, Senegal",
-  "phone": ""
- },
- {
-  "id": 220,
-  "name": "HÔTEL RÉSIDENCE SENGHOR",
-  "Address": "Street, M'bour, Senegal",
-  "phone": "+221783942952"
- },
- {
-  "id": 221,
-  "name": "Villa Gandigal",
-  "Address": "202 Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221339513311"
- },
- {
-  "id": 222,
-  "name": "Maison d'hotes Mbayard",
-  "Address": "Thiès, Senegal",
-  "phone": "+221339510098"
- },
- {
-  "id": 223,
-  "name": "Domaine Kalao",
-  "Address": "Néant, Thies, Senegal",
-  "phone": "+221778592114"
- },
- {
-  "id": 224,
-  "name": "Hôtel Rex",
-  "Address": "Sud stade, Thies, Senegal",
-  "phone": "+221339541026"
- },
- {
-  "id": 225,
-  "name": "Auberge Gilbert",
-  "Address": "Thiès Diakhao Base militaire en face cité SIDAK, Thies 12604, Senegal",
-  "phone": "+221776452176"
- },
- {
-  "id": 226,
-  "name": "Auberge et Restaurant Oasis 2",
-  "Address": "Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 227,
-  "name": "Hotel Cauris",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 228,
-  "name": "Residence Daby",
-  "Address": "Route, Sindia, Senegal",
-  "phone": "+221773038429"
- },
- {
-  "id": 229,
-  "name": "Hôtel-Restaurant Big Faim",
-  "Address": "1 Av. Jean B E Collin, Thiès 23015, Senegal",
-  "phone": "+221773145108"
- },
- {
-  "id": 230,
-  "name": "Complexe Khadija",
-  "Address": "Caen Avenue, Thies, Senegal",
-  "phone": "+221772339474"
- },
- {
-  "id": 231,
-  "name": "Hôtel Résidence Lat Dior",
-  "Address": "Face Stade Lat-Dior, Thiès, Senegal",
-  "phone": "+221339520777"
- },
- {
-  "id": 232,
-  "name": "Le grand",
-  "Address": "Thies none BP 1053, Thies 99999, Senegal",
-  "phone": "105399999"
- },
- {
-  "id": 233,
-  "name": "Le MbinAdam",
-  "Address": "N2 (Sur La route de Dakar, Thiès 21000, Senegal",
-  "phone": "+221775467438"
- },
- {
-  "id": 234,
-  "name": "CERCLE MESS DE GARNISON DE THIES",
-  "Address": "138 Rue de Douaumont, Thies, Senegal",
-  "phone": "+221339511081"
- },
- {
-  "id": 235,
-  "name": "Avril location",
-  "Address": "Cité Malick Sy, Thies, Senegal",
-  "phone": "+221771151515"
- },
- {
-  "id": 236,
-  "name": "Le Tapis Vert",
-  "Address": "Unnamed Road, Thies 13630, Senegal",
-  "phone": "+221772278893"
- },
- {
-  "id": 237,
-  "name": "Restaurant Chez Tata Rosa",
-  "Address": "Thiès, Senegal",
-  "phone": "+221772896592"
- },
- {
-  "id": 238,
-  "name": "Pamanda",
-  "Address": "En face lycee Malick Sy de, Thiès, Senegal",
-  "phone": "+221784733535"
- },
- {
-  "id": 239,
-  "name": "Restaurant DAMEL'S",
-  "Address": "24 Avenida Leopld Senghor, Thiès, Senegal",
-  "phone": "+221339518595"
- },
- {
-  "id": 240,
-  "name": "Restaurant Big Faim",
-  "Address": "Guinth Rue Amadou Sow, Thies, Senegal",
-  "phone": "+221339521550"
- },
- {
-  "id": 241,
-  "name": "Showroom88bysafaa",
-  "Address": "373 Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221339517516"
- },
- {
-  "id": 242,
-  "name": "Sam's Prestige",
-  "Address": "Thiès, Senegal",
-  "phone": "+221773717031"
- },
- {
-  "id": 243,
-  "name": "restaurant l'escale",
-  "Address": "484 Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221776938094"
- },
- {
-  "id": 244,
-  "name": "Restaurant Sarafina",
-  "Address": "88 Bd François Xavier Ndione, Thiès, Senegal",
-  "phone": "+221777009100"
- },
- {
-  "id": 245,
-  "name": "Palais d'Or",
-  "Address": "Avenida Leopld Senghor, Thiès, Senegal",
-  "phone": "+221772004699"
- },
- {
-  "id": 246,
-  "name": "Le Massa Massa",
-  "Address": "terminus tata 10, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 247,
-  "name": "Dianxen resto",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 248,
-  "name": "Thiéré",
-  "Address": "Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 249,
-  "name": "Paradis (EAT)",
-  "Address": "Rocade de Contournement de Thiès, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 250,
-  "name": "Tacos de thiés",
-  "Address": "Route de la ZAC de, Thiès, Senegal",
-  "phone": "+221777915439"
- },
- {
-  "id": 251,
-  "name": "Point Gourmand",
-  "Address": "137 allée mawa, M Doucoure, Thies, Senegal",
-  "phone": "+221339540442"
- },
- {
-  "id": 252,
-  "name": "O'GoodFood Thiès",
-  "Address": "375 Rte Thies-Sindia, Thiès, Senegal",
-  "phone": "+221339519034"
- },
- {
-  "id": 253,
-  "name": "Suite D'or Restaurant",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 254,
-  "name": "Le café des arts",
-  "Address": "Rue Hophouet Boigny, Thies, Senegal",
-  "phone": "+221339522717"
- },
- {
-  "id": 255,
-  "name": "Restaurant Touba Kawsara",
-  "Address": "Keur Ya Ndiémé Faye, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 256,
-  "name": "Restaurant Ndigeul Food",
-  "Address": "Unnamed Road, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 257,
-  "name": "Kebab De Luxe",
-  "Address": "Marché Khelcome, Unnamed Road, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 258,
-  "name": "Ile De Gorée",
-  "Address": "Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 259,
-  "name": "MY FAVORITE RESTAURANT 2015! VERY GOOD!",
-  "Address": "Rte Thies-Sindia, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 260,
-  "name": "Restaurant le Paradis 2",
-  "Address": "route de Sindia, Thies, Senegal",
-  "phone": "+221339542523"
- },
- {
-  "id": 261,
-  "name": "Restaurant L'abidjanaise",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 262,
-  "name": "Restaurant La Poste Escale Chez Julie Penda Marché central de Thiès",
-  "Address": "Rte Thies-Sindia, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 263,
-  "name": "Nouveru Brios Grillade",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 264,
-  "name": "Pallene Resto",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 265,
-  "name": "Nita Food",
-  "Address": "Unnamed Road, Thiès, Senegal",
-  "phone": "+221778336337"
- },
- {
-  "id": 266,
-  "name": "Restaurant Affaire Conclue",
-  "Address": "Unnamed Road, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 267,
-  "name": "Sokhna's kitchen",
-  "Address": "383 Av. Général de Gaulle, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 268,
-  "name": "RESTAURANT \"CHEZ LA MOTHER\"",
-  "Address": "N3, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 269,
-  "name": "Keur Diaraf",
-  "Address": "416 Av. Général de Gaulle, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 270,
-  "name": "Restaurant ZAM-ZAM",
-  "Address": "N3, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 271,
-  "name": "Restaurant Serigne Babacar Sy",
-  "Address": "Thiès, Senegal",
-  "phone": "+221773239779"
- },
- {
-  "id": 272,
-  "name": "Vaissellerie Sope Nabi Chez Madame Sarr",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 273,
-  "name": "Fast-Food Cheikh Mbana",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 274,
-  "name": "SAM'S PRESTIGE, AVENUE LAMINE GUEYE THIES SÉNÉGAL",
-  "Address": "Unnamed Road, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 275,
-  "name": "MADEMBA Diouf",
-  "Address": "181 Rte Thies-Sindia, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 276,
-  "name": "Fast food et dibiterie chez Khady",
-  "Address": "519 Bd François Xavier Ndione, Thiès, Senegal",
-  "phone": "+221777788776"
- },
- {
-  "id": 277,
-  "name": "Intercontinental",
-  "Address": "N2, Thies, Senegal",
-  "phone": "+221771016014"
- },
- {
-  "id": 278,
-  "name": "le Marseillais",
-  "Address": "Thiès, Senegal",
-  "phone": "+221773070711"
- },
- {
-  "id": 279,
-  "name": "Chez Rachid Restaurant",
-  "Address": "N2, Thies, Senegal",
-  "phone": "+221339516158"
- },
- {
-  "id": 280,
-  "name": "Mini resto Wakeur Mame Diarra",
-  "Address": "Rue de la Mairie, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 281,
-  "name": "Bakery",
-  "Address": "N2, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 282,
-  "name": "Tacos se thiès 2",
-  "Address": "Thiès, Senegal",
-  "phone": "+221773382525"
- },
- {
-  "id": 283,
-  "name": "Croissant Magique",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 284,
-  "name": "Gargote Mère Sophie",
-  "Address": "Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221777358644"
- },
- {
-  "id": 285,
-  "name": "Lekk Leegui Restaurant",
-  "Address": "Néant, Thiès 17075, Senegal",
-  "phone": "+221779004319"
- },
- {
-  "id": 286,
-  "name": "Djolof Chicken Thiès",
-  "Address": "Rue de la Mairie, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 287,
-  "name": "Restaurant Les Delices",
-  "Address": "Caen Avenue, Thies, Senegal",
-  "phone": "+221774541221"
- },
- {
-  "id": 288,
-  "name": "Restau Chez Eva",
-  "Address": "Rte Thies-Sindia, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 289,
-  "name": "Palais d'Or",
-  "Address": "273 Avenida Leopld Senghor, Thiès, Senegal",
-  "phone": "+221339517516"
- },
- {
-  "id": 290,
-  "name": "Sams Restaurant",
-  "Address": "Rue de Paris x, Rue de la Poste, Thiès, Senegal",
-  "phone": "+221770398711"
- },
- {
-  "id": 291,
-  "name": "Complexe les halles des lions",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 292,
-  "name": "Boy Ka Nekh Soow",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 293,
-  "name": "Djigueen Barri Yitté",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 294,
-  "name": "Chez Moussa",
-  "Address": "Avenida Leopld Senghor, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 295,
-  "name": "ETS LAPHILOMENTINE/779004319/ 701083291",
-  "Address": "Unnamed Road, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 296,
-  "name": "Djolof Chicken Thiès 2",
-  "Address": "Avenida General de Gaulle, Thies, Senegal",
-  "phone": "+221786006544"
- },
- {
-  "id": 297,
-  "name": "Mere Deguene Ndiaye",
-  "Address": "373 Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221339511878"
- },
- {
-  "id": 298,
-  "name": "Dibiteries Restaurant Fastfood Lamp Fall chez Ibou Legal",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 299,
-  "name": "Restaurant cafe touba avec",
-  "Address": "Thiès, Senegal",
-  "phone": "+221772715004"
- },
- {
-  "id": 300,
-  "name": "Sene family",
-  "Address": "Avenue Général de Gaulle, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 301,
-  "name": "Nguinth deux voies",
-  "Address": "cimetière Takhikao, Thies, Senegal",
-  "phone": "+221781758534"
- },
- {
-  "id": 302,
-  "name": "Tacos thies 2",
-  "Address": "Rue Amadou Sow, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 303,
-  "name": "Buvette anna samb",
-  "Address": "Av. Général de Gaulle, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 304,
-  "name": "Le virage",
-  "Address": "Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221339540707"
- },
- {
-  "id": 305,
-  "name": "Restaurante Sope Naby",
-  "Address": "Rue Hophouet Boigny, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 306,
-  "name": "Case a Teranga",
-  "Address": "Cité Malick Sy Cité, Thiès 12345, Senegal",
-  "phone": "+221765710202"
- },
- {
-  "id": 307,
-  "name": "Dibiterie Baobab",
-  "Address": "PAS LOIN DU TERRAIN WALIDANES, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 308,
-  "name": "Dibiterie Malick Dicko",
-  "Address": "Avenue Général de Gaulle, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 309,
-  "name": "Les Délices de Mame Yacine",
-  "Address": "Rue de la Mairie, Thies, Senegal",
-  "phone": "+221339541010"
- },
- {
-  "id": 310,
-  "name": "A péage",
-  "Address": "Thiès, Senegal",
-  "phone": "+221339542323"
- },
- {
-  "id": 311,
-  "name": "Poulailler S Khadim Thioune",
-  "Address": "383 Rocade de Contournement de Thiès, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 312,
-  "name": "Chez Tonton Frye",
-  "Address": "Rue de Paris, Thies, Senegal",
-  "phone": "+221770398711"
- },
- {
-  "id": 313,
-  "name": "Fast-Food Khadim Rassoul",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 314,
-  "name": "Restaurant Madiba",
-  "Address": "Rue de LYON, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 315,
-  "name": "Mamie's Grill",
-  "Address": "Thiès, Senegal",
-  "phone": "+221778356675"
- },
- {
-  "id": 316,
-  "name": "Boulangerie patisserie",
-  "Address": "Av. Lamine Gueye, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 317,
-  "name": "Miya Group restaurant le 21 mars",
-  "Address": "N2, Thies, Senegal",
-  "phone": "+221775729700"
- },
- {
-  "id": 318,
-  "name": "ThièsAtHome Dépôt GUINAR",
-  "Address": "Thiès, Senegal",
-  "phone": "+221775065927"
- },
- {
-  "id": 319,
-  "name": "Boutik papa marcher thies",
-  "Address": "Av. Lamine Gueye, Thiès, Senegal",
-  "phone": "+221339510267"
- },
- {
-  "id": 320,
-  "name": "Keur Ya Ndiémé Faye",
-  "Address": "Thiès, Senegal",
-  "phone": "+221771240909"
- },
- {
-  "id": 321,
-  "name": "Hôtel Restaurant Bidew Bi",
-  "Address": "N2, Thies, Senegal",
-  "phone": "+221779009797"
- },
- {
-  "id": 322,
-  "name": "Miya Group restaurant le 21 mars",
-  "Address": "N2, Thies, Senegal",
-  "phone": "+221775235906"
- },
- {
-  "id": 323,
-  "name": "Restaurant Santati Khadim Rassoul",
-  "Address": "Rocade de Contournement de Thiès, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 324,
-  "name": "Complexe Ngary",
-  "Address": "Rocade de Contournement de Thiès, Thiès, Senegal",
-  "phone": "+221339272222"
- },
- {
-  "id": 325,
-  "name": "NICE TIME COMPLEXE",
-  "Address": "Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 326,
-  "name": "Restaurant Awa Guinar",
-  "Address": "Thiès, Senegal",
-  "phone": "+221708303266"
- },
- {
-  "id": 327,
-  "name": "18 Safar Center",
-  "Address": "Fahu 1, Thiès, Senegal",
-  "phone": ""
- },
- {
-  "id": 328,
-  "name": "Gaydel Buisiness Center",
-  "Address": "Route de Risso ngaye, Meckhe, Senegal",
-  "phone": "+221780121437"
- },
- {
-  "id": 329,
-  "name": "Khouma business center",
-  "Address": "408 Av. du Baol, Thiès 01312, Senegal",
-  "phone": "40801312"
- },
- {
-  "id": 330,
-  "name": "C3S THIES",
-  "Address": "Thiès, Senegal",
-  "phone": "+221775259547"
- },
- {
-  "id": 331,
-  "name": "Auchan Thiès 2",
-  "Address": "Commissariat Central de Thies, N2, face, Thies, Senegal",
-  "phone": "+221338680964"
- },
- {
-  "id": 332,
-  "name": "Auchan Thiès 1",
-  "Address": "terminus, N3, Thiès, Senegal",
-  "phone": "+221773225663"
- },
- {
-  "id": 333,
-  "name": "Amine Business Center (ABC)",
-  "Address": "Nguinth, sur les 2 voies vers la zac Après la police, près du rond-point, Senegal",
-  "phone": "+221769474747"
- },
- {
-  "id": 334,
-  "name": "SCB-THIES (SEN CARREFOUR BUSINESS)",
-  "Address": "Route de Dakar, croisement, Av. du Baol, Thies, Senegal",
-  "phone": "+221338680977"
- },
- {
-  "id": 335,
-  "name": "Quincaillerie",
-  "Address": "Marche central, avenue gnana sow, Thiès, Senegal",
-  "phone": "+221770575030"
- },
- {
-  "id": 336,
-  "name": "Showroom88bysafaa",
-  "Address": "137 allée mawa, M Doucoure, Thies, Senegal",
-  "phone": "+221339540442"
- },
- {
-  "id": 337,
-  "name": "Synapse Center",
-  "Address": "Place de France, Thies, Senegal",
-  "phone": ""
- },
- {
-  "id": 338,
-  "name": "QUINCAILLERIE SOUARE ET FILS",
-  "Address": "Thiès, Senegal",
-  "phone": "+221779434395"
- },
- {
-  "id": 339,
-  "name": "Village artisanal",
-  "Address": "Thiès, Senegal",
-  "phone": "+221779250201"
- },
- {
-  "id": 340,
-  "name": "NICE TIME COMPLEXE",
-  "Address": "Thiès, Senegal",
-  "phone": "+221339510862"
- },
- {
-  "id": 341,
-  "name": "Boulangerie rond point des Parcelles Assainies",
-  "Address": "Av. El H. Malick Sy, Thiès, Senegal",
-  "phone": "+221781055543"
- },
- {
-  "id": 342,
-  "name": "Place Agora",
-  "Address": "88 Bd François Xavier Ndione, Thiès, Senegal",
-  "phone": "+221777009100"
- },
- {
-  "id": 343,
-  "name": "Radisson Hotel Dakar Diamniadio",
-  "Address": "Rue des Gourmets, Gorée 10300, Senegal",
-  "phone": "+221777542828"
- },
- {
-  "id": 344,
-  "name": "La Rotonde",
-  "Address": "Toubab Dialaw Road, Toubab Dialao 15000, Senegal",
-  "phone": "+221775003449"
- },
- {
-  "id": 345,
-  "name": "Hôtel Restaurant Rio Teranga",
-  "Address": "Route De Toulab, Toubab Dialao 10000, Senegal",
-  "phone": "+221338360356"
- },
- {
-  "id": 346,
-  "name": "L'arc-en-ciel",
-  "Address": "JV72+85, Toubab Dialao, Senegal",
-  "phone": ""
- },
- {
-  "id": 347,
-  "name": "Begue Pokai HOTEL",
-  "Address": "a cote du centre De Conference International Abou, Prolongement A. à péage, Diamniadio 10200, Senegal",
-  "phone": "+221338792727"
- },
- {
-  "id": 348,
-  "name": "MINUTEVENTS GORÉE - Villa Charles",
-  "Address": "Siendou, Bargny Gouddau, Senegal",
-  "phone": "+221776345113"
- },
- {
-  "id": 349,
-  "name": "Sobo Bade",
-  "Address": "Toubab Dialao, Senegal",
-  "phone": ""
- },
- {
-  "id": 350,
-  "name": "Sobo Bade",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221774459061"
- },
- {
-  "id": 351,
-  "name": "Gite du Lac campement",
-  "Address": "Senegal, Toubab Dialao, Quartiere batay Chez Pape et Elena邮政编码: 30500",
-  "phone": "+221338361710"
- },
- {
-  "id": 352,
-  "name": "Les Cristaux Roses",
-  "Address": "Unnamed Road, Toubab Dialao, Senegal",
-  "phone": ""
- },
- {
-  "id": 353,
-  "name": "Hotel KEUR JOKKO",
-  "Address": "Lac rose, en face de la mer, Dakar 12500, Senegal",
-  "phone": "+221765713431"
- },
- {
-  "id": 354,
-  "name": "Complexe le QG",
-  "Address": "Cité SHS Golf Nord 91 Pikini Bougou SN, 15000, Senegal",
-  "phone": "+221775867154"
- },
- {
-  "id": 355,
-  "name": "Chez coumbis",
-  "Address": "Route de Toubab Dialaw, Toubab Dialaw 20000, Senegal",
-  "phone": "+221773656588"
- },
- {
-  "id": 356,
-  "name": "Chez ROTHIE Toubab dialaw",
-  "Address": "Piste blanche de Bambilor lac Rose BP 632, Niaga 25000, Senegal",
-  "phone": "63225000"
- },
- {
-  "id": 357,
-  "name": "Chez Eric",
-  "Address": "bateye TOUBAB DIALAW, Toubab Dialao 23002, Senegal",
-  "phone": "+221776506169"
- },
- {
-  "id": 358,
-  "name": "La Voile d'Or",
-  "Address": "90, Golf Nord 2, Dakar, Senegal",
-  "phone": "+221775867154"
- },
- {
-  "id": 359,
-  "name": "Chez ROTHIE Toubab dialaw",
-  "Address": "rue des arcades, Toubab Dialao, Senegal",
-  "phone": "+33675642464"
- },
- {
-  "id": 360,
-  "name": "Residence marie France Mendy",
-  "Address": "NIAGA, Niaga 21000, Senegal",
-  "phone": ""
- },
- {
-  "id": 361,
-  "name": "Etoile du Lac",
-  "Address": "Mamelles, Senegal",
-  "phone": "+221775563548"
- },
- {
-  "id": 362,
-  "name": "La Mimosa",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338225364"
- },
- {
-  "id": 363,
-  "name": "Chez Mimi",
-  "Address": "Lac Rose, Niaga, Senegal",
-  "phone": "+221778931656"
- },
- {
-  "id": 364,
-  "name": "Le Chamama",
-  "Address": "SN, 26 Rue GS 349, Dakar 15000, Senegal",
-  "phone": "2634915000"
- },
- {
-  "id": 365,
-  "name": "La Source Ndiambalane",
-  "Address": "Chemin de I'Hydrobase, Filderstadt 10898, Senegal",
-  "phone": "+221338322260"
- },
- {
-  "id": 366,
-  "name": "Paradialaw",
-  "Address": "Hann Mariste cité belle vue (Dalifort Forail), Hann-Bel Air, Senegal",
-  "phone": "+221763024381"
- },
- {
-  "id": 367,
-  "name": "Complexe Le QG (Quartier Général)",
-  "Address": "Rte de Toubab Dialaw, Yenne Tode 20000, Senegal",
-  "phone": "+221773478246"
- },
- {
-  "id": 368,
-  "name": "La Principauté Gorée",
-  "Address": "Toubab Dialao, Senegal",
-  "phone": ""
- },
- {
-  "id": 369,
-  "name": "DEKK JAMM",
-  "Address": "Rue Saint-Joseph, Dakar, Senegal",
-  "phone": "+221775454367"
- },
- {
-  "id": 370,
-  "name": "Maison Augustin Ly",
-  "Address": "Piste Bambilor-Lac Rose, Niaga, Senegal",
-  "phone": "+221784841088"
- },
- {
-  "id": 371,
-  "name": "Chez Medzo Et Patou",
-  "Address": "Route des Niayes Villa N°468, Guédiawaye Gibraltar II Prés centre sauvgarde, Dakar 12345, Senegal",
-  "phone": "46812345"
- },
- {
-  "id": 372,
-  "name": "Cité GADAYE",
-  "Address": "Sendou Cabanon, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 373,
-  "name": "Hôtels abdou Diouf 1",
-  "Address": "Lac Rose, Niaga 10000, Senegal",
-  "phone": "+221775229654"
- },
- {
-  "id": 374,
-  "name": "Sité sonatel",
-  "Address": "Rue des Donjons BP 17, Dakar, Senegal",
-  "phone": "+221772151185"
- },
- {
-  "id": 375,
-  "name": "SICAP mbao",
-  "Address": "Dakar rufisque lac rose Rufisque, 00221, Senegal",
-  "phone": "+221763050408"
- },
- {
-  "id": 376,
-  "name": "La maison orange mbao",
-  "Address": "Lac Rose, Dakar, Senegal, Niaga, Senegal",
-  "phone": "+221775990025"
- },
- {
-  "id": 377,
-  "name": "Niwa Oasis",
-  "Address": "Senegal, Gorée2 rue du port Goree, Dakar 2邮政编码: 10300",
-  "phone": "+221338420039"
- },
- {
-  "id": 378,
-  "name": "Le Petit Calao d'Abyssinie",
-  "Address": "Mas des cocotiers, Toubab Dialao, Senegal",
-  "phone": "+33613429784"
- },
- {
-  "id": 379,
-  "name": "Dakar Beach House",
-  "Address": "1 rue du port, Dakar, Senegal",
-  "phone": "+221338427709"
- },
- {
-  "id": 380,
-  "name": "Sipres Mbao",
-  "Address": "La Pierre de Lisse, Ndayane, BP 4 Popenguine, Sénégal, Senegal",
-  "phone": "+221339577148"
- },
- {
-  "id": 381,
-  "name": "Hôtel le Trarza",
-  "Address": "Ancienne école William PONTY, Rue du castel, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 382,
-  "name": "Charmante Villa",
-  "Address": "Angle épicerie tigo, Yene Toubab Dialaw 98800, Senegal",
-  "phone": "+687521049"
- },
- {
-  "id": 383,
-  "name": "The Enclosed Olive Trees",
-  "Address": "Rte de Toubab Dialaw, Toubab Dialao, Senegal",
-  "phone": ""
- },
- {
-  "id": 384,
-  "name": "Black white TOUBAB DIALAO",
-  "Address": "Piste Bambilor-Lac Rose boite, postal 512 rufisque, Niaga 25000, Senegal",
-  "phone": "+51225000"
- },
- {
-  "id": 385,
-  "name": "Iris Hotel",
-  "Address": "Route Rufisque-Niaga-Lac Rose, Sénégal, Senegal",
-  "phone": "+221776481678"
- },
- {
-  "id": 386,
-  "name": "Villa Castel",
-  "Address": "Niaga, Senegal",
-  "phone": "+221773009156"
- },
- {
-  "id": 387,
-  "name": "Hôtel Madou Gorée",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221778160145"
- },
- {
-  "id": 388,
-  "name": "La Pierre de Lisse",
-  "Address": "Rue à droite juste après le marché de Sendou Maison blanche à droite à la fin de la rue, Rufisque 30000, Senegal",
-  "phone": "+221338360973"
- },
- {
-  "id": 389,
-  "name": "Village Hotel Bassari",
-  "Address": "Sendou Village, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 390,
-  "name": "Hôtel municipal \"la porte du retour \"",
-  "Address": "Lac Rose, Niagues, Senegal",
-  "phone": "+221338362651"
- },
- {
-  "id": 391,
-  "name": "Oasis Niwa",
-  "Address": "Senegal, Niaga, LAC ROSE niague peul",
-  "phone": "+221775559447"
- },
- {
-  "id": 392,
-  "name": "Villa Les Cocotiers",
-  "Address": "zac, Rufisque, Senegal",
-  "phone": "+221776234601"
- },
- {
-  "id": 393,
-  "name": "Hotel le Ravin",
-  "Address": "Zac mbao, Dakar 12500, Senegal",
-  "phone": "+221766192087"
- },
- {
-  "id": 394,
-  "name": "Camping Le Nomade",
-  "Address": "Rue Blanchot, Rue de Malavois, Dakar, Senegal",
-  "phone": "+221761238180"
- },
- {
-  "id": 395,
-  "name": "Hotel Toolbi",
-  "Address": "ROUTE DE TOUBAB DIALAW DIRECTION DAGA / DIASS TOUBAB DIALAW, YENE 99000, Senegal",
-  "phone": "+221781231991"
- },
- {
-  "id": 396,
-  "name": "Villa Nawel",
-  "Address": "Cité Isra Hann Marinas, Hann-Bel Air, Senegal",
-  "phone": "+221777313941"
- },
- {
-  "id": 397,
-  "name": "VILLA ROKA",
-  "Address": "Lac rose, Niaga, Senegal",
-  "phone": "+221777940555"
- },
- {
-  "id": 398,
-  "name": "ASAO",
-  "Address": "Piste de Toubab Dialaw, Popenguine, Senegal",
-  "phone": "+221786009576"
- },
- {
-  "id": 399,
-  "name": "Manon des Sources",
-  "Address": "Cité Gadaye Billionaire, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 400,
-  "name": "Auberge Au Carrefour des Amis",
-  "Address": "Senegal, Toubab Dialao, toubab dialaw , prés de la gendarmerie en face école des sables Senegal",
-  "phone": ""
- },
- {
-  "id": 401,
-  "name": "Terre d'Afrique",
-  "Address": "Toubab dialaw SN, 00580, Senegal",
-  "phone": "+221775545554"
- },
- {
-  "id": 402,
-  "name": "Mamelle Chez Cissé",
-  "Address": "6 route de benoba, Niaga 17000, Senegal",
-  "phone": "+221708036161"
- },
- {
-  "id": 403,
-  "name": "Chevalier de Boufflers",
-  "Address": "Toubab Dialao, Senegal",
-  "phone": "+221338988779"
- },
- {
-  "id": 404,
-  "name": "Soleil D' Espoir",
-  "Address": "MJ82+QQ4 Rue saint Charles, Dakar 18251, Senegal",
-  "phone": "+221776464409"
- },
- {
-  "id": 405,
-  "name": "Quintal di Maria",
-  "Address": "Rue de la compagnie, Gorée 18522, Senegal",
-  "phone": "+221338211931"
- },
- {
-  "id": 406,
-  "name": "Le Chamama",
-  "Address": "Plage de Bel air, Dakar 99999, Senegal",
-  "phone": "+221338328648"
- },
- {
-  "id": 407,
-  "name": "AMETH HOUSE",
-  "Address": "Toubab Dialao, 00000, Senegal",
-  "phone": "+221774953854"
- },
- {
-  "id": 408,
-  "name": "Complexe keur Anta",
-  "Address": "Rte de Toubab Dialaw, Toubab Dialao, Senegal",
-  "phone": "+221775949871"
- },
- {
-  "id": 409,
-  "name": "Ma Petite Camargue",
-  "Address": "Rte de Toubab Dialaw, Toubab Dialao, Senegal",
-  "phone": "+221775949871"
- },
- {
-  "id": 410,
-  "name": "KEUR DOFIE",
-  "Address": "MJ82+QQ4 Rue saint Charles, Dakar 18251, Senegal",
-  "phone": "+221776464409"
- },
- {
-  "id": 411,
-  "name": "Safari hôtel",
-  "Address": "Lac rose, Niaga, Senegal",
-  "phone": "+221777940555"
- },
- {
-  "id": 412,
-  "name": "Coolitude",
-  "Address": "Toubab dialaw SN, 00580, Senegal",
-  "phone": "+221775545554"
- },
- {
-  "id": 413,
-  "name": "Suba Maison",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338361507"
- },
- {
-  "id": 414,
-  "name": "Quintal di Maria",
-  "Address": "lac rose en face des dunes, Niaga 99000, Senegal",
-  "phone": ""
- },
- {
-  "id": 415,
-  "name": "Chambre Toubab Dialaw",
-  "Address": "Rufisque Niague Lac Rose, Niaga 50555, Senegal",
-  "phone": "+221776340468"
- },
- {
-  "id": 416,
-  "name": "Lamp Fall Liguey",
-  "Address": "Rive nord du Lac Rose, Bonaba 00000, Senegal",
-  "phone": "+221774528344"
- },
- {
-  "id": 417,
-  "name": "diazakaland restaurant",
-  "Address": "rufisque keury kao immeuble diagne faye rue ousmane soce diop rufisque, 22000, Senegal",
-  "phone": "+221772403407"
- },
- {
-  "id": 418,
-  "name": "Restaurant Dibiterie Astou Fata",
-  "Address": "villa 3b, Rufisque cité Mtoa, Senegal",
-  "phone": ""
- },
- {
-  "id": 419,
-  "name": "Café Touba et Fondé",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 420,
-  "name": "Ma vie 2",
-  "Address": "00000, Rufisque 00000, Senegal",
-  "phone": "0000000000"
- },
- {
-  "id": 421,
-  "name": "Les délices de bousso ‍",
-  "Address": "DALAL DIAM, Rufisque 99000, Senegal",
-  "phone": "+221776700535"
- },
- {
-  "id": 422,
-  "name": "Kawly Chicken",
-  "Address": "106 cité serigne mansour sy Rufisque ouest, Rufisque, Senegal",
-  "phone": "+221765516235"
- },
- {
-  "id": 423,
-  "name": "Restaurant RIO TERANGA",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 424,
-  "name": "Chez tata fama",
-  "Address": "25000, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 425,
-  "name": "fast food chez AMA",
-  "Address": "Cité Les Manguiers, Rufisque, Senegal",
-  "phone": "+221773962390"
- },
- {
-  "id": 426,
-  "name": "FU çaafka services",
-  "Address": "Sante yalla, Rufisque, Senegal",
-  "phone": "+221775963680"
- },
- {
-  "id": 427,
-  "name": "Sam Peulh Restaurant Bar",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 428,
-  "name": "Fast Food Gazal",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 429,
-  "name": "Restaurant LMR",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221774528344"
- },
- {
-  "id": 430,
-  "name": "SDSF Rufisque Rond Point Santhiaba",
-  "Address": "N1, Pikine, Senegal",
-  "phone": ""
- },
- {
-  "id": 431,
-  "name": "Chez Noumou",
-  "Address": "Cité baobab 1, Dakar, Senegal",
-  "phone": "+221783230000"
- },
- {
-  "id": 432,
-  "name": "O' Bon Coin",
-  "Address": "Sonadiss près du service de l'etat civil a coté du garage de, Bargny Gouddau, Senegal",
-  "phone": "+221786062156"
- },
- {
-  "id": 433,
-  "name": "Djolof Chicken Rufisque Guendel 2",
-  "Address": "0000 Dakar Zac Mbao / Cité SAGEF sur les 2 voies prés du rond point CAPEC, 00000, Senegal",
-  "phone": "0000200000"
- },
- {
-  "id": 434,
-  "name": "Fast-food Adja Astou Seck",
-  "Address": "Jaxaay-Parcelle-Niakoul Rap, Senegal",
-  "phone": "+221338780948"
- },
- {
-  "id": 435,
-  "name": "7Even Crêperie",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 436,
-  "name": "Les délices de bousso ‍",
-  "Address": "cités assurance, Kounoune, Senegal",
-  "phone": ""
- },
- {
-  "id": 437,
-  "name": "C' Bb Éva",
-  "Address": "Dakar, Senegal",
-  "phone": "+221777428246"
- },
- {
-  "id": 438,
-  "name": "MAREMA FOOD",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338360512"
- },
- {
-  "id": 439,
-  "name": "Hurban food",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 440,
-  "name": "Mamy cheikh traiteur",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221774528926"
- },
- {
-  "id": 441,
-  "name": "Kawly Chicken",
-  "Address": "Route, Dakar, Senegal",
-  "phone": "+221338363675"
- },
- {
-  "id": 442,
-  "name": "Restaurant avec plaisir",
-  "Address": "Unnamed Road, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 443,
-  "name": "Chez tata fama",
-  "Address": "Rue Adama Lo, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 444,
-  "name": "Groupe G7",
-  "Address": "383, Rufisque, Senegal",
-  "phone": "+221338361648"
- },
- {
-  "id": 445,
-  "name": "Chez Noumou",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 446,
-  "name": "Yaye Marème ( Traiteur )",
-  "Address": "Cité SENEGUINDIA, Rufisque Dakar, 99000, Senegal",
-  "phone": "+221784614242"
- },
- {
-  "id": 447,
-  "name": "Little Heaven SN",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 448,
-  "name": "Urban Food",
-  "Address": "N1, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 449,
-  "name": "DIA-ÉN",
-  "Address": "cité tacko, Rufisque 10024, Senegal",
-  "phone": "+221779726819"
- },
- {
-  "id": 450,
-  "name": "Fast-food Amigo",
-  "Address": "733 Rue Ousmane Socé Diap, Dakar, Senegal",
-  "phone": "+221775207807"
- },
- {
-  "id": 451,
-  "name": "SDSF Rufisque Rond Point Santhiaba",
-  "Address": "Dakar, Senegal",
-  "phone": "+221772015578"
- },
- {
-  "id": 452,
-  "name": "Fany",
-  "Address": "nouvel horizon, Ndiakhirate en face, Rufisque, Senegal",
-  "phone": "+221778862828"
- },
- {
-  "id": 453,
-  "name": "Urban Food Pizzeria",
-  "Address": "Rte Bambilor-Rufisque, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 454,
-  "name": "Hotel KEUR JOKKO",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221338377076"
- },
- {
-  "id": 455,
-  "name": "dakar zac mbao brioche dorée",
-  "Address": "958, N1, Dakar, Senegal",
-  "phone": "+221786038278"
- },
- {
-  "id": 456,
-  "name": "Grain de d’or",
-  "Address": "Rue Ousmane Socé Diap, Dakar, Senegal",
-  "phone": "+221707521651"
- },
- {
-  "id": 457,
-  "name": "Restaurant traiteur La Gondole",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221773090000"
- },
- {
-  "id": 458,
-  "name": "DaVinci Restaurant Lounge Bar",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 459,
-  "name": "Restaurant Asmaou",
-  "Address": "Dakar, Senegal",
-  "phone": "+221770200000"
- },
- {
-  "id": 460,
-  "name": "Boulangerie P.R Au PRESTIGE",
-  "Address": "Unnamed Road, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 461,
-  "name": "Fast Food Sope Linding",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221778346363"
- },
- {
-  "id": 462,
-  "name": "Poulet de chair \u0026 oeufs au Sénégal",
-  "Address": "Unnamed Road, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 463,
-  "name": "Sen Dibi Haoussa",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338361507"
- },
- {
-  "id": 464,
-  "name": "Chez Astou",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 465,
-  "name": "Restaurant",
-  "Address": "Rue Ousmane Socé Diap, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 466,
-  "name": "Brioche dorée Sedima",
-  "Address": "Zac, Rufisque, Senegal",
-  "phone": "+221786334964"
- },
- {
-  "id": 467,
-  "name": "Restaurant,fast-Food,Dibiterie_Camara Camara",
-  "Address": "Lot no 27, Zac Mbao, Rufisque 11322, Senegal",
-  "phone": "+221772552222"
- },
- {
-  "id": 468,
-  "name": "Chez Bada Restaurant",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221338701042"
- },
- {
-  "id": 469,
-  "name": "Mbine-Agro",
-  "Address": "DALAL DIAM, Rufisque 99000, Senegal",
-  "phone": "+221776700535"
- },
- {
-  "id": 470,
-  "name": "La Rose",
-  "Address": "Gare ferroviaire de Rufisque, Dakar, Senegal",
-  "phone": "+221772065401"
- },
- {
-  "id": 471,
-  "name": "LES 3S Chez Libasse",
-  "Address": "Unnamed Road, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 472,
-  "name": "Sope Serigne Babacar",
-  "Address": "Gare Routière, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 473,
-  "name": "Complexe Okay",
-  "Address": "Socabeg Rond point clinique Naby, Rufisque 10000, Senegal",
-  "phone": "+221773872058"
- },
- {
-  "id": 474,
-  "name": "Restaurant Patisserie Traiteur",
-  "Address": "Senegal, dakar, zac mbao, Rufisque, Senegal",
-  "phone": "+221775062685"
- },
- {
-  "id": 475,
-  "name": "ALADJI",
-  "Address": "Marché Central de Rufisque, Dakar, Senegal",
-  "phone": "+221775076270"
- },
- {
-  "id": 476,
-  "name": "CAFE DU PÔLE",
-  "Address": "près terrain HLM, Rufisque, Senegal",
-  "phone": "+221773860730"
- },
- {
-  "id": 477,
-  "name": "Restaurant de la société ECOTRA SA",
-  "Address": "Unnamed Road, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 478,
-  "name": "Au Prestige Restaurant",
-  "Address": "villa 3b, Rufisque cité Mtoa, Senegal",
-  "phone": ""
- },
- {
-  "id": 479,
-  "name": "The oustal of The Agen",
-  "Address": "Sonadis, N1, Dakar, Senegal",
-  "phone": "+221765441635"
- },
- {
-  "id": 480,
-  "name": "Keur Yacine",
-  "Address": "Cité Les Manguiers, Rufisque, Senegal",
-  "phone": "+221773962390"
- },
- {
-  "id": 481,
-  "name": "Justin. Assobénile Sambou",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 482,
-  "name": "Resto Yasmina Chez Mamy",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 483,
-  "name": "Restaurant Royal Mbao",
-  "Address": "Cité tacko, Rufisque, Senegal",
-  "phone": "+221773486089"
- },
- {
-  "id": 484,
-  "name": "Les Flamboyant",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 485,
-  "name": "Brioche Dorée Zac Mbao",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 486,
-  "name": "Cités assurance",
-  "Address": "Sante yalla, Rufisque, Senegal",
-  "phone": "+221775963680"
- },
- {
-  "id": 487,
-  "name": "Nathalie madeleine Faye",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221783800620"
- },
- {
-  "id": 488,
-  "name": "Al Baraka Fast-food-Dibiterie",
-  "Address": "Rufisque, Senegal",
-  "phone": "+221773889864"
- },
- {
-  "id": 489,
-  "name": "Fast Food Baobab City",
-  "Address": "neant, Rufisque, Senegal",
-  "phone": "+221771662098"
- },
- {
-  "id": 490,
-  "name": "Boulangerie pâtisserie les baobabs",
-  "Address": "Gare ferroviaire de Rufisque, Dakar, Senegal",
-  "phone": "+221772065401"
- },
- {
-  "id": 491,
-  "name": "Agence Jumia Rufisque Rue Thionk. Garage bargny Face du restaurant le Gandiol",
-  "Address": "Ancienne Route des Entrepôts Layousse X Keur Diop Bukki Rufisque, 25000, Senegal",
-  "phone": ""
- },
- {
-  "id": 492,
-  "name": "Côté Plage",
-  "Address": "Sonadis, N1, Dakar, Senegal",
-  "phone": "+221765441635"
- },
- {
-  "id": 493,
-  "name": "Djolof Chicken Keur Massar",
-  "Address": "Centre commercial gare ferroviaire Rufisque, 20000, Senegal",
-  "phone": "+221785939797"
- },
- {
-  "id": 494,
-  "name": "Contanne continué chez Jacob",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 495,
-  "name": "Thierno Diop",
-  "Address": "12 Rue Pascal, Rufisque, Senegal",
-  "phone": "+221774269156"
- },
- {
-  "id": 496,
-  "name": "Ado Délice",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 497,
-  "name": "CNFA Rufisque",
-  "Address": "Dakar, Senegal",
-  "phone": "+221776333883"
- },
- {
-  "id": 498,
-  "name": "Business Center Senegalsoft",
-  "Address": "quartier Arafat 2, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 499,
-  "name": "Arass Business Center",
-  "Address": "N°11 B, Rue 3, Dakar, Senegal",
-  "phone": "+221770806555"
- },
- {
-  "id": 500,
-  "name": "Rio Scout Shop",
-  "Address": "Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 501,
-  "name": "Sea Plaza",
-  "Address": "Unnamed Road, Rufisque, Senegal",
-  "phone": ""
- },
- {
-  "id": 502,
-  "name": "Sidy ba",
-  "Address": "N1, Dakar, Senegal",
-  "phone": "+221774036302"
- },
- {
-  "id": 503,
-  "name": "Salim shop center",
-  "Address": "Unnamed Road, Dakar, Senegal",
-  "phone": "+221776309182"
- },
- {
-  "id": 504,
-  "name": "EMJ",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338598962"
- },
- {
-  "id": 505,
-  "name": "Dakar City Mall",
-  "Address": "Rte de Rufisque, Dakar, Senegal",
-  "phone": "+221338391200"
- },
- {
-  "id": 506,
-  "name": "Centre d'appel way2call",
-  "Address": "Dakar, Senegal",
-  "phone": "+221784959239"
- },
- {
-  "id": 507,
-  "name": "World Business",
-  "Address": "Dakar, Senegal",
-  "phone": "+221763403944"
- },
- {
-  "id": 508,
-  "name": "Centre commercial Kermel",
-  "Address": "Rte du Front de Terre, Dakar 11000, Senegal",
-  "phone": "+221774606794"
- },
- {
-  "id": 509,
-  "name": "Centre Commercial Du Port",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338496549"
- },
- {
-  "id": 510,
-  "name": "Centre commercial Malick Sy",
-  "Address": "route de rufisque km 3, Dakar, Senegal",
-  "phone": "+221338598090"
- },
- {
-  "id": 511,
-  "name": "CITY SPORT: PONTY",
-  "Address": "Unnamed Road, Pikine, Senegal",
-  "phone": ""
- },
- {
-  "id": 512,
-  "name": "Lodia shop",
-  "Address": "Immeuble Meroue, 3 Av. G. Pompidou, Dakar, Senegal",
-  "phone": "+221338429835"
- },
- {
-  "id": 513,
-  "name": "El Malick",
-  "Address": "Liberté 6 extension - Route du Camp Pénal Numéro 17 magasin 3, Dakar, Senegal",
-  "phone": "+221770588531"
- },
- {
-  "id": 514,
-  "name": "Super marché carrefour saly",
-  "Address": "Dakar, Senegal",
-  "phone": "+221786339653"
- },
- {
-  "id": 515,
-  "name": "Chez Billy Fat-Fat (Fast Agency of Trafic)",
-  "Address": "Avenue Place 116, Dakar, Senegal",
-  "phone": "+221775369397"
- },
- {
-  "id": 516,
-  "name": "SuñuPlaza",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 517,
-  "name": "ccbm electronics",
-  "Address": "Rue Dagorne, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 518,
-  "name": "Spa Beauté dakar",
-  "Address": "Cité Douane Golf Sud Océan, Dakar, Senegal",
-  "phone": "+221753331326"
- },
- {
-  "id": 519,
-  "name": "Les Niayes Sarraut km2.5",
-  "Address": "Allees Seydou Nourou Tall, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 520,
-  "name": "hizbut tarqiyyah rufisque",
-  "Address": "Dakar, Senegal",
-  "phone": "+221774567771"
- },
- {
-  "id": 521,
-  "name": "Datacenter Sonatel Group",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 522,
-  "name": "Senfournitures.com",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 523,
-  "name": "IFAN Historical Museum",
-  "Address": "Dakar, Senegal",
-  "phone": "+22376023855"
- },
- {
-  "id": 524,
-  "name": "Bandia Reserve",
-  "Address": "Dakar, Senegal",
-  "phone": "+221776493824"
- },
- {
-  "id": 525,
-  "name": "The Museum of Black Civilisations",
-  "Address": "Dakar, Senegal",
-  "phone": "+221771221099"
- },
- {
-  "id": 526,
-  "name": "Hann Zoological Park",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338310101"
- },
- {
-  "id": 527,
-  "name": "Village Des Arts",
-  "Address": "Somone, Senegal",
-  "phone": "+221781629978"
- },
- {
-  "id": 528,
-  "name": "Lagune de la Somone",
-  "Address": "Rue Place 18, Dakar, Senegal",
-  "phone": "+221338239268"
- },
- {
-  "id": 529,
-  "name": "Mosque of the Divinity",
-  "Address": "Sindia, Senegal",
-  "phone": "+221775565927"
- },
- {
-  "id": 530,
-  "name": "Protected area In Fadiouth",
-  "Address": "Résidence cristallines, Saly 23002, Senegal",
-  "phone": "+221776930092"
- },
- {
-  "id": 531,
-  "name": "Loman Art House - Art Gallery",
-  "Address": "Rue HLM 13, Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 532,
-  "name": "Henriette-Bathily Women's Museum",
-  "Address": "Av. de la Lagune, Somone, Senegal",
-  "phone": "+221783366472"
- },
- {
-  "id": 533,
-  "name": "Ile de Ngor",
-  "Address": "Mbour, Senegal",
-  "phone": ""
- },
- {
-  "id": 534,
-  "name": "Dakarnave",
-  "Address": "Rue du castel, Dakar, Senegal",
-  "phone": "+221760226295"
- },
- {
-  "id": 535,
-  "name": "Popenguine",
-  "Address": "Immeuble Keur Diaba, rue 81 (ancienne route de la Météo), Mermoz Pyrotechnique, Senegal",
-  "phone": "+221338684530"
- },
- {
-  "id": 536,
-  "name": "Khadim guide Sénégal",
-  "Address": "Rond point Diakhao, M'bour, Senegal",
-  "phone": "+221339397272"
- },
- {
-  "id": 537,
-  "name": "Bandia",
-  "Address": "villa no. 1 rue de pharmacy Atlantic Mamelles Dakar, 12500, Senegal",
-  "phone": "+221778481579"
- },
- {
-  "id": 538,
-  "name": "Do",
-  "Address": "Mamelles, Rte de l'Aeroport, Dakar, Senegal",
-  "phone": "+221773437272"
- },
- {
-  "id": 539,
-  "name": "Toubab Dialao",
-  "Address": "Dakar, Senegal",
-  "phone": ""
- },
- {
-  "id": 540,
-  "name": "Joal Fadiout",
-  "Address": "75 Boulevard de la République, Dakar, Senegal",
-  "phone": "+221338232467"
- },
- {
-  "id": 541,
-  "name": "Diakhao",
-  "Address": "Av. Malick Sy, Dakar, Senegal",
-  "phone": "+201221268200"
- },
- {
-  "id": 542,
-  "name": "Kaolack",
-  "Address": "Unnamed Road, Joal Fadiouth, Joal Fadiouth, Senegal",
-  "phone": "+221773992233"
- },
- {
-  "id": 543,
-  "name": "Africa Protravel",
-  "Address": "89 rue Joseph Gomis, Dakar, Senegal",
-  "phone": "+221338230320"
- },
- {
-  "id": 544,
-  "name": "Richard Toll",
-  "Address": "Niodior, Senegal",
-  "phone": ""
- },
- {
-  "id": 545,
-  "name": "Point Relais JUMIA - Kaolack",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221339419360"
- },
- {
-  "id": 546,
-  "name": "Le Relais Hotel",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221339418464"
- },
- {
-  "id": 547,
-  "name": "Adjana Hotel",
-  "Address": "745 N1, Kaolack, Senegal",
-  "phone": "+221777008807"
- },
- {
-  "id": 548,
-  "name": "Auberge l'étape",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221338653636"
- },
- {
-  "id": 549,
-  "name": "DJOLLOFF INN",
-  "Address": "Shell, Garage Nioro, station Shell située en face du stade de Kaolack (Station, Kaolack, Senegal",
-  "phone": "+221779463147"
- },
- {
-  "id": 550,
-  "name": "Auberge Le Baobab",
-  "Address": "Passi, Senegal",
-  "phone": "+221339485040"
- },
- {
-  "id": 551,
-  "name": "Etoile du Sine",
-  "Address": "Avenue Cheikh Ibra Fall, Kaolack, Senegal",
-  "phone": "+221775777777"
- },
- {
-  "id": 552,
-  "name": "Résidence les jardins",
-  "Address": "Rue Galliene, Kaolack, Senegal",
-  "phone": "+221777476996"
- },
- {
-  "id": 553,
-  "name": "Ô Coeur De Passy",
-  "Address": "4XW2+8F8 route de Kahone, Kaolack, Senegal",
-  "phone": "+221339384290"
- },
- {
-  "id": 554,
-  "name": "Motel De La Paix",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 555,
-  "name": "Chez Ousmane Ndong Diouf",
-  "Address": "136, Cité KEBE, Kaolack, Senegal",
-  "phone": "+221776131245"
- },
- {
-  "id": 556,
-  "name": "Restaurant Blue Bird",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 557,
-  "name": "Le Brasero Chez Anouar",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 558,
-  "name": "Le Farisse",
-  "Address": "nationale 1, Kaolack, Senegal",
-  "phone": "+221339419800"
- },
- {
-  "id": 559,
-  "name": "La Kaolackoise Restaurant Traiteur",
-  "Address": "Ave Delois, Kaolack, Senegal",
-  "phone": "+221779941360"
- },
- {
-  "id": 560,
-  "name": "Saveurs Roses",
-  "Address": "Route Mbour - Fatick, Kaolack, Senegal",
-  "phone": "+221339411212"
- },
- {
-  "id": 561,
-  "name": "Restaurant Sun Saloum",
-  "Address": "868 Rue Marechal Bugeau, Kaolack, Senegal",
-  "phone": "+221776596526"
- },
- {
-  "id": 562,
-  "name": "Bouvette Khadim kaolack",
-  "Address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 563,
-  "name": "Restaurant LA PALASSE",
-  "Address": "Ave Cheikh Ibra Fall, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 564,
-  "name": "Dibiterie cheikh Fall",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 565,
-  "name": "RESTAURANT MANCHALLAH",
-  "Address": "Restaurant Chez Maty - Quartier Leona - Centre-ville, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 566,
-  "name": "La Fontaine",
-  "Address": "N1, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 567,
-  "name": "Restaurant La Lumiere Keur Serigne Saliou Mbacke Chez Coui",
-  "Address": "Keur khoussen Keur khoussen Keur khoussen, Kaolack, Senegal",
-  "phone": "+221339417000"
- },
- {
-  "id": 568,
-  "name": "Kuyito",
-  "Address": "Diourbel Road, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 569,
-  "name": "Macha ALLAH",
-  "Address": "Av. Basile Senghore, Kaolack, Senegal",
-  "phone": "+221771917474"
- },
- {
-  "id": 570,
-  "name": "Djolof Chicken Kaolack",
-  "Address": "Diourbel Road, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 571,
-  "name": "Bakery",
-  "Address": "Diourbel Road, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 572,
-  "name": "Dibiterie Fall Yaram",
-  "Address": "Darou, Rahmaty, Kaolack, Senegal",
-  "phone": "+221779255555"
- },
- {
-  "id": 573,
-  "name": "Fast Food Amithie Chez Madame Sarr",
-  "Address": "1138 Trans-Gambia Hwy, Kaolack, Senegal",
-  "phone": "+221765503326"
- },
- {
-  "id": 574,
-  "name": "Pizzeria",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221775550330"
- },
- {
-  "id": 575,
-  "name": "Restaurant Chez Maman Dara",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 576,
-  "name": "Dibiterie lamb toucouleur",
-  "Address": "Kasnack ABC, Kaolack, Senegal",
-  "phone": "+221784261946"
- },
- {
-  "id": 577,
-  "name": "Sope Serigne Fallou",
-  "Address": "Diourbel Road, Kaolack, Senegal",
-  "phone": "+221339413028"
- },
- {
-  "id": 578,
-  "name": "Restaurant Le Taif",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 579,
-  "name": "Restaurant Chawarma Fast Food Chez.Fa",
-  "Address": "402, Kaolack, Senegal",
-  "phone": "+221775550303"
- },
- {
-  "id": 580,
-  "name": "bar chez maman treze",
-  "Address": "Kaolack 24000, Senegal",
-  "phone": "+221772728401"
- },
- {
-  "id": 581,
-  "name": "Restaurant Teranga",
-  "Address": "Diourbel Road, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 582,
-  "name": "Keur Mame Khady Resto",
-  "Address": "520 N1, Kaolack, Senegal",
-  "phone": "+221776943671"
- },
- {
-  "id": 583,
-  "name": "MAMAN BAMBY FOOD (MBF)",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 584,
-  "name": "Restaurant la Détente Kaolack",
-  "Address": "N 1, Kaolack, Senegal",
-  "phone": "+221339411608"
- },
- {
-  "id": 585,
-  "name": "SDF",
-  "Address": "1004 N1, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 586,
-  "name": "Rolex",
-  "Address": "Unnamed Road, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 587,
-  "name": "TROPICAL",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 588,
-  "name": "boulangerie serigne touba",
-  "Address": "Ave Cheikh Ibra Fall, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 589,
-  "name": "Grillsteph",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221776164126"
- },
- {
-  "id": 590,
-  "name": "Restaurant la Détente",
-  "Address": "Rue de la Gare, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 591,
-  "name": "Residence Hilton (Léona Kik)",
-  "Address": "Diourbel Road, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 592,
-  "name": "Depot Jai Laxmi",
-  "Address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 593,
-  "name": "Al Khaïry",
-  "Address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 594,
-  "name": "Sen Teranga Fast Food",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 595,
-  "name": "Chez Ndeye Touty",
-  "Address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 596,
-  "name": "Restaurant Serigne Bassirou",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221339412121"
- },
- {
-  "id": 597,
-  "name": "Restaurant Chez Ouley",
-  "Address": "Restaurant Chez Maty - Quartier Leona, Kaolack, Senegal",
-  "phone": "+221339416486"
- },
- {
-  "id": 598,
-  "name": "Resto Fast Food Senegale - Malien",
-  "Address": "N 1, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 599,
-  "name": "Jontado Kaolack 1",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 600,
-  "name": "EDK Oil Kaolack",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221339417001"
- },
- {
-  "id": 601,
-  "name": "Ametg",
-  "Address": "520 N1, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 602,
-  "name": "Auberge Baobab Restaurant",
-  "Address": "Ave Cheikh Ibra Fall, Kaolack, Senegal",
-  "phone": "+221771426327"
- },
- {
-  "id": 603,
-  "name": "Coeur de ville",
-  "Address": "cimetière des musulmans (quartier Dialégne), Kaolack 24000, Senegal",
-  "phone": "+221763531446"
- },
- {
-  "id": 604,
-  "name": "AMC Business Center",
-  "Address": "Carrefour Transgambien, Pont Noirot, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 605,
-  "name": "C3S KAOLACK",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221775201046"
- },
- {
-  "id": 606,
-  "name": "Ciss Plaza",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221339411141"
- },
- {
-  "id": 607,
-  "name": "Marché Central de Médina Baye Niass",
-  "Address": "Leona, Senegal",
-  "phone": ""
- },
- {
-  "id": 608,
-  "name": "Epicerie De France Avenue John Kenrdy",
-  "Address": "Iboudjiba77@gmail.com, Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 609,
-  "name": "Marché central de Kaolack",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 610,
-  "name": "Gsm Business Center",
-  "Address": "Kaolack, Senegal",
-  "phone": ""
- },
- {
-  "id": 611,
-  "name": "Marché bou ndaw",
-  "Address": "Ave Delois, Kaolack, Senegal",
-  "phone": "+221774519692"
- },
- {
-  "id": 612,
-  "name": "Boulangerie de Ngane Saër",
-  "Address": "Kaolack, Senegal",
-  "phone": "+221779888229"
- },
- {
-  "id": 613,
-  "name": "Fathala",
-  "Address": "Toubakouta, Senegal",
-  "phone": "+221773294297"
- },
- {
-  "id": 614,
-  "name": "Kaolack Region",
-  "Address": "Niodior, Senegal",
-  "phone": ""
- },
- {
-  "id": 615,
-  "name": "Kaolack",
-  "Address": "4XW2+8F8 route de Kahone, Kaolack, Senegal",
-  "phone": "+221339384290"
- },
- {
-  "id": 616,
-  "name": "Hann Zoological Park",
-  "Address": "Unnamed Road, Joal Fadiouth, Joal Fadiouth, Senegal",
-  "phone": "+221773992233"
- },
- {
-  "id": 617,
-  "name": "Protected area In Fadiouth",
-  "Address": "Somone, Senegal",
-  "phone": "+221781629978"
- },
- {
-  "id": 618,
-  "name": "Lagune de la Somone",
-  "Address": "Sindia, Senegal",
-  "phone": "+221775565927"
- },
- {
-  "id": 619,
-  "name": "Adjana Hotel",
-  "Address": "Dakar, Senegal",
-  "phone": "+221338310101"
- },
- {
-  "id": 620,
-  "name": "Faidherbe Bridge",
-  "Address": "Fathala Wildlife Reserve Karang, 24020, Senegal",
-  "phone": "+221773294297"
- },
- {
-  "id": 621,
-  "name": "Fathala Wildlife Reserve - Safari Senegal Accommodation",
-  "Address": "Rue Galliene, Kaolack, Senegal",
-  "phone": "+221777476996"
- },
- {
-  "id": 622,
-  "name": "Saloum Delta",
-  "Address": "lot 224 kasnack, Kaolack, Senegal",
-  "phone": "+221774944374"
- },
- {
-  "id": 623,
-  "name": "Pakarang Cape",
-  "Address": "89 rue Joseph Gomis, Dakar, Senegal",
-  "phone": "+221338230320"
- },
- {
-  "id": 624,
-  "name": "Les Aventuriers du Saloum",
-  "Address": "2FGX+8F8 Pont Faidherbe, St Louis, Senegal",
-  "phone": "+221773149686"
- }
+  {
+    "id": 1,
+    "name": "Hotel Lagon",
+    "address": "Rte de la Corniche Estate, Dakar, Senegal",
+    "phone": "+221338892525"
+  },
+  {
+    "id": 2,
+    "name": "ibis Dakar",
+    "address": "Rte de la Corniche O, Dakar 16868, Senegal",
+    "phone": "+221338693333"
+  },
+  {
+    "id": 3,
+    "name": "Radisson Blu Hotel, Dakar Sea Plaza",
+    "address": "Bp 2073, 2073 Av. Abdoulaye Fadiga, Dakar 18524, Senegal",
+    "phone": "2073207318524"
+  },
+  {
+    "id": 4,
+    "name": "Pullman Dakar Teranga",
+    "address": "Av. Abdoulaye Fadiga, Dakar 18524, Senegal",
+    "phone": "+221338295959"
+  },
+  {
+    "id": 5,
+    "name": "Hotel Terrou-Bi",
+    "address": "27 Rue YF 109, Dakar 99000, Senegal",
+    "phone": "2710999000"
+  },
+  {
+    "id": 6,
+    "name": "Novotel Dakar",
+    "address": "Place de l'Independance, 10 Rue PL 29, Dakar 10200, Senegal",
+    "phone": "102910200"
+  },
+  {
+    "id": 7,
+    "name": "King Fahd Palace Hotel",
+    "address": "Rte des Almadies, Dakar 16144, Senegal",
+    "phone": "+221338590700"
+  },
+  {
+    "id": 8,
+    "name": "Yaas Hotel Dakar Almadies",
+    "address": "Boulevard Martin Luther King Dakar, 11500, Senegal",
+    "phone": "+221338399039"
+  },
+  {
+    "id": 9,
+    "name": "Hotel Jardin Savana Dakar",
+    "address": "Corniche Est Dakar Plateau, Dakar, Senegal",
+    "phone": "+221338494242"
+  },
+  {
+    "id": 10,
+    "name": "Nyéléni maison sahel",
+    "address": "Rte des Almadies, Dakar, Senegal",
+    "phone": "+221338696969"
+  },
+  {
+    "id": 11,
+    "name": "Hôtel ganalé",
+    "address": "Villa 275, A Cité, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 12,
+    "name": "BOMA Lifestyle Hotel",
+    "address": "179 Rue GT 66, Dakar, Senegal",
+    "phone": "+245955474054"
+  },
+  {
+    "id": 13,
+    "name": "L'Adresse",
+    "address": "04 Av. Cheikh Anta Diop, Dakar 12500, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 14,
+    "name": "Hotel Lagon",
+    "address": "Plage 2, Villa Keur Bibou, Dakar, Senegal",
+    "phone": "+33688072230"
+  },
+  {
+    "id": 15,
+    "name": "Hôtel Fleur de Lys Point E",
+    "address": "17, Yoff Virage Dakar, 12000, Senegal",
+    "phone": "+221772683161"
+  },
+  {
+    "id": 16,
+    "name": "ONOMO Hotel Dakar",
+    "address": "lot 58, NGOR 12000, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 17,
+    "name": "Illiyin Boutique Hôtel",
+    "address": "Cité Djily Mbaye SN, 00221, Senegal",
+    "phone": "+221779233723"
+  },
+  {
+    "id": 18,
+    "name": "Le Djoloff",
+    "address": "Dakar, Senegal",
+    "phone": "+221781063434"
+  },
+  {
+    "id": 19,
+    "name": "International VDN Hotel Dakar",
+    "address": "SN, 9 Rue de Thann, Dakar 10000, Senegal",
+    "phone": "+221338222044"
+  },
+  {
+    "id": 20,
+    "name": "Auberge Keur Diame",
+    "address": "First Concept, Rue LIB 12, Dakar, Senegal",
+    "phone": "+221338674996"
+  },
+  {
+    "id": 21,
+    "name": "Hôtel Fleur de Lys Plateau",
+    "address": "Rue Ziguinchor (ex Bd du Sud) , Villa n°7, Dakar, Senegal",
+    "phone": "+221338642264"
+  },
+  {
+    "id": 22,
+    "name": "Rysara Hotel",
+    "address": "Villa N°6 Rue GM 09, Dakar 28813, Senegal",
+    "phone": "60928813"
+  },
+  {
+    "id": 23,
+    "name": "ONOMO Hotel Dakar",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 24,
+    "name": "Hôtel-Restaurant Saint-Louis Sun DAKAR",
+    "address": "Dakar, Senegal",
+    "phone": "+221338678707"
+  },
+  {
+    "id": 25,
+    "name": "Hôtel ganalé",
+    "address": "Dakar, Senegal",
+    "phone": "+221774181705"
+  },
+  {
+    "id": 26,
+    "name": "Résidences Mamoune",
+    "address": "17 Rue Malenfant, Dakar, Senegal",
+    "phone": "+221777247104"
+  },
+  {
+    "id": 27,
+    "name": "HOTEL DES ALMADIES",
+    "address": "CSE, 3, yoff 11500, Senegal",
+    "phone": "+221779141294"
+  },
+  {
+    "id": 28,
+    "name": "Hôtel Al Afifa",
+    "address": "Rue YF 09, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 29,
+    "name": "Hôtel Fleur de Lys Point E",
+    "address": "Rte de l'Aeroport, Dakar, Senegal",
+    "phone": "+221338355691"
+  },
+  {
+    "id": 30,
+    "name": "Hotel Archotel",
+    "address": "rte du corps de la paix zone 7 Almadies Dakar, 12500, Senegal",
+    "phone": "+221770998733"
+  },
+  {
+    "id": 31,
+    "name": "Dakar International House",
+    "address": "Yoff - Cité Biagui Dakar, 12000, Senegal",
+    "phone": "+221776861453"
+  },
+  {
+    "id": 32,
+    "name": "Le Lodge des Almadies",
+    "address": "22-B Mamelles Aviation Ouakam, Dakar 17500, Senegal",
+    "phone": "+221777585408"
+  },
+  {
+    "id": 33,
+    "name": "Hotel du Phare Les Mamelles",
+    "address": "Cité Djily Mbaye, Diamalaye 1, Yoff, Senegal",
+    "phone": "+221773789549"
+  },
+  {
+    "id": 34,
+    "name": "Fleur de Lys",
+    "address": "Cité Siprès 2, Dakar, Senegal",
+    "phone": "+221773757272"
+  },
+  {
+    "id": 35,
+    "name": "Hôtel du Plateau",
+    "address": "MJ82+QQ4 Rue saint Charles, Dakar 18251, Senegal",
+    "phone": "+221776464409"
+  },
+  {
+    "id": 36,
+    "name": "Days Hotel \u0026 Suites Dakar",
+    "address": "PHPC+QQ2 lot F/44, Dakar, Senegal",
+    "phone": "+221777217421"
+  },
+  {
+    "id": 37,
+    "name": "Axil Hôtel",
+    "address": "Cité Keur Gorgui, MERMOZ PYROTECH N96, Dakar 11000, Senegal",
+    "phone": "+221775917676"
+  },
+  {
+    "id": 38,
+    "name": "Hôtel Ngor Diarama",
+    "address": "Cité Djily Mbaye, Diamalaye 1, Yoff, Senegal",
+    "phone": "+221773789549"
+  },
+  {
+    "id": 39,
+    "name": "Le Ndiambour - Hôtel et Résidence Dakar Senegal",
+    "address": "Almadies, Stade de l'Olympique de Ngor, Enface de, Dakar, Senegal",
+    "phone": "+221773941590"
+  },
+  {
+    "id": 40,
+    "name": "Jade Guest house",
+    "address": "villa 448 Yoff Apecsy 2 DAKAR, YOFF 10000, Senegal",
+    "phone": "448210000"
+  },
+  {
+    "id": 41,
+    "name": "HOTEL COLONIA",
+    "address": "Rue Woro, Dakar, Senegal",
+    "phone": "+221771059217"
+  },
+  {
+    "id": 42,
+    "name": "Iris Hotel Ressort Space et Resort",
+    "address": "GOREE PONTY, Gorée, Dakar 11111, Senegal",
+    "phone": "+221338420032"
+  },
+  {
+    "id": 43,
+    "name": "RÉSIDENCE HÔTELIÈRE DU MILLENAIRE",
+    "address": "9116, Dakar 11000, Senegal",
+    "phone": "911611000"
+  },
+  {
+    "id": 44,
+    "name": "La Voile d'Or",
+    "address": "Rue Blanchot, Rue de Malavois, Dakar, Senegal",
+    "phone": "+221761238180"
+  },
+  {
+    "id": 45,
+    "name": "Cafe de Rome",
+    "address": "Rte des Maristes, Dakar 10500, Senegal",
+    "phone": "+221783079494"
+  },
+  {
+    "id": 46,
+    "name": "Hotel Al Baraka",
+    "address": "Rue NG 227 Ngor Virage Derriere Chez Djilly Mbaye Ngor SN dakar, 10200, Senegal",
+    "phone": "22710200"
+  },
+  {
+    "id": 47,
+    "name": "Résidence Les Maristes",
+    "address": "Plage N°2, Ile de Ngor, Senegal",
+    "phone": "+221772653166"
+  },
+  {
+    "id": 48,
+    "name": "La Maison Abaka",
+    "address": "Rte Ngor Village, Dakar 18888, Senegal",
+    "phone": "+221771915017"
+  },
+  {
+    "id": 49,
+    "name": "JPAD",
+    "address": "Rte Ngor Village, Dakar 18888, Senegal",
+    "phone": "+221771915017"
+  },
+  {
+    "id": 50,
+    "name": "Villa Mermoz",
+    "address": "Lotissement A, Rte des Almadies, Dakar, Senegal",
+    "phone": "+221338201820"
+  },
+  {
+    "id": 51,
+    "name": "La Maison de Celine",
+    "address": "Sotrac Mermoz Villa 87c, MZ 165, Dakar, Senegal",
+    "phone": "+221338650800"
+  },
+  {
+    "id": 52,
+    "name": "O'Panoramic Maison d’Hôte Restaurant",
+    "address": "Dakar, Senegal",
+    "phone": "+221338682908"
+  },
+  {
+    "id": 53,
+    "name": "Le Littoral des Almadies",
+    "address": "SN, Rte Ngor Village, Dakar 15100, Senegal",
+    "phone": "+221785844019"
+  },
+  {
+    "id": 54,
+    "name": "Maam Samba",
+    "address": "43 Rue Dr. Theze, Dakar, Senegal",
+    "phone": "+221338890120"
+  },
+  {
+    "id": 55,
+    "name": "O'Panoramic Maison d’Hôte Restaurant",
+    "address": "Plage de N’Gor, Dakar 29662, Senegal",
+    "phone": "+221338206486"
+  },
+  {
+    "id": 56,
+    "name": "Maam Samba",
+    "address": "Rue NG 84, Dakar, Senegal",
+    "phone": "+221778356579"
+  },
+  {
+    "id": 57,
+    "name": "Villa Ty Milyn",
+    "address": "30, Avenue de la République, Rue J. Gomis, Dakar, Senegal",
+    "phone": "+221338490200"
+  },
+  {
+    "id": 58,
+    "name": "La Principauté Gorée",
+    "address": "35 Rue Abdoul Karim Bourgi, Dakar, Senegal",
+    "phone": "+221338225532"
+  },
+  {
+    "id": 59,
+    "name": "Residence Zeina",
+    "address": "Plage de Bel air, Dakar 99999, Senegal",
+    "phone": "+221338328648"
+  },
+  {
+    "id": 60,
+    "name": "Maison Augustin Ly",
+    "address": "Dakar 12000, Senegal",
+    "phone": "+221338693736"
+  },
+  {
+    "id": 61,
+    "name": "Hôtel / Centre de Pêche Atlantic Evasion",
+    "address": "Rue 1 X 12 Médina SN, 1X12 Rue 1, Dakar 21670, Senegal",
+    "phone": "112112121670"
+  },
+  {
+    "id": 62,
+    "name": "KEUR YAADIKOONE",
+    "address": "Lot 41, Ancienne route de la corniche Ouest face phare des Mamelles, Route de la Corniche O, Dakar, Senegal",
+    "phone": "+221338204040"
+  },
+  {
+    "id": 63,
+    "name": "Ba Residence",
+    "address": "Traversée vers l'ile de Ngor(2eme Plage), Dakar, Senegal",
+    "phone": "+221338200223"
+  },
+  {
+    "id": 64,
+    "name": "Galle Niwa",
+    "address": "45347, Dakar, Senegal",
+    "phone": "+221777105150"
+  },
+  {
+    "id": 65,
+    "name": "Residence Kakatar",
+    "address": "121 Rue Carnot, Dakar 11000, Senegal",
+    "phone": "12111000"
+  },
+  {
+    "id": 66,
+    "name": "Residence Rose Kane",
+    "address": "DAKAR, Toubab Dialao 02875, Senegal",
+    "phone": "+221338362969"
+  },
+  {
+    "id": 67,
+    "name": "Résidence Astou Yoni",
+    "address": "51 Rue Vincens, Dakar, Senegal",
+    "phone": "+221338236123"
+  },
+  {
+    "id": 68,
+    "name": "Residence Djily Mbaye Cap Immo",
+    "address": "Avenue Faidherbe x, Rue Raffenel, Dakar 13000, Senegal",
+    "phone": "+221339202525"
+  },
+  {
+    "id": 69,
+    "name": "RESIDENCE FABY",
+    "address": "Dakar, Senegal",
+    "phone": "+221338201005"
+  },
+  {
+    "id": 70,
+    "name": "Chez coumbis",
+    "address": "03 Rue Parent, Dakar, Senegal",
+    "phone": "+221338494449"
+  },
+  {
+    "id": 71,
+    "name": "Chambre d'hôte Dakar Bienvenue CHEZ VOUS",
+    "address": "62 Rue Jules Ferry, Dakar 12900, Senegal",
+    "phone": "+221338234420"
+  },
+  {
+    "id": 72,
+    "name": "Residence Annapurna Dakar",
+    "address": "Rte des Almadies, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 73,
+    "name": "Residence Djily Mbaye Cap Immo",
+    "address": "36 Cité des Magistrats, Les Mamelles Dakar 14522, Senegal",
+    "phone": "+221338603000"
+  },
+  {
+    "id": 74,
+    "name": "Les 5 lanternes",
+    "address": "SN, Rte des Almadies, Dakar 29339, Senegal",
+    "phone": "+221338690345"
+  },
+  {
+    "id": 75,
+    "name": "chez ouly",
+    "address": "POINT E RUE 1 x MAISON DES ECRIVAINS, Dakar, Dakar 02302, Senegal",
+    "phone": "+221338695300"
+  },
+  {
+    "id": 76,
+    "name": "La maison de celine",
+    "address": "Scat Urbam, cité kheur Khadim 164, Dakar 30000, Senegal",
+    "phone": "+216430000"
+  },
+  {
+    "id": 77,
+    "name": "Chez Agnes Hotel Restaurant",
+    "address": "Av. Abdoulaye Fadiga, Dakar 18524, Senegal",
+    "phone": "+221338295959"
+  },
+  {
+    "id": 78,
+    "name": "Chez Olivier",
+    "address": "Rte des Almadies, Dakar, Senegal",
+    "phone": "+221338695454"
+  },
+  {
+    "id": 79,
+    "name": "Villa Rosa Sénégal",
+    "address": "Dakar Plateau, Médina, No, 46 Rue Jules Ferry, Dakar, Senegal",
+    "phone": "+221338899090"
+  },
+  {
+    "id": 80,
+    "name": "RESIDENCE DE L'AMITIE",
+    "address": "3 villa n°10553, VDN, Dakar, Senegal",
+    "phone": "+221338690710"
+  },
+  {
+    "id": 81,
+    "name": "Hôtel Provençal",
+    "address": "38 Rue Amadou Assane Ndoye, Dakar, Senegal",
+    "phone": "+221338894444"
+  },
+  {
+    "id": 82,
+    "name": "Hôtel du Plateau",
+    "address": "68 Rue Felix Faure, Dakar, Senegal",
+    "phone": "+221338222570"
+  },
+  {
+    "id": 83,
+    "name": "Residence Aicha CSE",
+    "address": "Cité Djily Mbaye 265C, Dakar 12500, Senegal",
+    "phone": "26512500"
+  },
+  {
+    "id": 84,
+    "name": "Villa Malaka",
+    "address": "64 Rue Felix Faure, Dakar, Senegal",
+    "phone": "+221338494600"
+  },
+  {
+    "id": 85,
+    "name": "Dakar Meublé",
+    "address": "Route de l'Aeroport, Dakar 38233, Senegal",
+    "phone": "+221338690610"
+  },
+  {
+    "id": 86,
+    "name": "Restaurant BUUMY Dakar point E",
+    "address": "8 Avenue des Jambaars, 8 Avenue des Jambaars Avenue Borgnis Desbordes, Dakar, Senegal",
+    "phone": "+221338226060"
+  },
+  {
+    "id": 87,
+    "name": "First concept",
+    "address": "Cité Djily Mbaye 265C, Dakar 12500, Senegal",
+    "phone": "26512500"
+  },
+  {
+    "id": 88,
+    "name": "Complexe Yaadikoone",
+    "address": "Route de l'Aeroport, Dakar 38233, Senegal",
+    "phone": "+221338690610"
+  },
+  {
+    "id": 89,
+    "name": "Hotel Oceanic",
+    "address": "Rue Mermoz, Dakar, Senegal",
+    "phone": "+221338262600"
+  },
+  {
+    "id": 90,
+    "name": "Restaurant Le Lagon 1",
+    "address": "Dakar, Senegal",
+    "phone": "+221338231909"
+  },
+  {
+    "id": 91,
+    "name": "La Cabane du Pêcheur",
+    "address": "Rue Place 18, Dakar, Senegal",
+    "phone": "+221338221500"
+  },
+  {
+    "id": 92,
+    "name": "La Parrilla",
+    "address": "Dakar, Senegal",
+    "phone": "+221338225455"
+  },
+  {
+    "id": 93,
+    "name": "La Fourchette",
+    "address": "Mohamedalyyoussef@hotmail.fr, Dakar, Senegal",
+    "phone": "+221338427205"
+  },
+  {
+    "id": 94,
+    "name": "Beluga restaurant",
+    "address": "Rue Mousse Diop, Dakar, Senegal",
+    "phone": "+221338234040"
+  },
+  {
+    "id": 95,
+    "name": "Le Jardin Thailandais",
+    "address": "4 Rue Parent, Dakar, Senegal",
+    "phone": "+221338426666"
+  },
+  {
+    "id": 96,
+    "name": "La pîazza dakar",
+    "address": "Dakar, Senegal",
+    "phone": "+221338215322"
+  },
+  {
+    "id": 97,
+    "name": "Bidew",
+    "address": "Ndeureuhnou, Dakar, Senegal",
+    "phone": "+221338207675"
+  },
+  {
+    "id": 98,
+    "name": "Le Coste",
+    "address": "10 Rue PE 43, Dakar, Senegal",
+    "phone": "+221338255833"
+  },
+  {
+    "id": 99,
+    "name": "Trattoria da Alex",
+    "address": "boulevard de l'est, Rue de Kaolack, Dakar, Senegal",
+    "phone": "+221766446404"
+  },
+  {
+    "id": 100,
+    "name": "Restaurant BUUMY Dakar point E",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 101,
+    "name": "La pampa",
+    "address": "51 Rue Vincens, Dakar, Senegal",
+    "phone": "+221338236123"
+  },
+  {
+    "id": 102,
+    "name": "Le Mermoz",
+    "address": "HLM, 13500 Dakar, Senegal",
+    "phone": "+221775884466"
+  },
+  {
+    "id": 103,
+    "name": "Le Ryad",
+    "address": "95 Rue J. Gomis, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 104,
+    "name": "Le Pelican Restaurant",
+    "address": "Grand Dakar, Dakar, Senegal",
+    "phone": "+221338649292"
+  },
+  {
+    "id": 105,
+    "name": "Le Cabanon Dakar",
+    "address": "Dakar, Senegal",
+    "phone": "+221338228283"
+  },
+  {
+    "id": 106,
+    "name": "Restaurant La Pointe des Almadies",
+    "address": "Cor des Almadies, Dakar, Senegal",
+    "phone": "+221765253899"
+  },
+  {
+    "id": 107,
+    "name": "Le Mermoz",
+    "address": "Dakar, Senegal",
+    "phone": "+221338685362"
+  },
+  {
+    "id": 108,
+    "name": "Le Ryad",
+    "address": "Rue de la République, Dakar, Senegal",
+    "phone": "+221773332124"
+  },
+  {
+    "id": 109,
+    "name": "Reine Margarita",
+    "address": "Dakar, Senegal",
+    "phone": "+221338422092"
+  },
+  {
+    "id": 110,
+    "name": "Le Pelican Restaurant",
+    "address": "347 Rue GD 60, Dakar, Senegal",
+    "phone": "+221773025834"
+  },
+  {
+    "id": 111,
+    "name": "Duchesse",
+    "address": "Rue AAB 08, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 112,
+    "name": "Mood Café \u0026 Restaurant",
+    "address": "123 Ave du President Lamine Gueye, Dakar, Senegal",
+    "phone": "+221338219672"
+  },
+  {
+    "id": 113,
+    "name": "Le Jardin",
+    "address": "99 Rue Mousse Diop, Dakar, Senegal",
+    "phone": "+221774546264"
+  },
+  {
+    "id": 114,
+    "name": "Le Cabanon Dakar",
+    "address": "Dakar, Senegal",
+    "phone": "+221338601660"
+  },
+  {
+    "id": 115,
+    "name": "Restaurant La Pointe des Almadies",
+    "address": "4111 Rue AAB 25, Dakar, Senegal",
+    "phone": "+221338254217"
+  },
+  {
+    "id": 116,
+    "name": "La Maree Chez Adji",
+    "address": "Dakar, Senegal",
+    "phone": "+221777353042"
+  },
+  {
+    "id": 117,
+    "name": "LE DRAGON",
+    "address": "Dakar, Senegal",
+    "phone": "+221338894444"
+  },
+  {
+    "id": 118,
+    "name": "Restaurant Le Cocotier",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 119,
+    "name": "Restaurant La Terrasse",
+    "address": "223, Rue de Kaolack, Dakar, Senegal",
+    "phone": "+221776440362"
+  },
+  {
+    "id": 120,
+    "name": "Sharky's",
+    "address": "Rue Sandinieri, Dakar, Senegal",
+    "phone": "+221338220172"
+  },
+  {
+    "id": 121,
+    "name": "Restaurant Chez Mamy",
+    "address": "Unnamed Road, Dakar, Senegal",
+    "phone": "+221338202848"
+  },
+  {
+    "id": 122,
+    "name": "Mawa's Senegalese American Restaurant",
+    "address": "4 Boulevard El Hadji Djily Mbaye, Dakar, Senegal",
+    "phone": "+221338223571"
+  },
+  {
+    "id": 123,
+    "name": "LE MISTRAL RESTAURANT",
+    "address": "66 Rue FA 34, Dakar, Senegal",
+    "phone": "+221774969366"
+  },
+  {
+    "id": 124,
+    "name": "Restaurant le Kermel",
+    "address": "8, Route des Pères Maristes, Hann Maristes, Dakar 11500, Senegal",
+    "phone": "+221338329696"
+  },
+  {
+    "id": 125,
+    "name": "La Maison de Celine",
+    "address": "129 Rue Carnot, Dakar, Senegal",
+    "phone": "+221338420058"
+  },
+  {
+    "id": 126,
+    "name": "Restaurant Le Carré Dakar",
+    "address": "23 Av. G. Pompidou, Dakar, Senegal",
+    "phone": "+221338225297"
+  },
+  {
+    "id": 127,
+    "name": "La Plancha",
+    "address": "66 Rue Dr. Theze, Dakar, Senegal",
+    "phone": "+221338221222"
+  },
+  {
+    "id": 128,
+    "name": "La corvette, Hann Bel Air",
+    "address": "4 Rue Av. K. Bourgi, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 129,
+    "name": "Restaurant Korean Arisu",
+    "address": "Victor Hugo, 36 Rue Joseph Gomis Dakar, 17800, Senegal",
+    "phone": "+221338890088"
+  },
+  {
+    "id": 130,
+    "name": "Andalos by shabat",
+    "address": "1 Rue Amadou Assane, Ndoye, Senegal",
+    "phone": "+221338421717"
+  },
+  {
+    "id": 131,
+    "name": "Annapurna Indian Restaurant",
+    "address": "Rue PE 20, Dakar, Senegal",
+    "phone": "+221771205757"
+  },
+  {
+    "id": 132,
+    "name": "Chez Éric",
+    "address": "RUE 41 X 28 FIRST FLOOR MEDINA DAKAR, Dakar 10500, Senegal",
+    "phone": "412810500"
+  },
+  {
+    "id": 133,
+    "name": "La Plage Dakar",
+    "address": "Bd du President Habib Bourguiba, Dakar, Senegal",
+    "phone": "+221338241669"
+  },
+  {
+    "id": 134,
+    "name": "L'Orientale",
+    "address": "123 Rue J. Gomis, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 135,
+    "name": "Nostra Restaurant",
+    "address": "29 Av. de la Liberation, Dakar, Senegal",
+    "phone": "+221338490649"
+  },
+  {
+    "id": 136,
+    "name": "L'Epicerie",
+    "address": "Rue Victor Hugo, Dakar, Senegal",
+    "phone": "+221338214434"
+  },
+  {
+    "id": 137,
+    "name": "Noflaye Beach",
+    "address": "Rte des Almadies, Dakar 12000, Senegal",
+    "phone": "+221338203032"
+  },
+  {
+    "id": 138,
+    "name": "Quai 19 Restaurant",
+    "address": "25 Av. du Pr. L. Sedar Senghor, Dakar, Senegal",
+    "phone": "+221776980606"
+  },
+  {
+    "id": 139,
+    "name": "La Bohême",
+    "address": "20 22 Rue Felix Faure, Dakar 00221, Senegal",
+    "phone": "202200221"
+  },
+  {
+    "id": 140,
+    "name": "Mashawi Dakar",
+    "address": "Cor des Almadies, Dakar 14522, Senegal",
+    "phone": "+221338608826"
+  },
+  {
+    "id": 141,
+    "name": "Restaurant La Baie D'Along",
+    "address": "83 Rue Carnot, Dakar, Senegal",
+    "phone": "+221338422172"
+  },
+  {
+    "id": 142,
+    "name": "Restaurant Oburo",
+    "address": "collé à l'agence Free, Rte Ngor Village, Dakar, Senegal",
+    "phone": "+221338202220"
+  },
+  {
+    "id": 143,
+    "name": "Flow Happiness Food",
+    "address": "Dakar, Senegal",
+    "phone": "+221338682908"
+  },
+  {
+    "id": 144,
+    "name": "Saveurs d'Asie Centre Ville",
+    "address": "Cor des Almadies, Dakar, Senegal",
+    "phone": "+221338233326"
+  },
+  {
+    "id": 145,
+    "name": "Arirang Sushi",
+    "address": "24 Rue Sandinieri, Dakar, Senegal",
+    "phone": "465317223"
+  },
+  {
+    "id": 146,
+    "name": "Ali Baba",
+    "address": "Rte de la Corniche O, Dakar, Senegal",
+    "phone": "+221781842351"
+  },
+  {
+    "id": 147,
+    "name": "Le bon coin",
+    "address": "7 Rue Aristide Le Dantec, Dakar, Senegal",
+    "phone": "+221338224970"
+  },
+  {
+    "id": 148,
+    "name": "DakySushi",
+    "address": "24 Rue Victor Hugo, Dakar, Senegal",
+    "phone": "+221338483534"
+  },
+  {
+    "id": 149,
+    "name": "Restaurant du Centre",
+    "address": "44 rue Wagane Diouf, Dakar, Senegal",
+    "phone": "+221338229489"
+  },
+  {
+    "id": 150,
+    "name": "Restaurant 333 Specialites Africaines Almadies",
+    "address": "King Fahd Rd, Dakar, Senegal",
+    "phone": "+221776566560"
+  },
+  {
+    "id": 151,
+    "name": "Restaurant L'ortolan",
+    "address": "Rte des Almadies, Dakar, Senegal",
+    "phone": "+221338200911"
+  },
+  {
+    "id": 152,
+    "name": "Restaurant Le Xalam",
+    "address": "Cor des Almadies, Dakar, Senegal",
+    "phone": "+221773649033"
+  },
+  {
+    "id": 153,
+    "name": "Bayékou",
+    "address": "Almadies Dakar, 12000, Senegal",
+    "phone": "+221338209393"
+  },
+  {
+    "id": 154,
+    "name": "Chez Paco Beach Restaurant",
+    "address": "Corniche Ouest Boulevard Martin Luther King Dakar, 91179, Senegal",
+    "phone": "+221338399039"
+  },
+  {
+    "id": 155,
+    "name": "Caliente Dakar",
+    "address": "Av. G. Pompidou, Dakar, Senegal",
+    "phone": "+221776336274"
+  },
+  {
+    "id": 156,
+    "name": "UBUNTU RESTAURANT",
+    "address": "35 Rue Jules Ferry, Dakar, Senegal",
+    "phone": "+221338216676"
+  },
+  {
+    "id": 157,
+    "name": "Obeubeu",
+    "address": "Rte des Almadies, Dakar, Senegal",
+    "phone": "+221338200680"
+  },
+  {
+    "id": 158,
+    "name": "Shady’s Grill",
+    "address": "Phare Pointe des Almadies, Dakar 32339, Senegal",
+    "phone": "+221338200140"
+  },
+  {
+    "id": 159,
+    "name": "Mawouli",
+    "address": "32339, Dakar, Senegal",
+    "phone": "+221338207703"
+  },
+  {
+    "id": 160,
+    "name": "Porc au Four Restaurant Bazop Dakar",
+    "address": "4 Boulevard El Hadji Djily Mbaye, Dakar, Senegal",
+    "phone": "+221338233333"
+  },
+  {
+    "id": 161,
+    "name": "Le Bristol",
+    "address": "Cor des Almadies, Dakar, Senegal",
+    "phone": "+221338204300"
+  },
+  {
+    "id": 162,
+    "name": "Caramel Dakar",
+    "address": "64 Rue Amadou Assane Ndoye, Dakar, Senegal",
+    "phone": "+221338231733"
+  },
+  {
+    "id": 163,
+    "name": "Restaurant Chez Ndioufa Terrasse",
+    "address": "Dakar, Senegal",
+    "phone": "+221776355024"
+  },
+  {
+    "id": 164,
+    "name": "DIBITERIE HAOUSSA CHEZ ALI",
+    "address": "38 Rue Amadou Assane Ndoye, Dakar, Senegal",
+    "phone": "+221338229000"
+  },
+  {
+    "id": 165,
+    "name": "Restaurant le Relais Sportif",
+    "address": "Rte de l'Aeroport, Dakar, Senegal",
+    "phone": "+221784449955"
+  },
+  {
+    "id": 166,
+    "name": "UBUNTU RESTAURANT",
+    "address": "QG33+GWH Rond point du Virage, route de l'aéroport, Dakar, Senegal",
+    "phone": "+221766694817"
+  },
+  {
+    "id": 167,
+    "name": "Presse Café",
+    "address": "Av. G. Pompidou, Dakar, Senegal",
+    "phone": "+221338428677"
+  },
+  {
+    "id": 168,
+    "name": "Le Pompidou",
+    "address": "Phare Pointe des Almadies, Dakar 32339, Senegal",
+    "phone": "+221338200140"
+  },
+  {
+    "id": 169,
+    "name": "The Seoul Restaurant 2.0",
+    "address": "11, Rue Dagorne Marché Kermel BP, Rue Dagorne, Dakar, Senegal",
+    "phone": "+221338257197"
+  },
+  {
+    "id": 170,
+    "name": "Cote D'or Chinese Food",
+    "address": "Dakar, Senegal",
+    "phone": "+221776355024"
+  },
+  {
+    "id": 171,
+    "name": "Touba Restaurant",
+    "address": "Mermoz Sacre-coeur Dakar, Dakar, Senegal",
+    "phone": "+221338226166"
+  },
+  {
+    "id": 172,
+    "name": "Restaurant Chez Sarah",
+    "address": "QG33+GWH Rond point du Virage, route de l'aéroport, Dakar, Senegal",
+    "phone": "+221766694817"
+  },
+  {
+    "id": 173,
+    "name": "OBendo Burger",
+    "address": "Rte de l'Aeroport, Dakar, Senegal",
+    "phone": "+221784449955"
+  },
+  {
+    "id": 174,
+    "name": "Restaurant le BAZOFF",
+    "address": "Cor des Almadies, Dakar, Senegal",
+    "phone": "+221338204300"
+  },
+  {
+    "id": 175,
+    "name": "Sea Plaza",
+    "address": "Rue GY 534, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 176,
+    "name": "Dakar City Mall",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 177,
+    "name": "Sea plaza",
+    "address": "N°11 B, Rue 3, Dakar, Senegal",
+    "phone": "+221770806555"
+  },
+  {
+    "id": 178,
+    "name": "Malado plaza",
+    "address": "Dakar, Senegal",
+    "phone": "+221786339653"
+  },
+  {
+    "id": 179,
+    "name": "Centre commercial Kermel",
+    "address": "Allees Seydou Nourou Tall, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 180,
+    "name": "AUCHAN",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 181,
+    "name": "Centre commercial Malick Sy",
+    "address": "Rue Dagorne, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 182,
+    "name": "Centre Commercial Du Port",
+    "address": "Rue 14, Dakar, Senegal",
+    "phone": "+221339594863"
+  },
+  {
+    "id": 183,
+    "name": "Centre Commercial Touba Colobane",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 184,
+    "name": "Shopping",
+    "address": "Dakar, Senegal",
+    "phone": "+221338598962"
+  },
+  {
+    "id": 185,
+    "name": "Best Price",
+    "address": "MHM5+2R Centre commercial les quatre C, Av. Malick Sy, Dakar 10000, Senegal",
+    "phone": "+221774441475"
+  },
+  {
+    "id": 186,
+    "name": "Fatima Shop",
+    "address": "Dakar, Senegal",
+    "phone": "+221338237777"
+  },
+  {
+    "id": 187,
+    "name": "CITY SPORT: PONTY",
+    "address": "Dakar, Senegal",
+    "phone": "+221338496549"
+  },
+  {
+    "id": 188,
+    "name": "Sandaga Market",
+    "address": "Dakar, Senegal",
+    "phone": "+221784959239"
+  },
+  {
+    "id": 189,
+    "name": "Centre d'appel way2call",
+    "address": "Dakar, Senegal",
+    "phone": "+221776333883"
+  },
+  {
+    "id": 190,
+    "name": "Happy Land Dakar",
+    "address": "Rte de la Corniche Ouest, Dakar, Senegal",
+    "phone": "+221338236242"
+  },
+  {
+    "id": 191,
+    "name": "EMJ",
+    "address": "Cité Douane Golf Sud Océan, Dakar, Senegal",
+    "phone": "+221753331326"
+  },
+  {
+    "id": 192,
+    "name": "Chez Billy Fat-Fat (Fast Agency of Trafic)",
+    "address": "Dakar, Senegal",
+    "phone": "+221771090988"
+  },
+  {
+    "id": 193,
+    "name": "Clementine Gift Shop Sea Plaza",
+    "address": "Senegal, Dakar, 54 Avenue Georges Pompidou",
+    "phone": "+221338212773"
+  },
+  {
+    "id": 194,
+    "name": "Spa Beauté dakar",
+    "address": "Dakar, Senegal",
+    "phone": "+221774567771"
+  },
+  {
+    "id": 195,
+    "name": "ccbm electronics",
+    "address": "Liberté 6 extension - Route du Camp Pénal Numéro 17 magasin 3, Dakar, Senegal",
+    "phone": "+221770588531"
+  },
+  {
+    "id": 196,
+    "name": "Central Park Ex 4C",
+    "address": "Avenue Place 116, Dakar, Senegal",
+    "phone": "+221775369397"
+  },
+  {
+    "id": 197,
+    "name": "Les Sens de Marrakech Senegal",
+    "address": "Immeuble Meroue, 3 Av. G. Pompidou, Dakar, Senegal",
+    "phone": "+221338429835"
+  },
+  {
+    "id": 198,
+    "name": "IFAN Museum of African Arts",
+    "address": "Dakar, Senegal",
+    "phone": "+221338310101"
+  },
+  {
+    "id": 199,
+    "name": "House of Slaves",
+    "address": "Rue Place 18, Dakar, Senegal",
+    "phone": "+221338239268"
+  },
+  {
+    "id": 200,
+    "name": "Hann Zoological Park",
+    "address": "75 Boulevard de la République, Dakar, Senegal",
+    "phone": "+221338232467"
+  },
+  {
+    "id": 201,
+    "name": "Mosque of the Divinity",
+    "address": "Av. Malick Sy, Dakar, Senegal",
+    "phone": "+201221268200"
+  },
+  {
+    "id": 202,
+    "name": "Grand Mosque of Dakar",
+    "address": "Dakar, Senegal",
+    "phone": "+221776493824"
+  },
+  {
+    "id": 203,
+    "name": "Marché Sandaga",
+    "address": "Dakar, Senegal",
+    "phone": "+221771221099"
+  },
+  {
+    "id": 204,
+    "name": "Loman Art House - Art Gallery",
+    "address": "6 Av. du Pr. L. Sedar Senghor, Dakar, Senegal",
+    "phone": "+221338808080"
+  },
+  {
+    "id": 205,
+    "name": "Phare des Mamelles",
+    "address": "Rond point Diakhao, M'bour, Senegal",
+    "phone": "+221339397272"
+  },
+  {
+    "id": 206,
+    "name": "Galerie Arte",
+    "address": "Mbour, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 207,
+    "name": "Lagune de la Somone",
+    "address": "Immeuble Keur Diaba, rue 81 (ancienne route de la Météo), Mermoz Pyrotechnique, Senegal",
+    "phone": "+221338684530"
+  },
+  {
+    "id": 208,
+    "name": "Plage du Virage",
+    "address": "Sindia, Senegal",
+    "phone": "+221775565927"
+  },
+  {
+    "id": 209,
+    "name": "Plage des mamelles",
+    "address": "Somone, Senegal",
+    "phone": "+221781629978"
+  },
+  {
+    "id": 210,
+    "name": "Casino Terrou Saly",
+    "address": "Mamelles, Rte de l'Aeroport, Dakar, Senegal",
+    "phone": "+221773437272"
+  },
+  {
+    "id": 211,
+    "name": "Plage de Yoff",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 212,
+    "name": "accrobaobab adventure",
+    "address": "Dakar, Senegal",
+    "phone": "+22376023855"
+  },
+  {
+    "id": 213,
+    "name": "Ile de Madeleine",
+    "address": "villa no. 1 rue de pharmacy Atlantic Mamelles Dakar, 12500, Senegal",
+    "phone": "+221778481579"
+  },
+  {
+    "id": 214,
+    "name": "Ile de Ngor",
+    "address": "89 rue Joseph Gomis, Dakar, Senegal",
+    "phone": "+221338230320"
+  },
+  {
+    "id": 215,
+    "name": "Le Grand Hôtel de Thiés",
+    "address": "Grand Standing, derriere station EDK Rue 47, Thies 21000, Senegal",
+    "phone": "+221775416911"
+  },
+  {
+    "id": 216,
+    "name": "EKSIL HOTEL",
+    "address": "Rue Hophouet Boigny, Thies, Senegal",
+    "phone": "+221339512551"
+  },
+  {
+    "id": 217,
+    "name": "Hôtel Thiès - Le Square",
+    "address": "Street, M'bour, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 218,
+    "name": "Annexe Hôtel Le Croissant Magique",
+    "address": "RÉSIDENCE SENGHOR, Thiès, Senegal",
+    "phone": "+221776792957"
+  },
+  {
+    "id": 219,
+    "name": "Villa Gandigal",
+    "address": "Mbind Siga, Mbodiene, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 220,
+    "name": "HÔTEL RÉSIDENCE SENGHOR",
+    "address": "Street, M'bour, Senegal",
+    "phone": "+221783942952"
+  },
+  {
+    "id": 221,
+    "name": "Villa Gandigal",
+    "address": "202 Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221339513311"
+  },
+  {
+    "id": 222,
+    "name": "Maison d'hotes Mbayard",
+    "address": "Thiès, Senegal",
+    "phone": "+221339510098"
+  },
+  {
+    "id": 223,
+    "name": "Domaine Kalao",
+    "address": "Néant, Thies, Senegal",
+    "phone": "+221778592114"
+  },
+  {
+    "id": 224,
+    "name": "Hôtel Rex",
+    "address": "Sud stade, Thies, Senegal",
+    "phone": "+221339541026"
+  },
+  {
+    "id": 225,
+    "name": "Auberge Gilbert",
+    "address": "Thiès Diakhao Base militaire en face cité SIDAK, Thies 12604, Senegal",
+    "phone": "+221776452176"
+  },
+  {
+    "id": 226,
+    "name": "Auberge et Restaurant Oasis 2",
+    "address": "Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 227,
+    "name": "Hotel Cauris",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 228,
+    "name": "Residence Daby",
+    "address": "Route, Sindia, Senegal",
+    "phone": "+221773038429"
+  },
+  {
+    "id": 229,
+    "name": "Hôtel-Restaurant Big Faim",
+    "address": "1 Av. Jean B E Collin, Thiès 23015, Senegal",
+    "phone": "+221773145108"
+  },
+  {
+    "id": 230,
+    "name": "Complexe Khadija",
+    "address": "Caen Avenue, Thies, Senegal",
+    "phone": "+221772339474"
+  },
+  {
+    "id": 231,
+    "name": "Hôtel Résidence Lat Dior",
+    "address": "Face Stade Lat-Dior, Thiès, Senegal",
+    "phone": "+221339520777"
+  },
+  {
+    "id": 232,
+    "name": "Le grand",
+    "address": "Thies none BP 1053, Thies 99999, Senegal",
+    "phone": "105399999"
+  },
+  {
+    "id": 233,
+    "name": "Le MbinAdam",
+    "address": "N2 (Sur La route de Dakar, Thiès 21000, Senegal",
+    "phone": "+221775467438"
+  },
+  {
+    "id": 234,
+    "name": "CERCLE MESS DE GARNISON DE THIES",
+    "address": "138 Rue de Douaumont, Thies, Senegal",
+    "phone": "+221339511081"
+  },
+  {
+    "id": 235,
+    "name": "Avril location",
+    "address": "Cité Malick Sy, Thies, Senegal",
+    "phone": "+221771151515"
+  },
+  {
+    "id": 236,
+    "name": "Le Tapis Vert",
+    "address": "Unnamed Road, Thies 13630, Senegal",
+    "phone": "+221772278893"
+  },
+  {
+    "id": 237,
+    "name": "Restaurant Chez Tata Rosa",
+    "address": "Thiès, Senegal",
+    "phone": "+221772896592"
+  },
+  {
+    "id": 238,
+    "name": "Pamanda",
+    "address": "En face lycee Malick Sy de, Thiès, Senegal",
+    "phone": "+221784733535"
+  },
+  {
+    "id": 239,
+    "name": "Restaurant DAMEL'S",
+    "address": "24 Avenida Leopld Senghor, Thiès, Senegal",
+    "phone": "+221339518595"
+  },
+  {
+    "id": 240,
+    "name": "Restaurant Big Faim",
+    "address": "Guinth Rue Amadou Sow, Thies, Senegal",
+    "phone": "+221339521550"
+  },
+  {
+    "id": 241,
+    "name": "Showroom88bysafaa",
+    "address": "373 Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221339517516"
+  },
+  {
+    "id": 242,
+    "name": "Sam's Prestige",
+    "address": "Thiès, Senegal",
+    "phone": "+221773717031"
+  },
+  {
+    "id": 243,
+    "name": "restaurant l'escale",
+    "address": "484 Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221776938094"
+  },
+  {
+    "id": 244,
+    "name": "Restaurant Sarafina",
+    "address": "88 Bd François Xavier Ndione, Thiès, Senegal",
+    "phone": "+221777009100"
+  },
+  {
+    "id": 245,
+    "name": "Palais d'Or",
+    "address": "Avenida Leopld Senghor, Thiès, Senegal",
+    "phone": "+221772004699"
+  },
+  {
+    "id": 246,
+    "name": "Le Massa Massa",
+    "address": "terminus tata 10, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 247,
+    "name": "Dianxen resto",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 248,
+    "name": "Thiéré",
+    "address": "Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 249,
+    "name": "Paradis (EAT)",
+    "address": "Rocade de Contournement de Thiès, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 250,
+    "name": "Tacos de thiés",
+    "address": "Route de la ZAC de, Thiès, Senegal",
+    "phone": "+221777915439"
+  },
+  {
+    "id": 251,
+    "name": "Point Gourmand",
+    "address": "137 allée mawa, M Doucoure, Thies, Senegal",
+    "phone": "+221339540442"
+  },
+  {
+    "id": 252,
+    "name": "O'GoodFood Thiès",
+    "address": "375 Rte Thies-Sindia, Thiès, Senegal",
+    "phone": "+221339519034"
+  },
+  {
+    "id": 253,
+    "name": "Suite D'or Restaurant",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 254,
+    "name": "Le café des arts",
+    "address": "Rue Hophouet Boigny, Thies, Senegal",
+    "phone": "+221339522717"
+  },
+  {
+    "id": 255,
+    "name": "Restaurant Touba Kawsara",
+    "address": "Keur Ya Ndiémé Faye, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 256,
+    "name": "Restaurant Ndigeul Food",
+    "address": "Unnamed Road, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 257,
+    "name": "Kebab De Luxe",
+    "address": "Marché Khelcome, Unnamed Road, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 258,
+    "name": "Ile De Gorée",
+    "address": "Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 259,
+    "name": "MY FAVORITE RESTAURANT 2015! VERY GOOD!",
+    "address": "Rte Thies-Sindia, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 260,
+    "name": "Restaurant le Paradis 2",
+    "address": "route de Sindia, Thies, Senegal",
+    "phone": "+221339542523"
+  },
+  {
+    "id": 261,
+    "name": "Restaurant L'abidjanaise",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 262,
+    "name": "Restaurant La Poste Escale Chez Julie Penda Marché central de Thiès",
+    "address": "Rte Thies-Sindia, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 263,
+    "name": "Nouveru Brios Grillade",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 264,
+    "name": "Pallene Resto",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 265,
+    "name": "Nita Food",
+    "address": "Unnamed Road, Thiès, Senegal",
+    "phone": "+221778336337"
+  },
+  {
+    "id": 266,
+    "name": "Restaurant Affaire Conclue",
+    "address": "Unnamed Road, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 267,
+    "name": "Sokhna's kitchen",
+    "address": "383 Av. Général de Gaulle, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 268,
+    "name": "RESTAURANT \"CHEZ LA MOTHER\"",
+    "address": "N3, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 269,
+    "name": "Keur Diaraf",
+    "address": "416 Av. Général de Gaulle, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 270,
+    "name": "Restaurant ZAM-ZAM",
+    "address": "N3, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 271,
+    "name": "Restaurant Serigne Babacar Sy",
+    "address": "Thiès, Senegal",
+    "phone": "+221773239779"
+  },
+  {
+    "id": 272,
+    "name": "Vaissellerie Sope Nabi Chez Madame Sarr",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 273,
+    "name": "Fast-Food Cheikh Mbana",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 274,
+    "name": "SAM'S PRESTIGE, AVENUE LAMINE GUEYE THIES SÉNÉGAL",
+    "address": "Unnamed Road, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 275,
+    "name": "MADEMBA Diouf",
+    "address": "181 Rte Thies-Sindia, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 276,
+    "name": "Fast food et dibiterie chez Khady",
+    "address": "519 Bd François Xavier Ndione, Thiès, Senegal",
+    "phone": "+221777788776"
+  },
+  {
+    "id": 277,
+    "name": "Intercontinental",
+    "address": "N2, Thies, Senegal",
+    "phone": "+221771016014"
+  },
+  {
+    "id": 278,
+    "name": "le Marseillais",
+    "address": "Thiès, Senegal",
+    "phone": "+221773070711"
+  },
+  {
+    "id": 279,
+    "name": "Chez Rachid Restaurant",
+    "address": "N2, Thies, Senegal",
+    "phone": "+221339516158"
+  },
+  {
+    "id": 280,
+    "name": "Mini resto Wakeur Mame Diarra",
+    "address": "Rue de la Mairie, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 281,
+    "name": "Bakery",
+    "address": "N2, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 282,
+    "name": "Tacos se thiès 2",
+    "address": "Thiès, Senegal",
+    "phone": "+221773382525"
+  },
+  {
+    "id": 283,
+    "name": "Croissant Magique",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 284,
+    "name": "Gargote Mère Sophie",
+    "address": "Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221777358644"
+  },
+  {
+    "id": 285,
+    "name": "Lekk Leegui Restaurant",
+    "address": "Néant, Thiès 17075, Senegal",
+    "phone": "+221779004319"
+  },
+  {
+    "id": 286,
+    "name": "Djolof Chicken Thiès",
+    "address": "Rue de la Mairie, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 287,
+    "name": "Restaurant Les Delices",
+    "address": "Caen Avenue, Thies, Senegal",
+    "phone": "+221774541221"
+  },
+  {
+    "id": 288,
+    "name": "Restau Chez Eva",
+    "address": "Rte Thies-Sindia, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 289,
+    "name": "Palais d'Or",
+    "address": "273 Avenida Leopld Senghor, Thiès, Senegal",
+    "phone": "+221339517516"
+  },
+  {
+    "id": 290,
+    "name": "Sams Restaurant",
+    "address": "Rue de Paris x, Rue de la Poste, Thiès, Senegal",
+    "phone": "+221770398711"
+  },
+  {
+    "id": 291,
+    "name": "Complexe les halles des lions",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 292,
+    "name": "Boy Ka Nekh Soow",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 293,
+    "name": "Djigueen Barri Yitté",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 294,
+    "name": "Chez Moussa",
+    "address": "Avenida Leopld Senghor, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 295,
+    "name": "ETS LAPHILOMENTINE/779004319/ 701083291",
+    "address": "Unnamed Road, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 296,
+    "name": "Djolof Chicken Thiès 2",
+    "address": "Avenida General de Gaulle, Thies, Senegal",
+    "phone": "+221786006544"
+  },
+  {
+    "id": 297,
+    "name": "Mere Deguene Ndiaye",
+    "address": "373 Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221339511878"
+  },
+  {
+    "id": 298,
+    "name": "Dibiteries Restaurant Fastfood Lamp Fall chez Ibou Legal",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 299,
+    "name": "Restaurant cafe touba avec",
+    "address": "Thiès, Senegal",
+    "phone": "+221772715004"
+  },
+  {
+    "id": 300,
+    "name": "Sene family",
+    "address": "Avenue Général de Gaulle, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 301,
+    "name": "Nguinth deux voies",
+    "address": "cimetière Takhikao, Thies, Senegal",
+    "phone": "+221781758534"
+  },
+  {
+    "id": 302,
+    "name": "Tacos thies 2",
+    "address": "Rue Amadou Sow, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 303,
+    "name": "Buvette anna samb",
+    "address": "Av. Général de Gaulle, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 304,
+    "name": "Le virage",
+    "address": "Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221339540707"
+  },
+  {
+    "id": 305,
+    "name": "Restaurante Sope Naby",
+    "address": "Rue Hophouet Boigny, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 306,
+    "name": "Case a Teranga",
+    "address": "Cité Malick Sy Cité, Thiès 12345, Senegal",
+    "phone": "+221765710202"
+  },
+  {
+    "id": 307,
+    "name": "Dibiterie Baobab",
+    "address": "PAS LOIN DU TERRAIN WALIDANES, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 308,
+    "name": "Dibiterie Malick Dicko",
+    "address": "Avenue Général de Gaulle, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 309,
+    "name": "Les Délices de Mame Yacine",
+    "address": "Rue de la Mairie, Thies, Senegal",
+    "phone": "+221339541010"
+  },
+  {
+    "id": 310,
+    "name": "A péage",
+    "address": "Thiès, Senegal",
+    "phone": "+221339542323"
+  },
+  {
+    "id": 311,
+    "name": "Poulailler S Khadim Thioune",
+    "address": "383 Rocade de Contournement de Thiès, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 312,
+    "name": "Chez Tonton Frye",
+    "address": "Rue de Paris, Thies, Senegal",
+    "phone": "+221770398711"
+  },
+  {
+    "id": 313,
+    "name": "Fast-Food Khadim Rassoul",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 314,
+    "name": "Restaurant Madiba",
+    "address": "Rue de LYON, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 315,
+    "name": "Mamie's Grill",
+    "address": "Thiès, Senegal",
+    "phone": "+221778356675"
+  },
+  {
+    "id": 316,
+    "name": "Boulangerie patisserie",
+    "address": "Av. Lamine Gueye, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 317,
+    "name": "Miya Group restaurant le 21 mars",
+    "address": "N2, Thies, Senegal",
+    "phone": "+221775729700"
+  },
+  {
+    "id": 318,
+    "name": "ThièsAtHome Dépôt GUINAR",
+    "address": "Thiès, Senegal",
+    "phone": "+221775065927"
+  },
+  {
+    "id": 319,
+    "name": "Boutik papa marcher thies",
+    "address": "Av. Lamine Gueye, Thiès, Senegal",
+    "phone": "+221339510267"
+  },
+  {
+    "id": 320,
+    "name": "Keur Ya Ndiémé Faye",
+    "address": "Thiès, Senegal",
+    "phone": "+221771240909"
+  },
+  {
+    "id": 321,
+    "name": "Hôtel Restaurant Bidew Bi",
+    "address": "N2, Thies, Senegal",
+    "phone": "+221779009797"
+  },
+  {
+    "id": 322,
+    "name": "Miya Group restaurant le 21 mars",
+    "address": "N2, Thies, Senegal",
+    "phone": "+221775235906"
+  },
+  {
+    "id": 323,
+    "name": "Restaurant Santati Khadim Rassoul",
+    "address": "Rocade de Contournement de Thiès, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 324,
+    "name": "Complexe Ngary",
+    "address": "Rocade de Contournement de Thiès, Thiès, Senegal",
+    "phone": "+221339272222"
+  },
+  {
+    "id": 325,
+    "name": "NICE TIME COMPLEXE",
+    "address": "Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 326,
+    "name": "Restaurant Awa Guinar",
+    "address": "Thiès, Senegal",
+    "phone": "+221708303266"
+  },
+  {
+    "id": 327,
+    "name": "18 Safar Center",
+    "address": "Fahu 1, Thiès, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 328,
+    "name": "Gaydel Buisiness Center",
+    "address": "Route de Risso ngaye, Meckhe, Senegal",
+    "phone": "+221780121437"
+  },
+  {
+    "id": 329,
+    "name": "Khouma business center",
+    "address": "408 Av. du Baol, Thiès 01312, Senegal",
+    "phone": "40801312"
+  },
+  {
+    "id": 330,
+    "name": "C3S THIES",
+    "address": "Thiès, Senegal",
+    "phone": "+221775259547"
+  },
+  {
+    "id": 331,
+    "name": "Auchan Thiès 2",
+    "address": "Commissariat Central de Thies, N2, face, Thies, Senegal",
+    "phone": "+221338680964"
+  },
+  {
+    "id": 332,
+    "name": "Auchan Thiès 1",
+    "address": "terminus, N3, Thiès, Senegal",
+    "phone": "+221773225663"
+  },
+  {
+    "id": 333,
+    "name": "Amine Business Center (ABC)",
+    "address": "Nguinth, sur les 2 voies vers la zac Après la police, près du rond-point, Senegal",
+    "phone": "+221769474747"
+  },
+  {
+    "id": 334,
+    "name": "SCB-THIES (SEN CARREFOUR BUSINESS)",
+    "address": "Route de Dakar, croisement, Av. du Baol, Thies, Senegal",
+    "phone": "+221338680977"
+  },
+  {
+    "id": 335,
+    "name": "Quincaillerie",
+    "address": "Marche central, avenue gnana sow, Thiès, Senegal",
+    "phone": "+221770575030"
+  },
+  {
+    "id": 336,
+    "name": "Showroom88bysafaa",
+    "address": "137 allée mawa, M Doucoure, Thies, Senegal",
+    "phone": "+221339540442"
+  },
+  {
+    "id": 337,
+    "name": "Synapse Center",
+    "address": "Place de France, Thies, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 338,
+    "name": "QUINCAILLERIE SOUARE ET FILS",
+    "address": "Thiès, Senegal",
+    "phone": "+221779434395"
+  },
+  {
+    "id": 339,
+    "name": "Village artisanal",
+    "address": "Thiès, Senegal",
+    "phone": "+221779250201"
+  },
+  {
+    "id": 340,
+    "name": "NICE TIME COMPLEXE",
+    "address": "Thiès, Senegal",
+    "phone": "+221339510862"
+  },
+  {
+    "id": 341,
+    "name": "Boulangerie rond point des Parcelles Assainies",
+    "address": "Av. El H. Malick Sy, Thiès, Senegal",
+    "phone": "+221781055543"
+  },
+  {
+    "id": 342,
+    "name": "Place Agora",
+    "address": "88 Bd François Xavier Ndione, Thiès, Senegal",
+    "phone": "+221777009100"
+  },
+  {
+    "id": 343,
+    "name": "Radisson Hotel Dakar Diamniadio",
+    "address": "Rue des Gourmets, Gorée 10300, Senegal",
+    "phone": "+221777542828"
+  },
+  {
+    "id": 344,
+    "name": "La Rotonde",
+    "address": "Toubab Dialaw Road, Toubab Dialao 15000, Senegal",
+    "phone": "+221775003449"
+  },
+  {
+    "id": 345,
+    "name": "Hôtel Restaurant Rio Teranga",
+    "address": "Route De Toulab, Toubab Dialao 10000, Senegal",
+    "phone": "+221338360356"
+  },
+  {
+    "id": 346,
+    "name": "L'arc-en-ciel",
+    "address": "JV72+85, Toubab Dialao, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 347,
+    "name": "Begue Pokai HOTEL",
+    "address": "a cote du centre De Conference International Abou, Prolongement A. à péage, Diamniadio 10200, Senegal",
+    "phone": "+221338792727"
+  },
+  {
+    "id": 348,
+    "name": "MINUTEVENTS GORÉE - Villa Charles",
+    "address": "Siendou, Bargny Gouddau, Senegal",
+    "phone": "+221776345113"
+  },
+  {
+    "id": 349,
+    "name": "Sobo Bade",
+    "address": "Toubab Dialao, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 350,
+    "name": "Sobo Bade",
+    "address": "Rufisque, Senegal",
+    "phone": "+221774459061"
+  },
+  {
+    "id": 351,
+    "name": "Gite du Lac campement",
+    "address": "Senegal, Toubab Dialao, Quartiere batay Chez Pape et Elena邮政编码: 30500",
+    "phone": "+221338361710"
+  },
+  {
+    "id": 352,
+    "name": "Les Cristaux Roses",
+    "address": "Unnamed Road, Toubab Dialao, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 353,
+    "name": "Hotel KEUR JOKKO",
+    "address": "Lac rose, en face de la mer, Dakar 12500, Senegal",
+    "phone": "+221765713431"
+  },
+  {
+    "id": 354,
+    "name": "Complexe le QG",
+    "address": "Cité SHS Golf Nord 91 Pikini Bougou SN, 15000, Senegal",
+    "phone": "+221775867154"
+  },
+  {
+    "id": 355,
+    "name": "Chez coumbis",
+    "address": "Route de Toubab Dialaw, Toubab Dialaw 20000, Senegal",
+    "phone": "+221773656588"
+  },
+  {
+    "id": 356,
+    "name": "Chez ROTHIE Toubab dialaw",
+    "address": "Piste blanche de Bambilor lac Rose BP 632, Niaga 25000, Senegal",
+    "phone": "63225000"
+  },
+  {
+    "id": 357,
+    "name": "Chez Eric",
+    "address": "bateye TOUBAB DIALAW, Toubab Dialao 23002, Senegal",
+    "phone": "+221776506169"
+  },
+  {
+    "id": 358,
+    "name": "La Voile d'Or",
+    "address": "90, Golf Nord 2, Dakar, Senegal",
+    "phone": "+221775867154"
+  },
+  {
+    "id": 359,
+    "name": "Chez ROTHIE Toubab dialaw",
+    "address": "rue des arcades, Toubab Dialao, Senegal",
+    "phone": "+33675642464"
+  },
+  {
+    "id": 360,
+    "name": "Residence marie France Mendy",
+    "address": "NIAGA, Niaga 21000, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 361,
+    "name": "Etoile du Lac",
+    "address": "Mamelles, Senegal",
+    "phone": "+221775563548"
+  },
+  {
+    "id": 362,
+    "name": "La Mimosa",
+    "address": "Dakar, Senegal",
+    "phone": "+221338225364"
+  },
+  {
+    "id": 363,
+    "name": "Chez Mimi",
+    "address": "Lac Rose, Niaga, Senegal",
+    "phone": "+221778931656"
+  },
+  {
+    "id": 364,
+    "name": "Le Chamama",
+    "address": "SN, 26 Rue GS 349, Dakar 15000, Senegal",
+    "phone": "2634915000"
+  },
+  {
+    "id": 365,
+    "name": "La Source Ndiambalane",
+    "address": "Chemin de I'Hydrobase, Filderstadt 10898, Senegal",
+    "phone": "+221338322260"
+  },
+  {
+    "id": 366,
+    "name": "Paradialaw",
+    "address": "Hann Mariste cité belle vue (Dalifort Forail), Hann-Bel Air, Senegal",
+    "phone": "+221763024381"
+  },
+  {
+    "id": 367,
+    "name": "Complexe Le QG (Quartier Général)",
+    "address": "Rte de Toubab Dialaw, Yenne Tode 20000, Senegal",
+    "phone": "+221773478246"
+  },
+  {
+    "id": 368,
+    "name": "La Principauté Gorée",
+    "address": "Toubab Dialao, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 369,
+    "name": "DEKK JAMM",
+    "address": "Rue Saint-Joseph, Dakar, Senegal",
+    "phone": "+221775454367"
+  },
+  {
+    "id": 370,
+    "name": "Maison Augustin Ly",
+    "address": "Piste Bambilor-Lac Rose, Niaga, Senegal",
+    "phone": "+221784841088"
+  },
+  {
+    "id": 371,
+    "name": "Chez Medzo Et Patou",
+    "address": "Route des Niayes Villa N°468, Guédiawaye Gibraltar II Prés centre sauvgarde, Dakar 12345, Senegal",
+    "phone": "46812345"
+  },
+  {
+    "id": 372,
+    "name": "Cité GADAYE",
+    "address": "Sendou Cabanon, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 373,
+    "name": "Hôtels abdou Diouf 1",
+    "address": "Lac Rose, Niaga 10000, Senegal",
+    "phone": "+221775229654"
+  },
+  {
+    "id": 374,
+    "name": "Sité sonatel",
+    "address": "Rue des Donjons BP 17, Dakar, Senegal",
+    "phone": "+221772151185"
+  },
+  {
+    "id": 375,
+    "name": "SICAP mbao",
+    "address": "Dakar rufisque lac rose Rufisque, 00221, Senegal",
+    "phone": "+221763050408"
+  },
+  {
+    "id": 376,
+    "name": "La maison orange mbao",
+    "address": "Lac Rose, Dakar, Senegal, Niaga, Senegal",
+    "phone": "+221775990025"
+  },
+  {
+    "id": 377,
+    "name": "Niwa Oasis",
+    "address": "Senegal, Gorée2 rue du port Goree, Dakar 2邮政编码: 10300",
+    "phone": "+221338420039"
+  },
+  {
+    "id": 378,
+    "name": "Le Petit Calao d'Abyssinie",
+    "address": "Mas des cocotiers, Toubab Dialao, Senegal",
+    "phone": "+33613429784"
+  },
+  {
+    "id": 379,
+    "name": "Dakar Beach House",
+    "address": "1 rue du port, Dakar, Senegal",
+    "phone": "+221338427709"
+  },
+  {
+    "id": 380,
+    "name": "Sipres Mbao",
+    "address": "La Pierre de Lisse, Ndayane, BP 4 Popenguine, Sénégal, Senegal",
+    "phone": "+221339577148"
+  },
+  {
+    "id": 381,
+    "name": "Hôtel le Trarza",
+    "address": "Ancienne école William PONTY, Rue du castel, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 382,
+    "name": "Charmante Villa",
+    "address": "Angle épicerie tigo, Yene Toubab Dialaw 98800, Senegal",
+    "phone": "+687521049"
+  },
+  {
+    "id": 383,
+    "name": "The Enclosed Olive Trees",
+    "address": "Rte de Toubab Dialaw, Toubab Dialao, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 384,
+    "name": "Black white TOUBAB DIALAO",
+    "address": "Piste Bambilor-Lac Rose boite, postal 512 rufisque, Niaga 25000, Senegal",
+    "phone": "+51225000"
+  },
+  {
+    "id": 385,
+    "name": "Iris Hotel",
+    "address": "Route Rufisque-Niaga-Lac Rose, Sénégal, Senegal",
+    "phone": "+221776481678"
+  },
+  {
+    "id": 386,
+    "name": "Villa Castel",
+    "address": "Niaga, Senegal",
+    "phone": "+221773009156"
+  },
+  {
+    "id": 387,
+    "name": "Hôtel Madou Gorée",
+    "address": "Rufisque, Senegal",
+    "phone": "+221778160145"
+  },
+  {
+    "id": 388,
+    "name": "La Pierre de Lisse",
+    "address": "Rue à droite juste après le marché de Sendou Maison blanche à droite à la fin de la rue, Rufisque 30000, Senegal",
+    "phone": "+221338360973"
+  },
+  {
+    "id": 389,
+    "name": "Village Hotel Bassari",
+    "address": "Sendou Village, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 390,
+    "name": "Hôtel municipal \"la porte du retour \"",
+    "address": "Lac Rose, Niagues, Senegal",
+    "phone": "+221338362651"
+  },
+  {
+    "id": 391,
+    "name": "Oasis Niwa",
+    "address": "Senegal, Niaga, LAC ROSE niague peul",
+    "phone": "+221775559447"
+  },
+  {
+    "id": 392,
+    "name": "Villa Les Cocotiers",
+    "address": "zac, Rufisque, Senegal",
+    "phone": "+221776234601"
+  },
+  {
+    "id": 393,
+    "name": "Hotel le Ravin",
+    "address": "Zac mbao, Dakar 12500, Senegal",
+    "phone": "+221766192087"
+  },
+  {
+    "id": 394,
+    "name": "Camping Le Nomade",
+    "address": "Rue Blanchot, Rue de Malavois, Dakar, Senegal",
+    "phone": "+221761238180"
+  },
+  {
+    "id": 395,
+    "name": "Hotel Toolbi",
+    "address": "ROUTE DE TOUBAB DIALAW DIRECTION DAGA / DIASS TOUBAB DIALAW, YENE 99000, Senegal",
+    "phone": "+221781231991"
+  },
+  {
+    "id": 396,
+    "name": "Villa Nawel",
+    "address": "Cité Isra Hann Marinas, Hann-Bel Air, Senegal",
+    "phone": "+221777313941"
+  },
+  {
+    "id": 397,
+    "name": "VILLA ROKA",
+    "address": "Lac rose, Niaga, Senegal",
+    "phone": "+221777940555"
+  },
+  {
+    "id": 398,
+    "name": "ASAO",
+    "address": "Piste de Toubab Dialaw, Popenguine, Senegal",
+    "phone": "+221786009576"
+  },
+  {
+    "id": 399,
+    "name": "Manon des Sources",
+    "address": "Cité Gadaye Billionaire, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 400,
+    "name": "Auberge Au Carrefour des Amis",
+    "address": "Senegal, Toubab Dialao, toubab dialaw , prés de la gendarmerie en face école des sables Senegal",
+    "phone": ""
+  },
+  {
+    "id": 401,
+    "name": "Terre d'Afrique",
+    "address": "Toubab dialaw SN, 00580, Senegal",
+    "phone": "+221775545554"
+  },
+  {
+    "id": 402,
+    "name": "Mamelle Chez Cissé",
+    "address": "6 route de benoba, Niaga 17000, Senegal",
+    "phone": "+221708036161"
+  },
+  {
+    "id": 403,
+    "name": "Chevalier de Boufflers",
+    "address": "Toubab Dialao, Senegal",
+    "phone": "+221338988779"
+  },
+  {
+    "id": 404,
+    "name": "Soleil D' Espoir",
+    "address": "MJ82+QQ4 Rue saint Charles, Dakar 18251, Senegal",
+    "phone": "+221776464409"
+  },
+  {
+    "id": 405,
+    "name": "Quintal di Maria",
+    "address": "Rue de la compagnie, Gorée 18522, Senegal",
+    "phone": "+221338211931"
+  },
+  {
+    "id": 406,
+    "name": "Le Chamama",
+    "address": "Plage de Bel air, Dakar 99999, Senegal",
+    "phone": "+221338328648"
+  },
+  {
+    "id": 407,
+    "name": "AMETH HOUSE",
+    "address": "Toubab Dialao, 00000, Senegal",
+    "phone": "+221774953854"
+  },
+  {
+    "id": 408,
+    "name": "Complexe keur Anta",
+    "address": "Rte de Toubab Dialaw, Toubab Dialao, Senegal",
+    "phone": "+221775949871"
+  },
+  {
+    "id": 409,
+    "name": "Ma Petite Camargue",
+    "address": "Rte de Toubab Dialaw, Toubab Dialao, Senegal",
+    "phone": "+221775949871"
+  },
+  {
+    "id": 410,
+    "name": "KEUR DOFIE",
+    "address": "MJ82+QQ4 Rue saint Charles, Dakar 18251, Senegal",
+    "phone": "+221776464409"
+  },
+  {
+    "id": 411,
+    "name": "Safari hôtel",
+    "address": "Lac rose, Niaga, Senegal",
+    "phone": "+221777940555"
+  },
+  {
+    "id": 412,
+    "name": "Coolitude",
+    "address": "Toubab dialaw SN, 00580, Senegal",
+    "phone": "+221775545554"
+  },
+  {
+    "id": 413,
+    "name": "Suba Maison",
+    "address": "Dakar, Senegal",
+    "phone": "+221338361507"
+  },
+  {
+    "id": 414,
+    "name": "Quintal di Maria",
+    "address": "lac rose en face des dunes, Niaga 99000, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 415,
+    "name": "Chambre Toubab Dialaw",
+    "address": "Rufisque Niague Lac Rose, Niaga 50555, Senegal",
+    "phone": "+221776340468"
+  },
+  {
+    "id": 416,
+    "name": "Lamp Fall Liguey",
+    "address": "Rive nord du Lac Rose, Bonaba 00000, Senegal",
+    "phone": "+221774528344"
+  },
+  {
+    "id": 417,
+    "name": "diazakaland restaurant",
+    "address": "rufisque keury kao immeuble diagne faye rue ousmane soce diop rufisque, 22000, Senegal",
+    "phone": "+221772403407"
+  },
+  {
+    "id": 418,
+    "name": "Restaurant Dibiterie Astou Fata",
+    "address": "villa 3b, Rufisque cité Mtoa, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 419,
+    "name": "Café Touba et Fondé",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 420,
+    "name": "Ma vie 2",
+    "address": "00000, Rufisque 00000, Senegal",
+    "phone": "0000000000"
+  },
+  {
+    "id": 421,
+    "name": "Les délices de bousso ‍",
+    "address": "DALAL DIAM, Rufisque 99000, Senegal",
+    "phone": "+221776700535"
+  },
+  {
+    "id": 422,
+    "name": "Kawly Chicken",
+    "address": "106 cité serigne mansour sy Rufisque ouest, Rufisque, Senegal",
+    "phone": "+221765516235"
+  },
+  {
+    "id": 423,
+    "name": "Restaurant RIO TERANGA",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 424,
+    "name": "Chez tata fama",
+    "address": "25000, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 425,
+    "name": "fast food chez AMA",
+    "address": "Cité Les Manguiers, Rufisque, Senegal",
+    "phone": "+221773962390"
+  },
+  {
+    "id": 426,
+    "name": "FU çaafka services",
+    "address": "Sante yalla, Rufisque, Senegal",
+    "phone": "+221775963680"
+  },
+  {
+    "id": 427,
+    "name": "Sam Peulh Restaurant Bar",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 428,
+    "name": "Fast Food Gazal",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 429,
+    "name": "Restaurant LMR",
+    "address": "Rufisque, Senegal",
+    "phone": "+221774528344"
+  },
+  {
+    "id": 430,
+    "name": "SDSF Rufisque Rond Point Santhiaba",
+    "address": "N1, Pikine, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 431,
+    "name": "Chez Noumou",
+    "address": "Cité baobab 1, Dakar, Senegal",
+    "phone": "+221783230000"
+  },
+  {
+    "id": 432,
+    "name": "O' Bon Coin",
+    "address": "Sonadiss près du service de l'etat civil a coté du garage de, Bargny Gouddau, Senegal",
+    "phone": "+221786062156"
+  },
+  {
+    "id": 433,
+    "name": "Djolof Chicken Rufisque Guendel 2",
+    "address": "0000 Dakar Zac Mbao / Cité SAGEF sur les 2 voies prés du rond point CAPEC, 00000, Senegal",
+    "phone": "0000200000"
+  },
+  {
+    "id": 434,
+    "name": "Fast-food Adja Astou Seck",
+    "address": "Jaxaay-Parcelle-Niakoul Rap, Senegal",
+    "phone": "+221338780948"
+  },
+  {
+    "id": 435,
+    "name": "7Even Crêperie",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 436,
+    "name": "Les délices de bousso ‍",
+    "address": "cités assurance, Kounoune, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 437,
+    "name": "C' Bb Éva",
+    "address": "Dakar, Senegal",
+    "phone": "+221777428246"
+  },
+  {
+    "id": 438,
+    "name": "MAREMA FOOD",
+    "address": "Dakar, Senegal",
+    "phone": "+221338360512"
+  },
+  {
+    "id": 439,
+    "name": "Hurban food",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 440,
+    "name": "Mamy cheikh traiteur",
+    "address": "Rufisque, Senegal",
+    "phone": "+221774528926"
+  },
+  {
+    "id": 441,
+    "name": "Kawly Chicken",
+    "address": "Route, Dakar, Senegal",
+    "phone": "+221338363675"
+  },
+  {
+    "id": 442,
+    "name": "Restaurant avec plaisir",
+    "address": "Unnamed Road, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 443,
+    "name": "Chez tata fama",
+    "address": "Rue Adama Lo, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 444,
+    "name": "Groupe G7",
+    "address": "383, Rufisque, Senegal",
+    "phone": "+221338361648"
+  },
+  {
+    "id": 445,
+    "name": "Chez Noumou",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 446,
+    "name": "Yaye Marème ( Traiteur )",
+    "address": "Cité SENEGUINDIA, Rufisque Dakar, 99000, Senegal",
+    "phone": "+221784614242"
+  },
+  {
+    "id": 447,
+    "name": "Little Heaven SN",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 448,
+    "name": "Urban Food",
+    "address": "N1, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 449,
+    "name": "DIA-ÉN",
+    "address": "cité tacko, Rufisque 10024, Senegal",
+    "phone": "+221779726819"
+  },
+  {
+    "id": 450,
+    "name": "Fast-food Amigo",
+    "address": "733 Rue Ousmane Socé Diap, Dakar, Senegal",
+    "phone": "+221775207807"
+  },
+  {
+    "id": 451,
+    "name": "SDSF Rufisque Rond Point Santhiaba",
+    "address": "Dakar, Senegal",
+    "phone": "+221772015578"
+  },
+  {
+    "id": 452,
+    "name": "Fany",
+    "address": "nouvel horizon, Ndiakhirate en face, Rufisque, Senegal",
+    "phone": "+221778862828"
+  },
+  {
+    "id": 453,
+    "name": "Urban Food Pizzeria",
+    "address": "Rte Bambilor-Rufisque, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 454,
+    "name": "Hotel KEUR JOKKO",
+    "address": "Rufisque, Senegal",
+    "phone": "+221338377076"
+  },
+  {
+    "id": 455,
+    "name": "dakar zac mbao brioche dorée",
+    "address": "958, N1, Dakar, Senegal",
+    "phone": "+221786038278"
+  },
+  {
+    "id": 456,
+    "name": "Grain de d’or",
+    "address": "Rue Ousmane Socé Diap, Dakar, Senegal",
+    "phone": "+221707521651"
+  },
+  {
+    "id": 457,
+    "name": "Restaurant traiteur La Gondole",
+    "address": "Rufisque, Senegal",
+    "phone": "+221773090000"
+  },
+  {
+    "id": 458,
+    "name": "DaVinci Restaurant Lounge Bar",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 459,
+    "name": "Restaurant Asmaou",
+    "address": "Dakar, Senegal",
+    "phone": "+221770200000"
+  },
+  {
+    "id": 460,
+    "name": "Boulangerie P.R Au PRESTIGE",
+    "address": "Unnamed Road, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 461,
+    "name": "Fast Food Sope Linding",
+    "address": "Rufisque, Senegal",
+    "phone": "+221778346363"
+  },
+  {
+    "id": 462,
+    "name": "Poulet de chair \u0026 oeufs au Sénégal",
+    "address": "Unnamed Road, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 463,
+    "name": "Sen Dibi Haoussa",
+    "address": "Dakar, Senegal",
+    "phone": "+221338361507"
+  },
+  {
+    "id": 464,
+    "name": "Chez Astou",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 465,
+    "name": "Restaurant",
+    "address": "Rue Ousmane Socé Diap, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 466,
+    "name": "Brioche dorée Sedima",
+    "address": "Zac, Rufisque, Senegal",
+    "phone": "+221786334964"
+  },
+  {
+    "id": 467,
+    "name": "Restaurant,fast-Food,Dibiterie_Camara Camara",
+    "address": "Lot no 27, Zac Mbao, Rufisque 11322, Senegal",
+    "phone": "+221772552222"
+  },
+  {
+    "id": 468,
+    "name": "Chez Bada Restaurant",
+    "address": "Rufisque, Senegal",
+    "phone": "+221338701042"
+  },
+  {
+    "id": 469,
+    "name": "Mbine-Agro",
+    "address": "DALAL DIAM, Rufisque 99000, Senegal",
+    "phone": "+221776700535"
+  },
+  {
+    "id": 470,
+    "name": "La Rose",
+    "address": "Gare ferroviaire de Rufisque, Dakar, Senegal",
+    "phone": "+221772065401"
+  },
+  {
+    "id": 471,
+    "name": "LES 3S Chez Libasse",
+    "address": "Unnamed Road, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 472,
+    "name": "Sope Serigne Babacar",
+    "address": "Gare Routière, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 473,
+    "name": "Complexe Okay",
+    "address": "Socabeg Rond point clinique Naby, Rufisque 10000, Senegal",
+    "phone": "+221773872058"
+  },
+  {
+    "id": 474,
+    "name": "Restaurant Patisserie Traiteur",
+    "address": "Senegal, dakar, zac mbao, Rufisque, Senegal",
+    "phone": "+221775062685"
+  },
+  {
+    "id": 475,
+    "name": "ALADJI",
+    "address": "Marché Central de Rufisque, Dakar, Senegal",
+    "phone": "+221775076270"
+  },
+  {
+    "id": 476,
+    "name": "CAFE DU PÔLE",
+    "address": "près terrain HLM, Rufisque, Senegal",
+    "phone": "+221773860730"
+  },
+  {
+    "id": 477,
+    "name": "Restaurant de la société ECOTRA SA",
+    "address": "Unnamed Road, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 478,
+    "name": "Au Prestige Restaurant",
+    "address": "villa 3b, Rufisque cité Mtoa, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 479,
+    "name": "The oustal of The Agen",
+    "address": "Sonadis, N1, Dakar, Senegal",
+    "phone": "+221765441635"
+  },
+  {
+    "id": 480,
+    "name": "Keur Yacine",
+    "address": "Cité Les Manguiers, Rufisque, Senegal",
+    "phone": "+221773962390"
+  },
+  {
+    "id": 481,
+    "name": "Justin. Assobénile Sambou",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 482,
+    "name": "Resto Yasmina Chez Mamy",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 483,
+    "name": "Restaurant Royal Mbao",
+    "address": "Cité tacko, Rufisque, Senegal",
+    "phone": "+221773486089"
+  },
+  {
+    "id": 484,
+    "name": "Les Flamboyant",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 485,
+    "name": "Brioche Dorée Zac Mbao",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 486,
+    "name": "Cités assurance",
+    "address": "Sante yalla, Rufisque, Senegal",
+    "phone": "+221775963680"
+  },
+  {
+    "id": 487,
+    "name": "Nathalie madeleine Faye",
+    "address": "Rufisque, Senegal",
+    "phone": "+221783800620"
+  },
+  {
+    "id": 488,
+    "name": "Al Baraka Fast-food-Dibiterie",
+    "address": "Rufisque, Senegal",
+    "phone": "+221773889864"
+  },
+  {
+    "id": 489,
+    "name": "Fast Food Baobab City",
+    "address": "neant, Rufisque, Senegal",
+    "phone": "+221771662098"
+  },
+  {
+    "id": 490,
+    "name": "Boulangerie pâtisserie les baobabs",
+    "address": "Gare ferroviaire de Rufisque, Dakar, Senegal",
+    "phone": "+221772065401"
+  },
+  {
+    "id": 491,
+    "name": "Agence Jumia Rufisque Rue Thionk. Garage bargny Face du restaurant le Gandiol",
+    "address": "Ancienne Route des Entrepôts Layousse X Keur Diop Bukki Rufisque, 25000, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 492,
+    "name": "Côté Plage",
+    "address": "Sonadis, N1, Dakar, Senegal",
+    "phone": "+221765441635"
+  },
+  {
+    "id": 493,
+    "name": "Djolof Chicken Keur Massar",
+    "address": "Centre commercial gare ferroviaire Rufisque, 20000, Senegal",
+    "phone": "+221785939797"
+  },
+  {
+    "id": 494,
+    "name": "Contanne continué chez Jacob",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 495,
+    "name": "Thierno Diop",
+    "address": "12 Rue Pascal, Rufisque, Senegal",
+    "phone": "+221774269156"
+  },
+  {
+    "id": 496,
+    "name": "Ado Délice",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 497,
+    "name": "CNFA Rufisque",
+    "address": "Dakar, Senegal",
+    "phone": "+221776333883"
+  },
+  {
+    "id": 498,
+    "name": "Business Center Senegalsoft",
+    "address": "quartier Arafat 2, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 499,
+    "name": "Arass Business Center",
+    "address": "N°11 B, Rue 3, Dakar, Senegal",
+    "phone": "+221770806555"
+  },
+  {
+    "id": 500,
+    "name": "Rio Scout Shop",
+    "address": "Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 501,
+    "name": "Sea Plaza",
+    "address": "Unnamed Road, Rufisque, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 502,
+    "name": "Sidy ba",
+    "address": "N1, Dakar, Senegal",
+    "phone": "+221774036302"
+  },
+  {
+    "id": 503,
+    "name": "Salim shop center",
+    "address": "Unnamed Road, Dakar, Senegal",
+    "phone": "+221776309182"
+  },
+  {
+    "id": 504,
+    "name": "EMJ",
+    "address": "Dakar, Senegal",
+    "phone": "+221338598962"
+  },
+  {
+    "id": 505,
+    "name": "Dakar City Mall",
+    "address": "Rte de Rufisque, Dakar, Senegal",
+    "phone": "+221338391200"
+  },
+  {
+    "id": 506,
+    "name": "Centre d'appel way2call",
+    "address": "Dakar, Senegal",
+    "phone": "+221784959239"
+  },
+  {
+    "id": 507,
+    "name": "World Business",
+    "address": "Dakar, Senegal",
+    "phone": "+221763403944"
+  },
+  {
+    "id": 508,
+    "name": "Centre commercial Kermel",
+    "address": "Rte du Front de Terre, Dakar 11000, Senegal",
+    "phone": "+221774606794"
+  },
+  {
+    "id": 509,
+    "name": "Centre Commercial Du Port",
+    "address": "Dakar, Senegal",
+    "phone": "+221338496549"
+  },
+  {
+    "id": 510,
+    "name": "Centre commercial Malick Sy",
+    "address": "route de rufisque km 3, Dakar, Senegal",
+    "phone": "+221338598090"
+  },
+  {
+    "id": 511,
+    "name": "CITY SPORT: PONTY",
+    "address": "Unnamed Road, Pikine, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 512,
+    "name": "Lodia shop",
+    "address": "Immeuble Meroue, 3 Av. G. Pompidou, Dakar, Senegal",
+    "phone": "+221338429835"
+  },
+  {
+    "id": 513,
+    "name": "El Malick",
+    "address": "Liberté 6 extension - Route du Camp Pénal Numéro 17 magasin 3, Dakar, Senegal",
+    "phone": "+221770588531"
+  },
+  {
+    "id": 514,
+    "name": "Super marché carrefour saly",
+    "address": "Dakar, Senegal",
+    "phone": "+221786339653"
+  },
+  {
+    "id": 515,
+    "name": "Chez Billy Fat-Fat (Fast Agency of Trafic)",
+    "address": "Avenue Place 116, Dakar, Senegal",
+    "phone": "+221775369397"
+  },
+  {
+    "id": 516,
+    "name": "SuñuPlaza",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 517,
+    "name": "ccbm electronics",
+    "address": "Rue Dagorne, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 518,
+    "name": "Spa Beauté dakar",
+    "address": "Cité Douane Golf Sud Océan, Dakar, Senegal",
+    "phone": "+221753331326"
+  },
+  {
+    "id": 519,
+    "name": "Les Niayes Sarraut km2.5",
+    "address": "Allees Seydou Nourou Tall, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 520,
+    "name": "hizbut tarqiyyah rufisque",
+    "address": "Dakar, Senegal",
+    "phone": "+221774567771"
+  },
+  {
+    "id": 521,
+    "name": "Datacenter Sonatel Group",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 522,
+    "name": "Senfournitures.com",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 523,
+    "name": "IFAN Historical Museum",
+    "address": "Dakar, Senegal",
+    "phone": "+22376023855"
+  },
+  {
+    "id": 524,
+    "name": "Bandia Reserve",
+    "address": "Dakar, Senegal",
+    "phone": "+221776493824"
+  },
+  {
+    "id": 525,
+    "name": "The Museum of Black Civilisations",
+    "address": "Dakar, Senegal",
+    "phone": "+221771221099"
+  },
+  {
+    "id": 526,
+    "name": "Hann Zoological Park",
+    "address": "Dakar, Senegal",
+    "phone": "+221338310101"
+  },
+  {
+    "id": 527,
+    "name": "Village Des Arts",
+    "address": "Somone, Senegal",
+    "phone": "+221781629978"
+  },
+  {
+    "id": 528,
+    "name": "Lagune de la Somone",
+    "address": "Rue Place 18, Dakar, Senegal",
+    "phone": "+221338239268"
+  },
+  {
+    "id": 529,
+    "name": "Mosque of the Divinity",
+    "address": "Sindia, Senegal",
+    "phone": "+221775565927"
+  },
+  {
+    "id": 530,
+    "name": "Protected area In Fadiouth",
+    "address": "Résidence cristallines, Saly 23002, Senegal",
+    "phone": "+221776930092"
+  },
+  {
+    "id": 531,
+    "name": "Loman Art House - Art Gallery",
+    "address": "Rue HLM 13, Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 532,
+    "name": "Henriette-Bathily Women's Museum",
+    "address": "Av. de la Lagune, Somone, Senegal",
+    "phone": "+221783366472"
+  },
+  {
+    "id": 533,
+    "name": "Ile de Ngor",
+    "address": "Mbour, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 534,
+    "name": "Dakarnave",
+    "address": "Rue du castel, Dakar, Senegal",
+    "phone": "+221760226295"
+  },
+  {
+    "id": 535,
+    "name": "Popenguine",
+    "address": "Immeuble Keur Diaba, rue 81 (ancienne route de la Météo), Mermoz Pyrotechnique, Senegal",
+    "phone": "+221338684530"
+  },
+  {
+    "id": 536,
+    "name": "Khadim guide Sénégal",
+    "address": "Rond point Diakhao, M'bour, Senegal",
+    "phone": "+221339397272"
+  },
+  {
+    "id": 537,
+    "name": "Bandia",
+    "address": "villa no. 1 rue de pharmacy Atlantic Mamelles Dakar, 12500, Senegal",
+    "phone": "+221778481579"
+  },
+  {
+    "id": 538,
+    "name": "Do",
+    "address": "Mamelles, Rte de l'Aeroport, Dakar, Senegal",
+    "phone": "+221773437272"
+  },
+  {
+    "id": 539,
+    "name": "Toubab Dialao",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 540,
+    "name": "Joal Fadiout",
+    "address": "75 Boulevard de la République, Dakar, Senegal",
+    "phone": "+221338232467"
+  },
+  {
+    "id": 541,
+    "name": "Diakhao",
+    "address": "Av. Malick Sy, Dakar, Senegal",
+    "phone": "+201221268200"
+  },
+  {
+    "id": 542,
+    "name": "Kaolack",
+    "address": "Unnamed Road, Joal Fadiouth, Joal Fadiouth, Senegal",
+    "phone": "+221773992233"
+  },
+  {
+    "id": 543,
+    "name": "Africa Protravel",
+    "address": "89 rue Joseph Gomis, Dakar, Senegal",
+    "phone": "+221338230320"
+  },
+  {
+    "id": 544,
+    "name": "Richard Toll",
+    "address": "Niodior, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 545,
+    "name": "Point Relais JUMIA - Kaolack",
+    "address": "Kaolack, Senegal",
+    "phone": "+221339419360"
+  },
+  {
+    "id": 546,
+    "name": "Le Relais Hotel",
+    "address": "Kaolack, Senegal",
+    "phone": "+221339418464"
+  },
+  {
+    "id": 547,
+    "name": "Adjana Hotel",
+    "address": "745 N1, Kaolack, Senegal",
+    "phone": "+221777008807"
+  },
+  {
+    "id": 548,
+    "name": "Auberge l'étape",
+    "address": "Kaolack, Senegal",
+    "phone": "+221338653636"
+  },
+  {
+    "id": 549,
+    "name": "DJOLLOFF INN",
+    "address": "Shell, Garage Nioro, station Shell située en face du stade de Kaolack (Station, Kaolack, Senegal",
+    "phone": "+221779463147"
+  },
+  {
+    "id": 550,
+    "name": "Auberge Le Baobab",
+    "address": "Passi, Senegal",
+    "phone": "+221339485040"
+  },
+  {
+    "id": 551,
+    "name": "Etoile du Sine",
+    "address": "Avenue Cheikh Ibra Fall, Kaolack, Senegal",
+    "phone": "+221775777777"
+  },
+  {
+    "id": 552,
+    "name": "Résidence les jardins",
+    "address": "Rue Galliene, Kaolack, Senegal",
+    "phone": "+221777476996"
+  },
+  {
+    "id": 553,
+    "name": "Ô Coeur De Passy",
+    "address": "4XW2+8F8 route de Kahone, Kaolack, Senegal",
+    "phone": "+221339384290"
+  },
+  {
+    "id": 554,
+    "name": "Motel De La Paix",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 555,
+    "name": "Chez Ousmane Ndong Diouf",
+    "address": "136, Cité KEBE, Kaolack, Senegal",
+    "phone": "+221776131245"
+  },
+  {
+    "id": 556,
+    "name": "Restaurant Blue Bird",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 557,
+    "name": "Le Brasero Chez Anouar",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 558,
+    "name": "Le Farisse",
+    "address": "nationale 1, Kaolack, Senegal",
+    "phone": "+221339419800"
+  },
+  {
+    "id": 559,
+    "name": "La Kaolackoise Restaurant Traiteur",
+    "address": "Ave Delois, Kaolack, Senegal",
+    "phone": "+221779941360"
+  },
+  {
+    "id": 560,
+    "name": "Saveurs Roses",
+    "address": "Route Mbour - Fatick, Kaolack, Senegal",
+    "phone": "+221339411212"
+  },
+  {
+    "id": 561,
+    "name": "Restaurant Sun Saloum",
+    "address": "868 Rue Marechal Bugeau, Kaolack, Senegal",
+    "phone": "+221776596526"
+  },
+  {
+    "id": 562,
+    "name": "Bouvette Khadim kaolack",
+    "address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 563,
+    "name": "Restaurant LA PALASSE",
+    "address": "Ave Cheikh Ibra Fall, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 564,
+    "name": "Dibiterie cheikh Fall",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 565,
+    "name": "RESTAURANT MANCHALLAH",
+    "address": "Restaurant Chez Maty - Quartier Leona - Centre-ville, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 566,
+    "name": "La Fontaine",
+    "address": "N1, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 567,
+    "name": "Restaurant La Lumiere Keur Serigne Saliou Mbacke Chez Coui",
+    "address": "Keur khoussen Keur khoussen Keur khoussen, Kaolack, Senegal",
+    "phone": "+221339417000"
+  },
+  {
+    "id": 568,
+    "name": "Kuyito",
+    "address": "Diourbel Road, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 569,
+    "name": "Macha ALLAH",
+    "address": "Av. Basile Senghore, Kaolack, Senegal",
+    "phone": "+221771917474"
+  },
+  {
+    "id": 570,
+    "name": "Djolof Chicken Kaolack",
+    "address": "Diourbel Road, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 571,
+    "name": "Bakery",
+    "address": "Diourbel Road, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 572,
+    "name": "Dibiterie Fall Yaram",
+    "address": "Darou, Rahmaty, Kaolack, Senegal",
+    "phone": "+221779255555"
+  },
+  {
+    "id": 573,
+    "name": "Fast Food Amithie Chez Madame Sarr",
+    "address": "1138 Trans-Gambia Hwy, Kaolack, Senegal",
+    "phone": "+221765503326"
+  },
+  {
+    "id": 574,
+    "name": "Pizzeria",
+    "address": "Kaolack, Senegal",
+    "phone": "+221775550330"
+  },
+  {
+    "id": 575,
+    "name": "Restaurant Chez Maman Dara",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 576,
+    "name": "Dibiterie lamb toucouleur",
+    "address": "Kasnack ABC, Kaolack, Senegal",
+    "phone": "+221784261946"
+  },
+  {
+    "id": 577,
+    "name": "Sope Serigne Fallou",
+    "address": "Diourbel Road, Kaolack, Senegal",
+    "phone": "+221339413028"
+  },
+  {
+    "id": 578,
+    "name": "Restaurant Le Taif",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 579,
+    "name": "Restaurant Chawarma Fast Food Chez.Fa",
+    "address": "402, Kaolack, Senegal",
+    "phone": "+221775550303"
+  },
+  {
+    "id": 580,
+    "name": "bar chez maman treze",
+    "address": "Kaolack 24000, Senegal",
+    "phone": "+221772728401"
+  },
+  {
+    "id": 581,
+    "name": "Restaurant Teranga",
+    "address": "Diourbel Road, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 582,
+    "name": "Keur Mame Khady Resto",
+    "address": "520 N1, Kaolack, Senegal",
+    "phone": "+221776943671"
+  },
+  {
+    "id": 583,
+    "name": "MAMAN BAMBY FOOD (MBF)",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 584,
+    "name": "Restaurant la Détente Kaolack",
+    "address": "N 1, Kaolack, Senegal",
+    "phone": "+221339411608"
+  },
+  {
+    "id": 585,
+    "name": "SDF",
+    "address": "1004 N1, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 586,
+    "name": "Rolex",
+    "address": "Unnamed Road, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 587,
+    "name": "TROPICAL",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 588,
+    "name": "boulangerie serigne touba",
+    "address": "Ave Cheikh Ibra Fall, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 589,
+    "name": "Grillsteph",
+    "address": "Kaolack, Senegal",
+    "phone": "+221776164126"
+  },
+  {
+    "id": 590,
+    "name": "Restaurant la Détente",
+    "address": "Rue de la Gare, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 591,
+    "name": "Residence Hilton (Léona Kik)",
+    "address": "Diourbel Road, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 592,
+    "name": "Depot Jai Laxmi",
+    "address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 593,
+    "name": "Al Khaïry",
+    "address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 594,
+    "name": "Sen Teranga Fast Food",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 595,
+    "name": "Chez Ndeye Touty",
+    "address": "Kaolack-Diourbel Rd, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 596,
+    "name": "Restaurant Serigne Bassirou",
+    "address": "Kaolack, Senegal",
+    "phone": "+221339412121"
+  },
+  {
+    "id": 597,
+    "name": "Restaurant Chez Ouley",
+    "address": "Restaurant Chez Maty - Quartier Leona, Kaolack, Senegal",
+    "phone": "+221339416486"
+  },
+  {
+    "id": 598,
+    "name": "Resto Fast Food Senegale - Malien",
+    "address": "N 1, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 599,
+    "name": "Jontado Kaolack 1",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 600,
+    "name": "EDK Oil Kaolack",
+    "address": "Kaolack, Senegal",
+    "phone": "+221339417001"
+  },
+  {
+    "id": 601,
+    "name": "Ametg",
+    "address": "520 N1, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 602,
+    "name": "Auberge Baobab Restaurant",
+    "address": "Ave Cheikh Ibra Fall, Kaolack, Senegal",
+    "phone": "+221771426327"
+  },
+  {
+    "id": 603,
+    "name": "Coeur de ville",
+    "address": "cimetière des musulmans (quartier Dialégne), Kaolack 24000, Senegal",
+    "phone": "+221763531446"
+  },
+  {
+    "id": 604,
+    "name": "AMC Business Center",
+    "address": "Carrefour Transgambien, Pont Noirot, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 605,
+    "name": "C3S KAOLACK",
+    "address": "Kaolack, Senegal",
+    "phone": "+221775201046"
+  },
+  {
+    "id": 606,
+    "name": "Ciss Plaza",
+    "address": "Kaolack, Senegal",
+    "phone": "+221339411141"
+  },
+  {
+    "id": 607,
+    "name": "Marché Central de Médina Baye Niass",
+    "address": "Leona, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 608,
+    "name": "Epicerie De France Avenue John Kenrdy",
+    "address": "Iboudjiba77@gmail.com, Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 609,
+    "name": "Marché central de Kaolack",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 610,
+    "name": "Gsm Business Center",
+    "address": "Kaolack, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 611,
+    "name": "Marché bou ndaw",
+    "address": "Ave Delois, Kaolack, Senegal",
+    "phone": "+221774519692"
+  },
+  {
+    "id": 612,
+    "name": "Boulangerie de Ngane Saër",
+    "address": "Kaolack, Senegal",
+    "phone": "+221779888229"
+  },
+  {
+    "id": 613,
+    "name": "Fathala",
+    "address": "Toubakouta, Senegal",
+    "phone": "+221773294297"
+  },
+  {
+    "id": 614,
+    "name": "Kaolack Region",
+    "address": "Niodior, Senegal",
+    "phone": ""
+  },
+  {
+    "id": 615,
+    "name": "Kaolack",
+    "address": "4XW2+8F8 route de Kahone, Kaolack, Senegal",
+    "phone": "+221339384290"
+  },
+  {
+    "id": 616,
+    "name": "Hann Zoological Park",
+    "address": "Unnamed Road, Joal Fadiouth, Joal Fadiouth, Senegal",
+    "phone": "+221773992233"
+  },
+  {
+    "id": 617,
+    "name": "Protected area In Fadiouth",
+    "address": "Somone, Senegal",
+    "phone": "+221781629978"
+  },
+  {
+    "id": 618,
+    "name": "Lagune de la Somone",
+    "address": "Sindia, Senegal",
+    "phone": "+221775565927"
+  },
+  {
+    "id": 619,
+    "name": "Adjana Hotel",
+    "address": "Dakar, Senegal",
+    "phone": "+221338310101"
+  },
+  {
+    "id": 620,
+    "name": "Faidherbe Bridge",
+    "address": "Fathala Wildlife Reserve Karang, 24020, Senegal",
+    "phone": "+221773294297"
+  },
+  {
+    "id": 621,
+    "name": "Fathala Wildlife Reserve - Safari Senegal Accommodation",
+    "address": "Rue Galliene, Kaolack, Senegal",
+    "phone": "+221777476996"
+  },
+  {
+    "id": 622,
+    "name": "Saloum Delta",
+    "address": "lot 224 kasnack, Kaolack, Senegal",
+    "phone": "+221774944374"
+  },
+  {
+    "id": 623,
+    "name": "Pakarang Cape",
+    "address": "89 rue Joseph Gomis, Dakar, Senegal",
+    "phone": "+221338230320"
+  },
+  {
+    "id": 624,
+    "name": "Les Aventuriers du Saloum",
+    "address": "2FGX+8F8 Pont Faidherbe, St Louis, Senegal",
+    "phone": "+221773149686"
+  }
 ]

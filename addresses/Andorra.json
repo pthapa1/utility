@@ -1,3410 +1,3410 @@
 [
- {
-  "id": 1,
-  "name": "Glaner Hotel Café",
-  "Address": "Carrer de na Maria Pla, 19-21, AD500 Andorra la Vella, Andorra",
-  "phone": "+376879444"
- },
- {
-  "id": 2,
-  "name": "Hotel Zenit Diplomatic | Andorra la Vella",
-  "Address": "Carrer de la Roda, S N, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873602"
- },
- {
-  "id": 3,
-  "name": "Grand Plaza Hotel \u0026 Wellness",
-  "Address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
-  "phone": "+376877777"
- },
- {
-  "id": 4,
-  "name": "Andorra Park Hotel",
-  "Address": "Av. Meritxell, 114, AD500 Andorra la Vella, Andorra",
-  "phone": "+376810030"
- },
- {
-  "id": 5,
-  "name": "Suites Plaza Hotel \u0026 Wellness Andorra",
-  "Address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
-  "phone": "+376605700"
- },
- {
-  "id": 6,
-  "name": "Hotel Starc by Pierre \u0026 Vacances Premium",
-  "Address": "Carrer Prat de la Creu, 14, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873603"
- },
- {
-  "id": 7,
-  "name": "Hotel Restaurant de l'Isard",
-  "Address": "Av. Príncep Benlloch, 20, AD500 Andorra la Vella, Andorra",
-  "phone": "+376879879"
- },
- {
-  "id": 8,
-  "name": "Hôtel Mercure Andorra",
-  "Address": "Carrer Prat de la Creu, 88, AD500 Andorra la Vella, Andorra",
-  "phone": "+376874444"
- },
- {
-  "id": 9,
-  "name": "Novotel Andorra",
-  "Address": "Av. Meritxell, 34, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876800"
- },
- {
-  "id": 10,
-  "name": "Hotel Pyrénées",
-  "Address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
-  "phone": "+376802780"
- },
- {
-  "id": 11,
-  "name": "Hotel Sant Jordi",
-  "Address": "Carrer Roureda de Sansa, 2, AD500 Andorra la Vella, Andorra",
-  "phone": "+376820061"
- },
- {
-  "id": 12,
-  "name": "Hotel NH Andorra La Vella",
-  "Address": "Carretera General 2 nº26, AD100 Soldeu, Andorra",
-  "phone": "+376751150"
- },
- {
-  "id": 13,
-  "name": "Acta Arthotel",
-  "Address": "Ctra. de Fontaneda, S/N, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376841043"
- },
- {
-  "id": 14,
-  "name": "Aston Hotel",
-  "Address": "Av. de François Mitterrand, 68, AD200 Encamp, Andorra",
-  "phone": "+376727879"
- },
- {
-  "id": 15,
-  "name": "Hotel Best Andorra Center",
-  "Address": "Av. de François Mitterrand, 102, AD200 Encamp, Andorra",
-  "phone": "+376834671"
- },
- {
-  "id": 16,
-  "name": "Hotel Yomo Cèntric",
-  "Address": "CG-2, AD100 Canillo, Andorra",
-  "phone": "+376870550"
- },
- {
-  "id": 17,
-  "name": "Hotel Spa Termes Carlemany",
-  "Address": "Carretera General s/n, AD100 Vall Incles, Andorra",
-  "phone": "+376736666"
- },
- {
-  "id": 18,
-  "name": "Hotel les Fonts",
-  "Address": "Camí Cap del Carrer, 4, AD400 La Massana, Andorra",
-  "phone": "+376813138"
- },
- {
-  "id": 19,
-  "name": "Eurostars Andorra",
-  "Address": "Av. del Ravell, 1, AD400 La Massana, Andorra",
-  "phone": "+376734900"
- },
- {
-  "id": 20,
-  "name": "Hotel City M28",
-  "Address": "Crta Gral. de França, km 17'500, AD100 Incles-Canillo, Andorra",
-  "phone": "17500100"
- },
- {
-  "id": 21,
-  "name": "Barri Antic Hostel \u0026 Pub",
-  "Address": "Carrer dels Cavallers, 38, AD200 Encamp, Andorra",
-  "phone": "+376831513"
- },
- {
-  "id": 22,
-  "name": "Hotel Andorra Palace",
-  "Address": "Arinsal, La Massana AD, Carretera de Arinsal, s/n, AD400 Erts, Andorra",
-  "phone": "+376738787"
- },
- {
-  "id": 23,
-  "name": "Hotel Andorra Palace",
-  "Address": "Carretera General, s/n, AD300 La Cortinada, Andorra",
-  "phone": "+376850151"
- },
- {
-  "id": 24,
-  "name": "Barri Antic Hostel \u0026 Pub",
-  "Address": "Av. del Jovell, 20, AD400 Sispony, Andorra",
-  "phone": "+376835355"
- },
- {
-  "id": 25,
-  "name": "HMC Caena",
-  "Address": "Av. del Ravell, 3, AD400 La Massana, Andorra",
-  "phone": "+376738738"
- },
- {
-  "id": 26,
-  "name": "Hostal Cisco De Sans",
-  "Address": "Ctra. de Ransol, S/N, AD100 Ransol, Andorra",
-  "phone": "+376853003"
- },
- {
-  "id": 27,
-  "name": "Hotel Zenit Diplomatic | Andorra la Vella",
-  "Address": "Avinguda d'Ensegur Arans, S/N, AD300 Arans, Andorra",
-  "phone": "+376835086"
- },
- {
-  "id": 28,
-  "name": "President",
-  "Address": "Carrer del Camp de la Tanada, AD300 Ordino, Andorra",
-  "phone": "+376736100"
- },
- {
-  "id": 29,
-  "name": "Hotel Metropolis",
-  "Address": "Carrer del Camp de la Tanada, AD300 Ordino, Andorra",
-  "phone": "+376736100"
- },
- {
-  "id": 30,
-  "name": "Insitu Eurotel Andorra",
-  "Address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
-  "phone": "+376736500"
- },
- {
-  "id": 31,
-  "name": "Yomo Mola Park",
-  "Address": "Av. Carlemany, 107, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376739900"
- },
- {
-  "id": 32,
-  "name": "Hotel Màgic Andorra",
-  "Address": "Carretera General, s/n, AD100 Soldeu, Andorra",
-  "phone": "+376872787"
- },
- {
-  "id": 33,
-  "name": "Hotel Les Closes",
-  "Address": "Av. de Sant Antoni, 36, AD400 La Massana, Andorra",
-  "phone": "+376738363"
- },
- {
-  "id": 34,
-  "name": "Glaner Hotel Café",
-  "Address": "Av. de les Escoles, 29, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376876000"
- },
- {
-  "id": 35,
-  "name": "Hotel Espel",
-  "Address": "Av. de François Mitterrand, 102, AD200 Encamp, Andorra",
-  "phone": "+376834671"
- },
- {
-  "id": 36,
-  "name": "Exe Princep",
-  "Address": "Avinguda les Subiranes s/n, AD300 El Serrat, Andorra",
-  "phone": "+376749100"
- },
- {
-  "id": 37,
-  "name": "Hotel Exe Prisma",
-  "Address": "Carrer Sant Salvador, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+34971425588"
- },
- {
-  "id": 38,
-  "name": "Les 7 Claus Hotel",
-  "Address": "Av. el Través, 7, AD400 La Massana, Andorra",
-  "phone": "+376735900"
- },
- {
-  "id": 39,
-  "name": "Hotel Festa Brava",
-  "Address": "Carrer de la Solana, 24, AD200 Pas de la Casa, Andorra",
-  "phone": "+376736800"
- },
- {
-  "id": 40,
-  "name": "Hotel Tudel",
-  "Address": "Av. Rocafort, 26, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376843478"
- },
- {
-  "id": 41,
-  "name": "Tulip Inn Andorra Hotel Delfos",
-  "Address": "Av. de Joan Martí, 104, AD200 Encamp, Andorra",
-  "phone": "+376731116"
- },
- {
-  "id": 42,
-  "name": "Hotel Marfany",
-  "Address": "Meritxell, Carretera General, 35, AD100, Andorra",
-  "phone": "+376751050"
- },
- {
-  "id": 43,
-  "name": "Aparthotel Conseller",
-  "Address": "Avenida Sant Joan de Caselles, 63, AD100 Canillo, Andorra",
-  "phone": "+376851825"
- },
- {
-  "id": 44,
-  "name": "Cal Forner",
-  "Address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
-  "phone": "+376753753"
- },
- {
-  "id": 45,
-  "name": "Yomo Eureka hotel",
-  "Address": "Carretera dels Cortals Encamp Km 3, AD200 Encamp, Andorra",
-  "phone": "+376804100"
- },
- {
-  "id": 46,
-  "name": "Hotel Encamp — Esquía en Andorra con Forfait",
-  "Address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
-  "phone": "+376739444"
- },
- {
-  "id": 47,
-  "name": "Aparthotel el Serch",
-  "Address": "Carrer dels Arínsols, 10, AD200 Encamp, Andorra",
-  "phone": "+376733900"
- },
- {
-  "id": 48,
-  "name": "Siracusa",
-  "Address": "Ctra. de Canòlich, AD600 Sant Julià de Lòria, Andorra, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376842382"
- },
- {
-  "id": 49,
-  "name": "Hotel Camp del Serrat",
-  "Address": "Carretera General 2, n.19, AD100 Soldeu, Andorra",
-  "phone": "+376871787"
- },
- {
-  "id": 50,
-  "name": "Abba Xalet Suites Hotel",
-  "Address": "Carrer del Pas de la Casa, 6, AD200 Encamp, Andorra",
-  "phone": "+376831516"
- },
- {
-  "id": 51,
-  "name": "HOTEL ROC MELER",
-  "Address": "Av. el Través, 5, AD400 La Massana, Andorra",
-  "phone": "+376738300"
- },
- {
-  "id": 52,
-  "name": "AnyósPark The Mountain \u0026 Wellness Resort",
-  "Address": "Ctra general s/n Arans, AD300 La Cortinada, Andorra",
-  "phone": "+376850988"
- },
- {
-  "id": 53,
-  "name": "Hotel Coma Bella",
-  "Address": "Estación de esquí de Grandvalira, sector Grau Roig, AD200 Grau Roig, Andorra",
-  "phone": "+376755556"
- },
- {
-  "id": 54,
-  "name": "HOTEL RESIDÈNCIA ALDOSA",
-  "Address": "Ctra. de Sispony i dels Plans, AD400 La Massana, Andorra",
-  "phone": "+376737300"
- },
- {
-  "id": 55,
-  "name": "Hotel NH Collection Andorra Palomé",
-  "Address": "Carrer de Lòria, 6, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376735200"
- },
- {
-  "id": 56,
-  "name": "Ushuaia Mountain Hotel",
-  "Address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
-  "phone": "+376736400"
- },
- {
-  "id": 57,
-  "name": "Hotel Spa Princesa Parc Andorra",
-  "Address": "Ctra. d'Espanya, s/n, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376743100"
- },
- {
-  "id": 58,
-  "name": "HOTEL SANT ELOI",
-  "Address": "Crta. d'Arinsal s/n, AD400 Erts, Andorra",
-  "phone": ""
- },
- {
-  "id": 59,
-  "name": "Abba Sispony",
-  "Address": "Plaça del Poble, 6, L´Aldosa, AD400 La Massana, Andorra",
-  "phone": "+376727246"
- },
- {
-  "id": 60,
-  "name": "Hotel Pere d'Urg",
-  "Address": "Ctra. d'Anyós, 59, AD400 La Massana, Andorra",
-  "phone": "+376737173"
- },
- {
-  "id": 61,
-  "name": "Grau Roig Andorra Boutique Hotel \u0026 Spa",
-  "Address": "Ctra de La Rabassa Km. 6, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376742030"
- },
- {
-  "id": 62,
-  "name": "Del Pui",
-  "Address": "Ctra. de Comallempla, AD400 Arinsal, Andorra",
-  "phone": "+376737575"
- },
- {
-  "id": 63,
-  "name": "Hotel Folch",
-  "Address": "Urb. la Ribagrossa, 13, AD100, Andorra",
-  "phone": "+376830714"
- },
- {
-  "id": 64,
-  "name": "Park Piolets Mountain Hotel \u0026 Spa",
-  "Address": "Terra Major de Sispony, Carrer Major, AD400, Andorra",
-  "phone": "+376737300"
- },
- {
-  "id": 65,
-  "name": "Hotel Antic",
-  "Address": "Av. del Ravell, 2, AD400 La Massana, Andorra",
-  "phone": "+376838444"
- },
- {
-  "id": 66,
-  "name": "Sport Hotels Resort \u0026 Spa",
-  "Address": "Crta General II - Tram Soldeu 56, AD100 Soldeu, Andorra",
-  "phone": "+376870670"
- },
- {
-  "id": 67,
-  "name": "Hotel Pitiusa",
-  "Address": "Carretera d'Engolasters, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376809590"
- },
- {
-  "id": 68,
-  "name": "Hotel Parador de Canòlich",
-  "Address": "Av. Carlemany, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376821125"
- },
- {
-  "id": 69,
-  "name": "Hotel Guillem",
-  "Address": "Av. Fiter i Rossell, 25, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376890990"
- },
- {
-  "id": 70,
-  "name": "Les Pardines 1819",
-  "Address": "Av. de Joan Martí, 95, AD200 Encamp, Andorra",
-  "phone": "+376733999"
- },
- {
-  "id": 71,
-  "name": "Font d'Argent Canillo",
-  "Address": "Av. Carlemany, 36, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376880666"
- },
- {
-  "id": 72,
-  "name": "Hotel Ski Plaza \u0026 Wellness",
-  "Address": "Av. Príncep Benlloch, 24, AD500 Andorra la Vella, Andorra",
-  "phone": "+376866880"
- },
- {
-  "id": 73,
-  "name": "Hotel Roc del Castell",
-  "Address": "Av. del Pont de la Tosca, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376806306"
- },
- {
-  "id": 74,
-  "name": "Hotel l'Ermita B\u0026B",
-  "Address": "Avinguda del Fener, 17, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376877000"
- },
- {
-  "id": 75,
-  "name": "Tivoli",
-  "Address": "Av. Carlemany, 99, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376825957"
- },
- {
-  "id": 76,
-  "name": "Yomo Imperial Hotel",
-  "Address": "Plaça Coprínceps, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820563"
- },
- {
-  "id": 77,
-  "name": "Hotel Cristina",
-  "Address": "Av. Fiter i Rossell, 49, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376803480"
- },
- {
-  "id": 78,
-  "name": "Hotel Montecarlo Andorra",
-  "Address": "Carrer la Llacuna, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376820741"
- },
- {
-  "id": 79,
-  "name": "Hotel Màgic La Massana",
-  "Address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376802930"
- },
- {
-  "id": 80,
-  "name": "Hotel Arbre De Neu",
-  "Address": "Carrer de la Unió, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376870400"
- },
- {
-  "id": 81,
-  "name": "Hotel \u0026 Spa Xalet Bringué",
-  "Address": "Plaça de la Creu Blanca nº1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820855"
- },
- {
-  "id": 82,
-  "name": "Hotel Comtes d'Urgell",
-  "Address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
-  "phone": "+376605700"
- },
- {
-  "id": 83,
-  "name": "Hotel Marco Polo",
-  "Address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
-  "phone": "+376808393"
- },
- {
-  "id": 84,
-  "name": "Hotel MIM Andorra",
-  "Address": "Av. Dr. Mitjavila, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876900"
- },
- {
-  "id": 85,
-  "name": "Hotel Piolets Soldeu Centre",
-  "Address": "Carrer Josep Viladomat, 22, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376882000"
- },
- {
-  "id": 86,
-  "name": "Aparthotel la Tulipa",
-  "Address": "Av. Fiter i Rossell, 51, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 87,
-  "name": "Hotel Coma",
-  "Address": "Av. de Santa Coloma, 42, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876201"
- },
- {
-  "id": 88,
-  "name": "Logis Hotel Restaurant Coma",
-  "Address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
-  "phone": "+376802780"
- },
- {
-  "id": 89,
-  "name": "Hotel Spa Diana Parc Andorra",
-  "Address": "Carrer Anna Maria Janer, 4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376728328"
- },
- {
-  "id": 90,
-  "name": "Wuau! Hotel Segle XX Andorra",
-  "Address": "Baixada del Molí, 49, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 91,
-  "name": "Rutllan",
-  "Address": "Avd. de les Escoles nº25, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376808363"
- },
- {
-  "id": 92,
-  "name": "Hotel Sucara",
-  "Address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
-  "phone": "+376845969"
- },
- {
-  "id": 93,
-  "name": "Hotel Sant Gothard — Ski en Arinsal",
-  "Address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
-  "phone": "+376845969"
- },
- {
-  "id": 94,
-  "name": "Hotel la Burna Panoràmic",
-  "Address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873601"
- },
- {
-  "id": 95,
-  "name": "Evenia Coray",
-  "Address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873601"
- },
- {
-  "id": 96,
-  "name": "Secret Spot Hostel",
-  "Address": "Av. Meritxell, 28, AD500 Andorra la Vella, Andorra",
-  "phone": "+376820636"
- },
- {
-  "id": 97,
-  "name": "Sport Hotel",
-  "Address": "Av. Meritxell, 23, AD500 Andorra la Vella, Andorra",
-  "phone": "+376886800"
- },
- {
-  "id": 98,
-  "name": "Hotel Griu",
-  "Address": "l'Aigüeta,, Carrer de l'Aigüeta, 6, AD500 Andorra la Vella, Andorra",
-  "phone": "+376821393"
- },
- {
-  "id": 99,
-  "name": "Wuau! Hotel Galanthus \u0026 Spa",
-  "Address": "Av. Carlemany, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376870050"
- },
- {
-  "id": 100,
-  "name": "Hotel Màgic Ski",
-  "Address": "Carrer Dr. Nequi, 12, AD500 Andorra la Vella, Andorra",
-  "phone": "+376824800"
- },
- {
-  "id": 101,
-  "name": "Restaurant CAN MANEL",
-  "Address": "C/ Mossen Tremosa nº6, AD500 Andorra la Vella, Andorra",
-  "phone": "+376818918"
- },
- {
-  "id": 102,
-  "name": "Restaurant el Crostó",
-  "Address": "Carrer Verge del Pilar, 4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376862750"
- },
- {
-  "id": 103,
-  "name": "MiraKbé! Gastrobar \u0026 Restaurant",
-  "Address": "Plaça Princep Benlloch nº 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376822397"
- },
- {
-  "id": 104,
-  "name": "Restaurant Eric MARTY",
-  "Address": "Carrer Bonaventura Riberaygua, 8, AD500 Andorra la Vella, Andorra",
-  "phone": "+376861001"
- },
- {
-  "id": 105,
-  "name": "1940",
-  "Address": "Cap del Carrer, 1, AD500 Andorra la Vella, Andorra",
-  "phone": "+376821331"
- },
- {
-  "id": 106,
-  "name": "Restaurant Celler d'En Toni",
-  "Address": "Carrer de l'Aigüeta, n°4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376830930"
- },
- {
-  "id": 107,
-  "name": "Taverna Lapurdi",
-  "Address": "20 bis, Av. Príncep Benlloch, 20, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860006"
- },
- {
-  "id": 108,
-  "name": "Restaurant Plat'In",
-  "Address": "Cap del Carrer, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376862931"
- },
- {
-  "id": 109,
-  "name": "Restaurant VERSAILLES",
-  "Address": "Plaça Príncep Benlloch, 4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376863323"
- },
- {
-  "id": 110,
-  "name": "LA ADELITA",
-  "Address": "Carrer Pere d'Urg, 10, AD500 Andorra la Vella, Andorra",
-  "phone": "+376863444"
- },
- {
-  "id": 111,
-  "name": "Arrosseria Andorra Restaurant",
-  "Address": "Carrer de na Maria Pla, 32, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 112,
-  "name": "Kökosnøt",
-  "Address": "Carrer de la Roda, s n, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 113,
-  "name": "Restaurant Cafè l´Isard",
-  "Address": "Av. Dr. Mitjavila, 27, AD500 Andorra la Vella, Andorra",
-  "phone": "+376821871"
- },
- {
-  "id": 114,
-  "name": "Borda Estevet",
-  "Address": "Prat de la Creu s n, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873603"
- },
- {
-  "id": 115,
-  "name": "Restaurant EXIMI",
-  "Address": "Carrer Verge del Pilar, AD500 Andorra la Vella, Andorra",
-  "phone": "+376821252"
- },
- {
-  "id": 116,
-  "name": "Restaurant TATU",
-  "Address": "Baixada del Molí, 48, AD500 Andorra la Vella, Andorra",
-  "phone": "+376744144"
- },
- {
-  "id": 117,
-  "name": "Yōkai 妖怪 taverna japonesa",
-  "Address": "Av. Meritxell, 65, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860400"
- },
- {
-  "id": 118,
-  "name": "Pizzeria Primavera",
-  "Address": "Carrer la Llacuna, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376861800"
- },
- {
-  "id": 119,
-  "name": "Veggie's World",
-  "Address": "Carrer Copríncep François Mitterrand, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376868086"
- },
- {
-  "id": 120,
-  "name": "Restaurant 120 | Andorra la Vella",
-  "Address": "Av. Príncep Benlloch, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376801801"
- },
- {
-  "id": 121,
-  "name": "BORDA CAN ANDREU",
-  "Address": "Carrer Bonaventura Riberaygua, 4, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 122,
-  "name": "MINIM'S RESTAURANTS",
-  "Address": "Av. Meritxell, 32, AD500 Andorra la Vella, Andorra",
-  "phone": "+376885885"
- },
- {
-  "id": 123,
-  "name": "ANGELO \u0026 FRIENDS",
-  "Address": "Carrer de l'Alzinaret, n°6, AD500 Andorra la Vella, Andorra",
-  "phone": "+376840420"
- },
- {
-  "id": 124,
-  "name": "K L'Irina",
-  "Address": "Carrer de la Borda, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376862666"
- },
- {
-  "id": 125,
-  "name": "L'ESCENARI DE PIZZES",
-  "Address": "Av. Meritxell, 107, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 126,
-  "name": "Hard Rock Cafe",
-  "Address": "Ciutat Consuegra 10, local, 1, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860520"
- },
- {
-  "id": 127,
-  "name": "Kanvium",
-  "Address": "Av. Príncep Benlloch, 39, AD500 Andorra la Vella, Andorra",
-  "phone": "+376800038"
- },
- {
-  "id": 128,
-  "name": "Restaurant RACÓ D'EN JOSEP",
-  "Address": "Carrer Sant Antoni, 3, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376822810"
- },
- {
-  "id": 129,
-  "name": "Restaurant Papanico",
-  "Address": "Av. Dr. Mitjavila, 20, AD500 Andorra la Vella, Andorra",
-  "phone": "+376866070"
- },
- {
-  "id": 130,
-  "name": "Restaurant Argent",
-  "Address": "Av. Meritxell, 34, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876800"
- },
- {
-  "id": 131,
-  "name": "MuaKaBo",
-  "Address": "Av. de Tarragona, 63, AD500 Andorra la Vella, Andorra",
-  "phone": "+376825129"
- },
- {
-  "id": 132,
-  "name": "Restaurant ES ANDORRA",
-  "Address": "Av. Meritxell, 86, AD500 Andorra la Vella, Andorra",
-  "phone": "+376863994"
- },
- {
-  "id": 133,
-  "name": "Dos Caçadors",
-  "Address": "Baixada del Molí, 19, AD500 Andorra la Vella, Andorra",
-  "phone": "+376869077"
- },
- {
-  "id": 134,
-  "name": "Instants Restaurant",
-  "Address": "Carrer Callaueta, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376819000"
- },
- {
-  "id": 135,
-  "name": "Plató Restaurant by arthotel****Q",
-  "Address": "Carrer Prat de la Creu, 86, AD500 Andorra la Vella, Andorra",
-  "phone": "+376874444"
- },
- {
-  "id": 136,
-  "name": "Cantinita de la Adelita Bar Mexicano",
-  "Address": "Baixos, Carrer Antic Carrer Major, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376726067"
- },
- {
-  "id": 137,
-  "name": "Taverna Angel Belmonte",
-  "Address": "Carrer Joan Maragall, 22, AD500 Andorra la Vella, Andorra",
-  "phone": "+376851888"
- },
- {
-  "id": 138,
-  "name": "CA LA CONXITA",
-  "Address": "Carrer Pere d'Urg, 15, AD500 Andorra la Vella, Andorra",
-  "phone": "+376727402"
- },
- {
-  "id": 139,
-  "name": "Restaurant Mandala",
-  "Address": "Plaça Guillemó, 8, AD500 Andorra la Vella, Andorra",
-  "phone": "+376854858"
- },
- {
-  "id": 140,
-  "name": "La borda pairal",
-  "Address": "Carrer Bonaventura Armengol, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376824171"
- },
- {
-  "id": 141,
-  "name": "Izai Andorra Restaurante",
-  "Address": "Av. de Tarragona, 53, Local 2, AD500 Andorra la Vella, Andorra",
-  "phone": "+376805515"
- },
- {
-  "id": 142,
-  "name": "DIAMANT Espai Gastronòmic",
-  "Address": "Carrer Bonaventura Riberaygua, 9, AD500 Andorra la Vella, Andorra",
-  "phone": "+376625045"
- },
- {
-  "id": 143,
-  "name": "Bar Nou",
-  "Address": "Prat de la Creu s n, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873603"
- },
- {
-  "id": 144,
-  "name": "K'tam - Restaurant de Tapes",
-  "Address": "Carrer Prat de la Creu, 49, AD500 Andorra la Vella, Andorra",
-  "phone": "+376827844"
- },
- {
-  "id": 145,
-  "name": "La Tapeta",
-  "Address": "Av. de Tarragona, 103, AD500 Andorra la Vella, Andorra",
-  "phone": "+376839630"
- },
- {
-  "id": 146,
-  "name": "El tall a taula",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880000"
- },
- {
-  "id": 147,
-  "name": "Restaurant Mama Maria",
-  "Address": "Baixada del Molí, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376800180"
- },
- {
-  "id": 148,
-  "name": "Bar Restaurant Entre Amics",
-  "Address": "Carrer Pere d'Urg, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376817963"
- },
- {
-  "id": 149,
-  "name": "La Casa Restaurant \u0026 GastroBar",
-  "Address": "Carrer Ciutat de Valls, 16, AD500 Andorra la Vella, Andorra",
-  "phone": "+376826328"
- },
- {
-  "id": 150,
-  "name": "Kram GastroGrilling OysterBar \u0026 Restaurant",
-  "Address": "Carrer Prat de la Creu, 103, AD500 Andorra la Vella, Andorra",
-  "phone": "+376673280"
- },
- {
-  "id": 151,
-  "name": "El Raval",
-  "Address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376878700"
- },
- {
-  "id": 152,
-  "name": "El Refugi Alpí",
-  "Address": "Carrer Dr. Vilanova, 13, AD500 Andorra la Vella, Andorra",
-  "phone": "+376845578"
- },
- {
-  "id": 153,
-  "name": "BAR RESTAURANT LA NOGREDA",
-  "Address": "Cap del Carrer, 9, AD500 Andorra la Vella, Andorra",
-  "phone": "+376844450"
- },
- {
-  "id": 154,
-  "name": "Le Comptoir - Atelier culinaire",
-  "Address": "Carrer Callaueta, 15, AD500 Andorra la Vella, Andorra",
-  "phone": "+376824555"
- },
- {
-  "id": 155,
-  "name": "La bohème",
-  "Address": "Carrer Pere d'Urg, 17, AD500 Andorra la Vella, Andorra",
-  "phone": "+376800311"
- },
- {
-  "id": 156,
-  "name": "GOHAN Yama | Sushi \u0026 Izakaya Food",
-  "Address": "CARRER DE LA BORDA NUMERO 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376732500"
- },
- {
-  "id": 157,
-  "name": "Bar Restaurant La Sardana",
-  "Address": "Carrer de la Borda, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376666346"
- },
- {
-  "id": 158,
-  "name": "Coure Andorra Restaurant",
-  "Address": "Plaça de la Sardana, local número 1, AD500 Andorra la Vella, Andorra",
-  "phone": "+376864887"
- },
- {
-  "id": 159,
-  "name": "Pizza Via Andorra",
-  "Address": "Av. Dr. Mitjavila, 36, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876543"
- },
- {
-  "id": 160,
-  "name": "Bronze Age Fondue青铜火锅中餐厅",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880000"
- },
- {
-  "id": 161,
-  "name": "Restaurant La Terreta",
-  "Address": "Centre Comercial Les Llums - Local C9B, Carrer Prat de la Creu, 29-39, AD500 Andorra la Vella, Andorra",
-  "phone": "92939500"
- },
- {
-  "id": 162,
-  "name": "Bar Restaurant Las Vegas",
-  "Address": "Cap del Carrer, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376628776"
- },
- {
-  "id": 163,
-  "name": "Focacceria cap del carrer",
-  "Address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
-  "phone": "+376808100"
- },
- {
-  "id": 164,
-  "name": "Nostrum",
-  "Address": "la, Carrer Sant Esteve, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376707500"
- },
- {
-  "id": 165,
-  "name": "Les Oques Pizzeria i Cuina Tradicional Italiana d'en Giovanni",
-  "Address": "Carrer de la Vall, 14, AD500 Andorra la Vella, Andorra",
-  "phone": "+376605510"
- },
- {
-  "id": 166,
-  "name": "FRANKFURT DEL TONI",
-  "Address": "Ctra. de la Comella i de la Plana, 35, AD500 Andorra la Vella, Andorra",
-  "phone": "+376822181"
- },
- {
-  "id": 167,
-  "name": "Andorra Doner Kebab Halal Pakistani Restaurant",
-  "Address": "Av. Meritxell, 90, AD500 Andorra la Vella, Andorra",
-  "phone": "+376696666"
- },
- {
-  "id": 168,
-  "name": "Pampa Andorra",
-  "Address": "Carrer Bonaventura Riberaygua, 13, AD500 Andorra la Vella, Andorra",
-  "phone": "+376866860"
- },
- {
-  "id": 169,
-  "name": "Fiesta Manila 2",
-  "Address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
-  "phone": "+376727777"
- },
- {
-  "id": 170,
-  "name": "Bufet El Grill (Pyrénées)",
-  "Address": "Carrer Terra Vella, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376856190"
- },
- {
-  "id": 171,
-  "name": "EL GRILL",
-  "Address": "Av. Dr. Mitjavila, 10, AD500 Andorra la Vella, Andorra",
-  "phone": "+376863117"
- },
- {
-  "id": 172,
-  "name": "Sapori d' Italia",
-  "Address": "Av. Dr. Mitjavila, 25, AD500 Andorra la Vella, Andorra",
-  "phone": "+376358676"
- },
- {
-  "id": 173,
-  "name": "Restaurant L'Orri",
-  "Address": "Av. Meritxell, 27, AD500 Andorra la Vella, Andorra",
-  "phone": "+376869996"
- },
- {
-  "id": 174,
-  "name": "Alta Taberna Aires Gourmet",
-  "Address": "Carrer Antic Carrer Major, 32, AD500 Andorra la Vella, Andorra",
-  "phone": "+376350072"
- },
- {
-  "id": 175,
-  "name": "Quarantuno Pizzeria",
-  "Address": "Avinguda Meritxell, 31 - Planta Baixa, AD500 Andorra la Vella, Andorra",
-  "phone": "+376723200"
- },
- {
-  "id": 176,
-  "name": "L'Alternativa by \u0026andbeer",
-  "Address": "Carrer Dr. Vilanova, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376869999"
- },
- {
-  "id": 177,
-  "name": "Tequilando Box",
-  "Address": "Carrer de l'Alzinaret, 15, AD500 Andorra la Vella, Andorra",
-  "phone": "+376847601"
- },
- {
-  "id": 178,
-  "name": "Vietnam Gourmet",
-  "Address": "Carrer la Llacuna, 12, AD500 Andorra la Vella, Andorra",
-  "phone": "+376829948"
- },
- {
-  "id": 179,
-  "name": "PISCOLABIS",
-  "Address": "Carrer Ciutat de Consuegra, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376822460"
- },
- {
-  "id": 180,
-  "name": "Ramen Andorra",
-  "Address": "Av. Príncep Benlloch, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376727372"
- },
- {
-  "id": 181,
-  "name": "Locavore Restaurant",
-  "Address": "Carrer Prat de la Creu, 25, AD500 Andorra la Vella, Andorra",
-  "phone": "+376760303"
- },
- {
-  "id": 182,
-  "name": "BAR RESTAURANT ESTELA",
-  "Address": "Plaça Rebés, 2, AD500 Andorra la Vella, Andorra",
-  "phone": "+376827467"
- },
- {
-  "id": 183,
-  "name": "K - La Mar",
-  "Address": "Carrer de na Maria Pla, 19, AD500 Andorra la Vella, Andorra",
-  "phone": "+376879404"
- },
- {
-  "id": 184,
-  "name": "LIZARRAN TABERNA ANDORRA",
-  "Address": "Casc Antic, Placeta Monjó, 3, AD300 Andorra la Vella, Andorra",
-  "phone": "+376812333"
- },
- {
-  "id": 185,
-  "name": "BAR RESTAURANT RIES BAIXES",
-  "Address": "Carrer de les Lloses, 1, AD500 Andorra la Vella, Andorra",
-  "phone": "+376827722"
- },
- {
-  "id": 186,
-  "name": "GRANJA DIVA",
-  "Address": "Carrer Prat de la Creu, 93, AD500 Andorra la Vella, Andorra",
-  "phone": "+376828703"
- },
- {
-  "id": 187,
-  "name": "Menjar casolà portuguès M.R.",
-  "Address": "Plaça Guillemó, 4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376818028"
- },
- {
-  "id": 188,
-  "name": "Hotel Restaurant de l'Isard",
-  "Address": "Av. Príncep Benlloch, 4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376867333"
- },
- {
-  "id": 189,
-  "name": "Pizzeria Xavier",
-  "Address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
-  "phone": "+376877777"
- },
- {
-  "id": 190,
-  "name": "Casa Beja",
-  "Address": "Carrer Sant Salvador, 10, AD500 Andorra la Vella, Andorra",
-  "phone": "+376811888"
- },
- {
-  "id": 191,
-  "name": "FRANKFURT PEDRALBES",
-  "Address": "Carrer Bonaventura Armengol, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376864215"
- },
- {
-  "id": 192,
-  "name": "McDonald's",
-  "Address": "Av. Dr. Mitjavila, 19, AD500 Andorra la Vella, Andorra",
-  "phone": "+376818899"
- },
- {
-  "id": 193,
-  "name": "Wakatai Nikkei",
-  "Address": "Carrer de na Maria Pla, 13, AD500 Andorra la Vella, Andorra",
-  "phone": "+376805805"
- },
- {
-  "id": 194,
-  "name": "La Carbonara",
-  "Address": "Carrer Antic Carrer Major, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376867511"
- },
- {
-  "id": 195,
-  "name": "Asador Pizzeria",
-  "Address": "Carrer Antic Carrer Major, 9, AD500 Andorra la Vella, Andorra",
-  "phone": "+376882588"
- },
- {
-  "id": 196,
-  "name": "Sushi and Gong",
-  "Address": "la, Av. Meritxell, 120, AD500 Andorra la Vella, Andorra",
-  "phone": "+376865345"
- },
- {
-  "id": 197,
-  "name": "Cheese's Art Andorra",
-  "Address": "Carrer de na Maria Pla, 32, AD500 Andorra la Vella, Andorra",
-  "phone": "+376833011"
- },
- {
-  "id": 198,
-  "name": "Poltrand",
-  "Address": "Carrer Callaueta, 8, AD500 Andorra la Vella, Andorra",
-  "phone": "+376800530"
- },
- {
-  "id": 199,
-  "name": "EL JARDI",
-  "Address": "Carrer Bonaventura Riberaygua, 10, AD500 Andorra la Vella, Andorra",
-  "phone": "+376650040"
- },
- {
-  "id": 200,
-  "name": "Ginza 41",
-  "Address": "Carrer la Llacuna, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376827829"
- },
- {
-  "id": 201,
-  "name": "CCA Centre Comercial Andorrà - Super U",
-  "Address": "Carrer de l'Aigüeta, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860199"
- },
- {
-  "id": 202,
-  "name": "Centre Comercial Illa Carlemany",
-  "Address": "Carrer Prat de la Creu, 53-55, AD500 Andorra la Vella, Andorra",
-  "phone": "+972546655444"
- },
- {
-  "id": 203,
-  "name": "cf5590.tecob.com — Coming Soon",
-  "Address": "Carrer Prat de la Creu, 8, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 204,
-  "name": "The Shopping Mile",
-  "Address": "Carrer Pere d'Urg, 10, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 205,
-  "name": "Aparcament ANDORRA",
-  "Address": "Av. Meritxell, 31, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 206,
-  "name": "parquing And",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880000"
- },
- {
-  "id": 207,
-  "name": "Las casas",
-  "Address": "Av. Meritxell, 96, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 208,
-  "name": "Pyrénées Andorra",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376892000"
- },
- {
-  "id": 209,
-  "name": "G-SHOCK CONCEPT STORE- THE EMBASSY",
-  "Address": "Av. Meritxell, 92, AD500 Andorra la Vella, Andorra",
-  "phone": "+376870300"
- },
- {
-  "id": 210,
-  "name": "River Centre Comercial",
-  "Address": "Meritxell Avenue, 11, ANDORRA LA VELLA, AD500 Andorra, France",
-  "phone": ""
- },
- {
-  "id": 211,
-  "name": "CENTRE COMERCIAL SANT ELOI",
-  "Address": "Av. Meritxell, 40, AD500 Andorra la Vella, Andorra",
-  "phone": "+376826515"
- },
- {
-  "id": 212,
-  "name": "E.Leclerc Hiper Andorra",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880197"
- },
- {
-  "id": 213,
-  "name": "IQOS en Centre Comercial Andorra",
-  "Address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860039"
- },
- {
-  "id": 214,
-  "name": "GALERIA IT",
-  "Address": "Av. d'Enclar, 20, AD500 Andorra la Vella, Andorra",
-  "phone": "+376868901"
- },
- {
-  "id": 215,
-  "name": "OUTLET CENTER APS",
-  "Address": "Av. Meritxell, 79, AD500 Andorra la Vella, Andorra",
-  "phone": "+376770070"
- },
- {
-  "id": 216,
-  "name": "CityCenter Supermercat",
-  "Address": "Avenida Bajo Avda. Meritxell - Edif. Cor 83, AD500 Andorra la Vella, Andorra",
-  "phone": "+376813668"
- },
- {
-  "id": 217,
-  "name": "Diva Eròtic Centre",
-  "Address": "Av. Meritxell, 118, AD500 Andorra la Vella, Andorra",
-  "phone": "+376877700"
- },
- {
-  "id": 218,
-  "name": "Carrefour Andorra 2000",
-  "Address": "Carrer Bonaventura Riberaygua, 35, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880400"
- },
- {
-  "id": 219,
-  "name": "Shop-in-Shop Rituals",
-  "Address": "Carrer de na Maria Pla, 18, AD500 Andorra la Vella, Andorra",
-  "phone": "+376737910"
- },
- {
-  "id": 220,
-  "name": "IQOS en Centre Comercial Andorra",
-  "Address": "Centre Històric, C/Dr. Nequi, Plaça les Arcades, N° 2, AD500 Andorra la Vella, Andorra",
-  "phone": "+376865353"
- },
- {
-  "id": 221,
-  "name": "OUTLET CENTER APS",
-  "Address": "Av. Meritxell, 110, AD500 Andorra la Vella, Andorra",
-  "phone": "+376800805"
- },
- {
-  "id": 222,
-  "name": "Naturhouse",
-  "Address": "Av. Meritxell, 10, AD500 Andorra la Vella, Andorra",
-  "phone": "+376879334"
- },
- {
-  "id": 223,
-  "name": "CityCenter Supermercat",
-  "Address": "Carrer de l'Aigüeta, 10, AD500 Andorra la Vella, Andorra",
-  "phone": "+376863140"
- },
- {
-  "id": 224,
-  "name": "Diva Eròtic Centre",
-  "Address": "Av. Meritxell, 89, AD500 Andorra la Vella, Andorra",
-  "phone": "+376868676"
- },
- {
-  "id": 225,
-  "name": "Carrefour Andorra 2000",
-  "Address": "Av. Meritxell, 74, AD500 Andorra la Vella, Andorra",
-  "phone": "+376743210"
- },
- {
-  "id": 226,
-  "name": "Lechanbrugo",
-  "Address": "Carrer Pau Casals, 6, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860114"
- },
- {
-  "id": 227,
-  "name": "Shop-in-Shop Rituals",
-  "Address": "Av. Meritxell, 86, AD500 Andorra la Vella, Andorra",
-  "phone": "+376874900"
- },
- {
-  "id": 228,
-  "name": "SOLS CONFORT",
-  "Address": "Carrer Prat de la Creu, 28, AD500 Andorra la Vella, Andorra",
-  "phone": "+376351839"
- },
- {
-  "id": 229,
-  "name": "Centre Kannàbic",
-  "Address": "Carrer Bonavista, 16, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 230,
-  "name": "Relojería en Andorra",
-  "Address": "Carrer Bonaventura Riberaygua, 38, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 231,
-  "name": "B Travel and Experience",
-  "Address": "Av. Príncep Benlloch, 15, AD500 Andorra la Vella, Andorra",
-  "phone": "+376813343"
- },
- {
-  "id": 232,
-  "name": "Centre andorrà de decoració CAD 2",
-  "Address": "Carrer de les Costes, 12, AD500 Andorra la Vella, Andorra",
-  "phone": "+376722964"
- },
- {
-  "id": 233,
-  "name": "Mango Outlet",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880000"
- },
- {
-  "id": 234,
-  "name": "Olympia Esports",
-  "Address": "Av. Dr. Mitjavila, 31, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 235,
-  "name": "Quars Centre",
-  "Address": "Avinguda de Tarragona, 47, local, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376722133"
- },
- {
-  "id": 236,
-  "name": "ZARA",
-  "Address": "Av. de Tarragona, 26, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880400"
- },
- {
-  "id": 237,
-  "name": "Seventeen Pollyanna I",
-  "Address": "Carrer Prat de la Creu, 87, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 238,
-  "name": "JEANS CULTE - VIA MODA",
-  "Address": "Carrer Verge del Pilar, 12-14, AD500 Andorra la Vella, Andorra",
-  "phone": "+376866865"
- },
- {
-  "id": 239,
-  "name": "Loteries \"El Mag\"",
-  "Address": "Av. Meritxell, 47, Local, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376812581"
- },
- {
-  "id": 240,
-  "name": "Ametller Origen",
-  "Address": "Av. Meritxell, 92, AD500 Andorra la Vella, Andorra",
-  "phone": "+376609542"
- },
- {
-  "id": 241,
-  "name": "Andorra 2000",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880000"
- },
- {
-  "id": 242,
-  "name": "Viladomat",
-  "Address": "Av. de Tarragona, 26, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880400"
- },
- {
-  "id": 243,
-  "name": "Sauleda Centre Onix",
-  "Address": "Avinguda de Tarragona, 47, local, 5, AD500 Andorra la Vella, Andorra",
-  "phone": "+376722133"
- },
- {
-  "id": 244,
-  "name": "Centre de Carrosseria Pyrénées",
-  "Address": "Carrer Verge del Pilar, 12-14, AD500 Andorra la Vella, Andorra",
-  "phone": "+376866865"
- },
- {
-  "id": 245,
-  "name": "Douglas Perfumería",
-  "Address": "Av. Meritxell, 47, Local, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+376812581"
- },
- {
-  "id": 246,
-  "name": "ROCA \u0026 RIBES",
-  "Address": "Carrer Major, 22, AD200 Pas de la Casa, Andorra",
-  "phone": "+376739850"
- },
- {
-  "id": 247,
-  "name": "Sonimag Andorra",
-  "Address": "Av. Meritxell, 92, AD500 Andorra la Vella, Andorra",
-  "phone": "+376609542"
- },
- {
-  "id": 248,
-  "name": "Cabina d'Estètica",
-  "Address": "Crta. General d'Espanya s/n, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376743140"
- },
- {
-  "id": 249,
-  "name": "THE CIGAR SHOP Andorra la Vella",
-  "Address": "Av. Meritxell, 93, AD500 Andorra la Vella, Andorra",
-  "phone": "+376822377"
- },
- {
-  "id": 250,
-  "name": "maje",
-  "Address": "Carretera General, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376765000"
- },
- {
-  "id": 251,
-  "name": "Madriu-Perafita-Claror Valley",
-  "Address": "c/Prat de la creu 74-76 baixos, AD500 Andorra la Vella, Andorra",
-  "phone": "+376823000"
- },
- {
-  "id": 252,
-  "name": "Sant Vicenç d'Enclar",
-  "Address": "Plaça de la Rotonda, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 253,
-  "name": "Museu de Roques al carrer",
-  "Address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
-  "phone": "+376827117"
- },
- {
-  "id": 254,
-  "name": "Tamarro Andy",
-  "Address": "Carrer de la Vall, 6, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 255,
-  "name": "St. Esteve of Andorra Church",
-  "Address": "Ctra. de Montaup, AD300 Ordino, Andorra",
-  "phone": ""
- },
- {
-  "id": 256,
-  "name": "Església de Sant Climent de Pal",
-  "Address": "Urb. Comella Parc, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 257,
-  "name": "Mirador Roc Del Quer",
-  "Address": "Parc Central, AD500, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 258,
-  "name": "Casa d'Areny-Plandolit",
-  "Address": "C/ Bonaventura Armengol, 15 5º Ed. Occesa, AD500 Andorra la Vella, Andorra",
-  "phone": "+376872250"
- },
- {
-  "id": 259,
-  "name": "Farga Rossell",
-  "Address": "Av. de Tarragona, 26, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880400"
- },
- {
-  "id": 260,
-  "name": "Església de Sant Martí de la Cortinada",
-  "Address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
-  "phone": "+376845969"
- },
- {
-  "id": 261,
-  "name": "Pont de Sant Antoni de la Grella",
-  "Address": "Av. Meritxell, 9, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 262,
-  "name": "Església de Sant Antoni de la Grella",
-  "Address": "Ctra. de Cal Rosselló, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 263,
-  "name": "Església de Sant Antoni de la Grella",
-  "Address": "Carretera de Arinsal, 5, AD400 Arinsal, Andorra",
-  "phone": "+376837111"
- },
- {
-  "id": 264,
-  "name": "National Automobile Museum",
-  "Address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
-  "phone": "+376750100"
- },
- {
-  "id": 265,
-  "name": "Santuari de la Mare de Déu de Canòlich",
-  "Address": "Plaça de Les Fontetes, AD400 La Massana, Andorra",
-  "phone": "+376838919"
- },
- {
-  "id": 266,
-  "name": "Andorra la Vella",
-  "Address": "Ctra. de la Caubella, 1, AD400 La Massana, Andorra",
-  "phone": "+376878001"
- },
- {
-  "id": 267,
-  "name": "Església de Sant Cristòfol d'Anyós",
-  "Address": "Sant Miquel D'engolasters, Engolasters, Andorra",
-  "phone": "+376890881"
- },
- {
-  "id": 268,
-  "name": "Camí del toll bullidor",
-  "Address": "Av. de Joan Martí, 64, AD200 Encamp, Andorra",
-  "phone": "+376832266"
- },
- {
-  "id": 269,
-  "name": "Centre d'Interpretació del Comapedrosa - CIC",
-  "Address": "Carrer dels Cavallers, 2, AD200 Encamp, Andorra",
-  "phone": "+376833551"
- },
- {
-  "id": 270,
-  "name": "Tourist Office",
-  "Address": "Av. Esteve Albert, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376692659"
- },
- {
-  "id": 271,
-  "name": "Barri Antic Hostel \u0026 Pub",
-  "Address": "Carretera de la Rabassa Km. 8 Juberri, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376741444"
- },
- {
-  "id": 272,
-  "name": "ANDORRATOURS",
-  "Address": "Av. Sant Joan de Caselles, S/n, 08784, Andorra",
-  "phone": "+376753600"
- },
- {
-  "id": 273,
-  "name": "Aston Hotel",
-  "Address": "Av. Fiter i Rossell, 49, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376803480"
- },
- {
-  "id": 274,
-  "name": "Les 7 Claus Hotel",
-  "Address": "Carrer Josep Viladomat, 22, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376882000"
- },
- {
-  "id": 275,
-  "name": "Hotel Golden Tulip Inn Andorra Fènix",
-  "Address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
-  "phone": "+376808393"
- },
- {
-  "id": 276,
-  "name": "Hotel Espel",
-  "Address": "Av. Carlemany, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376870050"
- },
- {
-  "id": 277,
-  "name": "Hotel Spa Termes Carlemany",
-  "Address": "Plaça de la Creu Blanca nº1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820855"
- },
- {
-  "id": 278,
-  "name": "Hotel Metropolis",
-  "Address": "Avd. de les Escoles nº25, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376808363"
- },
- {
-  "id": 279,
-  "name": "Hotel \u0026 Aparthotel Cosmos Andorra",
-  "Address": "Av. de les Escoles, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376870750"
- },
- {
-  "id": 280,
-  "name": "Hotel Exe Prisma",
-  "Address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
-  "phone": "+376808393"
- },
- {
-  "id": 281,
-  "name": "Yomo Mola Park",
-  "Address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376802930"
- },
- {
-  "id": 282,
-  "name": "Hotel Les Closes",
-  "Address": "Carrer del Prat Gran, 3-5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376760760"
- },
- {
-  "id": 283,
-  "name": "Tulip Inn Andorra Hotel Delfos",
-  "Address": "Camí Cap del Carrer, 4, AD400 La Massana, Andorra",
-  "phone": "+376813138"
- },
- {
-  "id": 284,
-  "name": "Grand Plaza Hotel \u0026 Wellness",
-  "Address": "Carrer dels Cavallers, 38, AD200 Encamp, Andorra",
-  "phone": "+376831513"
- },
- {
-  "id": 285,
-  "name": "Hotel Starc by Pierre \u0026 Vacances Premium",
-  "Address": "Carrer de Lòria, 6, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376735200"
- },
- {
-  "id": 286,
-  "name": "Yomo Eureka hotel",
-  "Address": "Avenida Sant Joan de Caselles, 63, AD100 Canillo, Andorra",
-  "phone": "+376851825"
- },
- {
-  "id": 287,
-  "name": "Hotel Marfany",
-  "Address": "Av. del Pont de la Tosca, 25, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376872300"
- },
- {
-  "id": 288,
-  "name": "Exe Princep",
-  "Address": "Av. de Sant Antoni, 36, AD400 La Massana, Andorra",
-  "phone": "+376738363"
- },
- {
-  "id": 289,
-  "name": "Siracusa",
-  "Address": "Ctra de La Rabassa Km. 6, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376742030"
- },
- {
-  "id": 290,
-  "name": "Insitu Eurotel Andorra",
-  "Address": "Av. Rocafort, 26, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376843478"
- },
- {
-  "id": 291,
-  "name": "Aparthotel Conseller",
-  "Address": "Av. de François Mitterrand, 102, AD200 Encamp, Andorra",
-  "phone": "+376834671"
- },
- {
-  "id": 292,
-  "name": "Les 7 Claus Hotel",
-  "Address": "Estación de esquí de Grandvalira, sector Grau Roig, AD200 Grau Roig, Andorra",
-  "phone": "+376755556"
- },
- {
-  "id": 293,
-  "name": "Hotel Yomo Cèntric",
-  "Address": "Passatge Antònia Font Caminal, 1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376875500"
- },
- {
-  "id": 294,
-  "name": "Siracusa",
-  "Address": "Av. de François Mitterrand, 68, AD200 Encamp, Andorra",
-  "phone": "+376727879"
- },
- {
-  "id": 295,
-  "name": "Novotel Andorra",
-  "Address": "Ctra. de Fontaneda, S/N, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376841043"
- },
- {
-  "id": 296,
-  "name": "Hotel les Fonts",
-  "Address": "Crta Gral. de França, km 17'500, AD100 Incles-Canillo, Andorra",
-  "phone": "17500100"
- },
- {
-  "id": 297,
-  "name": "Aparthotel el Serch",
-  "Address": "Ctra. de Canòlich, AD600 Sant Julià de Lòria, Andorra, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376842382"
- },
- {
-  "id": 298,
-  "name": "Andorra Park Hotel",
-  "Address": "Carretera General 2 nº26, AD100 Soldeu, Andorra",
-  "phone": "+376751150"
- },
- {
-  "id": 299,
-  "name": "Glaner Hotel Café",
-  "Address": "Av. del Jovell, 20, AD400 Sispony, Andorra",
-  "phone": "+376835355"
- },
- {
-  "id": 300,
-  "name": "Hôtel Mercure Andorra",
-  "Address": "Av. Príncep Benlloch, 24, AD500 Andorra la Vella, Andorra",
-  "phone": "+376866880"
- },
- {
-  "id": 301,
-  "name": "Hotel NH Andorra La Vella",
-  "Address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
-  "phone": "+376753753"
- },
- {
-  "id": 302,
-  "name": "Acta Arthotel",
-  "Address": "Avinguda les Subiranes s/n, AD300 El Serrat, Andorra",
-  "phone": "+376749100"
- },
- {
-  "id": 303,
-  "name": "Hotel Màgic Andorra",
-  "Address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
-  "phone": "+376736500"
- },
- {
-  "id": 304,
-  "name": "Hotel Restaurant de l'Isard",
-  "Address": "Av. de Joan Martí, 104, AD200 Encamp, Andorra",
-  "phone": "+376731116"
- },
- {
-  "id": 305,
-  "name": "Hotel Andorra Palace",
-  "Address": "Carretera General 2, n.19, AD100 Soldeu, Andorra",
-  "phone": "+376871787"
- },
- {
-  "id": 306,
-  "name": "Hotel Zenit Diplomatic | Andorra la Vella",
-  "Address": "Av. del Pessebre, 86, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820213"
- },
- {
-  "id": 307,
-  "name": "Hotel Comtes d'Urgell",
-  "Address": "Carrer del Pas de la Casa, 6, AD200 Encamp, Andorra",
-  "phone": "+376831516"
- },
- {
-  "id": 308,
-  "name": "Suites Plaza Hotel \u0026 Wellness Andorra",
-  "Address": "Meritxell, Carretera General, 35, AD100, Andorra",
-  "phone": "+376751050"
- },
- {
-  "id": 309,
-  "name": "Eurostars Andorra",
-  "Address": "Carrer dels Arínsols, 10, AD200 Encamp, Andorra",
-  "phone": "+376733900"
- },
- {
-  "id": 310,
-  "name": "Hotel Panorama",
-  "Address": "Av. el Través, 5, AD400 La Massana, Andorra",
-  "phone": "+376738300"
- },
- {
-  "id": 311,
-  "name": "Hotel Roc de Caldes",
-  "Address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
-  "phone": "+376739444"
- },
- {
-  "id": 312,
-  "name": "Hotel Roc Blanc",
-  "Address": "Ctra. de Comallempla, AD400 Arinsal, Andorra",
-  "phone": "+376737575"
- },
- {
-  "id": 313,
-  "name": "Hotel MIM Andorra",
-  "Address": "Ctra general s/n Arans, AD300 La Cortinada, Andorra",
-  "phone": "+376850988"
- },
- {
-  "id": 314,
-  "name": "Hotel Camp del Serrat",
-  "Address": "Carrer del Prat Gran, 3-5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376760760"
- },
- {
-  "id": 315,
-  "name": "Hotel City M28",
-  "Address": "Ctra. d'Espanya, s/n, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376743100"
- },
- {
-  "id": 316,
-  "name": "Hotel Best Andorra Center",
-  "Address": "Ctra. de Sispony i dels Plans, AD400 La Massana, Andorra",
-  "phone": "+376737300"
- },
- {
-  "id": 317,
-  "name": "Barri Antic Hostel \u0026 Pub",
-  "Address": "Carretera dels Cortals Encamp Km 3, AD200 Encamp, Andorra",
-  "phone": "+376804100"
- },
- {
-  "id": 318,
-  "name": "Hotel Pitiusa",
-  "Address": "Avinguda del Fener, 17, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376804200"
- },
- {
-  "id": 319,
-  "name": "Hotel Sant Jordi",
-  "Address": "Calle, Carrer Santa Anna, 11, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376821572"
- },
- {
-  "id": 320,
-  "name": "Hotel Pyrénées",
-  "Address": "Av. Fiter i Rossell, 51, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376826826"
- },
- {
-  "id": 321,
-  "name": "HMC Caena",
-  "Address": "Plaça del Poble, 6, L´Aldosa, AD400 La Massana, Andorra",
-  "phone": "+376727246"
- },
- {
-  "id": 322,
-  "name": "Hotel Encamp — Esquía en Andorra con Forfait",
-  "Address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
-  "phone": "+376736400"
- },
- {
-  "id": 323,
-  "name": "The Blackpine Hotel",
-  "Address": "Urb. la Ribagrossa, 13, AD100, Andorra",
-  "phone": "+376830714"
- },
- {
-  "id": 324,
-  "name": "Hotansa",
-  "Address": "Avenue Filter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820876"
- },
- {
-  "id": 325,
-  "name": "Sport Hotel Hermitage \u0026 Spa",
-  "Address": "Carrer Anna Maria Janer, 4, AD500 Andorra la Vella, Andorra",
-  "phone": "+376728328"
- },
- {
-  "id": 326,
-  "name": "Aparthotel Iceberg, SLU",
-  "Address": "Av. del Ravell, 2, AD400 La Massana, Andorra",
-  "phone": "+376838444"
- },
- {
-  "id": 327,
-  "name": "Abba Xalet Suites Hotel",
-  "Address": "Carrer Sant Salvador, 3, AD500 Andorra la Vella, Andorra",
-  "phone": "+34971425588"
- },
- {
-  "id": 328,
-  "name": "Hotel Festa Brava",
-  "Address": "Crta. d'Arinsal s/n, AD400 Erts, Andorra",
-  "phone": ""
- },
- {
-  "id": 329,
-  "name": "HOSTAL RESIDÈNCIA CONTINENTAL",
-  "Address": "Ctra. d'Anyós, 59, AD400 La Massana, Andorra",
-  "phone": "+376737173"
- },
- {
-  "id": 330,
-  "name": "Tivoli",
-  "Address": "Av. de Santa Coloma, 42, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876201"
- },
- {
-  "id": 331,
-  "name": "President",
-  "Address": "Av. del Pessebre, 1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820515"
- },
- {
-  "id": 332,
-  "name": "AnyósPark The Mountain \u0026 Wellness Resort",
-  "Address": "Av. Fiter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376880450"
- },
- {
-  "id": 333,
-  "name": "Hotel NH Collection Andorra Palomé",
-  "Address": "Carrer la Llacuna, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "+376820741"
- },
- {
-  "id": 334,
-  "name": "Font Andorra Hostel",
-  "Address": "Terra Major de Sispony, Carrer Major, AD400, Andorra",
-  "phone": "+376737300"
- },
- {
-  "id": 335,
-  "name": "Hostal Cisco De Sans",
-  "Address": "Passatge Antònia Font Caminal, 1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376875500"
- },
- {
-  "id": 336,
-  "name": "Madriu Hotel",
-  "Address": "Crta General II - Tram Soldeu 56, AD100 Soldeu, Andorra",
-  "phone": "+376870670"
- },
- {
-  "id": 337,
-  "name": "HOTEL ROC MELER",
-  "Address": "Plaça Coprínceps, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+34692403651"
- },
- {
-  "id": 338,
-  "name": "Hotel Spa Princesa Parc Andorra",
-  "Address": "Baixada del Molí, 49, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 339,
-  "name": "HOTEL RESIDÈNCIA ALDOSA",
-  "Address": "Av. de Joan Martí, 95, AD200 Encamp, Andorra",
-  "phone": "+376733999"
- },
- {
-  "id": 340,
-  "name": "Somriu Eurotel",
-  "Address": "Av. Príncep Benlloch, 45, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876200"
- },
- {
-  "id": 341,
-  "name": "Residencia Nuria",
-  "Address": "Av. Príncep Benlloch, 20, AD500 Andorra la Vella, Andorra",
-  "phone": "+376879879"
- },
- {
-  "id": 342,
-  "name": "Les Pardines 1819",
-  "Address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
-  "phone": "+376845969"
- },
- {
-  "id": 343,
-  "name": "Abba Sispony",
-  "Address": "Carrer Dr. Nequi, 12, AD500 Andorra la Vella, Andorra",
-  "phone": "+376824800"
- },
- {
-  "id": 344,
-  "name": "The Lobby Bar by Daguisa Hotels",
-  "Address": "Av. Meritxell, 28, AD500 Andorra la Vella, Andorra",
-  "phone": "+376820636"
- },
- {
-  "id": 345,
-  "name": "HOTEL SANT ELOI",
-  "Address": "Av. Carlemany, 107, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376739900"
- },
- {
-  "id": 346,
-  "name": "Hotel Antic",
-  "Address": "Carretera d'Engolasters, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376809590"
- },
- {
-  "id": 347,
-  "name": "Ushuaia Mountain Hotel",
-  "Address": "Plaça Coprínceps, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376871400"
- },
- {
-  "id": 348,
-  "name": "Del Pui",
-  "Address": "Ctra. de l'Obac, 64, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376873400"
- },
- {
-  "id": 349,
-  "name": "Hotel Guillem",
-  "Address": "Av. Meritxell, 23, AD500 Andorra la Vella, Andorra",
-  "phone": "+376886800"
- },
- {
-  "id": 350,
-  "name": "Hotel Pere d'Urg",
-  "Address": "Carrer Prat de la Creu, 88, AD500 Andorra la Vella, Andorra",
-  "phone": "+376874444"
- },
- {
-  "id": 351,
-  "name": "Pensió els Escalls",
-  "Address": "Av. de les Escoles, 29, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376876000"
- },
- {
-  "id": 352,
-  "name": "Hotel l'Ermita B\u0026B",
-  "Address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
-  "phone": "+376802780"
- },
- {
-  "id": 353,
-  "name": "Hotel Montecarlo Andorra",
-  "Address": "Av. Dr. Mitjavila, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876900"
- },
- {
-  "id": 354,
-  "name": "Park Piolets Mountain Hotel \u0026 Spa",
-  "Address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873601"
- },
- {
-  "id": 355,
-  "name": "Hotel Spa Diana Parc Andorra",
-  "Address": "Av. Meritxell, 34, AD500 Andorra la Vella, Andorra",
-  "phone": "+376876800"
- },
- {
-  "id": 356,
-  "name": "Font d'Argent Canillo",
-  "Address": "Carrer Prat de la Creu, 15-25, AD500 Andorra la Vella, Andorra",
-  "phone": "+376760303"
- },
- {
-  "id": 357,
-  "name": "Cal Forner",
-  "Address": "Av. Dr. Mitjavila, 1, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880880"
- },
- {
-  "id": 358,
-  "name": "Hotel la Burna Panoràmic",
-  "Address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
-  "phone": "+376605700"
- },
- {
-  "id": 359,
-  "name": "Hotel Parador de Canòlich",
-  "Address": "Carrer de la Roda, S N, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873602"
- },
- {
-  "id": 360,
-  "name": "Serras Andorra Luxury Boutique Resort \u0026 Spa",
-  "Address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
-  "phone": "+376877777"
- },
- {
-  "id": 361,
-  "name": "Hotel \u0026 Spa Xalet Bringué",
-  "Address": "Av. Fiter i Rossell, 25, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376890990"
- },
- {
-  "id": 362,
-  "name": "Wuau! Hotel Galanthus \u0026 Spa",
-  "Address": "l'Aigüeta,, Carrer de l'Aigüeta, 6, AD500 Andorra la Vella, Andorra",
-  "phone": "+376821393"
- },
- {
-  "id": 363,
-  "name": "Hotel Sol Park",
-  "Address": "Av. Carlemany, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376821125"
- },
- {
-  "id": 364,
-  "name": "Hotel Font",
-  "Address": "Carrer Prat de la Creu, 14, AD500 Andorra la Vella, Andorra",
-  "phone": "+376873603"
- },
- {
-  "id": 365,
-  "name": "Hotel Griu",
-  "Address": "Av. Fiter i Rossell, 49, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376803480"
- },
- {
-  "id": 366,
-  "name": "Grau Roig Andorra Boutique Hotel \u0026 Spa",
-  "Address": "Av. Meritxell 87-89 (pedestrian street Direct access to garage by, Carrer Pau Casals, 7, AD500 Andorra la Vella, Andorra",
-  "phone": "87897500"
- },
- {
-  "id": 367,
-  "name": "Hotel Marco Polo",
-  "Address": "Av. del Pont de la Tosca, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376806306"
- },
- {
-  "id": 368,
-  "name": "Hotel Roc del Castell",
-  "Address": "Av. Fiter i Rossell, 51, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 369,
-  "name": "Hotel Arbre De Neu",
-  "Address": "Av. Carlemany, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376821125"
- },
- {
-  "id": 370,
-  "name": "Hotel Coma Bella",
-  "Address": "Av. Carlemany, 99, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376825957"
- },
- {
-  "id": 371,
-  "name": "Hotel Folch",
-  "Address": "Carrer de la Unió, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376870400"
- },
- {
-  "id": 372,
-  "name": "L'Enoteca Andorra",
-  "Address": "Restaurant Odetti Bistro, Carrer Santa Anna, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376807575"
- },
- {
-  "id": 373,
-  "name": "RESTAURANT MUSSOL",
-  "Address": "Carrer de la Unió, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376855400"
- },
- {
-  "id": 374,
-  "name": "Cheese's Art Andorra",
-  "Address": "Carrer Sant Antoni, 3, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376822810"
- },
- {
-  "id": 375,
-  "name": "Mood sensorial restaurant",
-  "Address": "C. del Parnal, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376813545"
- },
- {
-  "id": 376,
-  "name": "Restaurant Odetti Bistro Escaldes",
-  "Address": "Carrer Copríncep François Mitterrand, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376868086"
- },
- {
-  "id": 377,
-  "name": "Les Oques Pizzeria i Cuina Tradicional Italiana d'en Giovanni",
-  "Address": "Av. de les Escoles, 16, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376816675"
- },
- {
-  "id": 378,
-  "name": "Pizzeria Angelo | Andorra la Vella",
-  "Address": "Carrer de la Unió, 9, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376805810"
- },
- {
-  "id": 379,
-  "name": "Restaurant La Tagliatella | Andorra",
-  "Address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376878700"
- },
- {
-  "id": 380,
-  "name": "UDON Andorra",
-  "Address": "Carrer Isabelle Sandy, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376770077"
- },
- {
-  "id": 381,
-  "name": "Pizzeria Xavier",
-  "Address": "Av. Carlemany, 91, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376866177"
- },
- {
-  "id": 382,
-  "name": "EL CACHIRULO",
-  "Address": "Carrer d'Engordany, 17, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376744050"
- },
- {
-  "id": 383,
-  "name": "Restaurant El Passadís",
-  "Address": "Ctra. de l'Obac, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376873400"
- },
- {
-  "id": 384,
-  "name": "Marisqueria Don Denis",
-  "Address": "Av. Fiter i Rossell, 15, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376869454"
- },
- {
-  "id": 385,
-  "name": "Restaurant les Closes",
-  "Address": "Plaça Coprínceps, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820563"
- },
- {
-  "id": 386,
-  "name": "QUEDADA Gastro Vins",
-  "Address": "Carrer de la Vall, 1, AD500 Andorra la Vella, Andorra",
-  "phone": "+376826000"
- },
- {
-  "id": 387,
-  "name": "Don Félix Lounge",
-  "Address": "C. del Parnal, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376863043"
- },
- {
-  "id": 388,
-  "name": "L'informal",
-  "Address": "Carrer del Picó, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820920"
- },
- {
-  "id": 389,
-  "name": "RESTAURANT EL GRECO",
-  "Address": "Carrer Bonaventura Riberaygua, 9, AD500 Andorra la Vella, Andorra",
-  "phone": "+376625045"
- },
- {
-  "id": 390,
-  "name": "Excalibur",
-  "Address": "Av. Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 391,
-  "name": "FOURTEEN RESTAURANT",
-  "Address": "Av. Fiter i Rossell, 38, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376727726"
- },
- {
-  "id": 392,
-  "name": "Restaurant La Pinosa",
-  "Address": "Av. de les Escoles, 16, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376722100"
- },
- {
-  "id": 393,
-  "name": "L'informal",
-  "Address": "la, Av. Meritxell, 120, AD500 Andorra la Vella, Andorra",
-  "phone": "+376865345"
- },
- {
-  "id": 394,
-  "name": "Big Ben",
-  "Address": "Av. Copríncep de Gaulle, 11, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820013"
- },
- {
-  "id": 395,
-  "name": "Fideus",
-  "Address": "Camí de la Muntanya, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+33652062202"
- },
- {
-  "id": 396,
-  "name": "Peixateria La Llotja",
-  "Address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
-  "phone": "+376808393"
- },
- {
-  "id": 397,
-  "name": "Restaurant L'Entrecôte",
-  "Address": "Av. del Pessebre, 11, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376824140"
- },
- {
-  "id": 398,
-  "name": "Restaurant Els Jardins",
-  "Address": "Carrer Pare Enric Graner, 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376861888"
- },
- {
-  "id": 399,
-  "name": "BAR RESTAURANT LA TERTÚLIA",
-  "Address": "Av. Carlemany, 36, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376880666"
- },
- {
-  "id": 400,
-  "name": "LaLoLa Restaurant Casual i Cafeteria",
-  "Address": "Centro Comercial ILLA CARLEMANY, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376875500"
- },
- {
-  "id": 401,
-  "name": "Restaurant Tic-Tapa",
-  "Address": "Carrer Bonaventura Riberaygua, 8, AD500 Andorra la Vella, Andorra",
-  "phone": "+376861001"
- },
- {
-  "id": 402,
-  "name": "Noranta Tres",
-  "Address": "Av. del Fener, 24, Edf. Prat de les Oques AD700, AD700 Escaldes-Engordany, Andorra",
-  "phone": "24700700"
- },
- {
-  "id": 403,
-  "name": "Restaurant Beluga",
-  "Address": "Carrer del Fener, 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376861810"
- },
- {
-  "id": 404,
-  "name": "Viena",
-  "Address": "Plaça Coprínceps, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376871400"
- },
- {
-  "id": 405,
-  "name": "RESTAURANT LES BARQUES",
-  "Address": "Andorra, Av. del Pessebre, 42, Escaldes-Engordany, Andorra",
-  "phone": "+376722868"
- },
- {
-  "id": 406,
-  "name": "Beç",
-  "Address": "Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800999"
- },
- {
-  "id": 407,
-  "name": "BAR RESTAURANT SANTA ANNA",
-  "Address": "Engordany, Av. Fiter i Rossell, 2, AD700 AD700 Escaldes, Andorra",
-  "phone": "+376866528"
- },
- {
-  "id": 408,
-  "name": "La Tapad´era",
-  "Address": "Av. Carlemany, 69, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376744141"
- },
- {
-  "id": 409,
-  "name": "TAVERNA PICCOLA ITALIA",
-  "Address": "Carrer del Prat Gran, 3-5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376760760"
- },
- {
-  "id": 410,
-  "name": "Foster's Hollywood",
-  "Address": "Av. Fiter i Rossell, 74, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376620050"
- },
- {
-  "id": 411,
-  "name": "Restaurant Cielito Lindo Andorra",
-  "Address": "Plaça Coprínceps, 3, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820722"
- },
- {
-  "id": 412,
-  "name": "Restaurant La Cuina d'en Marvic",
-  "Address": "Avinguda Carlemany, 49 Escaldes-Engordany, AD700 Andorra",
-  "phone": "+376725720"
- },
- {
-  "id": 413,
-  "name": "Snack-Bar Racó de L'Ibèric",
-  "Address": "Av. Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 414,
-  "name": "Casa del Formatge",
-  "Address": "Carrer de la Parròquia, 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 415,
-  "name": "Restaurant Metropolus",
-  "Address": "Av. del Pessebre, 39, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376831483"
- },
- {
-  "id": 416,
-  "name": "frankfurt munich",
-  "Address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+34637225151"
- },
- {
-  "id": 417,
-  "name": "Pizza Roma (Illa Carlemany)",
-  "Address": "Av. Carlemany, 57, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376825665"
- },
- {
-  "id": 418,
-  "name": "Restaurante Hong Kong",
-  "Address": "Passatge Antònia Font Caminal, 1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376726661"
- },
- {
-  "id": 419,
-  "name": "Dehesa Santa Maria | Andorra",
-  "Address": "Av. Copríncep de Gaulle, 7, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376816555"
- },
- {
-  "id": 420,
-  "name": "RESTAURANT DELÍCIES TURQUES",
-  "Address": "Carrer de l'Obac, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376824614"
- },
- {
-  "id": 421,
-  "name": "Pizzeria I Due Amici",
-  "Address": "Av. Carlemany, 82, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 422,
-  "name": "MYCORNER",
-  "Address": "Av. del Consell de la Terra, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 423,
-  "name": "Quarantuno Pizzería Escaldes",
-  "Address": "Av. Carlemany, 53, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376838127"
- },
- {
-  "id": 424,
-  "name": "0% Gluten | Andorra",
-  "Address": "Centre Comercial Illa Carlemany - Planta 0, Av. Carlemany, 69, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376681368"
- },
- {
-  "id": 425,
-  "name": "PRAT DEL ROURE",
-  "Address": "Centre caldea inuu 1piso, Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376891889"
- },
- {
-  "id": 426,
-  "name": "Casa Vitoria Andorra - Cafeteria Restaurant ✅",
-  "Address": "Av Fener 24, Local, B3, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376747666"
- },
- {
-  "id": 427,
-  "name": "Bar Restaurant SEVILLA",
-  "Address": "Botigues Molines, Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376846046"
- },
- {
-  "id": 428,
-  "name": "Granja Pacífic",
-  "Address": "Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800999"
- },
- {
-  "id": 429,
-  "name": "Monkeys Burgers \u0026 drinks",
-  "Address": "Av. Carlemany, 28, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376870470"
- },
- {
-  "id": 430,
-  "name": "Burger Brothers Escaldes",
-  "Address": "Carrer Isabel Sandy, 3, local 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376867570"
- },
- {
-  "id": 431,
-  "name": "Artic Shisha Andorra",
-  "Address": "Camí d'Ensucaranes, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376823390"
- },
- {
-  "id": 432,
-  "name": "Restaurant BLU",
-  "Address": "Av. Esteve Albert, 3, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376845777"
- },
- {
-  "id": 433,
-  "name": "Siam Shiki",
-  "Address": "Av. Esteve Albert, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376625700"
- },
- {
-  "id": 434,
-  "name": "Bistrot Andorra",
-  "Address": "Av. Carlemany, 44, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 435,
-  "name": "EL TURKO KEBAB PIZZERIA",
-  "Address": "Av. Carlemany, 70 Centre Comercial Illa Carlemany Planta 2, local 6, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376687070"
- },
- {
-  "id": 436,
-  "name": "Restaurant De Productes Italians",
-  "Address": "Passeig Font, Passatge Antònia Font Caminal, Local 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376807050"
- },
- {
-  "id": 437,
-  "name": "Sushimore Andorra - Food Casual",
-  "Address": "Carrer del Fener, 16, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376864964"
- },
- {
-  "id": 438,
-  "name": "Burger King",
-  "Address": "Av. del Pessebre, 36, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820840"
- },
- {
-  "id": 439,
-  "name": "Bar Orelles",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376867490"
- },
- {
-  "id": 440,
-  "name": "OSO OSO Restaurant",
-  "Address": "Passeig de l'Arnaldeta de Caboet, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376829029"
- },
- {
-  "id": 441,
-  "name": "PAELLAS Y PAELLOS Andorra",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376863190"
- },
- {
-  "id": 442,
-  "name": "Andorra",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376861613"
- },
- {
-  "id": 443,
-  "name": "Manà GastroBar",
-  "Address": "Avd. de les Escoles nº25, AD700, Andorra",
-  "phone": ""
- },
- {
-  "id": 444,
-  "name": "Restaurante 120",
-  "Address": "Av. Carlemany, 53, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376814766"
- },
- {
-  "id": 445,
-  "name": "Knowmad Andorra",
-  "Address": "Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376868086"
- },
- {
-  "id": 446,
-  "name": "Marquet Gourmeterie",
-  "Address": "Av. de les Escoles, 12, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 447,
-  "name": "The Lobby Bar by Daguisa Hotels",
-  "Address": "Av. Carlemany, 67, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376810021"
- },
- {
-  "id": 448,
-  "name": "Pizzeria Cristo's",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376812512"
- },
- {
-  "id": 449,
-  "name": "Bar-Restaurant La Gondola",
-  "Address": "Carrer del Fener, 17, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376877153"
- },
- {
-  "id": 450,
-  "name": "Enrique Tomás PERNIL-TAPES-VI",
-  "Address": "Carrer Copríncep François Mitterrand, 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376828667"
- },
- {
-  "id": 451,
-  "name": "Ginza 41 Sushi \u0026 Robata",
-  "Address": "Av. Carlemany, 59, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376886269"
- },
- {
-  "id": 452,
-  "name": "Bar Restaurant RIAU",
-  "Address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376813200"
- },
- {
-  "id": 453,
-  "name": "Restaurant Aquàtic",
-  "Address": "Av. Carlemany, 58, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 454,
-  "name": "Hotel Roc Blanc",
-  "Address": "Av. Carlemany, 93, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376808393"
- },
- {
-  "id": 455,
-  "name": "RESTAURANT LA NOVA FORQUILLA",
-  "Address": "Av. del Consell de la Terra, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376823200"
- },
- {
-  "id": 456,
-  "name": "EL NOU PICA PICA",
-  "Address": "Carrer Santa Anna, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376728928"
- },
- {
-  "id": 457,
-  "name": "Restaurant Plat'In",
-  "Address": "Av. Fiter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376840470"
- },
- {
-  "id": 458,
-  "name": "Pans \u0026 Company",
-  "Address": "Carrer de la Unió, 13, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376828533"
- },
- {
-  "id": 459,
-  "name": "CAFETERIA EUREKA",
-  "Address": "Plaça Coprínceps, 5, bjs, Plaça Coprínceps, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376871475"
- },
- {
-  "id": 460,
-  "name": "Bar Engordany",
-  "Address": "Carrer Josep Viladomat, 6, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376823308"
- },
- {
-  "id": 461,
-  "name": "Hamburguesa de la natura",
-  "Address": "Carrer Santa Anna, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820912"
- },
- {
-  "id": 462,
-  "name": "Hotel Les Closes",
-  "Address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376813969"
- },
- {
-  "id": 463,
-  "name": "BAR SALAMANCA",
-  "Address": "Av. Carlemany, 81-75, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376865333"
- },
- {
-  "id": 464,
-  "name": "LA GORMANDERIA II",
-  "Address": "Carrer Sant Antoni, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376824075"
- },
- {
-  "id": 465,
-  "name": "GRANJA MUSSOL",
-  "Address": "Carrer de la Unió, 11, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376869113"
- },
- {
-  "id": 466,
-  "name": "Restaurant 120 | Andorra la Vella",
-  "Address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376802930"
- },
- {
-  "id": 467,
-  "name": "GRANJA ROSER",
-  "Address": "Av. Carlemany, 36, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376819969"
- },
- {
-  "id": 468,
-  "name": "LA MAISON EN CHOCOLAT",
-  "Address": "Carrer Sant Antoni, 5, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376824552"
- },
- {
-  "id": 469,
-  "name": "Barbakun",
-  "Address": "Av. Carlemany, 81-75, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376865333"
- },
- {
-  "id": 470,
-  "name": "Hotel Tudel",
-  "Address": "Carrer Nou, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376846847"
- },
- {
-  "id": 471,
-  "name": "Alta Taberna Aires Gourmet",
-  "Address": "Carrer Isabel Sandy, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376837537"
- },
- {
-  "id": 472,
-  "name": "Centre Comercial Illa Carlemany",
-  "Address": "Carrer de l'Aigüeta, AD500 Andorra la Vella, Andorra",
-  "phone": "+376860199"
- },
- {
-  "id": 473,
-  "name": "Tourist information center",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376892000"
- },
- {
-  "id": 474,
-  "name": "Happy Pills",
-  "Address": "Carrer Prat de la Creu, 8, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 475,
-  "name": "The Shopping Mile",
-  "Address": "the ground, Centro Comercial ILLA CARLEMANY, AD700,2nd floor above, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376833133"
- },
- {
-  "id": 476,
-  "name": "cf5590.tecob.com — Coming Soon",
-  "Address": "Av. Meritxell, 96, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 477,
-  "name": "Duty Free",
-  "Address": "Av. Carlemany, 22, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 478,
-  "name": "MINISO Andorra",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376892000"
- },
- {
-  "id": 479,
-  "name": "The North Face Andorra",
-  "Address": "Plaça Coprínceps, 6, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+33670176392"
- },
- {
-  "id": 480,
-  "name": "Parking Centre Comercial Illa Carlemany",
-  "Address": "Av. Carlemany Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800816"
- },
- {
-  "id": 481,
-  "name": "Opportunities",
-  "Address": "Av. Carlemany, 60-62, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376360582"
- },
- {
-  "id": 482,
-  "name": "Pollyanna Dona",
-  "Address": "Av. Dr. Mitjavila, 31, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 483,
-  "name": "Swarovski",
-  "Address": "Av. Carlemany, 124, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376877600"
- },
- {
-  "id": 484,
-  "name": "G-Star RAW Store",
-  "Address": "Av. Esteve Albert, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376867000"
- },
- {
-  "id": 485,
-  "name": "MANGO MAN",
-  "Address": "Av. Carlemany 70 Centre Comercial Illa Carlemany P1 local 7, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879305"
- },
- {
-  "id": 486,
-  "name": "Cellini",
-  "Address": "Centre Comercial illa carlemany, Av carlemany 70 3a planta, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376727374"
- },
- {
-  "id": 487,
-  "name": "Quars Escaldes II",
-  "Address": "Av. Carlemany, 95, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376803140"
- },
- {
-  "id": 488,
-  "name": "Centre Júlia",
-  "Address": "Carrer dels Paraires, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800863"
- },
- {
-  "id": 489,
-  "name": "EMPARK Escaldes Centre",
-  "Address": "Av. del Pont de la Tosca, 25, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376874200"
- },
- {
-  "id": 490,
-  "name": "HUGO BOSS - VIA MODA",
-  "Address": "Av. Carlemany, 70 Centre Comercial Illa Carlemany P1 local 13, AD700 Escaldes-Engordany, Andorra",
-  "phone": "70113700"
- },
- {
-  "id": 491,
-  "name": "Era Verda",
-  "Address": "Av. Carlemany, 70 Centre Comercial Illa Carlemany PB, local, 19, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879346"
- },
- {
-  "id": 492,
-  "name": "HUGO BOSS - VIA MODA",
-  "Address": "Carrer Copríncep François Mitterrand, 24, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376829899"
- },
- {
-  "id": 493,
-  "name": "Era Verda",
-  "Address": "Av. Carlemany, 68, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376824717"
- },
- {
-  "id": 494,
-  "name": "Helly Hansen Andorra",
-  "Address": "Av. Carlemany 69 Centre Comercial Illa Carlemany - Pta. B, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376828717"
- },
- {
-  "id": 495,
-  "name": "Biocoop Andorra",
-  "Address": "Plaça Coprínceps, 1, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376863030"
- },
- {
-  "id": 496,
-  "name": "Caprabo Illa Carlemany",
-  "Address": "Av. Carlemany Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800604"
- },
- {
-  "id": 497,
-  "name": "Tezenis",
-  "Address": "Av. de les Escoles, 2, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376802255"
- },
- {
-  "id": 498,
-  "name": "Viladomat Active",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+37618000259"
- },
- {
-  "id": 499,
-  "name": "OUTLET SPORTECH",
-  "Address": "Av. Fiter i Rossell, 23, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376845368"
- },
- {
-  "id": 500,
-  "name": "Perfumeria Júlia",
-  "Address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
-  "phone": "+376880000"
- },
- {
-  "id": 501,
-  "name": "LEVI'S ILLA - VIA MODA",
-  "Address": "Av. Carlemany, 60, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376874934"
- },
- {
-  "id": 502,
-  "name": "Boutique Ivone",
-  "Address": "Av. Carlemany 70 Centre Comercial Illa Carlemany PB local 21, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879314"
- },
- {
-  "id": 503,
-  "name": "Wi Fi tienda electrónica",
-  "Address": "Av. Carlemany, 67, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376346230"
- },
- {
-  "id": 504,
-  "name": "LIU·JO - VIA MODA",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879330"
- },
- {
-  "id": 505,
-  "name": "Quars HH Escaldes. Cartier /TAG Heuer / Hamilton /Seiko/ Grand Seiko",
-  "Address": "Av. Carlemany, 71, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376892200"
- },
- {
-  "id": 506,
-  "name": "SUPERMERCAT DIAGONAL ESCALDES-ENGORDANY",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376827047"
- },
- {
-  "id": 507,
-  "name": "Pyrénées Andorra",
-  "Address": "Av Carlemany 70 Local C09, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376868694"
- },
- {
-  "id": 508,
-  "name": "Boutique Nespresso Illa Carlemany",
-  "Address": "Av. Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 509,
-  "name": "Oakley Andorra",
-  "Address": "Avinguda Carlemany 70, Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376802470"
- },
- {
-  "id": 510,
-  "name": "Centre d'Art d'Escaldes-Engordany (CAEE)",
-  "Address": "Carrer dels Paraires, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800918"
- },
- {
-  "id": 511,
-  "name": "Farmàcia Galeno Illa",
-  "Address": "Av. Carlemany Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800861"
- },
- {
-  "id": 512,
-  "name": "Di Milano",
-  "Address": "Av. de les Escoles, 28, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376329199"
- },
- {
-  "id": 513,
-  "name": "Pollyanna Home\u0026Dona",
-  "Address": "Av. Carlemany 70 PB, local, 22, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879320"
- },
- {
-  "id": 514,
-  "name": "LA GELATERIA ITALIANA",
-  "Address": "Carrer del Fener, 41, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820525"
- },
- {
-  "id": 515,
-  "name": "Relojería en Andorra",
-  "Address": "Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376827336"
- },
- {
-  "id": 516,
-  "name": "JOTT ANDORRA",
-  "Address": "Av. de les Escoles, 28, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376329199"
- },
- {
-  "id": 517,
-  "name": "NAPAPIJRI - VIA MODA",
-  "Address": "Av. Carlemany 70 PB, local, 22, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879320"
- },
- {
-  "id": 518,
-  "name": "Hunter by Yorky´s",
-  "Address": "Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376827336"
- },
- {
-  "id": 519,
-  "name": "Centre Porsche Andorra",
-  "Address": "Av. Carlemany, 60, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376874935"
- },
- {
-  "id": 520,
-  "name": "BENETTON 012 - VIA MODA",
-  "Address": "Centre Comercial Illa Andorra, Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376862141"
- },
- {
-  "id": 521,
-  "name": "Burton Andorra Store",
-  "Address": "Av. Carlemany, 115, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376892200"
- },
- {
-  "id": 522,
-  "name": "Pollyanna Seventeen II",
-  "Address": "Centre Comercial Illa Carlemany, Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376879333"
- },
- {
-  "id": 523,
-  "name": "Casa Bergé",
-  "Address": "Av. Carlemany, 97, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376803988"
- },
- {
-  "id": 524,
-  "name": "Rodand.com (DRIVER)",
-  "Address": "Av Carlemany 68 70 72, AD700 Escaldes-Engordany, Andorra",
-  "phone": "687072700"
- },
- {
-  "id": 525,
-  "name": "Lechanbrugo",
-  "Address": "Av. Carlemany, 95, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376824843"
- },
- {
-  "id": 526,
-  "name": "Saint Peter the Martyr de les Escaldes",
-  "Address": "Ctra. de la Comella i de la Plana, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 527,
-  "name": "Museo Carmen Thyssen Andorra",
-  "Address": "Plaça Santa Anna, 1, AD700 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 528,
-  "name": "Madriu-Perafita-Claror Valley",
-  "Address": "Av. Esteve Albert, 4, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376692659"
- },
- {
-  "id": 529,
-  "name": "HIKING ROUTE: ITINERARI D'ENTREMESAIGÜES",
-  "Address": "c/Prat de la creu 74-76 baixos, AD500 Andorra la Vella, Andorra",
-  "phone": "+376823000"
- },
- {
-  "id": 530,
-  "name": "Noblesa del temps - de Salvador Dalí",
-  "Address": "Av. Carlemany, 37, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800800"
- },
- {
-  "id": 531,
-  "name": "Mirador Roc Del Quer",
-  "Address": "Ctra. de Montaup, AD300 Ordino, Andorra",
-  "phone": ""
- },
- {
-  "id": 532,
-  "name": "Farga Rossell",
-  "Address": "Plaça de la Rotonda, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 533,
-  "name": "Casa de la Vall",
-  "Address": "Carretera D'arinsal 16, ED. Joan DE Torne, AD400 Arinsal, Andorra",
-  "phone": "+376839200"
- },
- {
-  "id": 534,
-  "name": "National Automobile Museum",
-  "Address": "Av. Carlemany, 107, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376827867"
- },
- {
-  "id": 535,
-  "name": "Les Escaldes",
-  "Address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376802930"
- },
- {
-  "id": 536,
-  "name": "Club ENERGY - Bar Bowling Billiard Karaoke",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376866067"
- },
- {
-  "id": 537,
-  "name": "Naturlandia",
-  "Address": "Estació Esquí, AD100 El Tarter, Andorra",
-  "phone": "+376890500"
- },
- {
-  "id": 538,
-  "name": "Església de Sant Cristòfol d'Anyós",
-  "Address": "Ctra. de Cal Rosselló, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 539,
-  "name": "Pont de Sant Antoni de la Grella",
-  "Address": "Pont Sassanat, AD700, Andorra",
-  "phone": ""
- },
- {
-  "id": 540,
-  "name": "Centre Comercial Illa Carlemany",
-  "Address": "Plaça Coprínceps, 8, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376820563"
- },
- {
-  "id": 541,
-  "name": "Saint Roman of les Bons",
-  "Address": "Centre caldea inuu 1piso, Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376891889"
- },
- {
-  "id": 542,
-  "name": "Refugi dels Agols",
-  "Address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376813200"
- },
- {
-  "id": 543,
-  "name": "Església de Sant Antoni de la Grella",
-  "Address": "Ctra. de l'Obac, 64, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376873400"
- },
- {
-  "id": 544,
-  "name": "Museu la Massana Còmic - Joan Pieras",
-  "Address": "Av. Carlemany, 61-64, AD600 Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 545,
-  "name": "Museu de Roques al carrer",
-  "Address": "Ctra. de la Comella i de la Plana, 29, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 546,
-  "name": "Església de Sant Martí de la Cortinada",
-  "Address": "Coma de Ransol, 13, AD100 Canillo, Andorra",
-  "phone": "+376619101"
- },
- {
-  "id": 547,
-  "name": "Fideus",
-  "Address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
-  "phone": "+376808393"
- },
- {
-  "id": 548,
-  "name": "Grandvalira Mon(t) Màgic Canillo",
-  "Address": "Canillo, AD100, AD100 Canillo, Andorra",
-  "phone": "+376891818"
- },
- {
-  "id": 549,
-  "name": "Caldea Spa",
-  "Address": "24, Carrer del Fener, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376861008"
- },
- {
-  "id": 550,
-  "name": "Roc del Quer",
-  "Address": "Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376800999"
- },
- {
-  "id": 551,
-  "name": "Orri del Cubil",
-  "Address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
-  "phone": "+376827117"
- },
- {
-  "id": 552,
-  "name": "Casa Lacruz",
-  "Address": "Plaça de Les Fontetes, AD400 La Massana, Andorra",
-  "phone": "+376838919"
- },
- {
-  "id": 553,
-  "name": "Hotel Panorama",
-  "Address": "El Tarter, AD100 Canillo, Andorra",
-  "phone": "+376891818"
- },
- {
-  "id": 554,
-  "name": "Refugi de Fontverd",
-  "Address": "Carrer Major, AD500 Santa Coloma, Andorra",
-  "phone": ""
- },
- {
-  "id": 555,
-  "name": "Mirador de Palomera",
-  "Address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376892000"
- },
- {
-  "id": 556,
-  "name": "Santa Coloma",
-  "Address": "Carretera de la Rabassa Km. 8 Juberri, AD600 Sant Julià de Lòria, Andorra",
-  "phone": "+376741444"
- },
- {
-  "id": 557,
-  "name": "Mas de Ribafeta",
-  "Address": "Av. del Consell de la Terra, 10, AD700 Escaldes-Engordany, Andorra",
-  "phone": "+376722200"
- },
- {
-  "id": 558,
-  "name": "FOURTEEN RESTAURANT",
-  "Address": "Despatx 401, Av. Carlemany, 68, AD300 Escaldes-Engordany, Andorra",
-  "phone": "40168300"
- },
- {
-  "id": 559,
-  "name": "Le Petit Train Jaune",
-  "Address": "Ctra. de la Caubella, 1, AD400 La Massana, Andorra",
-  "phone": "+376878001"
- },
- {
-  "id": 560,
-  "name": "CASA CANUT botiga",
-  "Address": "Av. de Joan Martí, 64, AD200 Encamp, Andorra",
-  "phone": "+376832266"
- },
- {
-  "id": 561,
-  "name": "Ordino",
-  "Address": "Carretera de Arinsal, 5, AD400 Arinsal, Andorra",
-  "phone": "+376837111"
- },
- {
-  "id": 562,
-  "name": "Espai Ceretània",
-  "Address": "Av. Sant Joan de Caselles, S/n, 08784, Andorra",
-  "phone": "+376753600"
- },
- {
-  "id": 563,
-  "name": "Club de Golf de La Cerdanya",
-  "Address": "Urb. Comella Parc, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 564,
-  "name": "Museu Diocesà d’Urgell",
-  "Address": "Carrer dels Cavallers, 2, AD200 Encamp, Andorra",
-  "phone": "+376833551"
- },
- {
-  "id": 565,
-  "name": "Aqueduct of Segovia",
-  "Address": "Carretera d'Engolasters, Km. 6, 5, Escaldes-Engordany, Andorra",
-  "phone": ""
- },
- {
-  "id": 566,
-  "name": "ESPORTS SANT MORITZ",
-  "Address": "Sant Miquel D'engolasters, Engolasters, Andorra",
-  "phone": "+376890881"
- },
- {
-  "id": 567,
-  "name": "Casa Museu Cal Gerrer",
-  "Address": "Parc Central, AD500, AD500 Andorra la Vella, Andorra",
-  "phone": ""
- },
- {
-  "id": 568,
-  "name": "La Seu d'Urgell",
-  "Address": "Plaça Carlemany nº 4 Edifici del Telecabina 2a planta, AD100 Canillo, Andorra",
-  "phone": "+376753637"
- }
+  {
+    "id": 1,
+    "name": "Glaner Hotel Café",
+    "address": "Carrer de na Maria Pla, 19-21, AD500 Andorra la Vella, Andorra",
+    "phone": "+376879444"
+  },
+  {
+    "id": 2,
+    "name": "Hotel Zenit Diplomatic | Andorra la Vella",
+    "address": "Carrer de la Roda, S N, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873602"
+  },
+  {
+    "id": 3,
+    "name": "Grand Plaza Hotel \u0026 Wellness",
+    "address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
+    "phone": "+376877777"
+  },
+  {
+    "id": 4,
+    "name": "Andorra Park Hotel",
+    "address": "Av. Meritxell, 114, AD500 Andorra la Vella, Andorra",
+    "phone": "+376810030"
+  },
+  {
+    "id": 5,
+    "name": "Suites Plaza Hotel \u0026 Wellness Andorra",
+    "address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
+    "phone": "+376605700"
+  },
+  {
+    "id": 6,
+    "name": "Hotel Starc by Pierre \u0026 Vacances Premium",
+    "address": "Carrer Prat de la Creu, 14, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873603"
+  },
+  {
+    "id": 7,
+    "name": "Hotel Restaurant de l'Isard",
+    "address": "Av. Príncep Benlloch, 20, AD500 Andorra la Vella, Andorra",
+    "phone": "+376879879"
+  },
+  {
+    "id": 8,
+    "name": "Hôtel Mercure Andorra",
+    "address": "Carrer Prat de la Creu, 88, AD500 Andorra la Vella, Andorra",
+    "phone": "+376874444"
+  },
+  {
+    "id": 9,
+    "name": "Novotel Andorra",
+    "address": "Av. Meritxell, 34, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876800"
+  },
+  {
+    "id": 10,
+    "name": "Hotel Pyrénées",
+    "address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
+    "phone": "+376802780"
+  },
+  {
+    "id": 11,
+    "name": "Hotel Sant Jordi",
+    "address": "Carrer Roureda de Sansa, 2, AD500 Andorra la Vella, Andorra",
+    "phone": "+376820061"
+  },
+  {
+    "id": 12,
+    "name": "Hotel NH Andorra La Vella",
+    "address": "Carretera General 2 nº26, AD100 Soldeu, Andorra",
+    "phone": "+376751150"
+  },
+  {
+    "id": 13,
+    "name": "Acta Arthotel",
+    "address": "Ctra. de Fontaneda, S/N, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376841043"
+  },
+  {
+    "id": 14,
+    "name": "Aston Hotel",
+    "address": "Av. de François Mitterrand, 68, AD200 Encamp, Andorra",
+    "phone": "+376727879"
+  },
+  {
+    "id": 15,
+    "name": "Hotel Best Andorra Center",
+    "address": "Av. de François Mitterrand, 102, AD200 Encamp, Andorra",
+    "phone": "+376834671"
+  },
+  {
+    "id": 16,
+    "name": "Hotel Yomo Cèntric",
+    "address": "CG-2, AD100 Canillo, Andorra",
+    "phone": "+376870550"
+  },
+  {
+    "id": 17,
+    "name": "Hotel Spa Termes Carlemany",
+    "address": "Carretera General s/n, AD100 Vall Incles, Andorra",
+    "phone": "+376736666"
+  },
+  {
+    "id": 18,
+    "name": "Hotel les Fonts",
+    "address": "Camí Cap del Carrer, 4, AD400 La Massana, Andorra",
+    "phone": "+376813138"
+  },
+  {
+    "id": 19,
+    "name": "Eurostars Andorra",
+    "address": "Av. del Ravell, 1, AD400 La Massana, Andorra",
+    "phone": "+376734900"
+  },
+  {
+    "id": 20,
+    "name": "Hotel City M28",
+    "address": "Crta Gral. de França, km 17'500, AD100 Incles-Canillo, Andorra",
+    "phone": "17500100"
+  },
+  {
+    "id": 21,
+    "name": "Barri Antic Hostel \u0026 Pub",
+    "address": "Carrer dels Cavallers, 38, AD200 Encamp, Andorra",
+    "phone": "+376831513"
+  },
+  {
+    "id": 22,
+    "name": "Hotel Andorra Palace",
+    "address": "Arinsal, La Massana AD, Carretera de Arinsal, s/n, AD400 Erts, Andorra",
+    "phone": "+376738787"
+  },
+  {
+    "id": 23,
+    "name": "Hotel Andorra Palace",
+    "address": "Carretera General, s/n, AD300 La Cortinada, Andorra",
+    "phone": "+376850151"
+  },
+  {
+    "id": 24,
+    "name": "Barri Antic Hostel \u0026 Pub",
+    "address": "Av. del Jovell, 20, AD400 Sispony, Andorra",
+    "phone": "+376835355"
+  },
+  {
+    "id": 25,
+    "name": "HMC Caena",
+    "address": "Av. del Ravell, 3, AD400 La Massana, Andorra",
+    "phone": "+376738738"
+  },
+  {
+    "id": 26,
+    "name": "Hostal Cisco De Sans",
+    "address": "Ctra. de Ransol, S/N, AD100 Ransol, Andorra",
+    "phone": "+376853003"
+  },
+  {
+    "id": 27,
+    "name": "Hotel Zenit Diplomatic | Andorra la Vella",
+    "address": "Avinguda d'Ensegur Arans, S/N, AD300 Arans, Andorra",
+    "phone": "+376835086"
+  },
+  {
+    "id": 28,
+    "name": "President",
+    "address": "Carrer del Camp de la Tanada, AD300 Ordino, Andorra",
+    "phone": "+376736100"
+  },
+  {
+    "id": 29,
+    "name": "Hotel Metropolis",
+    "address": "Carrer del Camp de la Tanada, AD300 Ordino, Andorra",
+    "phone": "+376736100"
+  },
+  {
+    "id": 30,
+    "name": "Insitu Eurotel Andorra",
+    "address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
+    "phone": "+376736500"
+  },
+  {
+    "id": 31,
+    "name": "Yomo Mola Park",
+    "address": "Av. Carlemany, 107, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376739900"
+  },
+  {
+    "id": 32,
+    "name": "Hotel Màgic Andorra",
+    "address": "Carretera General, s/n, AD100 Soldeu, Andorra",
+    "phone": "+376872787"
+  },
+  {
+    "id": 33,
+    "name": "Hotel Les Closes",
+    "address": "Av. de Sant Antoni, 36, AD400 La Massana, Andorra",
+    "phone": "+376738363"
+  },
+  {
+    "id": 34,
+    "name": "Glaner Hotel Café",
+    "address": "Av. de les Escoles, 29, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376876000"
+  },
+  {
+    "id": 35,
+    "name": "Hotel Espel",
+    "address": "Av. de François Mitterrand, 102, AD200 Encamp, Andorra",
+    "phone": "+376834671"
+  },
+  {
+    "id": 36,
+    "name": "Exe Princep",
+    "address": "Avinguda les Subiranes s/n, AD300 El Serrat, Andorra",
+    "phone": "+376749100"
+  },
+  {
+    "id": 37,
+    "name": "Hotel Exe Prisma",
+    "address": "Carrer Sant Salvador, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+34971425588"
+  },
+  {
+    "id": 38,
+    "name": "Les 7 Claus Hotel",
+    "address": "Av. el Través, 7, AD400 La Massana, Andorra",
+    "phone": "+376735900"
+  },
+  {
+    "id": 39,
+    "name": "Hotel Festa Brava",
+    "address": "Carrer de la Solana, 24, AD200 Pas de la Casa, Andorra",
+    "phone": "+376736800"
+  },
+  {
+    "id": 40,
+    "name": "Hotel Tudel",
+    "address": "Av. Rocafort, 26, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376843478"
+  },
+  {
+    "id": 41,
+    "name": "Tulip Inn Andorra Hotel Delfos",
+    "address": "Av. de Joan Martí, 104, AD200 Encamp, Andorra",
+    "phone": "+376731116"
+  },
+  {
+    "id": 42,
+    "name": "Hotel Marfany",
+    "address": "Meritxell, Carretera General, 35, AD100, Andorra",
+    "phone": "+376751050"
+  },
+  {
+    "id": 43,
+    "name": "Aparthotel Conseller",
+    "address": "Avenida Sant Joan de Caselles, 63, AD100 Canillo, Andorra",
+    "phone": "+376851825"
+  },
+  {
+    "id": 44,
+    "name": "Cal Forner",
+    "address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
+    "phone": "+376753753"
+  },
+  {
+    "id": 45,
+    "name": "Yomo Eureka hotel",
+    "address": "Carretera dels Cortals Encamp Km 3, AD200 Encamp, Andorra",
+    "phone": "+376804100"
+  },
+  {
+    "id": 46,
+    "name": "Hotel Encamp — Esquía en Andorra con Forfait",
+    "address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
+    "phone": "+376739444"
+  },
+  {
+    "id": 47,
+    "name": "Aparthotel el Serch",
+    "address": "Carrer dels Arínsols, 10, AD200 Encamp, Andorra",
+    "phone": "+376733900"
+  },
+  {
+    "id": 48,
+    "name": "Siracusa",
+    "address": "Ctra. de Canòlich, AD600 Sant Julià de Lòria, Andorra, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376842382"
+  },
+  {
+    "id": 49,
+    "name": "Hotel Camp del Serrat",
+    "address": "Carretera General 2, n.19, AD100 Soldeu, Andorra",
+    "phone": "+376871787"
+  },
+  {
+    "id": 50,
+    "name": "Abba Xalet Suites Hotel",
+    "address": "Carrer del Pas de la Casa, 6, AD200 Encamp, Andorra",
+    "phone": "+376831516"
+  },
+  {
+    "id": 51,
+    "name": "HOTEL ROC MELER",
+    "address": "Av. el Través, 5, AD400 La Massana, Andorra",
+    "phone": "+376738300"
+  },
+  {
+    "id": 52,
+    "name": "AnyósPark The Mountain \u0026 Wellness Resort",
+    "address": "Ctra general s/n Arans, AD300 La Cortinada, Andorra",
+    "phone": "+376850988"
+  },
+  {
+    "id": 53,
+    "name": "Hotel Coma Bella",
+    "address": "Estación de esquí de Grandvalira, sector Grau Roig, AD200 Grau Roig, Andorra",
+    "phone": "+376755556"
+  },
+  {
+    "id": 54,
+    "name": "HOTEL RESIDÈNCIA ALDOSA",
+    "address": "Ctra. de Sispony i dels Plans, AD400 La Massana, Andorra",
+    "phone": "+376737300"
+  },
+  {
+    "id": 55,
+    "name": "Hotel NH Collection Andorra Palomé",
+    "address": "Carrer de Lòria, 6, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376735200"
+  },
+  {
+    "id": 56,
+    "name": "Ushuaia Mountain Hotel",
+    "address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
+    "phone": "+376736400"
+  },
+  {
+    "id": 57,
+    "name": "Hotel Spa Princesa Parc Andorra",
+    "address": "Ctra. d'Espanya, s/n, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376743100"
+  },
+  {
+    "id": 58,
+    "name": "HOTEL SANT ELOI",
+    "address": "Crta. d'Arinsal s/n, AD400 Erts, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 59,
+    "name": "Abba Sispony",
+    "address": "Plaça del Poble, 6, L´Aldosa, AD400 La Massana, Andorra",
+    "phone": "+376727246"
+  },
+  {
+    "id": 60,
+    "name": "Hotel Pere d'Urg",
+    "address": "Ctra. d'Anyós, 59, AD400 La Massana, Andorra",
+    "phone": "+376737173"
+  },
+  {
+    "id": 61,
+    "name": "Grau Roig Andorra Boutique Hotel \u0026 Spa",
+    "address": "Ctra de La Rabassa Km. 6, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376742030"
+  },
+  {
+    "id": 62,
+    "name": "Del Pui",
+    "address": "Ctra. de Comallempla, AD400 Arinsal, Andorra",
+    "phone": "+376737575"
+  },
+  {
+    "id": 63,
+    "name": "Hotel Folch",
+    "address": "Urb. la Ribagrossa, 13, AD100, Andorra",
+    "phone": "+376830714"
+  },
+  {
+    "id": 64,
+    "name": "Park Piolets Mountain Hotel \u0026 Spa",
+    "address": "Terra Major de Sispony, Carrer Major, AD400, Andorra",
+    "phone": "+376737300"
+  },
+  {
+    "id": 65,
+    "name": "Hotel Antic",
+    "address": "Av. del Ravell, 2, AD400 La Massana, Andorra",
+    "phone": "+376838444"
+  },
+  {
+    "id": 66,
+    "name": "Sport Hotels Resort \u0026 Spa",
+    "address": "Crta General II - Tram Soldeu 56, AD100 Soldeu, Andorra",
+    "phone": "+376870670"
+  },
+  {
+    "id": 67,
+    "name": "Hotel Pitiusa",
+    "address": "Carretera d'Engolasters, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376809590"
+  },
+  {
+    "id": 68,
+    "name": "Hotel Parador de Canòlich",
+    "address": "Av. Carlemany, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376821125"
+  },
+  {
+    "id": 69,
+    "name": "Hotel Guillem",
+    "address": "Av. Fiter i Rossell, 25, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376890990"
+  },
+  {
+    "id": 70,
+    "name": "Les Pardines 1819",
+    "address": "Av. de Joan Martí, 95, AD200 Encamp, Andorra",
+    "phone": "+376733999"
+  },
+  {
+    "id": 71,
+    "name": "Font d'Argent Canillo",
+    "address": "Av. Carlemany, 36, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376880666"
+  },
+  {
+    "id": 72,
+    "name": "Hotel Ski Plaza \u0026 Wellness",
+    "address": "Av. Príncep Benlloch, 24, AD500 Andorra la Vella, Andorra",
+    "phone": "+376866880"
+  },
+  {
+    "id": 73,
+    "name": "Hotel Roc del Castell",
+    "address": "Av. del Pont de la Tosca, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376806306"
+  },
+  {
+    "id": 74,
+    "name": "Hotel l'Ermita B\u0026B",
+    "address": "Avinguda del Fener, 17, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376877000"
+  },
+  {
+    "id": 75,
+    "name": "Tivoli",
+    "address": "Av. Carlemany, 99, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376825957"
+  },
+  {
+    "id": 76,
+    "name": "Yomo Imperial Hotel",
+    "address": "Plaça Coprínceps, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820563"
+  },
+  {
+    "id": 77,
+    "name": "Hotel Cristina",
+    "address": "Av. Fiter i Rossell, 49, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376803480"
+  },
+  {
+    "id": 78,
+    "name": "Hotel Montecarlo Andorra",
+    "address": "Carrer la Llacuna, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376820741"
+  },
+  {
+    "id": 79,
+    "name": "Hotel Màgic La Massana",
+    "address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376802930"
+  },
+  {
+    "id": 80,
+    "name": "Hotel Arbre De Neu",
+    "address": "Carrer de la Unió, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376870400"
+  },
+  {
+    "id": 81,
+    "name": "Hotel \u0026 Spa Xalet Bringué",
+    "address": "Plaça de la Creu Blanca nº1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820855"
+  },
+  {
+    "id": 82,
+    "name": "Hotel Comtes d'Urgell",
+    "address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
+    "phone": "+376605700"
+  },
+  {
+    "id": 83,
+    "name": "Hotel Marco Polo",
+    "address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
+    "phone": "+376808393"
+  },
+  {
+    "id": 84,
+    "name": "Hotel MIM Andorra",
+    "address": "Av. Dr. Mitjavila, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876900"
+  },
+  {
+    "id": 85,
+    "name": "Hotel Piolets Soldeu Centre",
+    "address": "Carrer Josep Viladomat, 22, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376882000"
+  },
+  {
+    "id": 86,
+    "name": "Aparthotel la Tulipa",
+    "address": "Av. Fiter i Rossell, 51, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 87,
+    "name": "Hotel Coma",
+    "address": "Av. de Santa Coloma, 42, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876201"
+  },
+  {
+    "id": 88,
+    "name": "Logis Hotel Restaurant Coma",
+    "address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
+    "phone": "+376802780"
+  },
+  {
+    "id": 89,
+    "name": "Hotel Spa Diana Parc Andorra",
+    "address": "Carrer Anna Maria Janer, 4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376728328"
+  },
+  {
+    "id": 90,
+    "name": "Wuau! Hotel Segle XX Andorra",
+    "address": "Baixada del Molí, 49, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 91,
+    "name": "Rutllan",
+    "address": "Avd. de les Escoles nº25, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376808363"
+  },
+  {
+    "id": 92,
+    "name": "Hotel Sucara",
+    "address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
+    "phone": "+376845969"
+  },
+  {
+    "id": 93,
+    "name": "Hotel Sant Gothard — Ski en Arinsal",
+    "address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
+    "phone": "+376845969"
+  },
+  {
+    "id": 94,
+    "name": "Hotel la Burna Panoràmic",
+    "address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873601"
+  },
+  {
+    "id": 95,
+    "name": "Evenia Coray",
+    "address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873601"
+  },
+  {
+    "id": 96,
+    "name": "Secret Spot Hostel",
+    "address": "Av. Meritxell, 28, AD500 Andorra la Vella, Andorra",
+    "phone": "+376820636"
+  },
+  {
+    "id": 97,
+    "name": "Sport Hotel",
+    "address": "Av. Meritxell, 23, AD500 Andorra la Vella, Andorra",
+    "phone": "+376886800"
+  },
+  {
+    "id": 98,
+    "name": "Hotel Griu",
+    "address": "l'Aigüeta,, Carrer de l'Aigüeta, 6, AD500 Andorra la Vella, Andorra",
+    "phone": "+376821393"
+  },
+  {
+    "id": 99,
+    "name": "Wuau! Hotel Galanthus \u0026 Spa",
+    "address": "Av. Carlemany, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376870050"
+  },
+  {
+    "id": 100,
+    "name": "Hotel Màgic Ski",
+    "address": "Carrer Dr. Nequi, 12, AD500 Andorra la Vella, Andorra",
+    "phone": "+376824800"
+  },
+  {
+    "id": 101,
+    "name": "Restaurant CAN MANEL",
+    "address": "C/ Mossen Tremosa nº6, AD500 Andorra la Vella, Andorra",
+    "phone": "+376818918"
+  },
+  {
+    "id": 102,
+    "name": "Restaurant el Crostó",
+    "address": "Carrer Verge del Pilar, 4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376862750"
+  },
+  {
+    "id": 103,
+    "name": "MiraKbé! Gastrobar \u0026 Restaurant",
+    "address": "Plaça Princep Benlloch nº 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376822397"
+  },
+  {
+    "id": 104,
+    "name": "Restaurant Eric MARTY",
+    "address": "Carrer Bonaventura Riberaygua, 8, AD500 Andorra la Vella, Andorra",
+    "phone": "+376861001"
+  },
+  {
+    "id": 105,
+    "name": "1940",
+    "address": "Cap del Carrer, 1, AD500 Andorra la Vella, Andorra",
+    "phone": "+376821331"
+  },
+  {
+    "id": 106,
+    "name": "Restaurant Celler d'En Toni",
+    "address": "Carrer de l'Aigüeta, n°4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376830930"
+  },
+  {
+    "id": 107,
+    "name": "Taverna Lapurdi",
+    "address": "20 bis, Av. Príncep Benlloch, 20, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860006"
+  },
+  {
+    "id": 108,
+    "name": "Restaurant Plat'In",
+    "address": "Cap del Carrer, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376862931"
+  },
+  {
+    "id": 109,
+    "name": "Restaurant VERSAILLES",
+    "address": "Plaça Príncep Benlloch, 4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376863323"
+  },
+  {
+    "id": 110,
+    "name": "LA ADELITA",
+    "address": "Carrer Pere d'Urg, 10, AD500 Andorra la Vella, Andorra",
+    "phone": "+376863444"
+  },
+  {
+    "id": 111,
+    "name": "Arrosseria Andorra Restaurant",
+    "address": "Carrer de na Maria Pla, 32, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 112,
+    "name": "Kökosnøt",
+    "address": "Carrer de la Roda, s n, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 113,
+    "name": "Restaurant Cafè l´Isard",
+    "address": "Av. Dr. Mitjavila, 27, AD500 Andorra la Vella, Andorra",
+    "phone": "+376821871"
+  },
+  {
+    "id": 114,
+    "name": "Borda Estevet",
+    "address": "Prat de la Creu s n, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873603"
+  },
+  {
+    "id": 115,
+    "name": "Restaurant EXIMI",
+    "address": "Carrer Verge del Pilar, AD500 Andorra la Vella, Andorra",
+    "phone": "+376821252"
+  },
+  {
+    "id": 116,
+    "name": "Restaurant TATU",
+    "address": "Baixada del Molí, 48, AD500 Andorra la Vella, Andorra",
+    "phone": "+376744144"
+  },
+  {
+    "id": 117,
+    "name": "Yōkai 妖怪 taverna japonesa",
+    "address": "Av. Meritxell, 65, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860400"
+  },
+  {
+    "id": 118,
+    "name": "Pizzeria Primavera",
+    "address": "Carrer la Llacuna, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376861800"
+  },
+  {
+    "id": 119,
+    "name": "Veggie's World",
+    "address": "Carrer Copríncep François Mitterrand, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376868086"
+  },
+  {
+    "id": 120,
+    "name": "Restaurant 120 | Andorra la Vella",
+    "address": "Av. Príncep Benlloch, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376801801"
+  },
+  {
+    "id": 121,
+    "name": "BORDA CAN ANDREU",
+    "address": "Carrer Bonaventura Riberaygua, 4, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 122,
+    "name": "MINIM'S RESTAURANTS",
+    "address": "Av. Meritxell, 32, AD500 Andorra la Vella, Andorra",
+    "phone": "+376885885"
+  },
+  {
+    "id": 123,
+    "name": "ANGELO \u0026 FRIENDS",
+    "address": "Carrer de l'Alzinaret, n°6, AD500 Andorra la Vella, Andorra",
+    "phone": "+376840420"
+  },
+  {
+    "id": 124,
+    "name": "K L'Irina",
+    "address": "Carrer de la Borda, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376862666"
+  },
+  {
+    "id": 125,
+    "name": "L'ESCENARI DE PIZZES",
+    "address": "Av. Meritxell, 107, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 126,
+    "name": "Hard Rock Cafe",
+    "address": "Ciutat Consuegra 10, local, 1, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860520"
+  },
+  {
+    "id": 127,
+    "name": "Kanvium",
+    "address": "Av. Príncep Benlloch, 39, AD500 Andorra la Vella, Andorra",
+    "phone": "+376800038"
+  },
+  {
+    "id": 128,
+    "name": "Restaurant RACÓ D'EN JOSEP",
+    "address": "Carrer Sant Antoni, 3, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376822810"
+  },
+  {
+    "id": 129,
+    "name": "Restaurant Papanico",
+    "address": "Av. Dr. Mitjavila, 20, AD500 Andorra la Vella, Andorra",
+    "phone": "+376866070"
+  },
+  {
+    "id": 130,
+    "name": "Restaurant Argent",
+    "address": "Av. Meritxell, 34, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876800"
+  },
+  {
+    "id": 131,
+    "name": "MuaKaBo",
+    "address": "Av. de Tarragona, 63, AD500 Andorra la Vella, Andorra",
+    "phone": "+376825129"
+  },
+  {
+    "id": 132,
+    "name": "Restaurant ES ANDORRA",
+    "address": "Av. Meritxell, 86, AD500 Andorra la Vella, Andorra",
+    "phone": "+376863994"
+  },
+  {
+    "id": 133,
+    "name": "Dos Caçadors",
+    "address": "Baixada del Molí, 19, AD500 Andorra la Vella, Andorra",
+    "phone": "+376869077"
+  },
+  {
+    "id": 134,
+    "name": "Instants Restaurant",
+    "address": "Carrer Callaueta, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376819000"
+  },
+  {
+    "id": 135,
+    "name": "Plató Restaurant by arthotel****Q",
+    "address": "Carrer Prat de la Creu, 86, AD500 Andorra la Vella, Andorra",
+    "phone": "+376874444"
+  },
+  {
+    "id": 136,
+    "name": "Cantinita de la Adelita Bar Mexicano",
+    "address": "Baixos, Carrer Antic Carrer Major, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376726067"
+  },
+  {
+    "id": 137,
+    "name": "Taverna Angel Belmonte",
+    "address": "Carrer Joan Maragall, 22, AD500 Andorra la Vella, Andorra",
+    "phone": "+376851888"
+  },
+  {
+    "id": 138,
+    "name": "CA LA CONXITA",
+    "address": "Carrer Pere d'Urg, 15, AD500 Andorra la Vella, Andorra",
+    "phone": "+376727402"
+  },
+  {
+    "id": 139,
+    "name": "Restaurant Mandala",
+    "address": "Plaça Guillemó, 8, AD500 Andorra la Vella, Andorra",
+    "phone": "+376854858"
+  },
+  {
+    "id": 140,
+    "name": "La borda pairal",
+    "address": "Carrer Bonaventura Armengol, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376824171"
+  },
+  {
+    "id": 141,
+    "name": "Izai Andorra Restaurante",
+    "address": "Av. de Tarragona, 53, Local 2, AD500 Andorra la Vella, Andorra",
+    "phone": "+376805515"
+  },
+  {
+    "id": 142,
+    "name": "DIAMANT Espai Gastronòmic",
+    "address": "Carrer Bonaventura Riberaygua, 9, AD500 Andorra la Vella, Andorra",
+    "phone": "+376625045"
+  },
+  {
+    "id": 143,
+    "name": "Bar Nou",
+    "address": "Prat de la Creu s n, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873603"
+  },
+  {
+    "id": 144,
+    "name": "K'tam - Restaurant de Tapes",
+    "address": "Carrer Prat de la Creu, 49, AD500 Andorra la Vella, Andorra",
+    "phone": "+376827844"
+  },
+  {
+    "id": 145,
+    "name": "La Tapeta",
+    "address": "Av. de Tarragona, 103, AD500 Andorra la Vella, Andorra",
+    "phone": "+376839630"
+  },
+  {
+    "id": 146,
+    "name": "El tall a taula",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880000"
+  },
+  {
+    "id": 147,
+    "name": "Restaurant Mama Maria",
+    "address": "Baixada del Molí, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376800180"
+  },
+  {
+    "id": 148,
+    "name": "Bar Restaurant Entre Amics",
+    "address": "Carrer Pere d'Urg, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376817963"
+  },
+  {
+    "id": 149,
+    "name": "La Casa Restaurant \u0026 GastroBar",
+    "address": "Carrer Ciutat de Valls, 16, AD500 Andorra la Vella, Andorra",
+    "phone": "+376826328"
+  },
+  {
+    "id": 150,
+    "name": "Kram GastroGrilling OysterBar \u0026 Restaurant",
+    "address": "Carrer Prat de la Creu, 103, AD500 Andorra la Vella, Andorra",
+    "phone": "+376673280"
+  },
+  {
+    "id": 151,
+    "name": "El Raval",
+    "address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376878700"
+  },
+  {
+    "id": 152,
+    "name": "El Refugi Alpí",
+    "address": "Carrer Dr. Vilanova, 13, AD500 Andorra la Vella, Andorra",
+    "phone": "+376845578"
+  },
+  {
+    "id": 153,
+    "name": "BAR RESTAURANT LA NOGREDA",
+    "address": "Cap del Carrer, 9, AD500 Andorra la Vella, Andorra",
+    "phone": "+376844450"
+  },
+  {
+    "id": 154,
+    "name": "Le Comptoir - Atelier culinaire",
+    "address": "Carrer Callaueta, 15, AD500 Andorra la Vella, Andorra",
+    "phone": "+376824555"
+  },
+  {
+    "id": 155,
+    "name": "La bohème",
+    "address": "Carrer Pere d'Urg, 17, AD500 Andorra la Vella, Andorra",
+    "phone": "+376800311"
+  },
+  {
+    "id": 156,
+    "name": "GOHAN Yama | Sushi \u0026 Izakaya Food",
+    "address": "CARRER DE LA BORDA NUMERO 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376732500"
+  },
+  {
+    "id": 157,
+    "name": "Bar Restaurant La Sardana",
+    "address": "Carrer de la Borda, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376666346"
+  },
+  {
+    "id": 158,
+    "name": "Coure Andorra Restaurant",
+    "address": "Plaça de la Sardana, local número 1, AD500 Andorra la Vella, Andorra",
+    "phone": "+376864887"
+  },
+  {
+    "id": 159,
+    "name": "Pizza Via Andorra",
+    "address": "Av. Dr. Mitjavila, 36, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876543"
+  },
+  {
+    "id": 160,
+    "name": "Bronze Age Fondue青铜火锅中餐厅",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880000"
+  },
+  {
+    "id": 161,
+    "name": "Restaurant La Terreta",
+    "address": "Centre Comercial Les Llums - Local C9B, Carrer Prat de la Creu, 29-39, AD500 Andorra la Vella, Andorra",
+    "phone": "92939500"
+  },
+  {
+    "id": 162,
+    "name": "Bar Restaurant Las Vegas",
+    "address": "Cap del Carrer, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376628776"
+  },
+  {
+    "id": 163,
+    "name": "Focacceria cap del carrer",
+    "address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
+    "phone": "+376808100"
+  },
+  {
+    "id": 164,
+    "name": "Nostrum",
+    "address": "la, Carrer Sant Esteve, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376707500"
+  },
+  {
+    "id": 165,
+    "name": "Les Oques Pizzeria i Cuina Tradicional Italiana d'en Giovanni",
+    "address": "Carrer de la Vall, 14, AD500 Andorra la Vella, Andorra",
+    "phone": "+376605510"
+  },
+  {
+    "id": 166,
+    "name": "FRANKFURT DEL TONI",
+    "address": "Ctra. de la Comella i de la Plana, 35, AD500 Andorra la Vella, Andorra",
+    "phone": "+376822181"
+  },
+  {
+    "id": 167,
+    "name": "Andorra Doner Kebab Halal Pakistani Restaurant",
+    "address": "Av. Meritxell, 90, AD500 Andorra la Vella, Andorra",
+    "phone": "+376696666"
+  },
+  {
+    "id": 168,
+    "name": "Pampa Andorra",
+    "address": "Carrer Bonaventura Riberaygua, 13, AD500 Andorra la Vella, Andorra",
+    "phone": "+376866860"
+  },
+  {
+    "id": 169,
+    "name": "Fiesta Manila 2",
+    "address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
+    "phone": "+376727777"
+  },
+  {
+    "id": 170,
+    "name": "Bufet El Grill (Pyrénées)",
+    "address": "Carrer Terra Vella, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376856190"
+  },
+  {
+    "id": 171,
+    "name": "EL GRILL",
+    "address": "Av. Dr. Mitjavila, 10, AD500 Andorra la Vella, Andorra",
+    "phone": "+376863117"
+  },
+  {
+    "id": 172,
+    "name": "Sapori d' Italia",
+    "address": "Av. Dr. Mitjavila, 25, AD500 Andorra la Vella, Andorra",
+    "phone": "+376358676"
+  },
+  {
+    "id": 173,
+    "name": "Restaurant L'Orri",
+    "address": "Av. Meritxell, 27, AD500 Andorra la Vella, Andorra",
+    "phone": "+376869996"
+  },
+  {
+    "id": 174,
+    "name": "Alta Taberna Aires Gourmet",
+    "address": "Carrer Antic Carrer Major, 32, AD500 Andorra la Vella, Andorra",
+    "phone": "+376350072"
+  },
+  {
+    "id": 175,
+    "name": "Quarantuno Pizzeria",
+    "address": "Avinguda Meritxell, 31 - Planta Baixa, AD500 Andorra la Vella, Andorra",
+    "phone": "+376723200"
+  },
+  {
+    "id": 176,
+    "name": "L'Alternativa by \u0026andbeer",
+    "address": "Carrer Dr. Vilanova, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376869999"
+  },
+  {
+    "id": 177,
+    "name": "Tequilando Box",
+    "address": "Carrer de l'Alzinaret, 15, AD500 Andorra la Vella, Andorra",
+    "phone": "+376847601"
+  },
+  {
+    "id": 178,
+    "name": "Vietnam Gourmet",
+    "address": "Carrer la Llacuna, 12, AD500 Andorra la Vella, Andorra",
+    "phone": "+376829948"
+  },
+  {
+    "id": 179,
+    "name": "PISCOLABIS",
+    "address": "Carrer Ciutat de Consuegra, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376822460"
+  },
+  {
+    "id": 180,
+    "name": "Ramen Andorra",
+    "address": "Av. Príncep Benlloch, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376727372"
+  },
+  {
+    "id": 181,
+    "name": "Locavore Restaurant",
+    "address": "Carrer Prat de la Creu, 25, AD500 Andorra la Vella, Andorra",
+    "phone": "+376760303"
+  },
+  {
+    "id": 182,
+    "name": "BAR RESTAURANT ESTELA",
+    "address": "Plaça Rebés, 2, AD500 Andorra la Vella, Andorra",
+    "phone": "+376827467"
+  },
+  {
+    "id": 183,
+    "name": "K - La Mar",
+    "address": "Carrer de na Maria Pla, 19, AD500 Andorra la Vella, Andorra",
+    "phone": "+376879404"
+  },
+  {
+    "id": 184,
+    "name": "LIZARRAN TABERNA ANDORRA",
+    "address": "Casc Antic, Placeta Monjó, 3, AD300 Andorra la Vella, Andorra",
+    "phone": "+376812333"
+  },
+  {
+    "id": 185,
+    "name": "BAR RESTAURANT RIES BAIXES",
+    "address": "Carrer de les Lloses, 1, AD500 Andorra la Vella, Andorra",
+    "phone": "+376827722"
+  },
+  {
+    "id": 186,
+    "name": "GRANJA DIVA",
+    "address": "Carrer Prat de la Creu, 93, AD500 Andorra la Vella, Andorra",
+    "phone": "+376828703"
+  },
+  {
+    "id": 187,
+    "name": "Menjar casolà portuguès M.R.",
+    "address": "Plaça Guillemó, 4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376818028"
+  },
+  {
+    "id": 188,
+    "name": "Hotel Restaurant de l'Isard",
+    "address": "Av. Príncep Benlloch, 4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376867333"
+  },
+  {
+    "id": 189,
+    "name": "Pizzeria Xavier",
+    "address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
+    "phone": "+376877777"
+  },
+  {
+    "id": 190,
+    "name": "Casa Beja",
+    "address": "Carrer Sant Salvador, 10, AD500 Andorra la Vella, Andorra",
+    "phone": "+376811888"
+  },
+  {
+    "id": 191,
+    "name": "FRANKFURT PEDRALBES",
+    "address": "Carrer Bonaventura Armengol, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376864215"
+  },
+  {
+    "id": 192,
+    "name": "McDonald's",
+    "address": "Av. Dr. Mitjavila, 19, AD500 Andorra la Vella, Andorra",
+    "phone": "+376818899"
+  },
+  {
+    "id": 193,
+    "name": "Wakatai Nikkei",
+    "address": "Carrer de na Maria Pla, 13, AD500 Andorra la Vella, Andorra",
+    "phone": "+376805805"
+  },
+  {
+    "id": 194,
+    "name": "La Carbonara",
+    "address": "Carrer Antic Carrer Major, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376867511"
+  },
+  {
+    "id": 195,
+    "name": "Asador Pizzeria",
+    "address": "Carrer Antic Carrer Major, 9, AD500 Andorra la Vella, Andorra",
+    "phone": "+376882588"
+  },
+  {
+    "id": 196,
+    "name": "Sushi and Gong",
+    "address": "la, Av. Meritxell, 120, AD500 Andorra la Vella, Andorra",
+    "phone": "+376865345"
+  },
+  {
+    "id": 197,
+    "name": "Cheese's Art Andorra",
+    "address": "Carrer de na Maria Pla, 32, AD500 Andorra la Vella, Andorra",
+    "phone": "+376833011"
+  },
+  {
+    "id": 198,
+    "name": "Poltrand",
+    "address": "Carrer Callaueta, 8, AD500 Andorra la Vella, Andorra",
+    "phone": "+376800530"
+  },
+  {
+    "id": 199,
+    "name": "EL JARDI",
+    "address": "Carrer Bonaventura Riberaygua, 10, AD500 Andorra la Vella, Andorra",
+    "phone": "+376650040"
+  },
+  {
+    "id": 200,
+    "name": "Ginza 41",
+    "address": "Carrer la Llacuna, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376827829"
+  },
+  {
+    "id": 201,
+    "name": "CCA Centre Comercial Andorrà - Super U",
+    "address": "Carrer de l'Aigüeta, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860199"
+  },
+  {
+    "id": 202,
+    "name": "Centre Comercial Illa Carlemany",
+    "address": "Carrer Prat de la Creu, 53-55, AD500 Andorra la Vella, Andorra",
+    "phone": "+972546655444"
+  },
+  {
+    "id": 203,
+    "name": "cf5590.tecob.com — Coming Soon",
+    "address": "Carrer Prat de la Creu, 8, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 204,
+    "name": "The Shopping Mile",
+    "address": "Carrer Pere d'Urg, 10, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 205,
+    "name": "Aparcament ANDORRA",
+    "address": "Av. Meritxell, 31, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 206,
+    "name": "parquing And",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880000"
+  },
+  {
+    "id": 207,
+    "name": "Las casas",
+    "address": "Av. Meritxell, 96, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 208,
+    "name": "Pyrénées Andorra",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376892000"
+  },
+  {
+    "id": 209,
+    "name": "G-SHOCK CONCEPT STORE- THE EMBASSY",
+    "address": "Av. Meritxell, 92, AD500 Andorra la Vella, Andorra",
+    "phone": "+376870300"
+  },
+  {
+    "id": 210,
+    "name": "River Centre Comercial",
+    "address": "Meritxell Avenue, 11, ANDORRA LA VELLA, AD500 Andorra, France",
+    "phone": ""
+  },
+  {
+    "id": 211,
+    "name": "CENTRE COMERCIAL SANT ELOI",
+    "address": "Av. Meritxell, 40, AD500 Andorra la Vella, Andorra",
+    "phone": "+376826515"
+  },
+  {
+    "id": 212,
+    "name": "E.Leclerc Hiper Andorra",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880197"
+  },
+  {
+    "id": 213,
+    "name": "IQOS en Centre Comercial Andorra",
+    "address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860039"
+  },
+  {
+    "id": 214,
+    "name": "GALERIA IT",
+    "address": "Av. d'Enclar, 20, AD500 Andorra la Vella, Andorra",
+    "phone": "+376868901"
+  },
+  {
+    "id": 215,
+    "name": "OUTLET CENTER APS",
+    "address": "Av. Meritxell, 79, AD500 Andorra la Vella, Andorra",
+    "phone": "+376770070"
+  },
+  {
+    "id": 216,
+    "name": "CityCenter Supermercat",
+    "address": "Avenida Bajo Avda. Meritxell - Edif. Cor 83, AD500 Andorra la Vella, Andorra",
+    "phone": "+376813668"
+  },
+  {
+    "id": 217,
+    "name": "Diva Eròtic Centre",
+    "address": "Av. Meritxell, 118, AD500 Andorra la Vella, Andorra",
+    "phone": "+376877700"
+  },
+  {
+    "id": 218,
+    "name": "Carrefour Andorra 2000",
+    "address": "Carrer Bonaventura Riberaygua, 35, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880400"
+  },
+  {
+    "id": 219,
+    "name": "Shop-in-Shop Rituals",
+    "address": "Carrer de na Maria Pla, 18, AD500 Andorra la Vella, Andorra",
+    "phone": "+376737910"
+  },
+  {
+    "id": 220,
+    "name": "IQOS en Centre Comercial Andorra",
+    "address": "Centre Històric, C/Dr. Nequi, Plaça les Arcades, N° 2, AD500 Andorra la Vella, Andorra",
+    "phone": "+376865353"
+  },
+  {
+    "id": 221,
+    "name": "OUTLET CENTER APS",
+    "address": "Av. Meritxell, 110, AD500 Andorra la Vella, Andorra",
+    "phone": "+376800805"
+  },
+  {
+    "id": 222,
+    "name": "Naturhouse",
+    "address": "Av. Meritxell, 10, AD500 Andorra la Vella, Andorra",
+    "phone": "+376879334"
+  },
+  {
+    "id": 223,
+    "name": "CityCenter Supermercat",
+    "address": "Carrer de l'Aigüeta, 10, AD500 Andorra la Vella, Andorra",
+    "phone": "+376863140"
+  },
+  {
+    "id": 224,
+    "name": "Diva Eròtic Centre",
+    "address": "Av. Meritxell, 89, AD500 Andorra la Vella, Andorra",
+    "phone": "+376868676"
+  },
+  {
+    "id": 225,
+    "name": "Carrefour Andorra 2000",
+    "address": "Av. Meritxell, 74, AD500 Andorra la Vella, Andorra",
+    "phone": "+376743210"
+  },
+  {
+    "id": 226,
+    "name": "Lechanbrugo",
+    "address": "Carrer Pau Casals, 6, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860114"
+  },
+  {
+    "id": 227,
+    "name": "Shop-in-Shop Rituals",
+    "address": "Av. Meritxell, 86, AD500 Andorra la Vella, Andorra",
+    "phone": "+376874900"
+  },
+  {
+    "id": 228,
+    "name": "SOLS CONFORT",
+    "address": "Carrer Prat de la Creu, 28, AD500 Andorra la Vella, Andorra",
+    "phone": "+376351839"
+  },
+  {
+    "id": 229,
+    "name": "Centre Kannàbic",
+    "address": "Carrer Bonavista, 16, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 230,
+    "name": "Relojería en Andorra",
+    "address": "Carrer Bonaventura Riberaygua, 38, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 231,
+    "name": "B Travel and Experience",
+    "address": "Av. Príncep Benlloch, 15, AD500 Andorra la Vella, Andorra",
+    "phone": "+376813343"
+  },
+  {
+    "id": 232,
+    "name": "Centre andorrà de decoració CAD 2",
+    "address": "Carrer de les Costes, 12, AD500 Andorra la Vella, Andorra",
+    "phone": "+376722964"
+  },
+  {
+    "id": 233,
+    "name": "Mango Outlet",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880000"
+  },
+  {
+    "id": 234,
+    "name": "Olympia Esports",
+    "address": "Av. Dr. Mitjavila, 31, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 235,
+    "name": "Quars Centre",
+    "address": "Avinguda de Tarragona, 47, local, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376722133"
+  },
+  {
+    "id": 236,
+    "name": "ZARA",
+    "address": "Av. de Tarragona, 26, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880400"
+  },
+  {
+    "id": 237,
+    "name": "Seventeen Pollyanna I",
+    "address": "Carrer Prat de la Creu, 87, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 238,
+    "name": "JEANS CULTE - VIA MODA",
+    "address": "Carrer Verge del Pilar, 12-14, AD500 Andorra la Vella, Andorra",
+    "phone": "+376866865"
+  },
+  {
+    "id": 239,
+    "name": "Loteries \"El Mag\"",
+    "address": "Av. Meritxell, 47, Local, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376812581"
+  },
+  {
+    "id": 240,
+    "name": "Ametller Origen",
+    "address": "Av. Meritxell, 92, AD500 Andorra la Vella, Andorra",
+    "phone": "+376609542"
+  },
+  {
+    "id": 241,
+    "name": "Andorra 2000",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880000"
+  },
+  {
+    "id": 242,
+    "name": "Viladomat",
+    "address": "Av. de Tarragona, 26, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880400"
+  },
+  {
+    "id": 243,
+    "name": "Sauleda Centre Onix",
+    "address": "Avinguda de Tarragona, 47, local, 5, AD500 Andorra la Vella, Andorra",
+    "phone": "+376722133"
+  },
+  {
+    "id": 244,
+    "name": "Centre de Carrosseria Pyrénées",
+    "address": "Carrer Verge del Pilar, 12-14, AD500 Andorra la Vella, Andorra",
+    "phone": "+376866865"
+  },
+  {
+    "id": 245,
+    "name": "Douglas Perfumería",
+    "address": "Av. Meritxell, 47, Local, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+376812581"
+  },
+  {
+    "id": 246,
+    "name": "ROCA \u0026 RIBES",
+    "address": "Carrer Major, 22, AD200 Pas de la Casa, Andorra",
+    "phone": "+376739850"
+  },
+  {
+    "id": 247,
+    "name": "Sonimag Andorra",
+    "address": "Av. Meritxell, 92, AD500 Andorra la Vella, Andorra",
+    "phone": "+376609542"
+  },
+  {
+    "id": 248,
+    "name": "Cabina d'Estètica",
+    "address": "Crta. General d'Espanya s/n, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376743140"
+  },
+  {
+    "id": 249,
+    "name": "THE CIGAR SHOP Andorra la Vella",
+    "address": "Av. Meritxell, 93, AD500 Andorra la Vella, Andorra",
+    "phone": "+376822377"
+  },
+  {
+    "id": 250,
+    "name": "maje",
+    "address": "Carretera General, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376765000"
+  },
+  {
+    "id": 251,
+    "name": "Madriu-Perafita-Claror Valley",
+    "address": "c/Prat de la creu 74-76 baixos, AD500 Andorra la Vella, Andorra",
+    "phone": "+376823000"
+  },
+  {
+    "id": 252,
+    "name": "Sant Vicenç d'Enclar",
+    "address": "Plaça de la Rotonda, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 253,
+    "name": "Museu de Roques al carrer",
+    "address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
+    "phone": "+376827117"
+  },
+  {
+    "id": 254,
+    "name": "Tamarro Andy",
+    "address": "Carrer de la Vall, 6, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 255,
+    "name": "St. Esteve of Andorra Church",
+    "address": "Ctra. de Montaup, AD300 Ordino, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 256,
+    "name": "Església de Sant Climent de Pal",
+    "address": "Urb. Comella Parc, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 257,
+    "name": "Mirador Roc Del Quer",
+    "address": "Parc Central, AD500, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 258,
+    "name": "Casa d'Areny-Plandolit",
+    "address": "C/ Bonaventura Armengol, 15 5º Ed. Occesa, AD500 Andorra la Vella, Andorra",
+    "phone": "+376872250"
+  },
+  {
+    "id": 259,
+    "name": "Farga Rossell",
+    "address": "Av. de Tarragona, 26, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880400"
+  },
+  {
+    "id": 260,
+    "name": "Església de Sant Martí de la Cortinada",
+    "address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
+    "phone": "+376845969"
+  },
+  {
+    "id": 261,
+    "name": "Pont de Sant Antoni de la Grella",
+    "address": "Av. Meritxell, 9, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 262,
+    "name": "Església de Sant Antoni de la Grella",
+    "address": "Ctra. de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 263,
+    "name": "Església de Sant Antoni de la Grella",
+    "address": "Carretera de Arinsal, 5, AD400 Arinsal, Andorra",
+    "phone": "+376837111"
+  },
+  {
+    "id": 264,
+    "name": "National Automobile Museum",
+    "address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
+    "phone": "+376750100"
+  },
+  {
+    "id": 265,
+    "name": "Santuari de la Mare de Déu de Canòlich",
+    "address": "Plaça de Les Fontetes, AD400 La Massana, Andorra",
+    "phone": "+376838919"
+  },
+  {
+    "id": 266,
+    "name": "Andorra la Vella",
+    "address": "Ctra. de la Caubella, 1, AD400 La Massana, Andorra",
+    "phone": "+376878001"
+  },
+  {
+    "id": 267,
+    "name": "Església de Sant Cristòfol d'Anyós",
+    "address": "Sant Miquel D'engolasters, Engolasters, Andorra",
+    "phone": "+376890881"
+  },
+  {
+    "id": 268,
+    "name": "Camí del toll bullidor",
+    "address": "Av. de Joan Martí, 64, AD200 Encamp, Andorra",
+    "phone": "+376832266"
+  },
+  {
+    "id": 269,
+    "name": "Centre d'Interpretació del Comapedrosa - CIC",
+    "address": "Carrer dels Cavallers, 2, AD200 Encamp, Andorra",
+    "phone": "+376833551"
+  },
+  {
+    "id": 270,
+    "name": "Tourist Office",
+    "address": "Av. Esteve Albert, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376692659"
+  },
+  {
+    "id": 271,
+    "name": "Barri Antic Hostel \u0026 Pub",
+    "address": "Carretera de la Rabassa Km. 8 Juberri, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376741444"
+  },
+  {
+    "id": 272,
+    "name": "ANDORRATOURS",
+    "address": "Av. Sant Joan de Caselles, S/n, 08784, Andorra",
+    "phone": "+376753600"
+  },
+  {
+    "id": 273,
+    "name": "Aston Hotel",
+    "address": "Av. Fiter i Rossell, 49, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376803480"
+  },
+  {
+    "id": 274,
+    "name": "Les 7 Claus Hotel",
+    "address": "Carrer Josep Viladomat, 22, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376882000"
+  },
+  {
+    "id": 275,
+    "name": "Hotel Golden Tulip Inn Andorra Fènix",
+    "address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
+    "phone": "+376808393"
+  },
+  {
+    "id": 276,
+    "name": "Hotel Espel",
+    "address": "Av. Carlemany, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376870050"
+  },
+  {
+    "id": 277,
+    "name": "Hotel Spa Termes Carlemany",
+    "address": "Plaça de la Creu Blanca nº1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820855"
+  },
+  {
+    "id": 278,
+    "name": "Hotel Metropolis",
+    "address": "Avd. de les Escoles nº25, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376808363"
+  },
+  {
+    "id": 279,
+    "name": "Hotel \u0026 Aparthotel Cosmos Andorra",
+    "address": "Av. de les Escoles, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376870750"
+  },
+  {
+    "id": 280,
+    "name": "Hotel Exe Prisma",
+    "address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
+    "phone": "+376808393"
+  },
+  {
+    "id": 281,
+    "name": "Yomo Mola Park",
+    "address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376802930"
+  },
+  {
+    "id": 282,
+    "name": "Hotel Les Closes",
+    "address": "Carrer del Prat Gran, 3-5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376760760"
+  },
+  {
+    "id": 283,
+    "name": "Tulip Inn Andorra Hotel Delfos",
+    "address": "Camí Cap del Carrer, 4, AD400 La Massana, Andorra",
+    "phone": "+376813138"
+  },
+  {
+    "id": 284,
+    "name": "Grand Plaza Hotel \u0026 Wellness",
+    "address": "Carrer dels Cavallers, 38, AD200 Encamp, Andorra",
+    "phone": "+376831513"
+  },
+  {
+    "id": 285,
+    "name": "Hotel Starc by Pierre \u0026 Vacances Premium",
+    "address": "Carrer de Lòria, 6, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376735200"
+  },
+  {
+    "id": 286,
+    "name": "Yomo Eureka hotel",
+    "address": "Avenida Sant Joan de Caselles, 63, AD100 Canillo, Andorra",
+    "phone": "+376851825"
+  },
+  {
+    "id": 287,
+    "name": "Hotel Marfany",
+    "address": "Av. del Pont de la Tosca, 25, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376872300"
+  },
+  {
+    "id": 288,
+    "name": "Exe Princep",
+    "address": "Av. de Sant Antoni, 36, AD400 La Massana, Andorra",
+    "phone": "+376738363"
+  },
+  {
+    "id": 289,
+    "name": "Siracusa",
+    "address": "Ctra de La Rabassa Km. 6, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376742030"
+  },
+  {
+    "id": 290,
+    "name": "Insitu Eurotel Andorra",
+    "address": "Av. Rocafort, 26, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376843478"
+  },
+  {
+    "id": 291,
+    "name": "Aparthotel Conseller",
+    "address": "Av. de François Mitterrand, 102, AD200 Encamp, Andorra",
+    "phone": "+376834671"
+  },
+  {
+    "id": 292,
+    "name": "Les 7 Claus Hotel",
+    "address": "Estación de esquí de Grandvalira, sector Grau Roig, AD200 Grau Roig, Andorra",
+    "phone": "+376755556"
+  },
+  {
+    "id": 293,
+    "name": "Hotel Yomo Cèntric",
+    "address": "Passatge Antònia Font Caminal, 1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376875500"
+  },
+  {
+    "id": 294,
+    "name": "Siracusa",
+    "address": "Av. de François Mitterrand, 68, AD200 Encamp, Andorra",
+    "phone": "+376727879"
+  },
+  {
+    "id": 295,
+    "name": "Novotel Andorra",
+    "address": "Ctra. de Fontaneda, S/N, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376841043"
+  },
+  {
+    "id": 296,
+    "name": "Hotel les Fonts",
+    "address": "Crta Gral. de França, km 17'500, AD100 Incles-Canillo, Andorra",
+    "phone": "17500100"
+  },
+  {
+    "id": 297,
+    "name": "Aparthotel el Serch",
+    "address": "Ctra. de Canòlich, AD600 Sant Julià de Lòria, Andorra, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376842382"
+  },
+  {
+    "id": 298,
+    "name": "Andorra Park Hotel",
+    "address": "Carretera General 2 nº26, AD100 Soldeu, Andorra",
+    "phone": "+376751150"
+  },
+  {
+    "id": 299,
+    "name": "Glaner Hotel Café",
+    "address": "Av. del Jovell, 20, AD400 Sispony, Andorra",
+    "phone": "+376835355"
+  },
+  {
+    "id": 300,
+    "name": "Hôtel Mercure Andorra",
+    "address": "Av. Príncep Benlloch, 24, AD500 Andorra la Vella, Andorra",
+    "phone": "+376866880"
+  },
+  {
+    "id": 301,
+    "name": "Hotel NH Andorra La Vella",
+    "address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
+    "phone": "+376753753"
+  },
+  {
+    "id": 302,
+    "name": "Acta Arthotel",
+    "address": "Avinguda les Subiranes s/n, AD300 El Serrat, Andorra",
+    "phone": "+376749100"
+  },
+  {
+    "id": 303,
+    "name": "Hotel Màgic Andorra",
+    "address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
+    "phone": "+376736500"
+  },
+  {
+    "id": 304,
+    "name": "Hotel Restaurant de l'Isard",
+    "address": "Av. de Joan Martí, 104, AD200 Encamp, Andorra",
+    "phone": "+376731116"
+  },
+  {
+    "id": 305,
+    "name": "Hotel Andorra Palace",
+    "address": "Carretera General 2, n.19, AD100 Soldeu, Andorra",
+    "phone": "+376871787"
+  },
+  {
+    "id": 306,
+    "name": "Hotel Zenit Diplomatic | Andorra la Vella",
+    "address": "Av. del Pessebre, 86, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820213"
+  },
+  {
+    "id": 307,
+    "name": "Hotel Comtes d'Urgell",
+    "address": "Carrer del Pas de la Casa, 6, AD200 Encamp, Andorra",
+    "phone": "+376831516"
+  },
+  {
+    "id": 308,
+    "name": "Suites Plaza Hotel \u0026 Wellness Andorra",
+    "address": "Meritxell, Carretera General, 35, AD100, Andorra",
+    "phone": "+376751050"
+  },
+  {
+    "id": 309,
+    "name": "Eurostars Andorra",
+    "address": "Carrer dels Arínsols, 10, AD200 Encamp, Andorra",
+    "phone": "+376733900"
+  },
+  {
+    "id": 310,
+    "name": "Hotel Panorama",
+    "address": "Av. el Través, 5, AD400 La Massana, Andorra",
+    "phone": "+376738300"
+  },
+  {
+    "id": 311,
+    "name": "Hotel Roc de Caldes",
+    "address": "Av. Sant Joan de Caselles, AD100 Canillo, Andorra",
+    "phone": "+376739444"
+  },
+  {
+    "id": 312,
+    "name": "Hotel Roc Blanc",
+    "address": "Ctra. de Comallempla, AD400 Arinsal, Andorra",
+    "phone": "+376737575"
+  },
+  {
+    "id": 313,
+    "name": "Hotel MIM Andorra",
+    "address": "Ctra general s/n Arans, AD300 La Cortinada, Andorra",
+    "phone": "+376850988"
+  },
+  {
+    "id": 314,
+    "name": "Hotel Camp del Serrat",
+    "address": "Carrer del Prat Gran, 3-5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376760760"
+  },
+  {
+    "id": 315,
+    "name": "Hotel City M28",
+    "address": "Ctra. d'Espanya, s/n, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376743100"
+  },
+  {
+    "id": 316,
+    "name": "Hotel Best Andorra Center",
+    "address": "Ctra. de Sispony i dels Plans, AD400 La Massana, Andorra",
+    "phone": "+376737300"
+  },
+  {
+    "id": 317,
+    "name": "Barri Antic Hostel \u0026 Pub",
+    "address": "Carretera dels Cortals Encamp Km 3, AD200 Encamp, Andorra",
+    "phone": "+376804100"
+  },
+  {
+    "id": 318,
+    "name": "Hotel Pitiusa",
+    "address": "Avinguda del Fener, 17, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376804200"
+  },
+  {
+    "id": 319,
+    "name": "Hotel Sant Jordi",
+    "address": "Calle, Carrer Santa Anna, 11, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376821572"
+  },
+  {
+    "id": 320,
+    "name": "Hotel Pyrénées",
+    "address": "Av. Fiter i Rossell, 51, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376826826"
+  },
+  {
+    "id": 321,
+    "name": "HMC Caena",
+    "address": "Plaça del Poble, 6, L´Aldosa, AD400 La Massana, Andorra",
+    "phone": "+376727246"
+  },
+  {
+    "id": 322,
+    "name": "Hotel Encamp — Esquía en Andorra con Forfait",
+    "address": "CRTA. GENERAL D'ARINSAL S/N, AD400 Arinsal, Andorra",
+    "phone": "+376736400"
+  },
+  {
+    "id": 323,
+    "name": "The Blackpine Hotel",
+    "address": "Urb. la Ribagrossa, 13, AD100, Andorra",
+    "phone": "+376830714"
+  },
+  {
+    "id": 324,
+    "name": "Hotansa",
+    "address": "Avenue Filter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820876"
+  },
+  {
+    "id": 325,
+    "name": "Sport Hotel Hermitage \u0026 Spa",
+    "address": "Carrer Anna Maria Janer, 4, AD500 Andorra la Vella, Andorra",
+    "phone": "+376728328"
+  },
+  {
+    "id": 326,
+    "name": "Aparthotel Iceberg, SLU",
+    "address": "Av. del Ravell, 2, AD400 La Massana, Andorra",
+    "phone": "+376838444"
+  },
+  {
+    "id": 327,
+    "name": "Abba Xalet Suites Hotel",
+    "address": "Carrer Sant Salvador, 3, AD500 Andorra la Vella, Andorra",
+    "phone": "+34971425588"
+  },
+  {
+    "id": 328,
+    "name": "Hotel Festa Brava",
+    "address": "Crta. d'Arinsal s/n, AD400 Erts, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 329,
+    "name": "HOSTAL RESIDÈNCIA CONTINENTAL",
+    "address": "Ctra. d'Anyós, 59, AD400 La Massana, Andorra",
+    "phone": "+376737173"
+  },
+  {
+    "id": 330,
+    "name": "Tivoli",
+    "address": "Av. de Santa Coloma, 42, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876201"
+  },
+  {
+    "id": 331,
+    "name": "President",
+    "address": "Av. del Pessebre, 1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820515"
+  },
+  {
+    "id": 332,
+    "name": "AnyósPark The Mountain \u0026 Wellness Resort",
+    "address": "Av. Fiter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376880450"
+  },
+  {
+    "id": 333,
+    "name": "Hotel NH Collection Andorra Palomé",
+    "address": "Carrer la Llacuna, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "+376820741"
+  },
+  {
+    "id": 334,
+    "name": "Font Andorra Hostel",
+    "address": "Terra Major de Sispony, Carrer Major, AD400, Andorra",
+    "phone": "+376737300"
+  },
+  {
+    "id": 335,
+    "name": "Hostal Cisco De Sans",
+    "address": "Passatge Antònia Font Caminal, 1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376875500"
+  },
+  {
+    "id": 336,
+    "name": "Madriu Hotel",
+    "address": "Crta General II - Tram Soldeu 56, AD100 Soldeu, Andorra",
+    "phone": "+376870670"
+  },
+  {
+    "id": 337,
+    "name": "HOTEL ROC MELER",
+    "address": "Plaça Coprínceps, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+34692403651"
+  },
+  {
+    "id": 338,
+    "name": "Hotel Spa Princesa Parc Andorra",
+    "address": "Baixada del Molí, 49, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 339,
+    "name": "HOTEL RESIDÈNCIA ALDOSA",
+    "address": "Av. de Joan Martí, 95, AD200 Encamp, Andorra",
+    "phone": "+376733999"
+  },
+  {
+    "id": 340,
+    "name": "Somriu Eurotel",
+    "address": "Av. Príncep Benlloch, 45, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876200"
+  },
+  {
+    "id": 341,
+    "name": "Residencia Nuria",
+    "address": "Av. Príncep Benlloch, 20, AD500 Andorra la Vella, Andorra",
+    "phone": "+376879879"
+  },
+  {
+    "id": 342,
+    "name": "Les Pardines 1819",
+    "address": "Carrer de la Vall, 18, AD500 Andorra la Vella, Andorra",
+    "phone": "+376845969"
+  },
+  {
+    "id": 343,
+    "name": "Abba Sispony",
+    "address": "Carrer Dr. Nequi, 12, AD500 Andorra la Vella, Andorra",
+    "phone": "+376824800"
+  },
+  {
+    "id": 344,
+    "name": "The Lobby Bar by Daguisa Hotels",
+    "address": "Av. Meritxell, 28, AD500 Andorra la Vella, Andorra",
+    "phone": "+376820636"
+  },
+  {
+    "id": 345,
+    "name": "HOTEL SANT ELOI",
+    "address": "Av. Carlemany, 107, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376739900"
+  },
+  {
+    "id": 346,
+    "name": "Hotel Antic",
+    "address": "Carretera d'Engolasters, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376809590"
+  },
+  {
+    "id": 347,
+    "name": "Ushuaia Mountain Hotel",
+    "address": "Plaça Coprínceps, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376871400"
+  },
+  {
+    "id": 348,
+    "name": "Del Pui",
+    "address": "Ctra. de l'Obac, 64, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376873400"
+  },
+  {
+    "id": 349,
+    "name": "Hotel Guillem",
+    "address": "Av. Meritxell, 23, AD500 Andorra la Vella, Andorra",
+    "phone": "+376886800"
+  },
+  {
+    "id": 350,
+    "name": "Hotel Pere d'Urg",
+    "address": "Carrer Prat de la Creu, 88, AD500 Andorra la Vella, Andorra",
+    "phone": "+376874444"
+  },
+  {
+    "id": 351,
+    "name": "Pensió els Escalls",
+    "address": "Av. de les Escoles, 29, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376876000"
+  },
+  {
+    "id": 352,
+    "name": "Hotel l'Ermita B\u0026B",
+    "address": "Av. de Tarragona, s/n, AD500 Andorra la Vella, Andorra",
+    "phone": "+376802780"
+  },
+  {
+    "id": 353,
+    "name": "Hotel Montecarlo Andorra",
+    "address": "Av. Dr. Mitjavila, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876900"
+  },
+  {
+    "id": 354,
+    "name": "Park Piolets Mountain Hotel \u0026 Spa",
+    "address": "Av. Meritxell, 58, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873601"
+  },
+  {
+    "id": 355,
+    "name": "Hotel Spa Diana Parc Andorra",
+    "address": "Av. Meritxell, 34, AD500 Andorra la Vella, Andorra",
+    "phone": "+376876800"
+  },
+  {
+    "id": 356,
+    "name": "Font d'Argent Canillo",
+    "address": "Carrer Prat de la Creu, 15-25, AD500 Andorra la Vella, Andorra",
+    "phone": "+376760303"
+  },
+  {
+    "id": 357,
+    "name": "Cal Forner",
+    "address": "Av. Dr. Mitjavila, 1, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880880"
+  },
+  {
+    "id": 358,
+    "name": "Hotel la Burna Panoràmic",
+    "address": "Av. Meritxell, 97, AD500 Andorra la Vella, Andorra",
+    "phone": "+376605700"
+  },
+  {
+    "id": 359,
+    "name": "Hotel Parador de Canòlich",
+    "address": "Carrer de la Roda, S N, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873602"
+  },
+  {
+    "id": 360,
+    "name": "Serras Andorra Luxury Boutique Resort \u0026 Spa",
+    "address": "Carrer les Canals, 24, AD500 Andorra la Vella, Andorra",
+    "phone": "+376877777"
+  },
+  {
+    "id": 361,
+    "name": "Hotel \u0026 Spa Xalet Bringué",
+    "address": "Av. Fiter i Rossell, 25, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376890990"
+  },
+  {
+    "id": 362,
+    "name": "Wuau! Hotel Galanthus \u0026 Spa",
+    "address": "l'Aigüeta,, Carrer de l'Aigüeta, 6, AD500 Andorra la Vella, Andorra",
+    "phone": "+376821393"
+  },
+  {
+    "id": 363,
+    "name": "Hotel Sol Park",
+    "address": "Av. Carlemany, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376821125"
+  },
+  {
+    "id": 364,
+    "name": "Hotel Font",
+    "address": "Carrer Prat de la Creu, 14, AD500 Andorra la Vella, Andorra",
+    "phone": "+376873603"
+  },
+  {
+    "id": 365,
+    "name": "Hotel Griu",
+    "address": "Av. Fiter i Rossell, 49, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376803480"
+  },
+  {
+    "id": 366,
+    "name": "Grau Roig Andorra Boutique Hotel \u0026 Spa",
+    "address": "Av. Meritxell 87-89 (pedestrian street Direct access to garage by, Carrer Pau Casals, 7, AD500 Andorra la Vella, Andorra",
+    "phone": "87897500"
+  },
+  {
+    "id": 367,
+    "name": "Hotel Marco Polo",
+    "address": "Av. del Pont de la Tosca, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376806306"
+  },
+  {
+    "id": 368,
+    "name": "Hotel Roc del Castell",
+    "address": "Av. Fiter i Rossell, 51, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 369,
+    "name": "Hotel Arbre De Neu",
+    "address": "Av. Carlemany, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376821125"
+  },
+  {
+    "id": 370,
+    "name": "Hotel Coma Bella",
+    "address": "Av. Carlemany, 99, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376825957"
+  },
+  {
+    "id": 371,
+    "name": "Hotel Folch",
+    "address": "Carrer de la Unió, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376870400"
+  },
+  {
+    "id": 372,
+    "name": "L'Enoteca Andorra",
+    "address": "Restaurant Odetti Bistro, Carrer Santa Anna, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376807575"
+  },
+  {
+    "id": 373,
+    "name": "RESTAURANT MUSSOL",
+    "address": "Carrer de la Unió, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376855400"
+  },
+  {
+    "id": 374,
+    "name": "Cheese's Art Andorra",
+    "address": "Carrer Sant Antoni, 3, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376822810"
+  },
+  {
+    "id": 375,
+    "name": "Mood sensorial restaurant",
+    "address": "C. del Parnal, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376813545"
+  },
+  {
+    "id": 376,
+    "name": "Restaurant Odetti Bistro Escaldes",
+    "address": "Carrer Copríncep François Mitterrand, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376868086"
+  },
+  {
+    "id": 377,
+    "name": "Les Oques Pizzeria i Cuina Tradicional Italiana d'en Giovanni",
+    "address": "Av. de les Escoles, 16, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376816675"
+  },
+  {
+    "id": 378,
+    "name": "Pizzeria Angelo | Andorra la Vella",
+    "address": "Carrer de la Unió, 9, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376805810"
+  },
+  {
+    "id": 379,
+    "name": "Restaurant La Tagliatella | Andorra",
+    "address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376878700"
+  },
+  {
+    "id": 380,
+    "name": "UDON Andorra",
+    "address": "Carrer Isabelle Sandy, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376770077"
+  },
+  {
+    "id": 381,
+    "name": "Pizzeria Xavier",
+    "address": "Av. Carlemany, 91, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376866177"
+  },
+  {
+    "id": 382,
+    "name": "EL CACHIRULO",
+    "address": "Carrer d'Engordany, 17, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376744050"
+  },
+  {
+    "id": 383,
+    "name": "Restaurant El Passadís",
+    "address": "Ctra. de l'Obac, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376873400"
+  },
+  {
+    "id": 384,
+    "name": "Marisqueria Don Denis",
+    "address": "Av. Fiter i Rossell, 15, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376869454"
+  },
+  {
+    "id": 385,
+    "name": "Restaurant les Closes",
+    "address": "Plaça Coprínceps, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820563"
+  },
+  {
+    "id": 386,
+    "name": "QUEDADA Gastro Vins",
+    "address": "Carrer de la Vall, 1, AD500 Andorra la Vella, Andorra",
+    "phone": "+376826000"
+  },
+  {
+    "id": 387,
+    "name": "Don Félix Lounge",
+    "address": "C. del Parnal, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376863043"
+  },
+  {
+    "id": 388,
+    "name": "L'informal",
+    "address": "Carrer del Picó, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820920"
+  },
+  {
+    "id": 389,
+    "name": "RESTAURANT EL GRECO",
+    "address": "Carrer Bonaventura Riberaygua, 9, AD500 Andorra la Vella, Andorra",
+    "phone": "+376625045"
+  },
+  {
+    "id": 390,
+    "name": "Excalibur",
+    "address": "Av. Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 391,
+    "name": "FOURTEEN RESTAURANT",
+    "address": "Av. Fiter i Rossell, 38, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376727726"
+  },
+  {
+    "id": 392,
+    "name": "Restaurant La Pinosa",
+    "address": "Av. de les Escoles, 16, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376722100"
+  },
+  {
+    "id": 393,
+    "name": "L'informal",
+    "address": "la, Av. Meritxell, 120, AD500 Andorra la Vella, Andorra",
+    "phone": "+376865345"
+  },
+  {
+    "id": 394,
+    "name": "Big Ben",
+    "address": "Av. Copríncep de Gaulle, 11, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820013"
+  },
+  {
+    "id": 395,
+    "name": "Fideus",
+    "address": "Camí de la Muntanya, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+33652062202"
+  },
+  {
+    "id": 396,
+    "name": "Peixateria La Llotja",
+    "address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
+    "phone": "+376808393"
+  },
+  {
+    "id": 397,
+    "name": "Restaurant L'Entrecôte",
+    "address": "Av. del Pessebre, 11, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376824140"
+  },
+  {
+    "id": 398,
+    "name": "Restaurant Els Jardins",
+    "address": "Carrer Pare Enric Graner, 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376861888"
+  },
+  {
+    "id": 399,
+    "name": "BAR RESTAURANT LA TERTÚLIA",
+    "address": "Av. Carlemany, 36, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376880666"
+  },
+  {
+    "id": 400,
+    "name": "LaLoLa Restaurant Casual i Cafeteria",
+    "address": "Centro Comercial ILLA CARLEMANY, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376875500"
+  },
+  {
+    "id": 401,
+    "name": "Restaurant Tic-Tapa",
+    "address": "Carrer Bonaventura Riberaygua, 8, AD500 Andorra la Vella, Andorra",
+    "phone": "+376861001"
+  },
+  {
+    "id": 402,
+    "name": "Noranta Tres",
+    "address": "Av. del Fener, 24, Edf. Prat de les Oques AD700, AD700 Escaldes-Engordany, Andorra",
+    "phone": "24700700"
+  },
+  {
+    "id": 403,
+    "name": "Restaurant Beluga",
+    "address": "Carrer del Fener, 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376861810"
+  },
+  {
+    "id": 404,
+    "name": "Viena",
+    "address": "Plaça Coprínceps, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376871400"
+  },
+  {
+    "id": 405,
+    "name": "RESTAURANT LES BARQUES",
+    "address": "Andorra, Av. del Pessebre, 42, Escaldes-Engordany, Andorra",
+    "phone": "+376722868"
+  },
+  {
+    "id": 406,
+    "name": "Beç",
+    "address": "Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800999"
+  },
+  {
+    "id": 407,
+    "name": "BAR RESTAURANT SANTA ANNA",
+    "address": "Engordany, Av. Fiter i Rossell, 2, AD700 AD700 Escaldes, Andorra",
+    "phone": "+376866528"
+  },
+  {
+    "id": 408,
+    "name": "La Tapad´era",
+    "address": "Av. Carlemany, 69, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376744141"
+  },
+  {
+    "id": 409,
+    "name": "TAVERNA PICCOLA ITALIA",
+    "address": "Carrer del Prat Gran, 3-5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376760760"
+  },
+  {
+    "id": 410,
+    "name": "Foster's Hollywood",
+    "address": "Av. Fiter i Rossell, 74, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376620050"
+  },
+  {
+    "id": 411,
+    "name": "Restaurant Cielito Lindo Andorra",
+    "address": "Plaça Coprínceps, 3, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820722"
+  },
+  {
+    "id": 412,
+    "name": "Restaurant La Cuina d'en Marvic",
+    "address": "Avinguda Carlemany, 49 Escaldes-Engordany, AD700 Andorra",
+    "phone": "+376725720"
+  },
+  {
+    "id": 413,
+    "name": "Snack-Bar Racó de L'Ibèric",
+    "address": "Av. Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 414,
+    "name": "Casa del Formatge",
+    "address": "Carrer de la Parròquia, 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 415,
+    "name": "Restaurant Metropolus",
+    "address": "Av. del Pessebre, 39, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376831483"
+  },
+  {
+    "id": 416,
+    "name": "frankfurt munich",
+    "address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+34637225151"
+  },
+  {
+    "id": 417,
+    "name": "Pizza Roma (Illa Carlemany)",
+    "address": "Av. Carlemany, 57, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376825665"
+  },
+  {
+    "id": 418,
+    "name": "Restaurante Hong Kong",
+    "address": "Passatge Antònia Font Caminal, 1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376726661"
+  },
+  {
+    "id": 419,
+    "name": "Dehesa Santa Maria | Andorra",
+    "address": "Av. Copríncep de Gaulle, 7, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376816555"
+  },
+  {
+    "id": 420,
+    "name": "RESTAURANT DELÍCIES TURQUES",
+    "address": "Carrer de l'Obac, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376824614"
+  },
+  {
+    "id": 421,
+    "name": "Pizzeria I Due Amici",
+    "address": "Av. Carlemany, 82, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 422,
+    "name": "MYCORNER",
+    "address": "Av. del Consell de la Terra, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 423,
+    "name": "Quarantuno Pizzería Escaldes",
+    "address": "Av. Carlemany, 53, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376838127"
+  },
+  {
+    "id": 424,
+    "name": "0% Gluten | Andorra",
+    "address": "Centre Comercial Illa Carlemany - Planta 0, Av. Carlemany, 69, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376681368"
+  },
+  {
+    "id": 425,
+    "name": "PRAT DEL ROURE",
+    "address": "Centre caldea inuu 1piso, Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376891889"
+  },
+  {
+    "id": 426,
+    "name": "Casa Vitoria Andorra - Cafeteria Restaurant ✅",
+    "address": "Av Fener 24, Local, B3, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376747666"
+  },
+  {
+    "id": 427,
+    "name": "Bar Restaurant SEVILLA",
+    "address": "Botigues Molines, Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376846046"
+  },
+  {
+    "id": 428,
+    "name": "Granja Pacífic",
+    "address": "Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800999"
+  },
+  {
+    "id": 429,
+    "name": "Monkeys Burgers \u0026 drinks",
+    "address": "Av. Carlemany, 28, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376870470"
+  },
+  {
+    "id": 430,
+    "name": "Burger Brothers Escaldes",
+    "address": "Carrer Isabel Sandy, 3, local 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376867570"
+  },
+  {
+    "id": 431,
+    "name": "Artic Shisha Andorra",
+    "address": "Camí d'Ensucaranes, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376823390"
+  },
+  {
+    "id": 432,
+    "name": "Restaurant BLU",
+    "address": "Av. Esteve Albert, 3, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376845777"
+  },
+  {
+    "id": 433,
+    "name": "Siam Shiki",
+    "address": "Av. Esteve Albert, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376625700"
+  },
+  {
+    "id": 434,
+    "name": "Bistrot Andorra",
+    "address": "Av. Carlemany, 44, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 435,
+    "name": "EL TURKO KEBAB PIZZERIA",
+    "address": "Av. Carlemany, 70 Centre Comercial Illa Carlemany Planta 2, local 6, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376687070"
+  },
+  {
+    "id": 436,
+    "name": "Restaurant De Productes Italians",
+    "address": "Passeig Font, Passatge Antònia Font Caminal, Local 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376807050"
+  },
+  {
+    "id": 437,
+    "name": "Sushimore Andorra - Food Casual",
+    "address": "Carrer del Fener, 16, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376864964"
+  },
+  {
+    "id": 438,
+    "name": "Burger King",
+    "address": "Av. del Pessebre, 36, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820840"
+  },
+  {
+    "id": 439,
+    "name": "Bar Orelles",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376867490"
+  },
+  {
+    "id": 440,
+    "name": "OSO OSO Restaurant",
+    "address": "Passeig de l'Arnaldeta de Caboet, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376829029"
+  },
+  {
+    "id": 441,
+    "name": "PAELLAS Y PAELLOS Andorra",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376863190"
+  },
+  {
+    "id": 442,
+    "name": "Andorra",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376861613"
+  },
+  {
+    "id": 443,
+    "name": "Manà GastroBar",
+    "address": "Avd. de les Escoles nº25, AD700, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 444,
+    "name": "Restaurante 120",
+    "address": "Av. Carlemany, 53, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376814766"
+  },
+  {
+    "id": 445,
+    "name": "Knowmad Andorra",
+    "address": "Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376868086"
+  },
+  {
+    "id": 446,
+    "name": "Marquet Gourmeterie",
+    "address": "Av. de les Escoles, 12, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 447,
+    "name": "The Lobby Bar by Daguisa Hotels",
+    "address": "Av. Carlemany, 67, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376810021"
+  },
+  {
+    "id": 448,
+    "name": "Pizzeria Cristo's",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376812512"
+  },
+  {
+    "id": 449,
+    "name": "Bar-Restaurant La Gondola",
+    "address": "Carrer del Fener, 17, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376877153"
+  },
+  {
+    "id": 450,
+    "name": "Enrique Tomás PERNIL-TAPES-VI",
+    "address": "Carrer Copríncep François Mitterrand, 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376828667"
+  },
+  {
+    "id": 451,
+    "name": "Ginza 41 Sushi \u0026 Robata",
+    "address": "Av. Carlemany, 59, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376886269"
+  },
+  {
+    "id": 452,
+    "name": "Bar Restaurant RIAU",
+    "address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376813200"
+  },
+  {
+    "id": 453,
+    "name": "Restaurant Aquàtic",
+    "address": "Av. Carlemany, 58, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 454,
+    "name": "Hotel Roc Blanc",
+    "address": "Av. Carlemany, 93, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376808393"
+  },
+  {
+    "id": 455,
+    "name": "RESTAURANT LA NOVA FORQUILLA",
+    "address": "Av. del Consell de la Terra, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376823200"
+  },
+  {
+    "id": 456,
+    "name": "EL NOU PICA PICA",
+    "address": "Carrer Santa Anna, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376728928"
+  },
+  {
+    "id": 457,
+    "name": "Restaurant Plat'In",
+    "address": "Av. Fiter i Rossell, 33, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376840470"
+  },
+  {
+    "id": 458,
+    "name": "Pans \u0026 Company",
+    "address": "Carrer de la Unió, 13, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376828533"
+  },
+  {
+    "id": 459,
+    "name": "CAFETERIA EUREKA",
+    "address": "Plaça Coprínceps, 5, bjs, Plaça Coprínceps, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376871475"
+  },
+  {
+    "id": 460,
+    "name": "Bar Engordany",
+    "address": "Carrer Josep Viladomat, 6, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376823308"
+  },
+  {
+    "id": 461,
+    "name": "Hamburguesa de la natura",
+    "address": "Carrer Santa Anna, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820912"
+  },
+  {
+    "id": 462,
+    "name": "Hotel Les Closes",
+    "address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376813969"
+  },
+  {
+    "id": 463,
+    "name": "BAR SALAMANCA",
+    "address": "Av. Carlemany, 81-75, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376865333"
+  },
+  {
+    "id": 464,
+    "name": "LA GORMANDERIA II",
+    "address": "Carrer Sant Antoni, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376824075"
+  },
+  {
+    "id": 465,
+    "name": "GRANJA MUSSOL",
+    "address": "Carrer de la Unió, 11, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376869113"
+  },
+  {
+    "id": 466,
+    "name": "Restaurant 120 | Andorra la Vella",
+    "address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376802930"
+  },
+  {
+    "id": 467,
+    "name": "GRANJA ROSER",
+    "address": "Av. Carlemany, 36, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376819969"
+  },
+  {
+    "id": 468,
+    "name": "LA MAISON EN CHOCOLAT",
+    "address": "Carrer Sant Antoni, 5, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376824552"
+  },
+  {
+    "id": 469,
+    "name": "Barbakun",
+    "address": "Av. Carlemany, 81-75, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376865333"
+  },
+  {
+    "id": 470,
+    "name": "Hotel Tudel",
+    "address": "Carrer Nou, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376846847"
+  },
+  {
+    "id": 471,
+    "name": "Alta Taberna Aires Gourmet",
+    "address": "Carrer Isabel Sandy, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376837537"
+  },
+  {
+    "id": 472,
+    "name": "Centre Comercial Illa Carlemany",
+    "address": "Carrer de l'Aigüeta, AD500 Andorra la Vella, Andorra",
+    "phone": "+376860199"
+  },
+  {
+    "id": 473,
+    "name": "Tourist information center",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376892000"
+  },
+  {
+    "id": 474,
+    "name": "Happy Pills",
+    "address": "Carrer Prat de la Creu, 8, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 475,
+    "name": "The Shopping Mile",
+    "address": "the ground, Centro Comercial ILLA CARLEMANY, AD700,2nd floor above, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376833133"
+  },
+  {
+    "id": 476,
+    "name": "cf5590.tecob.com — Coming Soon",
+    "address": "Av. Meritxell, 96, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 477,
+    "name": "Duty Free",
+    "address": "Av. Carlemany, 22, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 478,
+    "name": "MINISO Andorra",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376892000"
+  },
+  {
+    "id": 479,
+    "name": "The North Face Andorra",
+    "address": "Plaça Coprínceps, 6, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+33670176392"
+  },
+  {
+    "id": 480,
+    "name": "Parking Centre Comercial Illa Carlemany",
+    "address": "Av. Carlemany Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800816"
+  },
+  {
+    "id": 481,
+    "name": "Opportunities",
+    "address": "Av. Carlemany, 60-62, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376360582"
+  },
+  {
+    "id": 482,
+    "name": "Pollyanna Dona",
+    "address": "Av. Dr. Mitjavila, 31, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 483,
+    "name": "Swarovski",
+    "address": "Av. Carlemany, 124, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376877600"
+  },
+  {
+    "id": 484,
+    "name": "G-Star RAW Store",
+    "address": "Av. Esteve Albert, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376867000"
+  },
+  {
+    "id": 485,
+    "name": "MANGO MAN",
+    "address": "Av. Carlemany 70 Centre Comercial Illa Carlemany P1 local 7, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879305"
+  },
+  {
+    "id": 486,
+    "name": "Cellini",
+    "address": "Centre Comercial illa carlemany, Av carlemany 70 3a planta, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376727374"
+  },
+  {
+    "id": 487,
+    "name": "Quars Escaldes II",
+    "address": "Av. Carlemany, 95, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376803140"
+  },
+  {
+    "id": 488,
+    "name": "Centre Júlia",
+    "address": "Carrer dels Paraires, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800863"
+  },
+  {
+    "id": 489,
+    "name": "EMPARK Escaldes Centre",
+    "address": "Av. del Pont de la Tosca, 25, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376874200"
+  },
+  {
+    "id": 490,
+    "name": "HUGO BOSS - VIA MODA",
+    "address": "Av. Carlemany, 70 Centre Comercial Illa Carlemany P1 local 13, AD700 Escaldes-Engordany, Andorra",
+    "phone": "70113700"
+  },
+  {
+    "id": 491,
+    "name": "Era Verda",
+    "address": "Av. Carlemany, 70 Centre Comercial Illa Carlemany PB, local, 19, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879346"
+  },
+  {
+    "id": 492,
+    "name": "HUGO BOSS - VIA MODA",
+    "address": "Carrer Copríncep François Mitterrand, 24, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376829899"
+  },
+  {
+    "id": 493,
+    "name": "Era Verda",
+    "address": "Av. Carlemany, 68, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376824717"
+  },
+  {
+    "id": 494,
+    "name": "Helly Hansen Andorra",
+    "address": "Av. Carlemany 69 Centre Comercial Illa Carlemany - Pta. B, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376828717"
+  },
+  {
+    "id": 495,
+    "name": "Biocoop Andorra",
+    "address": "Plaça Coprínceps, 1, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376863030"
+  },
+  {
+    "id": 496,
+    "name": "Caprabo Illa Carlemany",
+    "address": "Av. Carlemany Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800604"
+  },
+  {
+    "id": 497,
+    "name": "Tezenis",
+    "address": "Av. de les Escoles, 2, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376802255"
+  },
+  {
+    "id": 498,
+    "name": "Viladomat Active",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+37618000259"
+  },
+  {
+    "id": 499,
+    "name": "OUTLET SPORTECH",
+    "address": "Av. Fiter i Rossell, 23, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376845368"
+  },
+  {
+    "id": 500,
+    "name": "Perfumeria Júlia",
+    "address": "Av. Meritxell, 11, AD500 Andorra la Vella, Andorra",
+    "phone": "+376880000"
+  },
+  {
+    "id": 501,
+    "name": "LEVI'S ILLA - VIA MODA",
+    "address": "Av. Carlemany, 60, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376874934"
+  },
+  {
+    "id": 502,
+    "name": "Boutique Ivone",
+    "address": "Av. Carlemany 70 Centre Comercial Illa Carlemany PB local 21, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879314"
+  },
+  {
+    "id": 503,
+    "name": "Wi Fi tienda electrónica",
+    "address": "Av. Carlemany, 67, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376346230"
+  },
+  {
+    "id": 504,
+    "name": "LIU·JO - VIA MODA",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879330"
+  },
+  {
+    "id": 505,
+    "name": "Quars HH Escaldes. Cartier /TAG Heuer / Hamilton /Seiko/ Grand Seiko",
+    "address": "Av. Carlemany, 71, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376892200"
+  },
+  {
+    "id": 506,
+    "name": "SUPERMERCAT DIAGONAL ESCALDES-ENGORDANY",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376827047"
+  },
+  {
+    "id": 507,
+    "name": "Pyrénées Andorra",
+    "address": "Av Carlemany 70 Local C09, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376868694"
+  },
+  {
+    "id": 508,
+    "name": "Boutique Nespresso Illa Carlemany",
+    "address": "Av. Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 509,
+    "name": "Oakley Andorra",
+    "address": "Avinguda Carlemany 70, Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376802470"
+  },
+  {
+    "id": 510,
+    "name": "Centre d'Art d'Escaldes-Engordany (CAEE)",
+    "address": "Carrer dels Paraires, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800918"
+  },
+  {
+    "id": 511,
+    "name": "Farmàcia Galeno Illa",
+    "address": "Av. Carlemany Centre Comercial Illa Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800861"
+  },
+  {
+    "id": 512,
+    "name": "Di Milano",
+    "address": "Av. de les Escoles, 28, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376329199"
+  },
+  {
+    "id": 513,
+    "name": "Pollyanna Home\u0026Dona",
+    "address": "Av. Carlemany 70 PB, local, 22, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879320"
+  },
+  {
+    "id": 514,
+    "name": "LA GELATERIA ITALIANA",
+    "address": "Carrer del Fener, 41, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820525"
+  },
+  {
+    "id": 515,
+    "name": "Relojería en Andorra",
+    "address": "Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376827336"
+  },
+  {
+    "id": 516,
+    "name": "JOTT ANDORRA",
+    "address": "Av. de les Escoles, 28, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376329199"
+  },
+  {
+    "id": 517,
+    "name": "NAPAPIJRI - VIA MODA",
+    "address": "Av. Carlemany 70 PB, local, 22, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879320"
+  },
+  {
+    "id": 518,
+    "name": "Hunter by Yorky´s",
+    "address": "Carrer Copríncep François Mitterrand, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376827336"
+  },
+  {
+    "id": 519,
+    "name": "Centre Porsche Andorra",
+    "address": "Av. Carlemany, 60, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376874935"
+  },
+  {
+    "id": 520,
+    "name": "BENETTON 012 - VIA MODA",
+    "address": "Centre Comercial Illa Andorra, Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376862141"
+  },
+  {
+    "id": 521,
+    "name": "Burton Andorra Store",
+    "address": "Av. Carlemany, 115, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376892200"
+  },
+  {
+    "id": 522,
+    "name": "Pollyanna Seventeen II",
+    "address": "Centre Comercial Illa Carlemany, Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376879333"
+  },
+  {
+    "id": 523,
+    "name": "Casa Bergé",
+    "address": "Av. Carlemany, 97, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376803988"
+  },
+  {
+    "id": 524,
+    "name": "Rodand.com (DRIVER)",
+    "address": "Av Carlemany 68 70 72, AD700 Escaldes-Engordany, Andorra",
+    "phone": "687072700"
+  },
+  {
+    "id": 525,
+    "name": "Lechanbrugo",
+    "address": "Av. Carlemany, 95, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376824843"
+  },
+  {
+    "id": 526,
+    "name": "Saint Peter the Martyr de les Escaldes",
+    "address": "Ctra. de la Comella i de la Plana, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 527,
+    "name": "Museo Carmen Thyssen Andorra",
+    "address": "Plaça Santa Anna, 1, AD700 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 528,
+    "name": "Madriu-Perafita-Claror Valley",
+    "address": "Av. Esteve Albert, 4, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376692659"
+  },
+  {
+    "id": 529,
+    "name": "HIKING ROUTE: ITINERARI D'ENTREMESAIGÜES",
+    "address": "c/Prat de la creu 74-76 baixos, AD500 Andorra la Vella, Andorra",
+    "phone": "+376823000"
+  },
+  {
+    "id": 530,
+    "name": "Noblesa del temps - de Salvador Dalí",
+    "address": "Av. Carlemany, 37, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800800"
+  },
+  {
+    "id": 531,
+    "name": "Mirador Roc Del Quer",
+    "address": "Ctra. de Montaup, AD300 Ordino, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 532,
+    "name": "Farga Rossell",
+    "address": "Plaça de la Rotonda, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 533,
+    "name": "Casa de la Vall",
+    "address": "Carretera D'arinsal 16, ED. Joan DE Torne, AD400 Arinsal, Andorra",
+    "phone": "+376839200"
+  },
+  {
+    "id": 534,
+    "name": "National Automobile Museum",
+    "address": "Av. Carlemany, 107, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376827867"
+  },
+  {
+    "id": 535,
+    "name": "Les Escaldes",
+    "address": "Carrer del Fener, 14, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376802930"
+  },
+  {
+    "id": 536,
+    "name": "Club ENERGY - Bar Bowling Billiard Karaoke",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376866067"
+  },
+  {
+    "id": 537,
+    "name": "Naturlandia",
+    "address": "Estació Esquí, AD100 El Tarter, Andorra",
+    "phone": "+376890500"
+  },
+  {
+    "id": 538,
+    "name": "Església de Sant Cristòfol d'Anyós",
+    "address": "Ctra. de Cal Rosselló, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 539,
+    "name": "Pont de Sant Antoni de la Grella",
+    "address": "Pont Sassanat, AD700, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 540,
+    "name": "Centre Comercial Illa Carlemany",
+    "address": "Plaça Coprínceps, 8, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376820563"
+  },
+  {
+    "id": 541,
+    "name": "Saint Roman of les Bons",
+    "address": "Centre caldea inuu 1piso, Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376891889"
+  },
+  {
+    "id": 542,
+    "name": "Refugi dels Agols",
+    "address": "Passatge Antònia Font Caminal, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376813200"
+  },
+  {
+    "id": 543,
+    "name": "Església de Sant Antoni de la Grella",
+    "address": "Ctra. de l'Obac, 64, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376873400"
+  },
+  {
+    "id": 544,
+    "name": "Museu la Massana Còmic - Joan Pieras",
+    "address": "Av. Carlemany, 61-64, AD600 Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 545,
+    "name": "Museu de Roques al carrer",
+    "address": "Ctra. de la Comella i de la Plana, 29, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 546,
+    "name": "Església de Sant Martí de la Cortinada",
+    "address": "Coma de Ransol, 13, AD100 Canillo, Andorra",
+    "phone": "+376619101"
+  },
+  {
+    "id": 547,
+    "name": "Fideus",
+    "address": "Av. Carlemany, 93, AD400 Escaldes-Engordany, Andorra",
+    "phone": "+376808393"
+  },
+  {
+    "id": 548,
+    "name": "Grandvalira Mon(t) Màgic Canillo",
+    "address": "Canillo, AD100, AD100 Canillo, Andorra",
+    "phone": "+376891818"
+  },
+  {
+    "id": 549,
+    "name": "Caldea Spa",
+    "address": "24, Carrer del Fener, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376861008"
+  },
+  {
+    "id": 550,
+    "name": "Roc del Quer",
+    "address": "Parc de la Mola, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376800999"
+  },
+  {
+    "id": 551,
+    "name": "Orri del Cubil",
+    "address": "Av. Meritxell, 73, AD500 Andorra la Vella, Andorra",
+    "phone": "+376827117"
+  },
+  {
+    "id": 552,
+    "name": "Casa Lacruz",
+    "address": "Plaça de Les Fontetes, AD400 La Massana, Andorra",
+    "phone": "+376838919"
+  },
+  {
+    "id": 553,
+    "name": "Hotel Panorama",
+    "address": "El Tarter, AD100 Canillo, Andorra",
+    "phone": "+376891818"
+  },
+  {
+    "id": 554,
+    "name": "Refugi de Fontverd",
+    "address": "Carrer Major, AD500 Santa Coloma, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 555,
+    "name": "Mirador de Palomera",
+    "address": "Av. Carlemany, 70, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376892000"
+  },
+  {
+    "id": 556,
+    "name": "Santa Coloma",
+    "address": "Carretera de la Rabassa Km. 8 Juberri, AD600 Sant Julià de Lòria, Andorra",
+    "phone": "+376741444"
+  },
+  {
+    "id": 557,
+    "name": "Mas de Ribafeta",
+    "address": "Av. del Consell de la Terra, 10, AD700 Escaldes-Engordany, Andorra",
+    "phone": "+376722200"
+  },
+  {
+    "id": 558,
+    "name": "FOURTEEN RESTAURANT",
+    "address": "Despatx 401, Av. Carlemany, 68, AD300 Escaldes-Engordany, Andorra",
+    "phone": "40168300"
+  },
+  {
+    "id": 559,
+    "name": "Le Petit Train Jaune",
+    "address": "Ctra. de la Caubella, 1, AD400 La Massana, Andorra",
+    "phone": "+376878001"
+  },
+  {
+    "id": 560,
+    "name": "CASA CANUT botiga",
+    "address": "Av. de Joan Martí, 64, AD200 Encamp, Andorra",
+    "phone": "+376832266"
+  },
+  {
+    "id": 561,
+    "name": "Ordino",
+    "address": "Carretera de Arinsal, 5, AD400 Arinsal, Andorra",
+    "phone": "+376837111"
+  },
+  {
+    "id": 562,
+    "name": "Espai Ceretània",
+    "address": "Av. Sant Joan de Caselles, S/n, 08784, Andorra",
+    "phone": "+376753600"
+  },
+  {
+    "id": 563,
+    "name": "Club de Golf de La Cerdanya",
+    "address": "Urb. Comella Parc, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 564,
+    "name": "Museu Diocesà d’Urgell",
+    "address": "Carrer dels Cavallers, 2, AD200 Encamp, Andorra",
+    "phone": "+376833551"
+  },
+  {
+    "id": 565,
+    "name": "Aqueduct of Segovia",
+    "address": "Carretera d'Engolasters, Km. 6, 5, Escaldes-Engordany, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 566,
+    "name": "ESPORTS SANT MORITZ",
+    "address": "Sant Miquel D'engolasters, Engolasters, Andorra",
+    "phone": "+376890881"
+  },
+  {
+    "id": 567,
+    "name": "Casa Museu Cal Gerrer",
+    "address": "Parc Central, AD500, AD500 Andorra la Vella, Andorra",
+    "phone": ""
+  },
+  {
+    "id": 568,
+    "name": "La Seu d'Urgell",
+    "address": "Plaça Carlemany nº 4 Edifici del Telecabina 2a planta, AD100 Canillo, Andorra",
+    "phone": "+376753637"
+  }
 ]

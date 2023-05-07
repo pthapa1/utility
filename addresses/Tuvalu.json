@@ -1,140 +1,140 @@
 [
- {
-  "id": 1,
-  "name": "Filamona hotel",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 2,
-  "name": "Funafuti Lagoon Hotel",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": "+6887004012"
- },
- {
-  "id": 3,
-  "name": "Esfam Lodge",
-  "Address": "Vaiaku side, Funafuti., Fongafale, Tuvalu",
-  "phone": "+68820910"
- },
- {
-  "id": 4,
-  "name": "Warmasiri lodge",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": "+68820911"
- },
- {
-  "id": 5,
-  "name": "Hideaway Guesthouse, Tuvalu",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": "+918689860111"
- },
- {
-  "id": 6,
-  "name": "Afelita",
-  "Address": "Te Auala O Fongafale, Vaiaku, Tuvalu",
-  "phone": "+68820592"
- },
- {
-  "id": 7,
-  "name": "Fripay BBQ",
-  "Address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
-  "phone": "+68820146"
- },
- {
-  "id": 8,
-  "name": "3Ts",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 9,
-  "name": "Sue's Kitchen",
-  "Address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 10,
-  "name": "Blue Ocean Restaurant",
-  "Address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 11,
-  "name": "Nangs",
-  "Address": "Fongafale, Tuvalu",
-  "phone": "+31623578336"
- },
- {
-  "id": 12,
-  "name": "Halavai Restaurant",
-  "Address": "Amatuku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 13,
-  "name": "Ocean Pub Bar",
-  "Address": "Te Auala O Valaku, Vaiaku, Tuvalu",
-  "phone": "+6285716230810"
- },
- {
-  "id": 14,
-  "name": "TechSpot Internet Cafe",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 15,
-  "name": "Chez Imogan",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": "+918689860111"
- },
- {
-  "id": 16,
-  "name": "3Ts Wine and Dine",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": "+6887004012"
- },
- {
-  "id": 17,
-  "name": "Mika",
-  "Address": "Te Auala O Fongafale, Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 18,
-  "name": "Hideaway Guesthouse, Tuvalu",
-  "Address": "Te Auala O Tuvalu, Funafuti, Te Auala O Tuvalu, Vaiaku, Tuvalu",
-  "phone": "+6887105307"
- },
- {
-  "id": 19,
-  "name": "Tavita",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 20,
-  "name": "SMMT Lodge",
-  "Address": "Te Auala O Valaku, Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 21,
-  "name": "Cafetera hospital",
-  "Address": "Vaiaku, Tuvalu",
-  "phone": "+688900111"
- },
- {
-  "id": 22,
-  "name": "Warmasiri lodge",
-  "Address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
-  "phone": ""
- },
- {
-  "id": 23,
-  "name": "Funafuti Lagoon Hotel",
-  "Address": "Te Auala O Valaku, Vaiaku, Tuvalu",
-  "phone": ""
- }
+  {
+    "id": 1,
+    "name": "Filamona hotel",
+    "address": "Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 2,
+    "name": "Funafuti Lagoon Hotel",
+    "address": "Vaiaku, Tuvalu",
+    "phone": "+6887004012"
+  },
+  {
+    "id": 3,
+    "name": "Esfam Lodge",
+    "address": "Vaiaku side, Funafuti., Fongafale, Tuvalu",
+    "phone": "+68820910"
+  },
+  {
+    "id": 4,
+    "name": "Warmasiri lodge",
+    "address": "Vaiaku, Tuvalu",
+    "phone": "+68820911"
+  },
+  {
+    "id": 5,
+    "name": "Hideaway Guesthouse, Tuvalu",
+    "address": "Vaiaku, Tuvalu",
+    "phone": "+918689860111"
+  },
+  {
+    "id": 6,
+    "name": "Afelita",
+    "address": "Te Auala O Fongafale, Vaiaku, Tuvalu",
+    "phone": "+68820592"
+  },
+  {
+    "id": 7,
+    "name": "Fripay BBQ",
+    "address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
+    "phone": "+68820146"
+  },
+  {
+    "id": 8,
+    "name": "3Ts",
+    "address": "Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 9,
+    "name": "Sue's Kitchen",
+    "address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 10,
+    "name": "Blue Ocean Restaurant",
+    "address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 11,
+    "name": "Nangs",
+    "address": "Fongafale, Tuvalu",
+    "phone": "+31623578336"
+  },
+  {
+    "id": 12,
+    "name": "Halavai Restaurant",
+    "address": "Amatuku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 13,
+    "name": "Ocean Pub Bar",
+    "address": "Te Auala O Valaku, Vaiaku, Tuvalu",
+    "phone": "+6285716230810"
+  },
+  {
+    "id": 14,
+    "name": "TechSpot Internet Cafe",
+    "address": "Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 15,
+    "name": "Chez Imogan",
+    "address": "Vaiaku, Tuvalu",
+    "phone": "+918689860111"
+  },
+  {
+    "id": 16,
+    "name": "3Ts Wine and Dine",
+    "address": "Vaiaku, Tuvalu",
+    "phone": "+6887004012"
+  },
+  {
+    "id": 17,
+    "name": "Mika",
+    "address": "Te Auala O Fongafale, Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 18,
+    "name": "Hideaway Guesthouse, Tuvalu",
+    "address": "Te Auala O Tuvalu, Funafuti, Te Auala O Tuvalu, Vaiaku, Tuvalu",
+    "phone": "+6887105307"
+  },
+  {
+    "id": 19,
+    "name": "Tavita",
+    "address": "Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 20,
+    "name": "SMMT Lodge",
+    "address": "Te Auala O Valaku, Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 21,
+    "name": "Cafetera hospital",
+    "address": "Vaiaku, Tuvalu",
+    "phone": "+688900111"
+  },
+  {
+    "id": 22,
+    "name": "Warmasiri lodge",
+    "address": "Te Auala O Tuvalu, Vaiaku, Tuvalu",
+    "phone": ""
+  },
+  {
+    "id": 23,
+    "name": "Funafuti Lagoon Hotel",
+    "address": "Te Auala O Valaku, Vaiaku, Tuvalu",
+    "phone": ""
+  }
 ]
