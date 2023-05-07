@@ -3,1242 +3,1449 @@
     "id": 1,
     "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
     "address": "GW, Avenida Francisco Mendes, 12 1100, Guinea-Bissau",
-    "phone": "+245956053270"
+    "phone": "+245956053270",
+    "country-code": "GN"
   },
   {
     "id": 2,
     "name": "Residencial Coimbra",
     "address": "Cp 285, Bissau, Guinea-Bissau",
-    "phone": "+2455803004"
+    "phone": "+2455803004",
+    "country-code": "GN"
   },
   {
     "id": 3,
     "name": "Hotel CEIBA",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966568526"
+    "phone": "+245966568526",
+    "country-code": "GN"
   },
   {
     "id": 4,
     "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245969189292"
+    "phone": "+245969189292",
+    "country-code": "GN"
   },
   {
     "id": 5,
     "name": "Hotel Royal Bissau",
     "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
+    "phone": "+245955803000",
+    "country-code": "GN"
   },
   {
     "id": 6,
-    "name": "Hala Hotel & Aqua Park",
+    "name": "Hala Hotel \u0026 Aqua Park",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966568526"
+    "phone": "+245966568526",
+    "country-code": "GN"
   },
   {
     "id": 7,
     "name": "Residencial Coimbra",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956602160"
+    "phone": "+245956602160",
+    "country-code": "GN"
   },
   {
     "id": 8,
     "name": "Dunia Hôtel Bissau",
     "address": "Avenue Combatante Libertade Patria, Bissau, Guinea-Bissau",
-    "phone": "+2455650000"
+    "phone": "+2455650000",
+    "country-code": "GN"
   },
   {
     "id": 9,
     "name": "Casa Cacheu low cost lodje",
     "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
+    "phone": "+245955803000",
+    "country-code": "GN"
   },
   {
     "id": 10,
     "name": "Hotel Lisboa Bissau",
     "address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 11,
     "name": "Hôtel Império",
     "address": "Segunda entrada de Fatima, Safim, Guinea-Bissau",
-    "phone": "+41763730126"
+    "phone": "+41763730126",
+    "country-code": "GN"
   },
   {
     "id": 12,
     "name": "Embalo Aparthotel",
     "address": "Bario Ajuda, Manel Yago GW, Bissau 1100, Guinea-Bissau",
-    "phone": "+245966396099"
+    "phone": "+245966396099",
+    "country-code": "GN"
   },
   {
     "id": 13,
     "name": "Hotel Sol-Mar",
     "address": "5-6, Bissau, Guinea-Bissau",
-    "phone": "+2456787117"
+    "phone": "+2456787117",
+    "country-code": "GN"
   },
   {
     "id": 14,
     "name": "Hotel Ancar",
     "address": "R De Bafata, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 15,
     "name": "Hôtel Malaika",
     "address": "Avenida Pansau Na Isna, nº1, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 16,
     "name": "Hotel do Ilheu de Kere",
     "address": "Avenida Pansau Na Isna, nº1, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 17,
     "name": "Hôtel Diarama",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955474777"
+    "phone": "+245955474777",
+    "country-code": "GN"
   },
   {
     "id": 18,
     "name": "Pensão Creola",
     "address": "Avenida Cidade de Lisboa, Bissau, Guinea-Bissau",
-    "phone": "+245955985170"
+    "phone": "+245955985170",
+    "country-code": "GN"
   },
   {
     "id": 19,
     "name": "Jordani",
     "address": "Arquipelago das Bijagos, Ilha de Keré, Guinea-Bissau",
-    "phone": "+245966993827"
+    "phone": "+245966993827",
+    "country-code": "GN"
   },
   {
     "id": 20,
     "name": "Aparthotel BADINCA",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956150866"
+    "phone": "+245956150866",
+    "country-code": "GN"
   },
   {
     "id": 21,
     "name": "Residencial Monte Alentejano",
     "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245955651255"
+    "phone": "+245955651255",
+    "country-code": "GN"
   },
   {
     "id": 22,
     "name": "Jordani",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955314952"
+    "phone": "+245955314952",
+    "country-code": "GN"
   },
   {
     "id": 23,
     "name": "Aparthotel Lobato",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+2456633031"
+    "phone": "+2456633031",
+    "country-code": "GN"
   },
   {
     "id": 24,
     "name": "The Safety Place",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 25,
     "name": "Hotel - Residência Proquil",
     "address": "Entrada Joao, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 26,
     "name": "Hotel Zurich",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+2453206004"
+    "phone": "+2453206004",
+    "country-code": "GN"
   },
   {
     "id": 27,
     "name": "Restaurante Papa Loca",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955382004"
+    "phone": "+245955382004",
+    "country-code": "GN"
   },
   {
     "id": 28,
     "name": "O Bistro",
     "address": "R. Eng. José Guedes Quinhones, Bissau, Guinea-Bissau",
-    "phone": "+245955389520"
+    "phone": "+245955389520",
+    "country-code": "GN"
   },
   {
     "id": 29,
     "name": "A Padeira Africana",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966131393"
+    "phone": "+245966131393",
+    "country-code": "GN"
   },
   {
     "id": 30,
     "name": "Restaurante Dom Bifanas",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955194278"
+    "phone": "+245955194278",
+    "country-code": "GN"
   },
   {
     "id": 31,
-    "name": "Oasis Restaurante & Churrasqueira",
+    "name": "Oasis Restaurante \u0026 Churrasqueira",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966604312"
+    "phone": "+245966604312",
+    "country-code": "GN"
   },
   {
     "id": 32,
     "name": "Lá Rosa restaurant مطعم لبناني عربي",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966306283"
+    "phone": "+245966306283",
+    "country-code": "GN"
   },
   {
     "id": 33,
     "name": "Coqueiros Bissau",
     "address": "Rua Osvaldo Vieira, Bissau, Guinea-Bissau",
-    "phone": "+245956103559"
+    "phone": "+245956103559",
+    "country-code": "GN"
   },
   {
     "id": 34,
-    "name": "Almagui Restaurante & Apart-Hotel",
+    "name": "Almagui Restaurante \u0026 Apart-Hotel",
     "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": "+245966202174"
+    "phone": "+245966202174",
+    "country-code": "GN"
   },
   {
     "id": 35,
     "name": "Mia Terra",
     "address": "Rua Sporting, Bissau, Guinea-Bissau",
-    "phone": "+245955888111"
+    "phone": "+245955888111",
+    "country-code": "GN"
   },
   {
     "id": 36,
     "name": "BAR LABA LABAS",
     "address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 37,
-    "name": "BeniBella Resto&Bar Pub",
+    "name": "BeniBella Resto\u0026Bar Pub",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 38,
     "name": "Living Restaurant Bar",
     "address": "Rua 2, Bissau, Guinea-Bissau",
-    "phone": "+245955909559"
+    "phone": "+245955909559",
+    "country-code": "GN"
   },
   {
     "id": 39,
     "name": "Pastelaria Imperio",
     "address": "Prábis, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 40,
     "name": "Gã Mela",
     "address": "Rua Marien Nguabi Praça Bissau, Bissau, Guinea-Bissau",
-    "phone": "+245955717962"
+    "phone": "+245955717962",
+    "country-code": "GN"
   },
   {
     "id": 41,
     "name": "Restaurante Dona Fernanda",
     "address": "140, Avenida Francisco Mendes, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 42,
     "name": "Plack 2",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 43,
-    "name": "Kais Snack & Quick Food",
+    "name": "Kais Snack \u0026 Quick Food",
     "address": "Avenida Amilcar Cabral, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 44,
     "name": "Pastelaria Imperio",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955498276"
+    "phone": "+245955498276",
+    "country-code": "GN"
   },
   {
     "id": 45,
     "name": "Restaurante Daru Salam",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245955243730"
+    "phone": "+245955243730",
+    "country-code": "GN"
   },
   {
     "id": 46,
     "name": "Restaurante Libanes",
     "address": "R. Ermelinda Gomes, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 47,
     "name": "ponto da esfiha",
     "address": "GW, Bissau 9222, Guinea-Bissau",
-    "phone": "+245955218398"
+    "phone": "+245955218398",
+    "country-code": "GN"
   },
   {
     "id": 48,
     "name": "Handi - Taste of indian cuisine",
     "address": "R9X8+JPG Ponta Neto, Bissau, Guinea-Bissau",
-    "phone": "+245956393039"
+    "phone": "+245956393039",
+    "country-code": "GN"
   },
   {
     "id": 49,
     "name": "Restaurante Hugo's",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 50,
     "name": "Restaurante Ali Baba",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 51,
     "name": "BFC - Bissau Fried Chicken",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 52,
     "name": "Restaurante Colete Encarnado",
     "address": "Bandim 1, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 53,
     "name": "Restaurante Alentejano",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 54,
     "name": "245",
     "address": "GW, Rua de, Bissau 2685, Guinea-Bissau",
-    "phone": "+245955572324"
+    "phone": "+245955572324",
+    "country-code": "GN"
   },
   {
     "id": 55,
     "name": "Kintal do Tábuas",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955474777"
+    "phone": "+245955474777",
+    "country-code": "GN"
   },
   {
     "id": 56,
     "name": "Rasoi, restaurant and beverages",
     "address": "Rotunda de Antula, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 57,
     "name": "Casa N'baye",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955638764"
+    "phone": "+245955638764",
+    "country-code": "GN"
   },
   {
     "id": 58,
-    "name": "Original restaurant, bar & lounge",
+    "name": "Original restaurant, bar \u0026 lounge",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 59,
     "name": "Garden Club",
     "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 60,
     "name": "Adega do Loureiro",
     "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245955477283"
+    "phone": "+245955477283",
+    "country-code": "GN"
   },
   {
     "id": 61,
     "name": "Venezuela",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 62,
     "name": "Bar Feminina",
     "address": "CASSA BAYE FALL CASSA BAYE FALL 🇬🇼 GW, 7680, Guinea-Bissau",
-    "phone": "+245956393036"
+    "phone": "+245956393036",
+    "country-code": "GN"
   },
   {
     "id": 63,
     "name": "Cantinho da Mana Daia",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955288516"
+    "phone": "+245955288516",
+    "country-code": "GN"
   },
   {
     "id": 64,
     "name": "Bar NTB",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 65,
     "name": "Restaurant Sénégal-Bissau",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956413302"
+    "phone": "+245956413302",
+    "country-code": "GN"
   },
   {
     "id": 66,
     "name": "Comida local",
     "address": "5-6, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 67,
     "name": "Bar tabanka",
     "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 68,
     "name": "Restaurante Bar Caribenho",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 69,
     "name": "Café Delicioso (Cao de Mansor)",
     "address": "Avenida Francisco Mendes, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 70,
     "name": "Gmetal Restaurant",
     "address": "Chez Amina poisson, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 71,
     "name": "Mama Mia",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 72,
     "name": "Gelataria N'Té",
     "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245955586927"
+    "phone": "+245955586927",
+    "country-code": "GN"
   },
   {
     "id": 73,
     "name": "Restaurante Bantaba",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955829362"
+    "phone": "+245955829362",
+    "country-code": "GN"
   },
   {
     "id": 74,
     "name": "Local restaurant",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955179838"
+    "phone": "+245955179838",
+    "country-code": "GN"
   },
   {
     "id": 75,
     "name": "Casa M'Baye",
     "address": "Unnamed Road, Bissau, Guinea-Bissau",
-    "phone": "+245955178417"
+    "phone": "+245955178417",
+    "country-code": "GN"
   },
   {
     "id": 76,
     "name": "Cantinho Carla",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 77,
     "name": "Café Lisboa",
     "address": "Rua de Sao Tome, Bissau, Guinea-Bissau",
-    "phone": "+245955385893"
+    "phone": "+245955385893",
+    "country-code": "GN"
   },
   {
     "id": 78,
     "name": "Oporto",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 79,
     "name": "Contentor do Zema",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955911510"
+    "phone": "+245955911510",
+    "country-code": "GN"
   },
   {
     "id": 80,
     "name": "Restaurante Dona Margarida",
     "address": "Praça de martires bissau, Bissau, Guinea-Bissau, Bissau, Guinea-Bissau",
-    "phone": "+245955121318"
+    "phone": "+245955121318",
+    "country-code": "GN"
   },
   {
     "id": 81,
     "name": "Restaurante Na Tabua",
     "address": "Avenida Francisco Mendes, Bissau, Guinea-Bissau",
-    "phone": "+245955283674"
+    "phone": "+245955283674",
+    "country-code": "GN"
   },
   {
     "id": 82,
     "name": "PETISQUEIRA A MANGUEIRA",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 83,
     "name": "Restaurante Tá-Mar",
     "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245955887741"
+    "phone": "+245955887741",
+    "country-code": "GN"
   },
   {
     "id": 84,
     "name": "Bar Sagres",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 85,
     "name": "Restaurante de Solange",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245956363552"
+    "phone": "+245956363552",
+    "country-code": "GN"
   },
   {
     "id": 86,
     "name": "Restauran Peeanan",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 87,
     "name": "Chez Amina poisson GB",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 88,
     "name": "M@GNIFO",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 89,
     "name": "Restaurante Dom Luis",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245955274457"
+    "phone": "+245955274457",
+    "country-code": "GN"
   },
   {
     "id": 90,
     "name": "Pizzaria ALLI",
     "address": "Rua de Angola, Bissau, Guinea-Bissau",
-    "phone": "+245955304998"
+    "phone": "+245955304998",
+    "country-code": "GN"
   },
   {
     "id": 91,
     "name": "Conqueiros Bar",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956206687"
+    "phone": "+245956206687",
+    "country-code": "GN"
   },
   {
     "id": 92,
     "name": "Bar do Zema",
     "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 93,
     "name": "apart-hotel nha terra",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": "+245955544449"
+    "phone": "+245955544449",
+    "country-code": "GN"
   },
   {
     "id": 94,
     "name": "Restaurante Bar Ferferi",
     "address": "Unnamed Road, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 95,
     "name": "Restaurante Bar Samaritana",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 96,
     "name": "CASA BAYE FALL",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 97,
     "name": "Quintal da Tábua",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": "+245955108609"
+    "phone": "+245955108609",
+    "country-code": "GN"
   },
   {
     "id": 98,
     "name": "Rei do Frango",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 99,
     "name": "Restaurante Banaga Banaga",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955347467"
+    "phone": "+245955347467",
+    "country-code": "GN"
   },
   {
     "id": 100,
     "name": "Tagua",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 101,
     "name": "Restaurant universidad",
     "address": "Rua Osvaldo Vieira, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 102,
     "name": "Oumar",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 103,
     "name": "Aparthotel BADINCA",
     "address": "Estrada da Granja do Pessube, Bissau, Guinea-Bissau",
-    "phone": "+245955904476"
+    "phone": "+245955904476",
+    "country-code": "GN"
   },
   {
     "id": 104,
     "name": "Tarrafe",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955209548"
+    "phone": "+245955209548",
+    "country-code": "GN"
   },
   {
     "id": 105,
     "name": "Sweet cultumie's",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956136060"
+    "phone": "+245956136060",
+    "country-code": "GN"
   },
   {
     "id": 106,
     "name": "M@GNIFICO",
     "address": "Avenida Cidade de Lisboa, Bissau, Guinea-Bissau",
-    "phone": "+245955985170"
+    "phone": "+245955985170",
+    "country-code": "GN"
   },
   {
     "id": 107,
     "name": "Confeitaria b.b.seide",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245956618497"
+    "phone": "+245956618497",
+    "country-code": "GN"
   },
   {
     "id": 108,
     "name": "Restaurante Bar Djabante",
     "address": "Rua de Angola, Bissau, Guinea-Bissau",
-    "phone": "+245956188896"
+    "phone": "+245956188896",
+    "country-code": "GN"
   },
   {
     "id": 109,
     "name": "Bar Coimbra",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 110,
     "name": "Padaria E Confitaria Kombe",
     "address": "praca dez de agosto, Bissau, Guinea-Bissau",
-    "phone": "+245955373763"
+    "phone": "+245955373763",
+    "country-code": "GN"
   },
   {
     "id": 111,
     "name": "Lanchonete Cidade de Deus",
     "address": "Rua Vitorino Costa, Bissau, Guinea-Bissau",
-    "phone": "+245965131775"
+    "phone": "+245965131775",
+    "country-code": "GN"
   },
   {
     "id": 112,
     "name": "Insonias restaurante pizzeria discoteca",
     "address": "Avenida Domingos Ramos, Bissau, Guinea-Bissau",
-    "phone": "+245956786758"
+    "phone": "+245956786758",
+    "country-code": "GN"
   },
   {
     "id": 113,
     "name": "Bar Londres",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 114,
     "name": "Orquídea",
     "address": "Rua Eduardo Mondlane, Bissau, Guinea-Bissau",
-    "phone": "+245956053889"
+    "phone": "+245956053889",
+    "country-code": "GN"
   },
   {
     "id": 115,
     "name": "Donuts Spot",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 116,
-    "name": "Pastelria & Resturante Aissatu",
+    "name": "Pastelria \u0026 Resturante Aissatu",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966606577"
+    "phone": "+245966606577",
+    "country-code": "GN"
   },
   {
     "id": 117,
     "name": "Gelataria Gellati",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955764041"
+    "phone": "+245955764041",
+    "country-code": "GN"
   },
   {
     "id": 118,
     "name": "Selfservice Ila e Jú",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966604942"
+    "phone": "+245966604942",
+    "country-code": "GN"
   },
   {
     "id": 119,
     "name": "Bar Tenta Sorte",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955764041"
+    "phone": "+245955764041",
+    "country-code": "GN"
   },
   {
     "id": 120,
     "name": "Motel and restaurant Kaliste",
     "address": "Rua Marien Nguabi Praça Bissau, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 121,
     "name": "BODEM",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955318277"
+    "phone": "+245955318277",
+    "country-code": "GN"
   },
   {
     "id": 122,
     "name": "Teditronic Guiné-Bissau",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 123,
     "name": "Santy Comercial",
     "address": "Rua 13, Bissau, Guinea-Bissau",
-    "phone": "+245955731717"
+    "phone": "+245955731717",
+    "country-code": "GN"
   },
   {
     "id": 124,
     "name": "Chapa de Bisaau",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 125,
     "name": "Centro Cultural Franco-Bissau-Guineense",
     "address": "Fort road, Bissau, Rajasthan 331027, India",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 126,
     "name": "Mercado de Bandim",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966066026"
+    "phone": "+245966066026",
+    "country-code": "GN"
   },
   {
     "id": 127,
     "name": "Farmácia Maimuna",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245966656000"
+    "phone": "+245966656000",
+    "country-code": "GN"
   },
   {
     "id": 128,
     "name": "Centro Artístico Juvenil",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 129,
     "name": "M.S.FOOTWEAR",
     "address": "VC23+CM8 Dalas,, marcado de bandim, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 130,
     "name": "Mercado de Caju",
     "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
+    "phone": "+245955803000",
+    "country-code": "GN"
   },
   {
     "id": 131,
     "name": "Bharat Niwar Center",
     "address": "Bolama, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 132,
     "name": "Centro Comercial Nina",
     "address": "Bissau, Rajasthan 331027, India",
-    "phone": "+917877065882"
+    "phone": "+917877065882",
+    "country-code": "GN"
   },
   {
     "id": 133,
     "name": "Dunia Hotel Bissau (Azalaï Hotel 24 de Setembro)",
     "address": "R. Bissau 55, 2845-069 Amora, Portugal",
-    "phone": "552845069"
+    "phone": "552845069",
+    "country-code": "GN"
   },
   {
     "id": 134,
     "name": "Centro Artístico Juvenil",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 135,
     "name": "Mercado Artesanal Bissau",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 136,
     "name": "Bissau-Velho",
     "address": "Fulacunda, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 137,
     "name": "Jornal Nô Pintcha",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955859940"
+    "phone": "+245955859940",
+    "country-code": "GN"
   },
   {
     "id": 138,
     "name": "Hôtel Diarama",
     "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": "+245955494435"
+    "phone": "+245955494435",
+    "country-code": "GN"
   },
   {
     "id": 139,
     "name": "España Cultural",
     "address": "Praia de Bruce Bijagos Islands, Bubaque, Guinea-Bissau",
-    "phone": "+34663177018"
+    "phone": "+34663177018",
+    "country-code": "GN"
   },
   {
     "id": 140,
     "name": "Kachikally Crocodile Pool",
     "address": "arfat masjid, Bissau, India",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 141,
     "name": "Wele-Nzas",
     "address": "ILOT DE KÉRÉ ARCHIPEL DES BIJAGOS, Biombo 1000, Guinea-Bissau",
-    "phone": "+245966794965"
+    "phone": "+245966794965",
+    "country-code": "GN"
   },
   {
     "id": 142,
     "name": "San Antonio de Palé",
     "address": "Bissau, Rajasthan 331027, India",
-    "phone": "63+557331027"
+    "phone": "63+557331027",
+    "country-code": "GN"
   },
   {
     "id": 143,
     "name": "Ghanghu Fort",
     "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245955651255"
+    "phone": "+245955651255",
+    "country-code": "GN"
   },
   {
     "id": 144,
     "name": "Luba",
     "address": "V96F+QRJ Bairro da Penha, Bissau, Guinea-Bissau",
-    "phone": "+245966976649"
+    "phone": "+245966976649",
+    "country-code": "GN"
   },
   {
     "id": 145,
     "name": "São Vicente",
     "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
+    "phone": "+245955803000",
+    "country-code": "GN"
   },
   {
     "id": 146,
     "name": "Jhunjhunu",
     "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245955651255"
+    "phone": "+245955651255",
+    "country-code": "GN"
   },
   {
     "id": 147,
     "name": "Fatehpur",
     "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
+    "phone": "+245955803000",
+    "country-code": "GN"
   },
   {
     "id": 148,
     "name": "Aparthotel Triton Bafatá",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 149,
     "name": "Apartments CUBURNEL",
     "address": "Unnamed Road, Bafatá, Guinea-Bissau",
-    "phone": "+245955201838"
+    "phone": "+245955201838",
+    "country-code": "GN"
   },
   {
     "id": 150,
     "name": "Hotel Triton",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": "+245955117945"
+    "phone": "+245955117945",
+    "country-code": "GN"
   },
   {
     "id": 151,
     "name": "Casa Zita",
     "address": "Rua Porto, Bafatá, Guinea-Bissau",
-    "phone": "+245966921690"
+    "phone": "+245966921690",
+    "country-code": "GN"
   },
   {
     "id": 152,
     "name": "Ponto de Encontro",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 153,
     "name": "Restaurant Muna",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 154,
     "name": "Restaurante Ponto de Encontro",
     "address": "AV-GUIANA, Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 155,
     "name": "Bar Samba",
     "address": "AV-GUIANA, Bafatá, Guinea-Bissau",
-    "phone": "+245955064458"
+    "phone": "+245955064458",
+    "country-code": "GN"
   },
   {
     "id": 156,
     "name": "Restaurante Mana Iva E Braima Zinho",
     "address": "Av.Brasil, Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 157,
     "name": "Centro Comercial Belsul",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 158,
     "name": "Mampata",
     "address": "Unnamed Road, Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 159,
     "name": "Hôtel Maimuna Capé",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 160,
     "name": "Centro Artístico Juvenil",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 161,
     "name": "Farim",
     "address": "Unnamed Road, Bafatá, Guinea-Bissau",
-    "phone": "+245955201838"
+    "phone": "+245955201838",
+    "country-code": "GN"
   },
   {
     "id": 162,
     "name": "Old Market",
     "address": "Fulacunda, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 163,
     "name": "Fort São José da Amura",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 164,
     "name": "Sao Domingos",
     "address": "Avenida da Unidade Africana, Bissau, Guinea-Bissau",
-    "phone": "+245955494435"
+    "phone": "+245955494435",
+    "country-code": "GN"
   },
   {
     "id": 165,
     "name": "Hotel karsa",
     "address": "Gabú, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 166,
     "name": "Hotel Vision",
     "address": "Gabú, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 167,
     "name": "Hotel CARSA",
     "address": "Rua de Gabú, Gabú, Guinea-Bissau",
-    "phone": "+245955195050"
+    "phone": "+245955195050",
+    "country-code": "GN"
   },
   {
     "id": 168,
     "name": "Apart Hotel Fado",
     "address": "Gabú, Guinea-Bissau",
-    "phone": "+245966305303"
+    "phone": "+245966305303",
+    "country-code": "GN"
   },
   {
     "id": 169,
     "name": "Hotel Karca",
     "address": "Unnamed Road, Gabú, Gabú, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 170,
     "name": "Hotel Hobbe",
     "address": "Gabú, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 171,
     "name": "Hotel HBC",
     "address": "Unnamed Road, Gabú, Guinea-Bissau",
-    "phone": "+245956260469"
+    "phone": "+245956260469",
+    "country-code": "GN"
   },
   {
     "id": 172,
     "name": "Restraunt CIJ",
     "address": "Bafatá, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 173,
     "name": "Hotel HBC",
     "address": "Gabú, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 174,
     "name": "Restaurante Palma D Ouro",
     "address": "Sintchan yomba Guinée.bissau région gabu setor, Sonaco, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 175,
     "name": "Gabu",
     "address": "Gabú, Guinea-Bissau",
-    "phone": "+245966305303"
+    "phone": "+245966305303",
+    "country-code": "GN"
   },
   {
     "id": 176,
     "name": "Restaurante Mana Iva E Braima Zinho",
     "address": "Avenida Pansau Na Isna, Bissau, Guinea-Bissau",
-    "phone": "+245956191428"
+    "phone": "+245956191428",
+    "country-code": "GN"
   },
   {
     "id": 177,
     "name": "Gabu",
     "address": "Gabú, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 178,
     "name": "Auberge Luzerne Ogo 3643768",
     "address": "Gabú, Guinea-Bissau",
-    "phone": "+245966241286"
+    "phone": "+245966241286",
+    "country-code": "GN"
   },
   {
     "id": 179,
     "name": "Gabu",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 180,
     "name": "Makasutu",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 181,
     "name": "Aparthotel Bagabaga Gemia",
     "address": "Canchungo, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 182,
     "name": "Aparthotel Napalach",
     "address": "GW, Rua, Cacheu 1000, Guinea-Bissau",
-    "phone": "+245956233715"
+    "phone": "+245956233715",
+    "country-code": "GN"
   },
   {
     "id": 183,
     "name": "Villa Sol",
     "address": "São Domingos, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 184,
     "name": "Hotel Baruju Ka Sabi",
     "address": "Canchungo, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 185,
     "name": "A part Hotel Baga Baga Gémea",
     "address": "GW, Avenida Francisco Mendes, 12 1100, Guinea-Bissau",
-    "phone": "+245956053270"
+    "phone": "+245956053270",
+    "country-code": "GN"
   },
   {
     "id": 186,
     "name": "Casa Cacheu low cost lodje",
     "address": "Canchungo, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 187,
     "name": "Nô Apartamento",
     "address": "Unnamed Road, São Domingos, Guinea-Bissau",
-    "phone": "+245966642205"
+    "phone": "+245966642205",
+    "country-code": "GN"
   },
   {
     "id": 188,
     "name": "Hotel Pereira",
     "address": "Rua Titina Sina, Canchungo, Guinea-Bissau",
-    "phone": "+245955597613"
+    "phone": "+245955597613",
+    "country-code": "GN"
   },
   {
     "id": 189,
     "name": "Aparthotel Amazônia",
     "address": "Bairro Pindingulo, Canchungo, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 190,
     "name": "Monaco hôtel",
     "address": "Bairro novo, Canchungo, Guinea-Bissau",
-    "phone": "+245955974888"
+    "phone": "+245955974888",
+    "country-code": "GN"
   },
   {
     "id": 191,
     "name": "Hotel Le Walkunda",
     "address": "Bario Ajuda, Manel Yago GW, Bissau 1100, Guinea-Bissau",
-    "phone": "+245966396099"
+    "phone": "+245966396099",
+    "country-code": "GN"
   },
   {
     "id": 192,
     "name": "LA CASA MANDELA",
     "address": "Canchungo, Guinea-Bissau",
-    "phone": "+245955234587"
+    "phone": "+245955234587",
+    "country-code": "GN"
   },
   {
     "id": 193,
     "name": "cap bay",
     "address": "São, Domingos, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 194,
     "name": "Résidence Adiamat",
     "address": "BISSAU, SANTA LUZIA AVENIDA PANSAO NA ISNA 0285, Guinea-Bissau",
-    "phone": "+245955803000"
+    "phone": "+245955803000",
+    "country-code": "GN"
   },
   {
     "id": 195,
     "name": "Cacheu",
     "address": "São Domingos, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 196,
     "name": "Restaurant Moussa",
     "address": "Unnamed Road, Canchungo, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 197,
     "name": "La Kaz A Jo",
     "address": "São Domingos, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 198,
     "name": "Parc national de Basse Casamance",
     "address": "Fulacunda, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 199,
     "name": "Sao Domingos",
     "address": "Cacheu, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 200,
     "name": "Aparthotel Bagabaga Gemia",
     "address": "Bairro novo, Canchungo, Guinea-Bissau",
-    "phone": "+245955974888"
+    "phone": "+245955974888",
+    "country-code": "GN"
   },
   {
     "id": 201,
     "name": "Hotel e Restaurante Mar Azul",
     "address": "30000, Quinhámel, Guinea-Bissau",
-    "phone": "+245955156467"
+    "phone": "+245955156467",
+    "country-code": "GN"
   },
   {
     "id": 202,
     "name": "Casa Canchungo",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 203,
     "name": "Canghungo",
     "address": "Unnamed Road, Canchungo, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 204,
     "name": "Canchungo",
     "address": "Bissau, Guinea-Bissau",
-    "phone": "+245955318277"
+    "phone": "+245955318277",
+    "country-code": "GN"
   },
   {
     "id": 205,
     "name": "Cufada Lagoons Natural Park",
     "address": "Avenida dos Combatentes da Liberdade da Pátria, Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 206,
     "name": "Centro Artístico Juvenil",
     "address": "Bissau, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   },
   {
     "id": 207,
     "name": "Cacheu",
     "address": "Fulacunda, Guinea-Bissau",
-    "phone": ""
+    "phone": "",
+    "country-code": "GN"
   }
 ]
