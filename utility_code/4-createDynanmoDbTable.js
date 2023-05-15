@@ -2,6 +2,13 @@ import { DynamoDBClient, CreateTableCommand } from '@aws-sdk/client-dynamodb';
 
 // create the client.
 const REGION = 'us-east-1';
+
+/*  Remove the ENDPOINT option and run `pn start` this should push the table to aws
+However this does not push any data of the table, for that you need to
+Read the items from the local DynamoDB table.
+Iterate through the items and use the AWS SDK's PutItemCommand or BatchWriteItemCommand
+to write the items to the AWS DynamoDB table */
+
 const ENDPOINT = 'http://localhost:8000';
 const ddbClient = new DynamoDBClient({ region: REGION, endpoint: ENDPOINT });
 
